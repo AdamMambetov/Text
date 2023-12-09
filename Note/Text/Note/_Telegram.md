@@ -17386,3 +17386,57 @@ https://moluch.ru/archive/301/68121/
 Для самых невнимательных я повторяю - мать детоубийца получила материнский капитал на КАЖДОГО из своих детей, потратив его на дом, где позже детей и убила. Возврату маткапитал не подлежит. Вот так.
 
 [С уважением, ОКМ](https://t.me/okmtelega)
+
+***
+
+---
+author: "[[00. Адам Мамбетов|Адам Мамбетов]]"
+source: "[Адам Мамбетов](https://t.me/Adammambetov)"
+---
+**Forwarded from [Адам Мамбетов](https://t.me/Adammambetov)**
+
+Списки с душой и стилем: Ваш путь к Jetpack Compose / Хабр
+https://habr.com/ru/companies/joydev/articles/777412/
+
+***
+
+---
+author: "[[00. Адам Мамбетов|Адам Мамбетов]]"
+source: "[Адам Мамбетов](https://t.me/Adammambetov)"
+---
+**Forwarded from [Адам Мамбетов](https://t.me/Adammambetov)**
+
+uninstallation - How to uninstall android system app programmatically? - Stack Overflow
+https://stackoverflow.com/questions/34398650/how-to-uninstall-android-system-app-programmatically
+
+***
+
+---
+author: "[[00. Адам Мамбетов|Адам Мамбетов]]"
+source: "[Адам Мамбетов](https://t.me/Adammambetov)"
+---
+**Forwarded from [Адам Мамбетов](https://t.me/Adammambetov)**
+
+https://youtu.be/PIW90DzjkGg?si=afaEl56sNFh2M8z6
+
+***
+
+---
+author: "[[00. Адам Мамбетов|Адам Мамбетов]]"
+source: "[Адам Мамбетов](https://t.me/Adammambetov)"
+---
+**Forwarded from [Адам Мамбетов](https://t.me/Adammambetov)**
+
+Хочу всё знать / Хабр
+https://habr.com/ru/articles/778500/
+
+***
+
+---
+author: "[[00. Адам Мамбетов|Адам Мамбетов]]"
+source: "[Адам Мамбетов](https://t.me/Adammambetov)"
+---
+**Forwarded from [Адам Мамбетов](https://t.me/Adammambetov)**
+
+Data projects
+https://intertino.it/booklink/
