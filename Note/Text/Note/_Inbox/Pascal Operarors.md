@@ -16,3 +16,30 @@ case 1 of
   else: writeln;
 end;
 ```
+
+## Function
+``` pascal
+// void VoidFunc(int a, int b) {}
+procedure VoidFunc(a: integer; b: real);
+begin
+end;
+
+// float FloatFunc() { return 0.f; }
+function FloatFunc(): real;
+begin
+  result := 0.0;
+end;
+
+// void ForwardFunc();
+procedure ForwardFunc(); forward;
+```
+
+## Alias
+``` pascal
+// Нужен для передачи массива в функцию или получения как результат
+type
+  TArray = array[0..10] of real;
+
+begin
+end.
+```
