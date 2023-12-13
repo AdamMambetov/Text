@@ -18,11 +18,12 @@ columns:
     skipPersist: false
     isDragDisabled: false
     csvCandidate: true
-    position: 1
+    position: 0
     isHidden: false
-    sortIndex: -1
-    isSorted: false
-    isSortedDesc: true
+    sortIndex: 1
+    isSorted: true
+    isSortedDesc: false
+    width: -46.23439025878906
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -41,10 +42,11 @@ columns:
     key: stream
     id: stream
     label: stream
-    position: 2
+    position: 100
     skipPersist: false
     isHidden: false
     sortIndex: -1
+    width: 76.09556579589844
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -60,7 +62,7 @@ columns:
     key: time
     id: time
     label: time
-    position: 3
+    position: 100
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -79,7 +81,7 @@ columns:
     key: episode
     id: episode
     label: episode
-    position: 4
+    position: 100
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -92,38 +94,15 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  __created__:
-    key: __created__
-    id: __created__
-    input: metadata_time
-    label: Created
-    accessorKey: __created__
-    isMetadata: true
-    isDragDisabled: false
-    skipPersist: false
-    csvCandidate: true
-    position: 5
-    isSorted: true
-    isSortedDesc: true
-    sortIndex: 1
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
 config:
   remove_field_when_delete_column: false
   cell_size: normal
-  sticky_first_column: false
+  sticky_first_column: true
   group_folder_column: 
   remove_empty_folders: false
   automatically_group_files: false
   hoist_files_with_empty_attributes: true
-  show_metadata_created: true
+  show_metadata_created: false
   show_metadata_modified: false
   show_metadata_tasks: false
   show_metadata_inlinks: false
