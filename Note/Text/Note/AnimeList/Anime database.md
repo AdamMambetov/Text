@@ -92,21 +92,18 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  __created__:
-    key: __created__
-    id: __created__
-    input: metadata_time
-    label: Created
-    accessorKey: __created__
-    isMetadata: true
-    isDragDisabled: false
+  begin:
+    input: calendar
+    accessorKey: begin
+    key: begin
+    id: begin
+    label: begin
+    position: 100
     skipPersist: false
-    csvCandidate: true
-    position: 5
+    isHidden: false
+    sortIndex: 1
     isSorted: true
     isSortedDesc: true
-    sortIndex: 1
-    isHidden: false
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -119,12 +116,12 @@ columns:
 config:
   remove_field_when_delete_column: false
   cell_size: normal
-  sticky_first_column: false
+  sticky_first_column: true
   group_folder_column: 
   remove_empty_folders: false
   automatically_group_files: false
   hoist_files_with_empty_attributes: true
-  show_metadata_created: true
+  show_metadata_created: false
   show_metadata_modified: false
   show_metadata_tasks: false
   show_metadata_inlinks: false
