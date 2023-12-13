@@ -18,9 +18,11 @@ columns:
     skipPersist: false
     isDragDisabled: false
     csvCandidate: true
-    position: 0
+    position: 1
     isHidden: false
     sortIndex: -1
+    isSorted: false
+    isSortedDesc: true
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -30,13 +32,16 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
+      content_alignment: text-align-center
+      content_vertical_alignment: align-middle
+      wrap_content: true
   stream:
     input: text
     accessorKey: stream
     key: stream
     id: stream
     label: stream
-    position: 100
+    position: 2
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -55,7 +60,7 @@ columns:
     key: time
     id: time
     label: time
-    position: 100
+    position: 3
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -74,10 +79,33 @@ columns:
     key: episode
     id: episode
     label: episode
-    position: 100
+    position: 4
     skipPersist: false
     isHidden: false
     sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  __created__:
+    key: __created__
+    id: __created__
+    input: metadata_time
+    label: Created
+    accessorKey: __created__
+    isMetadata: true
+    isDragDisabled: false
+    skipPersist: false
+    csvCandidate: true
+    position: 5
+    isSorted: true
+    isSortedDesc: true
+    sortIndex: 1
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -95,7 +123,7 @@ config:
   remove_empty_folders: false
   automatically_group_files: false
   hoist_files_with_empty_attributes: true
-  show_metadata_created: false
+  show_metadata_created: true
   show_metadata_modified: false
   show_metadata_tasks: false
   show_metadata_inlinks: false
