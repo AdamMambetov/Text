@@ -36,7 +36,7 @@ columns:
       content_vertical_alignment: align-middle
       wrap_content: true
   stream:
-    input: text
+    input: number
     accessorKey: stream
     key: stream
     id: stream
