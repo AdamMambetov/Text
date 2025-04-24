@@ -1,8 +1,6 @@
 ---
 created: 2025-02-13T15:28:49+03:00
 modified: 2025-04-11T23:29:29+03:00
-Parents:
-  - "[[Unreal Engine]]"
 ---
 
 # RealRed Задачи

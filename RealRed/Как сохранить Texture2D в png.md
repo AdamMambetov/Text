@@ -1,5 +1,9 @@
 ---
 source: https://forums.unrealengine.com/t/saving-a-downloaded-image/392019/2
+category:
+  - "[[Программирование]]"
+meta:
+  - "[[Unreal Engine]]"
 ---
 
 # Как сохранить Texture2D в png

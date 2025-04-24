@@ -1,5 +1,8 @@
 ---
 source: https://forums.unrealengine.com/t/how-do-i-combine-lyra-the-matrix-city-sample/536848/4
+category:
+  - "[[Программирование]]"
+meta: "[[Unreal Engine]]"
 ---
 
 # Как объединить Lyra и CitySample

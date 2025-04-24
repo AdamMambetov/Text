@@ -1,6 +1,6 @@
 ---
-year: '[[<% tp.date.now("YYYY") %>]]'
-next_month: '[[<% tp.date.now("YYYY-MM", "P1M") %>]]'
+год: '[[<% tp.date.now("YYYY") %>]]'
+след_месяц: '[[<% tp.date.now("YYYY-MM", "P1M") %>]]'
 ---
 
 
