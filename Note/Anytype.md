@@ -1,8 +1,8 @@
 ---
-created: 
-modified: 2024-07-01T20:13:58+03:00
+created: 2025-04-05T14:29:19+03:00
+modified: 2025-04-26T16:39:02+03:00
 meta:
-  - "[[Obsidian|Obsidian]]"
+  - "[[Obsidian]]"
 ---
 
 # Anytype
