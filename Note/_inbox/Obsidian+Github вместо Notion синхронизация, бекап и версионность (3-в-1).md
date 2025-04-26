@@ -1,9 +1,9 @@
 ---
-source: https://habr.com/ru/articles/843288/
+created: 2025-04-25T00:00:00+03:00
+modified: 2025-04-26T14:03:49+03:00
 tags:
   - 📥
-modified: 2025-04-25T18:54:52+03:00
-created: 2025-04-25T00:00:00+03:00
+source: https://habr.com/ru/articles/843288/
 ---
 
 # Obsidian+Github вместо Notion: синхронизация, бекап и версионность (3-в-1)
