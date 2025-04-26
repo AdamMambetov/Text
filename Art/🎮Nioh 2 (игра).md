@@ -1,0 +1,34 @@
+---
+created: 2025-04-12T17:06:11+03:00
+modified: 2025-04-12T17:08:33+03:00
+Name: Nioh 2
+aliases:
+  - Nioh 2
+Status: plan
+Type: game
+Rating: PG-13
+Cover: "![[nioh_2_game_cover.jpg]]"
+Year: 2021
+---
+
+# Nioh 2
+
+![[nioh_2_game_cover.jpg | 300]]
+
+Говорят что эта игра похожа на Dark Souls.
+
+```button
+name World Art
+type link
+action http://www.world-art.ru/games/games.php?id=41886
+customColor #7a0000
+hidden true
+```
+^button-worldArt
+
+
+`button-worldArt`
+
+## Описание
+
+
