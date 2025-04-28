@@ -1,9 +1,10 @@
 ---
 created: 2023-09-30T00:00:00
 modified: 2024-08-08T18:24:16+03:00
-creator: https://www.youtube.com/@AdamW
+creator:
+  - https://www.youtube.com/@AdamW
 source: https://www.youtube.com/shorts/-1Uiwi-vpsY
-Parents:
+category:
   - "[[Маносфера]]"
 ---
 

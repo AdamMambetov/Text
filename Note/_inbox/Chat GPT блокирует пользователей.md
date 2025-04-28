@@ -3,7 +3,6 @@ created: 2025-04-24T22:07:59+03:00
 modified: 2025-04-24T23:26:38+03:00
 category:
   - "[[Искусственный интеллект|AI]]"
-Parents:
   - "[[Маносфера]]"
 source: https://t.me/gpt_news/219
 ---
