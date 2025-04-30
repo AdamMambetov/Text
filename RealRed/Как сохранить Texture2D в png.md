@@ -8,6 +8,8 @@ meta:
 
 # Как сохранить Texture2D в png
 
+У меня не получилось сохранять картинки из инета, он сохраняет только те картинки, которые уже лежат в проекте.
+
 ![[Pasted image 20250417173808.png]]
 
 [UE Doc - Creating Textures Using Blueprints and Render Targets](https://dev.epicgames.com/documentation/en-us/unreal-engine/creating-textures-using-blueprints-and-render-targets?application_version=4.27)
