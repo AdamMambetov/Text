@@ -9,7 +9,7 @@ Type: game
 Year: 2024
 meta:
   - "[[Unreal Engine]]"
-related to:
+related:
   - "[[@Антон Сорвачев]]"
 ---
 

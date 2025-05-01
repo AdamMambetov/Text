@@ -12,7 +12,7 @@ Rating: PG-13
 Cover: "![[re_zero_memory_snow_anime_film_cover.png]]"
 Year: 2018
 Views: 1
-related to:
+related:
   - "[[⛩️Re.Zero. Жизнь с нуля в альтернативном мире (аниме)]]"
 ---
 

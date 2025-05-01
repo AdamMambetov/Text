@@ -10,7 +10,7 @@ Cover: "![[the_quarry_game_cover.png]]"
 Year: 2022
 meta:
   - "[[Unreal Engine]]"
-related to:
+related:
   - "[[@Дмитрий Куплинов]]"
 ---
 

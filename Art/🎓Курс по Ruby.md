@@ -12,7 +12,7 @@ category:
   - "[[Программирование]]"
 meta:
   - "[[Ruby]]"
-related to:
+related:
   - "[[📘Руби для романтиков (книга)]]"
 source: https://rubyschool.us/
 Stream: 21

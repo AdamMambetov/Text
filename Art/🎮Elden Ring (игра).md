@@ -1,6 +1,6 @@
 ---
 created: 2024-06-28T01:19:00
-modified: 2025-04-01T23:28:04+03:00
+modified: 2025-04-28T22:31:32+03:00
 Name: Elden Ring
 aliases:
   - Elden Ring

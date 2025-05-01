@@ -6,7 +6,7 @@ Status: complete
 Type: game
 Year: 2010
 Views: 1
-related to:
+related:
   - "[[@Дмитрий Куплинов]]"
 aliases:
   - Heavy Rain

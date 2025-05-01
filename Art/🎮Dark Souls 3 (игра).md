@@ -12,7 +12,7 @@ Type: game
 Cover: 
 Year: 2016
 Views: 1
-related to:
+related:
   - "[[3qoOiKH-JJM.jpg]]"
   - "[[ozoZJyEYiuU.jpg]]"
 Предыстория: "[[🎮Dark Souls 2 (игра)|Dark Souls 2]]"

@@ -6,7 +6,7 @@ Status: defer
 Type: game
 Cover: "![[mobile_legends_bang_bang_game_cover.png]]"
 Year: 2016
-related to:
+related:
   - "[[4ef3332ab0b78807ab9c4b7a21710d73.jpg]]"
   - "[[Screenshot_2019-12-02-17-16-23-413_com.vkontakte.android.jpg]]"
 aliases:
