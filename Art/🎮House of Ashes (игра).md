@@ -1,6 +1,6 @@
 ---
 created: 2025-04-28T00:06:02+03:00
-modified: 2025-04-28T00:10:24+03:00
+modified: 2025-05-03T22:20:43+03:00
 Name: House of Ashes
 aliases:
   - House of Ashes
