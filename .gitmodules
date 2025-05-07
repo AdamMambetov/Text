@@ -1,9 +1,12 @@
 [submodule "Art"]
 	path = Art
 	url = https://github.com/AdamMambetov/Art.git
+	branch = master
 [submodule "Note"]
 	path = Note
 	url = https://github.com/AdamMambetov/Obsidian.git
+	branch = master
 [submodule "RealRed"]
 	path = RealRed
 	url = https://github.com/AdamMambetov/RealRed.git
+	branch = master
