@@ -5,7 +5,7 @@ Name: Your Turn To Die
 aliases:
   - Your Turn To Die
   - YTTD
-Status: defer
+Status: watch
 Type: game
 Cover: "![[your_turn_to_die_game_cover.jpg]]"
 Year: 2017
