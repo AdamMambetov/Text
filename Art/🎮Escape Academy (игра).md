@@ -1,6 +1,6 @@
 ---
 created: 2025-05-08T00:03:56+03:00
-modified: 2025-05-08T00:05:20+03:00
+modified: 2025-05-08T01:47:31+03:00
 Name: Escape Academy
 aliases: Escape Academy
 Status: watch
@@ -29,7 +29,4 @@ hidden true
 `button-worldArt`
 
 ## Описание
-
-## Уровни
-
 
