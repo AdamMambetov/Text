@@ -1,6 +1,6 @@
 ---
 created: 2025-01-28T14:31:06+03:00
-modified: 2025-04-11T22:29:10+03:00
+modified: 2025-05-07T20:07:17+03:00
 aliases:
   - git
 category:
@@ -40,6 +40,13 @@ source: https://git-scm.com/
 > ```bash
 > git remote remove origin
 > ```
+
+
+> [!NOTE]- Клонирование без истории коммитов
+> ```bash
+> git clone --depth=1 repo.git
+> ```
+
 
 ## Ссылки
 

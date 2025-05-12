@@ -1,7 +1,7 @@
 ---
 created: 2024-11-28T14:52:47+03:00
 modified: 2025-03-03T09:48:10+03:00
-Parents:
+related:
   - "[[Fallen Refuge]]"
 ---
 

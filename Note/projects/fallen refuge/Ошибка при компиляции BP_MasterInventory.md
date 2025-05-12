@@ -5,7 +5,7 @@ category:
   - "[[Программирование]]"
 meta:
   - "[[Unreal Engine]]"
-Parents:
+related:
   - "[[Fallen Refuge]]"
 ---
 

@@ -4,7 +4,7 @@ modified: 2024-07-21T19:51:32+03:00
 tags:
   - 📥
   - source/article
-Parents:
+category:
   - "[[Программирование|programing]]"
 source: https://www.youtube.com/watch?v=65i5lcc2SaU
 ---
