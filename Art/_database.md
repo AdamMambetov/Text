@@ -366,7 +366,7 @@ filters:
           value: "watch"
           type: select
       - condition: OR
-        disabled: true
+        disabled: false
         label: "Просмотрено"
         color: "hsl(120,100%,50%)"
         filters:
@@ -375,7 +375,7 @@ filters:
           value: "complete"
           type: select
       - condition: OR
-        disabled: false
+        disabled: true
         label: "Книги"
         color: "hsl(180,100%,50%)"
         filters:
@@ -393,7 +393,7 @@ filters:
           value: "film"
           type: select
       - condition: OR
-        disabled: true
+        disabled: false
         label: "Аниме"
         color: "hsl(240,100%,50%)"
         filters:
