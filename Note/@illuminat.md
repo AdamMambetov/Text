@@ -1,6 +1,6 @@
 ---
 created: 2024-07-01T23:43:10+03:00
-modified: 2025-04-29T12:51:45+03:00
+modified: 2025-05-15T11:24:48+03:00
 aliases:
   - illuminat
   - Иллюминат
@@ -14,4 +14,5 @@ Friends:
 
 ## Ссылки
 
-[YouTube](https://youtube.com/@illuminatstudio?si=aRJcYjJGZ9iYw01Z)
+ - [YouTube](https://youtube.com/@illuminatstudio?si=aRJcYjJGZ9iYw01Z)
+ - [ТГ](https://t.me/illuminatstudio)
