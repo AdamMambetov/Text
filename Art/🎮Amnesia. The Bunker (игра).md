@@ -1,6 +1,6 @@
 ---
 created: 2024-08-29T19:09:23+03:00
-modified: 2024-09-29T22:00:43+03:00
+modified: 2025-05-30T01:26:47+03:00
 Name: "Amnesia: The Bunker"
 aliases:
   - "Amnesia: The Bunker"
@@ -15,7 +15,7 @@ Views: 1
 
 ![[amnesia_the_bunker_game_cover.png | 300]]
 
-Посмотрел [прохождение](https://vk.com/video/playlist/-56169357_972) [[@Дмитрий Куплинов | Куплинова]]. 
+Посмотрел [прохождение](https://youtu.be/ZRdb71aiBZg?si=mFOKyIUeuzEcijjT) [[@Дмитрий Куплинов | Куплинова]]. [Прохождение в ВК](https://vk.com/video/playlist/-56169357_972).
 
 
 ```button

@@ -1,6 +1,6 @@
 ---
 created: 2024-06-28T01:22:35+03:00
-modified: 2025-01-19T15:54:55+03:00
+modified: 2025-05-30T01:23:38+03:00
 Name: osu!
 aliases:
   - osu!
@@ -16,114 +16,24 @@ Year: 2007
 ![[osu_game_cover.jpg | 300]]
 
 ```button
-name Shikimori
-type link
-action https://shikimori.one/
-customColor #4682b4
-hidden true
-```
-^button-shikimori
-
-```button
-name TV Time
-type link
-action https://www.tvtime.com/
-customColor #997f00
-hidden true
-```
-^button-tv-time
-
-```button
 name World Art
 type link
 action http://www.world-art.ru/
 customColor #7a0000
 hidden true
 ```
-^button-world-art
+^button-worldArt
 
-```button
-name ONIKES
-type link
-action https://onikes.ru/
-color purple
-hidden true
-```
-^button-onikes
+`button-worldArt`
 
-```button
-name KESIDATOKIO VOD'S
-type link
-action https://yo8z6gv.github.io/
-color purple
-customTextColor black
-hidden true
-```
-^button-kesidatokio-vods
 
-```button
-name Anime Filler List
-type link
-action https://www.animefillerlist.com/
-customColor #da5100
-hidden true
-```
-^button-anime-filler-list
+## Ссылки
 
-```button
-name MangaLib
-type link
-action https://mangalib.me/
-customColor #252527
-customTextColor #b6720f
-hidden true
-```
-^button-mangalib
-
-```button
-name RanobeLib
-type link
-action https://ranobelib.me/
-customColor #252527
-customTextColor #2196f3
-hidden true
-```
-^button-ranobelib
-
-```button
-name AnimeLib
-type link
-action https://anilib.me/
-customColor #252527
-customTextColor #7E57C2
-hidden true
-```
-^button-animelib
-
-```button
-name Senkuro
-type link
-action https://senkuro.com/
-customColor #191A21
-hidden true
-```
-^button-senkuro
-
-```button
-name ReYohoho
-type link
-action https://reyohoho.github.io/reyohoho/
-customColor #1c1c1c
-hidden true
-```
-^button-reyohoho
-
-```button
-name FreeTP
-type link
-action https://freetp.org/
-color green
-customTextColor black
-hidden true
-```
-^button-fretp
+ - [LeaF - Aleph-0](https://youtu.be/XpA6JqvBBGk?si=mpUlYbGavOuwySsu)
+ - [Yooh - MariannE](https://youtu.be/SzRzOqHJZcA?si=6_am7M1AJi0srVDZ)
+ - [Fakin Krakin - Tokio skin](https://youtu.be/dJiy2efkGi4?si=lts4y5lNNOcb6-oc)
+ - [Smooth Tail Cursor Guide](https://youtu.be/3r9AdrSHQSs?si=gcu0HxCjwWQv9Fuw)
+ - [NGHTMAN - NGHTSKIN](https://youtu.be/zczBDmPPekQ?si=lG5j-1BiW3IZGBKz)
+ - [Карты для тренировки джампов](https://youtu.be/XLMiuREikjM?si=JTrRiqLti6m8K6Z5)
+ - [Rush E](https://youtu.be/WL_dlWLPEtE?si=x_h8nutJ43f3pc30)
+ - [Пояснение игровых навыков с разных сторон](https://youtu.be/uc99yWeP1h4?si=cfHqJeFZ0g5IyplA)

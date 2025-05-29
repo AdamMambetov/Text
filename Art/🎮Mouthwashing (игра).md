@@ -1,6 +1,6 @@
 ---
 created: 2025-05-26T01:21:36+03:00
-modified: 2025-05-29T01:27:37+03:00
+modified: 2025-05-30T01:42:14+03:00
 Name: Mouthwashing
 aliases:
   - Mouthwashing
@@ -34,7 +34,7 @@ hidden true
 
 ## Причина добавления
 
-Узнал про игру из ютуба.  
+Узнал про игру из [ютуба](https://youtu.be/LzZSV_PHaJM?si=eYlg_rMJQCxzTdSU).  
 Посмотрел [прохождение](https://youtu.be/XZm5cNR73y0) [[@HellYeahPlay|Сергея HellYeah]].
 
 

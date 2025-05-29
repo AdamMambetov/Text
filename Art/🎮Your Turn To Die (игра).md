@@ -1,6 +1,6 @@
 ---
 created: 2024-10-27T23:28:58+03:00
-modified: 2025-03-29T17:51:30+03:00
+modified: 2025-05-30T01:28:17+03:00
 Name: Your Turn To Die
 aliases:
   - Your Turn To Die
@@ -15,7 +15,7 @@ Year: 2017
 
 ![[your_turn_to_die_game_cover.jpg | 300]]
 
-Смотрю прохождение Злобстера. Он перестал проходить, играю сам.
+Смотрю [прохождение](https://youtu.be/701oEmoUXmM?si=Tm4eftsZV3P22EwI) Злобстера. Он перестал проходить, играю сам.
 
 
 ## Описание

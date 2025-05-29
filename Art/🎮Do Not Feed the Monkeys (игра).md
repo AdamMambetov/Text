@@ -1,6 +1,6 @@
 ---
 created: 2025-05-06T19:32:15+03:00
-modified: 2025-05-06T19:32:15+03:00
+modified: 2025-05-30T00:56:34+03:00
 Name: Do Not Feed Monkeys
 aliases:
   - Do Not Feed the Monkeys
@@ -30,7 +30,7 @@ hidden true
 
 `button-worldArt`
 
-Посмотрел прохождение [[@Дмитрий Куплинов | Куплинова]].
+Посмотрел [прохождение](https://youtu.be/2_QOvcGtgnw?si=6MV_x8uKSJRKQV4H) [[@Дмитрий Куплинов | Куплинова]].
 
 ## Описание
 

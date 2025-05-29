@@ -1,6 +1,6 @@
 ---
 created: 2025-03-28T16:31:03+03:00
-modified: 2025-05-29T02:55:24+03:00
+modified: 2025-05-30T01:38:58+03:00
 Name: Dark Souls 2
 aliases:
   - Dark Souls 2
@@ -25,4 +25,8 @@ Views: 1
 
 ## Описание
 
-[ YT Ставим лучшие моды на графику](https://youtu.be/d8ZiZNhkzok)
+## Ссылки
+
+ - [YT Ставим лучшие моды на графику](https://youtu.be/d8ZiZNhkzok)
+ - [Rawlight Souls - Прохождение без смертей](https://youtu.be/KQueaKzRALA?si=j0iZFnJTFWFgo_Rp)
+

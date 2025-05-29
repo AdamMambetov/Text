@@ -1,6 +1,6 @@
 ---
 created: 2024-06-28T01:19:00
-modified: 2025-04-28T22:31:32+03:00
+modified: 2025-05-30T01:36:09+03:00
 Name: Elden Ring
 aliases:
   - Elden Ring
@@ -91,11 +91,16 @@ hidden true
 
  - [Elden Ring за 1 удар](https://youtu.be/GBeSQcud5yc?si=YqvQ9v7x7KcSWhoH)
  - [Гайд по игре](https://youtu.be/SmxjO6Rxsrc?si=9qaIjBRDoP4YEGIl)
+ - [ANDRUX - СЕКРЕТНЫЙ ГАЙД ПО ЗАТОЧКЕ ОРУЖИЯ](https://youtu.be/QjFP_-2-1bE?si=eJ6hM1coZOYuwt-i)
  - [Моды](https://youtu.be/hIs4FWMnRcI?si=1Awglrc6p0qIx5l1)
  - [Билд Берсерка](https://youtu.be/uACVIg8ZMWQ?si=HAPhr_5meMKiw9Yj)
  - [Гайд по моддингу](https://youtu.be/Q0hGU7PosC4)
  - [Скип Мога](https://youtu.be/TtkaVeydX9U?si=Fo1YsN_Jx2u8IkTp)
  - [YT Malenia, Miyazaki Originally Intended](https://youtu.be/MbHz4Ex9sCs)
+ - [Rawlight Souls - Побеждаю боссов их же оружием](https://youtu.be/6qLZbZ1rATE?si=-Cmj2TKCp-5O3dF4)
+ - [Билд THE WALL](https://youtu.be/_A7UZFzsrn8?si=7iVS7YNtlSz2JMvq)
+ - [The Legend of "Let Me Tank Him"](https://youtu.be/N68yTvbnOJk?si=aiPbjAR37FR7BPUJ)
+ - [Let Me Solo Her vs Malenia](https://youtu.be/KjJCDkE1zZo?si=0Ynj1_wnFAwg4Q20)
  - [Пресет Death](https://www.reddit.com/r/SoulsSliders/comments/1iom8o5/death_castlevania_sotn_sliders/)
  - [Пресет Мужчина 1](https://www.reddit.com/r/SoulsSliders/comments/1ig2pf4/my_oc_thought_the_face_structure_was_shareworthy/)
  - [Пресет Мужчина 2](https://www.reddit.com/r/SoulsSliders/comments/1ibgbz7/just_a_lad_in_the_lands_between_lad_between/#lightbox) ![[just-a-lad-in-the-lands-between-lad-between-v0-w0mzw1lpykfe1.webp]]

@@ -1,6 +1,6 @@
 ---
 created: 2025-05-06T13:13:02+03:00
-modified: 2025-05-06T13:13:02+03:00
+modified: 2025-05-30T01:40:17+03:00
 Name: As Dusk Falls
 aliases:
   - As Dusk Falls
@@ -30,7 +30,7 @@ hidden true
 
 `button-worldArt`
 
-Посмотрел прохождение [[@HellYeahPlay | Сергея HellYeah]].
+Посмотрел [прохождение](https://youtu.be/4fRxN4DJueo?si=0a6j3VWSqXuh96eb) [[@HellYeahPlay | Сергея HellYeah]].
 
 ## Описание
 

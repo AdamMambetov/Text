@@ -1,6 +1,6 @@
 ---
 created: 2024-08-17T03:09:06+03:00
-modified: 2025-04-11T23:32:32+03:00
+modified: 2025-05-30T01:22:48+03:00
 Name: The Quarry
 aliases:
   - The Quarry
@@ -18,7 +18,7 @@ related:
 
 ![[the_quarry_game_cover.png | 300]]
 
-Нашёл эту игру у [[@Дмитрий Куплинов | Куплинова]] и решил сам пройти.
+Нашёл эту игру в [прохождении](https://youtu.be/aZKsxmdJ1nE?si=R5fSbYaVUDhDhpIV) у [[@Дмитрий Куплинов | Куплинова]] и решил сам пройти.
 
 
 ```button

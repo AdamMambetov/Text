@@ -1,6 +1,6 @@
 ---
 created: 2025-04-28T00:06:02+03:00
-modified: 2025-05-03T22:20:43+03:00
+modified: 2025-05-30T01:11:17+03:00
 Name: House of Ashes
 aliases:
   - House of Ashes
@@ -30,4 +30,4 @@ hidden true
 
 `button-worldArt`
 
-Посмотрел прохождение [[@Дмитрий Куплинов | Куплинова]] и [[@HellYeahPlay | Сергея HellYeah]].
+Посмотрел [прохождение](https://youtu.be/W-0FJAyflp8?si=Rd9dNyGb3Y9Jg49h) [[@Дмитрий Куплинов | Куплинова]] и прохождение [[@HellYeahPlay | Сергея HellYeah]].

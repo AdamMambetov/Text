@@ -1,6 +1,6 @@
 ---
 created: 2025-05-06T13:10:09+03:00
-modified: 2025-05-29T02:50:21+03:00
+modified: 2025-05-30T01:40:43+03:00
 Name: The Devil in Me
 aliases:
   - The Devil in Me
@@ -30,7 +30,7 @@ hidden true
 
 `button-worldArt`
 
-Посмотрел прохождение [[@Дмитрий Куплинов | Куплинова]] и [[@HellYeahPlay | Сергея HellYeah]].
+Посмотрел [прохождение](https://youtu.be/iLYRfgofQ98?si=3UyICb6BI8mOZEt4) [[@Дмитрий Куплинов | Куплинова]] и [прохождение](https://youtu.be/qwYclDPhiuA?si=s6OzgMjgFB-WUpbX) [[@HellYeahPlay | Сергея HellYeah]].
 
 ## Описание
 

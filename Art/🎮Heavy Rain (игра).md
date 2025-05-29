@@ -1,6 +1,6 @@
 ---
 created: 2024-07-01T18:58:25+03:00
-modified: 2024-10-27T10:36:04+03:00
+modified: 2025-05-30T01:20:28+03:00
 Name: Heavy Rain
 aliases:
   - Heavy Rain
@@ -14,4 +14,4 @@ related:
 
 # Heavy Rain
 
-Посмотрел прохождение [[@Дмитрий Куплинов | Куплинова]].
+Посмотрел [прохождение](https://youtu.be/BCMSHKtpw6s?si=gVVZLSWoPo6ucNKu) [[@Дмитрий Куплинов | Куплинова]].
