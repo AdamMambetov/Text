@@ -1,6 +1,6 @@
 ---
 created: 2025-05-10T17:19:11+03:00
-modified: 2025-05-10T17:19:11+03:00
+modified: 2025-05-29T04:11:01+03:00
 Name: Thrive
 aliases:
   - Thrive
@@ -13,7 +13,7 @@ Year: 2021
 
 # Thrive
 
-![[thrive_game_cover.jpg]]
+![[thrive_game_cover.jpg | 300]]
 
 
 ```button

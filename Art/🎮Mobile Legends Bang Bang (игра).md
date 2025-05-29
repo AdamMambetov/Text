@@ -2,6 +2,11 @@
 created: 2024-09-14T17:05:21+03:00
 modified: 2024-09-15T00:25:41+03:00
 Name: "Mobile Legends: Bang Bang"
+aliases:
+  - "Mobile Legends: Bang Bang"
+  - mlbb
+  - мл
+  - мобла
 Status: defer
 Type: game
 Cover: "![[mobile_legends_bang_bang_game_cover.png]]"
@@ -9,11 +14,6 @@ Year: 2016
 related:
   - "[[4ef3332ab0b78807ab9c4b7a21710d73.jpg]]"
   - "[[Screenshot_2019-12-02-17-16-23-413_com.vkontakte.android.jpg]]"
-aliases:
-  - "Mobile Legends: Bang Bang"
-  - mlbb
-  - мл
-  - мобла
 ---
 
 # Mobile Legends: Bang Bang

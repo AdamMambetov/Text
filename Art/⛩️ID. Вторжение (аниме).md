@@ -2,6 +2,9 @@
 created: 2024-09-23T16:33:39+03:00
 modified: 2024-09-23T16:35:10+03:00
 Name: "ID: Вторжение"
+aliases:
+  - "ID: Вторжение"
+  - "ID: Invaded"
 Status: complete
 Type: anime
 Rating: R-17
@@ -12,9 +15,6 @@ Views: 1
 tags:
   - ❤
   - 🔞
-aliases:
-  - "ID: Вторжение"
-  - "ID: Invaded"
 ---
 
 # ID: Вторжение

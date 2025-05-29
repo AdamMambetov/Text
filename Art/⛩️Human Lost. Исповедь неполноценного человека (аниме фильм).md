@@ -2,16 +2,16 @@
 created: 2024-09-23T16:29:45+03:00
 modified: 2024-09-23T16:32:29+03:00
 Name: "Human Lost: Исповедь неполноценного человека"
-Status: complete
-Type: anime film
-Cover: "![[human_lost_anime_film_cover.png]]"
-Year: 2019
-Views: 1
 aliases:
   - "Human Lost: Исповедь неполноценного человека"
   - "Human Lost: Ningen Shikkaku"
   - Потеря человечности
   - No Longer Human
+Status: complete
+Type: anime film
+Cover: "![[human_lost_anime_film_cover.png]]"
+Year: 2019
+Views: 1
 ---
 
 # Human Lost: Исповедь неполноценного человека

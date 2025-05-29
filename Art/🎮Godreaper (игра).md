@@ -2,11 +2,11 @@
 created: 2024-07-21T02:29:10+03:00
 modified: 2024-09-15T00:25:34+03:00
 Name: Godreaper
-Type: game
-source: https://3dnews.ru/1100483/slavyanskoe-fentezi-s-geympleem-ot-dark-souls-rossiyskiy-boevik-godreaper-skoro-poyavitsya-v-steam-i-poluchit-demoversiyu
 aliases:
   - Godreaper
 Status: plan
+Type: game
+source: https://3dnews.ru/1100483/slavyanskoe-fentezi-s-geympleem-ot-dark-souls-rossiyskiy-boevik-godreaper-skoro-poyavitsya-v-steam-i-poluchit-demoversiyu
 ---
 
 # 🎮Godreaper

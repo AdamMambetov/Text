@@ -2,13 +2,13 @@
 created: 2024-08-29T19:09:23+03:00
 modified: 2024-09-29T22:00:43+03:00
 Name: "Amnesia: The Bunker"
+aliases:
+  - "Amnesia: The Bunker"
 Status: complete
 Type: game
 Cover: "![[amnesia_the_bunker_game_cover.png]]"
 Year: 2023
 Views: 1
-aliases:
-  - "Amnesia: The Bunker"
 ---
 
 # Amnesia: The Bunker

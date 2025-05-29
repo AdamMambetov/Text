@@ -1,22 +1,22 @@
 ---
 created: 2025-01-17T12:17:43+03:00
-modified: 2025-01-22T02:47:58+03:00
+modified: 2025-05-29T03:52:12+03:00
 Name: Ублюдок FFF-ранга
+aliases:
+  - Ублюдок FFF-ранга
+  - FFF-Class Trashero
 Status: complete
 Type: manhwa
 Rating: R-17
 Cover: "![[fff_class_trashero_manhwa_cover.jpg]]"
 Year: 2019
 Episode: 172
-aliases:
-  - Ублюдок FFF-ранга
-  - FFF-Class Trashero
 Views: 1
 ---
 
 # Ублюдок FFF-ранга
 
-![[fff_class_trashero_manhwa_cover.jpg]]
+![[fff_class_trashero_manhwa_cover.jpg | 300]]
 
 ```button
 name Shikimori

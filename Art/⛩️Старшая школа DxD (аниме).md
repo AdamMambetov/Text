@@ -2,6 +2,8 @@
 created: 2024-11-04T14:19:03+03:00
 modified: 2025-01-23T23:16:39+03:00
 Name: Старшая школа DxD
+aliases:
+  - Старшая школа DxD
 Status: complete
 Type: anime
 Rating: R+
@@ -9,8 +11,6 @@ Cover: ""
 Year: 2012
 Episode: 12
 Views: 1
-aliases:
-  - Старшая школа DxD
 ---
 
 # Старшая школа DxD

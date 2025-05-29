@@ -2,12 +2,12 @@
 created: 2024-08-29T23:14:46+03:00
 modified: 2024-09-15T00:25:03+03:00
 Name: 7 Days to Die
+aliases:
+  - 7 Days to Die
 Status: defer
 Type: game
 Cover: "![[7_days_to_die_game_cover.png]]"
 Year: 2013
-aliases:
-  - 7 Days to Die
 ---
 
 # 7 Days to Die

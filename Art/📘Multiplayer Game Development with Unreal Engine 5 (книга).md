@@ -7,9 +7,9 @@ Type: book
 Rating: PG-13
 Cover: 
 Year: 2023
-creator: Марко Секки
 category:
   - "[[Программирование]]"
+creator: Марко Секки
 meta:
   - "[[Unreal Engine]]"
 source: https://dtf.ru/gamedev/3102781-luchshie-knigi-po-geimdevu-chast-2

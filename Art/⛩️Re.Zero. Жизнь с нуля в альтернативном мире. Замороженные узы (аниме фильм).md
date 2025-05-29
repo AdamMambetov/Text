@@ -2,6 +2,11 @@
 created: 2024-09-23T16:48:49+03:00
 modified: 2024-11-08T21:57:33+03:00
 Name: "Re:Zero. Жизнь с нуля в альтернативном мире: Замороженные узы"
+aliases:
+  - "Re:Zero. Жизнь с нуля в альтернативном мире: Замороженные узы"
+  - Re:Zero kara Hajimeru Isekai Seikatsu - Hyouketsu no Kizuna
+  - Re:ZERO -Starting Life in Another World- The Frozen Bond
+  - "Жизнь в альтернативном мире с нуля: Замороженные узы"
 Status: complete
 Type: anime film
 Rating: PG-13
@@ -9,11 +14,6 @@ Cover: "![[re_zero_frozen_bond_anime_film_cover.png]]"
 Year: 2019
 Views: 1
 Продолжение: "[[⛩️Re.Zero. Жизнь с нуля в альтернативном мире (аниме)]]"
-aliases:
-  - "Re:Zero. Жизнь с нуля в альтернативном мире: Замороженные узы"
-  - Re:Zero kara Hajimeru Isekai Seikatsu - Hyouketsu no Kizuna
-  - Re:ZERO -Starting Life in Another World- The Frozen Bond
-  - "Жизнь в альтернативном мире с нуля: Замороженные узы"
 ---
 
 # Re:Zero. Жизнь с нуля в альтернативном мире: Замороженные узы

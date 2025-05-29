@@ -2,12 +2,12 @@
 created: 2024-07-23T21:11:45+03:00
 modified: 2024-09-29T22:01:27+03:00
 Name: Abiotic Factor
+aliases:
+  - Abiotic Factor
 Status: defer
 Type: game
 Cover: 
 Year: 2023
-aliases:
-  - Abiotic Factor
 ---
 
 # Abiotic Factor

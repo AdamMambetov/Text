@@ -7,9 +7,9 @@ Type: book
 Rating: PG-13
 Cover: 
 Year: 2022
-creator: Брайан Россни
 category:
   - "[[Программирование]]"
+creator: Брайан Россни
 meta:
   - "[[Unreal Engine]]"
 source: https://dtf.ru/gamedev/3102781-luchshie-knigi-po-geimdevu-chast-2

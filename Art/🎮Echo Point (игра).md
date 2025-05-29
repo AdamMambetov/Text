@@ -2,12 +2,12 @@
 created: 2024-08-29T23:14:46+03:00
 modified: 2024-09-15T00:25:03+03:00
 Name: Echo Point
+aliases:
+  - Echo Point
 Status: plan
 Type: game
 Cover: 
 Year: 2024
-aliases:
-  - Echo Point
 meta:
   - "[[Godot]]"
   - "[[Unreal Engine]]"

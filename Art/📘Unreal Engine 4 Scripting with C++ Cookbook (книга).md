@@ -7,9 +7,9 @@ Type: book
 Rating: PG-13
 Cover: 
 Year: 
-creator: Стивен Уиттл, Уильям Шериф
 category:
   - "[[Программирование]]"
+creator: Стивен Уиттл, Уильям Шериф
 meta:
   - "[[C++]]"
   - "[[Unreal Engine]]"

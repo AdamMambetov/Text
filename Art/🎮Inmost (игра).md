@@ -2,12 +2,12 @@
 created: 2024-07-01T22:06:09+03:00
 modified: 2024-09-15T00:25:39+03:00
 Name: Inmost
+aliases:
+  - Inmost
 Status: plan
 Type: game
 Year: 2019
 source: https://store.steampowered.com/app/938560/INMOST/
-aliases:
-  - Inmost
 ---
 
 # INMOST

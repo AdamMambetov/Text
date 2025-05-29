@@ -2,6 +2,10 @@
 created: 2022-03-16T00:00:00
 modified: 2024-09-16T21:01:43+03:00
 Name: Хеллсинг OVA
+aliases:
+  - Хеллсинг OVA
+  - Hellsing Ultimate
+  - Hellsing OVA
 Status: complete
 Type: anime
 Cover: "![[hellsing_ultimate_anime_cover.png]]"
@@ -13,10 +17,6 @@ tags:
   - 🔞
 related:
   - "[[⛩️Хеллсинг. Война с нечистью (аниме)]]"
-aliases:
-  - Хеллсинг OVA
-  - Hellsing Ultimate
-  - Hellsing OVA
 ---
 
 # Хеллсинг OVA

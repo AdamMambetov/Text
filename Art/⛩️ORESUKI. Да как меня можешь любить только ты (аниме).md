@@ -2,13 +2,13 @@
 created: 2024-11-04T14:20:05+03:00
 modified: 2024-11-04T14:20:05+03:00
 Name: ORESUKI. Да как меня можешь любить только ты?
+aliases:
+  - ORESUKI. Да как меня можешь любить только ты?
 Status: plan
 Type: anime
 Rating: PG-13
 Cover: ""
 Year: 2019
-aliases:
-  - ORESUKI. Да как меня можешь любить только ты?
 ---
 
 # ORESUKI. Да как меня можешь любить только ты?

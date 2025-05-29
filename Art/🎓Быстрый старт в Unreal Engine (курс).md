@@ -9,11 +9,11 @@ Type: course
 Rating: PG-13
 Cover: 
 Year: 2024
-source: https://cgsensei.pro/quick
 category:
   - "[[Программирование]]"
 meta:
   - "[[Unreal Engine]]"
+source: https://cgsensei.pro/quick
 ---
 
 # Быстрый старт в Unreal Engine

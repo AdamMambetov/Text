@@ -7,9 +7,9 @@ Type: book
 Rating: PG-13
 Cover: 
 Year: 2023
-creator: Дженю Джордж Ли
 category:
   - "[[Программирование]]"
+creator: Дженю Джордж Ли
 meta:
   - "[[C++]]"
   - "[[Unreal Engine]]"

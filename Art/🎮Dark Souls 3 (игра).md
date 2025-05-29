@@ -1,6 +1,6 @@
 ---
 created: 2024-08-13T17:31:47+03:00
-modified: 2025-03-28T16:32:10+03:00
+modified: 2025-05-29T02:56:31+03:00
 Name: Dark Souls 3
 aliases:
   - Dark Souls 3
@@ -9,16 +9,18 @@ aliases:
   - дс3
 Status: complete
 Type: game
-Cover: 
+Cover: "![[dark_souls_3_game_cover.jpg]]"
 Year: 2016
 Views: 1
 related:
   - "[[3qoOiKH-JJM.jpg]]"
   - "[[ozoZJyEYiuU.jpg]]"
-Предыстория: "[[🎮Dark Souls 2 (игра)|Dark Souls 2]]"
+Предыстория: "[[🎮Dark Souls 2 (игра)]]"
 ---
 
 # Dark Souls 3
+
+![[dark_souls_3_game_cover.jpg | 300]]
 
 
 ```button

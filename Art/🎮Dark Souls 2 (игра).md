@@ -1,6 +1,6 @@
 ---
 created: 2025-03-28T16:31:03+03:00
-modified: 2025-03-30T00:23:04+03:00
+modified: 2025-05-29T02:55:24+03:00
 Name: Dark Souls 2
 aliases:
   - Dark Souls 2
@@ -13,7 +13,8 @@ Rating: PG-13
 Cover: "![[dark_souls_2_game_cover.jpg]]"
 Year: 2014
 Views: 1
-Продолжение: "[[🎮Dark Souls 3 (игра)|Dark Souls 3]]"
+Предыстория: "[[🎮Dark Souls (игра)]]"
+Продолжение: "[[🎮Dark Souls 3 (игра)]]"
 ---
 
 # Dark Souls 2

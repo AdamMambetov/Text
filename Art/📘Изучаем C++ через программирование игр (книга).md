@@ -7,9 +7,9 @@ Type: book
 Rating: PG
 Cover: 
 Year: 2016
-creator: Майкл Доусон
 category:
   - "[[Программирование]]"
+creator: Майкл Доусон
 meta:
   - "[[C++]]"
 source: https://dtf.ru/gamedev/3102781-luchshie-knigi-po-geimdevu-chast-2

@@ -1,6 +1,6 @@
 ---
 created: 2024-06-16T00:00:00
-modified: 2025-04-11T23:22:14+03:00
+modified: 2025-05-29T04:22:06+03:00
 Name: C++ для профи
 aliases:
   - C++ для профи
@@ -9,14 +9,17 @@ Type: book
 Cover: "![[cpp_для_профи_book_cover.jpg]]"
 Year: 2021
 Episode: 37
-creator: Джош Лоспинозо
 category:
   - "[[Программирование]]"
+creator: Джош Лоспинозо
 meta:
   - "[[C++]]"
 ---
 
+# C++ для профи
+
 ![[cpp_для_профи_book_cover.jpg | 300]]
+
 
 ```button
 name Shikimori
