@@ -1,15 +1,15 @@
 <%*
 let types = {
-	preview: ["Аниме", "Аниме фильм", "Книга", "Курс", "Фильм", "Игра", "Манга", "Маньхуа", "Манхва", "Ранобе", "Сериал"],
-	items: ["anime", "anime film", "book", "course", "film", "game", "manga", "manhua", "manhwa", "ranobe", "series"]
+	preview: ["Аниме, anime", "Аниме фильм, anime film", "Книга, book", "Курс, course", "Фильм, film", "Игра, game", "Манга, mange", "Маньхуа, manhua", "Манхва, manhwa", "Ранобе, ranobe", "Сериал, series", "Мультсериал, cartoon"],
+	items: ["anime", "anime film", "book", "course", "film", "game", "manga", "manhua", "manhwa", "ranobe", "series", "cartoon"]
 }
 let statuses = {
 	preview: ["watch, Читаю, Смотрю, Играю", "complete, Прочитано, Просмотрено, Пройдено", "defer, Отложено", "drop, Брошено", "plan, Запланировано"],
 	items: ["watch", "complete", "defer", "drop", "plan"]
 }
-let links = ["https://shikimori.one/", "https://www.tvtime.com/", "http://www.world-art.ru/", "https://onikes.ru/", "https://yo8z6gv.github.io/", "https://www.animefillerlist.com/", "https://mangalib.me/", "https://ranobelib.me/", "https://anilib.me/", "https://senkuro.com/", "https://reyohoho.github.io/reyohoho/", "https://freetp.org/"]
-let names = ["shikimori", "tvTime", "worldArt", "onikes", "kesidatokioVods", "animeFillerList", "mangalib", "ranobelib", "animelib", "senkuro", "reyohoho", "freetp"]
-let buttonNames = ["Shikimori", "TV Time", "World Art", "ONIKES", "KESIDATOKIO VOD'S", "Anime Filler List", "MangaLib", "RanobeLib", "AnimeLib", "Senkuro", "ReYohoho", "FreeTP"]
+let links = ["https://shikimori.one/", "https://www.tvtime.com/", "http://www.world-art.ru/", "https://onikes.ru/", "https://yo8z6gv.github.io/", "https://www.animefillerlist.com/", "https://mangalib.me/", "https://ranobelib.me/", "https://anilib.me/", "https://senkuro.com/", "https://reyohoho.github.io/reyohoho/", "https://freetp.org/", "https://store.steampowered.com/"]
+let names = ["shikimori", "tvTime", "worldArt", "onikes", "kesidatokioVods", "animeFillerList", "mangalib", "ranobelib", "animelib", "senkuro", "reyohoho", "freetp", "steam"]
+let buttonNames = ["Shikimori", "TV Time", "World Art", "ONIKES", "KESIDATOKIO VOD'S", "Anime Filler List", "MangaLib", "RanobeLib", "AnimeLib", "Senkuro", "ReYohoho", "FreeTP", "Steam"]
 let ratings = ["G", "PG", "PG-13", "R-17", "R+", "Rx"]
 
 let title = tp.file.title
@@ -54,6 +54,15 @@ switch(type) {
 		break
 	case "game":
 		links[2] = await tp.system.prompt("World Art", "")
+		links[12] = await tp.system.prompt("Steam", "")
+		links[11] = await tp.system.prompt("FreeTP", "")
+		break
+	case "series":
+	case "film":
+	case "cartoon":
+		links[2] = await tp.system.prompt("World Art", "")
+		links[1] = await tp.system.prompt("TV Time", "")
+		links[10] = await tp.system.prompt("ReYohoho", "")
 		break
 }
 
@@ -171,6 +180,10 @@ function createBtn(name) {
 			tR += "color green" + "\n"
 			tR += "customTextColor black" + "\n"
 			break;
+		case "steam":
+			tR += "customColor #133C6F" + "\n"
+			tR += "textColor white" + "\n"
+			break;
 	}
 	tR += "hidden true" + "\n"  
 	tR += "\`\`\`" + "\n"
@@ -202,12 +215,15 @@ switch (type) {
 		break
 	case "film":
 	case "series":
+	case "cartoon":
 		createBtn("tvTime")
 		createBtn("worldArt")
 		createBtn("reyohoho")
 		break
 	case "game":
 		createBtn("worldArt")
+		createBtn("steam")
+		createBtn("freetp")
 		break
 }
 %>
@@ -244,7 +260,9 @@ switch (type) {
 		tR += "\`button-reyohoho\`"
 		break
 	case "game":
-		tR += "\`button-worldArt\`"
+		tR += "\`button-worldArt\` "
+		tR += "\`button-steam\`\n\n"
+		tR += "\`button-freetp\`"
 		break
 }
 %>
@@ -261,3 +279,4 @@ if (parser !== null) {
 	tR += parser.desc
 }
 %>
+
