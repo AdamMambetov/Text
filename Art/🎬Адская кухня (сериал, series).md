@@ -1,6 +1,6 @@
 ---
 created: 2025-06-07T18:28:21+03:00
-modified: 2025-06-08T22:43:51+03:00
+modified: 2025-06-11T23:00:58+03:00
 Name: Адская кухня
 aliases:
   - Адская кухня
@@ -10,8 +10,8 @@ Type: series
 Rating: PG-13
 Cover: 
 Year: 2005
-Season: 2
-Episode: 2
+Season: 3
+Episode: 1
 ---
 
 # Адская кухня
@@ -22,7 +22,7 @@ Episode: 2
 ```button
 name TV Time
 type link
-action 
+action https://www.tvtime.com/ru/show/74897
 customColor #997f00
 hidden true
 ```
