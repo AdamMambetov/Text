@@ -1,7 +1,8 @@
 <%*
 let types = {
 	preview: ["Аниме, anime", "Аниме фильм, anime film", "Книга, book", "Курс, course", "Фильм, film", "Игра, game", "Манга, mange", "Маньхуа, manhua", "Манхва, manhwa", "Ранобе, ranobe", "Сериал, series", "Мультсериал, cartoon"],
-	items: ["anime", "anime film", "book", "course", "film", "game", "manga", "manhua", "manhwa", "ranobe", "series", "cartoon"]
+	items: ["anime", "anime film", "book", "course", "film", "game", "manga", "manhua", "manhwa", "ranobe", "series", "cartoon"],
+	itemsRu: ["Аниме", "Аниме фильм", "Книга", "Курс", "Фильм", "Игра", "Манга", "Маньхуа", "Манхва", "Ранобе", "Сериал", "Мультсериал"]
 }
 let statuses = {
 	preview: ["watch, Читаю, Смотрю, Играю", "complete, Прочитано, Просмотрено, Пройдено", "defer, Отложено", "drop, Брошено", "plan, Запланировано"],
@@ -92,7 +93,7 @@ switch(type) {
 		icon = "🎬"
 		break
 }
-let suffix = " (" + types.preview[types.items.findIndex((el) => el === type)].toLowerCase() + ")"
+let suffix = " (" + types.itemsRu[types.items.findIndex((el) => el === type)].toLowerCase() + ")"
 await tp.file.rename(`${icon + title + suffix}`);
 
 let parser = null
