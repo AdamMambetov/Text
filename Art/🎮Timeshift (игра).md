@@ -1,9 +1,9 @@
 ---
 created: 2025-06-11T22:57:30+03:00
-modified: 2025-06-11T23:00:21+03:00
-Name: Timeshift
+modified: 2025-06-12T03:50:01+03:00
+Name: TimeShift
 aliases:
-  - Timeshift
+  - TimeShift
 Status: complete
 Type: game
 Rating: PG-13
@@ -12,7 +12,7 @@ Year: 2007
 Views: 1
 ---
 
-# Timeshift
+# TimeShift
 
 ![[timeshift_game_cover.jpg | 300]]
 
@@ -54,7 +54,7 @@ hidden true
 
 ## Причина добавления
 
-Где-то вычитал, что это игра про путешествия во времени.
+Нашёл на странице [«Временная петля»](https://ru.wikipedia.org/wiki/%D0%92%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BF%D0%B5%D1%82%D0%BB%D1%8F) в википедии.
 
 
 ## Описание
