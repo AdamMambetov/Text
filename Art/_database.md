@@ -366,7 +366,7 @@ filters:
           value: "watch"
           type: select
       - condition: OR
-        disabled: false
+        disabled: true
         label: "Просмотрено"
         color: "hsl(120,100%,50%)"
         filters:
@@ -445,5 +445,14 @@ filters:
         - field: Type
           operator: EQUAL
           value: "game"
+          type: select
+      - condition: AND
+        disabled: false
+        label: "Брошено"
+        color: "hsl(192, 95%, 90%)"
+        filters:
+        - field: Status
+          operator: EQUAL
+          value: "drop"
           type: select
 ```
