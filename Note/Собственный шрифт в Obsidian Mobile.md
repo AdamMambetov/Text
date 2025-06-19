@@ -1,14 +1,14 @@
 ---
 created: 2024-07-01T20:15:34+03:00
-modified: 2025-04-11T22:45:39+03:00
+modified: 2025-06-19T14:31:55+03:00
 issue:
-  - "[[Как добавить собственный шрифт в Obsidian Mobile]]"
+  - "[[Собственный шрифт в Obsidian Mobile]]"
 meta:
   - "[[Obsidian]]"
 source: https://forum.obsidian.md/t/adding-a-custom-font-to-android-ios/68045
 ---
 
-# Как добавить собственный шрифт в Obsidian Mobile
+# Собственный шрифт в Obsidian Mobile
 
 >[!cite]- Оригинал
 > Hi, I want to share how I added a custom font to Android/iOS devices. This technique employs Obsidian’s CSS snippet feature so you do not need to install or create a custom theme.
