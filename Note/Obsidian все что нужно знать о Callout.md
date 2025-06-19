@@ -89,18 +89,23 @@ meta:
 1. Главная страница хранилища
 
 ![](https://habrastorage.org/r/w1560/getpro/habr/upload_files/a6c/2a5/b8a/a6c2a5b8a13f906bad85c2253ab13e5f.png)
+
 2. Менеджер паролей
 
 ![](https://habrastorage.org/r/w1560/getpro/habr/upload_files/a0f/27e/968/a0f27e9683083f1d3666cab21b9db799.png)
+
 3. Рецензирование [статей](https://habr.com/ru/articles/888328/) своих [друзей](https://habr.com/ru/users/proDream/)
 
 ![](https://habrastorage.org/r/w1560/getpro/habr/upload_files/67a/29e/594/67a29e59430852e9d9c9b4b346895b8f.png)
+
 4. Менеджер вопросов
 
 ![](https://habrastorage.org/r/w1560/getpro/habr/upload_files/8f4/390/5e4/8f43905e4e74094c666b6184857f8477.png)
+
 5. ["Быстрые заметки"](https://habr.com/ru/articles/887482/#comment_27998058)
 
 ![](https://habrastorage.org/r/w1560/getpro/habr/upload_files/d4a/484/487/d4a484487482eb391c3df69b0163d731.png)
+
 6. Шаблон для обучения программированию
 
 ![](https://habrastorage.org/r/w1560/getpro/habr/upload_files/299/ae1/d5e/299ae1d5ed7bae933a6d3c8599d65f3e.png)
