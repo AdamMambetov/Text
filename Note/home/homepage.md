@@ -1,6 +1,6 @@
 ---
 created: 2024-06-13T19:43:38+03:00
-modified: 2025-06-12T14:52:55+03:00
+modified: 2025-06-21T17:31:11+03:00
 banner: "![[banner.jpg]]"
 banner_lock: true
 banner_y: 0.5
