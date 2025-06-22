@@ -2,9 +2,9 @@
 created: 2024-07-21T03:37:02+03:00
 modified: 2024-07-21T03:37:02+03:00
 creator: https://t.me/backender0
-source: https://telegra.ph/Samye-poleznye-repozitorii-05-27
 related:
   - "[[Программирование|programing]]"
+source: https://telegra.ph/Samye-poleznye-repozitorii-05-27
 ---
 
 # 10 репозиториев GitHub: о которых должен знать каждый

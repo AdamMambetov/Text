@@ -1,9 +1,9 @@
 ---
 created: 2025-03-18T20:33:10+03:00
 modified: 2025-04-11T23:30:19+03:00
-source: https://dtf.ru/howto/3275813-vsem-privet-hochu-podelitsya-s-vami-kak-chinit-prosto-i-bystro-bolshuyu-chast-ue4-ue5-igr
 meta:
   - "[[Unreal Engine]]"
+source: https://dtf.ru/howto/3275813-vsem-privet-hochu-podelitsya-s-vami-kak-chinit-prosto-i-bystro-bolshuyu-chast-ue4-ue5-igr
 ---
 
 # Статтеры в играх на Unreal Engine

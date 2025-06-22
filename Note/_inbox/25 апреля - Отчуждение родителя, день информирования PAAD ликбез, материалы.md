@@ -3,10 +3,10 @@ created: 2023-04-25T00:00:00
 modified: 2024-06-29T22:38:17+03:00
 tags:
   - source/article
-creator:
-  - "[[@Сергей Мохров]]"
 category:
   - "[[Маносфера]]"
+creator:
+  - "[[@Сергей Мохров]]"
 source: https://odysee.com/@1D:c/25-апреля-отчуждение:9
 ---
 

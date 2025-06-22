@@ -1,10 +1,10 @@
 ---
 created: 2025-04-11T00:00:00+03:00
 modified: 2025-04-23T03:25:59+03:00
-source: https://telegra.ph/10-lajfhakov-dlya-Android-razrabotchika-poleznye-extensions-na-Kotlin-04-25
 creator: http://t.me/backender0
 related:
   - "[[Программирование]]"
+source: https://telegra.ph/10-lajfhakov-dlya-Android-razrabotchika-poleznye-extensions-na-Kotlin-04-25
 ---
 
 # 10 лайфхаков для Android-разработчика
