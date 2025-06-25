@@ -357,7 +357,7 @@ filters:
   enabled: true
   conditions:
       - condition: OR
-        disabled: true
+        disabled: false
         label: "Смотрю"
         color: "hsl(120,100%,50%)"
         filters:
@@ -447,7 +447,7 @@ filters:
           value: "game"
           type: select
       - condition: AND
-        disabled: false
+        disabled: true
         label: "Брошено"
         color: "hsl(192, 95%, 90%)"
         filters:
