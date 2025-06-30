@@ -1,20 +1,13 @@
 ---
 created: <% tp.date.now("YYYY-MM-DD[T]HH:mm:ssZ") %>
 modified: <% tp.date.now("YYYY-MM-DD[T]HH:mm:ssZ") %>
-Name: "{{value}}"
-creator: 
+aliases:
+  - "{{value}}"
 Year: 
-tags:
-  - source/music/album
+tracklist: []
+Cover: ""
+genres: []
 ---
 
 # {{value}}
-
-## Tracklist
-
- 1. 
-
-
-## Links
-
 
