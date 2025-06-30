@@ -2,12 +2,14 @@
 created: <% tp.date.now("YYYY-MM-DD[T]HH:mm:ssZ") %>
 modified: <% tp.date.now("YYYY-MM-DD[T]HH:mm:ssZ") %>
 aliases:
-  - <% tp.file.title %>
-creator: 
-SourceFile: ""
+  - {{value}}
+creator: []
+SourceFile: "[[{{value}}.mp3]]"
 CoverOf: ""
-source:
+source: ""
+tags: []
 ---
 
-# <% tp.file.title %>
+# {{value}}
 
+![[{{value}}.mp3]]
