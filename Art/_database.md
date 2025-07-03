@@ -393,7 +393,7 @@ filters:
           value: "film"
           type: select
       - condition: OR
-        disabled: false
+        disabled: true
         label: "Аниме"
         color: "hsl(240,100%,50%)"
         filters:
