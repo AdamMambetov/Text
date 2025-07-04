@@ -1,6 +1,6 @@
 ---
 created: 2025-06-24T04:50:30+03:00
-modified: 2025-07-03T21:43:31+03:00
+modified: 2025-07-04T03:34:31+03:00
 Name: Elden Ring Nightreign
 aliases:
   - Elden Ring Nightreign
@@ -11,6 +11,8 @@ Rating: R-17
 Cover: 
 Year: 2025
 Views: 1
+related:
+  - "[[🎮Elden Ring (игра)]]"
 ---
 
 # Elden Ring Nightreign
