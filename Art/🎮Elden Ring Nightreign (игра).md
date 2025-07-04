@@ -1,11 +1,11 @@
 ---
 created: 2025-06-24T04:50:30+03:00
-modified: 2025-06-27T09:44:38+03:00
+modified: 2025-07-03T21:43:31+03:00
 Name: Elden Ring Nightreign
 aliases:
   - Elden Ring Nightreign
   - Найтрейн
-Status: complete
+Status: watch
 Type: game
 Rating: R-17
 Cover: 
