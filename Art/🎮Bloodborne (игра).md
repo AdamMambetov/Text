@@ -1,6 +1,5 @@
 ---
 created: 2024-09-12T20:46:14+03:00
-modified: 2024-09-15T00:25:22+03:00
 Name: Bloodborne
 aliases:
   - Bloodborne

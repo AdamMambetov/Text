@@ -1,6 +1,5 @@
 ---
 created: 2024-07-21T02:29:10+03:00
-modified: 2024-09-15T00:25:34+03:00
 Name: Godreaper
 aliases:
   - Godreaper

@@ -1,6 +1,5 @@
 ---
 created: 2025-05-06T13:02:03+03:00
-modified: 2025-05-29T02:48:03+03:00
 Name: Man of Medan
 aliases:
   - Man of Medan

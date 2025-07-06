@@ -1,6 +1,5 @@
 ---
 created: 2024-08-13T17:31:47+03:00
-modified: 2025-05-30T01:17:51+03:00
 Name: Dark Souls 3
 aliases:
   - Dark Souls 3

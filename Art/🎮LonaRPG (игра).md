@@ -1,6 +1,5 @@
 ---
 created: 2025-05-30T01:14:39+03:00
-modified: 2025-05-30T01:15:50+03:00
 Name: LonaRPG
 aliases:
   - LonaRPG

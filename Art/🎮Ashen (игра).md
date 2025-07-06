@@ -1,6 +1,5 @@
 ---
 created: 2025-04-12T16:59:13+03:00
-modified: 2025-04-12T16:59:51+03:00
 Name: Ashen
 aliases:
   - Ashen

@@ -1,6 +1,5 @@
 ---
 created: 2025-06-24T04:50:30+03:00
-modified: 2025-07-04T03:34:31+03:00
 Name: Elden Ring Nightreign
 aliases:
   - Elden Ring Nightreign

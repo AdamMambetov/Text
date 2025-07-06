@@ -1,6 +1,5 @@
 ---
 created: 2024-07-29T00:41:26+03:00
-modified: 2025-04-11T22:26:17+03:00
 Name: Курс по Ruby
 aliases:
   - Курс по Ruby

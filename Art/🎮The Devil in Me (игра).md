@@ -1,6 +1,5 @@
 ---
 created: 2025-05-06T13:10:09+03:00
-modified: 2025-05-30T01:40:43+03:00
 Name: The Devil in Me
 aliases:
   - The Devil in Me

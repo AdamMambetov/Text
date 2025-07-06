@@ -1,6 +1,5 @@
 ---
 created: 2024-08-29T19:09:23+03:00
-modified: 2025-05-30T01:26:47+03:00
 Name: "Amnesia: The Bunker"
 aliases:
   - "Amnesia: The Bunker"

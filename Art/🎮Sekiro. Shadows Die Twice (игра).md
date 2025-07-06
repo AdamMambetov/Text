@@ -1,6 +1,5 @@
 ---
 created: 2025-04-12T17:17:33+03:00
-modified: 2025-04-12T17:19:04+03:00
 Name: "Sekiro: Shadows Die Twice"
 aliases:
   - "Sekiro: Shadows Die Twice"

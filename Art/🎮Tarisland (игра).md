@@ -1,6 +1,5 @@
 ---
 created: 2024-06-28T01:25:50+03:00
-modified: 2025-04-11T23:33:10+03:00
 Name: Tarisland
 aliases:
   - Tarisland

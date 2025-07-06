@@ -1,6 +1,5 @@
 ---
 created: 2024-08-29T23:14:46+03:00
-modified: 2024-09-15T00:25:03+03:00
 Name: 7 Days to Die
 aliases:
   - 7 Days to Die

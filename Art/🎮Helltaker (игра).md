@@ -1,6 +1,5 @@
 ---
 created: 2025-07-01T04:06:14+03:00
-modified: 2025-07-02T01:10:00+03:00
 Name: Helltaker
 aliases:
   - Helltaker

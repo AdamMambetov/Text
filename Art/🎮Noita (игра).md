@@ -1,6 +1,5 @@
 ---
 created: 2025-05-06T19:42:11+03:00
-modified: 2025-05-06T19:42:11+03:00
 Name: Noita
 aliases: Noita
 Status: plan

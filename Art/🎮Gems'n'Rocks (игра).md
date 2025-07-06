@@ -1,6 +1,5 @@
 ---
 created: 2025-03-28T22:05:04+03:00
-modified: 2025-03-28T22:06:33+03:00
 Name: Gems'n'Rocks
 Status: plan
 Type: game

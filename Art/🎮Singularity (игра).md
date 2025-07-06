@@ -1,6 +1,5 @@
 ---
 created: 2025-06-12T04:02:57+03:00
-modified: 2025-06-12T04:03:39+03:00
 Name: Singularity
 aliases:
   - Singularity

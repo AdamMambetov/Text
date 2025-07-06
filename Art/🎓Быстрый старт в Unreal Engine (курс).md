@@ -1,6 +1,5 @@
 ---
 created: 2025-04-23T01:48:43+03:00
-modified: 2025-04-23T01:48:43+03:00
 Name: Быстрый старт в Unreal Engine
 aliases:
   - Быстрый старт в Unreal Engine

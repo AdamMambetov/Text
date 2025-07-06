@@ -1,6 +1,5 @@
 ---
 created: 2025-05-07T14:20:41+03:00
-modified: 2025-05-07T14:20:41+03:00
 Name: Life Goes On
 aliases: Life Goes On
 Status: plan

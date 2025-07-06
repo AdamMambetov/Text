@@ -1,6 +1,5 @@
 ---
 created: 2025-05-06T13:13:02+03:00
-modified: 2025-05-30T01:40:17+03:00
 Name: As Dusk Falls
 aliases:
   - As Dusk Falls

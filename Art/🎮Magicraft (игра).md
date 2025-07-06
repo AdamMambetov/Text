@@ -1,6 +1,5 @@
 ---
 created: 2025-05-09T01:45:28+03:00
-modified: 2025-05-09T01:48:19+03:00
 Name: Magicraft
 aliases:
   - Magicraft

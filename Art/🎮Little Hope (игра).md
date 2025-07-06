@@ -1,6 +1,5 @@
 ---
 created: 2025-05-06T13:06:39+03:00
-modified: 2025-05-29T02:49:06+03:00
 Name: Little Hope
 aliases:
   - Little Hope

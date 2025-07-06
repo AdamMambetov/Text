@@ -1,6 +1,5 @@
 ---
 created: 2025-04-12T17:32:37+03:00
-modified: 2025-04-12T17:34:47+03:00
 Name: Steelrising
 aliases:
   - Steelrising

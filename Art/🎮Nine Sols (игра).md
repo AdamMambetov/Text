@@ -1,6 +1,5 @@
 ---
 created: 2025-04-12T16:46:45+03:00
-modified: 2025-04-12T16:47:43+03:00
 Name: Nine Sols
 aliases:
   - Nine Sols

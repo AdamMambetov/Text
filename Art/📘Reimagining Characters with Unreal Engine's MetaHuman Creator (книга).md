@@ -1,6 +1,5 @@
 ---
 created: 2025-03-24T20:19:39+03:00
-modified: 2025-04-11T23:31:45+03:00
 Name: Reimagining Characters with Unreal Engine's MetaHuman Creator
 Status: plan
 Type: book

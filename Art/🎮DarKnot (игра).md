@@ -1,6 +1,5 @@
 ---
 created: 2024-07-21T00:00:00+03:00
-modified: 2025-04-11T23:33:55+03:00
 Name: DarKnot
 aliases:
   - DarKnot

@@ -1,6 +1,5 @@
 ---
 created: 2025-04-12T14:42:34+03:00
-modified: 2025-04-12T14:54:38+03:00
 Name: Death's Door
 aliases:
   - Death's Door

@@ -1,6 +1,5 @@
 ---
 created: 2025-05-07T14:21:43+03:00
-modified: 2025-05-29T02:12:11+03:00
 Name: Murdered Soul Suspect
 aliases:
   - Murdered Soul Suspect

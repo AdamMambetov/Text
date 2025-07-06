@@ -1,6 +1,5 @@
 ---
 created: 2025-04-12T17:25:17+03:00
-modified: 2025-04-12T17:27:03+03:00
 Name: The Surge 2
 aliases:
   - The Surge 2

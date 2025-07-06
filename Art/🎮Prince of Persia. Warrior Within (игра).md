@@ -1,6 +1,5 @@
 ---
 created: 2025-07-03T04:14:07+03:00
-modified: 2025-07-03T04:14:07+03:00
 Name: "Prince of Persia: Warrior Within"
 aliases:
   - "Prince of Persia: Warrior Within"

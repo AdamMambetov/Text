@@ -1,6 +1,5 @@
 ---
 created: 2025-05-08T22:31:33+03:00
-modified: 2025-05-08T22:34:30+03:00
 Name: Amazing Cultivation Simulator
 aliases:
   - Amazing Cultivation Simulator

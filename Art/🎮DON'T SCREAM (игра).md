@@ -1,6 +1,5 @@
 ---
 created: 2025-06-02T00:24:14+03:00
-modified: 2025-06-02T00:48:56+03:00
 Name: DON'T SCREAM
 aliases:
   - DON'T SCREAM

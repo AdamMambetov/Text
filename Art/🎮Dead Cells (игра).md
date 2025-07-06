@@ -1,6 +1,5 @@
 ---
 created: 2025-04-12T17:20:57+03:00
-modified: 2025-04-12T17:22:11+03:00
 Name: Dead Cells
 aliases:
   - Dead Cells

@@ -1,6 +1,5 @@
 ---
 created: 2024-08-07T14:08:24+03:00
-modified: 2025-04-11T23:33:29+03:00
 Name: SkyWay
 aliases:
   - SkyWay

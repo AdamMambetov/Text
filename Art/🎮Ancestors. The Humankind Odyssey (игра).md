@@ -1,6 +1,5 @@
 ---
 created: 2025-05-07T14:12:47+03:00
-modified: 2025-05-07T14:12:47+03:00
 Name: "Ancestors: The Humankind Odyssey"
 aliases: "Ancestors: The Humankind Odyssey"
 Status: plan

@@ -1,6 +1,5 @@
 ---
 created: 2025-05-29T02:53:14+03:00
-modified: 2025-05-29T02:54:38+03:00
 Name: Dark Souls
 aliases:
   - Dark Souls

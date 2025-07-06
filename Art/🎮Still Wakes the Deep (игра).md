@@ -1,6 +1,5 @@
 ---
 created: 2024-08-20T00:17:15+03:00
-modified: 2024-09-15T00:25:48+03:00
 Name: Still Wakes the Deep
 aliases:
   - Still Wakes the Deep

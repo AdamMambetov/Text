@@ -1,6 +1,5 @@
 ---
 created: 2024-10-27T23:28:58+03:00
-modified: 2025-05-30T01:28:17+03:00
 Name: Your Turn To Die
 aliases:
   - Your Turn To Die

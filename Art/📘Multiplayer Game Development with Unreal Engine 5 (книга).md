@@ -1,6 +1,5 @@
 ---
 created: 2025-03-24T20:17:24+03:00
-modified: 2025-04-11T23:32:06+03:00
 Name: Multiplayer Game Development with Unreal Engine 5
 Status: plan
 Type: book

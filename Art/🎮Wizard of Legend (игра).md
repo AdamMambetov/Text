@@ -1,6 +1,5 @@
 ---
 created: 2024-12-22T22:56:05+03:00
-modified: 2024-12-23T00:02:50+03:00
 Name: Wizard of Legend
 Status: defer
 Type: game

@@ -1,6 +1,5 @@
 ---
 created: 2025-05-06T19:36:11+03:00
-modified: 2025-05-29T02:24:13+03:00
 Name: Cyberpunk 2077
 aliases:
   - Cyberpunk 2077

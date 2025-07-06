@@ -1,6 +1,5 @@
 ---
 created: 2023-12-03T17:33:00
-modified: 2025-04-11T23:32:55+03:00
 Name: The Crust
 aliases:
   - The Crust

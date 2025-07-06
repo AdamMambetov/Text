@@ -1,6 +1,5 @@
 ---
 created: 2024-06-28T01:22:35+03:00
-modified: 2025-05-30T01:23:38+03:00
 Name: osu!
 aliases:
   - osu!

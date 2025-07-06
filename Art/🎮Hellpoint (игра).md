@@ -1,6 +1,5 @@
 ---
 created: 2025-04-12T17:28:33+03:00
-modified: 2025-04-12T17:29:05+03:00
 Name: Hellpoint
 aliases:
   - Hellpoint

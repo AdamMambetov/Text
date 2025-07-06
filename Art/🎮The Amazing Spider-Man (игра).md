@@ -1,6 +1,5 @@
 ---
 created: 2025-05-06T19:50:12+03:00
-modified: 2025-05-06T19:50:12+03:00
 Name: The Amazing Spider-Man
 aliases: The Amazing Spider-Man
 Status: complete

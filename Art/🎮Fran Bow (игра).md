@@ -1,6 +1,5 @@
 ---
 created: 2025-05-06T19:38:59+03:00
-modified: 2025-05-30T01:06:48+03:00
 Name: Fran Bow
 aliases:
   - Fran Bow

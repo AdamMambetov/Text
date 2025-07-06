@@ -1,6 +1,5 @@
 ---
 created: 2025-03-24T20:31:39+03:00
-modified: 2025-05-29T01:19:45+03:00
 Name: Slay the Princess
 Status: plan
 Type: game

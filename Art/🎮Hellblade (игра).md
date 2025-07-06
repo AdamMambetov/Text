@@ -1,6 +1,5 @@
 ---
 created: 2025-05-07T14:18:28+03:00
-modified: 2025-05-07T14:18:28+03:00
 Name: Hellblade
 aliases: Hellblade
 Status: plan
