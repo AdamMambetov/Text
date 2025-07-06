@@ -102,7 +102,6 @@ if (links[0].length > "https://shikimori.one/".length)
 
 tR += "---" + "\n"
 tR += "created: " + tp.date.now("YYYY-MM-DD[T]HH:mm:ssZ") + "\n"
-tR += "modified: " + tp.date.now("YYYY-MM-DD[T]HH:mm:ssZ") + "\n"
 tR += "Name: " + title + "\n"
 tR += "aliases: " + title + "\n"
 tR += "Status: " + status + "\n"
