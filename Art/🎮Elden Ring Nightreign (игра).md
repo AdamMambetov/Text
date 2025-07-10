@@ -4,6 +4,7 @@ Name: Elden Ring Nightreign
 aliases:
   - Elden Ring Nightreign
   - Найтрейн
+  - Nightreign
 Status: watch
 Type: game
 Rating: R-17
