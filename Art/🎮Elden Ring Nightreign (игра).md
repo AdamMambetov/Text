@@ -5,7 +5,7 @@ aliases:
   - Elden Ring Nightreign
   - Найтрейн
   - Nightreign
-Status: watch
+Status: complete
 Type: game
 Rating: R-17
 Cover: 

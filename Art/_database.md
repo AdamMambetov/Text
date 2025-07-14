@@ -103,6 +103,7 @@ columns:
       - { label: "course", value: "course", color: "hsl(344, 95%, 90%)"}
       - { label: "manhua", value: "manhua", color: "hsl(193, 95%, 90%)"}
       - { label: "game", value: "game", color: "hsl(259, 95%, 90%)"}
+      - { label: "cartoon", value: "cartoon", color: "hsl(14, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
