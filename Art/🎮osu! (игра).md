@@ -4,7 +4,7 @@ Name: osu!
 aliases:
   - osu!
   - осу
-Status: watch
+Status: defer
 Type: game
 Cover: "![[osu_game_cover.jpg]]"
 Year: 2007
@@ -12,7 +12,7 @@ Year: 2007
 
 # osu!
 
-![[osu_game_cover.jpg | 300]]
+![[osu_game_cover.jpg]]
 
 ```button
 name World Art
