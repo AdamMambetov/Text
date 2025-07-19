@@ -68,7 +68,7 @@ columns:
     skipPersist: false
     isHidden: false
     sortIndex: -1
-    width: 87.47439575195312
+    width: -3.52838134765625
     isSorted: false
     isSortedDesc: false
     config:
