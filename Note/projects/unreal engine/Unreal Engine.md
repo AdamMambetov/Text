@@ -2,13 +2,10 @@
 created: 2024-07-17T16:06:20+03:00
 modified: 2025-04-23T01:54:48+03:00
 aliases:
-  - UE5
   - UE4
-  - unreal engine
+  - UE5
   - Unreal Engine 4
   - Unreal Engine 5
-  - unreal engine 4
-  - unreal engine 5
 category:
   - "[[Программирование]]"
 ---
