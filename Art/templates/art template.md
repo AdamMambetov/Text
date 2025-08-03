@@ -19,6 +19,7 @@ let status = await tp.system.suggester(statuses.preview, statuses.items);
 let rating = await tp.system.suggester(ratings, ratings)
 let year = await tp.system.prompt("Год", "")
 let episode = ""
+
 let season = ""
 if (type === "series") {
 	episode = await tp.system.prompt("Эпизод", "")
