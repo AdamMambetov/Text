@@ -1,6 +1,8 @@
 ---
 created: 2024-05-08T14:01:51+03:00
 modified: 2025-04-11T23:05:34+03:00
+aliases:
+  - godot next tick
 category:
   - "[[Программирование]]"
 creator:
