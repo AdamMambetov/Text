@@ -4,7 +4,7 @@ Name: STEINS;GATE
 aliases:
   - STEINS;GATE
   - Врата Штейна
-Status: watch
+Status: plan
 Type: game
 Rating: PG-13
 Cover: "![[steins_gate_game_cover.jpg]]"
