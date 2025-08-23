@@ -7,10 +7,8 @@ views:
       and:
         - file.basename != "_art base"
         - file.basename != "_database"
-        - '!file.inFolder("Text/Art/covers")'
-        - '!file.inFolder("Text/Art/templates")'
-        - or:
-            - file.folder.contains("Art")
+        - '!file.inFolder("covers")'
+        - '!file.inFolder("templates")'
     order:
       - Name
       - Rating
