@@ -1,0 +1,25 @@
+formulas:
+  Untitled: ""
+views:
+  - type: cards
+    name: Cards
+    filters:
+      and:
+        - file.basename != "_art base"
+        - file.basename != "_database"
+        - '!file.inFolder("Text/Art/covers")'
+        - '!file.inFolder("Text/Art/templates")'
+        - or:
+            - file.folder.contains("Art")
+    order:
+      - Name
+      - Rating
+      - Status
+      - Episode
+      - Year
+      - Views
+      - Type
+    sort:
+      - property: Name
+        direction: ASC
+    image: note.Cover
