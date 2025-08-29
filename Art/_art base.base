@@ -21,3 +21,4 @@ views:
       - property: Name
         direction: ASC
     image: note.Cover
+    cardSize: 130
