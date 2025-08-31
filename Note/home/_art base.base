@@ -11,7 +11,7 @@ views:
         - '!file.inFolder("Text/Art/templates")'
         - file.inFolder("Text/Art")
         - and:
-            - Status == "watch"
+            - Type == "anime"
     order:
       - Name
       - Rating
@@ -24,3 +24,5 @@ views:
       - property: Name
         direction: ASC
     image: note.Cover
+    imageFit: ""
+    imageAspectRatio: 1.4
