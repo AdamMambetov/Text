@@ -11,7 +11,7 @@ views:
         - '!file.inFolder("Text/Art/templates")'
         - file.inFolder("Text/Art")
         - and:
-            - Type == "anime"
+            - Status == "watch"
     order:
       - Name
       - Rating
