@@ -3,11 +3,12 @@ created: 2025-05-09T01:45:28+03:00
 Name: Magicraft
 aliases:
   - Magicraft
-Status: watch
+Status: complete
 Type: game
 Rating: PG-13
 Cover: "[[magicraft_game_cover.jpg]]"
 Year: 2023
+Views: 1
 ---
 
 # Magicraft

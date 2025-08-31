@@ -10,9 +10,9 @@ Rating: PG-13
 Cover: "[[rhythm_heaven_game_cover.jpg]]"
 Year: 2006
 Episode: 7.2
+Views: 1
 tags:
   - ❤
-Views: 1
 ---
 
 # Rhythm Heaven
