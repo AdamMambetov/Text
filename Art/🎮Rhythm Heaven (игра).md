@@ -4,14 +4,15 @@ Name: Rhythm Heaven
 aliases:
   - Rhythm Heaven
   - Rhythm Tengoku
-Status: watch
+Status: complete
 Type: game
 Rating: PG-13
 Cover: "[[rhythm_heaven_game_cover.jpg]]"
 Year: 2006
-Episode: 6.6
+Episode: 7.2
 tags:
   - ❤
+Views: 1
 ---
 
 # Rhythm Heaven
