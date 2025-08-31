@@ -6,7 +6,7 @@ aliases:
 Status: plan
 Type: game
 Rating: PG-13
-Cover: "![[lies_of_p_game_cover.jpg]]"
+Cover: "[[lies_of_p_game_cover.jpg]]"
 Year: 2023
 ---
 

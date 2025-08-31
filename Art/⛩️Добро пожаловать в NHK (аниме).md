@@ -6,7 +6,7 @@ aliases:
 Status: defer
 Type: anime
 Rating: R+
-Cover: "![[nhk_ni_youkoso_anime_cover.jpeg]]"
+Cover: "[[nhk_ni_youkoso_anime_cover.jpeg]]"
 Year: 2006
 Episode: 12
 tags:

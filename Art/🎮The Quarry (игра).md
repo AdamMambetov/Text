@@ -5,7 +5,7 @@ aliases:
   - The Quarry
 Status: defer
 Type: game
-Cover: "![[the_quarry_game_cover.png]]"
+Cover: "[[the_quarry_game_cover.png]]"
 Year: 2022
 meta:
   - "[[Unreal Engine]]"

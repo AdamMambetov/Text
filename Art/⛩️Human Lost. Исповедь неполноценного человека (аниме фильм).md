@@ -8,7 +8,7 @@ aliases:
   - No Longer Human
 Status: complete
 Type: anime film
-Cover: "![[human_lost_anime_film_cover.png]]"
+Cover: "[[human_lost_anime_film_cover.png]]"
 Year: 2019
 Views: 1
 ---

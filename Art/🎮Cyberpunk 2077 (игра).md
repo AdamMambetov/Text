@@ -7,7 +7,7 @@ aliases:
 Status: plan
 Type: game
 Rating: R-17
-Cover: "![[cyberpunk_2077_game_cover.jpg]]"
+Cover: "[[cyberpunk_2077_game_cover.jpg]]"
 Year: 2020
 ---
 

@@ -6,7 +6,7 @@ aliases:
 Status: plan
 Type: game
 Rating: R-17
-Cover: "![[singularity_game_cover.jpg]]"
+Cover: "[[singularity_game_cover.jpg]]"
 Year: 2010
 meta:
   - "[[Unreal Engine]]"

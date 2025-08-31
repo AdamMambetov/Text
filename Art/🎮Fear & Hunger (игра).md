@@ -7,7 +7,7 @@ aliases:
 Status: drop
 Type: game
 Rating: R+
-Cover: "![[fear_and_hunger_game_cover.jpg]]"
+Cover: "[[fear_and_hunger_game_cover.jpg]]"
 Year: 2019
 tags:
   - 🔞

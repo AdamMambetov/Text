@@ -7,7 +7,7 @@ aliases:
 Status: complete
 Type: manhwa
 Rating: R-17
-Cover: "![[fff_class_trashero_manhwa_cover.jpg]]"
+Cover: "[[fff_class_trashero_manhwa_cover.jpg]]"
 Year: 2019
 Episode: 172
 Views: 1

@@ -7,7 +7,7 @@ aliases:
   - Hellsing OVA
 Status: complete
 Type: anime
-Cover: "![[hellsing_ultimate_anime_cover.png]]"
+Cover: "[[hellsing_ultimate_anime_cover.png]]"
 Year: 2006
 Episode: 10
 Views: 1

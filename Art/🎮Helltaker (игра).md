@@ -6,7 +6,7 @@ aliases:
 Status: complete
 Type: game
 Rating: PG-13
-Cover: "![[helltaker_game_cover.jpg]]"
+Cover: "[[helltaker_game_cover.jpg]]"
 Year: 2020
 Views: 1
 ---

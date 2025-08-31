@@ -5,7 +5,7 @@ aliases:
   - Bloodborne
 Status: plan
 Type: game
-Cover: "![[bloodborne_game_cover.jpeg]]"
+Cover: "[[bloodborne_game_cover.jpeg]]"
 Year: 2015
 ---
 

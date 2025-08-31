@@ -9,7 +9,7 @@ aliases:
 Status: complete
 Type: game
 Rating: PG-13
-Cover: "![[prince_of_persia_2_game_cover.jpg]]"
+Cover: "[[prince_of_persia_2_game_cover.jpg]]"
 Year: 2004
 Views: 5
 Предыстория: "[[🎮Prince of Persia. The Sands of Time (игра)]]"

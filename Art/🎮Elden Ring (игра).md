@@ -7,7 +7,7 @@ aliases:
   - Кольцо Элден
 Status: complete
 Type: game
-Cover: "![[elden_ring_game_cover.jpeg]]"
+Cover: "[[elden_ring_game_cover.jpeg]]"
 Year: 2022
 Views: 2
 tags:

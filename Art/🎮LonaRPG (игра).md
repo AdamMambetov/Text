@@ -6,7 +6,7 @@ aliases:
 Status: defer
 Type: game
 Rating: Rx
-Cover: "![[lonarpg_game_cover.jpg]]"
+Cover: "[[lonarpg_game_cover.jpg]]"
 Year: 2021
 tags:
   - 🔞

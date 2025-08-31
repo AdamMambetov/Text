@@ -4,7 +4,7 @@ Name: Bodycam
 Status: plan
 Type: game
 Rating: PG-13
-Cover: "![[bodycam_game_cover.jpg]]"
+Cover: "[[bodycam_game_cover.jpg]]"
 Year: 2024
 source: https://store.steampowered.com/app/2406770/Bodycam/
 ---

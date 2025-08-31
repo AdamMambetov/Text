@@ -6,7 +6,7 @@ aliases:
 Status: plan
 Type: game
 Rating: PG-13
-Cover: "![[death's_door_game_cover.jpg]]"
+Cover: "[[death's_door_game_cover.jpg]]"
 Year: 2021
 ---
 

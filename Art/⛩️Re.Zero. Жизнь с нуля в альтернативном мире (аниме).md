@@ -11,7 +11,7 @@ aliases:
 Status: complete
 Type: anime
 Rating: R-17
-Cover: "![[re_zero_anime_cover.jpeg]]"
+Cover: "[[re_zero_anime_cover.jpeg]]"
 Year: 2016
 Episode: 25
 Views: 4

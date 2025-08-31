@@ -5,7 +5,7 @@ aliases:
   - C++ для профи
 Status: defer
 Type: book
-Cover: "![[cpp_для_профи_book_cover.jpg]]"
+Cover: "[[cpp_для_профи_book_cover.jpg]]"
 Year: 2021
 Episode: 37
 category:

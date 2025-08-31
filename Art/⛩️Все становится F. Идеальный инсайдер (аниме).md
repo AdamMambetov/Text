@@ -6,7 +6,7 @@ aliases:
 Status: drop
 Type: anime
 Rating: R-17
-Cover: "![[subete_ga_f_ni_naru_anime_cover.jpeg]]"
+Cover: "[[subete_ga_f_ni_naru_anime_cover.jpeg]]"
 Year: 2015
 Episode: 1
 ---

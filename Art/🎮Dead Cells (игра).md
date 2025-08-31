@@ -6,7 +6,7 @@ aliases:
 Status: defer
 Type: game
 Rating: PG
-Cover: "![[dead_cells_game_cover.jpg]]"
+Cover: "[[dead_cells_game_cover.jpg]]"
 Year: 2017
 ---
 

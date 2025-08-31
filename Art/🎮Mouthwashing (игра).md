@@ -6,7 +6,7 @@ aliases:
 Status: complete
 Type: game
 Rating: R+
-Cover: "![[mouthwashing_game_cover.jpg]]"
+Cover: "[[mouthwashing_game_cover.jpg]]"
 Year: 2020
 Views: 1
 tags:

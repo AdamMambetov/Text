@@ -7,7 +7,7 @@ aliases:
 Status: plan
 Type: game
 Rating: R-17
-Cover: "![[мор_2_game_cover.jpg]]"
+Cover: "[[мор_2_game_cover.jpg]]"
 Year: 2019
 Предыстория: "[[🎮Мор. Утопия (игра)]]"
 ---

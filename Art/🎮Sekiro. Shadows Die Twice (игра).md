@@ -6,7 +6,7 @@ aliases:
 Status: plan
 Type: game
 Rating: R-17
-Cover: "![[sekiro_game_cover.jpg]]"
+Cover: "[[sekiro_game_cover.jpg]]"
 Year: 2019
 ---
 

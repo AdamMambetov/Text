@@ -9,7 +9,7 @@ aliases:
 Status: complete
 Type: anime film
 Rating: PG-13
-Cover: "![[re_zero_frozen_bond_anime_film_cover.png]]"
+Cover: "[[re_zero_frozen_bond_anime_film_cover.png]]"
 Year: 2019
 Views: 1
 Продолжение: "[[⛩️Re.Zero. Жизнь с нуля в альтернативном мире (аниме)]]"

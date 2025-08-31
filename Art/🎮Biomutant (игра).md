@@ -6,7 +6,7 @@ aliases:
 Status: plan
 Type: game
 Rating: PG-13
-Cover: "![[biomutant_game_cover.jpg]]"
+Cover: "[[biomutant_game_cover.jpg]]"
 Year: 2021
 ---
 

@@ -7,7 +7,7 @@ aliases:
 Status: complete
 Type: game
 Rating: PG-13
-Cover: "![[prince_of_persia_game_cover.jpg]]"
+Cover: "[[prince_of_persia_game_cover.jpg]]"
 Year: 2003
 Views: 5
 Продолжение: "[[🎮Prince of Persia. Warrior Within (игра)]]"

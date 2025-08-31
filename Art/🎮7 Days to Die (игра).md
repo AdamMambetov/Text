@@ -5,7 +5,7 @@ aliases:
   - 7 Days to Die
 Status: defer
 Type: game
-Cover: "![[7_days_to_die_game_cover.png]]"
+Cover: "[[7_days_to_die_game_cover.png]]"
 Year: 2013
 ---
 

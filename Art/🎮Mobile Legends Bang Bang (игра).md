@@ -8,7 +8,7 @@ aliases:
   - мобла
 Status: defer
 Type: game
-Cover: "![[mobile_legends_bang_bang_game_cover.png]]"
+Cover: "[[mobile_legends_bang_bang_game_cover.png]]"
 Year: 2016
 related:
   - "[[4ef3332ab0b78807ab9c4b7a21710d73.jpg]]"

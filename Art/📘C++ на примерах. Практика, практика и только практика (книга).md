@@ -5,7 +5,7 @@ aliases:
   - C++ на примерах. Практика, практика и только практика
 Status: plan
 Type: book
-Cover: "![[cpp_на_примерах_book_cover.jpg]]"
+Cover: "[[cpp_на_примерах_book_cover.jpg]]"
 Year: 2019
 category:
   - "[[Программирование]]"

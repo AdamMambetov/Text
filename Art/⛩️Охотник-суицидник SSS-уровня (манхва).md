@@ -6,7 +6,7 @@ aliases:
 Status: defer
 Type: manhwa
 Rating: R+
-Cover: "![[sss_level_suicide_hunter_manhwa_cover.jpg]]"
+Cover: "[[sss_level_suicide_hunter_manhwa_cover.jpg]]"
 Year: 2020
 Episode: 35
 tags:

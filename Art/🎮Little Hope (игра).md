@@ -6,7 +6,7 @@ aliases:
 Status: complete
 Type: game
 Rating: R-17
-Cover: "![[little_hope_game_cover.jpg]]"
+Cover: "[[little_hope_game_cover.jpg]]"
 Year: 2020
 Views: 2
 ---

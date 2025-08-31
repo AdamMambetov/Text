@@ -8,7 +8,7 @@ aliases:
   - дс3
 Status: complete
 Type: game
-Cover: "![[dark_souls_3_game_cover.jpg]]"
+Cover: "[[dark_souls_3_game_cover.jpg]]"
 Year: 2016
 Views: 1
 related:

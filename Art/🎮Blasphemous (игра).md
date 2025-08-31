@@ -6,7 +6,7 @@ aliases:
 Status: plan
 Type: game
 Rating: PG-13
-Cover: "![[blasphemous_game_cover.jpg]]"
+Cover: "[[blasphemous_game_cover.jpg]]"
 Year: 2019
 ---
 

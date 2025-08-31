@@ -7,7 +7,7 @@ aliases:
 Status: complete
 Type: anime
 Rating: R-17
-Cover: "![[id_invaded_anime_cover.png]]"
+Cover: "[[id_invaded_anime_cover.png]]"
 Year: 2020
 Episode: 13
 Views: 1

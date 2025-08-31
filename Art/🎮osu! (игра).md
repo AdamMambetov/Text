@@ -6,7 +6,7 @@ aliases:
   - осу
 Status: defer
 Type: game
-Cover: "![[osu_game_cover.jpg]]"
+Cover: "[[osu_game_cover.jpg]]"
 Year: 2007
 ---
 

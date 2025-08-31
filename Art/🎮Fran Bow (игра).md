@@ -6,7 +6,7 @@ aliases:
 Status: complete
 Type: game
 Rating: R-17
-Cover: "![[fran_bow_game_cover.jpg]]"
+Cover: "[[fran_bow_game_cover.jpg]]"
 Year: 2015
 Views: 1
 ---

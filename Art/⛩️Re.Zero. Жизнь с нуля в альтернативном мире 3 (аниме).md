@@ -11,7 +11,7 @@ aliases:
 Status: complete
 Type: anime
 Rating: R-17
-Cover: "![[re_zero_3_anime_cover.jpeg]]"
+Cover: "[[re_zero_3_anime_cover.jpeg]]"
 Year: 2024
 Episode: 16
 Views: 1

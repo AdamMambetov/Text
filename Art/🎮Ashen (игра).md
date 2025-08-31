@@ -6,7 +6,7 @@ aliases:
 Status: plan
 Type: game
 Rating: PG
-Cover: "![[ashen_game_cover.jpg]]"
+Cover: "[[ashen_game_cover.jpg]]"
 Year: 2018
 meta:
   - "[[Unreal Engine]]"

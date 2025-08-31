@@ -4,7 +4,7 @@ Name: Slay the Princess
 Status: plan
 Type: game
 Rating: R-17
-Cover: "![[slay_the_princess_game_cover.jpg]]"
+Cover: "[[slay_the_princess_game_cover.jpg]]"
 Year: 2023
 ---
 

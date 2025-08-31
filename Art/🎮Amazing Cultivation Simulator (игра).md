@@ -6,7 +6,7 @@ aliases:
 Status: plan
 Type: game
 Rating: R-17
-Cover: "![[amazing_cultivation_simulator_game_cover.jpg]]"
+Cover: "[[amazing_cultivation_simulator_game_cover.jpg]]"
 Year: 2020
 ---
 

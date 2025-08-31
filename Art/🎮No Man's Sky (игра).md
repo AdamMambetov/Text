@@ -7,7 +7,7 @@ aliases:
 Status: watch
 Type: game
 Rating: PG-13
-Cover: "![[no_mans_sky_game_cover.jpg]]"
+Cover: "[[no_mans_sky_game_cover.jpg]]"
 Year: 2016
 ---
 

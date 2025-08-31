@@ -6,7 +6,7 @@ aliases:
 Status: complete
 Type: game
 Rating: PG-13
-Cover: "![[superliminal_game_cover.jpg]]"
+Cover: "[[superliminal_game_cover.jpg]]"
 Year: 2019
 Views: 2
 ---

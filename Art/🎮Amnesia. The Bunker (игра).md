@@ -5,7 +5,7 @@ aliases:
   - "Amnesia: The Bunker"
 Status: complete
 Type: game
-Cover: "![[amnesia_the_bunker_game_cover.png]]"
+Cover: "[[amnesia_the_bunker_game_cover.png]]"
 Year: 2023
 Views: 1
 ---

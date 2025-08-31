@@ -7,7 +7,7 @@ aliases:
 Status: complete
 Type: game
 Rating: PG-13
-Cover: "![[bpm_game_cover.jpg]]"
+Cover: "[[bpm_game_cover.jpg]]"
 Year: 2020
 Views: 2
 tags:

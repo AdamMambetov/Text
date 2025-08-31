@@ -6,7 +6,7 @@ aliases:
 Status: plan
 Type: game
 Rating: PG-13
-Cover: "![[the_surge_2_game_cover.jpg]]"
+Cover: "[[the_surge_2_game_cover.jpg]]"
 Year: 2019
 ---
 

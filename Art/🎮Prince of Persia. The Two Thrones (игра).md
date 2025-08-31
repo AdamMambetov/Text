@@ -8,7 +8,7 @@ aliases:
 Status: plan
 Type: game
 Rating: PG-13
-Cover: "![[prince_of_persia_3_game_cover.jpg]]"
+Cover: "[[prince_of_persia_3_game_cover.jpg]]"
 Year: 2005
 Предыстория: "[[🎮Prince of Persia. Warrior Within (игра)]]"
 ---

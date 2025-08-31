@@ -11,7 +11,7 @@ aliases:
 Status: complete
 Type: anime
 Rating: R-17
-Cover: "![[re_zero_2_part_2_anime_cover.png]]"
+Cover: "[[re_zero_2_part_2_anime_cover.png]]"
 Year: 2021
 Episode: 12
 Views: 1

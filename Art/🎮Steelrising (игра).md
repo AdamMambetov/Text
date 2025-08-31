@@ -6,7 +6,7 @@ aliases:
 Status: plan
 Type: game
 Rating: PG-13
-Cover: "![[steelrising_game_cover.jpg]]"
+Cover: "[[steelrising_game_cover.jpg]]"
 Year: 2022
 ---
 
