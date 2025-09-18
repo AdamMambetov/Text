@@ -1,6 +1,5 @@
 ---
 created: 2024-07-21T00:00:00+03:00
-Name: DarKnot
 aliases:
   - DarKnot
 Status: plan

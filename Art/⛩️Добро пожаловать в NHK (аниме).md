@@ -1,6 +1,5 @@
 ---
 created: 2024-07-29T00:41:26+03:00
-Name: Добро пожаловать в NHK
 aliases:
   - Добро пожаловать в NHK
 Status: defer

@@ -1,10 +1,9 @@
 ---
 created: 2025-03-24T20:21:36+03:00
-Name: Unreal Engine 5 Game Development with C++ Scripting
 Status: plan
 Type: book
 Rating: PG-13
-Cover: 
+Cover:
 Year: 2023
 category:
   - "[[Программирование]]"

@@ -1,12 +1,11 @@
 ---
 created: 2025-05-06T19:32:15+03:00
-Name: Do Not Feed Monkeys
 aliases:
   - Do Not Feed the Monkeys
 Status: complete
 Type: game
 Rating: PG-13
-Cover: 
+Cover:
 Year: 2018
 Views: 1
 ---

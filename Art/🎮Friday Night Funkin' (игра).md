@@ -1,12 +1,11 @@
 ---
 created: 2025-08-11T14:25:00+03:00
-Name: "Friday Night Funkin'"
-aliases: 
-  - "Friday Night Funkin'"
+aliases:
+  - Friday Night Funkin'
 Status: plan
 Type: game
 Rating: G
-Cover: 
+Cover:
 Year: 2019
 ---
 

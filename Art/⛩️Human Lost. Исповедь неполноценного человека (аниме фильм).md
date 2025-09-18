@@ -1,6 +1,5 @@
 ---
 created: 2024-09-23T16:29:45+03:00
-Name: "Human Lost: Исповедь неполноценного человека"
 aliases:
   - "Human Lost: Исповедь неполноценного человека"
   - "Human Lost: Ningen Shikkaku"

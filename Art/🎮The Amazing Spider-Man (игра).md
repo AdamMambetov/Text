@@ -1,11 +1,10 @@
 ---
 created: 2025-05-06T19:50:12+03:00
-Name: The Amazing Spider-Man
 aliases: The Amazing Spider-Man
 Status: complete
 Type: game
 Rating: PG-13
-Cover: 
+Cover:
 Year: 1989
 Views: 1
 ---

@@ -1,6 +1,5 @@
 ---
 created: 2024-06-16T00:00:00
-Name: C++ для профи
 aliases:
   - C++ для профи
 Status: defer

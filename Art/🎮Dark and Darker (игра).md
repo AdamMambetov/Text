@@ -1,6 +1,5 @@
 ---
 created: 2024-06-28T01:38:12+03:00
-Name: Dark and Darker
 aliases:
   - Dark and Darker
 Status: defer

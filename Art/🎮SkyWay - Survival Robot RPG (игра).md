@@ -1,6 +1,5 @@
 ---
 created: 2024-08-07T14:08:24+03:00
-Name: SkyWay
 aliases:
   - SkyWay
 Status: complete

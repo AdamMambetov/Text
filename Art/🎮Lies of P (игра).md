@@ -1,6 +1,5 @@
 ---
 created: 2025-04-12T17:10:23+03:00
-Name: Lies of P
 aliases:
   - Lies of P
 Status: plan

@@ -1,12 +1,11 @@
 ---
 created: 2025-04-23T01:48:43+03:00
-Name: Быстрый старт в Unreal Engine
 aliases:
   - Быстрый старт в Unreal Engine
 Status: plan
 Type: course
 Rating: PG-13
-Cover: 
+Cover:
 Year: 2024
 category:
   - "[[Программирование]]"

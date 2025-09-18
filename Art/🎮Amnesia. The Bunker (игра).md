@@ -1,6 +1,5 @@
 ---
 created: 2024-08-29T19:09:23+03:00
-Name: "Amnesia: The Bunker"
 aliases:
   - "Amnesia: The Bunker"
 Status: complete

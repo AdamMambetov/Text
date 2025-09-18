@@ -1,6 +1,5 @@
 ---
 created: 2024-10-27T23:28:58+03:00
-Name: Your Turn To Die
 aliases:
   - Your Turn To Die
   - YTTD

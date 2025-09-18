@@ -1,12 +1,11 @@
 ---
 created: 2024-11-02T20:31:55+03:00
-Name: Teacher Feeling
 aliases:
   - Teacher Feeling
 Status: drop
 Type: game
 Rating: Rx
-Cover: 
+Cover:
 Year: 2015
 source: https://teachingfeelingapk.fun/
 ---

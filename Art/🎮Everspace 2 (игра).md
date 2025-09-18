@@ -1,6 +1,5 @@
 ---
 created: 2025-05-29T23:41:58+03:00
-Name: Everspace 2
 aliases:
   - Everspace 2
 Status: plan

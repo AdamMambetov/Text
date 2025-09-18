@@ -1,6 +1,5 @@
 ---
 created: 2024-09-23T16:33:39+03:00
-Name: "ID: Вторжение"
 aliases:
   - "ID: Вторжение"
   - "ID: Invaded"

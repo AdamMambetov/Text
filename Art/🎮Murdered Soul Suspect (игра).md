@@ -1,6 +1,5 @@
 ---
 created: 2025-05-07T14:21:43+03:00
-Name: Murdered Soul Suspect
 aliases:
   - Murdered Soul Suspect
 Status: plan

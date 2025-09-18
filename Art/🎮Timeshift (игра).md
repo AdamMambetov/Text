@@ -1,6 +1,5 @@
 ---
 created: 2025-06-11T22:57:30+03:00
-Name: TimeShift
 aliases:
   - TimeShift
 Status: complete

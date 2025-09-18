@@ -1,12 +1,11 @@
 ---
 created: 2025-04-23T00:50:28+03:00
-Name: Covenant
 aliases: Covenant
 Status: plan
 Type: game
 Rating: PG-13
-Cover: 
-Year: 
+Cover:
+Year:
 ---
 
 # Covenant

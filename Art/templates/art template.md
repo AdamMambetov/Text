@@ -70,12 +70,12 @@ switch(type) {
 
 let icon = ""
 switch(type) {
-	case "anime":
-	case "anime film":
-	case "manga":
-	case "manhua":
-	case "manhwa":
-	case "ranobe":
+	case "anime": // 🌸
+	case "anime film": // 🌸
+	case "manga": // 🇯🇵📚
+	case "manhua": // 🇨🇳📚
+	case "manhwa": // 🇰🇷📚
+	case "ranobe": // 📑🗂
 		icon = "⛩️"
 		break
 	case "book":
@@ -103,7 +103,6 @@ if (links[0].length > "https://shikimori.one/".length)
 
 tR += "---" + "\n"
 tR += "created: " + tp.date.now("YYYY-MM-DD[T]HH:mm:ssZ") + "\n"
-tR += "Name: \"" + title + "\"\n"
 tR += "aliases: \n  - \"" + title + "\"\n"
 tR += "Status: " + status + "\n"
 tR += "Type: " + type + "\n"

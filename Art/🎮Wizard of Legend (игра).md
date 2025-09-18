@@ -1,10 +1,9 @@
 ---
 created: 2024-12-22T22:56:05+03:00
-Name: Wizard of Legend
 Status: defer
 Type: game
 Rating: PG-13
-Cover: 
+Cover:
 Year: 2018
 ---
 

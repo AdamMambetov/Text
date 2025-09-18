@@ -1,6 +1,5 @@
 ---
 created: 2025-03-28T16:31:03+03:00
-Name: Dark Souls 2
 aliases:
   - Dark Souls 2
   - Dark Souls II

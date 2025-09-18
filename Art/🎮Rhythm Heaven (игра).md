@@ -1,6 +1,5 @@
 ---
 created: 2025-07-12T15:11:35+03:00
-Name: Rhythm Heaven
 aliases:
   - Rhythm Heaven
   - Rhythm Tengoku

@@ -1,6 +1,5 @@
 ---
 created: 2024-08-17T03:09:06+03:00
-Name: The Quarry
 aliases:
   - The Quarry
 Status: defer

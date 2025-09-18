@@ -1,6 +1,5 @@
 ---
 created: 2024-07-01T18:58:25+03:00
-Name: Heavy Rain
 aliases:
   - Heavy Rain
 Status: complete

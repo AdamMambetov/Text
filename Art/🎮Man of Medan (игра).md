@@ -1,6 +1,5 @@
 ---
 created: 2025-05-06T13:02:03+03:00
-Name: Man of Medan
 aliases:
   - Man of Medan
 Status: watch

@@ -1,6 +1,5 @@
 ---
 created: 2025-04-12T16:50:44+03:00
-Name: Blasphemous
 aliases:
   - Blasphemous
 Status: plan

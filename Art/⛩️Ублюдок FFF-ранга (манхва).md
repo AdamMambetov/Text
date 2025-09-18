@@ -1,6 +1,5 @@
 ---
 created: 2025-01-17T12:17:43+03:00
-Name: Ублюдок FFF-ранга
 aliases:
   - Ублюдок FFF-ранга
   - FFF-Class Trashero

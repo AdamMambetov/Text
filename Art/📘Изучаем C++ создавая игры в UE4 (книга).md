@@ -1,6 +1,5 @@
 ---
 created: 2025-03-24T20:13:04+03:00
-Name: Изучаем C++ создавая игры в UE4
 Status: plan
 Type: book
 Rating: PG-13

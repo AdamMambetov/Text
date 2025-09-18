@@ -1,10 +1,9 @@
 ---
 created: 2025-03-24T20:19:39+03:00
-Name: Reimagining Characters with Unreal Engine's MetaHuman Creator
 Status: plan
 Type: book
 Rating: PG-13
-Cover: 
+Cover:
 Year: 2022
 category:
   - "[[Программирование]]"

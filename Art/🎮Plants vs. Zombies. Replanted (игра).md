@@ -1,12 +1,11 @@
 ---
 created: 2025-08-02T15:23:19+03:00
-Name: "Plants vs. Zombies: Replanted"
 aliases:
   - "Plants vs. Zombies: Replanted"
 Status: plan
 Type: game
 Rating: PG
-Cover: 
+Cover:
 Year:
 ---
 

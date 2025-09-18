@@ -1,6 +1,5 @@
 ---
 created: 2025-05-06T13:06:39+03:00
-Name: Little Hope
 aliases:
   - Little Hope
 Status: complete

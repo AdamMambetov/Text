@@ -1,6 +1,5 @@
 ---
 created: 2025-05-29T23:58:47+03:00
-Name: Biomutant
 aliases:
   - Biomutant
 Status: plan

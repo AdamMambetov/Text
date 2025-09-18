@@ -1,6 +1,5 @@
 ---
 created: 2024-09-14T17:05:21+03:00
-Name: "Mobile Legends: Bang Bang"
 aliases:
   - "Mobile Legends: Bang Bang"
   - mlbb

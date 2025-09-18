@@ -1,6 +1,5 @@
 ---
 created: 2025-04-12T16:46:45+03:00
-Name: Nine Sols
 aliases:
   - Nine Sols
 Status: plan

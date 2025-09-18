@@ -1,6 +1,5 @@
 ---
 created: 2024-06-28T01:22:35+03:00
-Name: osu!
 aliases:
   - osu!
   - осу

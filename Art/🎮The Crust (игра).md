@@ -1,6 +1,5 @@
 ---
 created: 2023-12-03T17:33:00
-Name: The Crust
 aliases:
   - The Crust
 Status: plan

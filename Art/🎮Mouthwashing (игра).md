@@ -1,6 +1,5 @@
 ---
 created: 2025-05-26T01:21:36+03:00
-Name: Mouthwashing
 aliases:
   - Mouthwashing
 Status: complete

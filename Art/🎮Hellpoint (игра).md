@@ -1,6 +1,5 @@
 ---
 created: 2025-04-12T17:28:33+03:00
-Name: Hellpoint
 aliases:
   - Hellpoint
 Status: plan

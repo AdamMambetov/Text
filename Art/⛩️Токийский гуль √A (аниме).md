@@ -1,6 +1,5 @@
 ---
 created: 2024-11-04T14:18:08+03:00
-Name: Токийский гуль √A
 aliases:
   - Токийский гуль √A
 Status: complete

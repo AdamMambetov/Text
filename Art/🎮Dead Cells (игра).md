@@ -1,6 +1,5 @@
 ---
 created: 2025-04-12T17:20:57+03:00
-Name: Dead Cells
 aliases:
   - Dead Cells
 Status: defer

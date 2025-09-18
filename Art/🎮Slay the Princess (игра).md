@@ -1,6 +1,5 @@
 ---
 created: 2025-03-24T20:31:39+03:00
-Name: Slay the Princess
 Status: plan
 Type: game
 Rating: R-17

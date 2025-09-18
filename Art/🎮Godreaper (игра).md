@@ -1,6 +1,5 @@
 ---
 created: 2024-07-21T02:29:10+03:00
-Name: Godreaper
 aliases:
   - Godreaper
 Status: plan

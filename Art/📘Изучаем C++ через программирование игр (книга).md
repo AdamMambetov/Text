@@ -1,10 +1,9 @@
 ---
 created: 2025-03-24T20:25:20+03:00
-Name: Изучаем C++ через программирование игр
 Status: plan
 Type: book
 Rating: PG
-Cover: 
+Cover:
 Year: 2016
 category:
   - "[[Программирование]]"

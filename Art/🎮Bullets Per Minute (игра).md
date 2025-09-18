@@ -1,6 +1,5 @@
 ---
 created: 2024-12-12T18:49:00+03:00
-Name: Bullets Per Minute
 aliases:
   - BPM
   - Bullets Per Minute

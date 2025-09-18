@@ -1,11 +1,10 @@
 ---
 created: 2024-08-29T23:14:46+03:00
-Name: Echo Point
 aliases:
   - Echo Point
 Status: plan
 Type: game
-Cover: 
+Cover:
 Year: 2024
 meta:
   - "[[Godot]]"

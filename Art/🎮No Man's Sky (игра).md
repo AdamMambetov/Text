@@ -1,6 +1,5 @@
 ---
 created: 2025-05-30T00:39:10+03:00
-Name: No Man's Sky
 aliases:
   - No Man's Sky
   - No Mans Sky

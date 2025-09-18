@@ -1,12 +1,11 @@
 ---
 created: 2025-05-05T12:56:40+03:00
-Name: Five Hearst Under One Roof
 aliases: Five Hearst Under One Roof
 Status: complete
 Type: game
 Rating: PG-13
-Cover: 
-Year: 
+Cover:
+Year:
 Views: 1
 ---
 

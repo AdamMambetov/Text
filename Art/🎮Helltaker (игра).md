@@ -1,6 +1,5 @@
 ---
 created: 2025-07-01T04:06:14+03:00
-Name: Helltaker
 aliases:
   - Helltaker
 Status: complete

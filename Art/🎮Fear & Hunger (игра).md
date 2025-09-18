@@ -1,6 +1,5 @@
 ---
 created: 2025-06-12T23:55:53+03:00
-Name: Fear & Hunger
 aliases:
   - Fear & Hunger
   - Fear and Hunger

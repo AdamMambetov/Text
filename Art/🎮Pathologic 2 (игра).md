@@ -1,6 +1,5 @@
 ---
 created: 2025-05-08T02:05:10+03:00
-Name: Pathologic 2
 aliases:
   - Pathologic 2
   - Мор 2

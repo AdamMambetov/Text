@@ -1,6 +1,5 @@
 ---
 created: 2025-07-03T04:25:10+03:00
-Name: "Prince of Persia: The Two Thrones"
 aliases:
   - "Prince of Persia: The Two Thrones"
   - "Prince Of Persia 3: The Two Thrones"

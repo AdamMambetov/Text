@@ -1,6 +1,5 @@
 ---
 created: 2025-06-24T04:50:30+03:00
-Name: Elden Ring Nightreign
 aliases:
   - Elden Ring Nightreign
   - Найтрейн
@@ -8,7 +7,7 @@ aliases:
 Status: complete
 Type: game
 Rating: R-17
-Cover: 
+Cover:
 Year: 2025
 Views: 1
 related:

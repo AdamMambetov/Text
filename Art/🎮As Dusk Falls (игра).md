@@ -1,12 +1,11 @@
 ---
 created: 2025-05-06T13:13:02+03:00
-Name: As Dusk Falls
 aliases:
   - As Dusk Falls
 Status: complete
 Type: game
 Rating: R-17
-Cover: 
+Cover:
 Year: 2022
 Views: 1
 ---

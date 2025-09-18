@@ -1,6 +1,5 @@
 ---
 created: 2025-05-10T17:19:11+03:00
-Name: Thrive
 aliases:
   - Thrive
 Status: plan

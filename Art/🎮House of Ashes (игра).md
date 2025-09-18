@@ -1,6 +1,5 @@
 ---
 created: 2025-04-28T00:06:02+03:00
-Name: House of Ashes
 aliases:
   - House of Ashes
 Status: complete

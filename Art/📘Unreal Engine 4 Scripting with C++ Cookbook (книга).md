@@ -1,11 +1,10 @@
 ---
 created: 2025-03-24T20:14:40+03:00
-Name: Unreal Engine 4 Scripting with C++ Cookbook
 Status: plan
 Type: book
 Rating: PG-13
-Cover: 
-Year: 
+Cover:
+Year:
 category:
   - "[[Программирование]]"
 creator: Стивен Уиттл, Уильям Шериф

@@ -1,6 +1,5 @@
 ---
 created: 2025-05-08T02:33:49+03:00
-Name: "Prince of Persia: The Sands of Time"
 aliases:
   - "Prince of Persia: The Sands of Time"
   - "Принц Персии: Пески времени"

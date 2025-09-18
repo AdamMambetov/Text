@@ -1,5 +1,6 @@
 formulas:
   Untitled: ""
+  name: aliases[0]
 views:
   - type: cards
     name: Cards
@@ -10,15 +11,16 @@ views:
         - '!file.inFolder("covers")'
         - '!file.inFolder("templates")'
     order:
-      - Name
+      - formula.name
       - Rating
       - Status
       - Episode
       - Year
       - Views
-      - Type
     sort:
-      - property: Name
+      - property: Type
+        direction: ASC
+      - property: formula.name
         direction: ASC
     image: note.Cover
     cardSize: 130

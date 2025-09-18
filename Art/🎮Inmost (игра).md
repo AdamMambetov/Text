@@ -1,6 +1,5 @@
 ---
 created: 2024-07-01T22:06:09+03:00
-Name: Inmost
 aliases:
   - Inmost
 Status: plan

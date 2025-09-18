@@ -1,6 +1,5 @@
 ---
 created: 2025-04-12T17:06:11+03:00
-Name: Nioh 2
 aliases:
   - Nioh 2
 Status: plan
