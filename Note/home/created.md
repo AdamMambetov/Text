@@ -1,3 +1,4 @@
+# created
 
 ```dataview
 TABLE created AS "Новые заметки за месяц"
