@@ -1,5 +1,7 @@
 ---
 created: 2025-03-24T20:14:40+03:00
+aliases:
+  - Unreal Engine 4 Scripting with C++ Cookbook
 Status: plan
 Type: book
 Rating: PG-13

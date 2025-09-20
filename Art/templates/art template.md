@@ -1,4 +1,6 @@
 <%*
+dv = app.plugins.plugins.dataview.api;
+
 let types = {
 	preview: ["Аниме, anime", "Аниме фильм, anime film", "Книга, book", "Курс, course", "Фильм, film", "Игра, game", "Манга, mange", "Маньхуа, manhua", "Манхва, manhwa", "Ранобе, ranobe", "Сериал, series", "Мультсериал, cartoon"],
 	items: ["anime", "anime film", "book", "course", "film", "game", "manga", "manhua", "manhwa", "ranobe", "series", "cartoon"],
@@ -94,8 +96,9 @@ switch(type) {
 		icon = "🎬"
 		break
 }
-let suffix = " (" + types.itemsRu[types.items.findIndex((el) => el === type)].toLowerCase() + ")"
-await tp.file.rename(`${icon + title + suffix}`);
+
+let num = dv.pages().filter(p => !p.file.path.contains('/')).length
+await tp.file.rename(`${title} (${icon}${num})`);
 
 let parser = null
 if (links[0].length > "https://shikimori.one/".length)

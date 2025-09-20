@@ -1,5 +1,7 @@
 ---
 created: 2025-03-24T20:17:24+03:00
+aliases:
+  - Multiplayer Game Development with Unreal Engine 5
 Status: plan
 Type: book
 Rating: PG-13

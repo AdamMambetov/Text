@@ -1,5 +1,7 @@
 ---
 created: 2025-03-24T20:19:39+03:00
+aliases:
+  - Reimagining Characters with Unreal Engine's MetaHuman Creator
 Status: plan
 Type: book
 Rating: PG-13

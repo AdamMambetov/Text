@@ -1,5 +1,7 @@
 ---
 created: 2025-03-24T20:25:20+03:00
+aliases:
+  - Изучаем C++ через программирование игр
 Status: plan
 Type: book
 Rating: PG
