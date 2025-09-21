@@ -1,15 +1,15 @@
 ---
 created: 2025-09-20T23:15:21+03:00
 aliases:
-  - No, I'm not a Human
-Status: watch
+  - No, I'm Not a Human
+Status: complete
 Type: game
 Rating: PG-13
 Cover: "[[no_i'm_not_a_human_game_cover.jpg]]"
 Year: 2025
 ---
 
-# No, I'm not a Human
+# No, I'm Not a Human
 
 ![[no_i'm_not_a_human_game_cover.jpg]]
 
@@ -39,6 +39,7 @@ hidden true
 ## Причина добавления
 
 Узнал про игру на стриме у [[@HellYeahPlay | Сергея HellYeah]].
+Посмотрел прохождение [[@HellYeahPlay | Сергея HellYeah]].
 
 
 ## Описание

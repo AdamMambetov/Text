@@ -124,7 +124,7 @@ tR += "---"
 # <% title %>
 
 <%*
-if (parser !== null) {
+if (parser != null) {
 	tR += "![]("
 	tR += parser.imageLink
 	tR += ")\n\n"
@@ -278,7 +278,7 @@ switch (type) {
 ## Описание
 
 <%*
-if (parser !== null) {
+if (parser != null) {
 	tR += parser.desc
 }
 %>

@@ -1,6 +1,7 @@
 ---
 created: 2025-05-08T00:03:56+03:00
-aliases: Escape Academy
+aliases:
+  - Escape Academy
 Status: watch
 Type: game
 Rating: PG-13
