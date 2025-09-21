@@ -1,5 +1,5 @@
 ---
-created: 2022-03-16T00:00:00
+created: 2022-03-16T09:27:29
 aliases:
   - Хеллсинг OVA
   - Hellsing Ultimate

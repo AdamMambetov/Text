@@ -1,5 +1,5 @@
 ---
-created: 2024-11-04T14:19:03+03:00
+created: 2024-11-04T14:37:00
 aliases:
   - Старшая школа DxD
 Status: complete

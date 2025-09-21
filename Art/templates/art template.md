@@ -1,5 +1,5 @@
 <%*
-dv = app.plugins.plugins.dataview.api;
+dv = app.plugins.plugins.dataview.api
 
 let types = {
 	preview: ["Аниме, anime", "Аниме фильм, anime film", "Книга, book", "Курс, course", "Фильм, film", "Игра, game", "Манга, mange", "Маньхуа, manhua", "Манхва, manhwa", "Ранобе, ranobe", "Сериал, series", "Мультсериал, cartoon"],
@@ -97,7 +97,7 @@ switch(type) {
 		break
 }
 
-let num = dv.pages().filter(p => !p.file.path.contains('/')).length
+let num = dv.pages().filter(p => !p.file.path.includes('/')).length
 await tp.file.rename(`${title} (${icon}${num})`);
 
 let parser = null

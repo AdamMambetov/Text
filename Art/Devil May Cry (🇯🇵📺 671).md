@@ -1,0 +1,83 @@
+---
+created: 2024-11-04T14:20:24+03:00
+aliases:
+  - Devil May Cry
+  - Дьявол может плакать
+  - DMC
+  - Демон против демонов
+Status: watch
+Type: anime
+Rating: R-17
+Cover: "[[devil_may_cry_anime_cover.jpg]]"
+Year: 2007
+Episode: 4
+---
+
+# Devil May Cry
+
+![[devil_may_cry_anime_cover.jpg | 300]]
+
+```button
+name Shikimori
+type link
+action https://shikimori.one/animes/1726
+customColor #4682b4
+hidden true
+```
+^button-shikimori
+
+```button
+name TV Time
+type link
+action https://www.tvtime.com/
+customColor #997f00
+hidden true
+```
+^button-tvTime
+
+```button
+name World Art
+type link
+action http://www.world-art.ru/
+customColor #7a0000
+hidden true
+```
+^button-worldArt
+
+```button
+name AnimeLib
+type link
+action https://anilib.me/
+customColor #252527
+customTextColor #7E57C2
+hidden true
+```
+^button-animelib
+
+```button
+name Senkuro
+type link
+action https://senkuro.com/
+customColor #191A21
+hidden true
+```
+^button-senkuro
+
+```button
+name ReYohoho
+type link
+action https://reyohoho.github.io/reyohoho/
+customColor #1c1c1c
+hidden true
+```
+^button-reyohoho
+
+`button-shikimori` `button-tvTime`
+
+`button-worldArt` `button-animelib`
+
+`button-senkuro` `button-reyohoho`
+
+## Описание
+
+История про охотника на демонов [Данте](https://shikimori.one/characters/2880-dante). Являясь наполовину демоном, наполовину человеком, он вобрал в себя лучшее от обеих рас, но в итоге не принадлежит ни одному из миров. Орудуя на миссиях верным мечом Мятежником и двумя пистолетами, он защищает людей от вторжения нечисти. [Данте](https://shikimori.one/characters/2880-dante) - владелец и управляющий конторы под названием «Дьявол может плакать» и берётся за любую работу, в основном охоту на демонов, их истребление и всё, с этим связанное.

@@ -1,5 +1,5 @@
 ---
-created: 2024-07-29T00:41:26+03:00
+created: 2024-07-29T00:44:00
 aliases:
   - Курс по Ruby
 Status: defer
