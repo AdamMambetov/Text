@@ -7,9 +7,10 @@ views:
     filters:
       and:
         - file.basename != "_art base"
-        - file.basename != "_database"
-        - '!file.inFolder("covers")'
         - '!file.inFolder("templates")'
+        - file.hasProperty("aliases")
+        - '!file.inFolder("ratings")'
+        - '!file.inFolder("franchises")'
     order:
       - formula.name
       - Rating
@@ -17,6 +18,7 @@ views:
       - Episode
       - Year
       - Views
+      - Type
     sort:
       - property: Type
         direction: ASC
