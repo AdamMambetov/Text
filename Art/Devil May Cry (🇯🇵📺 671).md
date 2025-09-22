@@ -11,7 +11,7 @@ Rating:
   - "[[®️16|R-17]]"
 Cover: "[[devil_may_cry_anime_cover.jpg]]"
 Year: 2007
-Episode: 4
+Episode: 8
 ---
 
 # Devil May Cry
