@@ -4,7 +4,8 @@ aliases:
   - No, I'm Not a Human
 Status: complete
 Type: game
-Rating: PG-13
+Rating:
+  - "[[®️12|12+]]"
 Cover: "[[no_i'm_not_a_human_game_cover.jpg]]"
 Year: 2025
 ---

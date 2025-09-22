@@ -7,7 +7,8 @@ aliases:
   - Демон против демонов
 Status: watch
 Type: anime
-Rating: R-17
+Rating:
+  - "[[®️16|R-17]]"
 Cover: "[[devil_may_cry_anime_cover.jpg]]"
 Year: 2007
 Episode: 4

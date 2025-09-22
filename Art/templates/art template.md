@@ -10,6 +10,7 @@ let statuses = {
 	preview: ["watch, Читаю, Смотрю, Играю", "complete, Прочитано, Просмотрено, Пройдено", "defer, Отложено", "drop, Брошено", "plan, Запланировано"],
 	items: ["watch", "complete", "defer", "drop", "plan"]
 }
+let flags = ["🇷🇺", "🇨🇳", "🇯🇵", "🇺🇸", "🇰🇷"]
 let links = ["https://shikimori.one/", "https://www.tvtime.com/", "http://www.world-art.ru/", "https://onikes.ru/", "https://yo8z6gv.github.io/", "https://www.animefillerlist.com/", "https://mangalib.me/", "https://ranobelib.me/", "https://anilib.me/", "https://senkuro.com/", "https://reyohoho.github.io/reyohoho/", "https://freetp.org/", "https://store.steampowered.com/"]
 let names = ["shikimori", "tvTime", "worldArt", "onikes", "kesidatokioVods", "animeFillerList", "mangalib", "ranobelib", "animelib", "senkuro", "reyohoho", "freetp", "steam"]
 let buttonNames = ["Shikimori", "TV Time", "World Art", "ONIKES", "KESIDATOKIO VOD'S", "Anime Filler List", "MangaLib", "RanobeLib", "AnimeLib", "Senkuro", "ReYohoho", "FreeTP", "Steam"]
@@ -20,8 +21,9 @@ let type = await tp.system.suggester(types.preview, types.items);
 let status = await tp.system.suggester(statuses.preview, statuses.items);
 let rating = await tp.system.suggester(ratings, ratings)
 let year = await tp.system.prompt("Год", "")
-let episode = ""
+let flag = await tp.system.suggester(flags, flags)
 
+let episode = ""
 let season = ""
 if (type === "series") {
 	episode = await tp.system.prompt("Эпизод", "")
@@ -70,17 +72,21 @@ switch(type) {
 		break
 }
 
-let icon = ""
-switch(type) {
-	case "anime": // 🌸
-	case "anime film": // 🌸
-	case "manga": // 🇯🇵📚
-	case "manhua": // 🇨🇳📚
-	case "manhwa": // 🇰🇷📚
-	case "ranobe": // 📑🗂
-		icon = "⛩️"
+let icon
+switch (type) {
+	case "anime":
+	case "anime film":
+	case "cartoon":
+		icon = "📺"
+		// icon = "🌸"
+		break
+	case "manga":
+	case "manhua":
+	case "manhwa":
+		icon = "📗"
 		break
 	case "book":
+	case "ranobe":
 		icon = "📘"
 		break
 	case "course":
@@ -98,7 +104,9 @@ switch(type) {
 }
 
 let num = dv.pages().filter(p => !p.file.path.includes('/')).length
-await tp.file.rename(`${title} (${icon}${num})`);
+
+let title2 = title.replaceAll("ë", "е").replaceAll(":", ".").replaceAll ("?", ".")
+await tp.file.rename(`${title2} (${flag}${icon} ${num})`);
 
 let parser = null
 if (links[0].length > "https://shikimori.one/".length)
