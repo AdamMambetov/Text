@@ -8,6 +8,9 @@ Rating:
   - "[[®️12|12+]]"
 Cover: "[[no_i'm_not_a_human_game_cover.jpg]]"
 Year: 2025
+Views: 1
+tags:
+  - ❤
 ---
 
 # No, I'm Not a Human
