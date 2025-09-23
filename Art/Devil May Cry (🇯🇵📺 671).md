@@ -5,13 +5,14 @@ aliases:
   - Дьявол может плакать
   - DMC
   - Демон против демонов
-Status: watch
+Status: complete
 Type: anime
 Rating:
   - "[[®️16|R-17]]"
 Cover: "[[devil_may_cry_anime_cover.jpg]]"
 Year: 2007
-Episode: 8
+Episode: 12
+Views: 1
 ---
 
 # Devil May Cry
