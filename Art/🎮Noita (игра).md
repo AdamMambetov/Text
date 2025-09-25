@@ -1,6 +1,7 @@
 ---
 created: 2025-05-06T19:42:11+03:00
-aliases: Noita
+aliases:
+  - Noita
 Status: plan
 Type: game
 Rating: PG-13

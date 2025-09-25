@@ -1,7 +1,7 @@
 ---
 created: 2024-09-23T16:48:49+03:00
 aliases:
-  - "Re:Zero. Жизнь с нуля в альтернативном мире: Замороженные узы"
+  - "Re:Zero: Замороженные узы"
   - Re:Zero kara Hajimeru Isekai Seikatsu - Hyouketsu no Kizuna
   - Re:ZERO -Starting Life in Another World- The Frozen Bond
   - "Жизнь в альтернативном мире с нуля: Замороженные узы"

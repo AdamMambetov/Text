@@ -1,7 +1,7 @@
 ---
 created: 2024-09-23T16:53:49+03:00
 aliases:
-  - "Re:Zero. Жизнь с нуля в альтернативном мире: Снежные воспоминания"
+  - "Re:Zero: Снежные воспоминания"
   - Re:ZERO -Starting Life in Another World- Memory Snow
   - "Жизнь в альтернативном мире с нуля: Снежные воспоминания"
 Status: complete

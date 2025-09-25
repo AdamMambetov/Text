@@ -1,6 +1,7 @@
 ---
 created: 2025-05-07T14:20:41+03:00
-aliases: Life Goes On
+aliases:
+  - Life Goes On
 Status: plan
 Type: game
 Rating: PG-13

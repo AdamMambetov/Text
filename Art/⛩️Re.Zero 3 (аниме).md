@@ -1,7 +1,7 @@
 ---
 created: 2024-10-08T22:05:04+03:00
 aliases:
-  - Re:Zero. Жизнь с нуля в альтернативном мире 3
+  - Re:Zero 3
   - Re:Zero kara Hajimeru Isekai Seikatsu 3
   - Re:ZERO -Starting Life in Another World- Season 3
   - Жизнь в альтернативном мире с нуля 3

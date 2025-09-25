@@ -1,7 +1,7 @@
 ---
 created: 2024-09-23T16:42:41+03:00
 aliases:
-  - Re:Zero. Жизнь с нуля в альтернативном мире 2. Часть 2
+  - Re:Zero 2. Часть 2
   - Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2
   - Re:ZERO -Starting Life in Another World- Season 2 Part 2
   - Жизнь в альтернативном мире с нуля 2. Часть 2

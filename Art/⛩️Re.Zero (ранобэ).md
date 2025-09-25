@@ -1,7 +1,7 @@
 ---
 created: 2024-07-21T03:50:36+03:00
 aliases:
-  - Re:Zero. Жизнь с нуля в альтернативном мире
+  - Re:Zero
   - Re:Zero kara Hajimeru Isekai Seikatsu
   - Re:ZERO -Starting Life in Another World-
   - Жизнь в альтернативном мире с нуля

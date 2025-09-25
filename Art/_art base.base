@@ -1,5 +1,4 @@
 formulas:
-  Untitled: ""
   name: aliases[0]
 views:
   - type: cards
@@ -26,3 +25,13 @@ views:
         direction: ASC
     image: note.Cover
     cardSize: 130
+    imageAspectRatio: 1.55
+  - type: table
+    name: View
+    filters:
+      and:
+        - '!file.path.contains("/")'
+        - file.basename != "_art base"
+    order:
+      - formula.name
+      - file.name
