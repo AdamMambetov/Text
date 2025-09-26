@@ -4,7 +4,9 @@ aliases:
   - "Всё становится F: Идеальный инсайдер"
 Status: drop
 Type: anime
-Rating: R-17
+Rating:
+  - "[[®️16|R-17]]"
+  - "[[®️18|18+]]"
 Cover: "[[subete_ga_f_ni_naru_anime_cover.jpeg]]"
 Year: 2015
 Episode: 1
