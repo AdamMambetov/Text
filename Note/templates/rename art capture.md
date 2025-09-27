@@ -7,9 +7,6 @@ const files = dv.pages('"Text/Art"').filter(p => !p.file.path.includes('franchis
 for (let i = 0; i < files.length; i++) {
 	console.log(files[i].file.path)
 }
-new Notice(files.length, 10000)
-new Notice(files[files.length-1].file.path, 10000)
-return
 let num = files.findIndex(f => f.file.name === title) + 1
 if (num == -1) return
 
