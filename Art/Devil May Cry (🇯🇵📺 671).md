@@ -9,6 +9,7 @@ Status: complete
 Type: anime
 Rating:
   - "[[®️16|R-17]]"
+  - "[[®️18|18+]]"
 Cover: "[[devil_may_cry_anime_cover.jpg]]"
 Year: 2007
 Episode: 12
