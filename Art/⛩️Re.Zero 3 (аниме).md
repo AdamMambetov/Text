@@ -15,7 +15,7 @@ Cover: "[[re_zero_3_anime_cover.jpeg]]"
 Year: 2024
 Episode: 16
 Views: 1
-Адаптация: "[[⛩️Re.Zero (ранобэ)]]"
+Адаптация: "[[Re.Zero (🇯🇵📘 282)]]"
 Предыстория: "[[⛩️Re.Zero 2. Часть 2 (аниме)]]"
 ---
 

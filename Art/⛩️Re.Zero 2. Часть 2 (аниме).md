@@ -15,7 +15,7 @@ Cover: "[[re_zero_2_part_2_anime_cover.png]]"
 Year: 2021
 Episode: 12
 Views: 1
-Адаптация: "[[⛩️Re.Zero (ранобэ)]]"
+Адаптация: "[[Re.Zero (🇯🇵📘 282)]]"
 Предыстория: "[[⛩️Re.Zero 2 (аниме)]]"
 Продолжение: "[[⛩️Re.Zero 3 (аниме)]]"
 ---
