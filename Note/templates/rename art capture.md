@@ -4,9 +4,6 @@ dv = app.plugins.plugins.dataview.api
 let title = tp.file.title
 
 const files = dv.pages('"Text/Art"').filter(p => !p.file.path.includes('franchises') && !p.file.path.includes('templates') && !p.file.path.includes('ratings')).sort(f => f.created, "asc")
-for (let i = 0; i < files.length; i++) {
-	console.log(files[i].file.path)
-}
 let num = files.findIndex(f => f.file.name === title) + 1
 if (num == -1) return
 
