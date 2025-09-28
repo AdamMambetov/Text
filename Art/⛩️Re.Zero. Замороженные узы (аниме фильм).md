@@ -7,7 +7,8 @@ aliases:
   - "Жизнь в альтернативном мире с нуля: Замороженные узы"
 Status: complete
 Type: anime film
-Rating: PG-13
+Rating:
+  - "[[®️12|PG-13]]"
 Cover: "[[re_zero_frozen_bond_anime_film_cover.png]]"
 Year: 2019
 Views: 1

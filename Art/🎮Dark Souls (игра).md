@@ -4,7 +4,8 @@ aliases:
   - Dark Souls
 Status: watch
 Type: game
-Rating: PG-13
+Rating:
+  - "[[®️12|PG-13]]"
 Cover: "[[dark_souls_game_cover.jpg]]"
 Year: 2011
 Продолжение: "[[🎮Dark Souls 2 (игра)]]"

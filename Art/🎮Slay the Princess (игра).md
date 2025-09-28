@@ -4,7 +4,8 @@ aliases:
   - Slay the Princess
 Status: plan
 Type: game
-Rating: R-17
+Rating:
+  - "[[®️16|R-17]]"
 Cover: "[[slay_the_princess_game_cover.jpg]]"
 Year: 2023
 ---

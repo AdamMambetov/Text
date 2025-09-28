@@ -4,7 +4,8 @@ aliases:
   - House of Ashes
 Status: complete
 Type: game
-Rating: R-17
+Rating:
+  - "[[®️16|R-17]]"
 Cover: "[[house_of_ashes_game_cover.jpg]]"
 Year: 2021
 Views: 2

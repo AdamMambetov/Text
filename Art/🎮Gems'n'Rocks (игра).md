@@ -4,7 +4,8 @@ aliases:
   - Gems'n'Rocks
 Status: plan
 Type: game
-Rating: G
+Rating:
+  - "[[®️0|G]]"
 Cover:
 Year: 2024
 source: https://github.com/robjinman/gemsnrocks_asm

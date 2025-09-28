@@ -6,7 +6,8 @@ aliases:
   - "Принц Персии 3: Два трона"
 Status: plan
 Type: game
-Rating: PG-13
+Rating:
+  - "[[®️12|PG-13]]"
 Cover: "[[prince_of_persia_3_game_cover.jpg]]"
 Year: 2005
 Предыстория: "[[🎮Prince of Persia. Warrior Within (игра)]]"

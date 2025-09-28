@@ -4,7 +4,8 @@ aliases:
   - Охотник-суицидник SSS-уровня
 Status: defer
 Type: manhwa
-Rating: R+
+Rating:
+  - "[[®️18|R+]]"
 Cover: "[[sss_level_suicide_hunter_manhwa_cover.jpg]]"
 Year: 2020
 Episode: 35

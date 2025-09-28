@@ -5,7 +5,8 @@ aliases:
   - No Mans Sky
 Status: watch
 Type: game
-Rating: PG-13
+Rating:
+  - "[[®️12|PG-13]]"
 Cover: "[[no_mans_sky_game_cover.jpg]]"
 Year: 2016
 ---

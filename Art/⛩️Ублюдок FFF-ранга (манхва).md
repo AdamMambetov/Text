@@ -5,7 +5,8 @@ aliases:
   - FFF-Class Trashero
 Status: complete
 Type: manhwa
-Rating: R-17
+Rating:
+  - "[[®️16|R-17]]"
 Cover: "[[fff_class_trashero_manhwa_cover.jpg]]"
 Year: 2019
 Episode: 172

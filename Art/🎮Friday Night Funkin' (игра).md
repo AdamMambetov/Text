@@ -4,7 +4,8 @@ aliases:
   - Friday Night Funkin'
 Status: plan
 Type: game
-Rating: G
+Rating:
+  - "[[®️0|G]]"
 Cover:
 Year: 2019
 ---

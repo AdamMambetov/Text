@@ -6,7 +6,8 @@ aliases:
   - Nightreign
 Status: complete
 Type: game
-Rating: R-17
+Rating:
+  - "[[®️16|R-17]]"
 Cover:
 Year: 2025
 Views: 1

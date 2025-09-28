@@ -4,7 +4,8 @@ aliases:
   - Hellpoint
 Status: plan
 Type: game
-Rating: PG-13
+Rating:
+  - "[[®️12|PG-13]]"
 Cover: "[[hellpoint_game_cover.jpg]]"
 Year: 2020
 ---

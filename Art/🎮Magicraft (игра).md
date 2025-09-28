@@ -4,7 +4,8 @@ aliases:
   - Magicraft
 Status: complete
 Type: game
-Rating: PG-13
+Rating:
+  - "[[®️12|PG-13]]"
 Cover: "[[magicraft_game_cover.jpg]]"
 Year: 2023
 Views: 1

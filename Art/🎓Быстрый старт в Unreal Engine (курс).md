@@ -4,7 +4,8 @@ aliases:
   - Быстрый старт в Unreal Engine
 Status: plan
 Type: course
-Rating: PG-13
+Rating:
+  - "[[®️12|PG-13]]"
 Cover:
 Year: 2024
 category:

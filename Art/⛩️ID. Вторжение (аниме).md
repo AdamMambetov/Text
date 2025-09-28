@@ -5,7 +5,8 @@ aliases:
   - "ID: Invaded"
 Status: complete
 Type: anime
-Rating: R-17
+Rating:
+  - "[[®️16|R-17]]"
 Cover: "[[id_invaded_anime_cover.png]]"
 Year: 2020
 Episode: 13

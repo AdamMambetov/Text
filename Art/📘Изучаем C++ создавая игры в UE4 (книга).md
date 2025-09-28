@@ -4,7 +4,8 @@ aliases:
   - Изучаем C++ создавая игры в UE4
 Status: plan
 Type: book
-Rating: PG-13
+Rating:
+  - "[[®️12|PG-13]]"
 Cover: "[[изучаем_c++_создавая_игры_в_ue4_book_cover.jpg]]"
 Year: 2019
 category:

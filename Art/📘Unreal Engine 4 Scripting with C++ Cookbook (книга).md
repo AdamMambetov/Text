@@ -4,7 +4,8 @@ aliases:
   - Unreal Engine 4 Scripting with C++ Cookbook
 Status: plan
 Type: book
-Rating: PG-13
+Rating:
+  - "[[®️12|PG-13]]"
 Cover:
 Year:
 category:

@@ -4,7 +4,8 @@ aliases:
   - Teacher Feeling
 Status: drop
 Type: game
-Rating: Rx
+Rating:
+  - "[[®️18|Rx]]"
 Cover:
 Year: 2015
 source: https://teachingfeelingapk.fun/

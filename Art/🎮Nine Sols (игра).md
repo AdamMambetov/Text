@@ -4,7 +4,8 @@ aliases:
   - Nine Sols
 Status: plan
 Type: game
-Rating: PG-13
+Rating:
+  - "[[®️12|PG-13]]"
 Cover: "[[nine_sols_game_cover.jpg]]"
 Year: 2024
 ---

@@ -4,7 +4,8 @@ aliases:
   - The Surge 2
 Status: plan
 Type: game
-Rating: PG-13
+Rating:
+  - "[[®️12|PG-13]]"
 Cover: "[[the_surge_2_game_cover.jpg]]"
 Year: 2019
 ---

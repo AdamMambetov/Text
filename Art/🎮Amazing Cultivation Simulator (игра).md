@@ -4,7 +4,8 @@ aliases:
   - Amazing Cultivation Simulator
 Status: plan
 Type: game
-Rating: R-17
+Rating:
+  - "[[®️16|R-17]]"
 Cover: "[[amazing_cultivation_simulator_game_cover.jpg]]"
 Year: 2020
 ---

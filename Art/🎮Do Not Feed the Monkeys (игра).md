@@ -4,7 +4,8 @@ aliases:
   - Do Not Feed the Monkeys
 Status: complete
 Type: game
-Rating: PG-13
+Rating:
+  - "[[®️12|PG-13]]"
 Cover:
 Year: 2018
 Views: 1

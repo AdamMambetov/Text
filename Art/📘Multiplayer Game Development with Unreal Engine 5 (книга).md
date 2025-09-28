@@ -4,7 +4,8 @@ aliases:
   - Multiplayer Game Development with Unreal Engine 5
 Status: plan
 Type: book
-Rating: PG-13
+Rating:
+  - "[[®️12|PG-13]]"
 Cover:
 Year: 2023
 category:

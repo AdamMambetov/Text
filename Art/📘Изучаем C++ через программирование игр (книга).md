@@ -4,7 +4,8 @@ aliases:
   - Изучаем C++ через программирование игр
 Status: plan
 Type: book
-Rating: PG
+Rating:
+  - "[[®️6|PG]]"
 Cover:
 Year: 2016
 category:

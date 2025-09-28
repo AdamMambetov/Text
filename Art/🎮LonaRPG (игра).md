@@ -4,7 +4,8 @@ aliases:
   - LonaRPG
 Status: defer
 Type: game
-Rating: Rx
+Rating:
+  - "[[®️18|Rx]]"
 Cover: "[[lonarpg_game_cover.jpg]]"
 Year: 2021
 tags:

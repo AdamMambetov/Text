@@ -4,7 +4,8 @@ aliases:
   - Escape Academy
 Status: watch
 Type: game
-Rating: PG-13
+Rating:
+  - "[[®️12|PG-13]]"
 Cover: "[[escape_academy_game_cover.jpg]]"
 Year: 2022
 ---

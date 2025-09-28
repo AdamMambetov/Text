@@ -7,7 +7,8 @@ aliases:
   - Принц Персии 2
 Status: complete
 Type: game
-Rating: PG-13
+Rating:
+  - "[[®️12|PG-13]]"
 Cover: "[[prince_of_persia_2_game_cover.jpg]]"
 Year: 2004
 Views: 5

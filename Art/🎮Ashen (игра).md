@@ -4,7 +4,8 @@ aliases:
   - Ashen
 Status: plan
 Type: game
-Rating: PG
+Rating:
+  - "[[®️6|PG]]"
 Cover: "[[ashen_game_cover.jpg]]"
 Year: 2018
 meta:

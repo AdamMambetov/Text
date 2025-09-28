@@ -4,7 +4,8 @@ aliases:
   - Covenant
 Status: plan
 Type: game
-Rating: PG-13
+Rating:
+  - "[[®️12|PG-13]]"
 Cover:
 Year:
 ---

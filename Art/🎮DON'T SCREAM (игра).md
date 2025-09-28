@@ -5,7 +5,8 @@ aliases:
   - DONT SCREAM
 Status: complete
 Type: game
-Rating: R-17
+Rating:
+  - "[[®️16|R-17]]"
 Cover: "[[dont_scream_game_cover.jpg]]"
 Year: 2023
 Views: 2

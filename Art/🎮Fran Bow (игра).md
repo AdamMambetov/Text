@@ -4,7 +4,8 @@ aliases:
   - Fran Bow
 Status: complete
 Type: game
-Rating: R-17
+Rating:
+  - "[[®️16|R-17]]"
 Cover: "[[fran_bow_game_cover.jpg]]"
 Year: 2015
 Views: 1

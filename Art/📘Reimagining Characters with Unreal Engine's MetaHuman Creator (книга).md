@@ -4,7 +4,8 @@ aliases:
   - Reimagining Characters with Unreal Engine's MetaHuman Creator
 Status: plan
 Type: book
-Rating: PG-13
+Rating:
+  - "[[®️12|PG-13]]"
 Cover:
 Year: 2022
 category:

@@ -4,7 +4,8 @@ aliases:
   - Thrive
 Status: plan
 Type: game
-Rating: PG-13
+Rating:
+  - "[[®️12|PG-13]]"
 Cover: "[[thrive_game_cover.jpg]]"
 Year: 2021
 ---

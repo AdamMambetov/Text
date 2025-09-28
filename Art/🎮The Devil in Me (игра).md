@@ -4,7 +4,8 @@ aliases:
   - The Devil in Me
 Status: complete
 Type: game
-Rating: R-17
+Rating:
+  - "[[®️16|R-17]]"
 Cover: "[[the_devil_in_me_game_cover.jpg]]"
 Year: 2022
 Views: 2

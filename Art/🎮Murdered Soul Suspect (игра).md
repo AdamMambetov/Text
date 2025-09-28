@@ -4,7 +4,8 @@ aliases:
   - Murdered Soul Suspect
 Status: plan
 Type: game
-Rating: PG-13
+Rating:
+  - "[[®️12|PG-13]]"
 Cover: "[[murdered_soul_suspect_game_cover.jpg]]"
 Year: 2010
 meta:

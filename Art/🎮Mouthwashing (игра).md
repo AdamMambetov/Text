@@ -4,7 +4,8 @@ aliases:
   - Mouthwashing
 Status: complete
 Type: game
-Rating: R+
+Rating:
+  - "[[®️18|R+]]"
 Cover: "[[mouthwashing_game_cover.jpg]]"
 Year: 2020
 Views: 1

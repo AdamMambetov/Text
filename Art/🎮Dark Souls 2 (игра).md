@@ -7,7 +7,8 @@ aliases:
   - ds2
 Status: watch
 Type: game
-Rating: PG-13
+Rating:
+  - "[[®️12|PG-13]]"
 Cover: "[[dark_souls_2_game_cover.jpg]]"
 Year: 2014
 Views: 1

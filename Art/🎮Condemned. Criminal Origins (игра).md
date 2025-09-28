@@ -4,7 +4,8 @@ aliases:
   - "Condemned: Criminal Origins"
 Status: plan
 Type: game
-Rating: R+
+Rating:
+  - "[[®️18|R+]]"
 Cover:
 Year: 2005
 ---

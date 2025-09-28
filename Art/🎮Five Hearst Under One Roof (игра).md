@@ -4,7 +4,8 @@ aliases:
   - Five Hearst Under One Roof
 Status: complete
 Type: game
-Rating: PG-13
+Rating:
+  - "[[®️12|PG-13]]"
 Cover:
 Year:
 Views: 1

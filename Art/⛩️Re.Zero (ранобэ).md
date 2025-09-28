@@ -9,7 +9,8 @@ aliases:
   - резеро
 Status: defer
 Type: ranobe
-Rating: R-17
+Rating:
+  - "[[®️16|R-17]]"
 Cover: "[[re_zero_ranobe_cover.jpeg]]"
 Year: 2012
 tags:

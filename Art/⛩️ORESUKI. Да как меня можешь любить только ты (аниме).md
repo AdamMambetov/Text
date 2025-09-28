@@ -4,7 +4,8 @@ aliases:
   - ORESUKI. Да как меня можешь любить только ты?
 Status: plan
 Type: anime
-Rating: PG-13
+Rating:
+  - "[[®️12|PG-13]]"
 Cover: ""
 Year: 2019
 ---

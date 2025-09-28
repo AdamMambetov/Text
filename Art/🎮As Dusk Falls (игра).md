@@ -4,7 +4,8 @@ aliases:
   - As Dusk Falls
 Status: complete
 Type: game
-Rating: R-17
+Rating:
+  - "[[®️16|R-17]]"
 Cover:
 Year: 2022
 Views: 1

@@ -4,7 +4,8 @@ aliases:
   - "Plants vs. Zombies: Replanted"
 Status: plan
 Type: game
-Rating: PG
+Rating:
+  - "[[®️6|PG]]"
 Cover:
 Year:
 ---

@@ -9,7 +9,8 @@ aliases:
   - резеро
 Status: complete
 Type: anime
-Rating: R-17
+Rating:
+  - "[[®️16|R-17]]"
 Cover: "[[re_zero_anime_cover.jpeg]]"
 Year: 2016
 Episode: 25

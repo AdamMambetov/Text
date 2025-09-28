@@ -4,7 +4,8 @@ aliases:
   - The Amazing Spider-Man
 Status: complete
 Type: game
-Rating: PG-13
+Rating:
+  - "[[®️12|PG-13]]"
 Cover:
 Year: 1989
 Views: 1

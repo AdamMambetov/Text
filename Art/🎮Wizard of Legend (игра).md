@@ -4,7 +4,8 @@ aliases:
   - Wizard of Legend
 Status: defer
 Type: game
-Rating: PG-13
+Rating:
+  - "[[®️12|PG-13]]"
 Cover:
 Year: 2018
 ---

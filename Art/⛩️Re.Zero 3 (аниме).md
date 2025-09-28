@@ -9,7 +9,8 @@ aliases:
   - резеро 3
 Status: complete
 Type: anime
-Rating: R-17
+Rating:
+  - "[[®️16|R-17]]"
 Cover: "[[re_zero_3_anime_cover.jpeg]]"
 Year: 2024
 Episode: 16

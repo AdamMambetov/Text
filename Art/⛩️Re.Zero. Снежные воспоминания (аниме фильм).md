@@ -6,7 +6,8 @@ aliases:
   - "Жизнь в альтернативном мире с нуля: Снежные воспоминания"
 Status: complete
 Type: anime film
-Rating: PG-13
+Rating:
+  - "[[®️12|PG-13]]"
 Cover: "[[re_zero_memory_snow_anime_film_cover.png]]"
 Year: 2018
 Views: 1

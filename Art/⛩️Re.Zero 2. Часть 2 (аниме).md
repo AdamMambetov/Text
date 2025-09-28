@@ -9,7 +9,8 @@ aliases:
   - резеро 2 часть 2
 Status: complete
 Type: anime
-Rating: R-17
+Rating:
+  - "[[®️16|R-17]]"
 Cover: "[[re_zero_2_part_2_anime_cover.png]]"
 Year: 2021
 Episode: 12

@@ -4,7 +4,8 @@ aliases:
   - Man of Medan
 Status: watch
 Type: game
-Rating: R-17
+Rating:
+  - "[[®️16|R-17]]"
 Cover: "[[man_of_medan_game_cover.jpg]]"
 Year: 2019
 Views: 1

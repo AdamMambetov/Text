@@ -4,7 +4,8 @@ aliases:
   - Singularity
 Status: plan
 Type: game
-Rating: R-17
+Rating:
+  - "[[®️16|R-17]]"
 Cover: "[[singularity_game_cover.jpg]]"
 Year: 2010
 meta:

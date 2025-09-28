@@ -5,7 +5,8 @@ aliases:
   - Rhythm Tengoku
 Status: complete
 Type: game
-Rating: PG-13
+Rating:
+  - "[[®️12|PG-13]]"
 Cover: "[[rhythm_heaven_game_cover.jpg]]"
 Year: 2006
 Episode: 7.2

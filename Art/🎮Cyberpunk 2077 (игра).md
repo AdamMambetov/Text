@@ -5,7 +5,8 @@ aliases:
   - Киберпанк 2077
 Status: plan
 Type: game
-Rating: R-17
+Rating:
+  - "[[®️16|R-17]]"
 Cover: "[[cyberpunk_2077_game_cover.jpg]]"
 Year: 2020
 ---

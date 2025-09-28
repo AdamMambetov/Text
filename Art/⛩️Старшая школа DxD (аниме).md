@@ -4,7 +4,8 @@ aliases:
   - Старшая школа DxD
 Status: complete
 Type: anime
-Rating: R+
+Rating:
+  - "[[®️18|R+]]"
 Cover: ""
 Year: 2012
 Episode: 12
