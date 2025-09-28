@@ -11,7 +11,7 @@ Year: 2020
 
 # Amazing Cultivation Simulator
 
-![[amazing_cultivation_simulator_game_cover.jpg | 300]]
+![[amazing_cultivation_simulator_game_cover.jpg]]
 
 
 ```button

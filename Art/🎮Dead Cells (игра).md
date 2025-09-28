@@ -11,7 +11,7 @@ Year: 2017
 
 # Dead Cells
 
-![[dead_cells_game_cover.jpg | 300]]
+![[dead_cells_game_cover.jpg]]
 
 ```button
 name World Art

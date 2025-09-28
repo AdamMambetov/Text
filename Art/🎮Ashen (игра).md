@@ -13,7 +13,7 @@ meta:
 
 # Ashen
 
-![[ashen_game_cover.jpg | 300]]
+![[ashen_game_cover.jpg]]
 
 Говорят что эта игра похожа на Dark Souls.
 

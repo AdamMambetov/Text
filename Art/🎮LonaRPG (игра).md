@@ -13,7 +13,7 @@ tags:
 
 # LonaRPG
 
-![[lonarpg_game_cover.jpg | 300]]
+![[lonarpg_game_cover.jpg]]
 
 
 ```button

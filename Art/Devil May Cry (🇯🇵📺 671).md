@@ -18,7 +18,7 @@ Views: 1
 
 # Devil May Cry
 
-![[devil_may_cry_anime_cover.jpg | 300]]
+![[devil_may_cry_anime_cover.jpg]]
 
 ```button
 name Shikimori

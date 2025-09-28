@@ -11,7 +11,7 @@ Year: 2019
 
 # Blasphemous
 
-![[blasphemous_game_cover.jpg | 300]]
+![[blasphemous_game_cover.jpg]]
 
 Говорят что эта игра похожа на Dark Souls.
 

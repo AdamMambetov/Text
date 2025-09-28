@@ -19,7 +19,7 @@ related:
 
 # Хеллсинг OVA
 
-![[hellsing_ultimate_anime_cover.png | 300]]
+![[hellsing_ultimate_anime_cover.png]]
 
 `button-shikimori` `button-tvTime`
 

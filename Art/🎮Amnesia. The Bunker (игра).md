@@ -11,7 +11,7 @@ Views: 1
 
 # Amnesia: The Bunker
 
-![[amnesia_the_bunker_game_cover.png | 300]]
+![[amnesia_the_bunker_game_cover.png]]
 
 Посмотрел [прохождение](https://youtu.be/ZRdb71aiBZg?si=mFOKyIUeuzEcijjT) [[@Дмитрий Куплинов | Куплинова]]. [Прохождение в ВК](https://vk.com/video/playlist/-56169357_972).
 

@@ -12,7 +12,7 @@ source: https://store.steampowered.com/app/2406770/Bodycam/
 
 # Bodycam
 
-![[bodycam_game_cover.jpg | 300]]
+![[bodycam_game_cover.jpg]]
 
 
 

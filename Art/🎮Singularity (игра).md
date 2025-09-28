@@ -13,7 +13,7 @@ meta:
 
 # Singularity
 
-![[singularity_game_cover.jpg | 300]]
+![[singularity_game_cover.jpg]]
 
 
 ```button

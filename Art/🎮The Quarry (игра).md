@@ -14,7 +14,7 @@ related:
 
 # The Quarry
 
-![[the_quarry_game_cover.png | 300]]
+![[the_quarry_game_cover.png]]
 
 Нашёл эту игру в [прохождении](https://youtu.be/aZKsxmdJ1nE?si=R5fSbYaVUDhDhpIV) у [[@Дмитрий Куплинов | Куплинова]] и решил сам пройти.
 

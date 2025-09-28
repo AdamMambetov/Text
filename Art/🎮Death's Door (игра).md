@@ -11,7 +11,7 @@ Year: 2021
 
 # Death's Door
 
-![[death's_door_game_cover.jpg | 300]]
+![[death's_door_game_cover.jpg]]
 
 Говорят что эта игра похожа на Dark Souls.
 

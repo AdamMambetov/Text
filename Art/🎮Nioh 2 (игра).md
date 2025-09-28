@@ -11,7 +11,7 @@ Year: 2021
 
 # Nioh 2
 
-![[nioh_2_game_cover.jpg | 300]]
+![[nioh_2_game_cover.jpg]]
 
 Говорят что эта игра похожа на Dark Souls.
 

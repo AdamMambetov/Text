@@ -17,7 +17,7 @@ tags:
 
 # ID: Вторжение
 
-![[id_invaded_anime_cover.png | 300]]
+![[id_invaded_anime_cover.png]]
 
 ```button
 name Shikimori

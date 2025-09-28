@@ -15,7 +15,7 @@ tags:
 
 # Elden Ring
 
-![[elden_ring_game_cover.jpeg | 300]]
+![[elden_ring_game_cover.jpeg]]
 
 Прошёл вместе с [[@Аслангерий Гутаев|Аслангерием]].
 

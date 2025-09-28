@@ -17,7 +17,7 @@ Views: 1
 
 # Dark Souls 2
 
-![[dark_souls_2_game_cover.jpg | 300]]
+![[dark_souls_2_game_cover.jpg]]
 
 
 

@@ -15,7 +15,7 @@ tags:
 
 # Bullets Per Minute
 
-![[bpm_game_cover.jpg | 300]]
+![[bpm_game_cover.jpg]]
 
 [[@Аслангерий Гутаев|Аслангерий]] посоветовал поиграть.
 

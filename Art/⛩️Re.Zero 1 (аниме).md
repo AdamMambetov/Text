@@ -22,7 +22,7 @@ tags:
 
 # Re:Zero. Жизнь с нуля в альтернативном мире
 
-![[re_zero_anime_cover.jpeg| 300]]
+![[re_zero_anime_cover.jpeg]]
 
 ```button
 name Shikimori

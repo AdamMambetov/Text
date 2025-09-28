@@ -13,7 +13,7 @@ Year: 2019
 
 # Pathologic 2
 
-![[мор_2_game_cover.jpg | 300]]
+![[мор_2_game_cover.jpg]]
 
 
 ```button

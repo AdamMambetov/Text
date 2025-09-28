@@ -18,7 +18,7 @@ related:
 
 # Dark Souls 3
 
-![[dark_souls_3_game_cover.jpg | 300]]
+![[dark_souls_3_game_cover.jpg]]
 
 
 ```button

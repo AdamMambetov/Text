@@ -14,7 +14,7 @@ tags:
 
 # Охотник-суицидник SSS-уровня
 
-![[sss_level_suicide_hunter_manhwa_cover.jpg | 300]]
+![[sss_level_suicide_hunter_manhwa_cover.jpg]]
 
 ```button
 name Shikimori

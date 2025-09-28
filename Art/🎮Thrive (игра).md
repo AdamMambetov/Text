@@ -11,7 +11,7 @@ Year: 2021
 
 # Thrive
 
-![[thrive_game_cover.jpg | 300]]
+![[thrive_game_cover.jpg]]
 
 
 ```button

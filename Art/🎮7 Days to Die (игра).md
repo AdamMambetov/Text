@@ -10,7 +10,7 @@ Year: 2013
 
 # 7 Days to Die
 
-![[7_days_to_die_game_cover.png | 300]]
+![[7_days_to_die_game_cover.png]]
 
 
 ```button

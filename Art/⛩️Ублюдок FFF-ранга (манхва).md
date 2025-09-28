@@ -14,7 +14,7 @@ Views: 1
 
 # Ублюдок FFF-ранга
 
-![[fff_class_trashero_manhwa_cover.jpg | 300]]
+![[fff_class_trashero_manhwa_cover.jpg]]
 
 ```button
 name Shikimori

@@ -12,7 +12,7 @@ Views: 1
 
 # Helltaker
 
-![[helltaker_game_cover.jpg | 300]]
+![[helltaker_game_cover.jpg]]
 
 
 ```button

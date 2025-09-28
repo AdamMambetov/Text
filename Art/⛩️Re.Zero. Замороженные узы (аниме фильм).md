@@ -16,7 +16,7 @@ Views: 1
 
 # Re:Zero. Жизнь с нуля в альтернативном мире: Замороженные узы
 
-![[re_zero_frozen_bond_anime_film_cover.png | 300]]
+![[re_zero_frozen_bond_anime_film_cover.png]]
 
 ```button
 name Shikimori

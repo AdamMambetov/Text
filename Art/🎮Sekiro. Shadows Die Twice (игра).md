@@ -11,7 +11,7 @@ Year: 2019
 
 # Sekiro: Shadows Die Twice
 
-![[sekiro_game_cover.jpg | 300]]
+![[sekiro_game_cover.jpg]]
 
 ```button
 name World Art

@@ -16,7 +16,7 @@ meta:
 
 # C++ для профи
 
-![[cpp_для_профи_book_cover.jpg | 300]]
+![[cpp_для_профи_book_cover.jpg]]
 
 
 ```button

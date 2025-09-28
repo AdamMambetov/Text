@@ -14,7 +14,7 @@ Views: 1
 
 # Human Lost: Исповедь неполноценного человека
 
-![[human_lost_anime_film_cover.png | 300]]
+![[human_lost_anime_film_cover.png]]
 
 ```button
 name Shikimori

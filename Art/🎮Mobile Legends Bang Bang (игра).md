@@ -16,7 +16,7 @@ related:
 
 # Mobile Legends: Bang Bang
 
-![[mobile_legends_bang_bang_game_cover.png | 300]]
+![[mobile_legends_bang_bang_game_cover.png]]
 
 
 ## Описание

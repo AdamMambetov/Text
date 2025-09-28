@@ -12,7 +12,7 @@ Views: 2
 
 # Superliminal
 
-![[superliminal_game_cover.jpg | 300]]
+![[superliminal_game_cover.jpg]]
 
 
 ```button

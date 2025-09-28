@@ -12,7 +12,7 @@ Views: 1
 
 # Man of Medan
 
-![[man_of_medan_game_cover.jpg | 300]]
+![[man_of_medan_game_cover.jpg]]
 
 
 ```button

@@ -21,7 +21,7 @@ Views: 2
 
 # Re:Zero. Жизнь с нуля в альтернативном мире 2
 
-![[re_zero_2_anime_cover.png | 300]]
+![[re_zero_2_anime_cover.png]]
 
 ```button
 name Shikimori

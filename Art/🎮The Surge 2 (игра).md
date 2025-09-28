@@ -11,7 +11,7 @@ Year: 2019
 
 # The Surge 2
 
-![[the_surge_2_game_cover.jpg | 300]]
+![[the_surge_2_game_cover.jpg]]
 
 Говорят, что игра похожа на Dark Souls.
 

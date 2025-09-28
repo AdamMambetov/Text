@@ -18,7 +18,7 @@ source: https://dtf.ru/gamedev/3099012-luchshie-knigi-po-geimdevu
 
 # Изучаем C++ создавая игры в UE4
 
-![[изучаем_c++_создавая_игры_в_ue4_book_cover.jpg | 300]]
+![[изучаем_c++_создавая_игры_в_ue4_book_cover.jpg]]
 
 
 

@@ -12,7 +12,7 @@ Year: 2011
 
 # Dark Souls
 
-![[dark_souls_game_cover.jpg | 300]]
+![[dark_souls_game_cover.jpg]]
 
 
 ```button

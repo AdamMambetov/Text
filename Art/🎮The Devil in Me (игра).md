@@ -12,7 +12,7 @@ Views: 2
 
 # The Devil in Me
 
-![[the_devil_in_me_game_cover.jpg | 300]]
+![[the_devil_in_me_game_cover.jpg]]
 
 
 ```button

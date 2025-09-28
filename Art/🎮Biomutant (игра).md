@@ -11,7 +11,7 @@ Year: 2021
 
 # Biomutant
 
-![[biomutant_game_cover.jpg | 300]]
+![[biomutant_game_cover.jpg]]
 
 
 ```button

@@ -12,7 +12,7 @@ Views: 1
 
 # TimeShift
 
-![[timeshift_game_cover.jpg | 300]]
+![[timeshift_game_cover.jpg]]
 
 
 ```button

@@ -11,7 +11,7 @@ Year: 2020
 
 # Hellpoint
 
-![[hellpoint_game_cover.jpg | 300]]
+![[hellpoint_game_cover.jpg]]
 
 Говорят, что игра похожа на Dark Souls.
 

@@ -14,7 +14,7 @@ tags:
 
 # Fear & Hunger
 
-![[fear_and_hunger_game_cover.jpg | 300]]
+![[fear_and_hunger_game_cover.jpg]]
 
 
 ```button

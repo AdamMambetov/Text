@@ -12,7 +12,7 @@ Views: 2
 
 # Little Hope
 
-![[little_hope_game_cover.jpg | 300]]
+![[little_hope_game_cover.jpg]]
 
 Посмотрел прохождение [[@Дмитрий Куплинов | Куплинова]] и [[@HellYeahPlay | Сергея HellYeah]].
 

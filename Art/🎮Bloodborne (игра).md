@@ -10,7 +10,7 @@ Year: 2015
 
 # Bloodborne
 
-![[bloodborne_game_cover.jpeg | 300]]
+![[bloodborne_game_cover.jpeg]]
 
 ![Установка на пк](https://youtu.be/-_NKFTllhNw?si=9VLwdWIvO6nEMrFG)
 

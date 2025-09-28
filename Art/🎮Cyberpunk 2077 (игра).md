@@ -12,7 +12,7 @@ Year: 2020
 
 # Cyberpunk 2077
 
-![[cyberpunk_2077_game_cover.jpg | 300]]
+![[cyberpunk_2077_game_cover.jpg]]
 
 
 ```button

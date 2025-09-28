@@ -14,7 +14,7 @@ Episode: 1
 
 # Всё становится F: Идеальный инсайдер
 
-![[subete_ga_f_ni_naru_anime_cover.jpeg | 300]]
+![[subete_ga_f_ni_naru_anime_cover.jpeg]]
 
 ```button
 name Shikimori

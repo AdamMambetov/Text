@@ -12,7 +12,7 @@ Views: 1
 
 # Magicraft
 
-![[magicraft_game_cover.jpg | 300]]
+![[magicraft_game_cover.jpg]]
 
 
 ```button

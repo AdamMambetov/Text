@@ -13,7 +13,7 @@ meta:
 
 # Murdered Soul Suspect
 
-![[murdered_soul_suspect_game_cover.jpg | 300]]
+![[murdered_soul_suspect_game_cover.jpg]]
 
 
 ```button

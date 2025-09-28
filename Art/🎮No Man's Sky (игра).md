@@ -12,7 +12,7 @@ Year: 2016
 
 # No Man's Sky
 
-![[no_mans_sky_game_cover.jpg | 300]]
+![[no_mans_sky_game_cover.jpg]]
 
 
 ```button

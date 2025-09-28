@@ -12,7 +12,7 @@ Views: 1
 
 # Fran Bow
 
-![[fran_bow_game_cover.jpg | 300]]
+![[fran_bow_game_cover.jpg]]
 
 
 ```button

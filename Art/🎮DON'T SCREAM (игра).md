@@ -15,7 +15,7 @@ meta:
 
 # DON'T SCREAM
 
-![[dont_scream_game_cover.jpg | 300]]
+![[dont_scream_game_cover.jpg]]
 
 
 ```button

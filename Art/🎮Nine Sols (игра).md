@@ -12,7 +12,7 @@ Year: 2024
 # Nine Sols
 
 
-![[nine_sols_game_cover.jpg | 300]]
+![[nine_sols_game_cover.jpg]]
 
 Говорят что эта игра похожа на Dark Souls.
 

@@ -16,7 +16,7 @@ related:
 
 # Re:Zero. Жизнь с нуля в альтернативном мире: Снежные воспоминания
 
-![[re_zero_memory_snow_anime_film_cover.png | 300]]
+![[re_zero_memory_snow_anime_film_cover.png]]
 
 ```button
 name Shikimori

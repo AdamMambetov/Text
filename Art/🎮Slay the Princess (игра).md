@@ -11,7 +11,7 @@ Year: 2023
 
 # Slay the Princess
 
-![[slay_the_princess_game_cover.jpg | 300]]
+![[slay_the_princess_game_cover.jpg]]
 
 
 

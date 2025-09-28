@@ -12,7 +12,7 @@ Views: 2
 
 # House of Ashes
 
-![[house_of_ashes_game_cover.jpg | 300]]
+![[house_of_ashes_game_cover.jpg]]
 
 
 ```button

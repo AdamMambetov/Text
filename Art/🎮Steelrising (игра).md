@@ -11,7 +11,7 @@ Year: 2022
 
 # Steelrising
 
-![[steelrising_game_cover.jpg | 300]]
+![[steelrising_game_cover.jpg]]
 
 Говорят, что игра похожа на Dark Souls.
 

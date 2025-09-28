@@ -14,7 +14,7 @@ meta:
 
 # Dark and Darker
 
-![[dark_and_darker_game_cover.jpg | 300]]
+![[dark_and_darker_game_cover.jpg]]
 
 
 ```button

@@ -11,7 +11,7 @@ Year: 2023
 
 # Lies of P
 
-![[lies_of_p_game_cover.jpg | 300]]
+![[lies_of_p_game_cover.jpg]]
 
 Похожа на Dark Souls.
 

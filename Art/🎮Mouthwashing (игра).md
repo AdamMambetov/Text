@@ -14,7 +14,7 @@ tags:
 
 # Mouthwashing
 
-![[mouthwashing_game_cover.jpg | 300]]
+![[mouthwashing_game_cover.jpg]]
 
 
 ```button

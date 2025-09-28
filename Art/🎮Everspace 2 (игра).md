@@ -11,7 +11,7 @@ Year: 2023
 
 # Everspace 2
 
-![[everspace_2_game_cover.jpg | 300]]
+![[everspace_2_game_cover.jpg]]
 
 
 ```button
