@@ -1,25 +1,28 @@
 ---
-created: 2024-11-04T14:23:39+03:00
+created: 2024-11-04T14:21:13+03:00
 aliases:
-  - О движении Земли
-Status: plan
+  - "NieR: Automata Ver 1.1a"
+  - "Ниер: Автомата — Версия 1.1а"
+Status: drop
 Type: anime
 Rating:
-  - "[[®️16|R-17]]"
-Cover: "[[orb_anime_cover.jpeg]]"
-Year: 2024
+  - "[[®️12|PG-13]]"
+  - "[[®️16|16+]]"
+Cover: ""
+Year: 2023
+Episode: 1
 related:
-  - "[[@Аслангерий Гутаев|Аслангерий]]"
+  - "[[@Дмитрий Кесида]]"
 ---
 
-# О движении Земли
+# Ниер: Автомата — Версия 1.1а
 
-![[orb_anime_cover.jpeg]]
+![](https://nyaa.shikimori.one/uploads/poster/animes/51105/e2e8be3f0be2ad8d6b1cbf9f13fad0de.jpeg)
 
 ```button
 name Shikimori
 type link
-action https://shikimori.one/animes/52215
+action https://shikimori.one/animes/51105
 customColor #4682b4
 hidden true
 ```
