@@ -46,35 +46,52 @@ await tp.file.rename(`${title} (${result.get("Flag")}${icon} ${num})`);
 let coverPath = result.asString("{{Cover}}")
 let cover = result.asString("{{CoverName}}")
 let coverTFile = tp.file.find_tfile(coverPath)
-let path = coverPath.substring(0, coverPath.lastIndexOf("/"))
-let extension = coverPath.split(".")[1]
-cover = `${cover}.${extension}`
-await tp.app.fileManager.renameFile(coverTFile, `${path}/${cover}`)
+if (coverTFile != null) {
+	let path = coverPath.substring(0, coverPath.lastIndexOf("/"))
+	let extension = coverPath.split(".")[1]
+	cover = `${cover}.${extension}`
+	await tp.app.fileManager.renameFile(coverTFile, `${path}/${cover}`)
+} else {
+	cover = ""
+}
 
 tR += `created: ${tp.date.now("YYYY-MM-DD[T]HH:mm:ssZ")}\n`
-tR += `Cover: "[[${cover}]]"\n`
 tR += result.asFrontmatterString({ pick: [
+    "aliases",
     "Status",
     "Type",
-    "Episode",
-    "aliases",
-    "Views",
-    "Year",
-    "Rating",
-    "Season"
+    "Rating"
 ]});
+if (cover !== "")
+	tR += `Cover: "[[${cover}]]"\n`
+else
+	tR += `Cover: ""\n`
+let fmStr = result.asFrontmatterString({ pick: [
+    "Year",
+    "Season",
+    "Episode",
+    "Views"
+]});
+if (!fmStr.includes("{}")) // check if fmStr is valid
+	tR += fmStr
+if (result.asString("{{Адаптация}}") !== "{{Адаптация}}")
+	tR += `Адаптация: "[[${result.asString("{{Адаптация}}")}]]"\n`
+if (result.asString("{{Предыстория}}") !== "{{Предыстория}}")
+	tR += `Предыстория: "[[${result.asString("{{Предыстория}}")}]]"\n`
+if (result.asString("{{Продолжение}}") !== "{{Продолжение}}")
+	tR += `Продолжение: "[[${result.asString("{{Продолжение}}")}]]"\n`
 -%>
 <% "---" %>
 
 # <% title %>
 
 <%*
-tR += `![[${cover}]]`
+if (cover !== "")
+	tR += `![[${cover}]]`
 -%>
 
 <%*
 let parser = null
-//result.getData("Links")
 //if (links[0].length > "https://shikimori.one/".length)
 //	parser = await tp.user.shikimoriParser(tp, links[0])
 %>
@@ -146,28 +163,33 @@ function createBtn(index, action) {
 	tR += "^button-" + linkInfo.names[index] + "\n\n"
 }
 
-const links = result.asString("{{Links}}").split(",")
-for (let i = 0; i < links.length; i++) {
-	let index = linkInfo.links.findIndex(link => links[i].includes(link))
-	if (index == -1) {
-		tR += "Not found link " + links[i] + "\n\n"
-		continue
+let links = result.asString("{{Links}}")
+if (links !== "{{Links}}") {
+	links = links.split(",")
+	for (let i = 0; i < links.length; i++) {
+		let index = linkInfo.links.findIndex(link => links[i].includes(link))
+		if (index == -1) {
+			tR += "Not found link " + links[i] + "\n\n"
+			continue
+		}
+		createBtn(index, links[i])
 	}
-	createBtn(index, links[i])
 }
 %>
 
 <%* // inline buttons
-for (let i = 0; i < links.length; i++) {
-	let index = linkInfo.links.findIndex(link => links[i].includes(link))
-	if (index == -1) {
-		tR += "Not found link " + links[i] + "\n\n"
-		continue
+if (links !== "{{Links}}") {
+	for (let i = 0; i < links.length; i++) {
+		let index = linkInfo.links.findIndex(link => links[i].includes(link))
+		if (index == -1) {
+			tR += "Not found link " + links[i] + "\n\n"
+			continue
+		}
+		if (i % 2 == 0)
+			tR += `\n\n\`button-${linkInfo.names[index]}\``
+		else
+			tR += ` \`button-${linkInfo.names[index]}\``
 	}
-	if (i % 2 == 0)
-		tR += `\n\n\`button-${linkInfo.names[index]}\``
-	else
-		tR += ` \`button-${linkInfo.names[index]}\``
 }
 %>
 
