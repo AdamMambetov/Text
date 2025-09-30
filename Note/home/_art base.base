@@ -1,19 +1,23 @@
+filters:
+  and:
+    - file.basename != "_art base"
+    - file.inFolder("Text/Art")
+    - '!file.inFolder("Text/Art/templates")'
+    - '!file.inFolder("Text/Art/ratings")'
+    - '!file.inFolder("Text/Art/franchises")'
+    - file.ext == "md"
 formulas:
-  Untitled: ""
+  name: aliases[0]
+  id: file.name.split("(")[1].toString().slice(7).split(")")[0]
+  country: file.name.split("(")[1].toString().slice(0, 4)
 views:
   - type: cards
     name: Cards
     filters:
       and:
-        - file.basename != "_art base"
-        - file.basename != "_database"
-        - '!file.inFolder("Text/Art/covers")'
-        - '!file.inFolder("Text/Art/templates")'
-        - file.inFolder("Text/Art")
-        - and:
-            - Status == "watch"
+        - Status == "watch"
     order:
-      - Name
+      - formula.name
       - Rating
       - Status
       - Episode
@@ -26,3 +30,16 @@ views:
     image: note.Cover
     imageFit: ""
     imageAspectRatio: 1.4
+  - type: table
+    name: View
+    order:
+      - formula.id
+      - formula.country
+      - file.name
+    sort:
+      - property: formula.country
+        direction: ASC
+      - property: Type
+        direction: ASC
+      - property: created
+        direction: ASC
