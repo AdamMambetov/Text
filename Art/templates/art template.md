@@ -2,7 +2,7 @@
 <%*
 dv = app.plugins.plugins.dataview.api
 const modalForm = app.plugins.plugins.modalforms.api;
-const result = await modalForm.openForm("art-form");
+const result = await modalForm.openForm("art-form", { values: { aliases: [tp.file.title] } });
 const linkInfo = {
 	links: ["https://shikimori.one/", "https://www.tvtime.com/", "http://www.world-art.ru/", "https://onikes.ru/", "https://yo8z6gv.github.io/", "https://www.animefillerlist.com/", "https://mangalib.me/", "https://ranobelib.me/", "https://anilib.me/", "https://senkuro.com/", "https://reyohoho.github.io/reyohoho/", "https://freetp.org/", "https://store.steampowered.com/"],
 	names: ["shikimori", "tvTime", "worldArt", "onikes", "kesidatokioVods", "animeFillerList", "mangalib", "ranobelib", "animelib", "senkuro", "reyohoho", "freetp", "steam"],
@@ -10,7 +10,7 @@ const linkInfo = {
 }
 
 let icon
-switch (result.getData("Type")) {
+switch (result.get("Type")) {
 	case "anime":
 	case "anime film":
 	case "cartoon":
@@ -41,11 +41,18 @@ switch (result.getData("Type")) {
 
 let title = tp.file.title
 let num = dv.pages().filter(p => !p.file.path.includes('/')).length
-await tp.file.rename(`${title} (${result.getData("Flag")}${icon} ${num})`);
+await tp.file.rename(`${title} (${result.get("Flag")}${icon} ${num})`);
 
+let coverPath = result.asString("{{Cover}}")
+let cover = result.asString("{{CoverName}}")
+let coverTFile = tp.file.find_tfile(coverPath)
+let path = coverPath.substring(0, coverPath.lastIndexOf("/"))
+let extension = coverPath.split(".")[1]
+cover = `${cover}.${extension}`
+await tp.app.fileManager.renameFile(coverTFile, `${path}/${cover}`)
 
 tR += `created: ${tp.date.now("YYYY-MM-DD[T]HH:mm:ssZ")}\n`
-tR += `Cover: "[[${result.getData("Cover").name}]]"\n`
+tR += `Cover: "[[${cover}]]"\n`
 tR += result.asFrontmatterString({ pick: [
     "Status",
     "Type",
@@ -62,7 +69,7 @@ tR += result.asFrontmatterString({ pick: [
 # <% title %>
 
 <%*
-tR += `![[${result.getData("Cover").name}]]`
+tR += `![[${cover}]]`
 -%>
 
 <%*
@@ -139,9 +146,9 @@ function createBtn(index, action) {
 	tR += "^button-" + linkInfo.names[index] + "\n\n"
 }
 
-const links = result.getData("Links")
+const links = result.asString("{{Links}}").split(",")
 for (let i = 0; i < links.length; i++) {
-	let index = linkInfo.links.findIndex(link => links[0].includes(link))
+	let index = linkInfo.links.findIndex(link => links[i].includes(link))
 	if (index == -1) {
 		tR += "Not found link " + links[i] + "\n\n"
 		continue
@@ -152,15 +159,15 @@ for (let i = 0; i < links.length; i++) {
 
 <%* // inline buttons
 for (let i = 0; i < links.length; i++) {
-	let index = linkInfo.links.findIndex(link => links[0].includes(link))
+	let index = linkInfo.links.findIndex(link => links[i].includes(link))
 	if (index == -1) {
 		tR += "Not found link " + links[i] + "\n\n"
 		continue
 	}
 	if (i % 2 == 0)
-		tR += `\n\`button-${linkInfo.names[index]}`
+		tR += `\n\n\`button-${linkInfo.names[index]}\``
 	else
-		tR += ` \`button-${linkInfo.names[index]}`
+		tR += ` \`button-${linkInfo.names[index]}\``
 }
 %>
 
