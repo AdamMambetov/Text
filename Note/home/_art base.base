@@ -43,3 +43,5 @@ views:
         direction: ASC
       - property: created
         direction: ASC
+    columnSize:
+      formula.country: 30
