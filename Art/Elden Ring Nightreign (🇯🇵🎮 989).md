@@ -12,7 +12,7 @@ Cover:
 Year: 2025
 Views: 1
 related:
-  - "[[🎮Elden Ring (игра)]]"
+  - "[[Elden Ring (🇯🇵🎮 251)]]"
 ---
 
 # Elden Ring Nightreign

@@ -8,7 +8,7 @@ Rating:
   - "[[®️12|PG-13]]"
 Cover: "[[dark_souls_game_cover.jpg]]"
 Year: 2011
-Продолжение: "[[🎮Dark Souls 2 (игра)]]"
+Продолжение: "[[Dark Souls 2 (🇯🇵🎮 920)]]"
 ---
 
 # Dark Souls
