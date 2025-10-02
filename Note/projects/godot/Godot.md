@@ -1,6 +1,5 @@
 ---
 created: 2024-08-18T00:00:00+03:00
-modified: 2025-04-11T23:07:32+03:00
 aliases:
   - godot
 category:

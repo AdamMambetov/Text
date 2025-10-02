@@ -1,6 +1,5 @@
 ---
 created: 2024-07-21T03:37:02+03:00
-modified: 2024-07-21T03:37:02+03:00
 creator: https://t.me/backender0
 related:
   - "[[Программирование|programing]]"

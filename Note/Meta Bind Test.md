@@ -1,6 +1,5 @@
 ---
 created: 2024-09-14T18:47:24+03:00
-modified: 2025-06-19T14:42:17+03:00
 Name: Восхождение героя щита
 Status: watch
 Type: ranobe

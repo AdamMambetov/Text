@@ -1,6 +1,5 @@
 ---
 created: 2025-04-03T00:00:00+03:00
-modified: 2025-04-12T13:13:08+03:00
 meta:
   - "[[Obsidian]]"
 source: https://habr.com/ru/articles/806339/

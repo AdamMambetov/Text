@@ -1,6 +1,5 @@
 ---
 created: 2024-12-20T11:37:54+03:00
-modified: 2024-12-20T11:38:28+03:00
 ---
 
 # Shikimori Style

@@ -1,6 +1,5 @@
 ---
 created: 2024-06-13T21:24:36+03:00
-modified: 2024-08-07T15:25:18+03:00
 tags:
   - source/article
 source: https://rpg.fandom.com/ru/wiki/%D0%90%D1%82%D1%80%D0%B8%D0%B1%D1%83%D1%82

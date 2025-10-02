@@ -1,6 +1,5 @@
 ---
 created: 2024-06-19T12:11:53+03:00
-modified: 2024-06-19T13:05:28+03:00
 creator: "[[@Адам Мамбетов]]"
 related:
   - "[[Unreal Engine]]"

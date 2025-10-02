@@ -1,6 +1,5 @@
 ---
 created: 2024-07-17T14:49:54+03:00
-modified: 2024-07-17T14:59:11+03:00
 tags:
   - 📥
   - source/article
