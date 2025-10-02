@@ -32,19 +32,17 @@ views:
     imageAspectRatio: 1.4
   - type: table
     name: View
-    filters:
-      and:
-        - Rating.contains(link("®️6", "PG"))
     order:
       - formula.id
       - formula.country
       - file.name
     sort:
+      - property: created
+        direction: ASC
       - property: formula.country
         direction: ASC
       - property: Type
         direction: ASC
-      - property: created
-        direction: ASC
     columnSize:
-      formula.country: 30
+      formula.id: 42
+      formula.country: 13
