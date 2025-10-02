@@ -5,7 +5,7 @@ aliases:
 Status: plan
 Type: game
 Rating:
-  - "[[®️0|G]]"
+  - "[[®️12|12+]]"
 Cover:
 Year: 2019
 ---

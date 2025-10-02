@@ -5,7 +5,7 @@ aliases:
 Status: watch
 Type: game
 Rating:
-  - "[[®️16|R-17]]"
+  - "[[®️12|M]]"
 Cover: "[[man_of_medan_game_cover.jpg]]"
 Year: 2019
 Views: 1
