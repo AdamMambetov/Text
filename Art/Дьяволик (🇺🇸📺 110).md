@@ -1,0 +1,136 @@
+---
+created: 2024-03-08T14:08:00
+aliases:
+  - Дьяволик
+  - Diabolik
+Status: complete
+Type: cartoon
+Rating:
+  - "[[®️6|6+]]"
+Cover: "[[diabolik_cartoon_cover.jpg]]"
+Year: 1997
+Episode: 40
+Views: 1
+---
+
+# Дьяволик
+
+![[diabolik_cartoon_cover.jpg]]
+
+
+```button
+name Shikimori
+type link
+action https://shikimori.one/
+customColor #4682b4
+hidden true
+```
+^button-shikimori
+
+```button
+name TV Time
+type link
+action https://www.tvtime.com/
+customColor #997f00
+hidden true
+```
+^button-tv-time
+
+```button
+name World Art
+type link
+action http://www.world-art.ru/
+customColor #7a0000
+hidden true
+```
+^button-world-art
+
+```button
+name ONIKES
+type link
+action https://onikes.ru/
+color purple
+hidden true
+```
+^button-onikes
+
+```button
+name KESIDATOKIO VOD'S
+type link
+action https://yo8z6gv.github.io/
+color purple
+customTextColor black
+hidden true
+```
+^button-kesidatokio-vods
+
+```button
+name Anime Filler List
+type link
+action https://www.animefillerlist.com/
+customColor #da5100
+hidden true
+```
+^button-anime-filler-list
+
+```button
+name MangaLib
+type link
+action https://mangalib.me/
+customColor #252527
+customTextColor #b6720f
+hidden true
+```
+^button-mangalib
+
+```button
+name RanobeLib
+type link
+action https://ranobelib.me/
+customColor #252527
+customTextColor #2196f3
+hidden true
+```
+^button-ranobelib
+
+```button
+name AnimeLib
+type link
+action https://anilib.me/
+customColor #252527
+customTextColor #7E57C2
+hidden true
+```
+^button-animelib
+
+```button
+name Senkuro
+type link
+action https://senkuro.com/
+customColor #191A21
+hidden true
+```
+^button-senkuro
+
+```button
+name ReYohoho
+type link
+action https://reyohoho.github.io/reyohoho/
+customColor #1c1c1c
+hidden true
+```
+^button-reyohoho
+
+```button
+name FreeTP
+type link
+action https://freetp.org/
+color green
+customTextColor black
+hidden true
+```
+^button-fretp
+
+## Описание
+
+Дьяволик, усыновленный злым лордом преступником Кингом и его нечестивый брат Дэйн, растут со всеми привилегиями и в роскоши, чтобы потом вести жизнь преступников. Его тренируют выдающиеся умы мира и он становится известен своим умением, остроумностью и изобретательностью. Но когда Диаболик встречается с Евой, очаровательной девушкой, его сердце навсегда изменилось и он разочаровывается в своей профессии. Чтобы убедиться в преданности своего сына его приемный отец Кинг ставит перед ним задачу уничтожить отца Евы. После того как Дьяволик отказался следовать указам своего отца, Кинг и Дан подставили и незаконно послали его в тюрьму за грабёж, который он не совершал. Используя свои умения и таланты он сбежал из тюрьмы и посветил свою жизнь борьбе с Дейном и серьезной криминальной организации которую возглавлял его приёмный отец.

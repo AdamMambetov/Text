@@ -1,0 +1,54 @@
+---
+created: 2025-03-29T23:48:54+03:00
+aliases:
+  - Мандалорец
+  - Mandalorian
+Status: defer
+Type: series
+Rating:
+  - "[[®️16|16+]]"
+Cover:
+Year: 2019
+Season: 2
+---
+
+# Мандалорец
+
+![[mandalorian_series_cover.jpg]]
+
+```button
+name TV Time
+type link
+action https://www.tvtime.com/
+customColor #997f00
+hidden true
+```
+^button-tvTime
+
+```button
+name World Art
+type link
+action http://www.world-art.ru/
+customColor #7a0000
+hidden true
+```
+^button-worldArt
+
+```button
+name ReYohoho
+type link
+action https://reyohoho.github.io/reyohoho/
+customColor #1c1c1c
+hidden true
+```
+^button-reyohoho
+
+Первый сезон посмотрел вместе с Алимом.
+
+`button-tvTime` `button-worldArt`
+
+`button-reyohoho`
+
+## Описание
+
+Одинокий мандалорец-наёмник живёт на краю обитаемой галактики, куда не дотягивается закон Новой Республики. Представитель некогда могучей расы благородных воинов теперь вынужден влачить жалкое существование среди отбросов общества.
