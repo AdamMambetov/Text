@@ -9,7 +9,7 @@ cssclasses:
 ---
 
 # Главное
- - [[_database]]
+ - [[Text/Note/home/_art base.base|_art base]]
  - [[инструкция]]
  - [[цели в жизни]]
  - [[excalibrain]]
