@@ -13,7 +13,8 @@ Year: 2017
 
 ![[your_turn_to_die_game_cover.jpg]]
 
-Смотрю [прохождение](https://youtu.be/701oEmoUXmM?si=Tm4eftsZV3P22EwI) Злобстера. Он перестал проходить, играю сам.
+~~Смотрю [прохождение](https://youtu.be/701oEmoUXmM?si=Tm4eftsZV3P22EwI) Злобстера.~~
+Он перестал проходить, играю сам.
 
 
 ## Описание
