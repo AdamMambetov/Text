@@ -1,16 +1,16 @@
 ---
-created: 2024-08-29T23:14:46+03:00
+created: 2024-07-23T21:11:45+03:00
 aliases:
-  - 7 Days to Die
+  - Abiotic Factor
 Status: defer
 Type: game
-Cover: "[[7_days_to_die_game_cover.png]]"
-Year: 2013
+Cover:
+Year: 2023
+meta:
+  - "[[Unreal Engine]]"
 ---
 
-# 7 Days to Die
-
-![[7_days_to_die_game_cover.png]]
+# Abiotic Factor
 
 
 ```button
