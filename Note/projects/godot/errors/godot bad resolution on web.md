@@ -1,6 +1,5 @@
 ---
 created: 2024-08-21T13:46:20+03:00
-modified: 2025-04-11T23:07:11+03:00
 aliases:
   - Плохое качество игры/приложения
   - godot bad resolution on web

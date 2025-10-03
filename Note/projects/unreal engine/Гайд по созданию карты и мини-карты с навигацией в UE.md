@@ -1,6 +1,5 @@
 ---
 created: 2025-04-05T14:29:22+03:00
-modified: 2025-04-11T22:10:34+03:00
 creator: https://www.youtube.com/@YourSandbox
 category:
   - "[[Программирование]]"

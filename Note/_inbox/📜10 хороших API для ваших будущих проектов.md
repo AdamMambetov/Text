@@ -1,6 +1,5 @@
 ---
 created: 2022-05-22T00:00:00
-modified: 2024-07-17T15:58:54+03:00
 tags:
   - 📥
   - source/article

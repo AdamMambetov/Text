@@ -1,6 +1,5 @@
 ---
 created: 2024-07-01T20:08:03+03:00
-modified: 2025-04-11T22:57:06+03:00
 aliases:
   - Obsidian
 source: https://obsidian.md

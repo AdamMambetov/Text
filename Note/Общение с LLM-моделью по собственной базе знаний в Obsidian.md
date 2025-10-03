@@ -1,6 +1,5 @@
 ---
 created: 2025-04-23T00:00:00+03:00
-modified: 2025-04-23T01:06:55+03:00
 source: https://habr.com/ru/articles/901562/
 category:
   - "[[Искусственный интеллект|AI]]"

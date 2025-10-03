@@ -1,6 +1,5 @@
 ---
 created: 2024-08-21T14:05:40+03:00
-modified: 2025-04-11T23:06:06+03:00
 aliases:
   - Упаковка проекта на веб
   - godot build on web
