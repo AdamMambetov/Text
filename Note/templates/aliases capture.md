@@ -1,3 +1,4 @@
+# aliases capture
 <%* // Aliases for music
 const folder = tp.app.vault.getFolderByPath("Text/Note/projects/music")
 const files = folder.children.filter(f => f instanceof tp.obsidian.TFile)

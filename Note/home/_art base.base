@@ -37,12 +37,11 @@ views:
       - formula.country
       - file.name
     sort:
-      - property: created
-        direction: ASC
       - property: formula.country
         direction: ASC
       - property: Type
         direction: ASC
+      - property: created
+        direction: ASC
     columnSize:
-      formula.id: 42
-      formula.country: 13
+      formula.country: 30

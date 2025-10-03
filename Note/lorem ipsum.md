@@ -1,5 +1,6 @@
 ---
 created: 2025-04-05T14:29:19+03:00
+modified: 2025-04-11T23:37:44+03:00
 category:
   - "[[Программирование]]"
 source: https://ru.wikipedia.org/wiki/Lorem_ipsum

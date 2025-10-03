@@ -1,5 +1,6 @@
 ---
 created: 2024-07-01T20:15:34+03:00
+modified: 2025-06-19T14:31:55+03:00
 issue:
   - "[[Собственный шрифт в Obsidian Mobile]]"
 meta:

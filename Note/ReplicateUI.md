@@ -1,5 +1,6 @@
 ---
 created: 2025-03-17T00:00:00+03:00
+modified: 2025-03-17T11:40:09+03:00
 source: https://gist.github.com/markflorkowski/4269bc529324dceb2858c77b7609704c
 ---
 

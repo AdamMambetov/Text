@@ -1,5 +1,6 @@
 ---
 created: 2025-03-24T23:51:27+03:00
+modified: 2025-04-11T22:34:17+03:00
 aliases:
   - curses
   - windows-curses

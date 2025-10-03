@@ -1,5 +1,6 @@
 ---
 created: ${time}
+modified: ${time}
 Name: ${title}
 Status: ${status}
 Type: ${type}

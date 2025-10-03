@@ -1,5 +1,6 @@
 ---
 created: 2024-08-21T14:24:42+03:00
+modified: 2025-04-11T23:06:33+03:00
 aliases:
   - godot hide scroll on web
   - Скрыть скролл на веб

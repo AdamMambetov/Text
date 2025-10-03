@@ -1,5 +1,6 @@
 ---
 created: 2024-08-26T13:58:29+03:00
+modified: 2025-04-11T22:40:59+03:00
 aliases:
   - How change default folders location in Windows 10
   - документы

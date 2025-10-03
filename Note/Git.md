@@ -1,5 +1,6 @@
 ---
 created: 2025-01-28T14:31:06+03:00
+modified: 2025-05-07T20:07:17+03:00
 aliases:
   - git
 category:

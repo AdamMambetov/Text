@@ -1,5 +1,6 @@
 ---
 created: 2025-03-18T00:00:00+03:00
+modified: 2025-03-18T11:53:38+03:00
 source: https://character.ai/
 category: "[[Искусственный интеллект|AI]]"
 ---

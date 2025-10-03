@@ -1,5 +1,6 @@
 ---
 created: 2025-03-18T00:00:00+03:00
+modified: 2025-04-23T04:22:51+03:00
 category:
   - "[[Программирование]]"
 source: https://www.jsoftware.com/
