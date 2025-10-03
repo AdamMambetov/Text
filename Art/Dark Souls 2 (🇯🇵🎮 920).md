@@ -5,7 +5,7 @@ aliases:
   - Dark Souls II
   - дс2
   - ds2
-Status: watch
+Status: complete
 Type: game
 Rating:
   - "[[®️12|PG-13]]"
