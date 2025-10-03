@@ -1,5 +1,7 @@
 formulas:
   name: aliases[0]
+  id: file.name.split("(")[1].toString().slice(7).split(")")[0]
+  country: file.name.split("(")[1].toString().slice(0, 4)
 views:
   - type: cards
     name: Cards
@@ -33,5 +35,11 @@ views:
         - '!file.path.contains("/")'
         - file.basename != "_art base"
     order:
-      - formula.name
+      - formula.id
+      - formula.country
       - file.name
+    sort:
+      - property: created
+        direction: ASC
+    columnSize:
+      formula.country: 32
