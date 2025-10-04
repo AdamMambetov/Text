@@ -17,7 +17,5 @@ cssclasses:
  - [[Music Player Maui]]
  - [[Baffle]]
 # Статистика базы знаний
-- [Последние изменения](changed): `$=dv.pages('').where(f => f.modified > (now() - dv.duration("1 month"))).length`
- `$=dv.list(dv.pages('').where(f => f.modified > (now() - dv.duration("1 month"))).sort(f => f.modified.ts, "desc").limit(20).file.link)`
 - [Недавно созданные](created): `$=dv.pages('').where(f => f.created > (now() - dv.duration("1 month"))).length`
   `$=dv.list(dv.pages('').where(f => f.created > (now() - dv.duration("1 month"))).sort(f => f.created.ts, "desc").limit(20).file.link)`
