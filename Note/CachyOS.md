@@ -2,9 +2,14 @@
 created: 2025-08-04T01:48:58+03:00
 meta:
   - "[[Linux]]"
+source: https://cachyos.org/
+related:
+  - https://github.com/CachyOS/linux-cachyos
 ---
 
 # CachyOS
+
+CachyOS - [[Linux]] дистрибутив на основе [[Arch Linux]]. У него много окружений рабочего стола. Я использую Hyprland.
 
 ## Как установить CachyOS
 
@@ -12,6 +17,16 @@ meta:
  2. Установить на флешку с помощью [[ventoy]]
  3. Если возникает ошибка при запуске с флешки, выключить Secure Boot в биосе
 
+
+## Список программ
+
+- [[Obsidian]]
+- Dolphin (File Explorer)
+- Firefox Browser
+- VLC Media Player
+- Steam Store
+- Heroic Games Launcher (for Epic Games Launcher)
+- emoji toolbar
 
 ## Как поставить emoji toolbar
 
