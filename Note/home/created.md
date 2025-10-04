@@ -6,13 +6,13 @@ views:
     name: Table
     filters:
       and:
-        - file.inFolder("Text")
         - file.ext == "md"
         - '!file.path.contains("templates")'
         - file.hasProperty("created")
     sort:
       - property: created
         direction: DESC
+
 ```
 
 
