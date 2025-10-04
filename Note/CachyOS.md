@@ -2,9 +2,9 @@
 created: 2025-08-04T01:48:58+03:00
 meta:
   - "[[Linux]]"
-source: https://cachyos.org/
 related:
   - https://github.com/CachyOS/linux-cachyos
+source: https://cachyos.org/
 ---
 
 # CachyOS
