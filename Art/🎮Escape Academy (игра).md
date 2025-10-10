@@ -2,7 +2,7 @@
 created: 2025-05-08T00:03:56+03:00
 aliases:
   - Escape Academy
-Status: watch
+Status: defer
 Type: game
 Rating:
   - "[[®️12|PG-13]]"

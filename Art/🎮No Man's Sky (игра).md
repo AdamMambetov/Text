@@ -3,7 +3,7 @@ created: 2025-05-30T00:39:10+03:00
 aliases:
   - No Man's Sky
   - No Mans Sky
-Status: watch
+Status: defer
 Type: game
 Rating:
   - "[[®️12|PG-13]]"

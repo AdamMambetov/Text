@@ -3,7 +3,7 @@ created: 2024-10-27T23:28:58+03:00
 aliases:
   - Your Turn To Die
   - YTTD
-Status: watch
+Status: defer
 Type: game
 Cover: "[[your_turn_to_die_game_cover.jpg]]"
 Year: 2017

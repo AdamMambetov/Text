@@ -5,7 +5,7 @@ aliases:
 Status: plan
 Type: game
 Rating:
-  - "[[®️12|PG-13]]"
+  - "[[®️16|16+]]"
 Cover: "[[murdered_soul_suspect_game_cover.jpg]]"
 Year: 2010
 meta:

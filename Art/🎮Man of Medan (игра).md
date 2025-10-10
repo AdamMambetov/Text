@@ -2,7 +2,7 @@
 created: 2025-05-06T13:02:03+03:00
 aliases:
   - Man of Medan
-Status: watch
+Status: defer
 Type: game
 Rating:
   - "[[®️12|M]]"
