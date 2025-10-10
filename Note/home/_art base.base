@@ -32,6 +32,10 @@ views:
     imageAspectRatio: 1.4
   - type: table
     name: View
+    filters:
+      and:
+        - Status == "plan"
+        - Type.startsWith("anime")
     order:
       - formula.id
       - formula.country
@@ -46,3 +50,6 @@ views:
     columnSize:
       formula.id: 42
       formula.country: 13
+    image: note.Cover
+    cardSize: 180
+    imageAspectRatio: 1.4
