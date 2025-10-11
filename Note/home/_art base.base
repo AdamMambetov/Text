@@ -15,7 +15,7 @@ views:
     name: Cards
     filters:
       and:
-        - Status == "plan"
+        - Status == "watch"
     order:
       - formula.name
       - Rating
