@@ -6,6 +6,8 @@ created: 2025-10-08T18:56:06+03:00
 
 Приложение для [[Android]], эмулятор [[Linux]] терминала. Скачать можно в FDroid.
 
+Мои скрипты лежат в `Note/scripts/termux-scripts`.
+
 После скачивания нужно обновить все пакеты.
 ```bash
 pkg update && pkg upgrade
@@ -36,6 +38,15 @@ pkg update && pkg upgrade
 > cd /storage/48AE-10F5/_Adam/Text/Art/
 > ```
 
+> [!note]- [[git-pull.sh]]
+> ```bash
+> bash /storage/48AE-10F5/_Adam/Text/Note/scripts/termux-scripts/git-pull.sh
+> ```
+
+> [!note]- [[git-sync.sh]]
+> ```bash
+> bash /storage/48AE-10F5/_Adam/Text/Note/scripts/termux-scripts/git-sync.sh
+> ```
 
 ---
 
