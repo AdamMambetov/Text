@@ -16,6 +16,7 @@ views:
     filters:
       and:
         - Status == "plan"
+        - Type.startsWith("anime")
     order:
       - formula.name
       - Rating
