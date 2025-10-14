@@ -115,3 +115,12 @@ customColor #133C6F
 textColor white
 ```
 ^button-steam
+
+```button
+name Epic Games
+type link
+action https://store.epicgames.com/
+customColor #997f00
+textColor white
+```
+^button-epicGames
