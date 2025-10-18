@@ -12,6 +12,7 @@ views:
         - file.hasProperty("aliases")
         - '!file.inFolder("ratings")'
         - '!file.inFolder("franchises")'
+        - Status == "watch"
     order:
       - formula.name
       - Rating
