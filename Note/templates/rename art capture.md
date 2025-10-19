@@ -1,3 +1,4 @@
+# rename art capture
 <%*
 dv = app.plugins.plugins.dataview.api
 
@@ -28,6 +29,7 @@ switch (files[num-1].type) {
 	case "series":
 	case "cartoon":
 	case "book":
+	case "comix":
 		flag = "🇺🇸"
 		break
 }
@@ -43,6 +45,7 @@ switch (files[num-1].type) {
 	case "manga":
 	case "manhua":
 	case "manhwa":
+	case "comix":
 		icon = "📗"
 		break
 	case "book":

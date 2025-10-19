@@ -1,11 +1,6 @@
 filters:
   and:
-    - file.basename != "_art base"
-    - file.inFolder("Text/Art")
-    - '!file.inFolder("Text/Art/templates")'
-    - '!file.inFolder("Text/Art/ratings")'
-    - '!file.inFolder("Text/Art/franchises")'
-    - file.ext == "md"
+    - file.inFolder("Text/Art/content")
 formulas:
   name: aliases[0]
   id: file.name.split("(")[1].toString().slice(7).split(")")[0]
