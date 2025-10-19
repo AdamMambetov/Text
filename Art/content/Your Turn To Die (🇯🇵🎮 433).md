@@ -7,6 +7,9 @@ Status: defer
 Type: game
 Cover: "[[your_turn_to_die_game_cover.jpg]]"
 Year: 2017
+meta:
+  - "[[Windows]]"
+  - "[[RPG Maker]]"
 ---
 
 # Your Turn To Die

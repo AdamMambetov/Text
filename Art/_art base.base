@@ -1,3 +1,6 @@
+filters:
+  and:
+    - file.inFolder("content")
 formulas:
   name: aliases[0]
   id: file.name.split("(")[1].toString().slice(7).split(")")[0]
@@ -7,11 +10,6 @@ views:
     name: Cards
     filters:
       and:
-        - file.basename != "_art base"
-        - '!file.inFolder("templates")'
-        - file.hasProperty("aliases")
-        - '!file.inFolder("ratings")'
-        - '!file.inFolder("franchises")'
         - Status == "watch"
     order:
       - formula.name
@@ -31,10 +29,6 @@ views:
     imageAspectRatio: 1.55
   - type: table
     name: View
-    filters:
-      and:
-        - '!file.path.contains("/")'
-        - file.basename != "_art base"
     order:
       - formula.id
       - formula.country
