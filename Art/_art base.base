@@ -29,14 +29,16 @@ views:
     cardSize: 130
     imageAspectRatio: 1.55
   - type: table
-    name: View
+    name: Table
     order:
       - formula.id
       - formula.country
+      - formula.name
       - file.name
     sort:
-      - property: created
+      - property: formula.name
         direction: ASC
     columnSize:
       formula.id: 48
       formula.country: 32
+      formula.name: 229
