@@ -13,7 +13,7 @@ Views: 1
 related:
   - "[[3qoOiKH-JJM.jpg]]"
   - "[[ozoZJyEYiuU.jpg]]"
-Предыстория: "[[Dark Souls 2 (🇯🇵🎮 920)]]"
+Предыстория: "[[Dark Souls 2 (🇯🇵🎮 919)]]"
 ---
 
 # Dark Souls 3

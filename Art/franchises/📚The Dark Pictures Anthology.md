@@ -4,10 +4,10 @@ aliases:
   - The Dark Pictures Anthology
   - Тëмные картинки
 франшиза:
-  - "[[🎮Man of Medan (игра)]]"
-  - "[[🎮Little Hope (игра)]]"
-  - "[[🎮House of Ashes (игра)]]"
-  - "[[🎮The Devil in Me (игра)]]"
+  - "[[🎮Man of Medan 941)]]"
+  - "[[🎮Little Hope 942)]]"
+  - "[[🎮House of Ashes 939)]]"
+  - "[[🎮The Devil in Me 943)]]"
 ---
 
 # The Dark Pictures Anthology
