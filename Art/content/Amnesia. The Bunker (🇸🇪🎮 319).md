@@ -14,6 +14,7 @@ Views: 1
 ![[amnesia_the_bunker_game_cover.png]]
 
 Посмотрел [прохождение](https://youtu.be/ZRdb71aiBZg?si=mFOKyIUeuzEcijjT) [[@Дмитрий Куплинов | Куплинова]]. [Прохождение в ВК](https://vk.com/video/playlist/-56169357_972).
+Забрал в Epic Games Store.
 
 
 ```button

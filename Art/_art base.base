@@ -3,7 +3,8 @@ filters:
     - file.inFolder("content")
 formulas:
   name: aliases[0]
-  id: file.name.split("(")[1].toString().slice(7).split(")")[0]
+  id: |
+    file.name.split("(")[1].toString().slice(7).split(")")[0]
   country: file.name.split("(")[1].toString().slice(0, 4)
 views:
   - type: cards
@@ -37,4 +38,5 @@ views:
       - property: created
         direction: ASC
     columnSize:
+      formula.id: 48
       formula.country: 32

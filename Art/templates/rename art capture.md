@@ -3,7 +3,7 @@ dv = app.plugins.plugins.dataview.api
 
 let title = tp.file.title
 
-const files = dv.pages().filter(p => !p.file.path.includes('/')).sort(f => f.created, "asc")
+const files = dv.pages('"content"').sort(f => f.created, "asc")
 let num = files.findIndex(f => f.file.name === title) + 1
 if (num == -1) return
 
