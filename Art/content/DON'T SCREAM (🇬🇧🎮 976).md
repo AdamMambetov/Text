@@ -7,7 +7,7 @@ Status: complete
 Type: game
 Rating:
   - "[[®️16|R-17]]"
-Cover: "[[dont_scream_game_cover.jpg]]"
+Cover: "[[don't_scream_game_cover.jpg]]"
 Year: 2023
 Views: 2
 meta:
@@ -16,7 +16,7 @@ meta:
 
 # DON'T SCREAM
 
-![[dont_scream_game_cover.jpg]]
+![[don't_scream_game_cover.jpg]]
 
 
 ```button

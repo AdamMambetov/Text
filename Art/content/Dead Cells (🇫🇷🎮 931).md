@@ -23,9 +23,18 @@ hidden true
 ```
 ^button-worldArt
 
+```button
+name Steam
+type link
+action https://store.steampowered.com/app/588650/Dead_Cells/
+customColor #133C6F
+textColor white
+hidden true
+```
+^button-steam
 
 
-`button-worldArt`
+`button-worldArt` `button-steam`
 
 ## Описание
 
