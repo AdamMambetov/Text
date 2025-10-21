@@ -18,6 +18,29 @@ tags:
 
 ![[bpm_game_cover.jpg]]
 
+```button
+name World Art
+type link
+action http://www.world-art.ru/games/games.php?id=40328
+customColor #7a0000
+hidden true
+```
+^button-worldArt
+
+```button
+name Steam
+type link
+action https://store.steampowered.com/app/1286350/BPM_BULLETS_PER_MINUTE/
+customColor #133C6F
+textColor white
+hidden true
+```
+^button-steam
+
+
+`button-worldArt` `button-steam`
+
+
 [[@Аслангерий Гутаев|Аслангерий]] посоветовал поиграть.
 
 [BPM Custom Music Tutorial](https://youtu.be/iRj82LgFN7o?si=UzmFybUmcAUiRdZZ)

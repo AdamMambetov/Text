@@ -17,23 +17,6 @@ meta:
 ![[dark_and_darker_game_cover.jpg]]
 
 
-```button
-name Shikimori
-type link
-action https://shikimori.one/
-customColor #4682b4
-hidden true
-```
-^button-shikimori
-
-```button
-name TV Time
-type link
-action https://www.tvtime.com/
-customColor #997f00
-hidden true
-```
-^button-tv-time
 
 ```button
 name World Art
@@ -42,97 +25,24 @@ action http://www.world-art.ru/
 customColor #7a0000
 hidden true
 ```
-^button-world-art
+^button-worldArt
 
 ```button
-name ONIKES
+name Steam
 type link
-action https://onikes.ru/
-color purple
+action https://store.steampowered.com/app/2016590/Dark_and_Darker/
+customColor #133C6F
+textColor white
 hidden true
 ```
-^button-onikes
+^button-steam
 
-```button
-name KESIDATOKIO VOD'S
-type link
-action https://yo8z6gv.github.io/
-color purple
-customTextColor black
-hidden true
-```
-^button-kesidatokio-vods
 
-```button
-name Anime Filler List
-type link
-action https://www.animefillerlist.com/
-customColor #da5100
-hidden true
-```
-^button-anime-filler-list
-
-```button
-name MangaLib
-type link
-action https://mangalib.me/
-customColor #252527
-customTextColor #b6720f
-hidden true
-```
-^button-mangalib
-
-```button
-name RanobeLib
-type link
-action https://ranobelib.me/
-customColor #252527
-customTextColor #2196f3
-hidden true
-```
-^button-ranobelib
-
-```button
-name AnimeLib
-type link
-action https://anilib.me/
-customColor #252527
-customTextColor #7E57C2
-hidden true
-```
-^button-animelib
-
-```button
-name Senkuro
-type link
-action https://senkuro.com/
-customColor #191A21
-hidden true
-```
-^button-senkuro
-
-```button
-name ReYohoho
-type link
-action https://reyohoho.github.io/reyohoho/
-customColor #1c1c1c
-hidden true
-```
-^button-reyohoho
-
-```button
-name FreeTP
-type link
-action https://freetp.org/
-color green
-customTextColor black
-hidden true
-```
-^button-fretp
+`button-worldArt` `button-steam`
 
 ## Причина добавления
 
-Русик посоветовал. Целая куча офигенных картинок во время загрузки.
+[[Русик]] посоветовал. Целая куча офигенных картинок во время загрузки.
 
 
 ## Описание

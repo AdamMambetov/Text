@@ -19,15 +19,24 @@ Year: 2020
 ```button
 name World Art
 type link
-action 
+action http://www.world-art.ru/games/games.php?id=27709
 customColor #7a0000
 hidden true
 ```
 ^button-worldArt
 
+```button
+name Steam
+type link
+action https://store.steampowered.com/app/1091500/Cyberpunk_2077/
+customColor #133C6F
+textColor white
+hidden true
+```
+^button-steam
 
 
-`button-worldArt`
+`button-worldArt` `button-steam`
 
 Анонсирован был 30 мая 2012.
 
