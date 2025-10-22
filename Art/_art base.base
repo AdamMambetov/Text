@@ -11,7 +11,8 @@ views:
     name: Cards
     filters:
       and:
-        - Status == "watch"
+        - Type.startsWith("anime")
+        - file.tags.contains("❤")
     order:
       - formula.name
       - Rating
@@ -21,9 +22,7 @@ views:
       - Views
       - Type
     sort:
-      - property: Type
-        direction: ASC
-      - property: formula.name
+      - property: created
         direction: ASC
     image: note.Cover
     cardSize: 130
@@ -36,7 +35,7 @@ views:
       - formula.name
       - file.name
     sort:
-      - property: formula.name
+      - property: created
         direction: ASC
     columnSize:
       formula.id: 48

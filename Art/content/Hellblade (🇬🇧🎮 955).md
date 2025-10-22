@@ -7,7 +7,9 @@ Type: game
 Rating:
   - "[[®️16|R-17]]"
 Cover:
-Year:
+Year: 2017
+meta:
+  - "[[Unreal Engine]]"
 ---
 
 # Hellblade
@@ -18,7 +20,7 @@ Year:
 ```button
 name World Art
 type link
-action 
+action http://www.world-art.ru/games/games.php?id=29569
 customColor #7a0000
 hidden true
 ```

@@ -14,7 +14,7 @@ Year: 2020
 
 ![[hellpoint_game_cover.jpg]]
 
-Говорят, что игра похожа на Dark Souls.
+Говорят, что игра похожа на [[Dark Souls 1 (🇯🇵🎮 971)|Dark Souls]].
 
 ```button
 name World Art

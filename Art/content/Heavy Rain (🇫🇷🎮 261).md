@@ -4,7 +4,7 @@ aliases:
   - Heavy Rain
 Status: complete
 Type: game
-Year: 2010
+Year: 2019
 Views: 1
 related:
   - "[[@Дмитрий Куплинов]]"

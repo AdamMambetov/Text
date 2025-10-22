@@ -1,7 +1,7 @@
 ---
 created: 2025-07-12T14:58:35+03:00
 aliases:
-  - STEINS;GATE
+  - Steins;Gate
   - Врата Штейна
 Status: plan
 Type: game
@@ -11,7 +11,7 @@ Cover: "[[steins_gate_game_cover.jpg]]"
 Year: 2010
 ---
 
-# STEINS;GATE
+# Steins;Gate
 
 ![[steins_gate_game_cover.jpg]]
 

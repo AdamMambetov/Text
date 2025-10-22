@@ -1,20 +1,24 @@
 ---
-created: 2024-08-29T23:15:00
+created: 2024-04-27T21:06:13+03:00
 aliases:
-  - Echo Point
-Status: plan
-Type: game
-Cover:
-Year: 2024
-meta:
-  - "[[Godot]]"
-  - "[[Unreal Engine]]"
-source: https://lazyna.itch.io/echo-point
+  - "Когда плачут цикады 3: Благодарность"
+  - Higurashi no Naku Koro ni Rei
+Status: complete
+Type: anime
+Rating:
+  - "[[®️12|PG-13]]"
+  - "[[®️16|16+]]"
+Cover: "[[higurashi_rei_anime_cover.png]]"
+Year: 2009
+Episode: 5
+Views: 1
+Предыстория: "[[Higurashi no Naku Koro ni 2. Kai (🇯🇵📺 37)]]"
+Продолжение: "[[Higurashi no Naku Koro ni 4. Gou (🇯🇵📺 38)]]"
 ---
 
-# Echo Point
+# Когда плачут цикады: Благодарность
 
-Ремейк Half Life 2 на [[Godot]].
+![[higurashi_rei_anime_cover.png]]
 
 ```button
 name Shikimori

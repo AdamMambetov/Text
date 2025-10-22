@@ -1,32 +1,27 @@
 ---
-created: 2024-07-03T23:51:14+03:00
+created: 2024-01-15T12:48:00
 aliases:
-  - Когда плачут чайки
-  - Umineko no Naku Koro ni
+  - "Когда плачут цикады 4: Карма"
+  - Higurashi no Naku Koro ni Gou
 Status: complete
 Type: anime
 Rating:
   - "[[®️16|R-17]]"
   - "[[®️18|18+]]"
-Cover: "[[umineko_anime_cover.jpeg]]"
-Year: 2009
-Episode: 26
-Views: 3
-tags:
-  - ❤
+Cover: "[[higurashi_gou_anime_cover.jpeg]]"
+Year: 2020
+Episode: 24
+Views: 1
 related:
-  - "[[Когда плачут цикады 1 (🇯🇵📺 36)]]"
   - "[[@Дмитрий Кесида]]"
-Stream: 5
-Адаптация: "[[Когда Плачут Чайки (🇯🇵🎮 254)]]"
+Stream: 2
+Предыстория: "[[Higurashi no Naku Koro ni 3. Rei (🇯🇵📺 138)]]"
+Продолжение: "[[Higurashi no Naku Koro ni 5. Sotsu (🇯🇵📺 39)]]"
 ---
 
-# Когда плачут чайки
+# Когда плачут цикады: Карма
 
-![[umineko_anime_cover.jpeg]]
-
-
-4 октября 1986 год
+![[higurashi_gou_anime_cover.jpeg]]
 
 ```button
 name Shikimori

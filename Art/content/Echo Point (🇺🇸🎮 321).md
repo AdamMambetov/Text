@@ -1,29 +1,19 @@
 ---
-created: 2024-01-15T12:46:00
+created: 2024-08-29T23:15:00
 aliases:
-  - Когда плачут цикады
-  - Higurashi no Naku Koro ni
-Status: complete
-Type: anime
-Rating:
-  - "[[®️16|R-17]]"
-  - "[[®️18|18+]]"
-Cover: "[[higurashi_anime_cover.jpg]]"
-Year: 2006
-Episode: 26
-Views: 1
-tags:
-  - ❤
-related:
-  - "[[Когда плачут чайки (🇯🇵📺 266)]]"
-  - "[[@Дмитрий Кесида]]"
-Адаптация: "[[🎮Когда плачут цикады (игра)]]"
-Продолжение: "[[Когда плачут цикады 2. Разгадки (🇯🇵📺 37)]]"
+  - Echo Point
+Status: plan
+Type: game
+Cover:
+Year: 2024
+meta:
+  - "[[Godot]]"
+source: https://lazyna.itch.io/echo-point
 ---
 
-# Когда плачут цикады
+# Echo Point
 
-![[higurashi_anime_cover.jpg]]
+Ремейк Half Life 2 на [[Godot]].
 
 ```button
 name Shikimori

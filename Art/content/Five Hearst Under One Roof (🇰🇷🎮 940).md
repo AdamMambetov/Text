@@ -29,6 +29,8 @@ hidden true
 
 `button-worldArt`
 
+Посмотрел прохождение [[@HellYeahPlay | Сергея HellYeah]].
+
 ## Описание
 
 
