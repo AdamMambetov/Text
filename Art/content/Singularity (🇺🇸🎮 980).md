@@ -5,7 +5,7 @@ aliases:
 Status: plan
 Type: game
 Rating:
-  - "[[®️16|R-17]]"
+  - "[[®️18|18+]]"
 Cover: "[[singularity_game_cover.jpg]]"
 Year: 2010
 meta:
@@ -29,28 +29,15 @@ hidden true
 ```button
 name Steam
 type link
-action 
+action https://store.steampowered.com/app/42670/Singularity/
 customColor #133C6F
 textColor white
 hidden true
 ```
 ^button-steam
 
-```button
-name FreeTP
-type link
-action 
-color green
-customTextColor black
-hidden true
-```
-^button-freetp
-
-
 
 `button-worldArt` `button-steam`
-
-`button-freetp`
 
 ## Причина добавления
 

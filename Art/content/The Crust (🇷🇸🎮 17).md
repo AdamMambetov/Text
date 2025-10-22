@@ -1,17 +1,24 @@
 ---
-created: 2024-08-20T00:17:15+03:00
+created: 2023-12-03T17:33:00
 aliases:
-  - Still Wakes the Deep
-Status: complete
+  - The Crust
+Status: plan
 Type: game
-Cover:
-Year: 2024
-Views: 1
+meta:
+  - "[[Unreal Engine]]"
+source: https://t.me/unrealenginecis/3580
 ---
 
-# Still Wakes the Deep
+# The Crust
 
-Посмотрел прохождение [[@Дмитрий Куплинов | Куплинова]].
+The Crust — симулятор освоения Луны с элементами выживания.
+Игрок будет добывать ресурсы, строить и управлять лунной базой, исследовать спутник Земли и участвовать в совместных научных и коммерческих проектах с другими фракциями и странами. "Колониальная" стратегия на [[Unreal Engine]] — это интересно, да.
+
+https://ue4daily.com/blog/crust
+
+[Epic Games Store](https://store.epicgames.com/en-US/p/the-crust-17f0f9)  
+[Steam](https://store.steampowered.com/app/1465470/The_Crust/)
+
 
 ```button
 name Shikimori

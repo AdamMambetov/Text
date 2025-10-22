@@ -9,6 +9,8 @@ Rating:
 Cover: "[[superliminal_game_cover.jpg]]"
 Year: 2019
 Views: 2
+meta:
+  - "[[Unity]]"
 ---
 
 # Superliminal
@@ -35,21 +37,8 @@ hidden true
 ```
 ^button-steam
 
-```button
-name FreeTP
-type link
-action 
-color green
-customTextColor black
-hidden true
-```
-^button-freetp
-
-
 
 `button-worldArt` `button-steam`
-
-`button-freetp`
 
 ## Причина добавления
 

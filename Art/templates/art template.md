@@ -4,9 +4,9 @@ dv = app.plugins.plugins.dataview.api
 const modalForm = app.plugins.plugins.modalforms.api;
 const result = await modalForm.openForm("art-form", { values: { aliases: [tp.file.title] } });
 const linkInfo = {
-	links: ["https://shikimori.one/", "https://www.tvtime.com/", "http://www.world-art.ru/", "https://onikes.ru/", "https://yo8z6gv.github.io/", "https://www.animefillerlist.com/", "https://mangalib.me/", "https://ranobelib.me/", "https://anilib.me/", "https://senkuro.com/", "https://reyohoho.github.io/reyohoho/", "https://freetp.org/", "https://store.steampowered.com/"],
-	names: ["shikimori", "tvTime", "worldArt", "onikes", "kesidatokioVods", "animeFillerList", "mangalib", "ranobelib", "animelib", "senkuro", "reyohoho", "freetp", "steam"],
-	buttons: ["Shikimori", "TV Time", "World Art", "ONIKES", "KESIDATOKIO VOD'S", "Anime Filler List", "MangaLib", "RanobeLib", "AnimeLib", "Senkuro", "ReYohoho", "FreeTP", "Steam"],
+	links: ["shikimori.one", "tvtime.com", "world-art.ru", "onikes.ru", "yo8z6gv.github.io", "animefillerlist.com", "mangalib.me", "ranobelib.me", "anilib.me", "senkuro.com", "reyohoho.github.io/reyohoho", "freetp.org", "store.steampowered.com", "store.epicgames.com", "gog.com"],
+	names: ["shikimori", "tvTime", "worldArt", "onikes", "kesidatokioVods", "animeFillerList", "mangalib", "ranobelib", "animelib", "senkuro", "reyohoho", "freetp", "steam", " epicGames", "gog"],
+	buttons: ["Shikimori", "TV Time", "World Art", "ONIKES", "KESIDATOKIO VOD'S", "Anime Filler List", "MangaLib", "RanobeLib", "AnimeLib", "Senkuro", "ReYohoho", "FreeTP", "Steam", " Epic Games", "GOG"],
 }
 
 let icon
@@ -40,7 +40,7 @@ switch (result.get("Type")) {
 }
 
 let title = tp.file.title
-let num = dv.pages().filter(p => !p.file.path.includes('/')).length
+let num = dv.pages('"content"').length
 await tp.file.rename(`${title} (${result.get("Flag")}${icon} ${num})`);
 
 let coverPath = result.asString("{{Cover}}")
@@ -157,6 +157,14 @@ function createBtn(index, action) {
 			tR += "customColor #133C6F" + "\n"
 			tR += "textColor white" + "\n"
 			break;
+		case "epicGames":
+			tR += "customColor #000000" + "\n"
+			tR += "textColor white" + "\n"
+			break;
+		case "gog":
+			tR += "customColor #000000" + "\n"
+			tR += "textColor white" + "\n"
+			break;
 	}
 	tR += "hidden true" + "\n"  
 	tR += "\`\`\`" + "\n"
@@ -194,7 +202,6 @@ if (links !== "{{Links}}") {
 %>
 
 ## Причина добавления
-
 
 
 

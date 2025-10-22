@@ -20,7 +20,7 @@ meta:
 ```button
 name World Art
 type link
-action 
+action http://www.world-art.ru/games/games.php?id=26416
 customColor #7a0000
 hidden true
 ```

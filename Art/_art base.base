@@ -39,5 +39,5 @@ views:
         direction: ASC
     columnSize:
       formula.id: 48
-      formula.country: 32
+      formula.country: 44
       formula.name: 229

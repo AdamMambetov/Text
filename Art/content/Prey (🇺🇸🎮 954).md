@@ -18,7 +18,7 @@ Year: 2017
 ```button
 name World Art
 type link
-action 
+action http://www.world-art.ru/games/games.php?id=28563
 customColor #7a0000
 hidden true
 ```

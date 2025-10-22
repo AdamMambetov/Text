@@ -9,6 +9,8 @@ Rating:
 Cover: "[[magicraft_game_cover.jpg]]"
 Year: 2023
 Views: 1
+meta:
+  - "[[Unity]]"
 ---
 
 # Magicraft

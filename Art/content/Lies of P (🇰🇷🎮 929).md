@@ -14,7 +14,7 @@ Year: 2023
 
 ![[lies_of_p_game_cover.jpg]]
 
-Похожа на Dark Souls.
+Похожа на [[Dark Souls 1 (🇯🇵🎮 971)|Dark Souls]].
 
 
 ```button

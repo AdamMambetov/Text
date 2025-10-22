@@ -6,11 +6,11 @@ aliases:
 Status: complete
 Type: game
 Rating:
-  - "[[®️12|PG-13]]"
+  - "[[®️12|12+]]"
 Cover: "[[prince_of_persia_game_cover.jpg]]"
 Year: 2003
 Views: 5
-Продолжение: "[[🎮Prince of Persia. Warrior Within 991)]]"
+Продолжение: "[[Prince of Persia 2. Warrior Within (🇨🇦🎮 991)]]"
 ---
 
 # Prince of Persia: The Sands of Time
@@ -21,7 +21,7 @@ Views: 5
 ```button
 name World Art
 type link
-action 
+action http://www.world-art.ru/games/games.php?id=11756
 customColor #7a0000
 hidden true
 ```

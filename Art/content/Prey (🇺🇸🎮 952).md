@@ -18,7 +18,7 @@ Year: 2006
 ```button
 name World Art
 type link
-action 
+action http://www.world-art.ru/games/games.php?id=330
 customColor #7a0000
 hidden true
 ```

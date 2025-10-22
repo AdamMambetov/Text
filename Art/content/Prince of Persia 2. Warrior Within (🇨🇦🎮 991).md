@@ -8,12 +8,12 @@ aliases:
 Status: complete
 Type: game
 Rating:
-  - "[[®️12|PG-13]]"
+  - "[[®️16|16+]]"
 Cover: "[[prince_of_persia_2_game_cover.jpg]]"
 Year: 2004
 Views: 5
-Предыстория: "[[🎮Prince of Persia. The Sands of Time 962)]]"
-Продолжение: "[[🎮Prince of Persia. The Two Thrones 992)]]"
+Предыстория: "[[Prince of Persia 1. The Sands of Time (🇨🇦🎮 962)]]"
+Продолжение: "[[Prince of Persia 3. The Two Thrones (🇨🇦🎮 992)]]"
 ---
 
 # Prince of Persia. Warrior Within
@@ -24,7 +24,7 @@ Views: 5
 ```button
 name World Art
 type link
-action 
+action http://www.world-art.ru/games/games.php?id=11761
 customColor #7a0000
 hidden true
 ```
@@ -33,28 +33,15 @@ hidden true
 ```button
 name Steam
 type link
-action 
+action https://store.steampowered.com/app/13500/Prince_of_Persia_Warrior_Within/
 customColor #133C6F
 textColor white
 hidden true
 ```
 ^button-steam
 
-```button
-name FreeTP
-type link
-action 
-color green
-customTextColor black
-hidden true
-```
-^button-freetp
-
-
 
 `button-worldArt` `button-steam`
-
-`button-freetp`
 
 ## Причина добавления
 

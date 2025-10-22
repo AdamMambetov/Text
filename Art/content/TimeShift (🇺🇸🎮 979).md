@@ -28,28 +28,15 @@ hidden true
 ```button
 name Steam
 type link
-action 
+action https://store.steampowered.com/app/10130/TimeShift/
 customColor #133C6F
 textColor white
 hidden true
 ```
 ^button-steam
 
-```button
-name FreeTP
-type link
-action 
-color green
-customTextColor black
-hidden true
-```
-^button-freetp
-
-
 
 `button-worldArt` `button-steam`
-
-`button-freetp`
 
 ## Причина добавления
 

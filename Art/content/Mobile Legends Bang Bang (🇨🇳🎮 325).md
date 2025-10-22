@@ -1,24 +1,29 @@
 ---
-created: 2023-12-03T17:33:00
+created: 2024-09-14T17:05:21+03:00
 aliases:
-  - The Crust
-Status: plan
+  - "Mobile Legends: Bang Bang"
+  - mlbb
+  - мл
+  - мобла
+Status: defer
 Type: game
-meta:
-  - "[[Unreal Engine]]"
-source: https://t.me/unrealenginecis/3580
+Cover: "[[mobile_legends_bang_bang_game_cover.png]]"
+Year: 2016
+tags:
+  - ❤
+related:
+  - "[[4ef3332ab0b78807ab9c4b7a21710d73.jpg]]"
+  - "[[Screenshot_2019-12-02-17-16-23-413_com.vkontakte.android.jpg]]"
 ---
 
-# The Crust
+# Mobile Legends: Bang Bang
 
-The Crust — симулятор освоения Луны с элементами выживания.
-Игрок будет добывать ресурсы, строить и управлять лунной базой, исследовать спутник Земли и участвовать в совместных научных и коммерческих проектах с другими фракциями и странами. "Колониальная" стратегия на Unreal Engine — это интересно, да.
+![[mobile_legends_bang_bang_game_cover.png]]
 
-https://ue4daily.com/blog/crust
 
-[Epic Games Store](https://store.epicgames.com/en-US/p/the-crust-17f0f9)  
-[Steam](https://store.steampowered.com/app/1465470/The_Crust/)
+## Описание
 
+Mobile Legends: Bang Bang — многопользовательская командная видеоигра в жанре MOBA, разработанная Moonton для мобильных устройств.
 
 ```button
 name Shikimori

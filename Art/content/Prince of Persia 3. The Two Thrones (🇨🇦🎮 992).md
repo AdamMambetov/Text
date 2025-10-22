@@ -7,10 +7,10 @@ aliases:
 Status: plan
 Type: game
 Rating:
-  - "[[®️12|PG-13]]"
+  - "[[®️16|16+]]"
 Cover: "[[prince_of_persia_3_game_cover.jpg]]"
 Year: 2005
-Предыстория: "[[🎮Prince of Persia. Warrior Within 991)]]"
+Предыстория: "[[Prince of Persia 2. Warrior Within (🇨🇦🎮 991)]]"
 ---
 
 # Prince of Persia: The Two Thrones
@@ -30,28 +30,15 @@ hidden true
 ```button
 name Steam
 type link
-action 
+action https://store.steampowered.com/app/13530/Prince_of_Persia_The_Two_Thrones/
 customColor #133C6F
 textColor white
 hidden true
 ```
 ^button-steam
 
-```button
-name FreeTP
-type link
-action 
-color green
-customTextColor black
-hidden true
-```
-^button-freetp
-
-
 
 `button-worldArt` `button-steam`
-
-`button-freetp`
 
 ## Причина добавления
 
