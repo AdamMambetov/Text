@@ -19,3 +19,13 @@ cssclasses:
 # Статистика базы знаний
 - [Недавно созданные](created): `$=dv.pages('').where(f => f.created > (now() - dv.duration("1 month"))).length`
   `$=dv.list(dv.pages('').where(f => f.created > (now() - dv.duration("1 month"))).sort(f => f.created.ts, "desc").limit(20).file.link)`
+
+```base
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.links.contains("Android Studio")
+    sort: []
+```
