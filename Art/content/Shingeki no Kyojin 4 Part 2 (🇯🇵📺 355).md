@@ -16,8 +16,8 @@ Cover: "[[attack_on_titan_4_part_2_anime_cover.png]]"
 Year: 2022
 Episode: 12
 Views: 1
-Предыстория: "[[Атака титанов. Финал (🇯🇵📺 354)]]"
-Продолжение: "[[Атака титанов. Заключительная глава - Последняя атака (🇯🇵📺 813)]]"
+Предыстория: "[[Shingeki no Kyojin 4 (🇯🇵📺 354)]]"
+Продолжение: "[[Shingeki no Kyojin Movie. Kanketsu-hen - The Last Attack (🇯🇵📺 813)]]"
 ---
 
 # Атака титанов: Финал. Часть 2

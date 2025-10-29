@@ -2,6 +2,8 @@
 created: 2024-11-04T14:35:00
 aliases:
   - Башня Бога
+  - Kami no Tou
+  - Tower of God
 Status: plan
 Type: anime
 Rating:

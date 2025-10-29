@@ -2,6 +2,7 @@
 created: 2024-11-04T14:20:22+03:00
 aliases:
   - Бернард
+  - Bernard
 Status: plan
 Type: cartoon
 Rating:

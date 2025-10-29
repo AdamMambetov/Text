@@ -10,7 +10,7 @@ Rating:
 Cover: "[[attack_on_titan_the_last_attack_anime_film_cover.jpg]]"
 Year: 2024
 Views: 1
-Предыстория: "[[Атака титанов. Финал ч2 (🇯🇵📺 355)]]"
+Предыстория: "[[Shingeki no Kyojin 4 Part 2 (🇯🇵📺 355)]]"
 ---
 
 # Атака титанов: Заключительная глава — Последняя атака

@@ -2,6 +2,7 @@
 created: 2024-11-04T14:18:50+03:00
 aliases:
   - Безумный азарт
+  - Kakegurui
 Status: plan
 Type: anime
 Rating:

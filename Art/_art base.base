@@ -11,8 +11,7 @@ views:
     name: Cards
     filters:
       and:
-        - Type.startsWith("anime")
-        - file.tags.contains("❤")
+        - file.name.contains("📺")
     order:
       - formula.name
       - Rating
@@ -22,7 +21,7 @@ views:
       - Views
       - Type
     sort:
-      - property: created
+      - property: formula.name
         direction: ASC
     image: note.Cover
     cardSize: 130

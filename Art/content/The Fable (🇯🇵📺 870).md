@@ -2,6 +2,7 @@
 created: 2024-11-04T15:04:00
 aliases:
   - Басня
+  - The Fable
 Status: plan
 Type: anime
 Rating:
