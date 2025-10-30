@@ -1,0 +1,86 @@
+---
+created: 2024-11-04T14:21:44+03:00
+aliases:
+  - Больше чем пара, меньше чем любовники
+  - Fuufu Ijou, Koibito Miman
+  - More than a Married Couple, but Not Lovers
+Status: drop
+Type: anime
+Rating:
+  - "[[®️12|PG-13]]"
+  - "[[®️16|16+]]"
+Cover: "[[fuufu_ijou_koibito_miman_anime_cover.jpg]]"
+Year: 2022
+Episode: 2
+---
+
+# Больше чем пара, меньше чем любовники
+
+![[fuufu_ijou_koibito_miman_anime_cover.jpg]]
+
+```button
+name Shikimori
+type link
+action https://shikimori.one/animes/50425
+customColor #4682b4
+hidden true
+```
+^button-shikimori
+
+```button
+name TV Time
+type link
+action https://www.tvtime.com/
+customColor #997f00
+hidden true
+```
+^button-tvTime
+
+```button
+name World Art
+type link
+action http://www.world-art.ru/
+customColor #7a0000
+hidden true
+```
+^button-worldArt
+
+```button
+name AnimeLib
+type link
+action https://anilib.me/
+customColor #252527
+customTextColor #7E57C2
+hidden true
+```
+^button-animelib
+
+```button
+name Senkuro
+type link
+action https://senkuro.com/
+customColor #191A21
+hidden true
+```
+^button-senkuro
+
+```button
+name ReYohoho
+type link
+action https://reyohoho.github.io/reyohoho/
+customColor #1c1c1c
+hidden true
+```
+^button-reyohoho
+
+`button-shikimori` `button-tvTime`
+
+`button-worldArt` `button-animelib`
+
+`button-senkuro` `button-reyohoho`
+
+## Описание
+
+На первый взгляд школа, в которой учится [Дзиро Якуин](https://shikimori.one/characters/191320-jirou-yakuin), ничем не отличается от любой другой школы в Японии. Ученики этого учебного заведения так же посещают спортзал, столовую, клубы, пользуются школьным инвентарём, учатся и отдыхают на переменах. Однако одно отличие всё-таки имеется: в школе существует специальная программа под названием «Парная практика», которая направлена на подготовку молодых людей к супружеской жизни. По правилам программы учеников разделяют на пары и предоставляют им жильё. За отведённое время новоиспечённые супруги должны научиться взаимодействовать друг с другом как муж и жена, а камера, установленная в любовном гнёздышке, будет фиксировать все успехи и провалы супругов, что отразится на рейтинге пары.
+
+[Дзиро Якуин](https://shikimori.one/characters/191320-jirou-yakuin) мечтал о том, что его напарницей станет [Сиори Сакурадзака](https://shikimori.one/characters/191319-shiori-sakurazaka), подруга детства, в которую он давно влюблён. Однако школьная система решила иначе и выбрала его компаньоншей полную противоположность парня - яркую и популярную [Акари Ватанабэ](https://shikimori.one/characters/180599-akari-watanabe). Оказалось, что не только [Дзиро](https://shikimori.one/characters/191320-jirou-yakuin) не в восторге от такой перспективы, [Акари](https://shikimori.one/characters/180599-akari-watanabe) тоже надеялась на другого партнёра в лице школьного красавчика [Минами Тэндзина](https://shikimori.one/characters/191321-minami-tenjin). Но новоиспечённые супруги не отчаиваются и быстро находят выход из ситуации, ведь по правилам программы пары, которые попадают в десятку лучших, получают право поменять своего партнёра. Теперь [Дзиро](https://shikimori.one/characters/191320-jirou-yakuin) и [Акари](https://shikimori.one/characters/180599-akari-watanabe) готовы на всё ради достижения результата, но останутся ли их взаимоотношения на прежнем уровне?

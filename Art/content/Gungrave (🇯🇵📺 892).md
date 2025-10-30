@@ -1,0 +1,90 @@
+---
+created: 2024-12-14T21:30:47+03:00
+aliases:
+  - "Гангрейв: Убийца с того света"
+  - Gungrave
+Status: complete
+Type: anime
+Rating:
+  - "[[®️16|R-17]]"
+  - "[[®️18|18+]]"
+Cover: "[[gungrave_anime_cover.jpg]]"
+Year: 2003
+Episode: 26
+Views: 1
+---
+
+# Гангрейв
+
+![[gungrave_anime_cover.jpg]]
+
+[[@Аслангерий Гутаев|Аслангерий]] посоветовал посмотреть.
+
+```button
+name Shikimori
+type link
+action https://shikimori.one/animes/267-gungrave
+customColor #4682b4
+hidden true
+```
+^button-shikimori
+
+```button
+name TV Time
+type link
+action 
+customColor #997f00
+hidden true
+```
+^button-tvTime
+
+```button
+name World Art
+type link
+action 
+customColor #7a0000
+hidden true
+```
+^button-worldArt
+
+```button
+name AnimeLib
+type link
+action 
+customColor #252527
+customTextColor #7E57C2
+hidden true
+```
+^button-animelib
+
+```button
+name Senkuro
+type link
+action 
+customColor #191A21
+hidden true
+```
+^button-senkuro
+
+```button
+name ReYohoho
+type link
+action 
+customColor #1c1c1c
+hidden true
+```
+^button-reyohoho
+
+
+
+`button-shikimori` `button-tvTime`
+
+`button-worldArt` `button-animelib`
+
+`button-senkuro` `button-reyohoho`
+
+
+
+## Описание
+
+События сериала происходят спустя тринадцать лет после того, как [Брэндона Хита](https://shikimori.one/characters/415-brandon-heat) предал его лучший друг [Гарри МакДауэлл](https://shikimori.one/characters/1610-harry-mcdowell). [Брэндон](https://shikimori.one/characters/415-brandon-heat) возродился под именем Бейонд Э'Грейв и начал поиски мести против преступного синдиката. Также история возвратит нас в прошлое, показывая молодость [Брэндона](https://shikimori.one/characters/415-brandon-heat) и [Гарри](https://shikimori.one/characters/1610-harry-mcdowell), их восхождение через преступный мир и подробности обстоятельств, приведших к их ссоре.

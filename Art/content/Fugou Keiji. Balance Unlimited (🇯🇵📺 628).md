@@ -1,0 +1,82 @@
+---
+created: 2024-11-04T14:19:36+03:00
+aliases:
+  - "Богатый детектив. Баланс: Неограничен"
+  - "Fugou Keiji: Balance:Unlimited"
+Status: plan
+Type: anime
+Rating:
+  - "[[®️12|PG-13]]"
+  - "[[®️16|16+]]"
+Cover: "[[fugou_keiji_anime_cover.jpg]]"
+Year: 2020
+---
+
+# Богатый детектив. Баланс: Неограничен
+
+![[fugou_keiji_anime_cover.jpg]]
+
+```button
+name Shikimori
+type link
+action https://shikimori.one/animes/41120
+customColor #4682b4
+hidden true
+```
+^button-shikimori
+
+```button
+name TV Time
+type link
+action https://www.tvtime.com/
+customColor #997f00
+hidden true
+```
+^button-tvTime
+
+```button
+name World Art
+type link
+action http://www.world-art.ru/
+customColor #7a0000
+hidden true
+```
+^button-worldArt
+
+```button
+name AnimeLib
+type link
+action https://anilib.me/
+customColor #252527
+customTextColor #7E57C2
+hidden true
+```
+^button-animelib
+
+```button
+name Senkuro
+type link
+action https://senkuro.com/
+customColor #191A21
+hidden true
+```
+^button-senkuro
+
+```button
+name ReYohoho
+type link
+action https://reyohoho.github.io/reyohoho/
+customColor #1c1c1c
+hidden true
+```
+^button-reyohoho
+
+`button-shikimori` `button-tvTime`
+
+`button-worldArt` `button-animelib`
+
+`button-senkuro` `button-reyohoho`
+
+## Описание
+
+«Деньги могут всё!» - примерно такого девиза придерживается детектив [Дайсукэ Камбэ](https://shikimori.one/characters/177624-daisuke-kanbe), у которого денег куры не клюют. Однако к чести детектива, надо отметить, что финансы он тратит в том числе и на ведение расследований. Вот только не всех в столичном Управлении полиции устраивает такой подход, и [Дайсукэ](https://shikimori.one/characters/177624-daisuke-kanbe) благополучно сплавляют в Главное управление по борьбе с современными преступлениями, где рано или поздно оказываются все неугодные и проблемные полицейские. В пару [Дайсукэ](https://shikimori.one/characters/177624-daisuke-kanbe) назначают [Хару Като](https://shikimori.one/characters/177625-haru-katou), который не одобряет методы [Дайсукэ](https://shikimori.one/characters/177624-daisuke-kanbe) и убеждён, что некоторые вещи не купишь. Двум детективам предстоит как-то притереться друг к другу, параллельно расследуя запутанные криминальные загадки.
