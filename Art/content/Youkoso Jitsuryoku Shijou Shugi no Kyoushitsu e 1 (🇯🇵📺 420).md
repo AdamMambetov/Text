@@ -1,0 +1,93 @@
+---
+created: 2024-10-27T22:09:13+03:00
+aliases:
+  - Добро пожаловать в класс превосходства
+  - Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e
+  - Classroom of the Elite
+  - Добро пожаловать в класс для особо одарённых
+Status: complete
+Type: anime
+Rating:
+  - "[[®️12|PG-13]]"
+  - "[[®️16|16+]]"
+Cover: "[[classroom_of_the_elite_anime_cover.jpg]]"
+Year: 2017
+Episode: 12
+Views: 1
+tags:
+  - ❤
+Адаптация: "[[Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (🇯🇵📘 90)]]"
+Продолжение: "[[Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2 (🇯🇵📺 421)]]"
+---
+
+# Добро пожаловать в класс превосходства
+
+![[classroom_of_the_elite_anime_cover.jpg]]
+
+```button
+name Shikimori
+type link
+action https://shikimori.one/animes/35507-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e
+customColor #4682b4
+hidden true
+```
+^button-shikimori
+
+```button
+name TV Time
+type link
+action 
+customColor #997f00
+hidden true
+```
+^button-tvTime
+
+```button
+name World Art
+type link
+action 
+customColor #7a0000
+hidden true
+```
+^button-worldArt
+
+```button
+name AnimeLib
+type link
+action 
+customColor #252527
+customTextColor #7E57C2
+hidden true
+```
+^button-animelib
+
+```button
+name Senkuro
+type link
+action 
+customColor #191A21
+hidden true
+```
+^button-senkuro
+
+```button
+name ReYohoho
+type link
+action 
+customColor #1c1c1c
+hidden true
+```
+^button-reyohoho
+
+
+
+`button-shikimori` `button-tvTime`
+
+`button-worldArt` `button-animelib`
+
+`button-reyohoho`
+
+## Описание
+
+Старшая школа Кодо Икусэй — престижное учебное заведение, окончив которое, выпускники гарантированно поступят в университет или найдут отличную работу. Учащимся позволено ходить с любыми прическами и приносить любые личные вещи. Кодо Икусэй — школа, похожая на рай, но правда состоит в том, что такой подход применим только к ученикам с высокой успеваемостью.  
+Первогодка [Киётака Аянокоджи](https://shikimori.one/characters/128909-kiyotaka-ayanokouji) учится в классе D, куда руководство школы «сливает» студентов, набравших низкие показатели на вступительных экзаменах. Шаг за шагом он вливается в школьную жизнь и заводит новые знакомства, благодаря чему его положение постепенно начинает меняться.

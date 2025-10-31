@@ -1,0 +1,83 @@
+---
+created: 2024-11-04T14:20:03+03:00
+aliases:
+  - Заботливая 800-летняя жена!
+  - Sewayaki Kitsune no Senko-san
+  - The Helpful Fox Senko-san
+Status: plan
+Type: anime
+Rating:
+  - "[[®️12|PG-13]]"
+  - "[[®️16|16+]]"
+Cover: "[[the_helpful_fox _senko_san_anime_cover.jpg]]"
+Year: 2019
+---
+
+# Заботливая 800-летняя жена!
+
+![[the_helpful_fox _senko_san_anime_cover.jpg]]
+
+```button
+name Shikimori
+type link
+action https://shikimori.one/animes/38759
+customColor #4682b4
+hidden true
+```
+^button-shikimori
+
+```button
+name TV Time
+type link
+action https://www.tvtime.com/
+customColor #997f00
+hidden true
+```
+^button-tvTime
+
+```button
+name World Art
+type link
+action http://www.world-art.ru/
+customColor #7a0000
+hidden true
+```
+^button-worldArt
+
+```button
+name AnimeLib
+type link
+action https://anilib.me/
+customColor #252527
+customTextColor #7E57C2
+hidden true
+```
+^button-animelib
+
+```button
+name Senkuro
+type link
+action https://senkuro.com/
+customColor #191A21
+hidden true
+```
+^button-senkuro
+
+```button
+name ReYohoho
+type link
+action https://reyohoho.github.io/reyohoho/
+customColor #1c1c1c
+hidden true
+```
+^button-reyohoho
+
+`button-shikimori` `button-tvTime`
+
+`button-worldArt` `button-animelib`
+
+`button-senkuro` `button-reyohoho`
+
+## Описание
+
+В несчастливой и напряжённой жизни молодого служащего [Курото Накано](https://shikimori.one/characters/167061-kuroto-nakano) вряд ли можно разглядеть позитивные моменты, что уж говорить об отдыхе и развлечениях. Парень с утра до вечера пашет на работе, уделяя ей и почти всё свободное время. Но однажды ночью, вернувшись после очередного трудового дня и едва открыв дверь дома, он обнаруживает, что какая-то маленькая и симпатичная девчушка с лисьими ушами и хвостом готовит для него ужин. Отойдя от шока и перекинувшись с незнакомкой парой фраз, [Накано](https://shikimori.one/characters/167061-kuroto-nakano) узнаёт: имя - [Сэнко](https://shikimori.one/characters/166231-senko), профессия - 800-летняя кицунэ, посланная на Землю из мира духов, чтобы спасти хозяина дома от его несчастной жизни и помочь ему снова обрести счастье. С этого момента благодаря [Сэнко](https://shikimori.one/characters/166231-senko) жизнь [Накано](https://shikimori.one/characters/167061-kuroto-nakano) непременно начнёт меняться к лучшему!

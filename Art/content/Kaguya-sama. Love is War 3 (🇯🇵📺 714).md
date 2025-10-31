@@ -1,0 +1,89 @@
+---
+created: 2024-11-04T14:21:18+03:00
+aliases:
+  - "Госпожа Кагуя: в любви как на войне 3"
+  - "Kaguya-sama: Love is War 3"
+Status: defer
+Type: anime
+Rating:
+  - "[[®️12|PG-13]]"
+  - "[[®️16|16+]]"
+Cover: "[[love_is_war_3_anime_cover.jpg]]"
+Year: 2022
+Episode: 1
+Предыстория: "[[Kaguya-sama. Love is War 2 (🇯🇵📺 408)]]"
+Продолжение: "[[Госпожа Кагуя. В любви как на войне - Первый поцелуй никогда не заканчивается (🇯🇵📺 163)]]"
+---
+
+# Госпожа Кагуя: в любви как на войне 3
+
+![[love_is_war_3_anime_cover.jpg]]
+
+```button
+name Shikimori
+type link
+action https://shikimori.one/animes/43608
+customColor #4682b4
+hidden true
+```
+^button-shikimori
+
+```button
+name TV Time
+type link
+action https://www.tvtime.com/
+customColor #997f00
+hidden true
+```
+^button-tvTime
+
+```button
+name World Art
+type link
+action http://www.world-art.ru/
+customColor #7a0000
+hidden true
+```
+^button-worldArt
+
+```button
+name AnimeLib
+type link
+action https://anilib.me/
+customColor #252527
+customTextColor #7E57C2
+hidden true
+```
+^button-animelib
+
+```button
+name Senkuro
+type link
+action https://senkuro.com/
+customColor #191A21
+hidden true
+```
+^button-senkuro
+
+```button
+name ReYohoho
+type link
+action https://reyohoho.github.io/reyohoho/
+customColor #1c1c1c
+hidden true
+```
+^button-reyohoho
+
+`button-shikimori` `button-tvTime`
+
+`button-worldArt` `button-animelib`
+
+`button-senkuro` `button-reyohoho`
+
+## Описание
+
+«Любовь - это война!»
+
+[Миюки Сироганэ](https://shikimori.one/characters/136685-miyuki-shirogane) и [Кагуя Синомия](https://shikimori.one/characters/136359-kaguya-shinomiya) знают об этом не понаслышке. И пусть за время, проведённое вместе в студенческом совете академии Сютин, они стали ближе, уступать никто не желает, ведь признание равносильно поражению!
+
+Выборы главы совета позади, и весь прошлый состав вернулся к своим привычным должностям, обзаведясь новым членом - десятиклассницей [Мико Иино](https://shikimori.one/characters/152052-miko-iino). Однако время неумолимо, и школьная пора рано или поздно закончится, а что будет дальше - неизвестно никому. [Миюки](https://shikimori.one/characters/136685-miyuki-shirogane) и [Кагуя](https://shikimori.one/characters/136359-kaguya-shinomiya) понимают это, и чем раньше они раскроют свои чувства друг другу, тем больше времени смогут провести вместе. Но как отбросить гордость и сделать первый шаг?
