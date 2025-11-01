@@ -3,18 +3,22 @@ created: 2025-04-19T17:47:38+03:00
 aliases:
   - Бог как иллюзия
   - The God Delusion
-Status: defer
+Status: watch
 Type: book
 Rating:
-  - "[[®️12|PG-13]]"
+  - "[[®️16|16+]]"
 Cover: "[[бог_как_иллюзия_book_cover.jpg]]"
 Year: 2006
-Episode: 2
+Episode: 1
 ---
 
 # Бог как иллюзия
 
 ![[бог_как_иллюзия_book_cover.jpg]]
+
+## Причина добавления
+
+Слушаю аудиокнигу на Литрес.
 
 ## Описание
 
