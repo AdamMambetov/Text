@@ -9,7 +9,7 @@ Rating:
   - "[[®️16|16+]]"
 Cover: "[[бог_как_иллюзия_book_cover.jpg]]"
 Year: 2006
-Episode: 2
+Episode: 3
 ---
 
 # Бог как иллюзия
