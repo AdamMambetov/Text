@@ -1,28 +1,26 @@
 ---
-created: 2024-05-06T21:31:00
+created: 2024-05-06T21:32:00
 aliases:
-  - Кланнад
-  - Clannad
+  - "Кланнад: Продолжение истории"
+  - "Clannad: After Story"
 Status: complete
 Type: anime
 Rating:
   - "[[®️12|PG-13]]"
   - "[[®️16|16+]]"
-Cover: "[[clannad_anime_cover.jpeg]]"
-Year: 2007
-Episode: 23
+Cover: "[[clannad_after_story_anime_cover.jpeg]]"
+Year: 2008
+Episode: 24
 Views: 1
-tags:
-  - ❤
 related:
   - "[[@Дмитрий Кесида]]"
 Stream: 3
-Продолжение: "[[Кланнад. Продолжение истории (🇯🇵📺 151)]]"
+Предыстория: "[[Clannad 1 (🇯🇵📺 150)]]"
 ---
 
-# Кланнад
+# Кланнад: Продолжение истории
 
-![[clannad_anime_cover.jpeg]]
+![[clannad_after_story_anime_cover.jpeg]]
 
 
 ```button

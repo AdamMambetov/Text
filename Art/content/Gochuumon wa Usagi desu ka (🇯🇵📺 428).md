@@ -6,6 +6,7 @@ aliases:
   - Is the Order a Rabbit?
   - Кафе «Кроличий дом»
   - GochiUsa
+  - Кролика заказывали?
 Status: complete
 Type: anime
 Rating:

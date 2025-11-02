@@ -1,23 +1,29 @@
 ---
-created: 2024-03-08T13:51:00
+created: 2024-05-06T21:33:00
 aliases:
-  - Кайдзи 2
-  - Kaiji 2
+  - Золотое божество
+  - Golden Kamuy
+  - Золотой Камуй
 Status: complete
 Type: anime
 Rating:
   - "[[®️16|R-17]]"
   - "[[®️18|18+]]"
-Cover: "[[kaiji_2_anime_cover.jpeg]]"
-Year: 2011
-Episode: 26
+Cover: "[[golden_kamuy_anime_cover.jpeg]]"
+Year: 2018
+Episode: 12
 Views: 1
-Предыстория: "[[Кайдзи (🇯🇵📺 92)]]"
+tags:
+  - ❤
+related:
+  - "[[@Дмитрий Кесида]]"
+Stream: 2
+Продолжение: "[[Golden Kamuy 2 (🇯🇵📺 149)]]"
 ---
 
-# Кайдзи 2
+# Золотое божество
 
-![[kaiji_2_anime_cover.jpeg]]
+![[golden_kamuy_anime_cover.jpeg]]
 
 
 ```button

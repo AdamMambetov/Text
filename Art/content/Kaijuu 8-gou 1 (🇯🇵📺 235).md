@@ -1,35 +1,35 @@
 ---
-created: 2024-05-06T21:33:00
+created: 2024-06-16T14:24:47+03:00
 aliases:
-  - Золотое божество
-  - Golden Kamuy
-  - Золотой Камуй
+  - Кайдзю №8
+  - Kaijuu 8-gou
+  - Kaiju No. 8
+  - Кайдзю номер восемь
 Status: complete
 Type: anime
 Rating:
-  - "[[®️16|R-17]]"
+  - "[[®️12|PG-13]]"
   - "[[®️18|18+]]"
-Cover: "[[golden_kamuy_anime_cover.jpeg]]"
-Year: 2018
+Cover: "[[kaijuu_8_gou_anime_cover.jpeg]]"
+Year: 2024
 Episode: 12
-Views: 1
+Views: 2
 tags:
   - ❤
 related:
   - "[[@Дмитрий Кесида]]"
-Stream: 2
-Продолжение: "[[Золотое божество 2 (🇯🇵📺 149)]]"
+Продолжение: "[[Kaijuu 8-gou 2 (🇯🇵📺 1020)]]"
 ---
 
-# Золотое божество
+# Кайдзю №8
 
-![[golden_kamuy_anime_cover.jpeg]]
+![[kaijuu_8_gou_anime_cover.jpeg]]
 
 
 ```button
 name Shikimori
 type link
-action https://shikimori.one/
+action https://shikimori.one/animes/52588-kaijuu-8-gou
 customColor #4682b4
 hidden true
 ```
@@ -73,35 +73,6 @@ hidden true
 ^button-kesidatokio-vods
 
 ```button
-name Anime Filler List
-type link
-action https://www.animefillerlist.com/
-customColor #da5100
-hidden true
-```
-^button-anime-filler-list
-
-```button
-name MangaLib
-type link
-action https://mangalib.me/
-customColor #252527
-customTextColor #b6720f
-hidden true
-```
-^button-mangalib
-
-```button
-name RanobeLib
-type link
-action https://ranobelib.me/
-customColor #252527
-customTextColor #2196f3
-hidden true
-```
-^button-ranobelib
-
-```button
 name AnimeLib
 type link
 action https://anilib.me/
@@ -128,13 +99,3 @@ customColor #1c1c1c
 hidden true
 ```
 ^button-reyohoho
-
-```button
-name FreeTP
-type link
-action https://freetp.org/
-color green
-customTextColor black
-hidden true
-```
-^button-fretp

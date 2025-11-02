@@ -1,35 +1,34 @@
 ---
-created: 2024-06-16T14:24:47+03:00
+created: 2024-05-06T21:31:00
 aliases:
-  - Кайдзю №8
-  - Kaijuu 8-gou
-  - Kaiju No. 8
-  - Кайдзю номер восемь
+  - Кланнад
+  - Clannad
 Status: complete
 Type: anime
 Rating:
   - "[[®️12|PG-13]]"
-  - "[[®️18|18+]]"
-Cover: "[[kaijuu_8_gou_anime_cover.jpeg]]"
-Year: 2024
-Episode: 12
-Views: 2
+  - "[[®️16|16+]]"
+Cover: "[[clannad_anime_cover.jpeg]]"
+Year: 2007
+Episode: 23
+Views: 1
 tags:
   - ❤
 related:
   - "[[@Дмитрий Кесида]]"
-Продолжение: "[[Кайдзю №8 2 (🇯🇵📺 1020)]]"
+Stream: 3
+Продолжение: "[[Clannad 2. After Story (🇯🇵📺 151)]]"
 ---
 
-# Кайдзю №8
+# Кланнад
 
-![[kaijuu_8_gou_anime_cover.jpeg]]
+![[clannad_anime_cover.jpeg]]
 
 
 ```button
 name Shikimori
 type link
-action https://shikimori.one/animes/52588-kaijuu-8-gou
+action https://shikimori.one/
 customColor #4682b4
 hidden true
 ```
@@ -73,6 +72,35 @@ hidden true
 ^button-kesidatokio-vods
 
 ```button
+name Anime Filler List
+type link
+action https://www.animefillerlist.com/
+customColor #da5100
+hidden true
+```
+^button-anime-filler-list
+
+```button
+name MangaLib
+type link
+action https://mangalib.me/
+customColor #252527
+customTextColor #b6720f
+hidden true
+```
+^button-mangalib
+
+```button
+name RanobeLib
+type link
+action https://ranobelib.me/
+customColor #252527
+customTextColor #2196f3
+hidden true
+```
+^button-ranobelib
+
+```button
 name AnimeLib
 type link
 action https://anilib.me/
@@ -99,3 +127,13 @@ customColor #1c1c1c
 hidden true
 ```
 ^button-reyohoho
+
+```button
+name FreeTP
+type link
+action https://freetp.org/
+color green
+customTextColor black
+hidden true
+```
+^button-fretp

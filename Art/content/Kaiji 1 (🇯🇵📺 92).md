@@ -1,26 +1,25 @@
 ---
-created: 2024-05-06T21:32:00
+created: 2024-03-08T13:50:00
 aliases:
-  - "Кланнад: Продолжение истории"
-  - "Clannad: After Story"
+  - Кайдзи
+  - Kaiji
 Status: complete
 Type: anime
 Rating:
-  - "[[®️12|PG-13]]"
-  - "[[®️16|16+]]"
-Cover: "[[clannad_after_story_anime_cover.jpeg]]"
-Year: 2008
-Episode: 24
+  - "[[®️16|R-17]]"
+  - "[[®️18|18+]]"
+Cover: "[[kaiji_anime_cover.png]]"
+Year: 2007
+Episode: 26
 Views: 1
-related:
-  - "[[@Дмитрий Кесида]]"
-Stream: 3
-Предыстория: "[[Кланнад (🇯🇵📺 150)]]"
+tags:
+  - ❤
+Продолжение: "[[Kaiji 2 (🇯🇵📺 93)]]"
 ---
 
-# Кланнад: Продолжение истории
+# Кайдзи
 
-![[clannad_after_story_anime_cover.jpeg]]
+![[kaiji_anime_cover.png]]
 
 
 ```button
