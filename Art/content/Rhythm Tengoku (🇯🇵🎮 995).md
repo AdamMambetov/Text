@@ -35,7 +35,7 @@ hidden true
 
 ## Причина добавления
 
-Узнал из [видео](https://youtu.be/JWj3zrSsNXc?si=9purdu8cxM7TNjVQ) на ютубе у [[@HellYeahPlay|Сергея HellYeah]]. [Прохождение](https://youtu.be/AUCh_Nc1blQ?si=45tWvpqETx7UPQug)
+Узнал из [видео](https://youtu.be/JWj3zrSsNXc?si=9purdu8cxM7TNjVQ) на ютубе у [[@HellYeahPlay|Сергея HellYeah]]. [Прохождение](https://youtu.be/AUCh_Nc1blQ?si=45tWvpqETx7UPQug). Прошёл Game Boy Advance версию на эмуляторе.
 
 
 ## Описание
