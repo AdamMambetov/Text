@@ -1,21 +1,22 @@
 ---
-created: 2024-03-08T13:53:00
+created: 2024-06-28T01:01:57+03:00
 aliases:
-  - Мастера меча онлайн
-Status: drop
+  - "Мастера Меча Онлайн: Прогрессив"
+  - "Sword Art Online: Progressive"
+Status: defer
 Type: ranobe
 Rating:
   - "[[®️12|PG-13]]"
-Cover: "[[sao_ranobe_cover.png]]"
-Year: 2009
-Episode: 3
+Cover: "[[sao_progressive_ranobe_cover.png]]"
+Year: 2012
+Episode: 33
 related:
-  - "[[Мастера Меча Онлайн. Прогрессив (🇯🇵📘 250)]]"
+  - "[[Sword Art Online (🇯🇵📘 95)]]"
 ---
 
-# Мастера меча онлайн
+# Мастера меча онлайн: Прогрессив
 
-![[sao_ranobe_cover.png]]
+![[sao_progressive_ranobe_cover.png]]
 
 
 ```button

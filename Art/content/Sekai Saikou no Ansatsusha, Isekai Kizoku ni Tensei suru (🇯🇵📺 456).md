@@ -2,8 +2,8 @@
 created: 2024-10-29T21:39:49+03:00
 aliases:
   - Лучший в мире ассасин
-  - Лучший в мире ассасин, переродившийся в другом мире как аристократ
   - Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru
+  - Лучший в мире ассасин, переродившийся в другом мире как аристократ
   - Лучший в мире ассасин переродился в другом мире аристократом
   - The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat
   - Лучший в мире убийца, переродившийся в другом мире как аристократ

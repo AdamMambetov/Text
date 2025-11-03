@@ -2,8 +2,8 @@
 created: 2024-10-29T21:52:52+03:00
 aliases:
   - "Маг-целитель: Новый старт"
-  - Redo of Healer
   - Kaifuku Jutsushi no Yarinaoshi
+  - Redo of Healer
   - Kaiyari
 Status: complete
 Type: anime

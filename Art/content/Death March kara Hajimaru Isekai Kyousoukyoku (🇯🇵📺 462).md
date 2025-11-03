@@ -14,7 +14,7 @@ Cover: "[[death_march_anime_cover.jpg]]"
 Year: 2018
 Episode: 12
 Views: 2
-Адаптация: "[[Марш смерти под рапсодию параллельного мира (🇯🇵📗 94)]]"
+Адаптация: "[[Death March kara Hajimaru Isekai Kyousoukyoku (🇯🇵📗 94)]]"
 ---
 
 # Марш смерти под рапсодию параллельного мира
