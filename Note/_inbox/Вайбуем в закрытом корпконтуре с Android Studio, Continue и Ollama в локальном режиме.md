@@ -1,13 +1,13 @@
 ---
 tags:
   - 📥
-source: https://habr.com/ru/companies/sportmaster_lab/articles/957260/
-meta:
-  - "[[Android Studio]]"
-  - "[[Kotlin]]"
 category:
   - "[[Программирование]]"
   - "[[Искусственный интеллект]]"
+meta:
+  - "[[Android Studio]]"
+  - "[[Kotlin]]"
+source: https://habr.com/ru/companies/sportmaster_lab/articles/957260/
 ---
 
 # Вайбуем в закрытом корпконтуре с Android Studio, Continue и Ollama в локальном режиме
