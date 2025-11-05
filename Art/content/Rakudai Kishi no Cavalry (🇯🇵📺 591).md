@@ -2,6 +2,8 @@
 created: 2024-11-04T14:18:57+03:00
 aliases:
   - Доблесть рыцаря-неудачника
+  - Rakudai Kishi no Cavalry
+  - Chivalry of a Failed Knight
 Status: defer
 Type: anime
 Rating:

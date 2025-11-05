@@ -2,6 +2,8 @@
 created: 2024-11-04T14:54:00
 aliases:
   - Дети на холме
+  - Sakamichi no Apollon
+  - Kids on the Slope
 Status: plan
 Type: anime
 Rating:
