@@ -2,6 +2,8 @@
 created: 2024-05-08T14:01:51+03:00
 aliases:
   - "Госпожа Кагуя: в любви как на войне - Первый поцелуй никогда не заканчивается"
+  - "Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai"
+  - "Kaguya-sama: Love is War -The First Kiss That Never Ends-"
 Status: plan
 Type: anime film
 Rating:

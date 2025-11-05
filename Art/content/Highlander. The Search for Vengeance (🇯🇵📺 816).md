@@ -2,6 +2,7 @@
 created: 2024-11-04T14:23:25+03:00
 aliases:
   - "Горец: В поисках мести"
+  - "Highlander: The Search for Vengeance"
 Status: plan
 Type: anime film
 Rating:

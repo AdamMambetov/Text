@@ -2,6 +2,8 @@
 created: 2024-11-04T14:21:40+03:00
 aliases:
   - Гены искусственного интеллекта
+  - AI no Idenshi
+  - The Gene of AI
 Status: plan
 Type: anime
 Rating:

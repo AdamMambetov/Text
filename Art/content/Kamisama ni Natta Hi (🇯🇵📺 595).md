@@ -2,6 +2,8 @@
 created: 2024-11-04T14:19:01+03:00
 aliases:
   - День, когда я стала богом
+  - Kamisama ni Natta Hi
+  - The Day I Became a God
 Status: defer
 Type: anime
 Rating:

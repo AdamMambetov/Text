@@ -2,6 +2,7 @@
 created: 2024-11-04T14:19:08+03:00
 aliases:
   - Грабитель
+  - Plunderer
 Status: drop
 Type: anime
 Rating:

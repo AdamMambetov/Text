@@ -2,6 +2,8 @@
 created: 2024-11-04T14:23:27+03:00
 aliases:
   - Детектив-оборотень Инаба
+  - Cuticle Tantei Inaba
+  - Cuticle Detective Inaba
 Status: plan
 Type: anime
 Rating:

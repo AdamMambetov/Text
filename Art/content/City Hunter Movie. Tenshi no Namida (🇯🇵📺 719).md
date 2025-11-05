@@ -2,6 +2,7 @@
 created: 2024-11-04T14:21:24+03:00
 aliases:
   - "Городской охотник: Ангельская пыль"
+  - "City Hunter Movie: Tenshi no Namida"
 Status: plan
 Type: anime film
 Rating:

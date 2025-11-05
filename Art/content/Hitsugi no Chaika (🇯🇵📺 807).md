@@ -2,6 +2,8 @@
 created: 2024-11-04T14:23:15+03:00
 aliases:
   - Гроб принцессы Чайки
+  - Hitsugi no Chaika
+  - Chaika -The Coffin Princess-
 Status: plan
 Type: anime
 Rating:

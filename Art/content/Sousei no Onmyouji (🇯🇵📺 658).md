@@ -2,6 +2,8 @@
 created: 2024-11-04T14:20:09+03:00
 aliases:
   - Две звезды оммёдзи
+  - Sousei no Onmyouji
+  - Twin Star Exorcists
 Status: plan
 Type: anime
 Rating:

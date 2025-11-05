@@ -2,6 +2,7 @@
 created: 2024-11-04T14:20:50+03:00
 aliases:
   - Детективное агентство «Хаматора»
+  - Hamatora
 Status: plan
 Type: anime
 Rating:

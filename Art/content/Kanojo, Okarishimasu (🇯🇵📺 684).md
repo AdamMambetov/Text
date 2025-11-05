@@ -2,6 +2,8 @@
 created: 2024-11-04T14:20:42+03:00
 aliases:
   - Девушка на час
+  - Kanojo, Okarishimasu
+  - Rent-a-Girlfriend
 Status: drop
 Type: anime
 Rating:

@@ -2,6 +2,8 @@
 created: 2024-01-15T12:42:00
 aliases:
   - Двуличный братик Урамити
+  - Uramichi Oniisan
+  - Life Lessons with Uramichi-Oniisan
 Status: complete
 Type: anime
 Rating:

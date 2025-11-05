@@ -2,6 +2,8 @@
 created: 2024-11-04T14:22:04+03:00
 aliases:
   - "Граница пустоты 1: Вид с высоты"
+  - "Kara no Kyoukai Movie 1: Fukan Fuukei"
+  - "The Garden of Sinners Chapter 1: Overlooking View"
 Status: plan
 Type: anime film
 Rating:

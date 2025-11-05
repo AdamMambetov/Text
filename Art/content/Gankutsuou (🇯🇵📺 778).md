@@ -2,6 +2,8 @@
 created: 2024-11-04T14:22:33+03:00
 aliases:
   - Граф Монте-Кристо
+  - Gankutsuou
+  - "Gankutsuou: The Count of Monte Cristo"
 Status: plan
 Type: anime
 Rating:
