@@ -3,13 +3,14 @@ created: 2025-04-19T17:47:38+03:00
 aliases:
   - Бог как иллюзия
   - The God Delusion
-Status: watch
+Status: complete
 Type: book
 Rating:
   - "[[®️16|16+]]"
 Cover: "[[бог_как_иллюзия_book_cover.jpg]]"
 Year: 2006
-Episode: 8
+Episode: 10
+Views: 1
 ---
 
 # Бог как иллюзия
