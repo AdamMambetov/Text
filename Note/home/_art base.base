@@ -7,11 +7,11 @@ formulas:
   country: file.name.split("(")[1].toString().slice(0, 4)
 views:
   - type: cards
-    name: Cards
+    name: Смотрю
     filters:
       and:
-        - Status == "plan"
-        - Type.startsWith("anime")
+        - Status == "watch"
+        - Type.containsAny("anime", "cartoon", "course", "film", "series")
     order:
       - formula.name
       - Rating
@@ -49,3 +49,19 @@ views:
     image: note.Cover
     cardSize: 180
     imageAspectRatio: 1.4
+  - type: cards
+    name: Читаю
+    filters:
+      and:
+        - Status == "watch"
+        - Type.containsAny("book", "comix", "manga", "manhua", "manhwa", "ranobe")
+    order:
+      - formula.name
+      - Rating
+      - Status
+      - Episode
+      - Year
+      - Views
+      - Type
+    imageAspectRatio: 1.4
+    image: note.Cover
