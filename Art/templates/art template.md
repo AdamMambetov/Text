@@ -60,20 +60,14 @@ tR += result.asFrontmatterString({ pick: [
     "aliases",
     "Status",
     "Type",
-    "Rating"
-]});
-if (cover !== "")
-	tR += `Cover: "[[${cover}]]"\n`
-else
-	tR += `Cover: ""\n`
-let fmStr = result.asFrontmatterString({ pick: [
+    "Rating",
     "Year",
     "Season",
     "Episode",
     "Views"
 ]});
-if (!fmStr.includes("{}")) // check if fmStr is valid
-	tR += fmStr
+if (cover !== "")
+	tR += `Cover: "[[${cover}]]"\n`
 if (result.asString("{{Адаптация}}") !== "{{Адаптация}}")
 	tR += `Адаптация: "[[${result.asString("{{Адаптация}}")}]]"\n`
 if (result.asString("{{Предыстория}}") !== "{{Предыстория}}")
@@ -83,7 +77,7 @@ if (result.asString("{{Продолжение}}") !== "{{Продолжение}
 -%>
 <% "---" %>
 
-# <% title %>
+# <% result.asString("{{aliases}}").split(",")[0] %>
 
 <%*
 if (cover !== "")
