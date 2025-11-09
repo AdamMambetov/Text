@@ -11,6 +11,61 @@ source: https://cachyos.org/
 
 CachyOS - [[Linux]] дистрибутив на основе [[Arch Linux]]. У него много окружений рабочего стола. Я использую Hyprland.
 
+## Горячие клавиши
+
+```bash
+~/.config/hypr/config/hyperland.conf
+```
+
+ - Запуск приложений
+	 - `Super + Enter`
+		 - Терминал alacritty
+	 - `Ctrl + Shift + Escape`
+		 - Диспетчер задач sysmontask
+	 - `Super + E`
+		 - Файловый менеджер caja
+	 - `Super + Shift + E`
+		 - Emoji Toolbar
+	 - `Super + Space`
+		 - App Launcher wofi
+	 - `Print Screen`
+		 - Скриншот области
+	 - `Ctrl + Print Screen`
+		 - Скриншот окна
+	 - `Alt + Print Screen`
+		 - Скриншот экрана
+ - Управление системой
+	 - `Super + Q`
+		 - Закрыть приложение
+	 - `Super + V`
+		 - Плавающее окно
+	 - `Super + F`
+		 - На весь экран
+	 - `Super + Y`
+		 - Закрепить плавающее окно
+	 - `Super + J`
+		 - Вертикальное/горизонтальное разделение окон
+	 - `Super + LMB`
+		 - Перетаскивание окна
+	 - `Super + RMB`
+		 - Изменение размера окна
+	 - `Super + Shift + [Up, Down, Left, Right]`
+		 - Переместить окно вверх, вниз, влево, вправо
+	 - `Super + [Up, Down, Left, Right]`
+		 - Переместить фокус вверх, вниз, влево, вправо
+	 - `Super + [0-9]`
+		 - Перейти на рабочий стол 1-10
+	 - `Super + Ctrl + [0-9]`
+		 - Перейти и перенести активное окно на рабочий стол 1-10
+	 - `Super + Shift + [0-9]`
+		 - Перенести активное окно без перехода на рабочий стол 1-10
+	 - `Super + ,` или `Super + Scroll Down`
+		 - Перейти на один назад рабочий стол
+	 - `Super + .` или `Super + Scroll Up`
+		 - Перейти на один вперёд рабочий стол
+	 - `Super + /`
+		 - Перейти на прошлый рабочий стол
+
 ## Как установить CachyOS
 
  1. Скачать образ
