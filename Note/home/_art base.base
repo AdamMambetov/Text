@@ -64,3 +64,15 @@ views:
       - Type
     imageAspectRatio: 1.4
     image: note.Cover
+  - type: cards
+    name: Запланировано
+    filters:
+      and:
+        - Type == "anime"
+    order:
+      - formula.name
+    sort:
+      - property: created
+        direction: DESC
+    imageAspectRatio: 1.4
+    image: note.Cover
