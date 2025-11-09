@@ -40,3 +40,16 @@ views:
       formula.id: 48
       formula.country: 44
       formula.name: 229
+  - type: cards
+    name: Запланировано
+    filters:
+      and:
+        - Status == "plan"
+    order:
+      - formula.name
+    sort:
+      - property: created
+        direction: DESC
+    image: note.Cover
+    cardSize: 150
+    imageAspectRatio: 1.5

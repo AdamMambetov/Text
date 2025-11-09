@@ -5,6 +5,8 @@ aliases:
   - The Feeling Good Handbook
 Status: plan
 Type: book
+Rating:
+  - "[[®️12|12+]]"
 Cover: "[[the_feeling_good_handbook_book_cover.jpg]]"
 Year: 1990
 creator:
