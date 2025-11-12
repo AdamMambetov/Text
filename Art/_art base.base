@@ -3,8 +3,7 @@ filters:
     - file.inFolder("content")
 formulas:
   name: aliases[0]
-  id: |
-    file.name.split("(")[1].toString().slice(7).split(")")[0]
+  id: number(file.name.split("(")[1].toString().slice(7).split(")")[0])
   country: file.name.split("(")[1].toString().slice(0, 4)
 views:
   - type: cards
@@ -34,6 +33,8 @@ views:
       - formula.name
       - file.name
     sort:
+      - property: formula.id
+        direction: DESC
       - property: created
         direction: ASC
     columnSize:
@@ -47,9 +48,42 @@ views:
         - Status == "plan"
     order:
       - formula.name
+      - Rating
+      - Year
+      - Type
     sort:
       - property: created
         direction: DESC
     image: note.Cover
     cardSize: 150
     imageAspectRatio: 1.5
+  - type: cards
+    name: Смотрю
+    filters:
+      and:
+        - Status == "watch"
+        - file.name.containsAny("🎞", "🎬", "📺")
+    order:
+      - formula.name
+      - Rating
+      - Episode
+      - Year
+      - Type
+    cardSize: 160
+    image: note.Cover
+    imageAspectRatio: 1.5
+  - type: cards
+    name: Читаю
+    filters:
+      and:
+        - Status == "watch"
+        - file.name.containsAny("📗", "📘")
+    order:
+      - formula.name
+      - Rating
+      - Episode
+      - Year
+      - Type
+    imageAspectRatio: 1.5
+    image: note.Cover
+    cardSize: 150
