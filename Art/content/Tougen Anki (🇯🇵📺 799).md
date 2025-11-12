@@ -2,17 +2,18 @@
 created: 2024-11-04T14:23:07+03:00
 aliases:
   - Тёмный демон
+  - Tougen Anki
 Status: plan
 Type: anime
 Rating:
   - "[[®️16|R-17]]"
-Cover: ""
+Cover: "[[tougen_anki_anime_cover.jpeg]]"
 Year: 2025
 ---
 
 # Тёмный демон
 
-![](https://nyaa.shikimori.one/uploads/poster/animes/58811/e97472cf4da14c8943bed6570af1698c.jpeg)
+![[tougen_anki_anime_cover.jpeg]]
 
 ```button
 name Shikimori

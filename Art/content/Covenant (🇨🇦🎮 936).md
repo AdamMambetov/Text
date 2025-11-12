@@ -6,11 +6,23 @@ Status: plan
 Type: game
 Rating:
   - "[[®️12|PG-13]]"
-Cover:
-Year:
 ---
 
 # Covenant
+
+```button
+name Steam
+type link
+action https://store.steampowered.com/app/3333990/Covenant/
+customColor #133C6F
+textColor white
+hidden true
+```
+^button-steam
+
+
+
+`button-steam`
 
 ## Описание
 

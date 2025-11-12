@@ -5,14 +5,13 @@ aliases:
   - "Itou Junji: Crimson"
 Status: plan
 Type: anime
-Cover: ""
+Cover: https://shikimori.one/uploads/poster/animes/62194/d1c43fd75bcf4d1fbc080c74caa313be.jpeg
+Предыстория: "[[Itou Junji 2. Maniac (🇯🇵📺 40)]]"
 ---
 
 # Дзюндзи Ито: Багровый
 
-
-
-
+![](https://shikimori.one/uploads/poster/animes/62194/d1c43fd75bcf4d1fbc080c74caa313be.jpeg)
 
 ```button
 name Shikimori

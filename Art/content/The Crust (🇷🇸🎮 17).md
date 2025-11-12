@@ -4,6 +4,7 @@ aliases:
   - The Crust
 Status: plan
 Type: game
+Year: 2024
 meta:
   - "[[Unreal Engine]]"
 source: https://t.me/unrealenginecis/3580

@@ -1,24 +1,24 @@
 ---
-created: 2024-11-04T14:23:14+03:00
+created: 2024-11-04T14:23:08+03:00
 aliases:
-  - Подземелье вкусностей 2
+  - Яйба
+  - Shin Samurai-den Yaiba
 Status: plan
 Type: anime
 Rating:
-  - "[[®️16|R-17]]"
-Cover: ""
-Year:
-Предыстория: "[[Подземелье вкусностей (🇯🇵📺 162)]]"
+  - "[[®️12|PG-13]]"
+Cover: "[[yaiba_anime_cover.jpeg]]"
+Year: 2025
 ---
 
-# Подземелье вкусностей 2
+# Яйба
 
-![](https://nyaa.shikimori.one/uploads/poster/animes/59068/d7ce587fb50da1e4dfa59881f08056b2.jpeg)
+![[yaiba_anime_cover.jpeg]]
 
 ```button
 name Shikimori
 type link
-action https://shikimori.one/animes/59068
+action https://shikimori.one/animes/58812
 customColor #4682b4
 hidden true
 ```

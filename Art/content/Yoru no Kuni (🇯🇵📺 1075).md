@@ -11,6 +11,7 @@ Type: anime
 Rating:
   - "[[®️0|G]]"
 Cover: "[[yoru_no_kuni_anime_cover.png]]"
+Year: 2021
 ---
 
 # Ночная страна

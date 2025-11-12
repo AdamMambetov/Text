@@ -1,25 +1,26 @@
 ---
-created: 2024-01-15T12:50:00
+created: 2024-05-07T04:18:41
 aliases:
-  - "Коллекция Дзюндзи Ито: Маньяк"
+  - Подземелье вкусностей
+  - Dungeon Meshi
 Status: complete
 Type: anime
-Rating:
-  - "[[®️16|R-17]]"
-  - "[[®️18|18+]]"
-Cover: "[[itou_junji_maniac_anime_cover.jpeg]]"
-Year: 2023
-Episode: 12
+Cover: "[[dungeon_meshi_anime_cover.jpeg]]"
+Year: 2024
+Episode: 24
 Views: 1
-related:
-  - "[[@Дмитрий Кесида]]"
-Stream: 1
-Предыстория: "[[Itou Junji 1. Collection (🇯🇵📺 413)]]"
+tags:
+  - ❤
+Продолжение: "[[Dungeon Meshi 2 (🇯🇵📺 806)]]"
 ---
 
-# Коллекция Дзюндзи Ито: Маньяк
+# Подземелье вкусностей
 
-![[itou_junji_maniac_anime_cover.jpeg]]
+![[dungeon_meshi_anime_cover.jpeg]]
+
+15 серия шедевр  
+23-24 серии тоже неплохие
+
 
 
 ```button

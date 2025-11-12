@@ -7,7 +7,7 @@ Type: game
 source: https://3dnews.ru/1100483/slavyanskoe-fentezi-s-geympleem-ot-dark-souls-rossiyskiy-boevik-godreaper-skoro-poyavitsya-v-steam-i-poluchit-demoversiyu
 ---
 
-# 🎮Godreaper
+# Godreaper
 
 Славянское фэнтези с геймплеем от Dark Souls: российский боевик Godreaper скоро появится в Steam и получит демоверсию.  
 

@@ -12,7 +12,7 @@ Cover: "[[itou_junju_collection_anime_cover.jpg]]"
 Year: 2018
 Episode: 12
 Views: 1
-Продолжение: "[[Коллекция Дзюндзи Ито. Маньяк (🇯🇵📺 40)]]"
+Продолжение: "[[Itou Junji 2. Maniac (🇯🇵📺 40)]]"
 ---
 
 # Коллекция Дзюндзи Ито

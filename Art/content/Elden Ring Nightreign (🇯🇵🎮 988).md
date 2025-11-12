@@ -8,14 +8,14 @@ Status: complete
 Type: game
 Rating:
   - "[[®️16|R-17]]"
-Cover:
+Cover: "[[elden_ring_nightreign_game_cover.jpg]]"
 Year: 2025
 Views: 1
 ---
 
 # Elden Ring Nightreign
 
-
+![[elden_ring_nightreign_game_cover.jpg]]
 
 
 ```button

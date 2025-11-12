@@ -6,13 +6,13 @@ Status: plan
 Type: game
 Rating:
   - "[[®️6|PG]]"
-Cover:
-Year:
+Cover: "[[plants_vs_zombies_replanted_game_cover.jpg]]"
+Year: 2025
 ---
 
 # Plants vs. Zombies: Replanted
 
-
+![[plants_vs_zombies_replanted_game_cover.jpg]]
 
 
 ```button

@@ -1,24 +1,26 @@
 ---
-created: 2024-11-04T14:19:14+03:00
+created: 2024-11-04T14:23:33+03:00
 aliases:
-  - Младшая сестра моего друга досаждает
-Status: drop
+  - Провожающая в последний путь Фрирен 2
+  - Sousou no Frieren 2
+  - "Frieren: Beyond Journey's End 2"
+Status: plan
 Type: anime
 Rating:
   - "[[®️12|PG-13]]"
-  - "[[®️16|16+]]"
-Cover: ""
-Year:
+Cover: "[[frieren_2_anime_cover.jpeg]]"
+Year: 2026
+Предыстория: "[[Sousou no Frieren 1 (🇯🇵📺 123)]]"
 ---
 
-# Младшая сестра моего друга досаждает
+# Провожающая в последний путь Фрирен 2
 
-![](https://nyaa.shikimori.one/uploads/poster/animes/47158/8442c13181129e3bf48b42a7b964988f.jpeg)
+![[frieren_2_anime_cover.jpeg]]
 
 ```button
 name Shikimori
 type link
-action https://shikimori.one/animes/47158
+action https://shikimori.one/animes/59978
 customColor #4682b4
 hidden true
 ```
