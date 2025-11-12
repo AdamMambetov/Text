@@ -10,7 +10,7 @@ Rating:
   - "[[®️18|18+]]"
 Cover: "[[one_punch_man_3_anime_cover.jpeg]]"
 Year: 2025
-Episode: 4
+Episode: 5
 Предыстория: "[[One Punch Man 2 (🇯🇵📺 377)]]"
 ---
 
@@ -36,9 +36,19 @@ hidden true
 ```
 ^button-worldArt
 
+```button
+name ReYohoho
+type link
+action https://reyohoho.github.io/reyohoho/movie/942544
+customColor #1c1c1c
+hidden true
+```
+^button-reyohoho
 
 
 `button-shikimori` `button-worldArt`
+
+`button-reyohoho`
 
 ## Описание
 
