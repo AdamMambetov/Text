@@ -5,12 +5,18 @@ formulas:
   name: aliases[0]
   id: file.name.split("(")[1].toString().slice(7).split(")")[0]
   country: file.name.split("(")[1].toString().slice(0, 4)
+  created_year: |
+    created.year
+  created_year_month: created.format("YYYY-MM")
 views:
   - type: cards
     name: Смотрю
     filters:
       and:
         - Status == "watch"
+    groupBy:
+      property: Type
+      direction: ASC
     order:
       - formula.name
       - Rating
@@ -76,3 +82,42 @@ views:
         direction: DESC
     imageAspectRatio: 1.4
     image: note.Cover
+  - type: cards
+    name: Card
+    groupBy:
+      property: Year
+      direction: ASC
+    order:
+      - file.name
+    sort:
+      - property: created
+        direction: ASC
+    cardSize: 200
+    image: note.Cover
+    imageAspectRatio: 1.4
+  - type: cards
+    name: Created Group
+    groupBy:
+      property: formula.created_year_month
+      direction: ASC
+    order:
+      - file.name
+    sort:
+      - property: created
+        direction: ASC
+    cardSize: 200
+    image: note.Cover
+    imageAspectRatio: 1.4
+  - type: cards
+    name: Year Group
+    groupBy:
+      property: Year
+      direction: ASC
+    order:
+      - formula.name
+    sort:
+      - property: formula.name
+        direction: ASC
+    cardSize: 200
+    image: note.Cover
+    imageAspectRatio: 1.4
