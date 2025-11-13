@@ -5,8 +5,8 @@ const modalForm = app.plugins.plugins.modalforms.api;
 const result = await modalForm.openForm("art-form", { values: { aliases: [tp.file.title] } });
 const linkInfo = {
 	links: ["shikimori.one", "tvtime.com", "world-art.ru", "onikes.ru", "yo8z6gv.github.io", "animefillerlist.com", "mangalib.me", "ranobelib.me", "anilib.me", "senkuro.com", "reyohoho.github.io/reyohoho", "freetp.org", "store.steampowered.com", "store.epicgames.com", "gog.com"],
-	names: ["shikimori", "tvTime", "worldArt", "onikes", "kesidatokioVods", "animeFillerList", "mangalib", "ranobelib", "animelib", "senkuro", "reyohoho", "freetp", "steam", " epicGames", "gog"],
-	buttons: ["Shikimori", "TV Time", "World Art", "ONIKES", "KESIDATOKIO VOD'S", "Anime Filler List", "MangaLib", "RanobeLib", "AnimeLib", "Senkuro", "ReYohoho", "FreeTP", "Steam", " Epic Games", "GOG"],
+	names: ["shikimori", "tvTime", "worldArt", "onikes", "kesidatokioVods", "animeFillerList", "mangalib", "ranobelib", "animelib", "senkuro", "reyohoho", "freetp", "steam", "epicGames", "gog"],
+	buttons: ["Shikimori", "TV Time", "World Art", "ONIKES", "KESIDATOKIO VOD'S", "Anime Filler List", "MangaLib", "RanobeLib", "AnimeLib", "Senkuro", "ReYohoho", "FreeTP", "Steam", "Epic Games", "GOG"],
 }
 
 let icon
@@ -82,87 +82,27 @@ if (result.asString("{{Продолжение}}") !== "{{Продолжение}
 <%*
 if (cover !== "")
 	tR += `![[${cover}]]`
--%>
-
-<%*
-let parser = null
+//let parser = null
 //if (links[0].length > "https://shikimori.one/".length)
 //	parser = await tp.user.shikimoriParser(tp, links[0])
-%>
-
+-%>
 
 <%* // buttons
-if (parser != null) {
-	tR += "![]("
-	tR += parser.imageLink
-	tR += ")\n\n"
-}
+//if (parser != null) {
+//	tR += "![]("
+//	tR += parser.imageLink
+//	tR += ")\n\n"
+//}
 
-function createBtn(index, action) {
-	tR += "\`\`\`button" + "\n"
-	tR += "name " + linkInfo.buttons[index] + "\n"
-	tR += "type link" + "\n"
-	tR += "action " + action + "\n"
-	
-	// colors
-	switch (linkInfo.names[index]) {
-		case "shikimori":
-			tR += "customColor \#4682b4" + "\n"
-			break;
-		case "tvTime":
-			tR += "customColor \#997f00" + "\n"
-			break;
-		case "worldArt":
-			tR += "customColor \#7a0000" + "\n"
-			break;
-		case "onikes":
-			tR += "color purple" + "\n"
-			break;
-		case "kesidatokioVods":
-			tR += "color purple" + "\n"
-			tR += "customTextColor black" + "\n"
-			break;
-		case "animeFillerList":
-			tR += "customColor \#da5100" + "\n"
-			break;
-		case "mangalib":
-			tR += "customColor \#252527" + "\n"
-            tR += "customTextColor \#b6720f" + "\n"
-			break;
-		case "ranobelib":
-			tR += "customColor \#252527" + "\n"
-            tR += "customTextColor \#2196f3" + "\n"
-			break;
-		case "animelib":
-			tR += "customColor \#252527" + "\n"
-            tR += "customTextColor \#7E57C2" + "\n"
-			break;
-		case "senkuro":
-			tR += "customColor \#191A21" + "\n"
-			break;
-		case "reyohoho":
-			tR += "customColor \#1c1c1c" + "\n"
-			break;
-		case "freetp":
-			tR += "color green" + "\n"
-			tR += "customTextColor black" + "\n"
-			break;
-		case "steam":
-			tR += "customColor #133C6F" + "\n"
-			tR += "textColor white" + "\n"
-			break;
-		case "epicGames":
-			tR += "customColor #000000" + "\n"
-			tR += "textColor white" + "\n"
-			break;
-		case "gog":
-			tR += "customColor #000000" + "\n"
-			tR += "textColor white" + "\n"
-			break;
-	}
-	tR += "hidden true" + "\n"  
-	tR += "\`\`\`" + "\n"
-	tR += "^button-" + linkInfo.names[index] + "\n\n"
+function createBtn(name, id, link) {
+	tR += "\`\`\`button\n"
+	tR += `name ${name}\n`
+	tR += "type link\n"
+	tR += `action ${link}\n`
+	tR += `class button-${id}\n`
+	tR += "hidden true\n"
+	tR += "\`\`\`\n"
+	tR += `^button-${id}\n`
 }
 
 let links = result.asString("{{Links}}")
@@ -170,11 +110,10 @@ if (links !== "{{Links}}") {
 	links = links.split(",")
 	for (let i = 0; i < links.length; i++) {
 		let index = linkInfo.links.findIndex(link => links[i].includes(link))
-		if (index == -1) {
-			tR += "Not found link " + links[i] + "\n\n"
-			continue
-		}
-		createBtn(index, links[i])
+		if (index == -1)
+			createBtn(`Button ${i}`, `${i}`, links[i])
+		else
+			createBtn(linkInfo.buttons[index], linkInfo.names[index], links[i])
 	}
 }
 %>
@@ -183,14 +122,16 @@ if (links !== "{{Links}}") {
 if (links !== "{{Links}}") {
 	for (let i = 0; i < links.length; i++) {
 		let index = linkInfo.links.findIndex(link => links[i].includes(link))
-		if (index == -1) {
-			tR += "Not found link " + links[i] + "\n\n"
-			continue
-		}
-		if (i % 2 == 0)
-			tR += `\n\n\`button-${linkInfo.names[index]}\``
+		let btnId = ""
+		if (index == -1)
+			btnId = `${i}`
 		else
-			tR += ` \`button-${linkInfo.names[index]}\``
+			btnId = linkInfo.names[index]
+		
+		if (i % 2 == 0)
+			tR += `\n\n\`button-${btnId}\``
+		else
+			tR += ` \`button-${btnId}\``
 	}
 }
 %>
@@ -199,10 +140,11 @@ if (links !== "{{Links}}") {
 
 
 
+
 ## Описание
 
 <%*
-if (parser != null) {
-	tR += parser.desc
-}
+//if (parser != null) {
+//	tR += parser.desc
+//}
 %>
