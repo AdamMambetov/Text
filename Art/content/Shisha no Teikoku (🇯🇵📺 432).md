@@ -4,6 +4,7 @@ aliases:
   - Империя мёртвых
   - Shisha no Teikoku
   - The Empire of Corpses
+  - Империя мертвецов
 Status: complete
 Type: anime film
 Rating:
@@ -12,6 +13,8 @@ Rating:
 Cover: "[[the_empire_of_corpses_anime_film_cover.jpg]]"
 Year: 2015
 Views: 1
+tags:
+  - ❤
 ---
 
 # Империя мёртвых

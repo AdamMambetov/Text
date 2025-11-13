@@ -13,6 +13,8 @@ Cover: "[[to_be_hero_anime_cover.png]]"
 Year: 2016
 Episode: 12
 Views: 1
+tags:
+  - ❤
 Продолжение: "[[To Be Heroine (🇨🇳📺 1022)]]"
 ---
 

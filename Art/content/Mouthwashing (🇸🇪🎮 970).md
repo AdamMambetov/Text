@@ -5,7 +5,7 @@ aliases:
 Status: complete
 Type: game
 Rating:
-  - "[[®️18|R+]]"
+  - "[[®️18|18+]]"
 Cover: "[[mouthwashing_game_cover.jpg]]"
 Year: 2020
 Views: 1

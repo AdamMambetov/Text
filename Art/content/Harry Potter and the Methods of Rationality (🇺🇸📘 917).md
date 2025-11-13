@@ -3,12 +3,10 @@ created: 2025-03-24T21:13:59+03:00
 aliases:
   - Гарри Поттер и методы рационального мышления
   - Harry Potter and the Methods of Rationality
-  - ГПиМРМ
-  - HPMOR
 Status: complete
 Type: book
 Rating:
-  - "[[®️12|PG-13]]"
+  - "[[®️6|6+]]"
 Cover: "[[harry_potter_and_the_methods_of_rationality_book_cover.jpg]]"
 Year: 2010
 Episode: 122
@@ -16,7 +14,8 @@ Views: 1
 tags:
   - ❤
 Parents:
-  - "[[Harry Potter 1. Sorcerer's Stone (🇬🇧🎞 219)|Гарри Поттер и философский камень]]"
+  - "[[Harry Potter 1. Sorcerer's Stone (🇬🇧🎞 219)]]"
+Продолжение: "[[Harry Potter and the Significant Digits (🇺🇸📘 986)]]"
 ---
 
 # Гарри Поттер и методы рационального мышления

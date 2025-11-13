@@ -87,3 +87,25 @@ views:
     imageAspectRatio: 1.5
     image: note.Cover
     cardSize: 150
+  - type: cards
+    name: Шедевры
+    filters:
+      and:
+        - file.tags.contains("❤")
+    groupBy:
+      property: Type
+      direction: ASC
+    order:
+      - formula.name
+      - Rating
+      - Status
+      - Episode
+      - Year
+      - Views
+      - Type
+    sort:
+      - property: formula.name
+        direction: ASC
+    image: note.Cover
+    cardSize: 130
+    imageAspectRatio: 1.55

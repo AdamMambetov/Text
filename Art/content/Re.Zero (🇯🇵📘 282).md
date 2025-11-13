@@ -10,7 +10,7 @@ aliases:
 Status: defer
 Type: ranobe
 Rating:
-  - "[[®️16|R-17]]"
+  - "[[®️16|16+]]"
 Cover: "[[re_zero_ranobe_cover.jpeg]]"
 Year: 2012
 tags:

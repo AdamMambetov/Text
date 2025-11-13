@@ -7,6 +7,8 @@ aliases:
   - Чайки
 Status: watch
 Type: game
+Rating:
+  - "[[®️12|12+]]"
 Cover: "[[umineko_no_naku_koro_ni_game_cover.jpg]]"
 Year: 2016
 Episode:

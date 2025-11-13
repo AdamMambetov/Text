@@ -7,10 +7,12 @@ aliases:
 Status: defer
 Type: manga
 Rating:
-  - "[[®️16|R-17]]"
+  - "[[®️18|18+]]"
 Cover: "[[munou_na_nana_manga_cover.jpeg]]"
 Year: 2016
 Episode: 48
+tags:
+  - ❤
 ---
 
 # Бездарная Нана

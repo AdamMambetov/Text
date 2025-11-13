@@ -5,6 +5,8 @@ aliases:
   - Better Call Saul
 Status: complete
 Type: series
+Rating:
+  - "[[®️18|18+]]"
 Cover: "[[better_call_saul_series_cover.jpg]]"
 Year: 2015
 Season: 6

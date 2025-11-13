@@ -4,6 +4,8 @@ aliases:
   - Dark and Darker
 Status: defer
 Type: game
+Rating:
+  - "[[®️12|12+]]"
 Cover: "[[dark_and_darker_game_cover.jpg]]"
 Year: 2024
 tags:

@@ -5,6 +5,8 @@ aliases:
   - Breaking Bad
 Status: complete
 Type: series
+Rating:
+  - "[[®️18|18+]]"
 Cover: "[[breaking_bad_series_cover.jpg]]"
 Year: 2008
 Season: 5

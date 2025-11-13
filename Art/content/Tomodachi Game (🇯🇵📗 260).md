@@ -10,6 +10,8 @@ Rating:
 Cover: "[[tomodachi_game_manga_cover.png]]"
 Year: 2013
 Episode: 13
+tags:
+  - ❤
 ---
 
 # Игра друзей

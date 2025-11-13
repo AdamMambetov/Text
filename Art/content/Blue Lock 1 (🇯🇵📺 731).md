@@ -2,6 +2,7 @@
 created: 2024-11-04T14:21:41+03:00
 aliases:
   - "Синяя тюрьма: Блю Лок"
+  - Blue Lock
 Status: defer
 Type: anime
 Rating:
@@ -9,6 +10,8 @@ Rating:
 Cover: ""
 Year: 2022
 Episode: 9
+tags:
+  - ❤
 related:
   - "[[@Дмитрий Кесида]]"
 ---

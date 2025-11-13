@@ -7,7 +7,7 @@ aliases:
 Status: complete
 Type: manga
 Rating:
-  - "[[®️18|R+]]"
+  - "[[®️18|18+]]"
 Cover: "[[kurosawa_the_master_of_masturbation_manga_cover.jpg]]"
 Year: 2007
 Episode: 31

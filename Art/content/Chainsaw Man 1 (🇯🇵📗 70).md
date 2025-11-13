@@ -3,11 +3,13 @@ created: 2024-03-04T23:39:47+03:00
 aliases:
   - Человек-бензопила
   - Chainsaw Man
-Status: defer
+Status: complete
 Type: manga
+Rating:
+  - "[[®️18|18+]]"
 Cover: "[[chainsaw_man_manga_cover.png]]"
 Year: 2018
-Episode: 105
+Episode: 97
 tags:
   - ❤
 related:

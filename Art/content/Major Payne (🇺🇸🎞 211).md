@@ -6,7 +6,7 @@ aliases:
 Status: complete
 Type: film
 Rating:
-  - "[[®️0|0+]]"
+  - "[[®️12|12+]]"
 Cover: "[[major_payne_film_cover.jpg]]"
 Year: 1995
 Views: 5

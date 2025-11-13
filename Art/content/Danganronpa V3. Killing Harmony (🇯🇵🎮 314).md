@@ -5,9 +5,13 @@ aliases:
   - "Danganronpa V3: Killing Harmony"
 Status: complete
 Type: game
+Rating:
+  - "[[®️12|12+]]"
 Cover: "[[danganronpa_v3_game_cover.png]]"
 Year: 2017
 Views: 1
+tags:
+  - ❤
 ---
 
 # Данганронпа V3

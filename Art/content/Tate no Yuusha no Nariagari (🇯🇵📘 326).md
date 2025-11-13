@@ -9,7 +9,7 @@ aliases:
 Status: defer
 Type: ranobe
 Rating:
-  - "[[®️16|R-17]]"
+  - "[[®️16|16+]]"
 Cover: "[[rising_of_the_shield_hero_ranobe_cover.png]]"
 Year: 2013
 Episode: 445

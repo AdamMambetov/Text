@@ -6,7 +6,7 @@ aliases:
 Status: complete
 Type: game
 Rating:
-  - "[[®️12|PG-13]]"
+  - "[[®️12|12+]]"
 Cover: "[[bpm_game_cover.jpg]]"
 Year: 2020
 Views: 2

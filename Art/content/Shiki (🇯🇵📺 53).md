@@ -2,7 +2,7 @@
 created: 2024-01-15T13:03:00
 aliases:
   - Усопшие
-  - shiki
+  - Shiki
 Status: complete
 Type: anime
 Cover: "[[shiki_anime_cover.jpeg]]"

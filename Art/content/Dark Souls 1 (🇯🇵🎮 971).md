@@ -7,9 +7,11 @@ aliases:
 Status: plan
 Type: game
 Rating:
-  - "[[®️12|PG-13]]"
+  - "[[®️12|12+]]"
 Cover: "[[dark_souls_game_cover.jpg]]"
 Year: 2011
+tags:
+  - ❤
 Продолжение: "[[Dark Souls 2 (🇯🇵🎮 919)]]"
 ---
 

@@ -7,6 +7,8 @@ aliases:
   - мобла
 Status: defer
 Type: game
+Rating:
+  - "[[®️12|12+]]"
 Cover: "[[mobile_legends_bang_bang_game_cover.png]]"
 Year: 2016
 tags:

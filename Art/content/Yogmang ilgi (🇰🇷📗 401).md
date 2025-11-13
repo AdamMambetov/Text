@@ -6,7 +6,7 @@ aliases:
 Status: complete
 Type: manhwa
 Rating:
-  - "[[®️16|R-17]]"
+  - "[[®️16|16+]]"
 Cover: "[[yogmang_ilgi_manhwa_cover.jpg]]"
 Year: 2020
 Episode: 7.5

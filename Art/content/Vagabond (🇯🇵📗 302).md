@@ -6,7 +6,7 @@ aliases:
 Status: defer
 Type: manga
 Rating:
-  - "[[®️18|R+]]"
+  - "[[®️18|18+]]"
 Cover: "[[vagabond_manga_cover.jpeg]]"
 Year: 1998
 Episode: 54

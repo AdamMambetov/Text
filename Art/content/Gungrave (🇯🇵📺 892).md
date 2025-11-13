@@ -12,6 +12,8 @@ Cover: "[[gungrave_anime_cover.jpg]]"
 Year: 2003
 Episode: 26
 Views: 1
+tags:
+  - ❤
 ---
 
 # Гангрейв

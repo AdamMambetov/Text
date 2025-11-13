@@ -6,7 +6,7 @@ aliases:
 Status: complete
 Type: film
 Rating:
-  - "[[®️0|0+]]"
+  - "[[®️6|6+]]"
 Cover: "[[kung_fu_panda_film_cover.jpg]]"
 Year: 2008
 Views: 3

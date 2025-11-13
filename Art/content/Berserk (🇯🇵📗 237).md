@@ -6,7 +6,6 @@ aliases:
 Status: defer
 Type: manga
 Rating:
-  - "[[®️18|R+]]"
   - "[[®️18|18+]]"
 Cover: "[[berserk_manga_cover.jpeg]]"
 Year: 1989
