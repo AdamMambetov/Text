@@ -65,6 +65,8 @@ CachyOS - [[Linux]] дистрибутив на основе [[Arch Linux]]. У 
 		 - Перейти на один вперёд рабочий стол
 	 - `Super + /`
 		 - Перейти на прошлый рабочий стол
+	 - `Alt + Space`
+		 - Показать буфер обмена (cliphist)
 
 ## Как установить CachyOS
 
@@ -130,3 +132,4 @@ sudo nano /etc/fstab
 ```
 UUID=YOUR_UUID_HERE  /mnt/mydrive  YOUR_FILESYSTEM_TYPE  defaults,nofail  0  2
 ```
+
