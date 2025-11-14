@@ -10,11 +10,11 @@ Rating:
   - "[[®️16|R-17]]"
 Cover: "[[grimgar_of_fantasy_and_ash_ranobe_cover.png]]"
 Year: 2013
+tags:
+  - ❤
 Глава: 175
 Глава тома: 5
 Том: 12
-tags:
-  - ❤
 ---
 
 # Гримгал пепла и иллюзий
