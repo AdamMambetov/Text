@@ -10,7 +10,7 @@ Rating:
 Cover: "[[hells_kitchen_series_cover.jpg]]"
 Year: 2005
 Season: 5
-Episode: 5
+Episode: 6
 ---
 
 # Адская кухня
