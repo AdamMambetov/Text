@@ -2,10 +2,11 @@
 created: <% tp.date.now("YYYY-MM-DD[T]HH:mm:ssZ") %>
 aliases:
   - "{{value}}"
-Year:
+Year: 0
 tracklist: []
 Cover: ""
 genres: []
+creator: []
 ---
 
 # {{value}}

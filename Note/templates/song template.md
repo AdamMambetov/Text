@@ -1,12 +1,11 @@
 ---
 created: <% tp.date.now("YYYY-MM-DD[T]HH:mm:ssZ") %>
 aliases:
-  - "{ value }":
+  - "{{value}}"
 creator: []
 SourceFile: "[[{{value}}.mp3]]"
-CoverOf: ""
-source: ""
-tags: []
+ListenInSec: 0
+Year: 0
 ---
 
 # {{value}}
