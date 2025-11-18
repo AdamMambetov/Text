@@ -8,7 +8,7 @@ Type: film
 Cover: "[[what_is_a_woman_film_cover.jpg]]"
 Year: 2022
 Views: 1
-creator:
+Creators:
   - Джастин Фолк
 related:
   - "[[Маносфера]]"

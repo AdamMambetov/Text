@@ -9,7 +9,7 @@ Rating:
   - "[[®️18|18+]]"
 Cover: "[[intimate_connections_book_cover.jpg]]"
 Year: 1985
-creator:
+Creators:
   - Дэвид Бëрнс
 ---
 

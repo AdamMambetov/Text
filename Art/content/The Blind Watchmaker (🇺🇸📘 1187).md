@@ -10,7 +10,7 @@ Rating:
 Cover: "[[the_blind_watchmaker_book_cover.jpg]]"
 Year: 1986
 Episode: 0
-creator:
+Creators:
   - Ричард Докинз
 ---
 

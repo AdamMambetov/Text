@@ -5,7 +5,7 @@ aliases:
 Status: complete
 Type: game
 Year: 2023
-creator: "[[@Адам Мамбетов]]"
+Creators: "[[@Адам Мамбетов]]"
 meta:
   - "[[Unreal Engine]]"
 ---

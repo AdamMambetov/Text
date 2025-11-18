@@ -11,7 +11,7 @@ Cover: "[[бог_как_иллюзия_book_cover.jpg]]"
 Year: 2006
 Episode: 10
 Views: 1
-creator:
+Creators:
   - Ричард Докинз
 ---
 

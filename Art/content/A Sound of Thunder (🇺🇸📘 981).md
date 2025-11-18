@@ -9,7 +9,7 @@ Rating:
   - "[[®️12|PG-13]]"
 Cover:
 Year: 1963
-creator:
+Creators:
   - Рэй Брэдбери
 source: https://www.livelib.ru/work/1000310062-i-gryanul-grom-rej-bredberi
 ---

@@ -7,7 +7,7 @@ Status: complete
 Type: book
 Year: 1955
 Views: 1
-creator: Роберт Шекли
+Creators: Роберт Шекли
 source: https://youtu.be/PIW90DzjkGg?si=afaEl56sNFh2M8z6
 ---
 

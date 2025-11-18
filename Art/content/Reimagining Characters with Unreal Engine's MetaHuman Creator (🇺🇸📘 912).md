@@ -10,7 +10,7 @@ Cover:
 Year: 2022
 category:
   - "[[Программирование]]"
-creator: Брайан Россни
+Creators: Брайан Россни
 meta:
   - "[[Unreal Engine]]"
 source: https://dtf.ru/gamedev/3102781-luchshie-knigi-po-geimdevu-chast-2

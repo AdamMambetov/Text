@@ -10,7 +10,7 @@ Cover:
 Year: 2023
 category:
   - "[[Программирование]]"
-creator: Дженю Джордж Ли
+Creators: Дженю Джордж Ли
 meta:
   - "[[C++]]"
   - "[[Unreal Engine]]"

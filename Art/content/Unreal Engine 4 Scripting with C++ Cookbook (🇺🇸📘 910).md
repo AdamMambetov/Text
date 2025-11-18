@@ -10,7 +10,7 @@ Cover:
 Year:
 category:
   - "[[Программирование]]"
-creator: Стивен Уиттл, Уильям Шериф
+Creators: Стивен Уиттл, Уильям Шериф
 meta:
   - "[[C++]]"
   - "[[Unreal Engine]]"

@@ -10,7 +10,7 @@ Cover:
 Year: 2023
 category:
   - "[[Программирование]]"
-creator: Марко Секки
+Creators: Марко Секки
 meta:
   - "[[Unreal Engine]]"
 source: https://dtf.ru/gamedev/3102781-luchshie-knigi-po-geimdevu-chast-2

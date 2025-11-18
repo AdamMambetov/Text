@@ -10,7 +10,7 @@ Rating:
 Cover: "[[tenet_film_cover.png]]"
 Year: 2020
 Views: 1
-creator:
+Creators:
   - Кристофер Нолан
 source: http://www.world-art.ru/cinema/cinema.php?id=80483
 ---

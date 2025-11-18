@@ -11,7 +11,7 @@ Cover:
 Year: 2016
 category:
   - "[[Наука]]"
-creator:
+Creators:
   - Шон Керролл
 meta:
   - "[[Астрономия]]"

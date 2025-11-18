@@ -7,7 +7,7 @@ Status: plan
 Type: book
 Cover: "[[the_best_that_money_cant_buy_book_cover.jpeg]]"
 Year: 2013
-creator:
+Creators:
   - Жак Фреско
 ---
 
