@@ -1,4 +1,3 @@
-# rename art capture
 <%*
 dv = app.plugins.plugins.dataview.api
 
