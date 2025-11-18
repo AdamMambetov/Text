@@ -5,7 +5,7 @@ aliases:
   - godot build on web
 category:
   - "[[Программирование]]"
-creator:
+Creators:
   - "[[@Адам Мамбетов|Я]]"
 meta:
   - "[[Godot]]"

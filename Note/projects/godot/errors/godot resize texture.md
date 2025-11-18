@@ -5,7 +5,7 @@ aliases:
   - Изменить размер текстуры/картинки/изображения
 category:
   - "[[Программирование]]"
-creator:
+Creators:
   - "[[@Адам Мамбетов|Я]]"
 issue:
   - "[[godot resize texture]]"

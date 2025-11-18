@@ -1,6 +1,6 @@
 ---
 created: 2025-02-17T12:14:19+03:00
-creator:
+Creators:
   - "[[@Адам Мамбетов|Я]]"
 meta:
   - "[[Unreal Engine]]"

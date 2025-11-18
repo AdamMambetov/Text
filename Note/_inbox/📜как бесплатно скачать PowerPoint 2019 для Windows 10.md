@@ -2,7 +2,7 @@
 created: 2024-07-01T00:00:00+03:00
 tags:
   - source/article
-creator: Ким Воронин
+Creators: Ким Воронин
 related:
   - "[[Windows]]"
 source: https://t.me/Voroninkim/1869

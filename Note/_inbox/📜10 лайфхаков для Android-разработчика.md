@@ -1,6 +1,6 @@
 ---
 created: 2025-04-11T00:00:00+03:00
-creator: http://t.me/backender0
+Creators: http://t.me/backender0
 related:
   - "[[Программирование]]"
 source: https://telegra.ph/10-lajfhakov-dlya-Android-razrabotchika-poleznye-extensions-na-Kotlin-04-25

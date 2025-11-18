@@ -5,7 +5,7 @@ aliases:
   - Скрыть скролл на веб
 category:
   - "[[Программирование]]"
-creator:
+Creators:
   - "[[@Адам Мамбетов|Я]]"
 issue:
   - "[[godot hide scroll on web]]"

@@ -1,6 +1,6 @@
 ---
 created: 2024-06-19T12:11:53+03:00
-creator: "[[@Адам Мамбетов]]"
+Creators: "[[@Адам Мамбетов]]"
 related:
   - "[[Unreal Engine]]"
 ---

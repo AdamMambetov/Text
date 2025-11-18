@@ -5,7 +5,7 @@ aliases:
   - godot bad resolution on web
 category:
   - "[[Программирование]]"
-creator:
+Creators:
   - "[[@Адам Мамбетов|Я]]"
 issue:
   - "[[godot bad resolution on web]]"

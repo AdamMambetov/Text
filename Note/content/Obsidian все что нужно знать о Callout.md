@@ -1,6 +1,6 @@
 ---
 created: 2025-03-19
-creator:
+Creators:
   - "[[@Виктор Вангели]]"
 source: https://habr.com/ru/articles/890598/
 meta:

@@ -2,7 +2,7 @@
 created: 2024-06-07T15:32:00
 category:
   - "[[Программирование]]"
-creator:
+Creators:
   - "[[@Адам Мамбетов|Я]]"
 meta:
   - "[[Unreal Engine]]"

@@ -4,7 +4,7 @@ aliases:
   - godot next tick
 category:
   - "[[Программирование]]"
-creator:
+Creators:
   - "[[@Адам Мамбетов|Я]]"
 issue:
   - "[[wait one frame in godot]]"

@@ -4,7 +4,7 @@ tags:
   - source/article
 category:
   - "[[Маносфера]]"
-creator:
+Creators:
   - "[[@Сергей Мохров]]"
 source: https://odysee.com/@1D:c/25-апреля-отчуждение:9
 ---

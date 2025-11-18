@@ -1,6 +1,6 @@
 ---
 created: 2023-01-21T23:19:00
-creator: "[[@РОСДЕТИ]]"
+Creators: "[[@РОСДЕТИ]]"
 related:
   - "[[Маносфера]]"
 source: https://t.me/rosdeti/62

@@ -7,7 +7,7 @@ Rating: R-17
 Cover: "![[rising_of_the_shield_hero_ranobe_cover.png]]"
 Year: 2013
 Episode: 390
-creator: Анеко Юсаги
+Creators: Анеко Юсаги
 Time: 0:00:00
 Глава_тома: 1
 Том: 22

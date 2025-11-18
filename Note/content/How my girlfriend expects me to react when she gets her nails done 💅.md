@@ -1,6 +1,6 @@
 ---
 created: 2023-09-30T00:00:00
-creator:
+Creators:
   - https://www.youtube.com/@AdamW
 source: https://www.youtube.com/shorts/-1Uiwi-vpsY
 category:

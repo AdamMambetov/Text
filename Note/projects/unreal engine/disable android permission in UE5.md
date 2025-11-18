@@ -2,7 +2,7 @@
 created: 2025-04-05T14:29:20+03:00
 category:
   - "[[Программирование]]"
-creator:
+Creators:
   - "[[@Адам Мамбетов|Я]]"
 issue:
   - "[[disable android permission in UE5]]"

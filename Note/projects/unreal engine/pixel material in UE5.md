@@ -1,6 +1,6 @@
 ---
 created: 2025-04-05T14:29:20+03:00
-creator: https://www.youtube.com/@LifeEXECode
+Creators: https://www.youtube.com/@LifeEXECode
 meta:
   - "[[Unreal Engine]]"
 source: https://www.youtube.com/shorts/HeCl86eEaIA
