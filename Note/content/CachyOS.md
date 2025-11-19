@@ -133,3 +133,10 @@ sudo nano /etc/fstab
 UUID=YOUR_UUID_HERE  /mnt/mydrive  YOUR_FILESYSTEM_TYPE  defaults,nofail  0  2
 ```
 
+## Как установить TLauncher
+
+[Источник](https://youtu.be/C9BP546GBvw?si=Tz6X1Q4w6Qg4WbU-)
+
+1. Скачать [[TLauncher]] с [официального сайта](https://tlauncher.ru/). В версии для линукс выбираем "Показать все версии" и скачиваем "Прямой JAR"
+2. Извлечь архив
+3. `java -jar ./TLauncher.jar`

@@ -46,10 +46,14 @@ source: https://git-scm.com/
 > git remote remove origin
 > ```
 
-
 > [!NOTE]- Клонирование без истории коммитов
 > ```bash
 > git clone --depth=1 repo.git
+> ```
+
+> [!NOTE]- Включить отображение русских букв
+> ```bash
+> git config --global core.quotepath false
 > ```
 
 
