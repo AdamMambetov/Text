@@ -3,14 +3,15 @@ created: 2025-08-31T21:17:01+03:00
 aliases:
   - Кемпфер
   - Kampfer
-Status: watch
+Status: complete
 Type: anime
 Rating:
   - "[[®️12|PG-13]]"
   - "[[®️18|18+]]"
 Cover: "[[kamfer_anime_cover.jpg]]"
 Year: 2009
-Episode: 3
+Episode: 12
+Views: 1
 ---
 
 # Кемпфер 
@@ -26,60 +27,8 @@ hidden true
 ```
 ^button-shikimori
 
-```button
-name TV Time
-type link
-action 
-customColor #997f00
-hidden true
-```
-^button-tvTime
 
-```button
-name World Art
-type link
-action 
-customColor #7a0000
-hidden true
-```
-^button-worldArt
-
-```button
-name AnimeLib
-type link
-action 
-customColor #252527
-customTextColor #7E57C2
-hidden true
-```
-^button-animelib
-
-```button
-name Senkuro
-type link
-action 
-customColor #191A21
-hidden true
-```
-^button-senkuro
-
-```button
-name ReYohoho
-type link
-action 
-customColor #1c1c1c
-hidden true
-```
-^button-reyohoho
-
-
-
-`button-shikimori` `button-tvTime`
-
-`button-worldArt` `button-animelib`
-
-`button-senkuro` `button-reyohoho`
-
+`button-shikimori`
 
 
 ## Причина добавления
