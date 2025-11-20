@@ -10,7 +10,7 @@ Rating:
   - "[[®️16|R-17]]"
 Cover: "[[to_your_eternity_3_anime_cover.jpg]]"
 Year: 2025
-Episode: 4
+Episode: 7
 Адаптация: "[[Fumetsu no Anata e (🇯🇵📗 233)]]"
 Предыстория: "[[Fumetsu no Anata e 2 (🇯🇵📺 417)]]"
 ---
