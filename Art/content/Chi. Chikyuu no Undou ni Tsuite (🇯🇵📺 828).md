@@ -3,18 +3,19 @@ created: 2024-11-04T14:23:39+03:00
 aliases:
   - О движении Земли
   - Chi. Chikyuu no Undou ni Tsuite
-Status: watch
+Status: complete
 Type: anime
 Rating:
   - "[[®️16|R-17]]"
   - "[[®️18|18+]]"
 Cover: "[[orb_anime_cover.jpeg]]"
 Year: 2024
-Episode: 10
-related:
-  - "[[@Аслангерий Гутаев|Аслангерий]]"
+Episode: 25
+Views: 1
 tags:
   - ❤
+related:
+  - "[[@Аслангерий Гутаев|Аслангерий]]"
 ---
 
 # О движении Земли
