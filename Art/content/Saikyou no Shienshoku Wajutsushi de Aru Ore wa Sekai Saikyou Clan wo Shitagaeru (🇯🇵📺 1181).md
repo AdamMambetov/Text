@@ -4,7 +4,7 @@ aliases:
   - Самый известный диктор создаёт самый великий в мире клан
   - Saikyou no Shienshoku "Wajutsushi" de Aru Ore wa Sekai Saikyou Clan wo Shitagaeru
   - The Most Notorious "Talker" Runs the World's Greatest Clan
-Status: plan
+Status: drop
 Type: anime
 Rating:
   - "[[®️16|R-17]]"
