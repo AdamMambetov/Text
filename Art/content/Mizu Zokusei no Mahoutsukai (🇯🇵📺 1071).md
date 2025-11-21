@@ -10,7 +10,7 @@ Rating:
   - "[[®️12|PG-13]]"
 Cover: "[[the_water_magician_anime_cover.jpg]]"
 Year: 2025
-Episode: 4
+Episode: 10
 ---
 
 # Маг воды
