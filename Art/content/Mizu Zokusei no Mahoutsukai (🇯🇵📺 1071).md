@@ -4,12 +4,13 @@ aliases:
   - Маг воды
   - Mizu Zokusei no Mahoutsukai
   - The Water Magician
-Status: plan
+Status: watch
 Type: anime
 Rating:
   - "[[®️12|PG-13]]"
 Cover: "[[the_water_magician_anime_cover.jpg]]"
 Year: 2025
+Episode: 4
 ---
 
 # Маг воды
