@@ -1,0 +1,19 @@
+---
+Album: "[[📼Cinematics]]"
+Creators:
+  - "[[@Set It Off]]"
+Cover: ""
+NumberInAlbum: 2
+Name: Nightmare
+SourceFile: "[[Set It Off - Nightmare.mp3]]"
+Year: 2013
+aliases:
+  - Nightmare
+created: 2022-12-09 06:54:32
+source: ""
+tags: []
+---
+
+# Set It Off - Nightmare
+
+![[Set It Off - Nightmare.mp3]]

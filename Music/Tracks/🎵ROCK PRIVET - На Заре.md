@@ -1,0 +1,19 @@
+---
+Album: "[[📼На заре ~ Альянс [2020] {ROCK PRIVET}]]"
+Creators:
+  - "[[@ROCK PRIVET]]"
+Cover: ""
+NumberInAlbum: 75
+Name: На Заре
+SourceFile: "[[ROCK PRIVET - На Заре.mp3]]"
+Year: 0
+aliases:
+  - На Заре
+created: 2022-04-21 04:18:58
+source: ""
+tags: []
+---
+
+# ROCK PRIVET - На Заре
+
+![[ROCK PRIVET - На Заре.mp3]]

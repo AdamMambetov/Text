@@ -1,0 +1,19 @@
+---
+created: 2024-07-21 15:37:18
+aliases:
+  - ハルカミライ(TVアニメver.)
+Cover: ""
+Year: 2017
+tags: []
+Album: "[[📼「#HAL」]]"
+Creators:
+  - "[[@感覚ピエロ]]"
+NumberInAlbum: 4
+Name: ハルカミライ(TVアニメver.)
+source: ""
+SourceFile: "[[Kankaku Piero - Haruka Mirai (TV Size).mp3]]"
+---
+
+# Kankaku Piero - Haruka Mirai (TV Size)
+
+![[Kankaku Piero - Haruka Mirai (TV Size).mp3]]

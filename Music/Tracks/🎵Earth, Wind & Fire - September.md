@@ -1,0 +1,19 @@
+---
+Album: "[[📼The Best Of Earth, Wind & Fire Vol. 1]]"
+Creators:
+  - "[[@Earth, Wind & Fire]]"
+Cover: ""
+NumberInAlbum: 7
+Name: September
+SourceFile: "[[Earth, Wind & Fire - September.mp3]]"
+Year: 1978
+aliases:
+  - September
+created: 2024-06-21 05:19:38
+source: ""
+tags: []
+---
+
+# Earth, Wind & Fire - September
+
+![[Earth, Wind & Fire - September.mp3]]

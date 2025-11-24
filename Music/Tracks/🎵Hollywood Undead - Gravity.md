@@ -1,0 +1,19 @@
+---
+created: 2022-04-22 20:51:30
+aliases:
+  - Gravity
+Cover: ""
+Year: 2015
+tags: []
+Album: "[[📼Day Of The Dead [2015 {Hollywood Undead}]]"
+Creators:
+  - "[[@Hollywood Undead]]"
+NumberInAlbum: 7
+Name: Gravity
+source: ""
+SourceFile: "[[Hollywood Undead - Gravity.mp3]]"
+---
+
+# Hollywood Undead - Gravity
+
+![[Hollywood Undead - Gravity.mp3]]

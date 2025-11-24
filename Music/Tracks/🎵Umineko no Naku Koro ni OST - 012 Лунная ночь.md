@@ -1,0 +1,19 @@
+---
+Album: "[[📼Umineko no Naku Koro ni OST]]"
+Creators:
+  - "[[@Sumiisan]]"
+Cover: ""
+NumberInAlbum: 12
+Name: Лунная ночь
+SourceFile: "[[Umineko no Naku Koro ni OST - 012 Лунная ночь.ogg]]"
+Year: 2007
+aliases:
+  - Лунная ночь
+created: 2024-08-03 19:34:48
+source: ""
+tags: []
+---
+
+# Umineko no Naku Koro ni OST - 012 Лунная ночь
+
+![[Umineko no Naku Koro ni OST - 012 Лунная ночь.ogg]]

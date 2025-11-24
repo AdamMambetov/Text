@@ -1,0 +1,17 @@
+---
+created: 2025-05-04 14:48:16.487456
+aliases:
+  - Eminem - Crab God (Full Version)
+Year: 2019
+tags:
+  - source/music/track
+Album: "[[📼]]"
+Creators:
+  - "[[@Kanskaart]]"
+Name: Eminem - Crab God (Full Version)
+SourceFile: "[[Kanskaart - Crab God (Lose Yourself, Crab Rave Mashup).mp3]]"
+---
+
+# Kanskaart - Crab God (Lose Yourself, Crab Rave Mashup)
+
+![[Kanskaart - Crab God (Lose Yourself, Crab Rave Mashup).mp3]]

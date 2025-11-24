@@ -1,0 +1,22 @@
+---
+created: 2024-06-21 05:20:02
+Name: Hey Mama
+aliases:
+  - Hey Mama
+Cover: ""
+Year: 2014
+tags: []
+Album: "[[📼Listen]]"
+Creators:
+  - "[[@David Guetta]]"
+  - "[[@Bebe Rexha]]"
+  - "[[@Nicki Minaj]]"
+  - "[[@Afrojack]]"
+NumberInAlbum: 10
+source: ""
+SourceFile: "[[David Guetta - Hey Mama.mp3]]"
+---
+
+# David Guetta - Hey Mama
+
+![[David Guetta - Hey Mama.mp3]]

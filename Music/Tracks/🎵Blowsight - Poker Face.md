@@ -1,0 +1,19 @@
+---
+Album: "[[📼Dystopia Lane]]"
+Creators:
+  - "[[@Blowsight]]"
+Cover: ""
+NumberInAlbum: 13
+Name: Poker Face
+SourceFile: "[[Blowsight - Poker Face.mp3]]"
+Year: 2010
+aliases:
+  - Poker Face
+created: 2024-06-21 05:19:50
+source: ""
+tags: []
+---
+
+# Blowsight - Poker Face
+
+![[Blowsight - Poker Face.mp3]]

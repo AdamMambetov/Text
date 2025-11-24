@@ -1,0 +1,19 @@
+---
+Album: "[[📼Umineko no Naku Koro ni OST]]"
+Creators:
+  - "[[@Kitaouji Mizuki]]"
+Cover: ""
+NumberInAlbum: 144
+Name: Вальс (соч. 34)
+SourceFile: "[[Umineko no Naku Koro ni OST - 144 Вальс (соч. 34).ogg]]"
+Year: 2007
+aliases:
+  - Вальс (соч. 34)
+created: 2024-08-04 18:32:42
+source: ""
+tags: []
+---
+
+# Umineko no Naku Koro ni OST - 144 Вальс (соч. 34)
+
+![[Umineko no Naku Koro ni OST - 144 Вальс (соч. 34).ogg]]

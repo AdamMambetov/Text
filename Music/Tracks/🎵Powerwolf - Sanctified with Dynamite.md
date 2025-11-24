@@ -1,0 +1,19 @@
+---
+Album: "[[📼Blood of the Saints [2011] {Powerwolf}]]"
+Creators:
+  - "[[@Powerwolf]]"
+Cover: ""
+NumberInAlbum: 2
+Name: Sanctified with Dynamite
+SourceFile: "[[Powerwolf - Sanctified with Dynamite.mp3]]"
+Year: 2011
+aliases:
+  - Sanctified with Dynamite
+created: 2022-04-22 21:22:34
+source: ""
+tags: []
+---
+
+# Powerwolf - Sanctified with Dynamite
+
+![[Powerwolf - Sanctified with Dynamite.mp3]]

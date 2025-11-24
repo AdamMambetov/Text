@@ -1,0 +1,19 @@
+---
+Album: "[[📼Live, Love, Life]]"
+Creators:
+  - "[[@Adelitas Way]]"
+Cover: ""
+NumberInAlbum: 2
+Name: Drifting
+SourceFile: "[[Adelitas Way - Drifting.mp3]]"
+Year: 2018
+aliases:
+  - Drifting
+created: 2024-06-21 05:20:20
+source: ""
+tags: []
+---
+
+# Adelitas Way - Drifting
+
+![[Adelitas Way - Drifting.mp3]]
