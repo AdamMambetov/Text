@@ -7,8 +7,7 @@ NumberInAlbum: 4
 Name: I Want to Live
 SourceFile: "[[Skillet - I Want to Live.mp3]]"
 Year: 2016
-aliases:
-  - I Want to Live
+aliases: ["I Want to Live"]
 created: 2022-04-26 01:31:44
 source: ""
 tags: []

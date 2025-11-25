@@ -7,8 +7,7 @@ NumberInAlbum: 2
 Name: Can't Be Touched (feat. Mr. Magic & Trouble)
 SourceFile: "[[Roy Jones Jr. ft. Mr. Magic & Trouble - Can't Be Touched.mp3]]"
 Year: 2004
-aliases:
-  - Can't Be Touched (feat. Mr. Magic & Trouble)
+aliases: ["Can't Be Touched (feat. Mr. Magic & Trouble)"]
 created: 2024-10-13 22:41:58
 source: ""
 tags: []

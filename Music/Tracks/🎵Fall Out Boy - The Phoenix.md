@@ -1,7 +1,6 @@
 ---
 created: 2022-04-26 19:56:02
-aliases:
-  - The Phoenix
+aliases: ["The Phoenix"]
 Cover: ""
 Year: 2013
 tags: []

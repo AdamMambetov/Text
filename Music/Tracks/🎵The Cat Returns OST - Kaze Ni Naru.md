@@ -1,7 +1,6 @@
 ---
 created: 2024-01-03 19:25:36
-aliases:
-  - Kaze Ni Naru
+aliases: ["Kaze Ni Naru"]
 Cover: ""
 Year: 2002
 tags: []

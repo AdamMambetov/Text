@@ -1,7 +1,6 @@
 ---
 created: 2024-10-05 14:31:32
-aliases:
-  - Kuusou Mesorogiwi
+aliases: ["Kuusou Mesorogiwi"]
 Cover: ""
 Year: 2016
 tags: []

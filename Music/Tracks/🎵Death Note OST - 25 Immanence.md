@@ -1,7 +1,6 @@
 ---
 created: 2024-10-13 23:38:32
-aliases:
-  - Immanence
+aliases: ["Immanence"]
 Cover: ""
 Year: 0
 tags: []

@@ -7,8 +7,7 @@ NumberInAlbum: 5
 Name: Me and My Broken Heart
 SourceFile: "[[Rixton - Me and My Broken Heart.mp3]]"
 Year: 2014
-aliases:
-  - Me and My Broken Heart
+aliases: ["Me and My Broken Heart"]
 created: 2022-04-22 21:27:50
 source: ""
 tags: []

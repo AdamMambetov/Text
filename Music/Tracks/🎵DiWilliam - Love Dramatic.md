@@ -1,7 +1,6 @@
 ---
 created: 2024-10-23 13:51:34
-aliases:
-  - Love Dramatic
+aliases: ["Love Dramatic"]
 Cover: ""
 Year: 0
 tags: []

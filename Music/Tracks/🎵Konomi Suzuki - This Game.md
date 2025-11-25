@@ -1,7 +1,6 @@
 ---
 created: 2025-01-08 00:47:54
-aliases:
-  - This Game
+aliases: ["This Game"]
 Cover: ""
 Year: 0
 tags: []

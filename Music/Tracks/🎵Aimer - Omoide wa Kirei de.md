@@ -7,8 +7,7 @@ NumberInAlbum: 3
 Name: Omoide wa Kirei de (The Memories Are Beautiful)
 SourceFile: "[[Aimer - Omoide wa Kirei de.mp3]]"
 Year: 2018
-aliases:
-  - Omoide wa Kirei de (The Memories Are Beautiful)
+aliases: ["Omoide wa Kirei de (The Memories Are Beautiful)"]
 created: 2024-06-21 05:20:20
 source: ""
 tags: []

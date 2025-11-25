@@ -7,8 +7,7 @@ NumberInAlbum: 5
 Name: Roaring 20s
 SourceFile: "[[Panic! At The Disco - Roaring 20s.mp3]]"
 Year: 2018
-aliases:
-  - Roaring 20s
+aliases: ["Roaring 20s"]
 created: 2022-04-22 21:18:58
 source: ""
 tags: []

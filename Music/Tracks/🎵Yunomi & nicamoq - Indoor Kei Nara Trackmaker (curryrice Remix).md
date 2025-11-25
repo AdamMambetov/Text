@@ -7,8 +7,7 @@ NumberInAlbum: 1
 Name: Indoor Kei Nara Trackmaker
 SourceFile: "[[Yunomi & nicamoq - Indoor Kei Nara Trackmaker (curryrice Remix).mp3]]"
 Year: 0
-aliases:
-  - Indoor Kei Nara Trackmaker
+aliases: ["Indoor Kei Nara Trackmaker"]
 created: 2022-10-05 13:29:42
 source: ""
 tags: []

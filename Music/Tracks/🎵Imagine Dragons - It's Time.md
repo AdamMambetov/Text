@@ -7,8 +7,7 @@ NumberInAlbum: 3
 Name: It's Time
 SourceFile: "[[Imagine Dragons - It's Time.mp3]]"
 Year: 2013
-aliases:
-  - It's Time
+aliases: ["It's Time"]
 created: 2022-04-22 20:54:58
 source: ""
 tags: []

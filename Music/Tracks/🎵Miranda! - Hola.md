@@ -7,8 +7,7 @@ NumberInAlbum: 1
 Name: Hola
 SourceFile: "[[Miranda! - Hola.mp3]]"
 Year: 2008
-aliases:
-  - Hola
+aliases: ["Hola"]
 created: 2023-02-14 03:23:00
 source: ""
 tags: []

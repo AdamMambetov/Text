@@ -1,7 +1,6 @@
 ---
 created: 2022-12-09 06:51:56
-aliases:
-  - C'mon Down
+aliases: ["C'mon Down"]
 Cover: ""
 Year: 2014
 tags: []

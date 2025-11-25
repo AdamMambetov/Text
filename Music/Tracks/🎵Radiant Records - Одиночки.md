@@ -1,7 +1,6 @@
 ---
 created: 2024-06-21 05:20:04
-aliases:
-  - Одиночки
+aliases: ["Одиночки"]
 tags:
 CoverOf: "[[🎵Aqua Timez - Alones]]"
 Creators:

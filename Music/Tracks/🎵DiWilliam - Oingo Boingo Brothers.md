@@ -1,7 +1,6 @@
 ---
 created: 2024-10-23 14:24:40
-aliases:
-  - Oingo Boingo Brothers
+aliases: ["Oingo Boingo Brothers"]
 Cover: ""
 Year: 0
 tags: []

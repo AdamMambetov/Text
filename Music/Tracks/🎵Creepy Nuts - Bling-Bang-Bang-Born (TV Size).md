@@ -1,7 +1,6 @@
 ---
 created: 2024-10-05 15:15:46
-aliases:
-  - Bling-Bang-Bang-Born
+aliases: ["Bling-Bang-Bang-Born"]
 Cover: ""
 Year: 20240106
 tags: []

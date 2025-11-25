@@ -1,8 +1,6 @@
 ---
 created: 2025-06-30T18:57:59+03:00
-aliases:
-  - Неизвестная история
-  - Kimi no Shiranai Monogatari
+aliases: ["Неизвестная история", "Kimi no Shiranai Monogatari"]
 tags:
 CoverOf: "[[🎵supercell - Kimi no Shiranai Monogatari]]"
 Creators:

@@ -1,8 +1,6 @@
 ---
 created: 2025-01-08 01:24:04
-aliases:
-  - Огонёк
-  - Hotaru no Hikari
+aliases: ["Огонёк", "Hotaru no Hikari"]
 tags:
 CoverOf: "[[🎵Ikimonogakari - Hotaru no Hikari]]"
 Creators:

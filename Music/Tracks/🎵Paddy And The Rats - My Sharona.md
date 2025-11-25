@@ -7,8 +7,7 @@ NumberInAlbum: 3
 Name: My Sharona
 SourceFile: "[[Paddy And The Rats - My Sharona.mp3]]"
 Year: 2015
-aliases:
-  - My Sharona
+aliases: ["My Sharona"]
 created: 2022-12-20 23:17:42
 source: ""
 tags: []

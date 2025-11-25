@@ -7,8 +7,7 @@ NumberInAlbum: 131
 Name: Хлеб жизни
 SourceFile: "[[Umineko no Naku Koro ni OST - 131 Хлеб жизни.ogg]]"
 Year: 2007
-aliases:
-  - Хлеб жизни
+aliases: ["Хлеб жизни"]
 created: 2024-08-04 18:24:34
 source: ""
 tags: []

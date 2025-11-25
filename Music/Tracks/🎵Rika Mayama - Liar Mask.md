@@ -1,7 +1,6 @@
 ---
 created: 2022-12-20 23:10:20
-aliases:
-  - Liar Mask
+aliases: ["Liar Mask"]
 Cover: ""
 Year: 0
 tags: []

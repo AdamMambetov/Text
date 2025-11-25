@@ -7,8 +7,7 @@ NumberInAlbum: 3
 Name: This Ain't A Scene, It's An Arms Race
 SourceFile: "[[Fall Out Boy - This Ain't A Scene, It's An Arms Race.mp3]]"
 Year: 2007
-aliases:
-  - This Ain't A Scene, It's An Arms Race
+aliases: ["This Ain't A Scene, It's An Arms Race"]
 created: 2022-04-26 19:52:38
 source: ""
 tags: []

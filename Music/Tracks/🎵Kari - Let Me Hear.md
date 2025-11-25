@@ -1,7 +1,6 @@
 ---
 created: 2024-01-02 22:20:50
-aliases:
-  - Let Me Hear
+aliases: ["Let Me Hear"]
 Cover: ""
 Year: 2021
 tags: []

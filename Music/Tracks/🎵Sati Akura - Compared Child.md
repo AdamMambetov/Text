@@ -7,8 +7,7 @@ NumberInAlbum: 1
 Name: Compared Child
 SourceFile: "[[Sati Akura - Compared Child.mp3]]"
 Year: 2020
-aliases:
-  - Compared Child
+aliases: ["Compared Child"]
 created: 2024-10-13 22:58:06
 source: ""
 tags: []

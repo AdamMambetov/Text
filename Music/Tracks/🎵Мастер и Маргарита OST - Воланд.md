@@ -1,7 +1,6 @@
 ---
 created: 2025-05-04 14:48:18.444046
-aliases:
-  - Воланд
+aliases: ["Воланд"]
 Year: 2018
 tags:
   - source/music/track

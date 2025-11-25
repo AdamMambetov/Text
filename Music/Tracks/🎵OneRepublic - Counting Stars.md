@@ -7,8 +7,7 @@ NumberInAlbum: 1
 Name: Counting Stars
 SourceFile: "[[OneRepublic - Counting Stars.mp3]]"
 Year: 2013
-aliases:
-  - Counting Stars
+aliases: ["Counting Stars"]
 created: 2024-10-13 23:03:38
 source: ""
 tags: []

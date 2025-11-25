@@ -1,8 +1,7 @@
 ---
 created: 2024-08-04 18:21:32
 Name: Спираль
-aliases:
-  - Спираль
+aliases: ["Спираль"]
 Cover: ""
 Year: 2007
 tags: []

@@ -7,8 +7,7 @@ NumberInAlbum: 52
 Name: Незабудка
 SourceFile: "[[ROCK PRIVET - Незабудка.mp3]]"
 Year: 2019
-aliases:
-  - Незабудка
+aliases: ["Незабудка"]
 created: 2022-04-21 04:20:54
 source: ""
 tags: []

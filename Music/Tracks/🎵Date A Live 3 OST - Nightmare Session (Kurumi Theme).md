@@ -7,8 +7,7 @@ NumberInAlbum: 1
 Name: Nightmare Session (Kurumi Theme)
 SourceFile: "[[Date A Live 3 OST - Nightmare Session (Kurumi Theme).mp3]]"
 Year: 0
-aliases:
-  - Nightmare Session (Kurumi Theme)
+aliases: ["Nightmare Session (Kurumi Theme)"]
 created: 2024-10-13 23:25:12
 source: ""
 tags: []

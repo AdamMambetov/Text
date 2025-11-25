@@ -7,8 +7,7 @@ NumberInAlbum: 8
 Name: Voices
 SourceFile: "[[Motionless In White - Voices.mp3]]"
 Year: 2017
-aliases:
-  - Voices
+aliases: ["Voices"]
 created: 2022-04-22 21:10:40
 source: ""
 tags: []

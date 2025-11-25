@@ -7,8 +7,7 @@ NumberInAlbum: 18
 Name: In The End
 SourceFile: "[[Black Veil Brides - In The End.mp3]]"
 Year: 2013
-aliases:
-  - In The End
+aliases: ["In The End"]
 created: 2024-06-21 05:19:58
 source: ""
 tags: []

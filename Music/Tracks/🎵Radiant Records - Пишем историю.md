@@ -1,8 +1,6 @@
 ---
 created: 2025-06-30T20:02:10+03:00
-aliases:
-  - Пишем историю
-  - History Maker
+aliases: ["Пишем историю", "History Maker"]
 tags:
 CoverOf: "[[🎵Dean Fujioka - History Maker]]"
 Creators:

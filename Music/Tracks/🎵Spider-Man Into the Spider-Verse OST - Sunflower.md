@@ -1,8 +1,7 @@
 ---
 created: 2022-04-28 14:57:50
 Name: Sunflower (ft. Swae Lee)
-aliases:
-  - Sunflower (ft. Swae Lee)
+aliases: ["Sunflower (ft. Swae Lee)"]
 Cover: ""
 Year: 2018
 tags: []

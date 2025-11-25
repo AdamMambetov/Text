@@ -7,8 +7,7 @@ NumberInAlbum: 1
 Name: Shinkai
 SourceFile: "[[Elfen Lied OST - Shinkai.mp3]]"
 Year: 2004
-aliases:
-  - Shinkai
+aliases: ["Shinkai"]
 created: 2024-10-23 14:55:58
 source: ""
 tags: []

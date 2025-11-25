@@ -7,8 +7,7 @@ NumberInAlbum: 2
 Name: Carry On
 SourceFile: "[[Avenged Sevenfold - Carry On.mp3]]"
 Year: 2012
-aliases:
-  - Carry On
+aliases: ["Carry On"]
 created: 2024-10-13 22:45:36
 source: ""
 tags: []

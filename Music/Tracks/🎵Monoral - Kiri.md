@@ -1,7 +1,6 @@
 ---
 created: 2024-01-04 15:32:20
-aliases:
-  - Kiri
+aliases: ["Kiri"]
 Cover: ""
 Year: 2007
 tags: []

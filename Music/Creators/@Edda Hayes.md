@@ -1,7 +1,6 @@
 ---
 created: 2025-11-19T21:36:57+03:00
-aliases:
-  - Edda Hayes
+aliases: ["Edda Hayes"]
 ListenInSec: 0
 ---
 

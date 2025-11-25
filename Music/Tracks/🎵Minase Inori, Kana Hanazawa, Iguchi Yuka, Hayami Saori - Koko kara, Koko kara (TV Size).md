@@ -1,7 +1,6 @@
 ---
 created: 2022-10-05 13:39:34
-aliases:
-  - Koko kara, Koko kara
+aliases: ["Koko kara, Koko kara"]
 Cover: ""
 Year: 0
 tags: []

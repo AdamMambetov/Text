@@ -7,8 +7,7 @@ NumberInAlbum: 12
 Name: Toxicity
 SourceFile: "[[System Of A Down - Toxicity.mp3]]"
 Year: 2001
-aliases:
-  - Toxicity
+aliases: ["Toxicity"]
 created: 2024-06-21 05:19:42
 source: ""
 tags: []

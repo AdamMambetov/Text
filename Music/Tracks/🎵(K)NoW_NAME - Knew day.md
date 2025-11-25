@@ -1,7 +1,6 @@
 ---
 created: 2025-02-03 08:18:16
-aliases:
-  - Knew day
+aliases: ["Knew day"]
 Cover: ""
 Year: 2016
 Creators:

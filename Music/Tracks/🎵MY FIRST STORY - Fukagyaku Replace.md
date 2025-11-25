@@ -7,8 +7,7 @@ NumberInAlbum: 1
 Name: Fukagyaku Replace
 SourceFile: "[[MY FIRST STORY - Fukagyaku Replace.mp3]]"
 Year: 0
-aliases:
-  - Fukagyaku Replace
+aliases: ["Fukagyaku Replace"]
 created: 2022-04-21 01:52:56
 source: ""
 tags: []

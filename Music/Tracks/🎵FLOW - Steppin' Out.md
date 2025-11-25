@@ -7,8 +7,7 @@ NumberInAlbum: 18
 Name: Steppin' Out
 SourceFile: "[[FLOW - Steppin' Out.mp3]]"
 Year: 2018
-aliases:
-  - Steppin' Out
+aliases: ["Steppin' Out"]
 created: 2022-04-22 20:45:32
 source: ""
 tags: []

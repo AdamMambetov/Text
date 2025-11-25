@@ -1,7 +1,6 @@
 ---
 created: 2024-10-13 23:15:52
-aliases:
-  - Secret Betrayal
+aliases: ["Secret Betrayal"]
 Cover: ""
 Year: 2019
 tags: []

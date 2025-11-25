@@ -7,8 +7,7 @@ NumberInAlbum: 2
 Name: Drop Dead Cynical
 SourceFile: "[[Amaranthe - Drop Dead Cynical.mp3]]"
 Year: 2014
-aliases:
-  - Drop Dead Cynical
+aliases: ["Drop Dead Cynical"]
 created: 2024-06-21 05:20:02
 source: ""
 tags: []

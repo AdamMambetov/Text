@@ -7,8 +7,7 @@ NumberInAlbum: 1
 Name: My Demons
 SourceFile: "[[RADIO TAPOK - My Demons.mp3]]"
 Year: 2020
-aliases:
-  - My Demons
+aliases: ["My Demons"]
 created: 2024-06-21 05:20:28
 source: ""
 tags: []

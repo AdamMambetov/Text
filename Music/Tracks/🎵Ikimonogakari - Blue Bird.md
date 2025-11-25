@@ -1,7 +1,6 @@
 ---
 created: 2025-01-08 01:24:04
-aliases:
-  - Blue Bird
+aliases: ["Blue Bird"]
 tags:
   - ❤
 Creators:

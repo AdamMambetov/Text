@@ -7,8 +7,7 @@ NumberInAlbum: 19
 Name: Tea Country
 SourceFile: "[[Naruto OST - Tea Country.mp3]]"
 Year: 2005
-aliases:
-  - Tea Country
+aliases: ["Tea Country"]
 created: 2022-04-28 17:53:40
 source: ""
 tags: []

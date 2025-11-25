@@ -7,8 +7,7 @@ NumberInAlbum: 1
 Name: Bamboleo
 SourceFile: "[[Gipsy Kings - Bamboleo.mp3]]"
 Year: 1988
-aliases:
-  - Bamboleo
+aliases: ["Bamboleo"]
 created: 2024-10-10 22:51:50
 source: ""
 tags: []

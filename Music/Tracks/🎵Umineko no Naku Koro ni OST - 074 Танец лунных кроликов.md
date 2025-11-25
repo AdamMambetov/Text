@@ -7,8 +7,7 @@ NumberInAlbum: 74
 Name: Танец лунных кроликов
 SourceFile: "[[Umineko no Naku Koro ni OST - 074 Танец лунных кроликов.ogg]]"
 Year: 2007
-aliases:
-  - Танец лунных кроликов
+aliases: ["Танец лунных кроликов"]
 created: 2024-08-03 20:24:08
 source: ""
 tags: []

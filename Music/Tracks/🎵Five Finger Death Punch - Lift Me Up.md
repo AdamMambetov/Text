@@ -1,7 +1,6 @@
 ---
 created: 2023-07-09 18:49:48
-aliases:
-  - Lift Me Up
+aliases: ["Lift Me Up"]
 Cover: ""
 Year: 2017
 tags: []

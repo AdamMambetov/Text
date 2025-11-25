@@ -1,8 +1,6 @@
 ---
 created: 2025-06-30T19:54:06+03:00
-aliases:
-  - Гнев
-  - Rage on
+aliases: ["Гнев", "Rage on"]
 tags:
 CoverOf: "[[🎵OLDCODEX - Rage on]]"
 Creators:

@@ -1,7 +1,6 @@
 ---
 created: 2024-07-21 15:51:52
-aliases:
-  - Hacking to the Gate ~TV size~
+aliases: ["Hacking to the Gate ~TV size~"]
 Cover: ""
 Year: 2011
 tags: []

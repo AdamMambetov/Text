@@ -7,8 +7,7 @@ NumberInAlbum: 0
 Name: Lagtrain (feat. Kaai Yuki)
 SourceFile: "[[inabakumori - Lagtrain.mp3]]"
 Year: 0
-aliases:
-  - Lagtrain (feat. Kaai Yuki)
+aliases: ["Lagtrain (feat. Kaai Yuki)"]
 created: 2022-04-21 01:52:24
 source: ""
 tags: []

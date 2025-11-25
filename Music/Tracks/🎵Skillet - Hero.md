@@ -7,8 +7,7 @@ NumberInAlbum: 1
 Name: Hero
 SourceFile: "[[Skillet - Hero.mp3]]"
 Year: 2009
-aliases:
-  - Hero
+aliases: ["Hero"]
 created: 2022-04-26 01:38:50
 source: ""
 tags: []

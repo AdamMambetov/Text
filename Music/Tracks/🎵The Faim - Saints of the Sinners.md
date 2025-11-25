@@ -7,8 +7,7 @@ NumberInAlbum: 1
 Name: Saints of the Sinners
 SourceFile: "[[The Faim - Saints of the Sinners.mp3]]"
 Year: 2018
-aliases:
-  - Saints of the Sinners
+aliases: ["Saints of the Sinners"]
 created: 2022-04-22 21:39:46
 source: ""
 tags: []

@@ -7,8 +7,7 @@ NumberInAlbum: 1
 Name: Lalalalalalalalalala
 SourceFile: "[[Mikolas Josef - Lalalalalalalalalala.mp3]]"
 Year: 2020
-aliases:
-  - Lalalalalalalalalala
+aliases: ["Lalalalalalalalalala"]
 created: 2022-04-22 21:10:04
 source: ""
 tags: []

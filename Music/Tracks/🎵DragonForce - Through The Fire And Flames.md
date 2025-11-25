@@ -1,7 +1,6 @@
 ---
 created: 2024-06-21 05:19:44
-aliases:
-  - Through The Fire And Flames
+aliases: ["Through The Fire And Flames"]
 Cover: ""
 Year: 2005
 tags: []

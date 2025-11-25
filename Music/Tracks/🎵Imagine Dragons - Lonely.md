@@ -7,8 +7,7 @@ NumberInAlbum: 3
 Name: Lonely
 SourceFile: "[[Imagine Dragons - Lonely.mp3]]"
 Year: 2021
-aliases:
-  - Lonely
+aliases: ["Lonely"]
 created: 2022-04-22 20:55:06
 source: ""
 tags: []

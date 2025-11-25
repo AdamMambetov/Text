@@ -7,8 +7,7 @@ NumberInAlbum: 3
 Name: Evil
 SourceFile: "[[Naruto OST - Evil.mp3]]"
 Year: 2004
-aliases:
-  - Evil
+aliases: ["Evil"]
 created: 2022-04-28 17:50:24
 source: ""
 tags: []

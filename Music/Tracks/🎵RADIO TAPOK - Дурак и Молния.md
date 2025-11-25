@@ -7,8 +7,7 @@ NumberInAlbum: 0
 Name: Дурак и молния
 SourceFile: "[[RADIO TAPOK - Дурак и Молния.mp3]]"
 Year: 0
-aliases:
-  - Дурак и молния
+aliases: ["Дурак и молния"]
 created: 2022-04-21 04:12:04
 source: ""
 tags: []

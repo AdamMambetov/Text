@@ -1,7 +1,6 @@
 ---
 created: 2023-07-09 18:50:24
-aliases:
-  - Sparta
+aliases: ["Sparta"]
 Cover: ""
 Year: 2007
 tags: []

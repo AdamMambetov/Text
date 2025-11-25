@@ -7,8 +7,7 @@ NumberInAlbum: 15
 Name: Jiraiya's Theme
 SourceFile: "[[Naruto OST - Jiraiya's Theme.mp3]]"
 Year: 2005
-aliases:
-  - Jiraiya's Theme
+aliases: ["Jiraiya's Theme"]
 created: 2022-04-28 17:53:26
 source: ""
 tags: []

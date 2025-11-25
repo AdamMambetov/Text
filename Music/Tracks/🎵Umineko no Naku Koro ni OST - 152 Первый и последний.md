@@ -7,8 +7,7 @@ NumberInAlbum: 152
 Name: Первый и последний
 SourceFile: "[[Umineko no Naku Koro ni OST - 152 Первый и последний.ogg]]"
 Year: 2007
-aliases:
-  - Первый и последний
+aliases: ["Первый и последний"]
 created: 2024-08-04 18:35:40
 source: ""
 tags: []

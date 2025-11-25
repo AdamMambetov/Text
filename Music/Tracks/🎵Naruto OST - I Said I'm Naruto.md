@@ -1,7 +1,6 @@
 ---
 created: 2022-04-28 17:38:58
-aliases:
-  - I Said I'm Naruto
+aliases: ["I Said I'm Naruto"]
 Cover: ""
 Year: 2003
 tags: []

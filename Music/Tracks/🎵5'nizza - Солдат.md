@@ -1,7 +1,6 @@
 ---
 created: 2024-06-21 05:19:42
-aliases:
-  - Солдат
+aliases: ["Солдат"]
 Cover: ""
 Year: 2003
 tags: []

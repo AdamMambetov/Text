@@ -1,7 +1,6 @@
 ---
 created: 2025-01-07 20:37:16
-aliases:
-  - Bakemonogatari Opening 4 - Ren'ai Circulation (RAW)
+aliases: ["Bakemonogatari Opening 4 - Ren'ai Circulation (RAW)"]
 Cover: ""
 Year: 20170526
 tags: []

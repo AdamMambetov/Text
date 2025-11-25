@@ -1,7 +1,6 @@
 ---
 created: 2025-01-08 00:51:12
-aliases:
-  - Hacking To The Gate
+aliases: ["Hacking To The Gate"]
 tags:
 Creators:
   - "[[@Itou Kanako]]"

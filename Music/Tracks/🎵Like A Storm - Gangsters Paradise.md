@@ -7,8 +7,7 @@ NumberInAlbum: 9
 Name: Gangsters Paradise
 SourceFile: "[[Like A Storm - Gangsters Paradise.mp3]]"
 Year: 2014
-aliases:
-  - Gangsters Paradise
+aliases: ["Gangsters Paradise"]
 created: 2024-10-30 19:25:26
 source: ""
 tags: []

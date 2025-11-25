@@ -7,8 +7,7 @@ NumberInAlbum: 17
 Name: Strong and Strike
 SourceFile: "[[Naruto OST - Strong and Strike.mp3]]"
 Year: 2002
-aliases:
-  - Strong and Strike
+aliases: ["Strong and Strike"]
 created: 2024-01-02 23:37:44
 source: ""
 tags: []

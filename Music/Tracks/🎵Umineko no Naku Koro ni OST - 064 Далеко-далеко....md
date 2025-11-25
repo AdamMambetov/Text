@@ -7,8 +7,7 @@ NumberInAlbum: 64
 Name: Далеко-далеко...
 SourceFile: "[[Umineko no Naku Koro ni OST - 064 Далеко-далеко....ogg]]"
 Year: 2007
-aliases:
-  - Далеко-далеко...
+aliases: ["Далеко-далеко..."]
 created: 2024-08-03 19:45:54
 source: ""
 tags: []

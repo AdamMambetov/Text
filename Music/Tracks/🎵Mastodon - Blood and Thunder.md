@@ -1,7 +1,6 @@
 ---
 created: 2024-10-13 22:24:36
-aliases:
-  - Blood and Thunder
+aliases: ["Blood and Thunder"]
 Cover: ""
 Year: 2004
 tags: []

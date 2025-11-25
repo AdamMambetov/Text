@@ -1,8 +1,6 @@
 ---
 created: 2025-01-08 00:44:42
-aliases:
-  - Highschool of the Dead
-  - Школа мертвецов
+aliases: ["Highschool of the Dead", "Школа мертвецов"]
 tags:
 Creators:
   - "[[@The Akeboshi Rockets]]"

@@ -7,8 +7,7 @@ NumberInAlbum: 11
 Name: Final Battle
 SourceFile: "[[Van Helsing OST - Final Battle.mp3]]"
 Year: 2004
-aliases:
-  - Final Battle
+aliases: ["Final Battle"]
 created: 2023-09-29 18:30:54
 source: ""
 tags: []

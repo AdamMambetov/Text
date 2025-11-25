@@ -7,8 +7,7 @@ NumberInAlbum: 11
 Name: Sexiness
 SourceFile: "[[Naruto OST - Sexiness.mp3]]"
 Year: 2003
-aliases:
-  - Sexiness
+aliases: ["Sexiness"]
 created: 2022-04-28 17:39:16
 source: ""
 tags: []

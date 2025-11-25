@@ -1,7 +1,6 @@
 ---
 created: 2025-11-19T22:46:46+03:00
-aliases:
-  - "Bring Me The Horizon"
+aliases: ["Bring Me The Horizon"]
 ListenInSec: 0
 ---
 

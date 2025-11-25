@@ -7,8 +7,7 @@ NumberInAlbum: 6
 Name: Barrels of Whiskey
 SourceFile: "[[The O'Reillys and the Paddyhats - Barrels of Whiskey.mp3]]"
 Year: 2017
-aliases:
-  - Barrels of Whiskey
+aliases: ["Barrels of Whiskey"]
 created: 2022-12-20 23:35:56
 source: ""
 tags: []

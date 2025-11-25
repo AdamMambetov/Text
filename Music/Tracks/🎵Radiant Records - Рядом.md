@@ -1,8 +1,6 @@
 ---
 created: 2024-06-21 05:19:54
-aliases:
-  - Рядом
-  - Closer
+aliases: ["Рядом", "Closer"]
 tags:
 CoverOf: "[[🎵Inoue Joe - Closer]]"
 Creators:

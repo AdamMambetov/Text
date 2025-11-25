@@ -7,8 +7,7 @@ NumberInAlbum: 0
 Name: Мы за Предков Отомстим
 SourceFile: "[[Onsa Media - Sono Chi no Kioku end of THE WORLD.mp3]]"
 Year: 0
-aliases:
-  - Мы за Предков Отомстим
+aliases: ["Мы за Предков Отомстим"]
 created: 2022-04-21 04:15:46
 source: ""
 tags: []

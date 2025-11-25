@@ -1,7 +1,6 @@
 ---
 created: 2023-05-23 21:41:18
-aliases:
-  - Fairytale
+aliases: ["Fairytale"]
 Cover: ""
 Year: 2009
 tags:

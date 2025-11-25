@@ -7,8 +7,7 @@ NumberInAlbum: 22
 Name: Hero
 SourceFile: "[[Naruto OST - Hero.mp3]]"
 Year: 2005
-aliases:
-  - Hero
+aliases: ["Hero"]
 created: 2022-04-28 17:53:48
 source: ""
 tags: []

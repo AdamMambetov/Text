@@ -7,8 +7,7 @@ NumberInAlbum: 0
 Name: Astronaut In The Ocean
 SourceFile: "[[Our Last Night - Astronaut In The Ocean.mp3]]"
 Year: 0
-aliases:
-  - Astronaut In The Ocean
+aliases: ["Astronaut In The Ocean"]
 created: 2022-04-21 01:52:58
 source: ""
 tags: []

@@ -7,8 +7,7 @@ NumberInAlbum: 6
 Name: Californication
 SourceFile: "[[Red Hot Chili Peppers - Californication.mp3]]"
 Year: 1999
-aliases:
-  - Californication
+aliases: ["Californication"]
 created: 2024-10-13 22:40:18
 source: ""
 tags: []

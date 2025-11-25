@@ -7,8 +7,7 @@ NumberInAlbum: 1
 Name: New Lights(Extended Mix)
 SourceFile: "[[kors k - New Lights (Extended Mix).mp3]]"
 Year: 2015
-aliases:
-  - New Lights(Extended Mix)
+aliases: ["New Lights(Extended Mix)"]
 created: 2023-02-14 02:14:56
 source: ""
 tags: []

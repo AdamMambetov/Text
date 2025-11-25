@@ -7,8 +7,7 @@ NumberInAlbum: 2
 Name: Snow (Hey Oh)
 SourceFile: "[[Red Hot Chili Peppers - Snow (Hey Oh).mp3]]"
 Year: 2014
-aliases:
-  - Snow (Hey Oh)
+aliases: ["Snow (Hey Oh)"]
 created: 2022-04-22 21:26:50
 source: ""
 tags: []

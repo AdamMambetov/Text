@@ -1,8 +1,6 @@
 ---
 created: 2024-06-21 05:20:18
-aliases:
-  - Синяя птица (TV Size)
-  - Blue Bird (TV Size)
+aliases: ["Синяя птица (TV Size)", "Blue Bird (TV Size)"]
 tags:
 CoverOf: "[[🎵Ikimonogakari - Blue Bird (TV Size)]]"
 Creators:

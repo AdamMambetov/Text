@@ -1,7 +1,6 @@
 ---
 created: 2024-06-21 05:20:16
-aliases:
-  - Sacrifice
+aliases: ["Sacrifice"]
 Cover: ""
 Year: 2017
 tags: []

@@ -1,7 +1,6 @@
 ---
 created: 2022-04-23 02:28:42
-aliases:
-  - Renai Circulation
+aliases: ["Renai Circulation"]
 tags:
 Creators:
   - "[[@Kana Hanazawa]]"

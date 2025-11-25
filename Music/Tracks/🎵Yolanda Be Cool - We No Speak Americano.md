@@ -1,7 +1,6 @@
 ---
 created: 2022-04-22 21:53:00
-aliases:
-  - We No Speak Americano
+aliases: ["We No Speak Americano"]
 Cover: ""
 Year: 2020
 tags: []

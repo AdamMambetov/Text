@@ -7,8 +7,7 @@ NumberInAlbum: 1
 Name: Никогда Не Поздно
 SourceFile: "[[RADIO TAPOK - Never Too Late.mp3]]"
 Year: 2020
-aliases:
-  - Никогда Не Поздно
+aliases: ["Никогда Не Поздно"]
 created: 2022-04-21 04:23:04
 source: ""
 tags: []

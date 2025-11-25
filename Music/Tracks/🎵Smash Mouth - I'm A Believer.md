@@ -7,8 +7,7 @@ NumberInAlbum: 2
 Name: I'm A Believer
 SourceFile: "[[Smash Mouth - I'm A Believer.mp3]]"
 Year: 2001
-aliases:
-  - I'm A Believer
+aliases: ["I'm A Believer"]
 created: 2022-04-26 01:01:40
 source: ""
 tags: []

@@ -7,8 +7,7 @@ NumberInAlbum: 9
 Name: Archangel
 SourceFile: "[[Amaranthe - Archangel.mp3]]"
 Year: 2020
-aliases:
-  - Archangel
+aliases: ["Archangel"]
 created: 2024-06-21 05:20:26
 source: ""
 tags: []

@@ -7,8 +7,7 @@ NumberInAlbum: 8
 Name: Надежда
 SourceFile: "[[Umineko no Naku Koro ni OST - 008 Надежда.ogg]]"
 Year: 2007
-aliases:
-  - Надежда
+aliases: ["Надежда"]
 created: 2024-08-03 19:34:20
 source: ""
 tags: []

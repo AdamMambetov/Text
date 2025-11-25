@@ -1,7 +1,6 @@
 ---
 created: 2024-10-23 14:58:30
-aliases:
-  - Enemy
+aliases: ["Enemy"]
 Cover: ""
 Year: 2021
 tags: []

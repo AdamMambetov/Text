@@ -1,7 +1,6 @@
 ---
 created: 2024-10-10 22:46:46
-aliases:
-  - Bad Apple
+aliases: ["Bad Apple"]
 tags:
 CoverOf: "[[🎵Touhou Project - Bad Apple]]"
 Creators:

@@ -7,8 +7,7 @@ NumberInAlbum: 12
 Name: Melissa
 SourceFile: "[[Porno Graffitti - Melissa.mp3]]"
 Year: 2013
-aliases:
-  - Melissa
+aliases: ["Melissa"]
 created: 2022-04-22 21:21:24
 source: ""
 tags: []

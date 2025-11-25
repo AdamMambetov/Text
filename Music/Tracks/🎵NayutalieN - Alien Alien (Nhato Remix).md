@@ -1,7 +1,6 @@
 ---
 created: 2024-10-08 15:44:48
-aliases:
-  - Alien Alien (Nhato Remix)
+aliases: ["Alien Alien (Nhato Remix)"]
 Cover: ""
 Year: 2016
 tags: []

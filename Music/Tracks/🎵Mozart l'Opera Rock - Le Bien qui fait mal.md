@@ -7,8 +7,7 @@ NumberInAlbum: 3
 Name: Le Bien qui fait mal
 SourceFile: "[[Mozart l'Opera Rock - Le Bien qui fait mal.mp3]]"
 Year: 2009
-aliases:
-  - Le Bien qui fait mal
+aliases: ["Le Bien qui fait mal"]
 created: 2024-06-21 05:19:50
 source: ""
 tags: []

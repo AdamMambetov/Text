@@ -1,7 +1,6 @@
 ---
 created: 2022-04-28 01:59:08
-aliases:
-  - Warriors
+aliases: ["Warriors"]
 Cover: ""
 Year: 2022
 tags: []

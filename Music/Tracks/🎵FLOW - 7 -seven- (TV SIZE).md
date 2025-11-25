@@ -1,7 +1,6 @@
 ---
 created: 2025-02-03 08:19:24
-aliases:
-  - 7 -seven- (TV Size)
+aliases: ["7 -seven- (TV Size)"]
 Cover: ""
 Year: 2014
 tags: []

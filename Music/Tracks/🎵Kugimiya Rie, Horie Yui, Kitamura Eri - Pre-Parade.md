@@ -1,7 +1,6 @@
 ---
 created: 2025-06-30T17:50:33+03:00
-aliases:
-  - Pre-Parade
+aliases: ["Pre-Parade"]
 tags: []
 CoverOf: ""
 Creators:

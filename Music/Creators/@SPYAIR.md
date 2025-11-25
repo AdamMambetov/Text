@@ -1,7 +1,6 @@
 ---
 created: 2025-11-20T00:17:29+03:00
-aliases:
-  - "SPYAIR"
+aliases: ["SPYAIR"]
 ListenInSec: 0
 ---
 

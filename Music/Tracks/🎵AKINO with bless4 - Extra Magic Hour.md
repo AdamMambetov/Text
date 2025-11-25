@@ -1,7 +1,6 @@
 ---
 created: 2024-10-23 15:07:48
-aliases:
-  - Extra Magic Hour
+aliases: ["Extra Magic Hour"]
 Cover: ""
 Year: 2015
 tags: []

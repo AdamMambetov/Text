@@ -7,8 +7,7 @@ NumberInAlbum: 7
 Name: Thnks fr th Mmrs
 SourceFile: "[[Fall Out Boy - Thnks fr th Mmrs.mp3]]"
 Year: 2007
-aliases:
-  - Thnks fr th Mmrs
+aliases: ["Thnks fr th Mmrs"]
 created: 2022-04-26 19:53:26
 source: ""
 tags: []

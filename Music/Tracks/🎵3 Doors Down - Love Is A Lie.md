@@ -1,7 +1,6 @@
 ---
 created: 2024-09-14 11:34:50
-aliases:
-  - Love Is A Lie
+aliases: ["Love Is A Lie"]
 tags:
 Creators:
   - "[[@3 Doors Down|3 Doors Down]]"

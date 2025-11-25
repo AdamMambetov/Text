@@ -7,8 +7,7 @@ NumberInAlbum: 1
 Name: Someday
 SourceFile: "[[FlipSyde - Someday.mp3]]"
 Year: 2005
-aliases:
-  - Someday
+aliases: ["Someday"]
 created: 2022-04-28 17:21:56
 source: ""
 tags: []

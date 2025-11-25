@@ -7,8 +7,7 @@ NumberInAlbum: 1
 Name: Kiss Me You Animal
 SourceFile: "[[Burn The Ballroom - Kiss Me You Animal.mp3]]"
 Year: 2019
-aliases:
-  - Kiss Me You Animal
+aliases: ["Kiss Me You Animal"]
 created: 2024-06-21 05:20:24
 source: ""
 tags: []

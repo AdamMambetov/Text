@@ -7,8 +7,7 @@ NumberInAlbum: 1
 Name: TOP (From "Tower of God Opening")
 SourceFile: "[[Leon Alex - TOP.mp3]]"
 Year: 2020
-aliases:
-  - TOP (From "Tower of God Opening")
+aliases: ["TOP (From "Tower of God Opening")"]
 created: 2022-04-22 21:03:26
 source: ""
 tags: []

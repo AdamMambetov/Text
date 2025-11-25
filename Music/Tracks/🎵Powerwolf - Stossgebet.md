@@ -1,7 +1,6 @@
 ---
 created: 2022-04-21 01:53:02
-aliases:
-  - Stossgebet
+aliases: ["Stossgebet"]
 Cover: ""
 Year: 0
 tags: []

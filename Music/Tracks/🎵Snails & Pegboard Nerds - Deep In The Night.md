@@ -9,8 +9,7 @@ NumberInAlbum: 1
 Name: Deep In The Night (Original Mix)
 SourceFile: "[[Snails & Pegboard Nerds - Deep In The Night.mp3]]"
 Year: 2016
-aliases:
-  - Deep In The Night (Original Mix)
+aliases: ["Deep In The Night (Original Mix)"]
 created: 2022-05-02 03:05:52
 source: ""
 tags: []

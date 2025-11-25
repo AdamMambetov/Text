@@ -7,8 +7,7 @@ NumberInAlbum: 7
 Name: Novocaine
 SourceFile: "[[Fall Out Boy - Novocaine.mp3]]"
 Year: 2015
-aliases:
-  - Novocaine
+aliases: ["Novocaine"]
 created: 2022-04-26 01:13:06
 source: ""
 tags: []

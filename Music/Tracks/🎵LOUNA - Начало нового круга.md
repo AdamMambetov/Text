@@ -7,8 +7,7 @@ NumberInAlbum: 3
 Name: Начало нового круга
 SourceFile: "[[LOUNA - Начало нового круга.mp3]]"
 Year: 2020
-aliases:
-  - Начало нового круга
+aliases: ["Начало нового круга"]
 created: 2022-04-21 04:00:20
 source: ""
 tags: []

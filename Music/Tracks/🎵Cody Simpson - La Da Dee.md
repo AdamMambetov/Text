@@ -7,8 +7,7 @@ NumberInAlbum: 1
 Name: La Da Dee
 SourceFile: "[[Cody Simpson - La Da Dee.mp3]]"
 Year: 2013
-aliases:
-  - La Da Dee
+aliases: ["La Da Dee"]
 created: 2024-06-21 05:20:00
 source: ""
 tags: []

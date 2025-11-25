@@ -7,8 +7,7 @@ NumberInAlbum: 1
 Name: Hikarunara
 SourceFile: "[[Goose House - Hikarunara.mp3]]"
 Year: 2015
-aliases:
-  - Hikarunara
+aliases: ["Hikarunara"]
 created: 2022-04-22 20:46:54
 source: ""
 tags: []

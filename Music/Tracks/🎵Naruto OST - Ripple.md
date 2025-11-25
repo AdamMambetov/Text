@@ -7,8 +7,7 @@ NumberInAlbum: 16
 Name: Ripple
 SourceFile: "[[Naruto OST - Ripple.mp3]]"
 Year: 2005
-aliases:
-  - Ripple
+aliases: ["Ripple"]
 created: 2022-04-28 17:53:28
 source: ""
 tags: []

@@ -1,8 +1,6 @@
 ---
 created: 2024-10-23 15:39:16
-aliases:
-  - Врата
-  - Hacking to the Gate
+aliases: ["Врата", "Hacking to the Gate"]
 tags:
 CoverOf: "[[🎵Itou Kanako - Hacking To The Gate]]"
 Creators:

@@ -7,8 +7,7 @@ NumberInAlbum: 166
 Name: 7 весов
 SourceFile: "[[Umineko no Naku Koro ni OST - 166 7 весов.ogg]]"
 Year: 2007
-aliases:
-  - 7 весов
+aliases: ["7 весов"]
 created: 2024-08-04 18:42:50
 source: ""
 tags: []

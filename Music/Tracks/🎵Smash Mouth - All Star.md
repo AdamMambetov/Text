@@ -7,8 +7,7 @@ NumberInAlbum: 0
 Name: All Star
 SourceFile: "[[Smash Mouth - All Star.mp3]]"
 Year: 0
-aliases:
-  - All Star
+aliases: ["All Star"]
 created: 2022-04-21 01:53:14
 source: ""
 tags: []

@@ -1,7 +1,6 @@
 ---
 created: 2022-10-05 13:33:06
-aliases:
-  - Kessen Spirit
+aliases: ["Kessen Spirit"]
 Cover: ""
 Year: 0
 tags: []

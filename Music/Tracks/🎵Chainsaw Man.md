@@ -1,7 +1,6 @@
 ---
 created: 2023-10-26 21:04:16
-aliases:
-  - Chainsaw Man
+aliases: ["Chainsaw Man"]
 Cover: ""
 Year: 2020
 tags: []

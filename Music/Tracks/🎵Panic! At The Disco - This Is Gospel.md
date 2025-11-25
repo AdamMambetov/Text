@@ -7,8 +7,7 @@ NumberInAlbum: 1
 Name: This Is Gospel
 SourceFile: "[[Panic! At The Disco - This Is Gospel.mp3]]"
 Year: 2013
-aliases:
-  - This Is Gospel
+aliases: ["This Is Gospel"]
 created: 2024-12-06 00:32:44
 source: ""
 tags: []

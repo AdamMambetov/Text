@@ -1,8 +1,6 @@
 ---
 created: 2023-07-09 18:04:50
-aliases:
-  - Снова
-  - "Re:Re:"
+aliases: ["Снова", "Re:Re:"]
 tags:
 CoverOf: "[[🎵ASIAN KUNG-FU GENERATION - Re Re]]"
 Creators:

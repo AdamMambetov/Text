@@ -1,7 +1,6 @@
 ---
 created: 2024-10-10 22:28:34
-aliases:
-  - Daremo Karemo Dokomo Nanimo Shiranai
+aliases: ["Daremo Karemo Dokomo Nanimo Shiranai"]
 Cover: ""
 Year: 2023
 tags: []

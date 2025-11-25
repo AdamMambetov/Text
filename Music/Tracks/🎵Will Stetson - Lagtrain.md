@@ -7,8 +7,7 @@ NumberInAlbum: 1
 Name: Lagtrain
 SourceFile: "[[Will Stetson - Lagtrain.mp3]]"
 Year: 0
-aliases:
-  - Lagtrain
+aliases: ["Lagtrain"]
 created: 2022-04-21 01:53:42
 source: ""
 tags: []

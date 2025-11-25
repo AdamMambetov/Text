@@ -1,7 +1,6 @@
 ---
 created: 2022-10-05 13:29:20
-aliases:
-  - MIIRO
+aliases: ["MIIRO"]
 Cover: ""
 Year: 2015
 tags: []

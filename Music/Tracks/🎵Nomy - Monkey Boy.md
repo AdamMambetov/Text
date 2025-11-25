@@ -7,8 +7,7 @@ NumberInAlbum: 1
 Name: Monkey Boy
 SourceFile: "[[Nomy - Monkey Boy.mp3]]"
 Year: 2010
-aliases:
-  - Monkey Boy
+aliases: ["Monkey Boy"]
 created: 2022-04-21 01:52:30
 source: ""
 tags: []

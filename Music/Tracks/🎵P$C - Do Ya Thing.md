@@ -1,7 +1,6 @@
 ---
 created: 2024-10-23 14:26:26
-aliases:
-  - Do Ya Thing
+aliases: ["Do Ya Thing"]
 Cover: ""
 Year: 2005
 tags: []

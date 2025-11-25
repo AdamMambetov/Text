@@ -1,7 +1,6 @@
 ---
 created: 2023-11-11 11:49:54
-aliases:
-  - Colors of the Heart
+aliases: ["Colors of the Heart"]
 Cover: ""
 Year: 2020
 tags: []

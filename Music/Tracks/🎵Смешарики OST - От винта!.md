@@ -1,7 +1,6 @@
 ---
 created: 2022-04-22 21:54:24
-aliases:
-  - От винта!
+aliases: ["От винта!"]
 Cover: ""
 Year: 2021
 tags: []

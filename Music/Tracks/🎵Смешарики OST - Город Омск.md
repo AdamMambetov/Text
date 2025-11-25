@@ -1,7 +1,6 @@
 ---
 created: 2022-04-22 21:53:46
-aliases:
-  - Город Омск
+aliases: ["Город Омск"]
 Cover: ""
 Year: 2021
 tags: []

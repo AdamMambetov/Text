@@ -1,7 +1,6 @@
 ---
 created: 2022-04-21 01:53:18
-aliases:
-  - Зомби Ферма
+aliases: ["Зомби Ферма"]
 Cover: ""
 Year: 0
 tags: []

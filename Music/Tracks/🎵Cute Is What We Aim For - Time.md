@@ -1,7 +1,6 @@
 ---
 created: 2024-06-21 05:19:46
-aliases:
-  - Time (Soundtrack Version)
+aliases: ["Time (Soundtrack Version)"]
 Cover: ""
 Year: 2008
 tags: []

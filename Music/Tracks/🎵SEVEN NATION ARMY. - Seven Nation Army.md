@@ -7,8 +7,7 @@ NumberInAlbum: 1
 Name: Seven Nation Army
 SourceFile: "[[SEVEN NATION ARMY. - Seven Nation Army.mp3]]"
 Year: 2011
-aliases:
-  - Seven Nation Army
+aliases: ["Seven Nation Army"]
 created: 2022-04-22 21:33:40
 source: ""
 tags: []

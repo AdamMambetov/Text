@@ -1,7 +1,6 @@
 ---
 created: 2022-04-22 21:58:02
-aliases:
-  - Обормот
+aliases: ["Обормот"]
 Cover: ""
 Year: 2021
 tags: []

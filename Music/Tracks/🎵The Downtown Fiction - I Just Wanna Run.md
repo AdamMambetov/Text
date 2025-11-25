@@ -7,8 +7,7 @@ NumberInAlbum: 4
 Name: I Just Wanna Run
 SourceFile: "[[The Downtown Fiction - I Just Wanna Run.mp3]]"
 Year: 2011
-aliases:
-  - I Just Wanna Run
+aliases: ["I Just Wanna Run"]
 created: 2022-04-22 21:39:30
 source: ""
 tags: []

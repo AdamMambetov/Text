@@ -7,8 +7,7 @@ NumberInAlbum: 9
 Name: It's the Training!
 SourceFile: "[[Naruto OST - It's the Training!.mp3]]"
 Year: 2004
-aliases:
-  - It's the Training!
+aliases: ["It's the Training!"]
 created: 2022-04-28 17:50:38
 source: ""
 tags: []

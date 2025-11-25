@@ -7,8 +7,7 @@ NumberInAlbum: 2
 Name: Whatever It Takes
 SourceFile: "[[Imagine Dragons - Whatever It Takes.mp3]]"
 Year: 2017
-aliases:
-  - Whatever It Takes
+aliases: ["Whatever It Takes"]
 created: 2022-04-23 01:58:00
 source: ""
 tags: []

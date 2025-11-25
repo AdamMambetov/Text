@@ -7,8 +7,7 @@ NumberInAlbum: 3
 Name: The Lost Song
 SourceFile: "[[The Cat Empire - The Lost Song.mp3]]"
 Year: 2012
-aliases:
-  - The Lost Song
+aliases: ["The Lost Song"]
 created: 2022-04-22 21:39:20
 source: ""
 tags: []

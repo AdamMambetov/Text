@@ -10,8 +10,7 @@ NumberInAlbum: 1
 Name: RISE
 SourceFile: "[[League of Legends - RISE.mp3]]"
 Year: 2018
-aliases:
-  - RISE
+aliases: ["RISE"]
 created: 2022-04-22 21:01:52
 source: ""
 tags: []

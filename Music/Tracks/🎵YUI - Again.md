@@ -1,7 +1,6 @@
 ---
 created: 2024-10-08 15:41:30
-aliases:
-  - Again
+aliases: ["Again"]
 Cover: ""
 Year: 2009
 tags: []

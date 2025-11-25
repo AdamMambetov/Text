@@ -1,7 +1,6 @@
 ---
 created: 2024-06-21 05:20:26
-aliases:
-  - Monsters
+aliases: ["Monsters"]
 Cover: ""
 Year: 2020
 tags: []

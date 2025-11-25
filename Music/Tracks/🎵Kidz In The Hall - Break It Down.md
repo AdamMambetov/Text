@@ -7,8 +7,7 @@ NumberInAlbum: 3
 Name: Break It Down
 SourceFile: "[[Kidz In The Hall - Break It Down.mp3]]"
 Year: 2011
-aliases:
-  - Break It Down
+aliases: ["Break It Down"]
 created: 2024-10-13 22:31:52
 source: ""
 tags: []

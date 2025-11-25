@@ -1,7 +1,6 @@
 ---
 created: 2022-04-22 20:38:36
-aliases:
-  - One For the Money
+aliases: ["One For the Money"]
 Cover: ""
 Year: 2013
 tags: []

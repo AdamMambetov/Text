@@ -1,7 +1,6 @@
 ---
 created: 2025-06-30T18:46:20+03:00
-aliases:
-  - Hotaru no Hikari
+aliases: ["Hotaru no Hikari"]
 tags:
 CoverOf: ""
 Creators:

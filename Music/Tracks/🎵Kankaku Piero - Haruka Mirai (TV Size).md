@@ -1,7 +1,6 @@
 ---
 created: 2024-07-21 15:37:18
-aliases:
-  - ハルカミライ(TVアニメver.)
+aliases: ["ハルカミライ(TVアニメver.)"]
 Cover: ""
 Year: 2017
 tags: []

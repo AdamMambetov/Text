@@ -1,7 +1,6 @@
 ---
 created: 2022-04-22 20:51:30
-aliases:
-  - Gravity
+aliases: ["Gravity"]
 Cover: ""
 Year: 2015
 tags: []

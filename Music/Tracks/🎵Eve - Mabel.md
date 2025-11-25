@@ -1,7 +1,6 @@
 ---
 created: 2024-10-05 14:36:20
-aliases:
-  - Mabel
+aliases: ["Mabel"]
 Cover: ""
 Year: 20220305
 tags: []

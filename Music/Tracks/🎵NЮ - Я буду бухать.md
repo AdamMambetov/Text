@@ -8,8 +8,7 @@ NumberInAlbum: 1
 Name: Я буду бухать
 SourceFile: "[[NЮ - Я буду бухать.mp3]]"
 Year: 2019
-aliases:
-  - Я буду бухать
+aliases: ["Я буду бухать"]
 created: 2022-04-22 21:16:46
 source: ""
 tags: []

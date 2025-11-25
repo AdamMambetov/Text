@@ -7,8 +7,7 @@ NumberInAlbum: 2
 Name: Фотографирую закат
 SourceFile: "[[fem.love - Фотографирую закат.mp3]]"
 Year: 2020
-aliases:
-  - Фотографирую закат
+aliases: ["Фотографирую закат"]
 created: 2022-04-22 20:44:54
 source: ""
 tags: []

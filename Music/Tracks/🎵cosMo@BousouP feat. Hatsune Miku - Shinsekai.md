@@ -6,8 +6,7 @@ NumberInAlbum: 1
 Name: CD Track 01
 SourceFile: "[[cosMo@BousouP feat. Hatsune Miku - Shinsekai.mp3]]"
 Year: 0
-aliases:
-  - CD Track 01
+aliases: ["CD Track 01"]
 created: 2022-05-02 04:09:34
 source: ""
 tags: []

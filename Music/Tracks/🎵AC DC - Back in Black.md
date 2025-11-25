@@ -1,7 +1,6 @@
 ---
 created: 2024-10-10 22:48:28
-aliases:
-  - Back In Black
+aliases: ["Back In Black"]
 Cover: ""
 Year: 1980
 tags: []

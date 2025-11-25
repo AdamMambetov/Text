@@ -7,8 +7,7 @@ NumberInAlbum: 2
 Name: I'll Make a Man Out of You
 SourceFile: "[[Peyton Parrish - I'll Make a Man Out of You.mp3]]"
 Year: 2022
-aliases:
-  - I'll Make a Man Out of You
+aliases: ["I'll Make a Man Out of You"]
 created: 2022-04-22 21:19:36
 source: ""
 tags: []

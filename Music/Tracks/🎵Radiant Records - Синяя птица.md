@@ -1,8 +1,6 @@
 ---
 created: 2024-06-21 05:20:18
-aliases:
-  - Синяя птица
-  - Blue Bird
+aliases: ["Синяя птица", "Blue Bird"]
 tags:
 CoverOf: "[[🎵Ikimonogakari - Blue Bird]]"
 Creators:

@@ -8,8 +8,7 @@ NumberInAlbum: 36
 Name: PAPAYAPA BASS
 SourceFile: "[[Camellia - PAPAYAPA BASS.mp3]]"
 Year: 0
-aliases:
-  - PAPAYAPA BASS
+aliases: ["PAPAYAPA BASS"]
 created: 2023-09-30 15:46:36
 source: ""
 tags: []

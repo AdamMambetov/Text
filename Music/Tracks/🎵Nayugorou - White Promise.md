@@ -7,8 +7,7 @@ NumberInAlbum: 0
 Name: "White Promise "
 SourceFile: "[[Nayugorou - White Promise.mp3]]"
 Year: 0
-aliases:
-  - "White Promise "
+aliases: ["White Promise "]
 created: 2022-10-05 13:36:24
 source: ""
 tags: []

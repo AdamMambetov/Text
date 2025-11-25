@@ -1,7 +1,6 @@
 ---
 created: 2024-06-21 05:20:10
-aliases:
-  - Inferno
+aliases: ["Inferno"]
 Cover: ""
 Year: 2016
 tags: []

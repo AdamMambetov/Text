@@ -7,8 +7,7 @@ NumberInAlbum: 4
 Name: Still Waiting
 SourceFile: "[[Sum 41 - Still Waiting.mp3]]"
 Year: 2002
-aliases:
-  - Still Waiting
+aliases: ["Still Waiting"]
 created: 2022-04-26 01:11:12
 source: ""
 tags: []

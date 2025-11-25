@@ -7,8 +7,7 @@ NumberInAlbum: 11
 Name: Кипа летних облаков
 SourceFile: "[[Umineko no Naku Koro ni OST - 011 Кипа летних облаков.ogg]]"
 Year: 2007
-aliases:
-  - Кипа летних облаков
+aliases: ["Кипа летних облаков"]
 created: 2024-08-03 19:34:42
 source: ""
 tags: []

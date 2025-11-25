@@ -7,8 +7,7 @@ NumberInAlbum: 13
 Name: Runnin'
 SourceFile: "[[Adam Lambert - Runnin'.mp3]]"
 Year: 2012
-aliases:
-  - Runnin'
+aliases: ["Runnin'"]
 created: 2024-06-21 05:19:56
 source: ""
 tags: []

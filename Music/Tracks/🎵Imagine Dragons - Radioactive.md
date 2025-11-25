@@ -7,8 +7,7 @@ NumberInAlbum: 1
 Name: Radioactive
 SourceFile: "[[Imagine Dragons - Radioactive.mp3]]"
 Year: 2013
-aliases:
-  - Radioactive
+aliases: ["Radioactive"]
 created: 2022-04-22 20:55:36
 source: ""
 tags: []

@@ -8,8 +8,7 @@ NumberInAlbum: 2
 Name: Когда я лаю при луне
 SourceFile: "[[Bolt OST - Когда я лаю при луне.m4a]]"
 Year: 2008
-aliases:
-  - Когда я лаю при луне
+aliases: ["Когда я лаю при луне"]
 created: 2024-01-04 15:03:38
 source: ""
 tags: []

@@ -7,8 +7,7 @@ NumberInAlbum: 1
 Name: Clone
 SourceFile: "[[Rhett Walker Band - Clone.mp3]]"
 Year: 2014
-aliases:
-  - Clone
+aliases: ["Clone"]
 created: 2024-10-13 22:53:14
 source: ""
 tags: []

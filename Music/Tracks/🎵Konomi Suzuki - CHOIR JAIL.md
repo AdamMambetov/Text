@@ -1,7 +1,6 @@
 ---
 created: 2025-01-08 19:55:30
-aliases:
-  - CHOIR JAIL
+aliases: ["CHOIR JAIL"]
 Cover: ""
 Year: 0
 tags: []

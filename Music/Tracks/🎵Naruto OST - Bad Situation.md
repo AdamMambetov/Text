@@ -7,8 +7,7 @@ NumberInAlbum: 16
 Name: Bad Situation
 SourceFile: "[[Naruto OST - Bad Situation.mp3]]"
 Year: 2003
-aliases:
-  - Bad Situation
+aliases: ["Bad Situation"]
 created: 2022-04-28 17:39:28
 source: ""
 tags: []

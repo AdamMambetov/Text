@@ -7,8 +7,7 @@ NumberInAlbum: 1
 Name: TaKillYa
 SourceFile: "[[Vinnie Maniscalco - TaKillYa.mp3]]"
 Year: 2017
-aliases:
-  - TaKillYa
+aliases: ["TaKillYa"]
 created: 2022-04-22 21:50:44
 source: ""
 tags: []

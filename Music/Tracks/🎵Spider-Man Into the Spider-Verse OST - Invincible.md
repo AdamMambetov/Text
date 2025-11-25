@@ -1,8 +1,7 @@
 ---
 created: 2023-09-29 19:28:08
 Name: Invincible
-aliases:
-  - Invincible
+aliases: ["Invincible"]
 Cover: ""
 Year: 2018
 tags: []

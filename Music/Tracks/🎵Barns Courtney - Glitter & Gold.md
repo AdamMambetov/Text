@@ -7,8 +7,7 @@ NumberInAlbum: 2
 Name: Glitter & Gold
 SourceFile: "[[Barns Courtney - Glitter & Gold.mp3]]"
 Year: 2017
-aliases:
-  - Glitter & Gold
+aliases: ["Glitter & Gold"]
 created: 2024-06-21 05:20:16
 source: ""
 tags: []

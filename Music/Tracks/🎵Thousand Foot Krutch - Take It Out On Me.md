@@ -7,8 +7,7 @@ NumberInAlbum: 3
 Name: Take It Out On Me
 SourceFile: "[[Thousand Foot Krutch - Take It Out On Me.mp3]]"
 Year: 2021
-aliases:
-  - Take It Out On Me
+aliases: ["Take It Out On Me"]
 created: 2022-04-22 21:45:54
 source: ""
 tags: []

@@ -1,9 +1,7 @@
 ---
 created: 2024-07-18T15:34:45+03:00
 Name: Avlönskt
-aliases:
-  - Avlonskt
-  - Avlönskt
+aliases: ["Avlonskt", "Avlönskt"]
 ---
 
 # Avlönskt

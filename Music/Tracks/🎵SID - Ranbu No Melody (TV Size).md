@@ -7,8 +7,7 @@ NumberInAlbum: 1
 Name: Ranbu no Melody (TV Size)
 SourceFile: "[[SID - Ranbu No Melody (TV Size).mp3]]"
 Year: 0
-aliases:
-  - Ranbu no Melody (TV Size)
+aliases: ["Ranbu no Melody (TV Size)"]
 created: 2024-07-21 15:56:18
 source: ""
 tags: []

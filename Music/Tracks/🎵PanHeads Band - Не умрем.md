@@ -7,8 +7,7 @@ NumberInAlbum: 1
 Name: Не умрем
 SourceFile: "[[PanHeads Band - Не умрем.mp3]]"
 Year: 2021
-aliases:
-  - Не умрем
+aliases: ["Не умрем"]
 created: 2022-12-20 23:17:58
 source: ""
 tags: []

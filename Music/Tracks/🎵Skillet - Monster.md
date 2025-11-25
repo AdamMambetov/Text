@@ -7,8 +7,7 @@ NumberInAlbum: 2
 Name: Monster
 SourceFile: "[[Skillet - Monster.mp3]]"
 Year: 2009
-aliases:
-  - Monster
+aliases: ["Monster"]
 created: 2022-04-26 01:35:12
 source: ""
 tags: []

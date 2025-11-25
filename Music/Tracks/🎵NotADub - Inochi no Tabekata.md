@@ -1,7 +1,6 @@
 ---
 created: 2024-10-23 15:01:48
-aliases:
-  - Inochi no Tabekata
+aliases: ["Inochi no Tabekata"]
 Cover: ""
 Year: 2022
 tags: []

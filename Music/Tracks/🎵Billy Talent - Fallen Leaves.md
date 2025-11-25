@@ -7,8 +7,7 @@ NumberInAlbum: 6
 Name: Fallen Leaves
 SourceFile: "[[Billy Talent - Fallen Leaves.mp3]]"
 Year: 2006
-aliases:
-  - Fallen Leaves
+aliases: ["Fallen Leaves"]
 created: 2024-10-23 15:14:22
 source: ""
 tags: []

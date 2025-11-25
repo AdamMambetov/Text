@@ -8,8 +8,7 @@ NumberInAlbum: 1
 Name: Courage
 SourceFile: "[[Jim Yosef - Courage.mp3]]"
 Year: 2017
-aliases:
-  - Courage
+aliases: ["Courage"]
 created: 2024-10-13 23:05:14
 source: ""
 tags: []

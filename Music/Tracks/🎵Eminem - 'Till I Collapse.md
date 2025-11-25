@@ -1,7 +1,6 @@
 ---
 created: 2024-10-08 15:26:32
-aliases:
-  - "'Till I Collapse"
+aliases: ["'Till I Collapse"]
 Cover: ""
 Year: 2002
 tags: []

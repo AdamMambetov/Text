@@ -1,7 +1,6 @@
 ---
 created: 2025-01-08 01:14:04
-aliases:
-  - Guren
+aliases: ["Guren"]
 tags:
 Creators:
   - "[[@DOES|DOES]]"

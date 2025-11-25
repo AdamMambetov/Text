@@ -7,8 +7,7 @@ NumberInAlbum: 6
 Name: Young
 SourceFile: "[[Hollywood Undead - Young.mp3]]"
 Year: 2008
-aliases:
-  - Young
+aliases: ["Young"]
 created: 2022-04-22 20:52:28
 source: ""
 tags: []

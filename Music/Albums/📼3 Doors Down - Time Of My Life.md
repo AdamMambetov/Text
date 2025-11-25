@@ -1,6 +1,6 @@
 ---
 created: 2024-09-14T11:56:38+03:00
-aliases: Time Of My Life
+aliases: ["T", "i", "m", "e", " ", "O", "f", " ", "M", "y", " ", "L", "i", "f", "e"]
 Cover: "[[3 Doors Down - Time of My Life.jpg]]"
 Year: 2011
 Creators: "[[@3 Doors Down]]"

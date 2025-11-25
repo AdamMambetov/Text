@@ -1,7 +1,6 @@
 ---
 created: 2022-04-21 02:14:02
-aliases:
-  - В городе N
+aliases: ["В городе N"]
 Cover: ""
 Year: 2010
 tags: []

@@ -7,8 +7,7 @@ NumberInAlbum: 17
 Name: Ведьма в золоте (клавесин)
 SourceFile: "[[Umineko no Naku Koro ni OST - 017 Ведьма в золоте (клавесин).ogg]]"
 Year: 2007
-aliases:
-  - Ведьма в золоте (клавесин)
+aliases: ["Ведьма в золоте (клавесин)"]
 created: 2024-08-03 19:35:16
 source: ""
 tags: []

@@ -1,7 +1,6 @@
 ---
 created: 2022-10-05 14:10:08
-aliases:
-  - Bassdrop Freaks (2018 "Redrop" ver.)
+aliases: ["Bassdrop Freaks (2018 "Redrop" ver.)"]
 Cover: ""
 Year: 2018
 tags: []

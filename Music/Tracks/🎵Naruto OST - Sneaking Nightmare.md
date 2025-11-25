@@ -7,8 +7,7 @@ NumberInAlbum: 20
 Name: Sneaking Nightmare
 SourceFile: "[[Naruto OST - Sneaking Nightmare.mp3]]"
 Year: 2005
-aliases:
-  - Sneaking Nightmare
+aliases: ["Sneaking Nightmare"]
 created: 2022-04-28 17:53:40
 source: ""
 tags: []

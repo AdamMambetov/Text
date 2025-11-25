@@ -7,8 +7,7 @@ NumberInAlbum: 10
 Name: Thunder
 SourceFile: "[[Imagine Dragons - Thunder.mp3]]"
 Year: 2017
-aliases:
-  - Thunder
+aliases: ["Thunder"]
 created: 2022-04-22 20:55:56
 source: ""
 tags: []

@@ -8,8 +8,7 @@ NumberInAlbum: 1
 Name: Feel Invincible
 SourceFile: "[[RADIO TAPOK - Feel Invincible.mp3]]"
 Year: 2019
-aliases:
-  - Feel Invincible
+aliases: ["Feel Invincible"]
 created: 2024-06-21 05:20:24
 source: ""
 tags: []

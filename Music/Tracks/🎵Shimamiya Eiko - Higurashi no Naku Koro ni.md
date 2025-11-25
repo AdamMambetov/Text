@@ -1,7 +1,6 @@
 ---
 created: 2025-01-19 21:51:30
-aliases:
-  - Higurashi no Naku Koro ni
+aliases: ["Higurashi no Naku Koro ni"]
 tags:
 Creators:
   - "[[@Shimamiya Eiko]]"

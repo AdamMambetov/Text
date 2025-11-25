@@ -1,7 +1,6 @@
 ---
 created: 2022-10-05 13:13:58
-aliases:
-  - TRIPLE PLAY
+aliases: ["TRIPLE PLAY"]
 Cover: ""
 Year: 0
 tags: []

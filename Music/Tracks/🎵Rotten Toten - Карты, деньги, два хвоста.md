@@ -7,8 +7,7 @@ NumberInAlbum: 7
 Name: Карты, деньги, два хвоста
 SourceFile: "[[Rotten Toten - Карты, деньги, два хвоста.mp3]]"
 Year: 2019
-aliases:
-  - Карты, деньги, два хвоста
+aliases: ["Карты, деньги, два хвоста"]
 created: 2023-07-09 18:49:32
 source: ""
 tags: []

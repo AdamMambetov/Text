@@ -1,7 +1,6 @@
 ---
 created: 2022-10-05 13:32:18
-aliases:
-  - Responsibility Response
+aliases: ["Responsibility Response"]
 Cover: ""
 Year: 2016
 tags: []

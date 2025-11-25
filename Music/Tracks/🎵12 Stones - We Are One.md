@@ -1,7 +1,6 @@
 ---
 created: 2024-06-21 05:19:50
-aliases:
-  - We Are One
+aliases: ["We Are One"]
 Cover: ""
 Year: 2010
 tags: []

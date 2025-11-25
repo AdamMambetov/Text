@@ -1,7 +1,6 @@
 ---
 created: 2023-09-29 17:15:50
-aliases:
-  - Па-ра-па-па
+aliases: ["Па-ра-па-па"]
 Cover: ""
 Year: 1973
 tags: []

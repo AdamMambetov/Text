@@ -7,8 +7,7 @@ NumberInAlbum: 2
 Name: Head Up
 SourceFile: "[[The Score - Head Up.mp3]]"
 Year: 2022
-aliases:
-  - Head Up
+aliases: ["Head Up"]
 created: 2022-04-22 21:41:52
 source: ""
 tags: []

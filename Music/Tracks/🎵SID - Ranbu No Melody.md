@@ -7,8 +7,7 @@ NumberInAlbum: 5
 Name: Ranbu No Melody
 SourceFile: "[[SID - Ranbu No Melody.mp3]]"
 Year: 2018
-aliases:
-  - Ranbu No Melody
+aliases: ["Ranbu No Melody"]
 created: 2022-04-22 21:34:12
 source: ""
 tags: []

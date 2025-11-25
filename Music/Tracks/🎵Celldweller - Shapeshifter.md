@@ -8,8 +8,7 @@ NumberInAlbum: 4
 Name: Shapeshifter
 SourceFile: "[[Celldweller - Shapeshifter.mp3]]"
 Year: 2003
-aliases:
-  - Shapeshifter
+aliases: ["Shapeshifter"]
 created: 2024-06-21 05:19:42
 source: ""
 tags: []

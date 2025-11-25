@@ -9,8 +9,7 @@ NumberInAlbum: 21
 Name: You're Gonna Go Far Kid
 SourceFile: "[[Jonathan Young - You're Gonna Go Far Kid.mp3]]"
 Year: 2021
-aliases:
-  - You're Gonna Go Far Kid
+aliases: ["You're Gonna Go Far Kid"]
 created: 2022-04-22 20:59:10
 source: ""
 tags: []

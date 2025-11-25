@@ -1,7 +1,6 @@
 ---
 created: 2025-06-30T18:38:18+03:00
-aliases:
-  - Radiant Records
+aliases: ["Radiant Records"]
 Cover: "[[Radiant Records - Radiant Records.jpg]]"
 Year: 2015
 genres:

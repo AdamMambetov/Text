@@ -7,8 +7,7 @@ NumberInAlbum: 34
 Name: Игры разума
 SourceFile: "[[Umineko no Naku Koro ni OST - 034 Игры разума.ogg]]"
 Year: 2007
-aliases:
-  - Игры разума
+aliases: ["Игры разума"]
 created: 2024-08-03 19:36:46
 source: ""
 tags: []

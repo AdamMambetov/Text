@@ -7,8 +7,7 @@ NumberInAlbum: 3
 Name: Fallen Angel
 SourceFile: "[[Three Days Grace - Fallen Angel.mp3]]"
 Year: 2015
-aliases:
-  - Fallen Angel
+aliases: ["Fallen Angel"]
 created: 2024-10-23 15:13:32
 source: ""
 tags: []

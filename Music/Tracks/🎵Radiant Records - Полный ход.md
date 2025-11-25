@@ -1,8 +1,6 @@
 ---
 created: 2025-06-30T19:06:31+03:00
-aliases:
-  - Полный ход
-  - Easy go
+aliases: ["Полный ход", "Easy go"]
 tags:
 CoverOf: "[[🎵Kazuki Kato - Easy go]]"
 Creators:

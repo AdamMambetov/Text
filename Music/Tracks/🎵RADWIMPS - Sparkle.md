@@ -7,8 +7,7 @@ NumberInAlbum: 12
 Name: Sparkle
 SourceFile: "[[RADWIMPS - Sparkle.mp3]]"
 Year: 2016
-aliases:
-  - Sparkle
+aliases: ["Sparkle"]
 created: 2022-04-23 02:33:16
 source: ""
 tags: []

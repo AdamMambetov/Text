@@ -7,8 +7,7 @@ NumberInAlbum: 2
 Name: Remember We Die
 SourceFile: "[[Gemini Syndrome - Remember We Die.mp3]]"
 Year: 2016
-aliases:
-  - Remember We Die
+aliases: ["Remember We Die"]
 created: 2022-04-22 20:45:58
 source: ""
 tags: []

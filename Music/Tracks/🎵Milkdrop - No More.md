@@ -7,8 +7,7 @@ NumberInAlbum: 1
 Name: No More
 SourceFile: "[[Milkdrop - No More.mp3]]"
 Year: 2017
-aliases:
-  - No More
+aliases: ["No More"]
 created: 2022-04-23 02:25:52
 source: ""
 tags: []

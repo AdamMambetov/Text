@@ -7,8 +7,7 @@ NumberInAlbum: 1
 Name: Helix
 SourceFile: "[[ESTi - Helix.mp3]]"
 Year: 2013
-aliases:
-  - Helix
+aliases: ["Helix"]
 created: 2022-04-28 15:49:20
 source: ""
 tags: []

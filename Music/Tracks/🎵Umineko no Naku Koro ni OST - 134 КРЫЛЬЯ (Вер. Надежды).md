@@ -1,7 +1,6 @@
 ---
 created: 2024-08-04 18:26:40
-aliases:
-  - КРЫЛЬЯ (Вер. Надежды)
+aliases: ["КРЫЛЬЯ (Вер. Надежды)"]
 Cover: ""
 Year: 2007
 Album: "[[📼Umineko no Naku Koro ni OST]]"

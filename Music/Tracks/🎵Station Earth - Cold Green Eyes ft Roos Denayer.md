@@ -7,8 +7,7 @@ NumberInAlbum: 1
 Name: Cold Green Eyes ft Roos Denayer
 SourceFile: "[[Station Earth - Cold Green Eyes ft Roos Denayer.mp3]]"
 Year: 0
-aliases:
-  - Cold Green Eyes ft Roos Denayer
+aliases: ["Cold Green Eyes ft Roos Denayer"]
 created: 2022-10-05 13:55:54
 source: ""
 tags: []

@@ -7,8 +7,7 @@ NumberInAlbum: 1
 Name: Human
 SourceFile: "[[Rag'n'Bone Man - Human.mp3]]"
 Year: 2017
-aliases:
-  - Human
+aliases: ["Human"]
 created: 2022-04-22 21:26:26
 source: ""
 tags: []

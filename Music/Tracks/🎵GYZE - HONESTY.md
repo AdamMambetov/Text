@@ -7,8 +7,7 @@ NumberInAlbum: 3
 Name: HONESTY
 SourceFile: "[[GYZE - HONESTY.mp3]]"
 Year: 2015
-aliases:
-  - HONESTY
+aliases: ["HONESTY"]
 created: 2022-05-11 18:16:52
 source: ""
 tags: []

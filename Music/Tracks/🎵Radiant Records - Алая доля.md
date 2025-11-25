@@ -1,8 +1,6 @@
 ---
 created: 2024-10-23 14:15:00
-aliases:
-  - Алая доля
-  - Red Fraction
+aliases: ["Алая доля", "Red Fraction"]
 tags:
 CoverOf: "[[🎵MELL - Red Fraction]]"
 Creators:

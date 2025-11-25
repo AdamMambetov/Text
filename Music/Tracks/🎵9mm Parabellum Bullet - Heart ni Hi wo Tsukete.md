@@ -1,7 +1,6 @@
 ---
 created: 2024-06-21 05:19:56
-aliases:
-  - Heart ni Hi wo Tsukete
+aliases: ["Heart ni Hi wo Tsukete"]
 Cover: ""
 Year: 2012
 tags: []

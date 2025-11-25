@@ -7,8 +7,7 @@ NumberInAlbum: 2
 Name: Untraveled Road
 SourceFile: "[[Thousand Foot Krutch - Untraveled Road.mp3]]"
 Year: 2014
-aliases:
-  - Untraveled Road
+aliases: ["Untraveled Road"]
 created: 2022-04-22 21:46:08
 source: ""
 tags: []

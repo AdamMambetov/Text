@@ -1,8 +1,7 @@
 ---
 created: 2022-04-21 03:54:48
 Name: Монстр
-aliases:
-  - Монстр
+aliases: ["Монстр"]
 Cover: ""
 Year: 2020
 tags: []

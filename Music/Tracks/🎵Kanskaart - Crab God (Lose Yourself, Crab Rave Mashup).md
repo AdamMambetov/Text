@@ -1,7 +1,6 @@
 ---
 created: 2025-05-04 14:48:16.487456
-aliases:
-  - Eminem - Crab God (Full Version)
+aliases: ["Eminem - Crab God (Full Version)"]
 Year: 2019
 tags:
   - source/music/track

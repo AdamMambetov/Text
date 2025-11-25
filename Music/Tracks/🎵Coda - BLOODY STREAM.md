@@ -7,8 +7,7 @@ NumberInAlbum: 1
 Name: BLOODY STREAM
 SourceFile: "[[Coda - BLOODY STREAM.mp3]]"
 Year: 2013
-aliases:
-  - BLOODY STREAM
+aliases: ["BLOODY STREAM"]
 created: 2022-05-02 03:48:44
 source: ""
 tags: []

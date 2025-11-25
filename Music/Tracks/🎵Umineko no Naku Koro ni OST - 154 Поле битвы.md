@@ -7,8 +7,7 @@ NumberInAlbum: 154
 Name: Поле битвы
 SourceFile: "[[Umineko no Naku Koro ni OST - 154 Поле битвы.ogg]]"
 Year: 2007
-aliases:
-  - Поле битвы
+aliases: ["Поле битвы"]
 created: 2024-08-04 18:36:26
 source: ""
 tags: []

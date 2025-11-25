@@ -7,8 +7,7 @@ NumberInAlbum: 126
 Name: Лоскутная химера
 SourceFile: "[[Umineko no Naku Koro ni OST - 126 Лоскутная химера.ogg]]"
 Year: 2007
-aliases:
-  - Лоскутная химера
+aliases: ["Лоскутная химера"]
 created: 2024-08-04 18:23:16
 source: ""
 tags: []

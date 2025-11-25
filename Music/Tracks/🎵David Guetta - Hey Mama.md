@@ -1,8 +1,7 @@
 ---
 created: 2024-06-21 05:20:02
 Name: Hey Mama
-aliases:
-  - Hey Mama
+aliases: ["Hey Mama"]
 Cover: ""
 Year: 2014
 tags: []

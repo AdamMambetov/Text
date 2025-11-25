@@ -1,7 +1,6 @@
 ---
 created: 2024-08-03 19:42:50
-aliases:
-  - Мелодия
+aliases: ["Мелодия"]
 Cover: ""
 Year: 2007
 tags: []

@@ -7,8 +7,7 @@ NumberInAlbum: 1
 Name: Burnt Rice (feat YUNG GEMMY)
 SourceFile: "[[Shawn Wasabi ft. YUNG GEMMY - Burnt Rice.mp3]]"
 Year: 0
-aliases:
-  - Burnt Rice (feat YUNG GEMMY)
+aliases: ["Burnt Rice (feat YUNG GEMMY)"]
 created: 2022-10-05 13:54:06
 source: ""
 tags: []

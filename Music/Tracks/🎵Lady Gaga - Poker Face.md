@@ -7,8 +7,7 @@ NumberInAlbum: 6
 Name: Poker Face
 SourceFile: "[[Lady Gaga - Poker Face.mp3]]"
 Year: 2008
-aliases:
-  - Poker Face
+aliases: ["Poker Face"]
 created: 2022-04-23 02:12:08
 source: ""
 tags: []

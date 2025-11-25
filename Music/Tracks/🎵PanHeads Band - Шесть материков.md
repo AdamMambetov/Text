@@ -7,8 +7,7 @@ NumberInAlbum: 1
 Name: Шесть материков
 SourceFile: "[[PanHeads Band - Шесть материков.mp3]]"
 Year: 2018
-aliases:
-  - Шесть материков
+aliases: ["Шесть материков"]
 created: 2022-12-09 06:57:48
 source: ""
 tags: []

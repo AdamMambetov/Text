@@ -8,8 +8,7 @@ NumberInAlbum: 7
 Name: чайлдфри
 SourceFile: "[[Noize MC - чайлдфри.mp3]]"
 Year: 2016
-aliases:
-  - чайлдфри
+aliases: ["чайлдфри"]
 created: 2022-04-22 21:15:36
 source: ""
 tags: []

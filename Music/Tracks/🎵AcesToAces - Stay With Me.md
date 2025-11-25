@@ -7,8 +7,7 @@ NumberInAlbum: 1
 Name: Stay With Me
 SourceFile: "[[AcesToAces - Stay With Me.mp3]]"
 Year: 0
-aliases:
-  - Stay With Me
+aliases: ["Stay With Me"]
 created: 2024-06-21 05:20:16
 source: ""
 tags: []

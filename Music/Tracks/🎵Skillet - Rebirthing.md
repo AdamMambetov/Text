@@ -7,8 +7,7 @@ NumberInAlbum: 1
 Name: Rebirthing
 SourceFile: "[[Skillet - Rebirthing.mp3]]"
 Year: 2006
-aliases:
-  - Rebirthing
+aliases: ["Rebirthing"]
 created: 2022-04-26 01:34:22
 source: ""
 tags: []

@@ -7,8 +7,7 @@ NumberInAlbum: 1
 Name: Rin'ne
 SourceFile: "[[Elfen Lied OST - Rin ne.mp3]]"
 Year: 0
-aliases:
-  - Rin'ne
+aliases: ["Rin'ne"]
 created: 2024-10-23 14:52:32
 source: ""
 tags: []

@@ -1,7 +1,6 @@
 ---
 created: 2024-10-30 19:29:12
-aliases:
-  - Given Up
+aliases: ["Given Up"]
 Cover: ""
 Year: 2007
 tags: []

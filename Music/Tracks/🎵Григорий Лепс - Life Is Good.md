@@ -1,7 +1,6 @@
 ---
 created: 2024-10-23 15:22:08
-aliases:
-  - Life Is Good
+aliases: ["Life Is Good"]
 Cover: ""
 Year: 2018
 tags: []

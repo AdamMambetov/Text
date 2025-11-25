@@ -7,8 +7,7 @@ NumberInAlbum: 1
 Name: Make Merry
 SourceFile: "[[Amphibious Zoo Music - Make Merry.mp3]]"
 Year: 2013
-aliases:
-  - Make Merry
+aliases: ["Make Merry"]
 created: 2024-06-21 05:19:58
 source: ""
 tags: []

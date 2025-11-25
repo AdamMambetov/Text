@@ -1,7 +1,6 @@
 ---
 created: 2023-09-30 15:54:16
-aliases:
-  - Barrier Break
+aliases: ["Barrier Break"]
 Cover: ""
 Year: 2003
 tags: []

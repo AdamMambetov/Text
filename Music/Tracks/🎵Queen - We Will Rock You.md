@@ -7,8 +7,7 @@ NumberInAlbum: 16
 Name: We Will Rock You
 SourceFile: "[[Queen - We Will Rock You.mp3]]"
 Year: 2000
-aliases:
-  - We Will Rock You
+aliases: ["We Will Rock You"]
 created: 2022-04-22 21:23:22
 source: ""
 tags: []

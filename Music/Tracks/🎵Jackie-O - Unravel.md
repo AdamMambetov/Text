@@ -7,8 +7,7 @@ NumberInAlbum: 1
 Name: Unravel
 SourceFile: "[[Jackie-O - Unravel.mp3]]"
 Year: 2014
-aliases:
-  - Unravel
+aliases: ["Unravel"]
 created: 2023-11-11 12:00:52
 source: ""
 tags: []

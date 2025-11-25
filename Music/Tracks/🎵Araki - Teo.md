@@ -7,8 +7,7 @@ NumberInAlbum: 1
 Name: Teo
 SourceFile: "[[Araki - Teo.mp3]]"
 Year: 0
-aliases:
-  - Teo
+aliases: ["Teo"]
 created: 2022-10-05 12:57:30
 source: ""
 tags: []

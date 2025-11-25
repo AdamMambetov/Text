@@ -7,8 +7,7 @@ NumberInAlbum: 11
 Name: Drive By
 SourceFile: "[[Train - Drive By.mp3]]"
 Year: 2012
-aliases:
-  - Drive By
+aliases: ["Drive By"]
 created: 2024-10-23 14:34:48
 source: ""
 tags: []
