@@ -1,7 +1,6 @@
 ---
 created: 2025-01-08 01:53:14
-aliases:
-  - ""
+aliases: [""]
 Cover: ""
 Year: 0
 Album: ""

@@ -1,13 +1,11 @@
 ---
 Album: "[[📼The Avengers]]"
-Creators:
-  - "[[@Alan Silvestri]]"
+Creators: ["[[@Alan Silvestri]]"]
 Cover: ""
 NumberInAlbum: 19
 SourceFile: "[[The Avengers OST - Main Theme.mp3]]"
 Year: 2012
-aliases:
-  - The Avengers
+aliases: ["The Avengers"]
 created: 2023-09-29 18:31:18
 source: ""
 ---

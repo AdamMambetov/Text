@@ -5,8 +5,7 @@ Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[BPM OST - 10 Muninn's Armoury.mp3]]"
 Year: 0
-aliases:
-  - ""
+aliases: [""]
 created: 2025-01-08 23:29:42
 source: ""
 ---

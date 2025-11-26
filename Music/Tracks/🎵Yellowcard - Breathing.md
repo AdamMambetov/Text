@@ -1,13 +1,11 @@
 ---
 Album: "[[📼Ocean Avenue]]"
-Creators:
-  - "[[@Yellowcard]]"
+Creators: ["[[@Yellowcard]]"]
 Cover: ""
 NumberInAlbum: 5
 SourceFile: "[[Yellowcard - Breathing.mp3]]"
 Year: 2003
-aliases:
-  - Breathing
+aliases: ["Breathing"]
 created: 2024-10-13 22:32:36
 source: ""
 ---

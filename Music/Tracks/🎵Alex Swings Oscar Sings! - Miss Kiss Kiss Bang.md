@@ -1,13 +1,11 @@
 ---
 Album: "[[📼Heart 4 Sale]]"
-Creators:
-  - "[[@Alex Swings Oscar Sings!]]"
+Creators: ["[[@Alex Swings Oscar Sings!]]"]
 Cover: ""
 NumberInAlbum: 3
 SourceFile: "[[Alex Swings Oscar Sings! - Miss Kiss Kiss Bang.mp3]]"
 Year: 2009
-aliases:
-  - Miss Kiss Kiss Bang
+aliases: ["Miss Kiss Kiss Bang"]
 created: 2024-06-21 05:19:48
 source: ""
 ---

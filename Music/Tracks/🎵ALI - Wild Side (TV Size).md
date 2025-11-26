@@ -5,8 +5,7 @@ Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[ALI - Wild Side (TV Size).mp3]]"
 Year: 0
-aliases:
-  - ""
+aliases: [""]
 created: 2025-01-07 21:35:52
 source: ""
 ---

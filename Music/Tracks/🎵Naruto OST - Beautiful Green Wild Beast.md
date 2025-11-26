@@ -1,13 +1,11 @@
 ---
 Album: "[[📼NARUTO ORIGINAL SOUNDTRACK 3]]"
-Creators:
-  - "[[@Toshio Masuda]]"
+Creators: ["[[@Toshio Masuda]]"]
 Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[Naruto OST - Beautiful Green Wild Beast.mp3]]"
 Year: 2005
-aliases:
-  - Beautiful Green Wild Beast
+aliases: ["Beautiful Green Wild Beast"]
 created: 2022-04-28 17:52:48
 source: ""
 ---

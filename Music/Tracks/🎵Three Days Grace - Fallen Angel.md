@@ -1,13 +1,11 @@
 ---
 Album: "[[📼Human]]"
-Creators:
-  - "[[@Three Days Grace]]"
+Creators: ["[[@Three Days Grace]]"]
 Cover: ""
 NumberInAlbum: 3
 SourceFile: "[[Three Days Grace - Fallen Angel.mp3]]"
 Year: 2015
-aliases:
-  - Fallen Angel
+aliases: ["Fallen Angel"]
 created: 2024-10-23 15:13:32
 source: ""
 ---

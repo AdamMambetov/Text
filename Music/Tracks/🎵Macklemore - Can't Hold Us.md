@@ -1,12 +1,10 @@
 ---
 created: 2024-10-13 22:42:44
-aliases:
-  - Can't Hold Us (feat. Ray Dalton)
+aliases: ["Can't Hold Us (feat. Ray Dalton)"]
 Cover: ""
 Year: 2011
 Album: "[[📼The Heist]]"
-Creators:
-  - "[[@Macklemore & Ryan Lewis]]"
+Creators: ["[[@Macklemore & Ryan Lewis]]"]
 NumberInAlbum: 2
 source: ""
 SourceFile: "[[Macklemore - Can't Hold Us.mp3]]"

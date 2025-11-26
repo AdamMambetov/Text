@@ -1,13 +1,11 @@
 ---
 Album: "[[📼Akeboshi]]"
-Creators:
-  - "[[@Akeboshi]]"
+Creators: ["[[@Akeboshi]]"]
 Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[Akeboshi - Wind.mp3]]"
 Year: 2005
-aliases:
-  - Wind
+aliases: ["Wind"]
 created: 2025-02-03 08:28:50
 source: ""
 ---

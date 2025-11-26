@@ -1,13 +1,11 @@
 ---
 Album: "[[📼The Dark Delight]]"
-Creators:
-  - "[[@Dynazty]]"
+Creators: ["[[@Dynazty]]"]
 Cover: ""
 NumberInAlbum: 6
 SourceFile: "[[Dynazty - Heartless Madness.mp3]]"
 Year: 2020
-aliases:
-  - Heartless Madness
+aliases: ["Heartless Madness"]
 created: 2024-06-21 05:20:28
 source: ""
 ---

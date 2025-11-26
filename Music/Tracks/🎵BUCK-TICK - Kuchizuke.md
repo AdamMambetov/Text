@@ -5,8 +5,7 @@ Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[BUCK-TICK - Kuchizuke.mp3]]"
 Year: 0
-aliases:
-  - ""
+aliases: [""]
 created: 2025-01-08 01:53:00
 source: ""
 ---

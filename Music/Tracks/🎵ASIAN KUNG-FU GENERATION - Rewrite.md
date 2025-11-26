@@ -1,12 +1,10 @@
 ---
 created: 2024-06-21 05:19:42
-aliases:
-  - Rewrite
+aliases: ["Rewrite"]
 Cover: ""
 Year: 2004
 Album: "[[📼Sol-fa]]"
-Creators:
-  - "[[@ASIAN KUNG-FU GENERATION]]"
+Creators: ["[[@ASIAN KUNG-FU GENERATION]]"]
 NumberInAlbum: 2
 source: ""
 SourceFile: "[[ASIAN KUNG-FU GENERATION - Rewrite.mp3]]"

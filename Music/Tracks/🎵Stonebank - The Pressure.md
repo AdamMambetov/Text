@@ -1,13 +1,11 @@
 ---
 Album: "[[📼osu!]]"
-Creators:
-  - "[[@Stonebank]]"
+Creators: ["[[@Stonebank]]"]
 Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[Stonebank - The Pressure.mp3]]"
 Year: 0
-aliases:
-  - The Pressure
+aliases: ["The Pressure"]
 created: 2022-10-05 13:57:04
 source: ""
 ---

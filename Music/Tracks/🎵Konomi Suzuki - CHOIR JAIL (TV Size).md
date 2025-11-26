@@ -1,12 +1,10 @@
 ---
 created: 2025-01-08 19:55:48
-aliases:
-  - CHOIR JAIL (TV Size)
+aliases: ["CHOIR JAIL (TV Size)"]
 Cover: ""
 Year: 0
 Album: ""
-Creators:
-  - "[[@Konomi Suzuki]]"
+Creators: ["[[@Konomi Suzuki]]"]
 NumberInAlbum: 1
 source: ""
 SourceFile: "[[Konomi Suzuki - CHOIR JAIL (TV Size).mp3]]"

@@ -1,13 +1,11 @@
 ---
 Album: "[[📼PAX VESANIA]]"
-Creators:
-  - "[[@Yousei Teikoku]]"
+Creators: ["[[@Yousei Teikoku]]"]
 Cover: ""
 NumberInAlbum: 2
 SourceFile: "[[Yousei Teikoku - The Creator.mp3]]"
 Year: 2011
-aliases:
-  - The Creator
+aliases: ["The Creator"]
 created: 2022-04-21 01:56:14
 source: ""
 ---

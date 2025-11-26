@@ -1,14 +1,11 @@
 ---
 Album: "[[📼Celldweller]]"
-Creators:
-  - "[[@Celldweller]]"
-  - "[[@Styles of Beyond]]"
+Creators: ["[[@Celldweller]]", "[[@Styles of Beyond]]"]
 Cover: ""
 NumberInAlbum: 4
 SourceFile: "[[Celldweller - Shapeshifter.mp3]]"
 Year: 2003
-aliases:
-  - Shapeshifter
+aliases: ["Shapeshifter"]
 created: 2024-06-21 05:19:42
 source: ""
 ---

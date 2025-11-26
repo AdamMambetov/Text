@@ -1,13 +1,11 @@
 ---
 Album: "[[📼Broken Youth - Single]]"
-Creators:
-  - "[[@NICO Touches the Walls]]"
+Creators: ["[[@NICO Touches the Walls]]"]
 Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[Nico Touches the Walls - Broken Youth.mp3]]"
 Year: 2008
-aliases:
-  - Broken Youth
+aliases: ["Broken Youth"]
 created: 2024-10-13 22:34:40
 source: ""
 ---

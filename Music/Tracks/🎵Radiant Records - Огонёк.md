@@ -1,12 +1,8 @@
 ---
 created: 2025-01-08 01:24:04
-aliases:
-  - Огонёк
-  - Hotaru no Hikari
+aliases: ["Огонёк", "Hotaru no Hikari"]
 CoverOf: "[[🎵Ikimonogakari - Hotaru no Hikari]]"
-Creators:
-  - "[[@Radiant Records]]"
-  - "[[@Jully]]"
+Creators: ["[[@Radiant Records]]", "[[@Jully]]"]
 source: ""
 SourceFile: "[[Radiant Records - Огонёк.mp3]]"
 ---

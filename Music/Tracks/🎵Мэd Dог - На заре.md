@@ -1,13 +1,11 @@
 ---
 Album: "[[📼На заре ~ Альянс [2001] {Мэd Dог}]]"
-Creators:
-  - "[[@Мэd Dог]]"
+Creators: ["[[@Мэd Dог]]"]
 Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[Мэd Dог - На заре.mp3]]"
 Year: 2001
-aliases:
-  - На заре
+aliases: ["На заре"]
 created: 2022-04-21 04:18:36
 source: ""
 ---

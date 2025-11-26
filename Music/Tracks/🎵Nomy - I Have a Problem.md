@@ -1,13 +1,11 @@
 ---
 Album: "[[📼Pillar of the Solid Rock [] {Nomy}]]"
-Creators:
-  - "[[@Nomy]]"
+Creators: ["[[@Nomy]]"]
 Cover: ""
 NumberInAlbum: 5
 SourceFile: "[[Nomy - I Have a Problem.mp3]]"
 Year: 0
-aliases:
-  - I Have a Problem
+aliases: ["I Have a Problem"]
 created: 2022-04-22 21:16:12
 source: ""
 ---

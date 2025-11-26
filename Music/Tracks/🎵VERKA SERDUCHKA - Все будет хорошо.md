@@ -2,11 +2,9 @@
 SourceFile: "[[VERKA SERDUCHKA - Все будет хорошо.mp3]]"
 Year: 2012
 Album: "[[📼]]"
-aliases:
-  - VERKA SERDUCHKA - Все будет хорошо (Official Video)
+aliases: ["VERKA SERDUCHKA - Все будет хорошо (Official Video)"]
 created: 2025-05-04 14:48:18.151770
-Creators:
-  - "[[@VERKA SERDUCHKA OFFICIAL]]"
+Creators: ["[[@VERKA SERDUCHKA OFFICIAL]]"]
 ---
 
 # VERKA SERDUCHKA - Все будет хорошо

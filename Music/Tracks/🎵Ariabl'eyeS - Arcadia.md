@@ -1,13 +1,11 @@
 ---
 Album: "[[📼osu!]]"
-Creators:
-  - "[[@Ariabl'eyeS]]"
+Creators: ["[[@Ariabl'eyeS]]"]
 Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[Ariabl'eyeS - Arcadia.mp3]]"
 Year: 2013
-aliases:
-  - Arcadia
+aliases: ["Arcadia"]
 created: 2022-10-05 12:57:50
 source: ""
 ---

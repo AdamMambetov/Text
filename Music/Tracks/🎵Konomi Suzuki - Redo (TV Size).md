@@ -1,12 +1,10 @@
 ---
 created: 2024-07-21 14:58:14
-aliases:
-  - Redo (TV Size)
+aliases: ["Redo (TV Size)"]
 Cover: ""
 Year: 0
 Album: ""
-Creators:
-  - "[[@Konomi Suzuki]]"
+Creators: ["[[@Konomi Suzuki]]"]
 NumberInAlbum: 1
 source: ""
 SourceFile: "[[Konomi Suzuki - Redo (TV Size).mp3]]"

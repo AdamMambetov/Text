@@ -1,13 +1,11 @@
 ---
 Album: "[[📼Unravel]]"
-Creators:
-  - "[[@Jackie-O]]"
+Creators: ["[[@Jackie-O]]"]
 Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[Jackie-O - Unravel.mp3]]"
 Year: 2014
-aliases:
-  - Unravel
+aliases: ["Unravel"]
 created: 2023-11-11 12:00:52
 source: ""
 ---

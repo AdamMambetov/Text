@@ -5,8 +5,7 @@ Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[BPM OST - 09 Huggin's Shop.mp3]]"
 Year: 0
-aliases:
-  - ""
+aliases: [""]
 created: 2025-01-08 23:28:44
 source: ""
 ---

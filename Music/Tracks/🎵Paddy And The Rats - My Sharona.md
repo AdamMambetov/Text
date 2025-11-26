@@ -1,13 +1,11 @@
 ---
 Album: "[[📼Lonely Hearts' Boulevard]]"
-Creators:
-  - "[[@Paddy And The Rats]]"
+Creators: ["[[@Paddy And The Rats]]"]
 Cover: ""
 NumberInAlbum: 3
 SourceFile: "[[Paddy And The Rats - My Sharona.mp3]]"
 Year: 2015
-aliases:
-  - My Sharona
+aliases: ["My Sharona"]
 created: 2022-12-20 23:17:42
 source: ""
 ---

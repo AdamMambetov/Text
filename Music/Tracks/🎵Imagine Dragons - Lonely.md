@@ -1,13 +1,11 @@
 ---
 Album: "[[📼Mercury - Act 1 [2021] {Imagine Dragons}]]"
-Creators:
-  - "[[@Imagine Dragons]]"
+Creators: ["[[@Imagine Dragons]]"]
 Cover: ""
 NumberInAlbum: 3
 SourceFile: "[[Imagine Dragons - Lonely.mp3]]"
 Year: 2021
-aliases:
-  - Lonely
+aliases: ["Lonely"]
 created: 2022-04-22 20:55:06
 source: ""
 ---

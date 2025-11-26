@@ -1,13 +1,10 @@
 ---
 created: 2022-10-05 13:29:20
-aliases:
-  - MIIRO
+aliases: ["MIIRO"]
 Cover: ""
 Year: 2015
 Album: "[[📼osu!]]"
-Creators:
-  - "[[@AKINO]]"
-  - "[[@bless4]]"
+Creators: ["[[@AKINO]]", "[[@bless4]]"]
 NumberInAlbum: 1
 source: ""
 SourceFile: "[[AKINO from bless4 - MIIRO.mp3]]"

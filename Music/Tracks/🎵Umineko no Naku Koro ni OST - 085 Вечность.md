@@ -1,13 +1,11 @@
 ---
 Album: "[[📼Umineko no Naku Koro ni OST]]"
-Creators:
-  - "[[@dai]]"
+Creators: ["[[@dai]]"]
 Cover: ""
 NumberInAlbum: 85
 SourceFile: "[[Umineko no Naku Koro ni OST - 085 Вечность.ogg]]"
 Year: 2007
-aliases:
-  - Вечность
+aliases: ["Вечность"]
 created: 2024-08-03 20:53:46
 source: ""
 ---

@@ -1,13 +1,11 @@
 ---
 Album: "[[📼Alive [2014] {Tim McMorris}]]"
-Creators:
-  - "[[@Tim McMorris]]"
+Creators: ["[[@Tim McMorris]]"]
 Cover: ""
 NumberInAlbum: 9
 SourceFile: "[[Tim McMorris - Life Is Beautiful.mp3]]"
 Year: 2014
-aliases:
-  - Life Is Beautiful
+aliases: ["Life Is Beautiful"]
 created: 2022-04-22 21:48:04
 source: ""
 ---

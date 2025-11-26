@@ -1,11 +1,10 @@
 ---
 created: 2025-01-07 20:37:16
-aliases:
-  - Bakemonogatari Opening 4 - Ren'ai Circulation (RAW)
+aliases: ["Bakemonogatari Opening 4 - Ren'ai Circulation (RAW)"]
 Cover: ""
 Year: 20170526
 Album: ""
-Creators: "[[@Kana Hanazawa]]"
+Creators: ["[", "[", "@", "K", "a", "n", "a", " ", "H", "a", "n", "a", "z", "a", "w", "a", "]", "]"]
 NumberInAlbum: 1
 source: ""
 SourceFile: "[[Kana Hanazawa - Renai Circulation (TV Size).mp3]]"

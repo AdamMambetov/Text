@@ -1,13 +1,11 @@
 ---
 Album: "[[📼Heroes [2014] {Sabaton}]]"
-Creators:
-  - "[[@Sabaton]]"
+Creators: ["[[@Sabaton]]"]
 Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[Sabaton - Night Witches.mp3]]"
 Year: 2014
-aliases:
-  - Night Witches
+aliases: ["Night Witches"]
 created: 2022-04-22 21:29:30
 source: ""
 ---

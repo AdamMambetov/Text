@@ -1,13 +1,11 @@
 ---
 Album: "[[📼Haruka Kanata]]"
-Creators:
-  - "[[@Jackie-O]]"
+Creators: ["[[@Jackie-O]]"]
 Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[Jackie-O - Haruka Kanata.mp3]]"
 Year: 2021
-aliases:
-  - Haruka Kanata
+aliases: ["Haruka Kanata"]
 created: 2023-07-09 19:35:56
 source: ""
 ---

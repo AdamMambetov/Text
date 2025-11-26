@@ -1,13 +1,11 @@
 ---
 Album: "[[📼osu!]]"
-Creators:
-  - "[[@ClariS]]"
+Creators: ["[[@ClariS]]"]
 Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[ClariS - Kimi no Shiranai Monogatari.mp3]]"
 Year: 0
-aliases:
-  - Kimi no Shiranai Monogatari
+aliases: ["Kimi no Shiranai Monogatari"]
 created: 2022-10-05 13:07:48
 source: ""
 ---

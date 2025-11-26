@@ -1,12 +1,10 @@
 ---
 created: 2022-10-05 13:32:18
-aliases:
-  - Responsibility Response
+aliases: ["Responsibility Response"]
 Cover: ""
 Year: 2016
 Album: "[[📼osu!]]"
-Creators:
-  - "[[@Madoka Yonezawa]]"
+Creators: ["[[@Madoka Yonezawa]]"]
 NumberInAlbum: 0
 source: ""
 SourceFile: "[[Izumi Akazawa - Responsibility Response.mp3]]"

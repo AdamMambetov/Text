@@ -1,13 +1,11 @@
 ---
 Album: "[[📼Kaikai Kitan]]"
-Creators:
-  - "[[@Eve]]"
+Creators: ["[[@Eve]]"]
 Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[Eve - Kaikai Kitan.mp3]]"
 Year: 2020
-aliases:
-  - Kaikai Kitan
+aliases: ["Kaikai Kitan"]
 created: 2024-10-23 15:00:40
 source: ""
 ---

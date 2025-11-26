@@ -1,13 +1,11 @@
 ---
 Album: "[[📼The Good Times]]"
-Creators:
-  - "[[@Afroman]]"
+Creators: ["[[@Afroman]]"]
 Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[Afroman - Because I Got High Extended Version.mp3]]"
 Year: 2000
-aliases:
-  - Because I Got High (Extended Version)
+aliases: ["Because I Got High (Extended Version)"]
 created: 2025-02-03 08:27:32
 source: ""
 ---

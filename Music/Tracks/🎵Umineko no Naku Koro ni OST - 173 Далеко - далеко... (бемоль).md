@@ -1,13 +1,11 @@
 ---
 Album: "[[📼Umineko no Naku Koro ni OST]]"
-Creators:
-  - "[[@zts]]"
+Creators: ["[[@zts]]"]
 Cover: ""
 NumberInAlbum: 173
 SourceFile: "[[Umineko no Naku Koro ni OST - 173 Далеко - далеко... (бемоль).ogg]]"
 Year: 2007
-aliases:
-  - Далеко - далеко... (бемоль)
+aliases: ["Далеко - далеко... (бемоль)"]
 created: 2024-08-04 18:45:36
 source: ""
 ---

@@ -1,12 +1,10 @@
 ---
 created: 2024-06-21 05:20:10
-aliases:
-  - Inferno
+aliases: ["Inferno"]
 Cover: ""
 Year: 2016
 Album: "[[📼Inferno]]"
-Creators:
-  - "[[@9mm Parabellum Bullet]]"
+Creators: ["[[@9mm Parabellum Bullet]]"]
 NumberInAlbum: 1
 source: ""
 SourceFile: "[[9mm Parabellum Bullet - Inferno.mp3]]"

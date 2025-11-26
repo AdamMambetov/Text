@@ -1,13 +1,11 @@
 ---
 Album: "[[📼osu!]]"
-Creators:
-  - "[[@t+pazolite]]"
+Creators: ["[[@t+pazolite]]"]
 Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[t+pazolite - Pumpin' Junkies.mp3]]"
 Year: 0
-aliases:
-  - Pumpin' Junkies
+aliases: ["Pumpin' Junkies"]
 created: 2022-10-05 13:49:42
 source: ""
 ---

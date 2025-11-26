@@ -1,13 +1,11 @@
 ---
 Album: "[[📼Favourite Worst Nightmare]]"
-Creators:
-  - "[[@Arctic Monkeys]]"
+Creators: ["[[@Arctic Monkeys]]"]
 Cover: ""
 NumberInAlbum: 11
 SourceFile: "[[Arctic Monkeys - Old Yellow Bricks.mp3]]"
 Year: 2007
-aliases:
-  - Old Yellow Bricks
+aliases: ["Old Yellow Bricks"]
 created: 2024-06-21 05:19:46
 source: ""
 ---

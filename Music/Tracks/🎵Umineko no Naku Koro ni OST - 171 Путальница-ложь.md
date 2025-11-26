@@ -1,13 +1,11 @@
 ---
 Album: "[[📼Umineko no Naku Koro ni OST]]"
-Creators:
-  - "[[@xaki]]"
+Creators: ["[[@xaki]]"]
 Cover: ""
 NumberInAlbum: 171
 SourceFile: "[[Umineko no Naku Koro ni OST - 171 Путальница-ложь.ogg]]"
 Year: 2007
-aliases:
-  - Путальница-ложь
+aliases: ["Путальница-ложь"]
 created: 2024-08-04 18:44:46
 source: ""
 ---

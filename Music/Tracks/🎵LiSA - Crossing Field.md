@@ -1,9 +1,7 @@
 ---
 created: 2025-01-08 00:23:10
-aliases:
-  - Crossing Field
-Creators:
-  - "[[@LiSA]]"
+aliases: ["Crossing Field"]
+Creators: ["[[@LiSA]]"]
 source: ""
 SourceFile: "[[LiSA - Crossing Field.mp3]]"
 ---

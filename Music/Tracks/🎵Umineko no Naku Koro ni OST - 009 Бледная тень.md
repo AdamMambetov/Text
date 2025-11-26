@@ -1,13 +1,11 @@
 ---
 Album: "[[📼Umineko no Naku Koro ni OST]]"
-Creators:
-  - "[[@dai]]"
+Creators: ["[[@dai]]"]
 Cover: ""
 NumberInAlbum: 9
 SourceFile: "[[Umineko no Naku Koro ni OST - 009 Бледная тень.ogg]]"
 Year: 2007
-aliases:
-  - Бледная тень
+aliases: ["Бледная тень"]
 created: 2024-08-03 19:34:26
 source: ""
 ---

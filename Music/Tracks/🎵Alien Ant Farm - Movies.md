@@ -1,13 +1,11 @@
 ---
 Album: "[[📼Greatest Hits]]"
-Creators:
-  - "[[@Alien Ant Farm]]"
+Creators: ["[[@Alien Ant Farm]]"]
 Cover: ""
 NumberInAlbum: 3
 SourceFile: "[[Alien Ant Farm - Movies.mp3]]"
 Year: 1999
-aliases:
-  - Movies
+aliases: ["Movies"]
 created: 2024-06-21 05:19:40
 source: ""
 ---

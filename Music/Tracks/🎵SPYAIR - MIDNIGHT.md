@@ -1,13 +1,11 @@
 ---
 Album: "[[📼osu!]]"
-Creators:
-  - "[[@SPYAIR]]"
+Creators: ["[[@SPYAIR]]"]
 Cover: ""
 NumberInAlbum: 0
 SourceFile: "[[SPYAIR - MIDNIGHT.mp3]]"
 Year: 0
-aliases:
-  - MIDNIGHT
+aliases: ["MIDNIGHT"]
 created: 2022-10-05 13:54:40
 source: ""
 ---

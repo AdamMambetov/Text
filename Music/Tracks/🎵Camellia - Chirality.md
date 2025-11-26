@@ -1,13 +1,11 @@
 ---
 Album: "[[📼osu!]]"
-Creators:
-  - "[[@Camellia]]"
+Creators: ["[[@Camellia]]"]
 Cover: ""
 NumberInAlbum: 25
 SourceFile: "[[Camellia - Chirality.mp3]]"
 Year: 0
-aliases:
-  - Chirality
+aliases: ["Chirality"]
 created: 2022-10-05 13:04:44
 source: ""
 ---

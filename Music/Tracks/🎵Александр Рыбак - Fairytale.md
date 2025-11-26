@@ -1,12 +1,10 @@
 ---
 created: 2023-05-23 21:41:18
-aliases:
-  - Fairytale
+aliases: ["Fairytale"]
 Cover: ""
 Year: 2009
 Album: "[[📼Fairytale]]"
-Creators:
-  - "[[@Александр Рыбак]]"
+Creators: ["[[@Александр Рыбак]]"]
 NumberInAlbum: 1
 source: ""
 SourceFile: "[[Александр Рыбак - Fairytale.mp3]]"

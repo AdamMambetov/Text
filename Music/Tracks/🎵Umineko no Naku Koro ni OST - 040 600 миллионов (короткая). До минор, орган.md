@@ -1,13 +1,11 @@
 ---
 Album: "[[📼Umineko no Naku Koro ni OST]]"
-Creators:
-  - "[[@Luck Ganriki]]"
+Creators: ["[[@Luck Ganriki]]"]
 Cover: ""
 NumberInAlbum: 40
 SourceFile: "[[Umineko no Naku Koro ni OST - 040 600 миллионов (короткая). До минор, орган.ogg]]"
 Year: 2007
-aliases:
-  - "#600 миллионов (короткая). До минор, орган"
+aliases: ["#600 миллионов (короткая). До минор, орган"]
 created: 2024-08-03 19:37:18
 source: ""
 ---

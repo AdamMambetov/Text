@@ -1,13 +1,11 @@
 ---
 Album: "[[📼Umineko no Naku Koro ni OST]]"
-Creators:
-  - "[[@dai]]"
+Creators: ["[[@dai]]"]
 Cover: ""
 NumberInAlbum: 35
 SourceFile: "[[Umineko no Naku Koro ni OST - 035 Конец сказки.ogg]]"
 Year: 2007
-aliases:
-  - Конец сказки
+aliases: ["Конец сказки"]
 created: 2024-08-03 19:36:54
 source: ""
 ---

@@ -1,14 +1,10 @@
 ---
 created: 2024-10-23 14:58:30
-aliases:
-  - Enemy
+aliases: ["Enemy"]
 Cover: ""
 Year: 2021
 Album: "[[📼Mercury - Act 1]]"
-Creators:
-  - "[[@Imagine Dragons]]"
-  - "[[@J.I.D]]"
-  - "[[@League of Legends]]"
+Creators: ["[[@Imagine Dragons]]", "[[@J.I.D]]", "[[@League of Legends]]"]
 NumberInAlbum: 1
 source: ""
 SourceFile: "[[Imagine Dragons - Enemy.mp3]]"

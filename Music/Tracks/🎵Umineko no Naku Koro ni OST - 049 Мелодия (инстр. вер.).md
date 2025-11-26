@@ -1,14 +1,10 @@
 ---
 created: 2024-08-03 19:39:00
-aliases:
-  - Мелодия (инстр. вер.)
+aliases: ["Мелодия (инстр. вер.)"]
 Cover: ""
 Year: 2007
 Album: "[[📼Umineko no Naku Koro ni OST]]"
-Creators:
-  - "[[@sunny]]"
-  - "[[@cap]]"
-  - "[[@xaki]]"
+Creators: ["[[@sunny]]", "[[@cap]]", "[[@xaki]]"]
 NumberInAlbum: 49
 source: ""
 SourceFile: "[[Umineko no Naku Koro ni OST - 049 Мелодия (инстр. вер.).ogg]]"

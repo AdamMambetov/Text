@@ -1,13 +1,11 @@
 ---
 Album: "[[📼Umineko no Naku Koro ni OST]]"
-Creators:
-  - "[[@zts]]"
+Creators: ["[[@zts]]"]
 Cover: ""
 NumberInAlbum: 24
 SourceFile: "[[Umineko no Naku Koro ni OST - 024 Золотой душегуб.ogg]]"
 Year: 2007
-aliases:
-  - Золотой душегуб
+aliases: ["Золотой душегуб"]
 created: 2024-08-03 19:36:02
 source: ""
 ---

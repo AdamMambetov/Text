@@ -1,13 +1,11 @@
 ---
 Album: "[[📼Cradles]]"
-Creators:
-  - "[[@Sub Urban]]"
+Creators: ["[[@Sub Urban]]"]
 Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[Sub Urban - Cradles.mp3]]"
 Year: 2019
-aliases:
-  - Cradles
+aliases: ["Cradles"]
 created: 2024-10-13 23:08:02
 source: ""
 ---

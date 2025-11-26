@@ -1,13 +1,11 @@
 ---
 Album: "[[📼Umineko no Naku Koro ni OST]]"
-Creators:
-  - "[[@dai]]"
+Creators: ["[[@dai]]"]
 Cover: ""
 NumberInAlbum: 110
 SourceFile: "[[Umineko no Naku Koro ni OST - 110 Росчерк.ogg]]"
 Year: 2007
-aliases:
-  - Росчерк
+aliases: ["Росчерк"]
 created: 2024-08-03 21:00:44
 source: ""
 ---

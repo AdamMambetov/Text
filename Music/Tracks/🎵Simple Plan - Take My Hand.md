@@ -1,13 +1,11 @@
 ---
 Album: "[[📼Simple Plan [Deluxe] [2008] {Simple Plan}]]"
-Creators:
-  - "[[@Simple Plan]]"
+Creators: ["[[@Simple Plan]]"]
 Cover: ""
 NumberInAlbum: 2
 SourceFile: "[[Simple Plan - Take My Hand.mp3]]"
 Year: 2008
-aliases:
-  - Take My Hand
+aliases: ["Take My Hand"]
 created: 2022-04-22 21:34:22
 source: ""
 ---

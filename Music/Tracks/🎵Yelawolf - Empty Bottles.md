@@ -1,13 +1,11 @@
 ---
 Album: "[[📼Love Story]]"
-Creators:
-  - "[[@Yelawolf]]"
+Creators: ["[[@Yelawolf]]"]
 Cover: ""
 NumberInAlbum: 9
 SourceFile: "[[Yelawolf - Empty Bottles.mp3]]"
 Year: 2015
-aliases:
-  - Empty Bottles
+aliases: ["Empty Bottles"]
 created: 2024-10-23 14:56:28
 source: ""
 ---

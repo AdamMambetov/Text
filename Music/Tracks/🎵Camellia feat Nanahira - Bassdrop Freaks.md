@@ -1,13 +1,10 @@
 ---
 created: 2022-10-05 14:10:08
-aliases:
-  - Bassdrop Freaks
+aliases: ["Bassdrop Freaks"]
 Cover: ""
 Year: 2018
 Album: "[[📼osu!]]"
-Creators:
-  - "[[@Camellia]]"
-  - "[[@Nanahira]]"
+Creators: ["[[@Camellia]]", "[[@Nanahira]]"]
 NumberInAlbum: 10
 source: ""
 SourceFile: "[[Camellia feat Nanahira - Bassdrop Freaks.mp3]]"

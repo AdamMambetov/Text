@@ -1,11 +1,8 @@
 ---
 created: 2025-06-30T19:41:05+03:00
-aliases:
-  - Бесстрашие
-  - Bravely You
+aliases: ["Бесстрашие", "Bravely You"]
 CoverOf: "[[🎵Lia - Bravely You]]"
-Creators:
-  - "[[@Camellia]]"
+Creators: ["[[@Camellia]]"]
 source:
 SourceFile: "[[Radiant Records - Бесстрашие.mp3]]"
 ---

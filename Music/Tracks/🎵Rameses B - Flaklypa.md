@@ -1,13 +1,11 @@
 ---
 Album: "[[📼osu!]]"
-Creators:
-  - "[[@Rameses B]]"
+Creators: ["[[@Rameses B]]"]
 Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[Rameses B - Flaklypa.mp3]]"
 Year: 2013
-aliases:
-  - Flåklypa
+aliases: ["Flåklypa"]
 created: 2022-10-05 13:24:34
 source: ""
 ---

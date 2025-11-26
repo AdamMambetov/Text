@@ -1,13 +1,11 @@
 ---
 Album: "[[📼Ten Thousand Fists]]"
-Creators:
-  - "[[@Disturbed]]"
+Creators: ["[[@Disturbed]]"]
 Cover: ""
 NumberInAlbum: 9
 SourceFile: "[[Disturbed - Decadence.mp3]]"
 Year: 2005
-aliases:
-  - Decadence
+aliases: ["Decadence"]
 created: 2023-09-30 15:54:26
 source: ""
 ---

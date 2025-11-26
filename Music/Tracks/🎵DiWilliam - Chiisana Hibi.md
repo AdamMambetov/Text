@@ -1,13 +1,11 @@
 ---
 Album: "[[📼Chiisana Hibi]]"
-Creators:
-  - "[[@DiWilliam]]"
+Creators: ["[[@DiWilliam]]"]
 Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[DiWilliam - Chiisana Hibi.mp3]]"
 Year: 0
-aliases:
-  - Chiisana Hibi
+aliases: ["Chiisana Hibi"]
 created: 2024-10-23 13:43:28
 source: ""
 ---

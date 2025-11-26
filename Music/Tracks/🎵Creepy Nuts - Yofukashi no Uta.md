@@ -1,13 +1,11 @@
 ---
 Album: ""
-Creators:
-  - "[[@Creepy Nuts]]"
+Creators: ["[[@Creepy Nuts]]"]
 Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[Creepy Nuts - Yofukashi no Uta.mp3]]"
 Year: 20190528
-aliases:
-  - 【MV】Creepy Nuts - よふかしのうた
+aliases: ["【MV】Creepy Nuts - よふかしのうた"]
 created: 2024-10-05 15:15:46
 source: ""
 ---

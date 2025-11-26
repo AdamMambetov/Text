@@ -1,13 +1,11 @@
 ---
 Album: ""
-Creators:
-  - "[[@Fear and Loathing in Las Vegas]]"
+Creators: ["[[@Fear and Loathing in Las Vegas]]"]
 Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[Fear, and Loathing in Las Vegas - Let Me Hear (TV Size).mp3]]"
 Year: 0
-aliases:
-  - Let Me Hear
+aliases: ["Let Me Hear"]
 created: 2024-07-21 15:00:02
 source: ""
 ---

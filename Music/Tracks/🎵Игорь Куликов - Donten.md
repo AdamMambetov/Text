@@ -1,13 +1,11 @@
 ---
 Album: "[[📼Donten]]"
-Creators:
-  - "[[@Игорь Куликов]]"
+Creators: ["[[@Игорь Куликов]]"]
 Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[Игорь Куликов - Donten.mp3]]"
 Year: 2022
-aliases:
-  - Donten
+aliases: ["Donten"]
 created: 2024-10-23 14:31:54
 source: ""
 ---

@@ -1,13 +1,11 @@
 ---
 Album: "[[📼SID Anime Best 2008-2017 [2018] {SID}]]"
-Creators:
-  - "[[@SID]]"
+Creators: ["[[@SID]]"]
 Cover: ""
 NumberInAlbum: 5
 SourceFile: "[[SID - Ranbu No Melody.mp3]]"
 Year: 2018
-aliases:
-  - Ranbu No Melody
+aliases: ["Ranbu No Melody"]
 created: 2022-04-22 21:34:12
 source: ""
 ---

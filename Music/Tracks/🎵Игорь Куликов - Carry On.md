@@ -1,13 +1,11 @@
 ---
 Album: "[[📼Carry On]]"
-Creators:
-  - "[[@Игорь Куликов]]"
+Creators: ["[[@Игорь Куликов]]"]
 Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[Игорь Куликов - Carry On.mp3]]"
 Year: 0
-aliases:
-  - Carry On
+aliases: ["Carry On"]
 created: 2024-10-23 15:28:42
 source: ""
 ---

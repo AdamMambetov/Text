@@ -1,13 +1,11 @@
 ---
 Album: "[[📼время]]"
-Creators:
-  - "[[@COMEDOZ]]"
+Creators: ["[[@COMEDOZ]]"]
 Cover: ""
 NumberInAlbum: 7
 SourceFile: "[[COMEDOZ - Поцелуй Прямо В Сердце.mp3]]"
 Year: 2014
-aliases:
-  - Поцелуй Прямо В Сердце
+aliases: ["Поцелуй Прямо В Сердце"]
 created: 2024-06-21 05:20:02
 source: ""
 ---
