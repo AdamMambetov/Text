@@ -1,7 +1,6 @@
 ---
 created: 2025-11-19T23:26:57+03:00
-aliases:
-  - Kano
+aliases: ["Kano"]
 ListenInSec: 0
 ---
 
