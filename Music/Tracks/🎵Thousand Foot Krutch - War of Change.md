@@ -4,13 +4,12 @@ Creators:
   - "[[@Thousand Foot Krutch]]"
 Cover: ""
 NumberInAlbum: 10
-Name: War of Change
 SourceFile: "[[Thousand Foot Krutch - War of Change.mp3]]"
 Year: 2012
-aliases: ["War of Change"]
+aliases:
+  - War of Change
 created: 2022-04-22 21:46:28
 source: ""
-tags: []
 ---
 
 # Thousand Foot Krutch - War of Change

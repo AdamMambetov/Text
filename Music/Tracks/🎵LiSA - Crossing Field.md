@@ -1,7 +1,7 @@
 ---
 created: 2025-01-08 00:23:10
-aliases: ["Crossing Field"]
-tags:
+aliases:
+  - Crossing Field
 Creators:
   - "[[@LiSA]]"
 source: ""

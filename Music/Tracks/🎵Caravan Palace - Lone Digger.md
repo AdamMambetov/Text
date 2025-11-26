@@ -4,13 +4,12 @@ Creators:
   - "[[@Caravan Palace]]"
 Cover: ""
 NumberInAlbum: 1
-Name: Lone Digger
 SourceFile: "[[Caravan Palace - Lone Digger.mp3]]"
 Year: 2015
-aliases: ["Lone Digger"]
+aliases:
+  - Lone Digger
 created: 2024-06-21 05:20:06
 source: ""
-tags: []
 ---
 
 # Caravan Palace - Lone Digger

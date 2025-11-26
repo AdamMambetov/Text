@@ -4,13 +4,12 @@ Creators:
   - "[[@Luck Ganriki]]"
 Cover: ""
 NumberInAlbum: 117
-Name: "#600 миллионов, струнное трио, фа-диез минор"
 SourceFile: "[[Umineko no Naku Koro ni OST - 117 600 миллионов, струнное трио, фа-диез минор.ogg]]"
 Year: 2007
-aliases: ["#600 миллионов, струнное трио, фа-диез минор"]
+aliases:
+  - "#600 миллионов, струнное трио, фа-диез минор"
 created: 2024-08-04 18:21:56
 source: ""
-tags: []
 ---
 
 # Umineko no Naku Koro ni OST - 117 600 миллионов, струнное трио, фа-диез минор

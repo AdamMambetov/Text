@@ -4,13 +4,12 @@ Creators:
   - "[[@AIRES]]"
 Cover: ""
 NumberInAlbum: 7
-Name: Я знаю тысячи миров
 SourceFile: "[[AIRES - Я знаю тысячи миров.mp3]]"
 Year: 2017
-aliases: ["Я знаю тысячи миров"]
+aliases:
+  - Я знаю тысячи миров
 created: 2024-06-21 05:20:16
 source: ""
-tags: []
 ---
 
 # AIRES - Я знаю тысячи миров

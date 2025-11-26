@@ -4,13 +4,12 @@ Creators:
   - "[[@Toshio Masuda]]"
 Cover: ""
 NumberInAlbum: 12
-Name: Go Go Naruto!
 SourceFile: "[[Naruto OST - Go Go Naruto!.mp3]]"
 Year: 2003
-aliases: ["Go Go Naruto!"]
+aliases:
+  - Go Go Naruto!
 created: 2022-04-28 17:39:20
 source: ""
-tags: []
 ---
 
 # Naruto OST - Go Go Naruto!

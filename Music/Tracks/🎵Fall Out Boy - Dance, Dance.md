@@ -4,13 +4,12 @@ Creators:
   - "[[@Fall Out Boy]]"
 Cover: ""
 NumberInAlbum: 3
-Name: Dance, Dance
 SourceFile: "[[Fall Out Boy - Dance, Dance.mp3]]"
 Year: 2005
-aliases: ["Dance, Dance"]
+aliases:
+  - Dance, Dance
 created: 2024-10-13 23:13:46
 source: ""
-tags: []
 ---
 
 # Fall Out Boy - Dance, Dance

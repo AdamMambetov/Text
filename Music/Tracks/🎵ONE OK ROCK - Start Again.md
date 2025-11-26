@@ -4,13 +4,12 @@ Creators:
   - "[[@ONE OK ROCK]]"
 Cover: ""
 NumberInAlbum: 13
-Name: Start Again
 SourceFile: "[[ONE OK ROCK - Start Again.mp3]]"
 Year: 2017
-aliases: ["Start Again"]
+aliases:
+  - Start Again
 created: 2022-10-05 13:54:56
 source: ""
-tags: []
 ---
 
 # ONE OK ROCK - Start Again

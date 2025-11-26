@@ -4,13 +4,12 @@ Creators:
   - "[[@Green Day]]"
 Cover: ""
 NumberInAlbum: 13
-Name: Holiday
 SourceFile: "[[Green Day - Holiday.mp3]]"
 Year: 2017
-aliases: ["Holiday"]
+aliases:
+  - Holiday
 created: 2022-04-22 20:48:10
 source: ""
-tags: []
 ---
 
 # Green Day - Holiday

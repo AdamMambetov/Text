@@ -3,13 +3,11 @@ Album: ""
 Creators: []
 Cover: ""
 NumberInAlbum: 1
-Name: ""
 SourceFile: "[[Nightmare - Raison d'etre.mp3]]"
 Year: 0
 aliases: []
 created: 2025-01-08 20:57:30
 source: ""
-tags: []
 ---
 
 # Nightmare - Raison d'etre

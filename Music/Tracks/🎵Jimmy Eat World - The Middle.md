@@ -4,13 +4,12 @@ Creators:
   - "[[@Jimmy Eat World]]"
 Cover: ""
 NumberInAlbum: 3
-Name: The Middle
 SourceFile: "[[Jimmy Eat World - The Middle.mp3]]"
 Year: 2001
-aliases: ["The Middle"]
+aliases:
+  - The Middle
 created: 2022-04-22 20:57:58
 source: ""
-tags: []
 ---
 
 # Jimmy Eat World - The Middle

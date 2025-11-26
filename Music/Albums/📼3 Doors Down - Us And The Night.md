@@ -1,6 +1,7 @@
 ---
 created: 2024-09-14T11:40:57+03:00
-aliases: ["Us And The Night"]
+aliases:
+  - Us And The Night
 Year: 2016
 genres:
   - Rock

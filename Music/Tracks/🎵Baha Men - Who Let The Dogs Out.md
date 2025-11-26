@@ -4,13 +4,12 @@ Creators:
   - "[[@Baha Men]]"
 Cover: ""
 NumberInAlbum: 1
-Name: Who Let The Dogs Out
 SourceFile: "[[Baha Men - Who Let The Dogs Out.mp3]]"
 Year: 2010
-aliases: ["Who Let The Dogs Out"]
+aliases:
+  - Who Let The Dogs Out
 created: 2023-07-09 18:49:08
 source: ""
-tags: []
 ---
 
 # Baha Men - Who Let The Dogs Out

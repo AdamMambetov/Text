@@ -4,13 +4,12 @@ Creators:
   - "[[@Fall Out Boy]]"
 Cover: ""
 NumberInAlbum: 6
-Name: Jet Pack Blues
 SourceFile: "[[Fall Out Boy - Jet Pack Blues.mp3]]"
 Year: 2015
-aliases: ["Jet Pack Blues"]
+aliases:
+  - Jet Pack Blues
 created: 2022-04-22 20:42:58
 source: ""
-tags: []
 ---
 
 # Fall Out Boy - Jet Pack Blues

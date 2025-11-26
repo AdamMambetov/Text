@@ -1,7 +1,7 @@
 ---
 created: 2023-07-09 17:57:28
-aliases: ["Tsukiakari No Michishirube"]
-tags:
+aliases:
+  - Tsukiakari No Michishirube
 Creators:
   - "[[@Stereopony]]"
 source: ""

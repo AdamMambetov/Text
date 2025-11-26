@@ -1,14 +1,13 @@
 ---
 created: 2024-10-30 19:29:12
-aliases: ["Given Up"]
+aliases:
+  - Given Up
 Cover: ""
 Year: 2007
-tags: []
 Album: "[[📼Minutes to Midnight]]"
 Creators:
   - "[[@Linkin Park]]"
 NumberInAlbum: 2
-Name: Given Up
 source: ""
 SourceFile: "[[Linkin Park - Given Up.mp3]]"
 ---

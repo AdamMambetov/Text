@@ -1,6 +1,7 @@
 ---
 created: 2025-11-19T23:40:46+03:00
-aliases: ["LOUNA"]
+aliases:
+  - LOUNA
 ListenInSec: 0
 ---
 

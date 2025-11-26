@@ -6,13 +6,12 @@ Creators:
   - "[[@Edda Hayes]]"
 Cover: ""
 NumberInAlbum: 1
-Name: Warriors
 SourceFile: "[[League of Legends - Warriors.mp3]]"
 Year: 2020
-aliases: ["Warriors"]
+aliases:
+  - Warriors
 created: 2022-04-22 21:02:24
 source: ""
-tags: []
 ---
 
 # League of Legends - Warriors

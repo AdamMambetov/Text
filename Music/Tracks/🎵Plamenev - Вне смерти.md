@@ -4,13 +4,12 @@ Creators:
   - "[[@Plamenev]]"
 Cover: ""
 NumberInAlbum: 3
-Name: Вне смерти
 SourceFile: "[[Plamenev - Вне смерти.mp3]]"
 Year: 2017
-aliases: ["Вне смерти"]
+aliases:
+  - Вне смерти
 created: 2022-12-20 23:17:14
 source: ""
-tags: []
 ---
 
 # Plamenev - Вне смерти

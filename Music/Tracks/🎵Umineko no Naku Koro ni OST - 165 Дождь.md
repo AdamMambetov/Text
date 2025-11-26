@@ -4,13 +4,12 @@ Creators:
   - "[[@zts]]"
 Cover: ""
 NumberInAlbum: 165
-Name: Дождь
 SourceFile: "[[Umineko no Naku Koro ni OST - 165 Дождь.ogg]]"
 Year: 2007
-aliases: ["Дождь"]
+aliases:
+  - Дождь
 created: 2024-08-04 18:41:42
 source: ""
-tags: []
 ---
 
 # Umineko no Naku Koro ni OST - 165 Дождь

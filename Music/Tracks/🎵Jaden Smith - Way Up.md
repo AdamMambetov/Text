@@ -1,10 +1,9 @@
 ---
 created: 2022-04-28 14:58:36
-Name: Way Up
-aliases: ["Way Up"]
+aliases:
+  - Way Up
 Cover: ""
 Year: 2018
-tags: []
 Album: "[[📼Spider-Man Into the Spider-Verse]]"
 Creators:
   - "[[@Jaden Smith]]"

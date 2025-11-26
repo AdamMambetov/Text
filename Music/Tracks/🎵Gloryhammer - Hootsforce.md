@@ -4,13 +4,12 @@ Creators:
   - "[[@Gloryhammer]]"
 Cover: ""
 NumberInAlbum: 8
-Name: Hootsforce
 SourceFile: "[[Gloryhammer - Hootsforce.mp3]]"
 Year: 2019
-aliases: ["Hootsforce"]
+aliases:
+  - Hootsforce
 created: 2022-04-22 20:46:40
 source: ""
-tags: []
 ---
 
 # Gloryhammer - Hootsforce

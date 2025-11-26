@@ -1,7 +1,7 @@
 ---
 created: 2025-06-30T17:50:33+03:00
-aliases: ["Pre-Parade"]
-tags: []
+aliases:
+  - Pre-Parade
 CoverOf: ""
 Creators:
   - "[[@Kugimiya Rie]]"

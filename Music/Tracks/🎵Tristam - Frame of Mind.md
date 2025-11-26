@@ -5,13 +5,12 @@ Creators:
   - "[[@Braken]]"
 Cover: ""
 NumberInAlbum: 1
-Name: Frame of Mind
 SourceFile: "[[Tristam - Frame of Mind.mp3]]"
 Year: 2014
-aliases: ["Frame of Mind"]
+aliases:
+  - Frame of Mind
 created: 2022-04-22 21:49:34
 source: ""
-tags: []
 ---
 
 # Tristam - Frame of Mind

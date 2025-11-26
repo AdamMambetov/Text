@@ -4,13 +4,12 @@ Creators:
   - "[[@Three Days Grace]]"
 Cover: ""
 NumberInAlbum: 4
-Name: Never Too Late
 SourceFile: "[[Three Days Grace - Never Too Late.mp3]]"
 Year: 2006
-aliases: ["Never Too Late"]
+aliases:
+  - Never Too Late
 created: 2022-04-22 21:47:20
 source: ""
-tags: []
 ---
 
 # Three Days Grace - Never Too Late

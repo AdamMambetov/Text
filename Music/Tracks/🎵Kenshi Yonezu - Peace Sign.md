@@ -4,13 +4,12 @@ Creators:
   - "[[@Kenshi Yonezu]]"
 Cover: ""
 NumberInAlbum: 3
-Name: Peace Sign
 SourceFile: "[[Kenshi Yonezu - Peace Sign.mp3]]"
 Year: 2017
-aliases: ["Peace Sign"]
+aliases:
+  - Peace Sign
 created: 2022-04-22 21:00:04
 source: ""
-tags: []
 ---
 
 # Kenshi Yonezu - Peace Sign

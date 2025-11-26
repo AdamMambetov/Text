@@ -4,13 +4,12 @@ Creators:
   - "[[@Radiohead]]"
 Cover: ""
 NumberInAlbum: 2
-Name: Paranoid Android
 SourceFile: "[[Radiohead - Paranoid Android.mp3]]"
 Year: 2017
-aliases: ["Paranoid Android"]
+aliases:
+  - Paranoid Android
 created: 2023-07-09 18:50:36
 source: ""
-tags: []
 ---
 
 # Radiohead - Paranoid Android

@@ -1,6 +1,7 @@
 ---
 created: 2025-11-328T01:06:53+03:00
-aliases: ["Aldritch, Devourer of Gods"]
+aliases:
+  - Aldritch, Devourer of Gods
 Cover: ""
 Year: 2019
 Album: "[[📼Dark Souls 3]]"

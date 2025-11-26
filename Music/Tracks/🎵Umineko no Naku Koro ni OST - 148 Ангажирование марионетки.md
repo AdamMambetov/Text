@@ -4,13 +4,12 @@ Creators:
   - "[[@dai]]"
 Cover: ""
 NumberInAlbum: 148
-Name: Ангажирование марионетки
 SourceFile: "[[Umineko no Naku Koro ni OST - 148 Ангажирование марионетки.ogg]]"
 Year: 2007
-aliases: ["Ангажирование марионетки"]
+aliases:
+  - Ангажирование марионетки
 created: 2024-08-04 18:34:04
 source: ""
-tags: []
 ---
 
 # Umineko no Naku Koro ni OST - 148 Ангажирование марионетки

@@ -1,6 +1,7 @@
 ---
 created: 2025-06-29T22:04:32+03:00
-aliases: ["Bad Apple"]
+aliases:
+  - Bad Apple
 CoverOf: ""
 Creators:
   - "[[@Touhou Project|Touhou Project]]"

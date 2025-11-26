@@ -4,13 +4,12 @@ Creators:
   - "[[@Disturbed]]"
 Cover: ""
 NumberInAlbum: 13
-Name: Run
 SourceFile: "[[Disturbed - Run.mp3]]"
 Year: 2008
-aliases: ["Run"]
+aliases:
+  - Run
 created: 2024-06-21 05:19:46
 source: ""
-tags: []
 ---
 
 # Disturbed - Run

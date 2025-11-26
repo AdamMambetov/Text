@@ -4,13 +4,12 @@ Creators:
   - "[[@Fall Out Boy]]"
 Cover: ""
 NumberInAlbum: 9
-Name: Beat It (feat. John Mayer)
 SourceFile: "[[Fall Out Boy - Beat It.mp3]]"
 Year: 2008
-aliases: ["Beat It (feat. John Mayer)"]
+aliases:
+  - Beat It (feat. John Mayer)
 created: 2024-10-10 22:55:58
 source: ""
-tags: []
 ---
 
 # Fall Out Boy - Beat It

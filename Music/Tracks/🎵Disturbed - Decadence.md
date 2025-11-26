@@ -4,13 +4,12 @@ Creators:
   - "[[@Disturbed]]"
 Cover: ""
 NumberInAlbum: 9
-Name: Decadence
 SourceFile: "[[Disturbed - Decadence.mp3]]"
 Year: 2005
-aliases: ["Decadence"]
+aliases:
+  - Decadence
 created: 2023-09-30 15:54:26
 source: ""
-tags: []
 ---
 
 # Disturbed - Decadence

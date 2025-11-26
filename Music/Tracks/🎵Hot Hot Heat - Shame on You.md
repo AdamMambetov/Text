@@ -4,13 +4,12 @@ Creators:
   - "[[@Hot Hot Heat]]"
 Cover: ""
 NumberInAlbum: 13
-Name: Shame on You
 SourceFile: "[[Hot Hot Heat - Shame on You.mp3]]"
 Year: 2005
-aliases: ["Shame on You"]
+aliases:
+  - Shame on You
 created: 2024-06-21 05:19:44
 source: ""
-tags: []
 ---
 
 # Hot Hot Heat - Shame on You

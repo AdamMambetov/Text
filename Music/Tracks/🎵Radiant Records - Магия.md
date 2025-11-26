@@ -1,7 +1,8 @@
 ---
 created: 2025-01-08 19:50:04
-aliases: ["Магия", "Magia"]
-tags:
+aliases:
+  - Магия
+  - Magia
 CoverOf: "[[🎵Kalafina - Magia]]"
 Creators:
   - "[[@Radiant Records]]"

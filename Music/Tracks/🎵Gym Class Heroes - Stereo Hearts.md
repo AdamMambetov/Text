@@ -5,13 +5,12 @@ Creators:
   - "[[@Adam Levine]]"
 Cover: ""
 NumberInAlbum: 4
-Name: Stereo Hearts
 SourceFile: "[[Gym Class Heroes - Stereo Hearts.mp3]]"
 Year: 2011
-aliases: ["Stereo Hearts"]
+aliases:
+  - Stereo Hearts
 created: 2022-04-22 20:49:14
 source: ""
-tags: []
 ---
 
 # Gym Class Heroes - Stereo Hearts

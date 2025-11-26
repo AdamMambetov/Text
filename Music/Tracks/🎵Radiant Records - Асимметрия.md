@@ -1,7 +1,8 @@
 ---
 created: 2025-06-30T19:59:46+03:00
-aliases: ["Асимметрия", "Asymmetry"]
-tags:
+aliases:
+  - Асимметрия
+  - Asymmetry
 CoverOf: "[[🎵Yui Horie - Asymmetry]]"
 Creators:
   - "[[@Radiant Records]]"

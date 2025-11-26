@@ -4,13 +4,12 @@ Creators:
   - "[[@Louis Armstrong]]"
 Cover: ""
 NumberInAlbum: 1
-Name: What A Wonderful World
 SourceFile: "[[Louis Armstrong - What A Wonderful World.mp3]]"
 Year: 1998
-aliases: ["What A Wonderful World"]
+aliases:
+  - What A Wonderful World
 created: 2022-04-22 21:05:36
 source: ""
-tags: []
 ---
 
 # Louis Armstrong - What A Wonderful World

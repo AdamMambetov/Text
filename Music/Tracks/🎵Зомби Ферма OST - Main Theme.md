@@ -1,14 +1,13 @@
 ---
 created: 2022-04-21 01:53:18
-aliases: ["Зомби Ферма"]
+aliases:
+  - Зомби Ферма
 Cover: ""
 Year: 0
-tags: []
 Album: "[[📼Зомби Ферма]]"
 Creators:
   - "[[@Зомби Ферма]]"
 NumberInAlbum: 0
-Name: Зомби Ферма
 source: ""
 SourceFile: "[[Зомби Ферма OST - Main Theme.mp3]]"
 ---

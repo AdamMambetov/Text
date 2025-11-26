@@ -4,13 +4,12 @@ Creators:
   - "[[@Luck Ganriki]]"
 Cover: ""
 NumberInAlbum: 112
-Name: Лазурный смех
 SourceFile: "[[Umineko no Naku Koro ni OST - 112 Лазурный смех.ogg]]"
 Year: 2007
-aliases: ["Лазурный смех"]
+aliases:
+  - Лазурный смех
 created: 2024-08-04 18:19:58
 source: ""
-tags: []
 ---
 
 # Umineko no Naku Koro ni OST - 112 Лазурный смех

@@ -4,13 +4,12 @@ Creators:
   - "[[@Luck Ganriki]]"
 Cover: ""
 NumberInAlbum: 70
-Name: "#200 миллионов (короткая). До минор, орган"
 SourceFile: "[[Umineko no Naku Koro ni OST - 070 200 миллионов (короткая). До минор, орган.ogg]]"
 Year: 2007
-aliases: ["#200 миллионов (короткая). До минор, орган"]
+aliases:
+  - "#200 миллионов (короткая). До минор, орган"
 created: 2024-08-03 19:47:10
 source: ""
-tags: []
 ---
 
 # Umineko no Naku Koro ni OST - 070 200 миллионов (короткая). До минор, орган

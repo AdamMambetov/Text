@@ -4,13 +4,12 @@ Creators:
   - "[[@Imagine Dragons]]"
 Cover: ""
 NumberInAlbum: 1
-Name: Natural
 SourceFile: "[[Imagine Dragons - Natural.mp3]]"
 Year: 2018
-aliases: ["Natural"]
+aliases:
+  - Natural
 created: 2022-04-22 20:55:24
 source: ""
-tags: []
 ---
 
 # Imagine Dragons - Natural

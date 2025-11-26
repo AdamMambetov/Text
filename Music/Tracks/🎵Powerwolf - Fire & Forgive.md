@@ -4,13 +4,12 @@ Creators:
   - "[[@Powerwolf]]"
 Cover: ""
 NumberInAlbum: 0
-Name: Fire & Forgive
 SourceFile: "[[Powerwolf - Fire & Forgive.mp3]]"
 Year: 2018
-aliases: ["Fire & Forgive"]
+aliases:
+  - Fire & Forgive
 created: 2024-10-30 19:15:02
 source: ""
-tags: []
 ---
 
 # Powerwolf - Fire & Forgive

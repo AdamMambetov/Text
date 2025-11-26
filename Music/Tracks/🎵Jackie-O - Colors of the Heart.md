@@ -1,14 +1,13 @@
 ---
 created: 2023-11-11 11:49:54
-aliases: ["Colors of the Heart"]
+aliases:
+  - Colors of the Heart
 Cover: ""
 Year: 2020
-tags: []
 Album: "[[📼Colors of the Heart]]"
 Creators:
   - "[[@Jackie-O]]"
 NumberInAlbum: 1
-Name: Colors of the Heart
 source: ""
 SourceFile: "[[Jackie-O - Colors of the Heart.mp3]]"
 ---

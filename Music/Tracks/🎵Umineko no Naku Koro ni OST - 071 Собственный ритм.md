@@ -4,13 +4,12 @@ Creators:
   - "[[@xaki]]"
 Cover: ""
 NumberInAlbum: 71
-Name: Собственный ритм
 SourceFile: "[[Umineko no Naku Koro ni OST - 071 Собственный ритм.ogg]]"
 Year: 2007
-aliases: ["Собственный ритм"]
+aliases:
+  - Собственный ритм
 created: 2024-08-03 20:22:20
 source: ""
-tags: []
 ---
 
 # Umineko no Naku Koro ni OST - 071 Собственный ритм

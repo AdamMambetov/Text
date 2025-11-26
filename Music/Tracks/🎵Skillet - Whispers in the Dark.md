@@ -4,13 +4,12 @@ Creators:
   - "[[@Skillet]]"
 Cover: ""
 NumberInAlbum: 10
-Name: Whispers in the Dark
 SourceFile: "[[Skillet - Whispers in the Dark.mp3]]"
 Year: 2006
-aliases: ["Whispers in the Dark"]
+aliases:
+  - Whispers in the Dark
 created: 2024-06-21 05:19:46
 source: ""
-tags: []
 ---
 
 # Skillet - Whispers in the Dark

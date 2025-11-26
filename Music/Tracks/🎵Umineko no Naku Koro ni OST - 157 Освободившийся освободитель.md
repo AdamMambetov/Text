@@ -4,13 +4,12 @@ Creators:
   - "[[@zts]]"
 Cover: ""
 NumberInAlbum: 157
-Name: Освободившийся освободитель
 SourceFile: "[[Umineko no Naku Koro ni OST - 157 Освободившийся освободитель.ogg]]"
 Year: 2007
-aliases: ["Освободившийся освободитель"]
+aliases:
+  - Освободившийся освободитель
 created: 2024-08-04 18:37:50
 source: ""
-tags: []
 ---
 
 # Umineko no Naku Koro ni OST - 157 Освободившийся освободитель

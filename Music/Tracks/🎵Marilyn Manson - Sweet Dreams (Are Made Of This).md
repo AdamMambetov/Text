@@ -4,13 +4,12 @@ Creators:
   - "[[@Marilyn Manson]]"
 Cover: ""
 NumberInAlbum: 6
-Name: Sweet Dreams (Are Made Of This)
 SourceFile: "[[Marilyn Manson - Sweet Dreams (Are Made Of This).mp3]]"
 Year: 1995
-aliases: ["Sweet Dreams (Are Made Of This)"]
+aliases:
+  - Sweet Dreams (Are Made Of This)
 created: 2024-06-21 05:19:40
 source: ""
-tags: []
 ---
 
 # Marilyn Manson - Sweet Dreams (Are Made Of This)

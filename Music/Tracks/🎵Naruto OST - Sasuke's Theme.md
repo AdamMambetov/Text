@@ -4,13 +4,12 @@ Creators:
   - "[[@Toshio Masuda]]"
 Cover: ""
 NumberInAlbum: 4
-Name: Sasuke's Theme
 SourceFile: "[[Naruto OST - Sasuke's Theme.mp3]]"
 Year: 2004
-aliases: ["Sasuke's Theme"]
+aliases:
+  - Sasuke's Theme
 created: 2022-04-28 17:50:24
 source: ""
-tags: []
 ---
 
 # Naruto OST - Sasuke's Theme

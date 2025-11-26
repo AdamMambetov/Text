@@ -4,13 +4,12 @@ Creators:
   - "[[@Spiderbait]]"
 Cover: ""
 NumberInAlbum: 46
-Name: Black Betty
 SourceFile: "[[Spiderbait - Black Betty.mp3]]"
 Year: 2004
-aliases: ["Black Betty"]
+aliases:
+  - Black Betty
 created: 2024-10-10 23:01:34
 source: ""
-tags: []
 ---
 
 # Spiderbait - Black Betty

@@ -1,6 +1,9 @@
 ---
 created: 2025-06-30T19:48:06+03:00
-aliases: ["соЛГАТники", "aLIEz", "солгатники"]
+aliases:
+  - соЛГАТники
+  - aLIEz
+  - солгатники
 CoverOf: "[[🎵SawanoHiroyuki[nZk] mizuki - aLIEz]]"
 Creators:
   - "[[@Radiant Records]]"

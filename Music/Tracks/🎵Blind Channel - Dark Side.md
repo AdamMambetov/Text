@@ -4,13 +4,12 @@ Creators:
   - "[[@Blind Channel]]"
 Cover: ""
 NumberInAlbum: 1
-Name: Dark Side
 SourceFile: "[[Blind Channel - Dark Side.mp3]]"
 Year: 2021
-aliases: ["Dark Side"]
+aliases:
+  - Dark Side
 created: 2024-06-21 05:20:30
 source: ""
-tags: []
 ---
 
 # Blind Channel - Dark Side

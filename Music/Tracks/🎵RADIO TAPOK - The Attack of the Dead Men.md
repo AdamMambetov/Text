@@ -4,13 +4,12 @@ Creators:
   - "[[@RADIO TAPOK]]"
 Cover: ""
 NumberInAlbum: 1
-Name: Атака мертвецов
 SourceFile: "[[RADIO TAPOK - The Attack of the Dead Men.mp3]]"
 Year: 2019
-aliases: ["Атака мертвецов"]
+aliases:
+  - Атака мертвецов
 created: 2022-04-26 01:27:20
 source: ""
-tags: []
 ---
 
 # RADIO TAPOK - The Attack of the Dead Men

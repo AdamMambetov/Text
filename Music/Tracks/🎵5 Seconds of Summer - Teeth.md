@@ -1,6 +1,7 @@
 ---
 created: 2024-06-21 05:20:24
-aliases: ["Teeth"]
+aliases:
+  - Teeth
 Cover: ""
 Year: 2019
 Album: "[[📼13 Reasons Why (Season 3)]]"

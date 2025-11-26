@@ -4,13 +4,12 @@ Creators:
   - "[[@Edwin Starr]]"
 Cover: ""
 NumberInAlbum: 1
-Name: War
 SourceFile: "[[Edwin Starr - War.mp3]]"
 Year: 1970
-aliases: ["War"]
+aliases:
+  - War
 created: 2024-01-08 13:45:28
 source: ""
-tags: []
 ---
 
 # Edwin Starr - War

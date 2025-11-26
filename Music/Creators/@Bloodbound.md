@@ -1,6 +1,7 @@
 ---
 created: 2025-11-19T22:45:38+03:00
-aliases: ["Bloodbound"]
+aliases:
+  - Bloodbound
 ListenInSec: 0
 ---
 

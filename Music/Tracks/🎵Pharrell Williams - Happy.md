@@ -4,13 +4,12 @@ Creators:
   - "[[@Pharrell Williams]]"
 Cover: ""
 NumberInAlbum: 5
-Name: Happy
 SourceFile: "[[Pharrell Williams - Happy.mp3]]"
 Year: 2014
-aliases: ["Happy"]
+aliases:
+  - Happy
 created: 2022-04-22 21:19:50
 source: ""
-tags: []
 ---
 
 # Pharrell Williams - Happy

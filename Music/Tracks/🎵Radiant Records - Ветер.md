@@ -1,7 +1,8 @@
 ---
 created: 2024-06-21 05:20:04
-aliases: ["Ветер", "Wind"]
-tags:
+aliases:
+  - Ветер
+  - Wind
 CoverOf: "[[🎵Akeboshi - Wind]]"
 Creators:
   - "[[@Radiant Records]]"

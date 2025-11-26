@@ -4,13 +4,12 @@ Creators:
   - "[[@Fever Dreamer]]"
 Cover: ""
 NumberInAlbum: 6
-Name: Leave My Body
 SourceFile: "[[Fever Dreamer - Leave My Body.mp3]]"
 Year: 2014
-aliases: ["Leave My Body"]
+aliases:
+  - Leave My Body
 created: 2022-04-22 20:45:16
 source: ""
-tags: []
 ---
 
 # Fever Dreamer - Leave My Body

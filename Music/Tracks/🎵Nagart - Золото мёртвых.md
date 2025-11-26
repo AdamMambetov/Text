@@ -4,13 +4,12 @@ Creators:
   - "[[@Nagart]]"
 Cover: ""
 NumberInAlbum: 1
-Name: Золото мёртвых
 SourceFile: "[[Nagart - Золото мёртвых.mp3]]"
 Year: 2021
-aliases: ["Золото мёртвых"]
+aliases:
+  - Золото мёртвых
 created: 2022-12-09 06:55:04
 source: ""
-tags: []
 ---
 
 # Nagart - Золото мёртвых

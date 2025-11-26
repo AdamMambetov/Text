@@ -4,13 +4,12 @@ Creators:
   - "[[@Three Days Grace]]"
 Cover: ""
 NumberInAlbum: 10
-Name: Time of Dying
 SourceFile: "[[Three Days Grace - Time of Dying.mp3]]"
 Year: 2006
-aliases: ["Time of Dying"]
+aliases:
+  - Time of Dying
 created: 2022-04-22 21:47:50
 source: ""
-tags: []
 ---
 
 # Three Days Grace - Time of Dying

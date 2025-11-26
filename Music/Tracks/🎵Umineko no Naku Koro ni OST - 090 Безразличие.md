@@ -4,13 +4,12 @@ Creators:
   - "[[@zts]]"
 Cover: ""
 NumberInAlbum: 90
-Name: Безразличие
 SourceFile: "[[Umineko no Naku Koro ni OST - 090 Безразличие.ogg]]"
 Year: 2007
-aliases: ["Безразличие"]
+aliases:
+  - Безразличие
 created: 2024-08-03 20:55:12
 source: ""
-tags: []
 ---
 
 # Umineko no Naku Koro ni OST - 090 Безразличие

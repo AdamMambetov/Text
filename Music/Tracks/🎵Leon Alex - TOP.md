@@ -1,16 +1,16 @@
 ---
-Album: '[[📼TOP (From "Tower of God Opening") [2020] {Leon Alex}]]'
+Album: "[[📼TOP]]"
 Creators:
   - "[[@Leon Alex]]"
 Cover: ""
 NumberInAlbum: 1
-Name: TOP (From "Tower of God Opening")
 SourceFile: "[[Leon Alex - TOP.mp3]]"
 Year: 2020
-aliases: ["TOP (From "Tower of God Opening")"]
+aliases:
+  - TOP
+  - Tower of God Opening 1
 created: 2022-04-22 21:03:26
 source: ""
-tags: []
 ---
 
 # Leon Alex - TOP

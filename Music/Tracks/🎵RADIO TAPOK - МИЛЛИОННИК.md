@@ -4,13 +4,12 @@ Creators:
   - "[[@Radio Tapok]]"
 Cover: ""
 NumberInAlbum: 1
-Name: Миллионник (Когда стану совсем...)
 SourceFile: "[[RADIO TAPOK - МИЛЛИОННИК.mp3]]"
 Year: 2019
-aliases: ["Миллионник (Когда стану совсем...)"]
+aliases:
+  - Миллионник (Когда стану совсем...)
 created: 2022-04-28 01:59:46
 source: ""
-tags: []
 ---
 
 # RADIO TAPOK - МИЛЛИОННИК

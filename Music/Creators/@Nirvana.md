@@ -1,6 +1,7 @@
 ---
 created: 2025-11-19T23:57:02+03:00
-aliases: ["Nirvana"]
+aliases:
+  - Nirvana
 ListenInSec: 0
 ---
 

@@ -4,13 +4,12 @@ Creators:
   - "[[@Thousand Foot Krutch]]"
 Cover: ""
 NumberInAlbum: 13
-Name: Fly on the Wall
 SourceFile: "[[Thousand Foot Krutch - Fly on the Wall.mp3]]"
 Year: 2012
-aliases: ["Fly on the Wall"]
+aliases:
+  - Fly on the Wall
 created: 2024-10-30 19:19:24
 source: ""
-tags: []
 ---
 
 # Thousand Foot Krutch - Fly on the Wall

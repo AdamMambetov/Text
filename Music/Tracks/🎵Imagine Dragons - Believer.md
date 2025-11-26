@@ -4,13 +4,12 @@ Creators:
   - "[[@Imagine Dragons]]"
 Cover: ""
 NumberInAlbum: 4
-Name: Believer
 SourceFile: "[[Imagine Dragons - Believer.mp3]]"
 Year: 2017
-aliases: ["Believer"]
+aliases:
+  - Believer
 created: 2024-10-10 22:56:30
 source: ""
-tags: []
 ---
 
 # Imagine Dragons - Believer

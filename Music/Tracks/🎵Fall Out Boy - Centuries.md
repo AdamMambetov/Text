@@ -4,13 +4,12 @@ Creators:
   - "[[@Fall Out Boy]]"
 Cover: ""
 NumberInAlbum: 1
-Name: Centuries
 SourceFile: "[[Fall Out Boy - Centuries.mp3]]"
 Year: 2014
-aliases: ["Centuries"]
+aliases:
+  - Centuries
 created: 2024-10-13 22:48:52
 source: ""
-tags: []
 ---
 
 # Fall Out Boy - Centuries

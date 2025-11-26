@@ -4,13 +4,12 @@ Creators:
   - "[[@Rufus Wainwright]]"
 Cover: ""
 NumberInAlbum: 10
-Name: Hallelujah
 SourceFile: "[[Rufus Wainwright - Hallelujah.mp3]]"
 Year: 2001
-aliases: ["Hallelujah"]
+aliases:
+  - Hallelujah
 created: 2022-04-23 02:37:28
 source: ""
-tags: []
 ---
 
 # Rufus Wainwright - Hallelujah

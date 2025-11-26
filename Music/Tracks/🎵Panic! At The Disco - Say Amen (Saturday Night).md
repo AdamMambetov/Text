@@ -4,13 +4,12 @@ Creators:
   - "[[@Panic! At The Disco]]"
 Cover: ""
 NumberInAlbum: 2
-Name: Say Amen (Saturday Night)
 SourceFile: "[[Panic! At The Disco - Say Amen (Saturday Night).mp3]]"
 Year: 2018
-aliases: ["Say Amen (Saturday Night)"]
+aliases:
+  - Say Amen (Saturday Night)
 created: 2022-04-22 21:19:12
 source: ""
-tags: []
 ---
 
 # Panic! At The Disco - Say Amen (Saturday Night)

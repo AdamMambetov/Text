@@ -1,7 +1,7 @@
 ---
 created: 2025-01-27 16:03:52
-aliases: ["Believer"]
-tags:
+aliases:
+  - Believer
 Creators:
   - "[[@3 Doors Down]]"
 ListenInSec: 0

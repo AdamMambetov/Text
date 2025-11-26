@@ -4,13 +4,12 @@ Creators:
   - "[[@Powerwolf]]"
 Cover: ""
 NumberInAlbum: 0
-Name: Nighttime Rebel
 SourceFile: "[[Powerwolf - Nighttime Rebel.mp3]]"
 Year: 0
-aliases: ["Nighttime Rebel"]
+aliases:
+  - Nighttime Rebel
 created: 2022-04-21 01:53:02
 source: ""
-tags: []
 ---
 
 # Powerwolf - Nighttime Rebel

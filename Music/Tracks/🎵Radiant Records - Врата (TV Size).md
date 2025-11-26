@@ -1,7 +1,7 @@
 ---
 created: 2024-06-21 05:19:54
-aliases: ["Врата (TV Size)"]
-tags:
+aliases:
+  - Врата (TV Size)
 Creators:
   - "[[@Radiant Records]]"
 FullVersion: "[[🎵Radiant Records - Врата]]"

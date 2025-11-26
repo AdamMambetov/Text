@@ -4,13 +4,12 @@ Creators:
   - "[[@Fall Out Boy]]"
 Cover: ""
 NumberInAlbum: 2
-Name: My Songs Know What You Did In The Dark (Light Em Up)
 SourceFile: "[[Fall Out Boy - My Songs Know What You Did In The Dark (Light Em Up).mp3]]"
 Year: 2013
-aliases: ["My Songs Know What You Did In The Dark (Light Em Up)"]
+aliases:
+  - My Songs Know What You Did In The Dark (Light Em Up)
 created: 2022-04-26 19:55:28
 source: ""
-tags: []
 ---
 
 # Fall Out Boy - My Songs Know What You Did In The Dark (Light Em Up)

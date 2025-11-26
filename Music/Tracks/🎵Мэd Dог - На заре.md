@@ -4,13 +4,12 @@ Creators:
   - "[[@Мэd Dог]]"
 Cover: ""
 NumberInAlbum: 1
-Name: На заре
 SourceFile: "[[Мэd Dог - На заре.mp3]]"
 Year: 2001
-aliases: ["На заре"]
+aliases:
+  - На заре
 created: 2022-04-21 04:18:36
 source: ""
-tags: []
 ---
 
 # Мэd Dог - На заре

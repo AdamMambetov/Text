@@ -4,13 +4,12 @@ Creators:
   - "[[@Imagine Dragons]]"
 Cover: ""
 NumberInAlbum: 14
-Name: My Fault
 SourceFile: "[[Imagine Dragons - My Fault.mp3]]"
 Year: 2013
-aliases: ["My Fault"]
+aliases:
+  - My Fault
 created: 2022-04-22 20:55:14
 source: ""
-tags: []
 ---
 
 # Imagine Dragons - My Fault

@@ -4,13 +4,12 @@ Creators:
   - "[[@Set It Off]]"
 Cover: ""
 NumberInAlbum: 4
-Name: Why Worry
 SourceFile: "[[Set It Off - Why Worry.mp3]]"
 Year: 2015
-aliases: ["Why Worry"]
+aliases:
+  - Why Worry
 created: 2022-04-22 21:33:26
 source: ""
-tags: []
 ---
 
 # Set It Off - Why Worry

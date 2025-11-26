@@ -1,7 +1,8 @@
 ---
 created: 2025-06-30T19:41:05+03:00
-aliases: ["Бесстрашие", "Bravely You"]
-tags:
+aliases:
+  - Бесстрашие
+  - Bravely You
 CoverOf: "[[🎵Lia - Bravely You]]"
 Creators:
   - "[[@Camellia]]"

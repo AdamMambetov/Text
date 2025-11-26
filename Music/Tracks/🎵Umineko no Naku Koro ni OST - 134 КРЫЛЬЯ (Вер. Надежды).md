@@ -1,6 +1,7 @@
 ---
 created: 2024-08-04 18:26:40
-aliases: ["КРЫЛЬЯ (Вер. Надежды)"]
+aliases:
+  - КРЫЛЬЯ (Вер. Надежды)
 Cover: ""
 Year: 2007
 Album: "[[📼Umineko no Naku Koro ni OST]]"
@@ -11,7 +12,6 @@ Creators:
   - "[[@E. Kida]]"
   - "[[@Katakiri Rekka]]"
 NumberInAlbum: 134
-Name: КРЫЛЬЯ (Вер. Надежды)
 source: ""
 SourceFile: "[[Umineko no Naku Koro ni OST - 134 КРЫЛЬЯ (Вер. Надежды).ogg]]"
 ---

@@ -1,7 +1,8 @@
 ---
 created: 2025-06-30T08:16:27+03:00
-aliases: ["Осколки", "Omoide Kakera"]
-tags:
+aliases:
+  - Осколки
+  - Omoide Kakera
 CoverOf: "[[🎵DevilishP - Omoide Kakera]]"
 Creators:
   - "[[@Radiant Records]]"

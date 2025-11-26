@@ -1,7 +1,8 @@
 ---
 created: 2025-06-30T20:15:08+03:00
-aliases: ["Ты принёс мечту", "Kimi Ga Yume Wo Tsuretekita"]
-tags:
+aliases:
+  - Ты принёс мечту
+  - Kimi Ga Yume Wo Tsuretekita
 CoverOf: "[[🎵Pet Na Kanojoutachi - Kimi Ga Yume Wo Tsuretekita]]"
 Creators:
   - "[[@Radiant Records]]"

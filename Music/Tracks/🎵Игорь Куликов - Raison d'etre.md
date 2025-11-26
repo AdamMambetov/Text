@@ -4,13 +4,12 @@ Creators:
   - "[[@Игорь Куликов]]"
 Cover: ""
 NumberInAlbum: 1
-Name: Raison d'etre
 SourceFile: "[[Игорь Куликов - Raison d'etre.mp3]]"
 Year: 2022
-aliases: ["Raison d'etre"]
+aliases:
+  - Raison d'etre
 created: 2024-10-23 15:25:48
 source: ""
-tags: []
 ---
 
 # Игорь Куликов - Raison d'etre

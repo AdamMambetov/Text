@@ -4,13 +4,12 @@ Creators:
   - "[[@OK Go]]"
 Cover: ""
 NumberInAlbum: 9
-Name: Here It Goes Again
 SourceFile: "[[OK Go - Here It Goes Again.mp3]]"
 Year: 2006
-aliases: ["Here It Goes Again"]
+aliases:
+  - Here It Goes Again
 created: 2022-04-22 21:17:00
 source: ""
-tags: []
 ---
 
 # OK Go - Here It Goes Again

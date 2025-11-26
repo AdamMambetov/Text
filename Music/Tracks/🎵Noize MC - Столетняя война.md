@@ -4,13 +4,12 @@ Creators:
   - "[[@Noize MC]]"
 Cover: ""
 NumberInAlbum: 16
-Name: Столетняя война
 SourceFile: "[[Noize MC - Столетняя война.mp3]]"
 Year: 2021
-aliases: ["Столетняя война"]
+aliases:
+  - Столетняя война
 created: 2022-04-22 21:15:10
 source: ""
-tags: []
 ---
 
 # Noize MC - Столетняя война

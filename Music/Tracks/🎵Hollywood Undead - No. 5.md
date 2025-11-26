@@ -4,13 +4,12 @@ Creators:
   - "[[@Hollywood Undead]]"
 Cover: ""
 NumberInAlbum: 5
-Name: No. 5
 SourceFile: "[[Hollywood Undead - No. 5.mp3]]"
 Year: 2008
-aliases: ["No. 5"]
+aliases:
+  - No. 5
 created: 2022-04-22 20:51:40
 source: ""
-tags: []
 ---
 
 # Hollywood Undead - No. 5

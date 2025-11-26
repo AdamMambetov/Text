@@ -4,13 +4,12 @@ Creators:
   - "[[@Luck Ganriki]]"
 Cover: ""
 NumberInAlbum: 95
-Name: 599 миллионов крахов
 SourceFile: "[[Umineko no Naku Koro ni OST - 095 599 миллионов крахов.ogg]]"
 Year: 2007
-aliases: ["599 миллионов крахов"]
+aliases:
+  - 599 миллионов крахов
 created: 2024-08-03 20:56:10
 source: ""
-tags: []
 ---
 
 # Umineko no Naku Koro ni OST - 095 599 миллионов крахов

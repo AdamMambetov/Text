@@ -1,16 +1,15 @@
 ---
-Album: '[[📼Silhouette (From "Naruto Shippuuden")]]'
+Album: "[[📼Silhouette]]"
 Creators:
   - "[[@Jackie-O]]"
 Cover: ""
 NumberInAlbum: 1
-Name: Silhouette (From "Naruto Shippuuden")
 SourceFile: "[[Jackie-O - Silhouette.mp3]]"
 Year: 2019
-aliases: ["Silhouette (From "Naruto Shippuuden")"]
+aliases:
+  - Silhouette
 created: 2024-10-05 15:36:16
 source: ""
-tags: []
 ---
 
 # Jackie-O - Silhouette

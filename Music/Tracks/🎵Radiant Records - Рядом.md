@@ -1,7 +1,8 @@
 ---
 created: 2024-06-21 05:19:54
-aliases: ["Рядом", "Closer"]
-tags:
+aliases:
+  - Рядом
+  - Closer
 CoverOf: "[[🎵Inoue Joe - Closer]]"
 Creators:
   - "[[@Radiant Records]]"

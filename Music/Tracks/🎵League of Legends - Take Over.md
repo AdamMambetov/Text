@@ -7,13 +7,12 @@ Creators:
   - "[[@Henry]]"
 Cover: ""
 NumberInAlbum: 1
-Name: Take Over
 SourceFile: "[[League of Legends - Take Over.mp3]]"
 Year: 2020
-aliases: ["Take Over"]
+aliases:
+  - Take Over
 created: 2022-06-15 22:12:38
 source: ""
-tags: []
 ---
 
 # League of Legends - Take Over

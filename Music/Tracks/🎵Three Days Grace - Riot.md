@@ -4,13 +4,12 @@ Creators:
   - "[[@Three Days Grace]]"
 Cover: ""
 NumberInAlbum: 6
-Name: Riot
 SourceFile: "[[Three Days Grace - Riot.mp3]]"
 Year: 2006
-aliases: ["Riot"]
+aliases:
+  - Riot
 created: 2022-04-22 21:47:42
 source: ""
-tags: []
 ---
 
 # Three Days Grace - Riot

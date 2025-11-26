@@ -1,14 +1,13 @@
 ---
 created: 2024-10-08 15:44:48
-aliases: ["Alien Alien (Nhato Remix)"]
+aliases:
+  - Alien Alien (Nhato Remix)
 Cover: ""
 Year: 2016
-tags: []
 Album: "[[📼Exit Tunes Presents Entrance Dream Music 3]]"
 Creators:
   - "[[@Nayutan Seijin]]"
 NumberInAlbum: 1
-Name: Alien Alien (Nhato Remix)
 source: ""
 SourceFile: "[[NayutalieN - Alien Alien (Nhato Remix).mp3]]"
 ---

@@ -4,13 +4,12 @@ Creators:
   - "[[@Youssoupha]]"
 Cover: ""
 NumberInAlbum: 2
-Name: I Know
 SourceFile: "[[Youssoupha - I Know.mp3]]"
 Year: 2011
-aliases: ["I Know"]
+aliases:
+  - I Know
 created: 2022-04-28 16:51:42
 source: ""
-tags: []
 ---
 
 # Youssoupha - I Know

@@ -1,7 +1,6 @@
 ---
 created: 2024-07-24T19:24:37+03:00
 Year: 2007
-Name: Umineko no Naku Koro ni OST
 related:
   - "[[🎮Когда Плачут Чайки (игра)]]"
 tracklist:
@@ -205,7 +204,8 @@ tracklist:
   - Откровение
   - "[[🎵Umineko no Naku Koro ni OST - 240 Кокон чистых снов -Ricordando il passato-]]"
   - "[[🎵Umineko no Naku Koro ni OST - 241 Когда плачут чайки]]"
-aliases: []
+aliases:
+  - Umineko no Naku Koro ni OST
 ---
 
 # Umineko no Naku Koro ni OST

@@ -1,7 +1,8 @@
 ---
 created: 2023-07-09 17:57:12
-aliases: ["Ориентир", "Tsukiakari No Michishirube"]
-tags:
+aliases:
+  - Ориентир
+  - Tsukiakari No Michishirube
 CoverOf: "[[🎵Stereopony - Tsukiakari No Michishirube]]"
 Creators:
   - "[[@Radiant Records]]"

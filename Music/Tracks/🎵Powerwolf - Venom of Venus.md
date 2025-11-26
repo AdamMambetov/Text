@@ -4,13 +4,12 @@ Creators:
   - "[[@Powerwolf]]"
 Cover: ""
 NumberInAlbum: 9
-Name: Venom of Venus
 SourceFile: "[[Powerwolf - Venom of Venus.mp3]]"
 Year: 2018
-aliases: ["Venom of Venus"]
+aliases:
+  - Venom of Venus
 created: 2022-04-22 21:22:58
 source: ""
-tags: []
 ---
 
 # Powerwolf - Venom of Venus

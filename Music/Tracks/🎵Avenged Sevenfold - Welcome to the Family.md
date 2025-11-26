@@ -4,13 +4,12 @@ Creators:
   - "[[@Avenged Sevenfold]]"
 Cover: ""
 NumberInAlbum: 2
-Name: Welcome to the Family
 SourceFile: "[[Avenged Sevenfold - Welcome to the Family.mp3]]"
 Year: 2010
-aliases: ["Welcome to the Family"]
+aliases:
+  - Welcome to the Family
 created: 2024-06-21 05:19:50
 source: ""
-tags: []
 ---
 
 # Avenged Sevenfold - Welcome to the Family

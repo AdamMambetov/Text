@@ -4,13 +4,12 @@ Creators:
   - "[[@dai]]"
 Cover: ""
 NumberInAlbum: 3
-Name: АЙДА!
 SourceFile: "[[Umineko no Naku Koro ni OST - 003 АЙДА!.ogg]]"
 Year: 2007
-aliases: ["АЙДА!"]
+aliases:
+  - АЙДА!
 created: 2024-08-03 19:33:50
 source: ""
-tags: []
 ---
 
 # Umineko no Naku Koro ni OST - 003 АЙДА!

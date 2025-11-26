@@ -4,13 +4,12 @@ Creators:
   - "[[@xaki]]"
 Cover: ""
 NumberInAlbum: 169
-Name: Продолжение сказки
 SourceFile: "[[Umineko no Naku Koro ni OST - 169 Продолжение сказки.ogg]]"
 Year: 2007
-aliases: ["Продолжение сказки"]
+aliases:
+  - Продолжение сказки
 created: 2024-08-04 18:43:42
 source: ""
-tags: []
 ---
 
 # Umineko no Naku Koro ni OST - 169 Продолжение сказки

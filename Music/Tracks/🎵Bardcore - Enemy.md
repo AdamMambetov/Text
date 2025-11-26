@@ -4,13 +4,12 @@ Creators:
   - "[[@Bardcore]]"
 Cover: ""
 NumberInAlbum: 1
-Name: Enemy
 SourceFile: "[[Bardcore - Enemy.m4a]]"
 Year: 2022
-aliases: ["Enemy"]
+aliases:
+  - Enemy
 created: 2023-09-30 14:37:32
 source: ""
-tags: []
 ---
 
 # Bardcore - Enemy

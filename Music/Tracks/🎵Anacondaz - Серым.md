@@ -4,13 +4,12 @@ Creators:
   - "[[@Anacondaz]]"
 Cover: ""
 NumberInAlbum: 2
-Name: Серым
 SourceFile: "[[Anacondaz - Серым.mp3]]"
 Year: 2022
-aliases: ["Серым"]
+aliases:
+  - Серым
 created: 2024-06-21 05:20:34
 source: ""
-tags: []
 ---
 
 # Anacondaz - Серым

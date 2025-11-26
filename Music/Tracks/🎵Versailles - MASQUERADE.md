@@ -4,13 +4,12 @@ Creators:
   - "[[@Versailles]]"
 Cover: ""
 NumberInAlbum: 10
-Name: MASQUERADE
 SourceFile: "[[Versailles - MASQUERADE.mp3]]"
 Year: 2016
-aliases: ["MASQUERADE"]
+aliases:
+  - MASQUERADE
 created: 2024-10-05 14:17:26
 source: ""
-tags: []
 ---
 
 # Versailles - MASQUERADE

@@ -4,13 +4,12 @@ Creators:
   - "[[@Сметана Band]]"
 Cover: ""
 NumberInAlbum: 8
-Name: Воха и Лёха
 SourceFile: "[[Сметана band - Воха и Лёха.mp3]]"
 Year: 2017
-aliases: ["Воха и Лёха"]
+aliases:
+  - Воха и Лёха
 created: 2024-06-21 05:20:20
 source: ""
-tags: []
 ---
 
 # Сметана band - Воха и Лёха

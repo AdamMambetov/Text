@@ -4,13 +4,12 @@ Creators:
   - "[[@Lyre le temps]]"
 Cover: ""
 NumberInAlbum: 1
-Name: Looking Like This
 SourceFile: "[[Lyre le temps - Looking Like This.mp3]]"
 Year: 2013
-aliases: ["Looking Like This"]
+aliases:
+  - Looking Like This
 created: 2022-04-22 21:06:42
 source: ""
-tags: []
 ---
 
 # Lyre le temps - Looking Like This

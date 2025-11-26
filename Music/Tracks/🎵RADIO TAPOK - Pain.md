@@ -4,13 +4,12 @@ Creators:
   - "[[@RADIO TAPOK]]"
 Cover: ""
 NumberInAlbum: 0
-Name: Боль
 SourceFile: "[[RADIO TAPOK - Pain.mp3]]"
 Year: 0
-aliases: ["Боль"]
+aliases:
+  - Боль
 created: 2022-04-21 03:46:34
 source: ""
-tags: []
 ---
 
 # RADIO TAPOK - Pain

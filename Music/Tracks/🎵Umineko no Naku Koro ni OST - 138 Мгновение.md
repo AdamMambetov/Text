@@ -4,13 +4,12 @@ Creators:
   - "[[@pre-holder]]"
 Cover: ""
 NumberInAlbum: 138
-Name: Мгновение
 SourceFile: "[[Umineko no Naku Koro ni OST - 138 Мгновение.ogg]]"
 Year: 2007
-aliases: ["Мгновение"]
+aliases:
+  - Мгновение
 created: 2024-08-04 18:30:10
 source: ""
-tags: []
 ---
 
 # Umineko no Naku Koro ni OST - 138 Мгновение

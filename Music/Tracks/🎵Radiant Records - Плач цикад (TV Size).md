@@ -1,7 +1,7 @@
 ---
 created: 2025-01-08 01:01:12
-aliases: ["Плач цикад (TV Size)"]
-tags:
+aliases:
+  - Плач цикад (TV Size)
 Creators:
   - "[[@Radiant Records]]"
 FullVersion: "[[🎵Radiant Records - Плач цикад]]"

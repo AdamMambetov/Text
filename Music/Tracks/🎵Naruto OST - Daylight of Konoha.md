@@ -4,13 +4,12 @@ Creators:
   - "[[@Musashi Project]]"
 Cover: ""
 NumberInAlbum: 1
-Name: Daylight of Konoha
 SourceFile: "[[Naruto OST - Daylight of Konoha.mp3]]"
 Year: 2004
-aliases: ["Daylight of Konoha"]
+aliases:
+  - Daylight of Konoha
 created: 2022-04-28 17:50:18
 source: ""
-tags: []
 ---
 
 # Naruto OST - Daylight of Konoha

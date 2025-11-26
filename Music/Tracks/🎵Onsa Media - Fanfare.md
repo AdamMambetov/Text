@@ -4,13 +4,12 @@ Creators:
   - "[[@Onsa Media]]"
 Cover: ""
 NumberInAlbum: 1
-Name: Fanfare
 SourceFile: "[[Onsa Media - Fanfare.mp3]]"
 Year: 2021
-aliases: ["Fanfare"]
+aliases:
+  - Fanfare
 created: 2022-04-28 01:58:32
 source: ""
-tags: []
 ---
 
 # Onsa Media - Fanfare

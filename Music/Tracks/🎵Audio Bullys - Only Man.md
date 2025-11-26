@@ -1,14 +1,13 @@
 ---
 created: 2024-06-21 05:19:50
-aliases: ["Only Man"]
+aliases:
+  - Only Man
 Cover: ""
 Year: 2010
-tags: []
 Album: "[[📼Higher Than the Eiffel]]"
 Creators:
   - "[[@Audio Bullys]]"
 NumberInAlbum: 2
-Name: Only Man
 source: ""
 SourceFile: "[[Audio Bullys - Only Man.mp3]]"
 ---

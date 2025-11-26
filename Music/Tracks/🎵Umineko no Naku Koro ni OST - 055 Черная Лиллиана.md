@@ -4,13 +4,12 @@ Creators:
   - "[[@U2 Akiyama]]"
 Cover: ""
 NumberInAlbum: 55
-Name: Чёрная Лиллиана
 SourceFile: "[[Umineko no Naku Koro ni OST - 055 Черная Лиллиана.ogg]]"
 Year: 2007
-aliases: ["Чёрная Лиллиана"]
+aliases:
+  - Чёрная Лиллиана
 created: 2024-08-03 19:40:24
 source: ""
-tags: []
 ---
 
 # Umineko no Naku Koro ni OST - 055 Черная Лиллиана

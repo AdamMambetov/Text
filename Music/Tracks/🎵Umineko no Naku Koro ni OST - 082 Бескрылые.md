@@ -4,13 +4,12 @@ Creators:
   - "[[@zts]]"
 Cover: ""
 NumberInAlbum: 82
-Name: Бескрылые
 SourceFile: "[[Umineko no Naku Koro ni OST - 082 Бескрылые.ogg]]"
 Year: 2007
-aliases: ["Бескрылые"]
+aliases:
+  - Бескрылые
 created: 2024-08-03 20:27:18
 source: ""
-tags: []
 ---
 
 # Umineko no Naku Koro ni OST - 082 Бескрылые

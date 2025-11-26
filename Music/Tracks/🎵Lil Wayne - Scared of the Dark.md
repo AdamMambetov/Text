@@ -1,10 +1,9 @@
 ---
 created: 2022-04-28 15:00:52
-Name: Scared of the Dark (ft. Ty Dolla $ign; XXXTentacion)
-aliases: ["Scared of the Dark (ft. Ty Dolla $ign; XXXTentacion)"]
+aliases:
+  - Scared of the Dark (ft. Ty Dolla $ign; XXXTentacion)
 Cover: ""
 Year: 2018
-tags: []
 Album: "[[📼Spider-Man Into the Spider-Verse]]"
 Creators:
   - "[[@Lil Wayne]]"

@@ -4,13 +4,12 @@ Creators:
   - "[[@Plamenev]]"
 Cover: ""
 NumberInAlbum: 2
-Name: Геймер
 SourceFile: "[[Plamenev - Геймер.mp3]]"
 Year: 2021
-aliases: ["Геймер"]
+aliases:
+  - Геймер
 created: 2022-12-20 23:20:50
 source: ""
-tags: []
 ---
 
 # Plamenev - Геймер

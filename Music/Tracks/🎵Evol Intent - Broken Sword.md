@@ -4,13 +4,12 @@ Creators:
   - "[[@Evol Intent + Mayhem + Thinktank]]"
 Cover: ""
 NumberInAlbum: 10
-Name: Broken Sword
 SourceFile: "[[Evol Intent - Broken Sword.mp3]]"
 Year: 2006
-aliases: ["Broken Sword"]
+aliases:
+  - Broken Sword
 created: 2023-09-30 15:56:34
 source: ""
-tags: []
 ---
 
 # Evol Intent - Broken Sword

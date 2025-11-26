@@ -4,13 +4,12 @@ Creators:
   - "[[@My Chemical Romance]]"
 Cover: ""
 NumberInAlbum: 11
-Name: Teenagers
 SourceFile: "[[My Chemical Romance - Teenagers.mp3]]"
 Year: 2016
-aliases: ["Teenagers"]
+aliases:
+  - Teenagers
 created: 2022-04-22 21:11:42
 source: ""
-tags: []
 ---
 
 # My Chemical Romance - Teenagers

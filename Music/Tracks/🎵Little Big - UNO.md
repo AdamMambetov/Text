@@ -4,13 +4,12 @@ Creators:
   - "[[@Little Big]]"
 Cover: ""
 NumberInAlbum: 1
-Name: UNO
 SourceFile: "[[Little Big - UNO.mp3]]"
 Year: 2020
-aliases: ["UNO"]
+aliases:
+  - UNO
 created: 2022-04-23 02:23:22
 source: ""
-tags: []
 ---
 
 # Little Big - UNO

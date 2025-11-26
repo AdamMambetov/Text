@@ -1,7 +1,8 @@
 ---
 created: 2024-10-23 14:15:00
-aliases: ["Алая доля", "Red Fraction"]
-tags:
+aliases:
+  - Алая доля
+  - Red Fraction
 CoverOf: "[[🎵MELL - Red Fraction]]"
 Creators:
   - "[[@Radiant Records]]"

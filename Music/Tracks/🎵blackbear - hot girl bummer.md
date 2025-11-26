@@ -1,14 +1,13 @@
 ---
 created: 2024-06-21 05:20:26
-aliases: ["hot girl bummer"]
+aliases:
+  - hot girl bummer
 Cover: ""
 Year: 2020
-tags: []
 Album: "[[📼everything means nothing]]"
 Creators:
   - "[[@blackbear]]"
 NumberInAlbum: 1
-Name: hot girl bummer
 source: ""
 SourceFile: "[[blackbear - hot girl bummer.mp3]]"
 ---
