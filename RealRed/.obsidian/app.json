@@ -1,0 +1,15 @@
+{
+  "defaultViewMode": "source",
+  "livePreview": true,
+  "showInlineTitle": false,
+  "attachmentFolderPath": "files",
+  "readableLineLength": false,
+  "spellcheck": false,
+  "showUnsupportedFiles": true,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

@@ -1,0 +1,379 @@
+{
+  "main": {
+    "id": "542658e63b18994c",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc793c9dfdb1cd46",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4f56502516a2454",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "periodic/2025-11-05.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-11-05"
+            }
+          },
+          {
+            "id": "7184502752af879f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "periodic/2025-11-06.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-11-06"
+            }
+          },
+          {
+            "id": "31a62453fe4e3dfa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "periodic/2025-11-07.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-11-07"
+            }
+          },
+          {
+            "id": "c8cbd23235829bf1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "periodic/2025-11-10.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-11-10"
+            }
+          },
+          {
+            "id": "4da9ea8bb838bcdd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "periodic/2025-11-11.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-11-11"
+            }
+          },
+          {
+            "id": "d4548ea3637ee45c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "periodic/2025-11-14.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-11-14"
+            }
+          },
+          {
+            "id": "fcb787fb72648491",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "periodic/2025-11-17.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-11-17"
+            }
+          },
+          {
+            "id": "5241cee6d3ea1f31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "periodic/2025-11-18.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-11-18"
+            }
+          },
+          {
+            "id": "3cc2751473a4c0df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "periodic/2025-11-26.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-11-26"
+            }
+          }
+        ],
+        "currentTab": 8,
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f27b57bdb1f01353",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab5b1118c5f688dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90f9d2f35c96de3b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "78308a4be366ab71",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ]
+      },
+      {
+        "id": "bce088bcdc9fe33c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38d3d3ba93d74f01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "periodic/2025-11.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-11"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 726.5
+  },
+  "right": {
+    "id": "6d6e9e87f4d3f5c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc874118cd5d877f",
+        "type": "tabs",
+        "dimension": 26.285714285714285,
+        "children": [
+          {
+            "id": "9aa70169b9aec1cc",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "f7be913f85074418",
+            "type": "leaf",
+            "state": {
+              "type": "bc-tree-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "bc-tree-view"
+            }
+          },
+          {
+            "id": "6baf4c7eed4f75c9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "periodic/2025-10-03.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2025-10-03"
+            }
+          }
+        ]
+      },
+      {
+        "id": "f0f480662da0c80d",
+        "type": "tabs",
+        "dimension": 48.857142857142854,
+        "children": [
+          {
+            "id": "86297a2a1fbdedee",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "97b91ee315aca22c",
+            "type": "leaf",
+            "state": {
+              "type": "bc-matrix-view",
+              "state": {},
+              "icon": "blinds",
+              "title": "Matrix view"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "2f026727d02f16d1",
+        "type": "tabs",
+        "dimension": 24.857142857142858,
+        "children": [
+          {
+            "id": "2c03e269555b7b76",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 515.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": true,
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": true,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true,
+      "templater-obsidian:Templater": true,
+      "omnisearch:Omnisearch": true,
+      "obsidian42-brat:BRAT": true,
+      "obsidian-git:Open Git source control": true
+    }
+  },
+  "active": "3cc2751473a4c0df",
+  "lastOpenFiles": [
+    "periodic/2025-11-24.md",
+    "periodic/2025-11-26.md",
+    "periodic/2025-11-19.md",
+    "periodic/2025-11-18.md",
+    "periodic/2025-11-17.md",
+    "Мой аккаунт в TortoiseSVN.md",
+    "periodic/2025-11-11.md",
+    "periodic/2025-11-14.md",
+    "periodic/2025-11-07.md",
+    "Как сделать так, чтобы билд делался на полную в фоне.md",
+    "files/Pasted image 20251114183945.png",
+    "periodic/2025-11.md",
+    "periodic/2025-11-10.md",
+    "periodic/2025-11-06.md",
+    "periodic/2025-11-05.md",
+    "Новая система тэгов.md",
+    "files/Pasted image 20251107160242.png",
+    "files/Pasted image 20251107151533.png",
+    "files/Pasted image 20251107151411.png",
+    "files/Pasted image 20251107151112.png",
+    "files/Pasted image 20251106174216.png",
+    "files/Pasted image 20251107141223.png",
+    "files/Pasted image 20251107140902.png",
+    "files/Pasted image 20251107140059.png",
+    "files/Pasted image 20251107135745.png",
+    "Untitled.base",
+    "sqlite.md",
+    "periodic/2025-10-08.md",
+    "periodic/2025-10.md",
+    "periodic/2025-10-07.md",
+    "periodic/2025-10-06.md",
+    "periodic/2025-10-03.md",
+    "Custom File Watcher.md",
+    "periodic/2025-09.md",
+    "periodic/2025-09-05.md",
+    "отчёты/~$чет_о_работе_за_2025_09_Мамбетов_Адам_Муратович.doc",
+    "отчёты/~WRL0549.tmp",
+    "отчёты/~WRD0541.tmp",
+    "отчёты/~WRL0190.tmp",
+    "отчёты/~WRD0190.tmp",
+    "отчёты/~WRL0005.tmp",
+    "отчёты/~WRD0004.tmp",
+    "periodic/2025-09-03.md",
+    "отчёты/Отчет_о_работе_за_2025_09_Мамбетов_Адам_Муратович.doc",
+    "отчёты/Отчет_о_работе_за_2025_08_Мамбетов_Адам_Муратович.doc",
+    "periodic/2025-09-04.md"
+  ]
+}
