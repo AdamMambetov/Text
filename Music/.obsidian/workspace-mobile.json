@@ -114,12 +114,8 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": true,
-      "graph:Open graph view": true,
-      "canvas:Create new canvas": true,
-      "daily-notes:Open today's daily note": true,
       "templates:Insert template": true,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": true
+      "command-palette:Open command palette": false
     }
   },
   "active": "914a87e554d47822",
