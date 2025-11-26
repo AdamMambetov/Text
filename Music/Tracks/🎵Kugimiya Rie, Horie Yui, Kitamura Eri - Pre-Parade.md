@@ -1,9 +1,9 @@
 ---
 created: 2025-06-30T17:50:33+03:00
 aliases: ["Pre-Parade"]
-CoverOf: null
+CoverOf: ""
 Creators: ["[[@Kugimiya Rie]]", "[[@Horie Yui]]", "[[@Kitamura Eri]]"]
-source: null
+source: ""
 SourceFile: "[[Kugimiya Rie, Horie Yui, Kitamura Eri - Pre-Parade.mp3]]"
 Cover: ""
 Year: 0

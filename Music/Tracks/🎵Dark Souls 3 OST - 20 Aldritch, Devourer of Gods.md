@@ -1,5 +1,5 @@
 ---
-created: 2026-09-24T01:06:53+03:00
+created: 2024-01-04 15:27:44
 aliases: ["Aldritch, Devourer of Gods"]
 Cover: ""
 Year: 2019

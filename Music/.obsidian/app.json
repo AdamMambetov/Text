@@ -1,4 +1,6 @@
 {
   "showInlineTitle": false,
-  "trashOption": "none"
+  "trashOption": "none",
+  "defaultViewMode": "source",
+  "livePreview": false
 }
