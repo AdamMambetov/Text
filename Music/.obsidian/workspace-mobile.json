@@ -11,10 +11,14 @@
             "id": "914a87e554d47822",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Playlists/Favorites (1).md",
+                "mode": "preview",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Favorites (1)"
             }
           }
         ]
@@ -115,7 +119,8 @@
     "hiddenItems": {
       "switcher:Open quick switcher": true,
       "templates:Insert template": true,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
   "active": "914a87e554d47822",

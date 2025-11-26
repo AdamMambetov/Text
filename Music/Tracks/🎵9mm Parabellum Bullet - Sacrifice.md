@@ -1,5 +1,5 @@
 ---
-created: 2024-06-21 05:20:16
+created: 2024-06-21T05:20:16+03:00
 aliases: ["Sacrifice"]
 Cover: ""
 Year: 2017
@@ -8,6 +8,9 @@ Creators: ["[[@9mm Parabellum Bullet]]"]
 NumberInAlbum: 1
 source: ""
 SourceFile: "[[9mm Parabellum Bullet - Sacrifice.mp3]]"
+related: []
+ListenInSec: 61
+CoverOf: ""
 ---
 
 # 9mm Parabellum Bullet - Sacrifice
