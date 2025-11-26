@@ -10,3 +10,6 @@
 	path = RealRed
 	url = https://github.com/AdamMambetov/RealRed.git
 	branch = master
+[submodule "Music"]
+	path = Music
+	url = https://github.com/AdamMambetov/Music.git
