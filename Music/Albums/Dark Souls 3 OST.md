@@ -4,6 +4,8 @@ Year: 2019
 Parents:
   - "[[🎮Dark Souls 3 (игра)]]"
 aliases: []
+Creators: []
+tracklist: []
 ---
 
 # Dark Souls 3 OST

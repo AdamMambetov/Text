@@ -1,13 +1,9 @@
 ---
 created: 2024-09-14T11:40:57+03:00
-aliases:
-  - Us And The Night
+aliases: ["Us And The Night"]
 Year: 2016
-genres:
-  - Rock
-  - Pop
-tracklist:
-  - "[[🎵3 Doors Down - Love Is A Lie|Love Is A Lie]]"
+tracklist: ["[[🎵3 Doors Down - Love Is A Lie]]"]
+Creators: []
 ---
 
 # Us And The Night
