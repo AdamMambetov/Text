@@ -26,4 +26,10 @@ source: https://obsidian.md
 
 ## Плагины
 
- - [GitHub - Obsidian Media DB Plugin](https://github.com/mProjectsCode/obsidian-media-db-plugin)
+ - ~~[GitHub - Obsidian Media DB Plugin](https://github.com/mProjectsCode/obsidian-media-db-plugin)~~
+	 - Не актуально, т.к. появился Core плагин [Bases](https://help.obsidian.md/bases)
+
+## Bases
+
+ - [Bases Docs](https://help.obsidian.md/bases)
+ - [Obsidian Bases Tips and Tricks](https://blog.optional.page/misc/bases/)
