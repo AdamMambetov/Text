@@ -1,0 +1,114 @@
+/* Docs: https://buttonslovesyou.com/usage/styling */
+
+/* Example button style */
+.example-button {
+    --interactive-normal: #2ed573;
+    --text-color: white;
+    border: none;
+    font-weight: bold;
+}
+
+.button-shikimori {
+    --interactive-normal: #4682b4;
+    --text-color: white;
+    border: none;
+    font-weight: bold;
+}
+
+.button-tvTime {
+    --interactive-normal: #997f00;
+    --text-color: white;
+    border: none;
+    font-weight: bold;
+}
+
+.button-worldArt {
+    --interactive-normal: #7a0000;
+    --text-color: white;
+    border: none;
+    font-weight: bold;
+}
+
+.button-onikes {
+    --interactive-normal: purple;
+    --text-color: white;
+    border: none;
+    font-weight: bold;
+}
+
+.button-kesidaTokioVods {
+    --interactive-normal: purple;
+    --text-color: black;
+    border: none;
+    font-weight: bold;
+}
+
+.button-animeFillerList {
+    --interactive-normal: #da5100;
+    --text-color: white;
+    border: none;
+    font-weight: bold;
+}
+
+.button-mangalib {
+    --interactive-normal: #252527;
+    --text-color: #b6720f;
+    border: none;
+    font-weight: bold;
+}
+
+.button-ranobelib {
+    --interactive-normal: #252527;
+    --text-color: #2196f3;
+    border: none;
+    font-weight: bold;
+}
+
+.button-animelib {
+    --interactive-normal: #252527;
+    --text-color: #7E57C2;
+    border: none;
+    font-weight: bold;
+}
+
+.button-senkuro {
+    --interactive-normal: #191A21;
+    --text-color: white;
+    border: none;
+    font-weight: bold;
+}
+
+.button-reyohoho {
+    --interactive-normal: #1c1c1c;
+    --text-color: white;
+    border: none;
+    font-weight: bold;
+}
+
+.button-freetp {
+    --interactive-normal: green;
+    --text-color: black;
+    border: none;
+    font-weight: bold;
+}
+
+.button-steam {
+    --interactive-normal: #133C6F;
+    --text-color: white;
+    border: none;
+    font-weight: bold;
+}
+
+.button-epicGames {
+    --interactive-normal: #252527;
+    --text-color: white;
+    border: none;
+    font-weight: bold;
+}
+
+.button-gog {
+    --interactive-normal: white;
+    --text-color: #252527;
+    border: none;
+    font-weight: bold;
+}
