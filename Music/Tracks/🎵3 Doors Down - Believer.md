@@ -1,7 +1,9 @@
 ---
 created: 2025-01-27 16:03:52
-aliases: ["Believer"]
-Creators: ["[[@3 Doors Down]]"]
+aliases:
+  - Believer
+Creators:
+  - "[[@3 Doors Down]]"
 ListenInSec: 0
 source:
 SourceFile: "[[3 Doors Down - Believer.mp3]]"
@@ -10,3 +12,7 @@ SourceFile: "[[3 Doors Down - Believer.mp3]]"
 # 3 Doors Down - Believer
 
 ![[3 Doors Down - Believer.mp3]]
+
+## Related Tracks
+
+![[related tracks.base]]

@@ -5,4 +5,6 @@ aliases: ["3 Doors Down"]
 
 # 3 Doors Down
 
+## Tracklist
 
+![[tracklist.base]]

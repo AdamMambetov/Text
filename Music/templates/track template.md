@@ -11,3 +11,7 @@ SourceFile: "[[{{value}}.mp3]]"
 # {{value}}
 
 ![[{{value}}.mp3]]
+
+## Related Tracks
+
+![[related tracks.base]]

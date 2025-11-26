@@ -5,3 +5,6 @@ aliases: ["Luck Ganriki", "ラック眼力"]
 
 # Luck Ganriki
 
+## Tracklist
+
+![[tracklist.base]]

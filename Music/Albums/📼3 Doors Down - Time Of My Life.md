@@ -11,3 +11,6 @@ tracklist: ["[[🎵3 Doors Down - Believer]]"]
 
 ![[3 Doors Down - Time of My Life.jpg]]
 
+## Tracklist
+
+![[tracklist.base]]

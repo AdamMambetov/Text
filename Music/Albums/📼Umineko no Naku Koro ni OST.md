@@ -10,3 +10,7 @@ Creators: []
 
 # Umineko no Naku Koro ni OST
 
+
+## Tracklist
+
+![[tracklist.base]]

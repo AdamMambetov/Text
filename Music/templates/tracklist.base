@@ -1,0 +1,23 @@
+formulas:
+  file name: file.asLink(aliases[0])
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.path.contains("Track")
+        - or:
+            - file.properties.Creators.contains(this.file)
+            - this.tracklist.contains(file)
+    order:
+      - file.name
+    columnSize: {}
+  - type: list
+    name: List
+    filters:
+      and:
+        - this.tracklist.contains(file)
+    order:
+      - formula.file name
+      - aliases
+    indentProperties: true
