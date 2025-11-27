@@ -12,7 +12,7 @@ This is a separate function graph named `MyCustomEvent`.
 - Если есть **Description**: 
 - **Category**: Default
 - _Access Specifier_: Public
-- Если есть 
+- Если указано _Pure_, то указать здесь, в противном случае пропустить
 
 ## Functions
 
