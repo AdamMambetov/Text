@@ -1,10 +1,7 @@
 # BP_TestActor Documentation
 
-This document outlines the structure and functionality of the `BP_TestActor` Blueprint asset, generated for documentation testing with CursorAI.
-
 ## Overview
 
-`BP_TestActor` is an Actor Blueprint designed for testing documentation generation. It contains custom events, functions, and variables to demonstrate various aspects of Blueprint functionality.
 
 ## Graphs
 
