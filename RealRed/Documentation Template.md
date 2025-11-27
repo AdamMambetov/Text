@@ -3,7 +3,7 @@
 ## Description
 
 Blueprint Description from Class Settings
-## Graphs
+## Events
 
 ### EventGraph
 
@@ -34,6 +34,8 @@ A custom function defined within the Blueprint.
 
 -   **Function Reference**: `MyNewFunction`
 -   **Description**: This is an editable function.
+
+## Functions
 
 ## Variables
 
