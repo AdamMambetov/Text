@@ -1,6 +1,6 @@
-# Название Класса
+# Название Blueprint Класса
 
-## Описание
+## Description
 
 Blueprint Description from Class Settings
 ## Events
@@ -35,9 +35,3 @@ This is a separate function graph named `MyCustomEvent`.
 -   **Friendly Name**: Use SQLite
 -   **Category**: Test
 -   **Properties**: ExposeOnSpawn (true)
-
-## Blueprint Description
-
-`Создан для проверки документированя с помощью CursorAI` (Created for testing documentation with CursorAI)
-
----
