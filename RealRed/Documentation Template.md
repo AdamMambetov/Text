@@ -1,6 +1,6 @@
-# Documentation Template
+# Название Класса
 
-## Description
+## Описание
 
 Blueprint Description from Class Settings
 ## Events
