@@ -1,8 +1,8 @@
 # Documentation Template
 
-## Overview
+## Description
 
-Blueprint
+Blueprint Description from Class Settings
 ## Graphs
 
 ### EventGraph
