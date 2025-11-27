@@ -9,6 +9,7 @@ views:
         - or:
             - this.related.contains(file)
             - file.properties.related.contains(this.file)
+        - this.file.ext != "base"
     order:
       - formula.FileName
       - aliases

@@ -9,8 +9,12 @@ views:
         - or:
             - file.properties.Creators.contains(this.file)
             - this.tracklist.contains(file)
+        - this.file.ext != "base"
     order:
       - file.name
+    sort:
+      - property: formula.NumInAlbum
+        direction: DESC
     columnSize: {}
   - type: list
     name: List
@@ -18,6 +22,5 @@ views:
       and:
         - this.tracklist.contains(file)
     order:
-      - formula.file name
-      - aliases
+      - formula.tracklist
     indentProperties: true
