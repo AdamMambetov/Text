@@ -28,10 +28,11 @@ This is a separate function graph named `MyCustomEvent`.
 
 ### UseAI
 
--   **Type**: Boolean
--   **Description**: Использовать искусственный интеллект по умолчанию
--   **Category**: Test
--   **Properties**: BlueprintPrivate
+- **Type**: Boolean
+- **Description**: Использовать искусственный интеллект по умолчанию
+- Если есть _Instance Editable_, то указать здесь, в противном случае пропустить
+- **Category**: Test
+- **Properties**: BlueprintPrivate
 
 ### UseSQLite
 
