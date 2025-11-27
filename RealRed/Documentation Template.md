@@ -10,7 +10,7 @@ Blueprint Description from Class Settings
 This is a separate function graph named `MyCustomEvent`.
 
 -   **Function Reference**: `ExecuteUbergraph_BP_TestActor`
--   **Description**: This graph appears to be related to the execution of the Ubergraph for `BP_TestActor`.
+-   Если есть **Description**: 
 
 ## Functions
 
