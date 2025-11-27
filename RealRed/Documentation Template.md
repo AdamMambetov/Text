@@ -9,7 +9,7 @@ Blueprint Description from Class Settings
 
 This is a separate function graph named `MyCustomEvent`.
 
-- **Description**: 
+- **Description**:
 - **Category**: Default
 - _Access Specifier_: Public
 - Если есть входные параметры, то указать здесь, в противном случае пропустить
@@ -18,17 +18,19 @@ This is a separate function graph named `MyCustomEvent`.
 
 ### MyNewFunction
 
--   Если есть **Description**: This is an editable function.
+- **Description**:
+- **Category**: Default
 - _Access Specifier_: Public
+- Если есть входные параметры, то указать здесь, в противном случае пропустить
+- Если есть выходные параметры, то указать здесь, в противном случае пропустить
 
 ## Variables
 
 ### UseAI
 
 -   **Type**: Boolean
--   **Friendly Name**: Use AI
 -   **Category**: Test
--   **Tooltip**: Использовать искусственный интеллект по умолчанию (Use artificial intelligence by default)
+-   **Tooltip**: Использовать искусственный интеллект по умолчанию
 -   **Properties**: BlueprintPrivate (true)
 
 ### UseSQLite
