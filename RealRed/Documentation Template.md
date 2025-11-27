@@ -31,7 +31,7 @@ This is a separate function graph named `MyCustomEvent`.
 -   **Type**: Boolean
 -   **Description**: Использовать искусственный интеллект по умолчанию
 -   **Category**: Test
--   **Properties**: BlueprintPrivate (true)
+-   **Properties**: BlueprintPrivate
 
 ### UseSQLite
 
