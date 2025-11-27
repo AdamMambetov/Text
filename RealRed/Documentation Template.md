@@ -29,8 +29,8 @@ This is a separate function graph named `MyCustomEvent`.
 ### UseAI
 
 -   **Type**: Boolean
+-   **Description**: Использовать искусственный интеллект по умолчанию
 -   **Category**: Test
--   **Tooltip**: Использовать искусственный интеллект по умолчанию
 -   **Properties**: BlueprintPrivate (true)
 
 ### UseSQLite
