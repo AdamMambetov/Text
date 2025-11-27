@@ -9,15 +9,15 @@ Blueprint Description from Class Settings
 
 This is a separate function graph named `MyCustomEvent`.
 
--   **Function Reference**: `ExecuteUbergraph_BP_TestActor`
 -   Если есть **Description**: 
+- _Access Specifier_: Public
 
 ## Functions
 
 ### MyNewFunction
 
--   **Function Reference**: `MyNewFunction`
--   **Description**: This is an editable function.
+-   Если есть **Description**: This is an editable function.
+- _Access Specifier_: Public
 
 ## Variables
 
