@@ -31,6 +31,9 @@ This is a separate function graph named `MyCustomEvent`.
 - **Type**: Boolean
 - **Description**: Использовать искусственный интеллект по умолчанию
 - Если есть _Instance Editable_, то указать здесь, в противном случае пропустить
+- Если есть _Blueprint Read Only_, то указать здесь, в противном случае пропустить
+- Если есть _Expose on Spawn_, то указать здесь, в противном случае пропустить
+- Если есть _Pirvate_, то указать здесь, в противном случае пропустить
 - **Category**: Test
 - **Properties**: BlueprintPrivate
 
