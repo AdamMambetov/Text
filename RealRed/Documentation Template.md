@@ -5,9 +5,7 @@
 Blueprint Description from Class Settings
 ## Events
 
-### MyCustomEvent (Function Graph)
-
-This is a separate function graph named `MyCustomEvent`.
+### MyCustomEvent
 
 - **Description**:
 - **Category**: Default
@@ -35,11 +33,4 @@ This is a separate function graph named `MyCustomEvent`.
 - Если есть _Expose on Spawn_, то указать здесь, в противном случае пропустить
 - Если есть _Private_, то указать здесь, в противном случае пропустить
 - **Category**: Test
-- **Default Value**: BlueprintPrivate
-
-### UseSQLite
-
--   **Type**: Boolean
--   **Friendly Name**: Use SQLite
--   **Category**: Test
--   **Properties**: ExposeOnSpawn (true)
+- **Default Value**: true
