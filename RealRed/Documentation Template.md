@@ -9,8 +9,8 @@ Blueprint Description from Class Settings
 
 This is a separate function graph named `MyCustomEvent`.
 
--   Если есть **Description**: 
--   Если есть **Category**: 
+- Если есть **Description**: 
+- **Category**: Default
 - _Access Specifier_: Public
 
 ## Functions
