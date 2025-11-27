@@ -1,8 +1,8 @@
-# BP_TestActor Documentation
+# Documentation Template
 
 ## Overview
 
-
+Blueprint
 ## Graphs
 
 ### EventGraph

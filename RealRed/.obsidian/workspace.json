@@ -148,13 +148,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BP_TestActor.md",
+                "file": "Documentation Template.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "BP_TestActor"
+              "title": "Documentation Template"
             }
           }
         ],
@@ -345,7 +345,7 @@
   "active": "e2b6594461c551fd",
   "lastOpenFiles": [
     "periodic/2025-11-27.md",
-    "BP_TestActor.md",
+    "Documentation Template.md",
     "periodic/2025-11-18.md",
     "periodic/2025-11-26.md",
     "periodic/2025-11-24.md",
