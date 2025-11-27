@@ -171,13 +171,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Новая система тэгов.md",
+                "file": "periodic/2025-11-27.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Новая система тэгов"
+              "title": "2025-11-27"
             }
           }
         ]
@@ -365,6 +365,7 @@
   },
   "active": "810b370cb61074fd",
   "lastOpenFiles": [
+    "Новая система тэгов.md",
     "Untitled.md",
     "periodic/2025-11-27.md",
     "Documentation Template.md",
@@ -383,7 +384,6 @@
     "periodic/2025-11-10.md",
     "periodic/2025-11-06.md",
     "periodic/2025-11-05.md",
-    "Новая система тэгов.md",
     "files/Pasted image 20251107160242.png",
     "files/Pasted image 20251107151533.png",
     "files/Pasted image 20251107151411.png",
