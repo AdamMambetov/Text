@@ -24,34 +24,6 @@ const types = {
 	},
 }
 
-const ff2 = tp.app.vault.getFolderByPath("Text/Music/Tracks").children
-const ff = dv.pages(`"${rootPath}/Tracks"`).values
-for (let i in ff) {
-	let f = ff[i]
-	if (f.Creators == null)
-		continue
-	for (let j in f.Creators) {
-		let creator = f.Creators[j]
-		if (creator.path == null)
-			continue
-		if (creator.path.startsWith("@")) {
-			// console.log(creator)
-			f2 = ff2.filter(f2 => f2.basename === f.file.name)[0]
-			// console.log(f2)
-			await tp.app.fileManager.processFrontMatter(f2, async (fm) => {
-				// console.log(fm)
-				for (let k in fm.Creators) {
-					let cr = fm.Creators[k]
-					fm.Creators[k] = cr.replace("@", "")
-				}
-				console.log(fm)
-			})
-			break
-		}
-	}
-}
-return
-
 for (var key in types) {
 	let type = types[key]
 	const files = dv.pages(`"${rootPath}/${type.relativePath}"`).sort(f => f.created, "asc")
