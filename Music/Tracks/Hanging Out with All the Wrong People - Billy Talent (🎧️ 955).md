@@ -6,8 +6,11 @@ NumberInAlbum: 7
 SourceFile: "[[Billy Talent - Hanging Out with All the Wrong People.mp3]]"
 Year: 2022
 aliases: ["Hanging Out with All the Wrong People"]
-created: 2024-06-21 05:20:34
+created: 2024-06-21T05:20:34+03:00
 source: ""
+related: []
+ListenInSec: 210
+CoverOf: ""
 ---
 
 # Billy Talent - Hanging Out with All the Wrong People

@@ -5,6 +5,12 @@ CoverOf: "[[🎵Yui Horie - Asymmetry]]"
 Creators: ["[[Radiant Records (🎙️ 39)]]", "[[Lilaria (🎙️ 54)]]"]
 source: ""
 SourceFile: "[[Radiant Records - Асимметрия.mp3]]"
+Cover: ""
+Year: 0
+Album: ""
+NumberInAlbum: 0
+related: []
+ListenInSec: 3
 ---
 
 # Асимметрия

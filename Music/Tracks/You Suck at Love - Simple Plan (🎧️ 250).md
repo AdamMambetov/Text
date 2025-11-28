@@ -6,8 +6,11 @@ NumberInAlbum: 1
 SourceFile: "[[Simple Plan - You Suck at Love.mp3]]"
 Year: 2011
 aliases: ["You Suck at Love"]
-created: 2022-04-22 21:34:30
+created: 2022-04-22T21:34:30+03:00
 source: ""
+related: []
+ListenInSec: 177
+CoverOf: ""
 ---
 
 # Simple Plan - You Suck at Love

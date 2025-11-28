@@ -1,5 +1,5 @@
 ---
-created: 2024-01-02 22:34:58
+created: 2024-01-02T22:34:58+03:00
 aliases: ["Warriors"]
 Cover: ""
 Year: 2020
@@ -8,6 +8,9 @@ Creators: ["[[League of Legends (🎙️ 73)]]", "[[2WEI (🎙️ 68)]]", "[[Edd
 NumberInAlbum: 1
 source: ""
 SourceFile: "[[League of Legends - Warriors 2.mp3]]"
+related: []
+ListenInSec: 189
+CoverOf: ""
 ---
 
 # League of Legends - Warriors 2

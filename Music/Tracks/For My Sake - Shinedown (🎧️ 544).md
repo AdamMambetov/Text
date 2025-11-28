@@ -9,7 +9,7 @@ aliases: ["For My Sake"]
 created: 2022-12-20T10:45:42+03:00
 source: ""
 related: []
-ListenInSec: 2
+ListenInSec: 3
 CoverOf: ""
 ---
 

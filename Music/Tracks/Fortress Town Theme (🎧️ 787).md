@@ -6,8 +6,11 @@ NumberInAlbum: 1
 SourceFile: "[[HoMM V OST - Fortress Town Theme.mp3]]"
 Year: 0
 aliases: []
-created: 2024-06-14 19:19:24
+created: 2024-06-14T19:19:24+03:00
 source: ""
+related: []
+ListenInSec: 103
+CoverOf: ""
 ---
 
 # HoMM V OST - Fortress Town Theme

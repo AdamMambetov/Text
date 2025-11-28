@@ -6,8 +6,11 @@ NumberInAlbum: 1
 SourceFile: "[[HOMM V OST - Haven Battle Theme 2.mp3]]"
 Year: 0
 aliases: []
-created: 2025-01-08 18:41:24
+created: 2025-01-08T18:41:24+03:00
 source: ""
+related: []
+ListenInSec: 168
+CoverOf: ""
 ---
 
 # HOMM V OST - Haven Battle Theme 2

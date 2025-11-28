@@ -6,8 +6,11 @@ NumberInAlbum: 9
 SourceFile: "[[Disturbed - Decadence.mp3]]"
 Year: 2005
 aliases: ["Decadence"]
-created: 2023-09-30 15:54:26
+created: 2023-09-30T15:54:26+03:00
 source: ""
+related: []
+ListenInSec: 190
+CoverOf: ""
 ---
 
 # Disturbed - Decadence

@@ -9,7 +9,7 @@ NumberInAlbum: 2
 source: ""
 SourceFile: "[[Linkin Park - Given Up.mp3]]"
 related: []
-ListenInSec: 175
+ListenInSec: 351
 CoverOf: ""
 ---
 
