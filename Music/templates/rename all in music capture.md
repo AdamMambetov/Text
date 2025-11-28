@@ -78,14 +78,13 @@ for (var key in types) {
 new Notice("Finish", 10000)
 %>
 
-
 ```-dataview
 TABLE
 FROM "Text/Music/Tracks"
 WHERE !file.aliases
 ```
 
-```dataview
+```-dataview
 TABLE WITHOUT ID key AS "unresolved link", rows.file.link AS "referencing file"
 FROM "Text/Music"
 FLATTEN file.outlinks as outlinks

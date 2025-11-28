@@ -1,13 +1,16 @@
 ---
+created: 2022-04-21 01:52:06
+aliases: ["Boom"]
+Cover: ""
+Year: 2018
 Album: "[[Satellite]]"
 Creators: ["[[P.O.D. (🎙️ 406)]]"]
-Cover: ""
 NumberInAlbum: 0
-SourceFile: "[[P.O.D. - Boom.mp3]]"
-Year: 2018
-aliases: ["Boom"]
-created: 2022-04-21 01:52:06
 source: ""
+SourceFile: "[[P.O.D. - Boom.mp3]]"
+related: []
+ListenInSec: 0
+CoverOf: ""
 ---
 
 # P.O.D. - Boom
