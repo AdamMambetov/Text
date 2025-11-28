@@ -3,13 +3,13 @@ created: 2024-11-04T14:21:41+03:00
 aliases:
   - "Синяя тюрьма: Блю Лок"
   - Blue Lock
-Status: defer
+Status: watch
 Type: anime
 Rating:
   - "[[®️12|PG-13]]"
-Cover: ""
+Cover: "[[blue_lock_1_anime_cover.png]]"
 Year: 2022
-Episode: 9
+Episode: 1
 tags:
   - ❤
 related:
@@ -18,7 +18,7 @@ related:
 
 # Синяя тюрьма: Блю Лок
 
-![](https://nyaa.shikimori.one/uploads/poster/animes/49596/74d5cdd8aff60f86dbe134e254da63f2.jpeg)
+![[blue_lock_1_anime_cover.png]]
 
 ```button
 name Shikimori
@@ -30,56 +30,26 @@ hidden true
 ^button-shikimori
 
 ```button
-name TV Time
-type link
-action https://www.tvtime.com/
-customColor #997f00
-hidden true
-```
-^button-tvTime
-
-```button
 name World Art
 type link
-action http://www.world-art.ru/
+action http://www.world-art.ru/animation/animation.php?id=11009
 customColor #7a0000
 hidden true
 ```
 ^button-worldArt
 
 ```button
-name AnimeLib
-type link
-action https://anilib.me/
-customColor #252527
-customTextColor #7E57C2
-hidden true
-```
-^button-animelib
-
-```button
-name Senkuro
-type link
-action https://senkuro.com/
-customColor #191A21
-hidden true
-```
-^button-senkuro
-
-```button
 name ReYohoho
 type link
-action https://reyohoho.github.io/reyohoho/
+action https://reyohoho.github.io/reyohoho/movie/4624770
 customColor #1c1c1c
 hidden true
 ```
 ^button-reyohoho
 
-`button-shikimori` `button-tvTime`
+`button-shikimori` `button-worldArt`
 
-`button-worldArt` `button-animelib`
-
-`button-senkuro` `button-reyohoho`
+`button-reyohoho`
 
 ## Описание
 
