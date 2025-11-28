@@ -26,12 +26,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "franchises/📚The Dark Pictures Anthology.md",
+                "file": "content/Blue Lock 1 (🇯🇵📺 731).md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "📚The Dark Pictures Anthology"
+              "title": "Blue Lock 1 (🇯🇵📺 731)"
             }
           }
         ],
@@ -172,18 +172,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "obsidian-git:Open Git source control": false,
       "graph:Open graph view": true,
       "command-palette:Open command palette": true,
       "bases:Create new base": true,
-      "quickadd:QuickAdd": false,
-      "templater-obsidian:Templater": false,
-      "modalforms:Edit forms": false,
-      "cmdr:Emoji Toolbar: Open emoji picker": true,
-      "cmdr:QuickAdd: Rename art": true
+      "templater-obsidian:Templater": false
     }
   },
   "active": "8b370adffb105144",
   "lastOpenFiles": [
+    "franchises/📚The Dark Pictures Anthology.md",
     "franchises/📚Колесо времени.md",
     "franchises/📚Атака титанов.md",
     "content/Chi. Chikyuu no Undou ni Tsuite (🇯🇵📺 828).md",
@@ -211,7 +213,6 @@
     "content/Mobile Legends Bang Bang (🇨🇳🎮 325).md",
     "content/Mouthwashing (🇸🇪🎮 970).md",
     "content/Rhythm Tengoku (🇯🇵🎮 995).md",
-    "content/Munou na Nana (🇯🇵📗 301).md",
     "covers/the_blind_watchmaker_book_cover.jpg",
     "covers/h2o_just_add_water_series_cover.jpg",
     "covers/star_wars_visions_1_anime_cover.jpg",
