@@ -9,7 +9,7 @@ aliases: ["Let Me Hear"]
 created: 2023-11-05T10:12:22+03:00
 source: ""
 related: []
-ListenInSec: 2
+ListenInSec: 85
 CoverOf: ""
 ---
 
