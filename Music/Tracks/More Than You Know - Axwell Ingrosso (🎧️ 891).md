@@ -1,5 +1,5 @@
 ---
-Album: "[[📼More Than You Know]]"
+Album: "[[More Than You Know]]"
 Creators:
   - "[[Axwell Ingrosso (🎙️ 204)]]"
 Cover: ""

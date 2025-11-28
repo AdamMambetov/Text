@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Il ballo della vita]]"
+Album: "[[Il ballo della vita]]"
 Creators:
   - "[[Maneskin (🎙️ 375)]]"
 Cover: ""

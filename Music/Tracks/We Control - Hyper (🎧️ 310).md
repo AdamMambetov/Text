@@ -1,5 +1,5 @@
 ---
-Album: "[[📼We Control [2006] {Hyper}]]"
+Album: "[[We Control [2006] {Hyper}]]"
 Creators:
   - "[[Hyper]]"
 Cover: ""

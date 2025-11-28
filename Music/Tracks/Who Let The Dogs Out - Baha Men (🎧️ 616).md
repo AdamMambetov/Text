@@ -1,5 +1,5 @@
 ---
-Album: "[[📼10 Great Songs]]"
+Album: "[[10 Great Songs]]"
 Creators:
   - "[[Baha Men (🎙️ 209)]]"
 Cover: ""

@@ -1,5 +1,5 @@
 ---
-Album: "[[📼HIGHEST]]"
+Album: "[[HIGHEST]]"
 Creators:
   - "[[Jackie-O (🎙️ 341)]]"
 Cover: ""

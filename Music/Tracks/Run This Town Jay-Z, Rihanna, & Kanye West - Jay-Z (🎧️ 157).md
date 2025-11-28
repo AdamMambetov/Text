@@ -1,5 +1,5 @@
 ---
-Album: "[[📼The Hits Collection Volume One [2010] {Jay-Z; Rihanna; Kanye West}]]"
+Album: "[[The Hits Collection Volume One [2010] {Jay-Z; Rihanna; Kanye West}]]"
 Creators:
   - "[[Jay-Z (🎙️ 342)]]"
   - "[[Rihanna]]"

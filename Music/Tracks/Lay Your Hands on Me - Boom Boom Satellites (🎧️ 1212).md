@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Lay Your Hands on Me - EP]]"
+Album: "[[Lay Your Hands on Me - EP]]"
 Creators:
   - "[[Boom Boom Satellites (🎙️ 234)]]"
 Cover: ""

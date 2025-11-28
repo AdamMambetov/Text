@@ -1,5 +1,5 @@
 ---
-Album: "[[📼The Very Best Of Louis Armstrong [1998] {Louis Armstrong}]]"
+Album: "[[The Very Best Of Louis Armstrong [1998] {Louis Armstrong}]]"
 Creators:
   - "[[Louis Armstrong (🎙️ 369)]]"
 Cover: ""

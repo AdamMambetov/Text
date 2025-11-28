@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Everybody Jam!]]"
+Album: "[[Everybody Jam!]]"
 Creators:
   - "[[Scatman John (🎙️ 436)]]"
 Cover: ""

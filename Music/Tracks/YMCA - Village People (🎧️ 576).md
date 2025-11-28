@@ -1,5 +1,5 @@
 ---
-Album: "[[📼YMCA]]"
+Album: "[[YMCA]]"
 Creators:
   - "[[Village People]]"
 Cover: ""

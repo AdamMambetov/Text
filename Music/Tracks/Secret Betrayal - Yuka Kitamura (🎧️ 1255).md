@@ -4,7 +4,7 @@ aliases:
   - Secret Betrayal
 Cover: ""
 Year: 2019
-Album: "[[📼Dark Souls 3]]"
+Album: "[[Dark Souls 3]]"
 Creators:
   - "[[Yuka Kitamura (🎙️ 29)]]"
 NumberInAlbum: 23

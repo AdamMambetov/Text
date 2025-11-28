@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Dororo]]"
+Album: "[[Dororo]]"
 Creators:
   - "[[DiWilliam (🎙️ 60)]]"
 Cover: ""

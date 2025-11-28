@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Cinematics [2013] {Set It Off}]]"
+Album: "[[Cinematics [2013] {Set It Off}]]"
 Creators:
   - "[[Set It Off (🎙️ 438)]]"
 Cover: ""

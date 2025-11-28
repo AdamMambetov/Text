@@ -4,7 +4,7 @@ aliases:
   - We No Speak Americano
 Cover: ""
 Year: 2020
-Album: "[[📼We No Speak Americano [2020] {Yolanda Be Cool; DCUP}]]"
+Album: "[[We No Speak Americano [2020] {Yolanda Be Cool; DCUP}]]"
 Creators:
   - "[[Yolanda Be Cool]]"
   - "[[DCUP (🎙️ 281)]]"

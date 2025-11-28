@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Date A Live 3 OST]]"
+Album: "[[Date A Live 3 OST]]"
 Creators:
   - "[[Go Sakabe (🎙️ 319)]]"
 Cover: ""

@@ -1,5 +1,5 @@
 ---
-Album: "[[📼innocent arrogance]]"
+Album: "[[innocent arrogance]]"
 Creators:
   - "[[BiSH (🎙️ 222)]]"
 Cover: ""

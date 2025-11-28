@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Way Back Home]]"
+Album: "[[Way Back Home]]"
 Creators:
   - "[[Leon Alex (🎙️ 363)]]"
 Cover: ""

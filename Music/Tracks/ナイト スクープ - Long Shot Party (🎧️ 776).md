@@ -1,5 +1,5 @@
 ---
-Album: "[[📼distance]]"
+Album: "[[distance]]"
 Creators:
   - "[[Long Shot Party (🎙️ 368)]]"
 Cover: ""

@@ -1,5 +1,5 @@
 ---
-Album: "[[📼One-X [2006] {Three Days Grace}]]"
+Album: "[[One-X [2006] {Three Days Grace}]]"
 Creators:
   - "[[Three Days Grace (🎙️ 471)]]"
 Cover: ""

@@ -1,5 +1,5 @@
 ---
-Album: "[[📼osu!]]"
+Album: "[[osu!]]"
 Creators:
   - "[[Ariabl'eyeS (🎙️ 189)]]"
 Cover: ""

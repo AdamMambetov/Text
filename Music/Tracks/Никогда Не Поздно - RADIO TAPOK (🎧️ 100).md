@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Never Too Late ~ Three Days Grace [2020] {RADIO TAPOK}]]"
+Album: "[[Never Too Late ~ Three Days Grace [2020] {RADIO TAPOK}]]"
 Creators:
   - "[[RADIO TAPOK (🎙️ 423)]]"
 Cover: ""

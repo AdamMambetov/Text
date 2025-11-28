@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Elfen Lied]]"
+Album: "[[Elfen Lied]]"
 Creators:
   - "[[Kumiko Noma (🎙️ 358)]]"
 Cover: ""

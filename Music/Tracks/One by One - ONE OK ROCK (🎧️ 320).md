@@ -1,5 +1,5 @@
 ---
-Album: "[[📼35xxxv [2015] {One Ok Rock}]]"
+Album: "[[35xxxv [2015] {One Ok Rock}]]"
 Creators:
   - "[[ONE OK ROCK (🎙️ 402)]]"
 Cover: ""

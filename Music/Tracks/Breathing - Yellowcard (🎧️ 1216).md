@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Ocean Avenue]]"
+Album: "[[Ocean Avenue]]"
 Creators:
   - "[[Yellowcard (🎙️ 486)]]"
 Cover: ""

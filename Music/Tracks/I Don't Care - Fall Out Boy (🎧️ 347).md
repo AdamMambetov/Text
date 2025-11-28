@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Folie a Deux [2008] {Fall Out Boy}]]"
+Album: "[[Folie a Deux [2008] {Fall Out Boy}]]"
 Creators:
   - "[[Fall Out Boy (🎙️ 308)]]"
 Cover: ""

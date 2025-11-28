@@ -1,5 +1,5 @@
 ---
-Album: "[[📼osu!]]"
+Album: "[[osu!]]"
 Creators:
   - "[[Rameses B (🎙️ 425)]]"
 Cover: ""

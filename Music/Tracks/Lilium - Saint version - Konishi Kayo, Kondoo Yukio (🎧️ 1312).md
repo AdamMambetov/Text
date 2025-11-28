@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Elfen Lied OST]]"
+Album: "[[Elfen Lied OST]]"
 Creators:
   - "[[Konishi Kayo, Kondoo Yukio]]"
 Cover: ""

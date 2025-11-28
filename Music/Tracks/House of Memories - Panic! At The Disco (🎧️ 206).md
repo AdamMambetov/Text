@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Death of a Bachelor [2016] {Panic! At The Disco}]]"
+Album: "[[Death of a Bachelor [2016] {Panic! At The Disco}]]"
 Creators:
   - "[[Panic! At The Disco (🎙️ 412)]]"
 Cover: ""

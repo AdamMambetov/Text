@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Alma]]"
+Album: "[[Alma]]"
 Creators:
   - "[[Alma Cogan (🎙️ 171)]]"
 Cover: ""

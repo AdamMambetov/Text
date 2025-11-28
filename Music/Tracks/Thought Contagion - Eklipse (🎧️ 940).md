@@ -1,5 +1,5 @@
 ---
-Album: "[[📼In Portrait]]"
+Album: "[[In Portrait]]"
 Creators:
   - "[[Eklipse]]"
 Cover: ""

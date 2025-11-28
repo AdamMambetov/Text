@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Throne ~ Bring Me The Horizon [2021] {Everblack Melodies}]]"
+Album: "[[Throne ~ Bring Me The Horizon [2021] {Everblack Melodies}]]"
 Creators:
   - "[[Everblack Melodies (🎙️ 307)]]"
 Cover: ""

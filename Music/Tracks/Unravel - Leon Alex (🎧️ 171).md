@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Unravel]]"
+Album: "[[Unravel]]"
 Creators:
   - "[[Leon Alex (🎙️ 363)]]"
 Cover: ""

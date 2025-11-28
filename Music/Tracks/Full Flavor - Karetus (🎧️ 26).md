@@ -1,5 +1,5 @@
 ---
-Album: "[[📼PINATA]]"
+Album: "[[PINATA]]"
 Creators:
   - "[[Karetus]]"
 Cover: ""

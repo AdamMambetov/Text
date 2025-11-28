@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Lift Your Spirit]]"
+Album: "[[Lift Your Spirit]]"
 Creators:
   - "[[Aloe Blacc (🎙️ 172)]]"
 Cover: ""

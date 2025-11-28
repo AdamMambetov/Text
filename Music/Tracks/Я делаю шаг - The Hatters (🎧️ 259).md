@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Shoot Me [2020] {The Hatters}]]"
+Album: "[[Shoot Me [2020] {The Hatters}]]"
 Creators:
   - "[[The Hatters (🎙️ 458)]]"
 Cover: ""

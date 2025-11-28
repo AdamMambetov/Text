@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Love, Lies & Therapy]]"
+Album: "[[Love, Lies & Therapy]]"
 Creators:
   - "[[Saliva]]"
 Cover: ""

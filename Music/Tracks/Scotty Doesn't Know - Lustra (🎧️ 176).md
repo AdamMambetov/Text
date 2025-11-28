@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Left for Dead [2005] {Lustra}]]"
+Album: "[[Left for Dead [2005] {Lustra}]]"
 Creators:
   - "[[Lustra (🎙️ 372)]]"
 Cover: ""

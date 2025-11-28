@@ -1,5 +1,5 @@
 ---
-Album: "[[📼The Great Divide]]"
+Album: "[[The Great Divide]]"
 Creators:
   - "[[Allen Lande (🎙️ 170)]]"
 Cover: ""

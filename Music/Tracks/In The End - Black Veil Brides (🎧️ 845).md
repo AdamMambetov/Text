@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Wretched and Divine The Story of the Wild Ones]]"
+Album: "[[Wretched and Divine The Story of the Wild Ones]]"
 Creators:
   - "[[Black Veil Brides (🎙️ 224)]]"
 Cover: ""

@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Black Clover Guitar Collection]]"
+Album: "[[Black Clover Guitar Collection]]"
 Creators:
   - "[[Leon Alex (🎙️ 363)]]"
 Cover: ""

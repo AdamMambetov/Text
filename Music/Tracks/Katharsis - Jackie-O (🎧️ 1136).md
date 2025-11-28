@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Katharsis]]"
+Album: "[[Katharsis]]"
 Creators:
   - "[[Jackie-O (🎙️ 341)]]"
 Cover: ""

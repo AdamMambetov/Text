@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Now You're Gone]]"
+Album: "[[Now You're Gone]]"
 Creators:
   - "[[Basshunter (🎙️ 214)]]"
 Cover: ""

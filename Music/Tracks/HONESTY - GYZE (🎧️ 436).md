@@ -1,5 +1,5 @@
 ---
-Album: "[[📼BLACK BRIDE [2015] {GYZE; Ettore Rigotti}]]"
+Album: "[[BLACK BRIDE [2015] {GYZE; Ettore Rigotti}]]"
 Creators:
   - "[[GYZE (🎙️ 327)]]"
 Cover: ""

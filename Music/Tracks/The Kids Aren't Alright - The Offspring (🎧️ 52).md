@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Americana]]"
+Album: "[[Americana]]"
 Creators:
   - "[[The Offspring (🎙️ 461)]]"
 Cover: ""

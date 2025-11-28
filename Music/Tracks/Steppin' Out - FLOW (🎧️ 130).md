@@ -1,5 +1,5 @@
 ---
-Album: "[[📼FLOW THE BEST - Anime Shibari [2018] {FLOW}]]"
+Album: "[[FLOW THE BEST - Anime Shibari [2018] {FLOW}]]"
 Creators:
   - "[[FLOW (🎙️ 313)]]"
 Cover: ""

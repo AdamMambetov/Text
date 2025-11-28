@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Akeboshi]]"
+Album: "[[Akeboshi]]"
 Creators:
   - "[[Akeboshi (🎙️ 152)]]"
 Cover: ""

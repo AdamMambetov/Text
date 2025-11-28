@@ -4,7 +4,7 @@ aliases:
   - Kuusou Mesorogiwi
 Cover: ""
 Year: 2016
-Album: "[[📼]]"
+Album: "[[]]"
 Creators:
   - "[[Melody Note (🎙️ 360)]]"
   - "[[Kun-Kun]]"

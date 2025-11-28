@@ -1,5 +1,5 @@
 ---
-Album: "[[📼The Sound of Revenge]]"
+Album: "[[The Sound of Revenge]]"
 Creators:
   - "[[Chamillionaire (🎙️ 255)]]"
   - "[[Krayzie Bone]]"

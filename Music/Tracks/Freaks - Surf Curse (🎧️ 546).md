@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Freaks]]"
+Album: "[[Freaks]]"
 Creators:
   - "[[Surf Curse (🎙️ 451)]]"
 Cover: ""

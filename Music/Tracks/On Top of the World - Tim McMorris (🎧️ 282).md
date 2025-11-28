@@ -1,5 +1,5 @@
 ---
-Album: "[[📼On Top of the World [2015] {Tim McMorris}]]"
+Album: "[[On Top of the World [2015] {Tim McMorris}]]"
 Creators:
   - "[[Tim McMorris (🎙️ 472)]]"
 Cover: ""

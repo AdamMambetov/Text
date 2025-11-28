@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Hikaru Nara]]"
+Album: "[[Hikaru Nara]]"
 Creators:
   - "[[Onsa Media (🎙️ 404)]]"
 Cover: ""

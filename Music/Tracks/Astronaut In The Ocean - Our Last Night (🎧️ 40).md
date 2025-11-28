@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Astronaut In The Ocean]]"
+Album: "[[Astronaut In The Ocean]]"
 Creators:
   - "[[Our Last Night]]"
 Cover: ""

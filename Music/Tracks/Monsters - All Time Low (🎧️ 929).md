@@ -4,7 +4,7 @@ aliases:
   - Monsters
 Cover: ""
 Year: 2020
-Album: "[[📼Wake Up, Sunshine]]"
+Album: "[[Wake Up, Sunshine]]"
 Creators:
   - "[[All Time Low (🎙️ 169)]]"
   - "[[blackbear (🎙️ 225)]]"

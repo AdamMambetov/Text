@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Jettison [1998] {Naked Raygun}]]"
+Album: "[[Jettison [1998] {Naked Raygun}]]"
 Creators:
   - "[[Naked Raygun]]"
 Cover: ""

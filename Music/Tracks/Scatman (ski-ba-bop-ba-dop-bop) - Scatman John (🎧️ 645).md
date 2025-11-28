@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Scatman's World]]"
+Album: "[[Scatman's World]]"
 Creators:
   - "[[Scatman John (🎙️ 436)]]"
 Cover: ""

@@ -1,7 +1,7 @@
 ---
 SourceFile: "[[Blur - Song 2.mp3]]"
 Year: 2009
-Album: "[[📼]]"
+Album: "[[]]"
 aliases:
   - Blur - Song 2 (Official Music Video)
 created: 2025-05-04 14:48:15.574557

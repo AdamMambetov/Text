@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Machines]]"
+Album: "[[Machines]]"
 Creators:
   - "[[All Good Things (🎙️ 168)]]"
 Cover: ""

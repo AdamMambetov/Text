@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Mulan]]"
+Album: "[[Mulan]]"
 Creators:
   - "[[Disney (🎙️ 288)]]"
   - "[[Donny Osmond]]"

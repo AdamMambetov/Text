@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Decadence]]"
+Album: "[[Decadence]]"
 Creators:
   - "[[RADIO TAPOK (🎙️ 423)]]"
 Cover: ""

@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Comatose ~ Skillet [2013] {The PanHeads Band}]]"
+Album: "[[Comatose ~ Skillet [2013] {The PanHeads Band}]]"
 Creators:
   - "[[PanHeads Band (🎙️ 411)]]"
 Cover: ""

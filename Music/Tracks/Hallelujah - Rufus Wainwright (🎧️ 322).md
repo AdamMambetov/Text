@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Shrek [2001]]]"
+Album: "[[Shrek [2001]]]"
 Creators:
   - "[[Rufus Wainwright]]"
 Cover: ""

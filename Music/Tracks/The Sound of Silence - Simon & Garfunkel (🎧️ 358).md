@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Old Friends]]"
+Album: "[[Old Friends]]"
 Creators:
   - "[[Simon & Garfunkel]]"
 Cover: ""

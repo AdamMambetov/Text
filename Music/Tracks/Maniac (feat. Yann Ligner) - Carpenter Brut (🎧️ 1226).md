@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Maniac (feat. Yann Ligner) - Single]]"
+Album: "[[Maniac (feat. Yann Ligner) - Single]]"
 Creators:
   - "[[Carpenter Brut (🎙️ 251)]]"
 Cover: ""

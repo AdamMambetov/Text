@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Gamer]]"
+Album: "[[Gamer]]"
 Creators:
   - "[[Plamenev (🎙️ 416)]]"
 Cover: ""

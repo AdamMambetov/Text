@@ -1,5 +1,5 @@
 ---
-Album: "[[📼UNDERTALE Soundtrack]]"
+Album: "[[UNDERTALE Soundtrack]]"
 Creators:
   - "[[toby fox]]"
 Cover: ""

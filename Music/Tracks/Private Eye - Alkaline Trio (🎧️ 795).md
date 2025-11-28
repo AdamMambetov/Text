@@ -1,5 +1,5 @@
 ---
-Album: "[[📼From Here To Infirmary]]"
+Album: "[[From Here To Infirmary]]"
 Creators:
   - "[[Alkaline Trio (🎙️ 167)]]"
 Cover: ""

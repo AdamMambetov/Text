@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Clattanoia]]"
+Album: "[[Clattanoia]]"
 Creators:
   - "[[Jackie-O (🎙️ 341)]]"
 Cover: ""

@@ -1,5 +1,5 @@
 ---
-Album: "[[📼OK Orchestra]]"
+Album: "[[OK Orchestra]]"
 Creators:
   - "[[AJR (🎙️ 149)]]"
 Cover: ""

@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Bling-Bang-Bang-Born]]"
+Album: "[[Bling-Bang-Bang-Born]]"
 Creators:
   - "[[Creepy Nuts (🎙️ 270)]]"
 Cover: ""

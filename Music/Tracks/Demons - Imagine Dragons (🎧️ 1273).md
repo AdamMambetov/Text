@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Night Visions]]"
+Album: "[[Night Visions]]"
 Creators:
   - "[[Imagine Dragons (🎙️ 336)]]"
 Cover: ""

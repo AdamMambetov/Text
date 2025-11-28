@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Astro Lounge]]"
+Album: "[[Astro Lounge]]"
 Creators:
   - "[[Smash Mouth (🎙️ 444)]]"
 Cover: ""

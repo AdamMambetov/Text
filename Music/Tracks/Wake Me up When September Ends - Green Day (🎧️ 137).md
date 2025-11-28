@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Greatest Hits: God's Favorite Band [2017] {Green Day}]]"
+Album: "[[Greatest Hits: God's Favorite Band [2017] {Green Day}]]"
 Creators:
   - "[[Green Day (🎙️ 324)]]"
 Cover: ""

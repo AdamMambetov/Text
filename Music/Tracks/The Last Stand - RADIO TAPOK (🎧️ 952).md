@@ -1,5 +1,5 @@
 ---
-Album: "[[📼The Last Stand]]"
+Album: "[[The Last Stand]]"
 Creators:
   - "[[RADIO TAPOK (🎙️ 423)]]"
 Cover: ""

@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Everywhere I Go ~ Hollywood Undead [2018] {RADIO TAPOK}]]"
+Album: "[[Everywhere I Go ~ Hollywood Undead [2018] {RADIO TAPOK}]]"
 Creators:
   - "[[RADIO TAPOK (🎙️ 423)]]"
 Cover: ""

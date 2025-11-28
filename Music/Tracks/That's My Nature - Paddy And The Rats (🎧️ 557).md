@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Lonely Hearts' Boulevard]]"
+Album: "[[Lonely Hearts' Boulevard]]"
 Creators:
   - "[[Paddy And The Rats (🎙️ 409)]]"
 Cover: ""

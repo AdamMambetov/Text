@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Tonight Alright]]"
+Album: "[[Tonight Alright]]"
 Creators:
   - "[[Spiderbait]]"
 Cover: ""

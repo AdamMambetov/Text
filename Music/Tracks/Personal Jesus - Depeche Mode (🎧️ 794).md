@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Violator]]"
+Album: "[[Violator]]"
 Creators:
   - "[[Depeche Mode (🎙️ 285)]]"
 Cover: ""

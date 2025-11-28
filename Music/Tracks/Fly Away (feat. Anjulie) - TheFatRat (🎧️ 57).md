@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Fly Away]]"
+Album: "[[Fly Away]]"
 Creators:
   - "[[TheFatRat]]"
 Cover: ""

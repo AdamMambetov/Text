@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Fuyu No Hanashi]]"
+Album: "[[Fuyu No Hanashi]]"
 Creators:
   - "[[Jackie-O (🎙️ 341)]]"
 Cover: ""

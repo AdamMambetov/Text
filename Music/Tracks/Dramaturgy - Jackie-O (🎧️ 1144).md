@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Dramaturgy]]"
+Album: "[[Dramaturgy]]"
 Creators:
   - "[[Jackie-O (🎙️ 341)]]"
 Cover: ""

@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Hysteria [2013] {FRANKY}]]"
+Album: "[[Hysteria [2013] {FRANKY}]]"
 Creators:
   - "[[FRANKY (🎙️ 316)]]"
 Cover: ""

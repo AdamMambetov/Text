@@ -1,5 +1,5 @@
 ---
-Album: "[[📼snooze (feat. SHIKI)]]"
+Album: "[[snooze (feat. SHIKI)]]"
 Creators:
   - "[[wotaku]]"
   - "[[SHIKI]]"

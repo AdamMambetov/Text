@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Russian Lullaby]]"
+Album: "[[Russian Lullaby]]"
 Creators:
   - "[[E-Type (🎙️ 299)]]"
 Cover: ""

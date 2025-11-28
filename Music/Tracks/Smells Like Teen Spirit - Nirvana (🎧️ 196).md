@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Nirvana [2002] {Nirvana}]]"
+Album: "[[Nirvana [2002] {Nirvana}]]"
 Creators:
   - "[[Nirvana (🎙️ 394)]]"
 Cover: ""

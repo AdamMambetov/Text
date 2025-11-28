@@ -4,7 +4,7 @@ aliases:
   - Inferno
 Cover: ""
 Year: 0
-Album: "[[📼Inferno]]"
+Album: "[[Inferno]]"
 Creators:
   - "[[Onsa Media (🎙️ 404)]]"
 NumberInAlbum: 0

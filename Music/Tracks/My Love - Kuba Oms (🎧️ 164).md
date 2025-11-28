@@ -1,5 +1,5 @@
 ---
-Album: "[[📼My Love [2014] {Kuba Oms}]]"
+Album: "[[My Love [2014] {Kuba Oms}]]"
 Creators:
   - "[[Kuba Oms (🎙️ 357)]]"
 Cover: ""

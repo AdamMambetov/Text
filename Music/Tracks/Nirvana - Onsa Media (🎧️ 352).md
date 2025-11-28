@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Nirvana]]"
+Album: "[[Nirvana]]"
 Creators:
   - "[[Onsa Media (🎙️ 404)]]"
 Cover: ""

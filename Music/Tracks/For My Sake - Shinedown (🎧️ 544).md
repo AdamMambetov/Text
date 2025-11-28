@@ -1,5 +1,5 @@
 ---
-Album: "[[📼The Studio Album Collection]]"
+Album: "[[The Studio Album Collection]]"
 Creators:
   - "[[Shinedown]]"
 Cover: ""

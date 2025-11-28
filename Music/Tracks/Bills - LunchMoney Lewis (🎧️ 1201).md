@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Bills]]"
+Album: "[[Bills]]"
 Creators:
   - "[[LunchMoney Lewis]]"
 Cover: ""

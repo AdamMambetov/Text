@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Shatter Me [2014] {Lindsey Stirling}]]"
+Album: "[[Shatter Me [2014] {Lindsey Stirling}]]"
 Creators:
   - "[[Lindsey Stirling]]"
 Cover: ""

@@ -1,5 +1,5 @@
 ---
-Album: "[[📼From Under the Cork Tree]]"
+Album: "[[From Under the Cork Tree]]"
 Creators:
   - "[[Fall Out Boy (🎙️ 308)]]"
 Cover: ""

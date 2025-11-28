@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Life & Death]]"
+Album: "[[Life & Death]]"
 Creators:
   - "[[Blowsight (🎙️ 230)]]"
 Cover: ""

@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Sol-fa]]"
+Album: "[[Sol-fa]]"
 Creators:
   - "[[ASIAN KUNG-FU GENERATION (🎙️ 193)]]"
 Cover: ""

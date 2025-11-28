@@ -4,7 +4,7 @@ aliases:
   - Astral Dogma
 Cover: ""
 Year: 2013
-Album: "[[📼Pax Vesania]]"
+Album: "[[Pax Vesania]]"
 Creators:
   - "[[Yousei Teikoku (🎙️ 278)]]"
 NumberInAlbum: 2

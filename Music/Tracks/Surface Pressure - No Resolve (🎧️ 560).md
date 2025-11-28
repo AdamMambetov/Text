@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Surface Pressure]]"
+Album: "[[Surface Pressure]]"
 Creators:
   - "[[No Resolve (🎙️ 395)]]"
 Cover: ""

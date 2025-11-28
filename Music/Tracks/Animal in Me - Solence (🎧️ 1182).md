@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Direction]]"
+Album: "[[Direction]]"
 Creators:
   - "[[Solence (🎙️ 445)]]"
 Cover: ""

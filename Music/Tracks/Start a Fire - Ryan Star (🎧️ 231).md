@@ -1,5 +1,5 @@
 ---
-Album: "[[📼11:59 [2010] {Ryan Star}]]"
+Album: "[[11:59 [2010] {Ryan Star}]]"
 Creators:
   - "[[Ryan Star]]"
 Cover: ""

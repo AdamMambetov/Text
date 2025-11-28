@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Upside Down [2016] {Set It Off}]]"
+Album: "[[Upside Down [2016] {Set It Off}]]"
 Creators:
   - "[[Set It Off (🎙️ 438)]]"
 Cover: ""

@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Body Head Bangerz, Vol. 1]]"
+Album: "[[Body Head Bangerz, Vol. 1]]"
 Creators:
   - "[[Roy Jones Jr.]]"
   - "[[Mr. Magic]]"

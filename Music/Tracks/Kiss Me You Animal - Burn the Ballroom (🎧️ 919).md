@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Kiss Me You Animal]]"
+Album: "[[Kiss Me You Animal]]"
 Creators:
   - "[[Burn the Ballroom (🎙️ 244)]]"
 Cover: ""

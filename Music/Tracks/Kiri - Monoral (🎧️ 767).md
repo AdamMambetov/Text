@@ -4,7 +4,7 @@ aliases:
   - Kiri
 Cover: ""
 Year: 2007
-Album: "[[📼Ergo Proxy OST opus 01]]"
+Album: "[[Ergo Proxy OST opus 01]]"
 Creators:
   - "[[Monoral (🎙️ 164)]]"
 NumberInAlbum: 2

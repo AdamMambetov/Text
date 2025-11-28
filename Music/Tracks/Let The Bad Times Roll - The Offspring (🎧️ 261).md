@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Let The Bad Times Roll [2021] {The Offspring}]]"
+Album: "[[Let The Bad Times Roll [2021] {The Offspring}]]"
 Creators:
   - "[[The Offspring (🎙️ 461)]]"
 Cover: ""

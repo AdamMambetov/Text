@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Blue (Da Ba Dee)]]"
+Album: "[[Blue (Da Ba Dee)]]"
 Creators:
   - "[[Eiffel 65 (🎙️ 302)]]"
 Cover: ""

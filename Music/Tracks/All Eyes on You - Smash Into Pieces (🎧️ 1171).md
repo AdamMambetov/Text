@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Arcadia]]"
+Album: "[[Arcadia]]"
 Creators:
   - "[[Smash Into Pieces]]"
 Cover: ""

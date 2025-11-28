@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Infinity on High [2007] {Fall Out Boy}]]"
+Album: "[[Infinity on High [2007] {Fall Out Boy}]]"
 Creators:
   - "[[Fall Out Boy (🎙️ 308)]]"
 Cover: ""

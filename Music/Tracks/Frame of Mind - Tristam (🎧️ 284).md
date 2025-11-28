@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Frame of Mind [2014] {Tristam; Braken}]]"
+Album: "[[Frame of Mind [2014] {Tristam; Braken}]]"
 Creators:
   - "[[Tristam]]"
   - "[[Braken (🎙️ 237)]]"

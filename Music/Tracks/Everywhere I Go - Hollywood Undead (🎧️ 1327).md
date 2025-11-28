@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Swan Songs]]"
+Album: "[[Swan Songs]]"
 Creators:
   - "[[Hollywood Undead (🎙️ 332)]]"
 Cover: ""

@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Duality [2015] {Set It Off}]]"
+Album: "[[Duality [2015] {Set It Off}]]"
 Creators:
   - "[[Set It Off (🎙️ 438)]]"
 Cover: ""

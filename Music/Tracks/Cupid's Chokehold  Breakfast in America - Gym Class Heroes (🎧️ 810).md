@@ -1,5 +1,5 @@
 ---
-Album: "[[📼The Papercut Chronicles]]"
+Album: "[[The Papercut Chronicles]]"
 Creators:
   - "[[Gym Class Heroes (🎙️ 326)]]"
 Cover: ""

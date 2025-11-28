@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Deja Vu: The TFK Anthology]]"
+Album: "[[Deja Vu: The TFK Anthology]]"
 Creators:
   - "[[Thousand Foot Krutch (🎙️ 470)]]"
 Cover: ""

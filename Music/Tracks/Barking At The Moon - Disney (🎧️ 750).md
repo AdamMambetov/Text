@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Bolt]]"
+Album: "[[Bolt]]"
 Creators:
   - "[[Disney (🎙️ 288)]]"
   - "[[Jenny Lewis]]"

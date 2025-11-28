@@ -1,5 +1,5 @@
 ---
-Album: "[[📼My Demons]]"
+Album: "[[My Demons]]"
 Creators:
   - "[[RADIO TAPOK (🎙️ 423)]]"
 Cover: ""

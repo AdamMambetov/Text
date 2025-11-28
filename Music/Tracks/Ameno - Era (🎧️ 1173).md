@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Era]]"
+Album: "[[Era]]"
 Creators:
   - "[[Era (🎙️ 304)]]"
 Cover: ""

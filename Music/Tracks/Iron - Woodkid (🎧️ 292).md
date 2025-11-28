@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Iron [2011] {Woodkid}]]"
+Album: "[[Iron [2011] {Woodkid}]]"
 Creators:
   - "[[Woodkid (🎙️ 484)]]"
 Cover: ""

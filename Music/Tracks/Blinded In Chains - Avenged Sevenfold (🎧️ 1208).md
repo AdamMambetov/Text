@@ -1,5 +1,5 @@
 ---
-Album: "[[📼City of Evil]]"
+Album: "[[City of Evil]]"
 Creators:
   - "[[Avenged Sevenfold (🎙️ 201)]]"
 Cover: ""

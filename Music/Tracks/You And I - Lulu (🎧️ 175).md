@@ -1,5 +1,5 @@
 ---
-Album: "[[📼The Gold Collection [1996] {Lulu}]]"
+Album: "[[The Gold Collection [1996] {Lulu}]]"
 Creators:
   - "[[Lulu (🎙️ 371)]]"
 Cover: ""

@@ -1,5 +1,5 @@
 ---
-Album: "[[📼osu!]]"
+Album: "[[osu!]]"
 Creators:
   - "[[Cascada (🎙️ 252)]]"
 Cover: ""

@@ -1,5 +1,5 @@
 ---
-Album: "[[📼EA Sports Soundtrax, Vol. 1 Original Soundtrack]]"
+Album: "[[EA Sports Soundtrax, Vol. 1 Original Soundtrack]]"
 Creators:
   - "[[Rock]]"
 Cover: ""

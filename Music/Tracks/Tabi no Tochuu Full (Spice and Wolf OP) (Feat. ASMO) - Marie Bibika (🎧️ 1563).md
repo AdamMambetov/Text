@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Russian adaptationds of anime song (Full) vol.11]]"
+Album: "[[Russian adaptationds of anime song (Full) vol.11]]"
 Creators:
   - "[[Marie Bibika (🎙️ 376)]]"
 Cover: ""

@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Innocently Annoying]]"
+Album: "[[Innocently Annoying]]"
 Creators:
   - "[[Elysewood]]"
 Cover: ""

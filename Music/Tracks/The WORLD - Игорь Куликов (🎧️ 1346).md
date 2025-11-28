@@ -1,5 +1,5 @@
 ---
-Album: "[[📼The WORLD]]"
+Album: "[[The WORLD]]"
 Creators:
   - "[[Игорь Куликов (🎙️ 71)]]"
 Cover: ""

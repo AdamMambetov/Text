@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Drawing Days]]"
+Album: "[[Drawing Days]]"
 Creators:
   - "[[Jackie-O (🎙️ 341)]]"
 Cover: ""

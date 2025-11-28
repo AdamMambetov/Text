@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Hooked on a Feeling]]"
+Album: "[[Hooked on a Feeling]]"
 Creators:
   - "[[Blue Swede (🎙️ 231)]]"
 Cover: ""

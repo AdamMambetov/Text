@@ -4,7 +4,7 @@ aliases:
   - Koko kara, Koko kara
 Cover: ""
 Year: 0
-Album: "[[📼osu!]]"
+Album: "[[osu!]]"
 Creators:
   - "[[Minase Inori]]"
   - "[[Kana Hanazawa (🎙️ 186)]]"

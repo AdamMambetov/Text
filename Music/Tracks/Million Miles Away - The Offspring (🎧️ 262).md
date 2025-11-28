@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Conspiracy Of One [2000] {The Offspring}]]"
+Album: "[[Conspiracy Of One [2000] {The Offspring}]]"
 Creators:
   - "[[The Offspring (🎙️ 461)]]"
 Cover: ""

@@ -1,5 +1,5 @@
 ---
-Album: "[[📼In My World]]"
+Album: "[[In My World]]"
 Creators:
   - "[[Jackie-O (🎙️ 341)]]"
 Cover: ""

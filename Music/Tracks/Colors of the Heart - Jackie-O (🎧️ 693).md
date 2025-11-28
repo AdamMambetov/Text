@@ -4,7 +4,7 @@ aliases:
   - Colors of the Heart
 Cover: ""
 Year: 2020
-Album: "[[📼Colors of the Heart]]"
+Album: "[[Colors of the Heart]]"
 Creators:
   - "[[Jackie-O (🎙️ 341)]]"
 NumberInAlbum: 1

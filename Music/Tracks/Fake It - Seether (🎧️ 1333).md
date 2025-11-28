@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Vicennial: 2 Decades of Seether]]"
+Album: "[[Vicennial: 2 Decades of Seether]]"
 Creators:
   - "[[Seether (🎙️ 437)]]"
 Cover: ""

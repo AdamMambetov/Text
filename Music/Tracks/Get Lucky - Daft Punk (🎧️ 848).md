@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Random Access Memories]]"
+Album: "[[Random Access Memories]]"
 Creators:
   - "[[Daft Punk (🎙️ 275)]]"
   - "[[Pharrell Williams]]"

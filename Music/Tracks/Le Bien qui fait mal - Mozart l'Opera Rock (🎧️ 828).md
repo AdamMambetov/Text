@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Mozart l'Opera Rock]]"
+Album: "[[Mozart l'Opera Rock]]"
 Creators:
   - "[[Mozart l'Opera Rock (🎙️ 383)]]"
 Cover: ""

@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Tales from the Kingdom of Fife]]"
+Album: "[[Tales from the Kingdom of Fife]]"
 Creators:
   - "[[Gloryhammer (🎙️ 318)]]"
 Cover: ""

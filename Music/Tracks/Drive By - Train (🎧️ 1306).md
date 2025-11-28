@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Greatest Hits]]"
+Album: "[[Greatest Hits]]"
 Creators:
   - "[[Train]]"
 Cover: ""

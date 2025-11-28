@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Bride to be [2021] {Merk & Kremont; DNCE}]]"
+Album: "[[Bride to be [2021] {Merk & Kremont; DNCE}]]"
 Creators:
   - "[[Merk & Kremont]]"
   - "[[DNCE (🎙️ 293)]]"

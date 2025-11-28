@@ -1,5 +1,5 @@
 ---
-Album: "[[📼The Greatest Hits 2007-2016]]"
+Album: "[[The Greatest Hits 2007-2016]]"
 Creators:
   - "[[Versailles (🎙️ 33)]]"
 Cover: ""

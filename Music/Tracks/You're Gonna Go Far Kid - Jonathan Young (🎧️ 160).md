@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Young's Old Covers (2019-2021) [2021] {Jonathan Young; Lauren Babic; Lee Albrecht}]]"
+Album: "[[Young's Old Covers (2019-2021) [2021] {Jonathan Young; Lauren Babic; Lee Albrecht}]]"
 Creators:
   - "[[Jonathan Young (🎙️ 345)]]"
   - "[[Lauren Babic]]"

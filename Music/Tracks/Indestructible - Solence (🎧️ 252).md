@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Deafening [2021] {Solence}]]"
+Album: "[[Deafening [2021] {Solence}]]"
 Creators:
   - "[[Solence (🎙️ 445)]]"
 Cover: ""

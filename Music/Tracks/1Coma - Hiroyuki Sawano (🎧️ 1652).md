@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Kabaneri of the Iron Fortress OST]]"
+Album: "[[Kabaneri of the Iron Fortress OST]]"
 Creators:
   - "[[Hiroyuki Sawano (🎙️ 331)]]"
 Cover: ""

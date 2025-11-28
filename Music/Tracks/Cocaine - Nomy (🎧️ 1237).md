@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Song Or Suicide]]"
+Album: "[[Song Or Suicide]]"
 Creators:
   - "[[Nomy (🎙️ 398)]]"
 Cover: ""

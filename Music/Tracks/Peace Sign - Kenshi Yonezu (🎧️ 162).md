@@ -1,5 +1,5 @@
 ---
-Album: "[[📼BOOTLEG [2017] {Kenshi Yonezu}]]"
+Album: "[[BOOTLEG [2017] {Kenshi Yonezu}]]"
 Creators:
   - "[[Kenshi Yonezu (🎙️ 353)]]"
 Cover: ""

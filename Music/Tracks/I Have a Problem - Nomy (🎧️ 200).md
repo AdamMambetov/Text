@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Pillar of the Solid Rock [] {Nomy}]]"
+Album: "[[Pillar of the Solid Rock [] {Nomy}]]"
 Creators:
   - "[[Nomy (🎙️ 398)]]"
 Cover: ""

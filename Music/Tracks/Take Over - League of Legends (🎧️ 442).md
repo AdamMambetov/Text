@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Take Over [2020] {League of Legends; Jeremy McKinnon; MAX; Henry}]]"
+Album: "[[Take Over [2020] {League of Legends; Jeremy McKinnon; MAX; Henry}]]"
 Creators:
   - "[[League of Legends (🎙️ 73)]]"
   - "[[Jeremy McKinnon]]"

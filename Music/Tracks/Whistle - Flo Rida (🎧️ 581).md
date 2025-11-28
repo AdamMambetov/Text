@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Wild Ones]]"
+Album: "[[Wild Ones]]"
 Creators:
   - "[[Flo Rida (🎙️ 312)]]"
 Cover: ""

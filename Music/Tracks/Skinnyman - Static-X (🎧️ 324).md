@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Start a War [2005] {Static-X}]]"
+Album: "[[Start a War [2005] {Static-X}]]"
 Creators:
   - "[[Static-X]]"
 Cover: ""

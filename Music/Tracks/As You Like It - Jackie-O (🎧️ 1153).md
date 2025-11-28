@@ -1,5 +1,5 @@
 ---
-Album: "[[📼As You Like It]]"
+Album: "[[As You Like It]]"
 Creators:
   - "[[Jackie-O (🎙️ 341)]]"
 Cover: ""

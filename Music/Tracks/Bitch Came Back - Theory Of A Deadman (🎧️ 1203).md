@@ -1,5 +1,5 @@
 ---
-Album: "[[📼The Truth Is...]]"
+Album: "[[The Truth Is...]]"
 Creators:
   - "[[Theory Of A Deadman (🎙️ 468)]]"
 Cover: ""

@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Day of the Dead]]"
+Album: "[[Day of the Dead]]"
 Creators:
   - "[[Hollywood Undead (🎙️ 332)]]"
 Cover: ""

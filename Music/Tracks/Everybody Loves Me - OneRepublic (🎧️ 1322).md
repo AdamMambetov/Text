@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Waking Up]]"
+Album: "[[Waking Up]]"
 Creators:
   - "[[OneRepublic (🎙️ 403)]]"
 Cover: ""

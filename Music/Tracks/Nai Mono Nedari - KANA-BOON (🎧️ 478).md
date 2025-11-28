@@ -1,5 +1,5 @@
 ---
-Album: "[[📼osu!]]"
+Album: "[[osu!]]"
 Creators:
   - "[[KANA-BOON (🎙️ 347)]]"
 Cover: ""

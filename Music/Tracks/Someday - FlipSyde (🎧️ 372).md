@@ -1,5 +1,5 @@
 ---
-Album: "[[📼We The People]]"
+Album: "[[We The People]]"
 Creators:
   - "[[FlipSyde]]"
 Cover: ""

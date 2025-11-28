@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Getting Away With Murder [2004] {Papa Roach}]]"
+Album: "[[Getting Away With Murder [2004] {Papa Roach}]]"
 Creators:
   - "[[Papa Roach (🎙️ 413)]]"
 Cover: ""

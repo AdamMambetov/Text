@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Simple Plan [Deluxe] [2008] {Simple Plan}]]"
+Album: "[[Simple Plan [Deluxe] [2008] {Simple Plan}]]"
 Creators:
   - "[[Simple Plan (🎙️ 441)]]"
 Cover: ""

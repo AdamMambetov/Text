@@ -1,5 +1,5 @@
 ---
-Album: "[[📼KIKO]]"
+Album: "[[KIKO]]"
 Creators:
   - "[[Panda Eyes, Teminite]]"
 Cover: ""

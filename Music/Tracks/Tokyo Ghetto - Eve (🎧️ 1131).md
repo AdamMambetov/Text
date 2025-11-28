@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Otogi]]"
+Album: "[[Otogi]]"
 Creators:
   - "[[Eve (🎙️ 34)]]"
 Cover: ""

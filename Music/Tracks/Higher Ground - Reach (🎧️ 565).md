@@ -1,5 +1,5 @@
 ---
-Album: "[[📼The Promise of a Life]]"
+Album: "[[The Promise of a Life]]"
 Creators:
   - "[[Reach (🎙️ 427)]]"
 Cover: ""

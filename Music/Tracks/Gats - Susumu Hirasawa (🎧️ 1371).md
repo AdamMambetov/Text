@@ -1,5 +1,5 @@
 ---
-Album: "[[📼BERSERK OST]]"
+Album: "[[BERSERK OST]]"
 Creators:
   - "[[Susumu Hirasawa (🎙️ 454)]]"
 Cover: ""

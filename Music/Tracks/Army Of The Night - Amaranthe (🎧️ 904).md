@@ -1,5 +1,5 @@
 ---
-Album: "[[📼The Sacrament of Sin]]"
+Album: "[[The Sacrament of Sin]]"
 Creators:
   - "[[Amaranthe (🎙️ 174)]]"
 Cover: ""

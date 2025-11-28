@@ -1,5 +1,5 @@
 ---
-Album: "[[📼The Baddest of George Thorogood and the Destroyers]]"
+Album: "[[The Baddest of George Thorogood and the Destroyers]]"
 Creators:
   - "[[George Thorogood & The Destroyers]]"
 Cover: ""

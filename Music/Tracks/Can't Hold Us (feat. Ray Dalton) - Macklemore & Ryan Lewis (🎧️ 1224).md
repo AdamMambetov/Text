@@ -4,7 +4,7 @@ aliases:
   - Can't Hold Us (feat. Ray Dalton)
 Cover: ""
 Year: 2011
-Album: "[[📼The Heist]]"
+Album: "[[The Heist]]"
 Creators:
   - "[[Macklemore & Ryan Lewis]]"
   - "[[Ray Dalton]]"

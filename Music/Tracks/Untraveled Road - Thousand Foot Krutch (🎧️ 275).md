@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Oxygen: Inhale [2014] {Thousand Foot Krutch}]]"
+Album: "[[Oxygen: Inhale [2014] {Thousand Foot Krutch}]]"
 Creators:
   - "[[Thousand Foot Krutch (🎙️ 470)]]"
 Cover: ""

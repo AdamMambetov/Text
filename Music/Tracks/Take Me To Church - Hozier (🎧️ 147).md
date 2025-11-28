@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Hozier [2014] {Hozier}]]"
+Album: "[[Hozier [2014] {Hozier}]]"
 Creators:
   - "[[Hozier]]"
 Cover: ""

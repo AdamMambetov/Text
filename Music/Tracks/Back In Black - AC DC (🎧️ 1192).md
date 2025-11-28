@@ -4,7 +4,7 @@ aliases:
   - Back In Black
 Cover: ""
 Year: 1980
-Album: "[[📼Back In Black]]"
+Album: "[[Back In Black]]"
 Creators:
   - "[[AC DC (🎙️ 144)]]"
 NumberInAlbum: 6

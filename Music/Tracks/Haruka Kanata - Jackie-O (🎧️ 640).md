@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Haruka Kanata]]"
+Album: "[[Haruka Kanata]]"
 Creators:
   - "[[Jackie-O (🎙️ 341)]]"
 Cover: ""

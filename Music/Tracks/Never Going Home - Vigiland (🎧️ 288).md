@@ -1,5 +1,5 @@
 ---
-Album: "[[📼V [2018] {Vigiland}]]"
+Album: "[[V [2018] {Vigiland}]]"
 Creators:
   - "[[Vigiland (🎙️ 481)]]"
 Cover: ""

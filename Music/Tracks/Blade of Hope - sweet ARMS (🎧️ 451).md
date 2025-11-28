@@ -1,5 +1,5 @@
 ---
-Album: "[[📼osu!]]"
+Album: "[[osu!]]"
 Creators:
   - "[[sweet ARMS]]"
 Cover: ""

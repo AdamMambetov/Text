@@ -4,7 +4,7 @@ aliases:
   - Through The Fire And Flames
 Cover: ""
 Year: 2005
-Album: "[[📼Inhuman Rampage]]"
+Album: "[[Inhuman Rampage]]"
 Creators:
   - "[[DragonForce (🎙️ 298)]]"
 NumberInAlbum: 1

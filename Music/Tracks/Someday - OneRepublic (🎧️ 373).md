@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Human]]"
+Album: "[[Human]]"
 Creators:
   - "[[OneRepublic (🎙️ 403)]]"
 Cover: ""

@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Believers Never Die - Greatest Hits]]"
+Album: "[[Believers Never Die - Greatest Hits]]"
 Creators:
   - "[[Fall Out Boy (🎙️ 308)]]"
   - "[[John Mayer]]"

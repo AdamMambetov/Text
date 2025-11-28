@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Native]]"
+Album: "[[Native]]"
 Creators:
   - "[[OneRepublic (🎙️ 403)]]"
 Cover: ""

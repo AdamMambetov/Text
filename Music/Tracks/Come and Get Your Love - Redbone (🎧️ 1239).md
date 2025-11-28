@@ -1,5 +1,5 @@
 ---
-Album: "[[📼The Essential Redbone]]"
+Album: "[[The Essential Redbone]]"
 Creators:
   - "[[Redbone]]"
 Cover: ""

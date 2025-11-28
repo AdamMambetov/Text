@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Transmissions]]"
+Album: "[[Transmissions]]"
 Creators:
   - "[[STARSET]]"
 Cover: ""

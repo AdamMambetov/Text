@@ -4,7 +4,7 @@ aliases:
   - Let Me Hear
 Cover: ""
 Year: 2021
-Album: "[[📼Let Me Hear]]"
+Album: "[[Let Me Hear]]"
 Creators:
   - "[[Kari (🎙️ 351)]]"
   - "[[Blaze (🎙️ 226)]]"

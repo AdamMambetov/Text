@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Vortex]]"
+Album: "[[Vortex]]"
 Creators:
   - "[[DiWilliam (🎙️ 60)]]"
 Cover: ""

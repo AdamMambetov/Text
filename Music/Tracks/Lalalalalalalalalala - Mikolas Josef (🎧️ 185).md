@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Lalalalalalalalalala [2020] {Mikolas Josef}]]"
+Album: "[[Lalalalalalalalalala [2020] {Mikolas Josef}]]"
 Creators:
   - "[[Mikolas Josef]]"
 Cover: ""

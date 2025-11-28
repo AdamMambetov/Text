@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Yura Yura]]"
+Album: "[[Yura Yura]]"
 Creators:
   - "[[MUSEN, ASMO, Silentium]]"
 Cover: ""

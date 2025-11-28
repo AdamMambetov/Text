@@ -1,5 +1,5 @@
 ---
-Album: "[[📼The Attack of The Dead Men ~ Sabaton [2019] {RADIO TAPOK}]]"
+Album: "[[The Attack of The Dead Men ~ Sabaton [2019] {RADIO TAPOK}]]"
 Creators:
   - "[[RADIO TAPOK (🎙️ 423)]]"
 Cover: ""

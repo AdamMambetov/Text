@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Attitude [2019] {Mrs. GREEN APPLE}]]"
+Album: "[[Attitude [2019] {Mrs. GREEN APPLE}]]"
 Creators:
   - "[[Mrs. GREEN APPLE (🎙️ 384)]]"
 Cover: ""

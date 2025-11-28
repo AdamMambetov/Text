@@ -1,5 +1,5 @@
 ---
-Album: "[[📼The Origin Of Love [2012] {MIKA}]]"
+Album: "[[The Origin Of Love [2012] {MIKA}]]"
 Creators:
   - "[[MIKA]]"
 Cover: ""

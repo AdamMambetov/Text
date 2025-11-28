@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Garage Inc.]]"
+Album: "[[Garage Inc.]]"
 Creators:
   - "[[Metallica (🎙️ 379)]]"
 Cover: ""

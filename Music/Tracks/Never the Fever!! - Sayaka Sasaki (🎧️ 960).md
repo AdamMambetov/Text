@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Never the Fever!! - Single]]"
+Album: "[[Never the Fever!! - Single]]"
 Creators:
   - "[[Sayaka Sasaki (🎙️ 435)]]"
 Cover: ""

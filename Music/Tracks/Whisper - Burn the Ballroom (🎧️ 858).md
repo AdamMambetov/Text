@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Melodies for the Outsiders - EP]]"
+Album: "[[Melodies for the Outsiders - EP]]"
 Creators:
   - "[[Burn the Ballroom (🎙️ 244)]]"
 Cover: ""

@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Touch off]]"
+Album: "[[Touch off]]"
 Creators:
   - "[[UVERworld (🎙️ 477)]]"
 Cover: ""

@@ -1,5 +1,5 @@
 ---
-Album: "[[📼osu!]]"
+Album: "[[osu!]]"
 Creators:
   - "[[ONE OK ROCK (🎙️ 402)]]"
 Cover: ""

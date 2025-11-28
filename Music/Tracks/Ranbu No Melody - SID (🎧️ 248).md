@@ -1,5 +1,5 @@
 ---
-Album: "[[📼SID Anime Best 2008-2017 [2018] {SID}]]"
+Album: "[[SID Anime Best 2008-2017 [2018] {SID}]]"
 Creators:
   - "[[SID (🎙️ 439)]]"
 Cover: ""

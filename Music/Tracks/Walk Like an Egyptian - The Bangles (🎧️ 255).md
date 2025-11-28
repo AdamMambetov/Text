@@ -1,5 +1,5 @@
 ---
-Album: "[[📼We Are The '80s [2006] {The Bangles}]]"
+Album: "[[We Are The '80s [2006] {The Bangles}]]"
 Creators:
   - "[[The Bangles]]"
 Cover: ""

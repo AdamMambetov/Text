@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Notes From The Underground - Unabridged [2012] {Hollywood Undead}]]"
+Album: "[[Notes From The Underground - Unabridged [2012] {Hollywood Undead}]]"
 Creators:
   - "[[Hollywood Undead (🎙️ 332)]]"
 Cover: ""

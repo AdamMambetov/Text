@@ -1,5 +1,5 @@
 ---
-Album: "[[📼You're Going Down ~ Sick Puppies [2021] {Everblack Melodies}]]"
+Album: "[[You're Going Down ~ Sick Puppies [2021] {Everblack Melodies}]]"
 Creators:
   - "[[Everblack Melodies (🎙️ 307)]]"
 Cover: ""

@@ -1,5 +1,5 @@
 ---
-Album: "[[📼osu!]]"
+Album: "[[osu!]]"
 Creators:
   - "[[Sati Akura (🎙️ 359)]]"
 Cover: ""

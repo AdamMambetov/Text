@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Ultimate Collection]]"
+Album: "[[Ultimate Collection]]"
 Creators:
   - "[[Eurythmics]]"
   - "[[Annie Lennox (🎙️ 185)]]"

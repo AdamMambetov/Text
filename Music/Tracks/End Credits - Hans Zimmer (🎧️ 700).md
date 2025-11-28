@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Pirates of the Caribbean: On Stranger Tides]]"
+Album: "[[Pirates of the Caribbean: On Stranger Tides]]"
 Creators:
   - "[[Hans Zimmer (🎙️ 328)]]"
 Cover: ""

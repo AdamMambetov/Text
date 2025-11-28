@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Blessed & Possessed [2015] {Powerwolf}]]"
+Album: "[[Blessed & Possessed [2015] {Powerwolf}]]"
 Creators:
   - "[[Powerwolf (🎙️ 420)]]"
 Cover: ""

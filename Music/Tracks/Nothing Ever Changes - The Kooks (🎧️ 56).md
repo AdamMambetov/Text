@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Konk Deluxe]]"
+Album: "[[Konk Deluxe]]"
 Creators:
   - "[[The Kooks (🎙️ 459)]]"
 Cover: ""

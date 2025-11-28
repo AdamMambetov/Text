@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Hope]]"
+Album: "[[Hope]]"
 Creators:
   - "[[The Strumbellas]]"
 Cover: ""

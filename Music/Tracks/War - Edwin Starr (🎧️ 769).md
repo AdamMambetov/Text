@@ -1,5 +1,5 @@
 ---
-Album: "[[📼War & Peace]]"
+Album: "[[War & Peace]]"
 Creators:
   - "[[Edwin Starr (🎙️ 301)]]"
 Cover: ""

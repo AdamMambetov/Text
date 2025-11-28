@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Welcome To My Freakshow]]"
+Album: "[[Welcome To My Freakshow]]"
 Creators:
   - "[[Nomy (🎙️ 398)]]"
 Cover: ""

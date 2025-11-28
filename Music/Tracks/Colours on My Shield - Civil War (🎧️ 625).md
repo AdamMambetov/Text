@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Gods & Generals]]"
+Album: "[[Gods & Generals]]"
 Creators:
   - "[[Civil War (🎙️ 264)]]"
 Cover: ""

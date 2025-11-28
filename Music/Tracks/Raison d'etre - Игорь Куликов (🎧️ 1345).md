@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Raison d'etre]]"
+Album: "[[Raison d'etre]]"
 Creators:
   - "[[Игорь Куликов (🎙️ 71)]]"
 Cover: ""

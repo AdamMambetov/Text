@@ -1,5 +1,5 @@
 ---
-Album: "[[📼The Days / Nights EP]]"
+Album: "[[The Days / Nights EP]]"
 Creators:
   - "[[Avicii (🎙️ 202)]]"
 Cover: ""

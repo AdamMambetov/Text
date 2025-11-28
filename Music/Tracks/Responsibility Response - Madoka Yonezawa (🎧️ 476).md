@@ -4,7 +4,7 @@ aliases:
   - Responsibility Response
 Cover: ""
 Year: 2016
-Album: "[[📼osu!]]"
+Album: "[[osu!]]"
 Creators:
   - "[[Madoka Yonezawa (🎙️ 340)]]"
 NumberInAlbum: 0

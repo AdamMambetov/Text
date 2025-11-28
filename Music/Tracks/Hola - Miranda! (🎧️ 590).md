@@ -1,5 +1,5 @@
 ---
-Album: "[[📼El Disco de Tu Corazón]]"
+Album: "[[El Disco de Tu Corazón]]"
 Creators:
   - "[[Miranda!]]"
 Cover: ""

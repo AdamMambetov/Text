@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Irokousui]]"
+Album: "[[Irokousui]]"
 Creators:
   - "[[Jackie-O (🎙️ 341)]]"
   - "[[B-Lion (🎙️ 205)]]"

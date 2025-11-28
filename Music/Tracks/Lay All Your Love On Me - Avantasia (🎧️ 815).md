@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Lost In Space]]"
+Album: "[[Lost In Space]]"
 Creators:
   - "[[Avantasia (🎙️ 200)]]"
 Cover: ""

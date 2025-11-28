@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Blasterpiece]]"
+Album: "[[Blasterpiece]]"
 Creators:
   - "[[Bear Ghost (🎙️ 215)]]"
 Cover: ""

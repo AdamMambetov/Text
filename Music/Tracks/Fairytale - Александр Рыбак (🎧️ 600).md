@@ -4,7 +4,7 @@ aliases:
   - Fairytale
 Cover: ""
 Year: 2009
-Album: "[[📼Fairytale]]"
+Album: "[[Fairytale]]"
 Creators:
   - "[[Александр Рыбак (🎙️ 81)]]"
 NumberInAlbum: 1

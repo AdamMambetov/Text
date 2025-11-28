@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Symphony Of Light]]"
+Album: "[[Symphony Of Light]]"
 Creators:
   - "[[The Dark Tenor]]"
 Cover: ""

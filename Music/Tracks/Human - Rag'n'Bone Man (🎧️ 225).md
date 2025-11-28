@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Human [2017] {Rag'n'Bone Man}]]"
+Album: "[[Human [2017] {Rag'n'Bone Man}]]"
 Creators:
   - "[[Rag'n'Bone Man]]"
 Cover: ""

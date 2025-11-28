@@ -1,5 +1,5 @@
 ---
-Album: "[[📼MUKANJYO]]"
+Album: "[[MUKANJYO]]"
 Creators:
   - "[[Survive Said the Prophet (🎙️ 452)]]"
 Cover: ""

@@ -4,7 +4,7 @@ aliases:
   - NONCANDIDATE (Clowns Song, Kaisou, Day of Tragedy Mashup)
 Cover: ""
 Year: 2021
-Album: "[[📼Music]]"
+Album: "[[Music]]"
 Creators:
   - "[[Chimoruki (🎙️ 261)]]"
 NumberInAlbum: 1

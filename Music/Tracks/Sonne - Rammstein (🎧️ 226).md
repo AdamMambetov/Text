@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Mutter [2001] {Rammstein}]]"
+Album: "[[Mutter [2001] {Rammstein}]]"
 Creators:
   - "[[Rammstein (🎙️ 426)]]"
 Cover: ""

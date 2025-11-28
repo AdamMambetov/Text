@@ -4,7 +4,7 @@ aliases:
   - C'mon Down
 Cover: ""
 Year: 2014
-Album: "[[📼Providence]]"
+Album: "[[Providence]]"
 Creators:
   - "[[Poor Mans Poison (🎙️ 417)]]"
 NumberInAlbum: 10

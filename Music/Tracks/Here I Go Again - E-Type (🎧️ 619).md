@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Last Man Standing]]"
+Album: "[[Last Man Standing]]"
 Creators:
   - "[[E-Type (🎙️ 299)]]"
 Cover: ""

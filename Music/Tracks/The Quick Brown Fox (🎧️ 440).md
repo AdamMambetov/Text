@@ -1,5 +1,5 @@
 ---
-Album: "[[📼TQBF - Speedkore 4 Kidz!]]"
+Album: "[[TQBF - Speedkore 4 Kidz!]]"
 Creators:
   - "[[The Quick Brown Fox (🎙️ 464)]]"
 Cover: ""

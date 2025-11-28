@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Blood of the Saints [2011] {Powerwolf}]]"
+Album: "[[Blood of the Saints [2011] {Powerwolf}]]"
 Creators:
   - "[[Powerwolf (🎙️ 420)]]"
 Cover: ""

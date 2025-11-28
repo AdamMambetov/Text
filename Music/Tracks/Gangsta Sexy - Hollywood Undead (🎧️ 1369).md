@@ -1,5 +1,5 @@
 ---
-Album: "[[📼American Tragedy]]"
+Album: "[[American Tragedy]]"
 Creators:
   - "[[Hollywood Undead (🎙️ 332)]]"
 Cover: ""

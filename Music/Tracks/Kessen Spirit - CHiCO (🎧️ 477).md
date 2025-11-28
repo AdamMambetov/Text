@@ -4,7 +4,7 @@ aliases:
   - Kessen Spirit
 Cover: ""
 Year: 0
-Album: "[[📼osu!]]"
+Album: "[[osu!]]"
 Creators:
   - "[[CHiCO (🎙️ 259)]]"
   - "[[HoneyWorks (🎙️ 260)]]"

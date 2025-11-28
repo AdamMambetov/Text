@@ -1,5 +1,5 @@
 ---
-Album: "[[📼A Pretty Picture in a Most Disturbing Way [2020] {YOHIO}]]"
+Album: "[[A Pretty Picture in a Most Disturbing Way [2020] {YOHIO}]]"
 Creators:
   - "[[YOHIO (🎙️ 488)]]"
 Cover: ""

@@ -1,5 +1,5 @@
 ---
-Album: "[[📼V]]"
+Album: "[[V]]"
 Creators:
   - "[[Maroon 5 (🎙️ 378)]]"
 Cover: ""

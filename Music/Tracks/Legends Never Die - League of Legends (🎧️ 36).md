@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Legends Never Die]]"
+Album: "[[Legends Never Die]]"
 Creators:
   - "[[League of Legends (🎙️ 73)]]"
 Cover: ""

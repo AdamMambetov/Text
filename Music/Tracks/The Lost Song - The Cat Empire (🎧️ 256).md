@@ -1,5 +1,5 @@
 ---
-Album: "[[📼The Cat Empire [2012] {The Cat Empire}]]"
+Album: "[[The Cat Empire [2012] {The Cat Empire}]]"
 Creators:
   - "[[The Cat Empire]]"
 Cover: ""

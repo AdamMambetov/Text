@@ -1,5 +1,5 @@
 ---
-Album: "[[📼V [2015] {Wavves}]]"
+Album: "[[V [2015] {Wavves}]]"
 Creators:
   - "[[Wavves (🎙️ 482)]]"
 Cover: ""

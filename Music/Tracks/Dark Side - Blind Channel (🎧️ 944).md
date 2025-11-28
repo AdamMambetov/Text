@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Dark Side]]"
+Album: "[[Dark Side]]"
 Creators:
   - "[[Blind Channel (🎙️ 227)]]"
 Cover: ""

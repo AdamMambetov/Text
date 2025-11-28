@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Demons Are A Girl's Best Friend]]"
+Album: "[[Demons Are A Girl's Best Friend]]"
 Creators:
   - "[[RADIO TAPOK (🎙️ 423)]]"
 Cover: ""

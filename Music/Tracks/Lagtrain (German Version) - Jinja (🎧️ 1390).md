@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Lagtrain (German Version)]]"
+Album: "[[Lagtrain (German Version)]]"
 Creators:
   - "[[Jinja (🎙️ 344)]]"
 Cover: ""

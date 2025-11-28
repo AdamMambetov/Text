@@ -1,5 +1,5 @@
 ---
-Album: "[[📼PORNOGRAFFITTI 15th Anniversary　“ALL TIME SINGLES” [2013] {Porno Graffitti}]]"
+Album: "[[PORNOGRAFFITTI 15th Anniversary　“ALL TIME SINGLES” [2013] {Porno Graffitti}]]"
 Creators:
   - "[[Porno Graffitti (🎙️ 418)]]"
 Cover: ""

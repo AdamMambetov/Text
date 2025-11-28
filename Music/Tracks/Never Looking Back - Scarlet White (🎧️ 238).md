@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Scarlet White [2012] {Scarlet White}]]"
+Album: "[[Scarlet White [2012] {Scarlet White}]]"
 Creators:
   - "[[Scarlet White]]"
 Cover: ""

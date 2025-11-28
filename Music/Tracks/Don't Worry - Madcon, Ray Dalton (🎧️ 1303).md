@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Don't Worry]]"
+Album: "[[Don't Worry]]"
 Creators:
   - "[[Madcon, Ray Dalton]]"
 Cover: ""

@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Smells Like Children]]"
+Album: "[[Smells Like Children]]"
 Creators:
   - "[[Marilyn Manson]]"
 Cover: ""

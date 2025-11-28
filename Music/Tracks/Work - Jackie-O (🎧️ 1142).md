@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Work]]"
+Album: "[[Work]]"
 Creators:
   - "[[Jackie-O (🎙️ 341)]]"
   - "[[Tanri]]"

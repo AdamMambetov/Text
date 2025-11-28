@@ -1,5 +1,5 @@
 ---
-Album: "[[📼osu!]]"
+Album: "[[osu!]]"
 Creators:
   - "[[Harada Hitomi, Kayano Ai & Ogura Yui]]"
 Cover: ""

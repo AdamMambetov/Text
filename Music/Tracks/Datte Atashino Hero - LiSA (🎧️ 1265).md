@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Datte Atashino Hero]]"
+Album: "[[Datte Atashino Hero]]"
 Creators:
   - "[[LiSA (🎙️ 65)]]"
 Cover: ""

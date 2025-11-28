@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Pray for the Wicked [2018] {Panic! At The Disco}]]"
+Album: "[[Pray for the Wicked [2018] {Panic! At The Disco}]]"
 Creators:
   - "[[Panic! At The Disco (🎙️ 412)]]"
 Cover: ""

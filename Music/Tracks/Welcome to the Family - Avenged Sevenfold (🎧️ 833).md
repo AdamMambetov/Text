@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Nightmare]]"
+Album: "[[Nightmare]]"
 Creators:
   - "[[Avenged Sevenfold (🎙️ 201)]]"
 Cover: ""

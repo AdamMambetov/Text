@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Maximalism]]"
+Album: "[[Maximalism]]"
 Creators:
   - "[[Amaranthe (🎙️ 174)]]"
 Cover: ""

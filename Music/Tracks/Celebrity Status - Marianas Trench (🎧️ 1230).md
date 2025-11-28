@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Masterpiece Theatre]]"
+Album: "[[Masterpiece Theatre]]"
 Creators:
   - "[[Marianas Trench]]"
 Cover: ""

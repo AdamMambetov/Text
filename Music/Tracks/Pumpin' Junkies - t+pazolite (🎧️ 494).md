@@ -1,5 +1,5 @@
 ---
-Album: "[[📼osu!]]"
+Album: "[[osu!]]"
 Creators:
   - "[[t+pazolite (🎙️ 456)]]"
 Cover: ""

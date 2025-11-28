@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Alive [2014] {Tim McMorris}]]"
+Album: "[[Alive [2014] {Tim McMorris}]]"
 Creators:
   - "[[Tim McMorris (🎙️ 472)]]"
 Cover: ""

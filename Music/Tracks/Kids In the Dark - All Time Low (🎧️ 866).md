@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Future Hearts]]"
+Album: "[[Future Hearts]]"
 Creators:
   - "[[All Time Low (🎙️ 169)]]"
 Cover: ""

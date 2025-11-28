@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Trespassing]]"
+Album: "[[Trespassing]]"
 Creators:
   - "[[Adam Lambert (🎙️ 146)]]"
 Cover: ""

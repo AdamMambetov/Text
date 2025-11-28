@@ -1,5 +1,5 @@
 ---
-Album: "[[📼<I°_°I>]]"
+Album: "[[<I°_°I>]]"
 Creators:
   - "[[Caravan Palace (🎙️ 250)]]"
 Cover: ""

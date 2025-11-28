@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Here and Now [2011] {Nickelback}]]"
+Album: "[[Here and Now [2011] {Nickelback}]]"
 Creators:
   - "[[Nickelback (🎙️ 392)]]"
 Cover: ""

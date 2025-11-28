@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Hell Like Heaven]]"
+Album: "[[Hell Like Heaven]]"
 Creators:
   - "[[the peggies (🎙️ 462)]]"
 Cover: ""

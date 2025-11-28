@@ -1,5 +1,5 @@
 ---
-Album: "[[📼#3 [2012] {The Script; will.i.am}]]"
+Album: "[[#3 [2012] {The Script; will.i.am}]]"
 Creators:
   - "[[The Script (🎙️ 466)]]"
   - "[[will.i.am]]"

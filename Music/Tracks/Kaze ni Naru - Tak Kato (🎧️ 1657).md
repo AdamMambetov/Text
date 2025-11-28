@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Music]]"
+Album: "[[Music]]"
 Creators:
   - "[[Tak Kato]]"
 Cover: ""

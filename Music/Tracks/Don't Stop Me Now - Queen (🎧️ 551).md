@@ -1,5 +1,5 @@
 ---
-Album: "[[📼The Platinum Collection]]"
+Album: "[[The Platinum Collection]]"
 Creators:
   - "[[Queen (🎙️ 422)]]"
 Cover: ""

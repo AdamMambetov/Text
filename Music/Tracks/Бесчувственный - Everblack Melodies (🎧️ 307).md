@@ -1,5 +1,5 @@
 ---
-Album: "[[📼MUKANJYO ~ Survive Said the Prophet [2020] {Everblack Melodies}]]"
+Album: "[[MUKANJYO ~ Survive Said the Prophet [2020] {Everblack Melodies}]]"
 Creators:
   - "[[Everblack Melodies (🎙️ 307)]]"
 Cover: ""

@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Staccato]]"
+Album: "[[Staccato]]"
 Creators:
   - "[[Gabriel Saban]]"
 Cover: ""

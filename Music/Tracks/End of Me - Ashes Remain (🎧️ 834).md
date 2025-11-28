@@ -1,5 +1,5 @@
 ---
-Album: "[[📼What I've Become]]"
+Album: "[[What I've Become]]"
 Creators:
   - "[[Ashes Remain (🎙️ 192)]]"
 Cover: ""

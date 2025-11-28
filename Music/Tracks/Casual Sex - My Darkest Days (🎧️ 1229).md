@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Sick and Twisted Affair (Deluxe Edition)]]"
+Album: "[[Sick and Twisted Affair (Deluxe Edition)]]"
 Creators:
   - "[[My Darkest Days]]"
 Cover: ""

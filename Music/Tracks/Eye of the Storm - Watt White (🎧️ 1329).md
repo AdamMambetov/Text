@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Eye of the Storm]]"
+Album: "[[Eye of the Storm]]"
 Creators:
   - "[[Watt White]]"
 Cover: ""

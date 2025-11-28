@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Broken Youth - Single]]"
+Album: "[[Broken Youth - Single]]"
 Creators:
   - "[[NICO Touches the Walls (🎙️ 393)]]"
 Cover: ""

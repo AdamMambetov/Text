@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Tonight]]"
+Album: "[[Tonight]]"
 Creators:
   - "[[Sunset Neon]]"
 Cover: ""

@@ -1,5 +1,5 @@
 ---
-Album: "[[📼SAMURAI SESSIONS vol.2]]"
+Album: "[[SAMURAI SESSIONS vol.2]]"
 Creators:
   - "[[Miyavi (🎙️ 381)]]"
   - "[[kenken]]"

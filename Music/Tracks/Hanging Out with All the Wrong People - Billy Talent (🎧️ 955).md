@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Crisis of Faith]]"
+Album: "[[Crisis of Faith]]"
 Creators:
   - "[[Billy Talent (🎙️ 221)]]"
 Cover: ""

@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Young's Old Covers (Nostalgic Movies)]]"
+Album: "[[Young's Old Covers (Nostalgic Movies)]]"
 Creators:
   - "[[Jonathan Young (🎙️ 345)]]"
 Cover: ""

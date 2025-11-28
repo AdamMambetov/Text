@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Strike Back - Single]]"
+Album: "[[Strike Back - Single]]"
 Creators:
   - "[[Caleb Hyles (🎙️ 248)]]"
 Cover: ""

@@ -4,7 +4,7 @@ aliases:
   - Extra Magic Hour
 Cover: ""
 Year: 2015
-Album: "[[📼Your Ears, Our Years (Pretty Edition)]]"
+Album: "[[Your Ears, Our Years (Pretty Edition)]]"
 Creators:
   - "[[AKINO (🎙️ 160)]]"
   - "[[bless4 (🎙️ 161)]]"

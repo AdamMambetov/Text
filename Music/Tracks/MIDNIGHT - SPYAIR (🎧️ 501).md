@@ -1,5 +1,5 @@
 ---
-Album: "[[📼osu!]]"
+Album: "[[osu!]]"
 Creators:
   - "[[SPYAIR (🎙️ 446)]]"
 Cover: ""

@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Unravel]]"
+Album: "[[Unravel]]"
 Creators:
   - "[[Jackie-O (🎙️ 341)]]"
 Cover: ""

@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Hallelujah]]"
+Album: "[[Hallelujah]]"
 Creators:
   - "[[Theory Of A Deadman (🎙️ 468)]]"
 Cover: ""

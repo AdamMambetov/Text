@@ -4,7 +4,7 @@ aliases:
   - Do Ya Thing
 Cover: ""
 Year: 2005
-Album: "[[📼25 to Life]]"
+Album: "[[25 to Life]]"
 Creators:
   - "[[P$C (🎙️ 407)]]"
   - "[[Young Dro (🎙️ 408)]]"

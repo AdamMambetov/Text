@@ -1,5 +1,5 @@
 ---
-Album: "[[📼TOP]]"
+Album: "[[TOP]]"
 Creators:
   - "[[Jackie-O (🎙️ 341)]]"
 Cover: ""

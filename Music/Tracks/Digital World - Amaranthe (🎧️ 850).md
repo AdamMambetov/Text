@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Massive Addictive]]"
+Album: "[[Massive Addictive]]"
 Creators:
   - "[[Amaranthe (🎙️ 174)]]"
 Cover: ""

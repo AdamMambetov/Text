@@ -4,7 +4,7 @@ aliases:
   - Again
 Cover: ""
 Year: 2009
-Album: "[[📼Green Garden Pop]]"
+Album: "[[Green Garden Pop]]"
 Creators:
   - "[[YUI (🎙️ 489)]]"
 NumberInAlbum: 3

@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Dschinghis Khan]]"
+Album: "[[Dschinghis Khan]]"
 Creators:
   - "[[Dschinghis Khan]]"
 Cover: ""

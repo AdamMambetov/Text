@@ -4,7 +4,7 @@ aliases:
   - Departure!
 Cover: ""
 Year: 2020
-Album: "[[📼Departure!]]"
+Album: "[[Departure!]]"
 Creators:
   - "[[Игорь Куликов (🎙️ 71)]]"
 NumberInAlbum: 1

@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Not Long For This World]]"
+Album: "[[Not Long For This World]]"
 Creators:
   - "[[Игорь Куликов (🎙️ 71)]]"
 Cover: ""

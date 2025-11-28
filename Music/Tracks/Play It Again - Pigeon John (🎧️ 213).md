@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Gotta Good Feelin' [2020] {Pigeon John}]]"
+Album: "[[Gotta Good Feelin' [2020] {Pigeon John}]]"
 Creators:
   - "[[Pigeon John (🎙️ 415)]]"
 Cover: ""

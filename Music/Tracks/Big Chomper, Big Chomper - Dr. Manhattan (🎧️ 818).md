@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Dr Manhattan]]"
+Album: "[[Dr Manhattan]]"
 Creators:
   - "[[Dr. Manhattan (🎙️ 297)]]"
 Cover: ""

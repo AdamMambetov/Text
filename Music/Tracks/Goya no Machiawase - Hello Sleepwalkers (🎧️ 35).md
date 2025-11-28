@@ -1,5 +1,5 @@
 ---
-Album: "[[📼午夜の待ち合わせ]]"
+Album: "[[午夜の待ち合わせ]]"
 Creators:
   - "[[Hello Sleepwalkers (🎙️ 330)]]"
 Cover: ""

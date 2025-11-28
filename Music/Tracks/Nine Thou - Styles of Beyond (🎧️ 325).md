@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Nine Thou [2008] {Styles of Beyond}]]"
+Album: "[[Nine Thou [2008] {Styles of Beyond}]]"
 Creators:
   - "[[Styles of Beyond]]"
 Cover: ""

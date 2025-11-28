@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Heart 4 Sale]]"
+Album: "[[Heart 4 Sale]]"
 Creators:
   - "[[Alex Swings Oscar Sings! (🎙️ 163)]]"
 Cover: ""

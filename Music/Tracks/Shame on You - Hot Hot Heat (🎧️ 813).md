@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Elevator]]"
+Album: "[[Elevator]]"
 Creators:
   - "[[Hot Hot Heat]]"
 Cover: ""

@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Friendzoned]]"
+Album: "[[Friendzoned]]"
 Creators:
   - "[[S3RL]]"
   - "[[Mixie Moon]]"

@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Graveyard Shift [2017] {Motionless In White}]]"
+Album: "[[Graveyard Shift [2017] {Motionless In White}]]"
 Creators:
   - "[[Motionless In White]]"
 Cover: ""

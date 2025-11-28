@@ -1,5 +1,5 @@
 ---
-Album: "[[📼osu!]]"
+Album: "[[osu!]]"
 Creators:
   - "[[ZUTOMAYO;ram seeni;Hyakkai Outo;Jun Murayama;ACANE;Yoshihiro Kawamura;Ryosuke Nikamoto;Takayuki Sasaki]]"
 Cover: ""

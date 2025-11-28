@@ -1,5 +1,5 @@
 ---
-Album: "[[📼ARROGANCE]]"
+Album: "[[ARROGANCE]]"
 Creators:
   - "[[onumi]]"
 Cover: ""

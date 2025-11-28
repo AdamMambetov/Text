@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Monstercat 017 - Ascension]]"
+Album: "[[Monstercat 017 - Ascension]]"
 Creators:
   - "[[Tristam]]"
   - "[[Braken (🎙️ 237)]]"

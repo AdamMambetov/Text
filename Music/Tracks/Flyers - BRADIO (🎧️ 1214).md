@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Flyers - EP]]"
+Album: "[[Flyers - EP]]"
 Creators:
   - "[[BRADIO (🎙️ 236)]]"
 Cover: ""

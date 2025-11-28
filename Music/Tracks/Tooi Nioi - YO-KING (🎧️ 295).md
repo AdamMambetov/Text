@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Tooi Nioi [2013] {YO-KING}]]"
+Album: "[[Tooi Nioi [2013] {YO-KING}]]"
 Creators:
   - "[[YO-KING (🎙️ 487)]]"
 Cover: ""

@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Shrek [2001] {Smash Mouth}]]"
+Album: "[[Shrek [2001] {Smash Mouth}]]"
 Creators:
   - "[[Smash Mouth (🎙️ 444)]]"
 Cover: ""

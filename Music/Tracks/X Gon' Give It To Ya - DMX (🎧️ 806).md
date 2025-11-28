@@ -1,5 +1,5 @@
 ---
-Album: "[[📼X Gon' Give It To Ya]]"
+Album: "[[X Gon' Give It To Ya]]"
 Creators:
   - "[[DMX (🎙️ 292)]]"
 Cover: ""

@@ -1,5 +1,5 @@
 ---
-Album: "[[📼osu!]]"
+Album: "[[osu!]]"
 Creators:
   - "[[Nogizaka46 (🎙️ 396)]]"
 Cover: ""

@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Thousand Foot Krutch Collection]]"
+Album: "[[Thousand Foot Krutch Collection]]"
 Creators:
   - "[[Thousand Foot Krutch (🎙️ 470)]]"
 Cover: ""

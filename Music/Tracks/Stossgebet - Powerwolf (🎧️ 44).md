@@ -4,7 +4,7 @@ aliases:
   - Stossgebet
 Cover: ""
 Year: 0
-Album: "[[📼The Sacrament of Sin 2018]]"
+Album: "[[The Sacrament of Sin 2018]]"
 Creators:
   - "[[Powerwolf (🎙️ 420)]]"
 NumberInAlbum: 0

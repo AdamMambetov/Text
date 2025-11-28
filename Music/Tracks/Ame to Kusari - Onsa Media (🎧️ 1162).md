@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Ame to Kusari]]"
+Album: "[[Ame to Kusari]]"
 Creators:
   - "[[Onsa Media (🎙️ 404)]]"
 Cover: ""

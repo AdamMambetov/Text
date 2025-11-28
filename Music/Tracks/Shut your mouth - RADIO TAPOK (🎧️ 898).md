@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Shut your mouth]]"
+Album: "[[Shut your mouth]]"
 Creators:
   - "[[RADIO TAPOK (🎙️ 423)]]"
 Cover: ""

@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Go the Distance [2022] {Peyton Parrish}]]"
+Album: "[[Go the Distance [2022] {Peyton Parrish}]]"
 Creators:
   - "[[Peyton Parrish (🎙️ 414)]]"
 Cover: ""

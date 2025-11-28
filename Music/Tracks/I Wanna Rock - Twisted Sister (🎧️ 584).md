@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Twisted Sister: Essentials]]"
+Album: "[[Twisted Sister: Essentials]]"
 Creators:
   - "[[Twisted Sister (🎙️ 476)]]"
 Cover: ""

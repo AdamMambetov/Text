@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Live & Unsigned 2]]"
+Album: "[[Live & Unsigned 2]]"
 Creators:
   - "[[Andrew Maxwell Morris (🎙️ 180)]]"
 Cover: ""

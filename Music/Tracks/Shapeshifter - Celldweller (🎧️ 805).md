@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Celldweller]]"
+Album: "[[Celldweller]]"
 Creators:
   - "[[Celldweller (🎙️ 253)]]"
   - "[[Styles of Beyond]]"

@@ -4,7 +4,7 @@ aliases:
   - Bassdrop Freaks
 Cover: ""
 Year: 2018
-Album: "[[📼osu!]]"
+Album: "[[osu!]]"
 Creators:
   - "[[Camellia (🎙️ 53)]]"
   - "[[Nanahira (🎙️ 249)]]"

@@ -4,7 +4,7 @@ aliases:
   - 7 -seven- (TV Size)
 Cover: ""
 Year: 2014
-Album: "[[📼7 -seven-]]"
+Album: "[[7 -seven-]]"
 Creators:
   - "[[FLOW (🎙️ 313)]]"
   - "[[GRANRODEO (🎙️ 314)]]"

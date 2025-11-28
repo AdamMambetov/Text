@@ -1,5 +1,5 @@
 ---
-Album: "[[📼BLOODY STREAM]]"
+Album: "[[BLOODY STREAM]]"
 Creators:
   - "[[Coda (🎙️ 266)]]"
 Cover: ""

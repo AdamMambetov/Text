@@ -1,5 +1,5 @@
 ---
-Album: "[[📼FLOW ANIME BEST]]"
+Album: "[[FLOW ANIME BEST]]"
 Creators:
   - "[[FLOW (🎙️ 313)]]"
 Cover: ""

@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Carry On]]"
+Album: "[[Carry On]]"
 Creators:
   - "[[The Score (🎙️ 465)]]"
 Cover: ""

@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Dive Back in Time]]"
+Album: "[[Dive Back in Time]]"
 Creators:
   - "[[Jackie-O (🎙️ 341)]]"
 Cover: ""

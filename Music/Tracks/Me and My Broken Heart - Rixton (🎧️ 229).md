@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Let The Road [2014] {Rixton}]]"
+Album: "[[Let The Road [2014] {Rixton}]]"
 Creators:
   - "[[Rixton]]"
 Cover: ""

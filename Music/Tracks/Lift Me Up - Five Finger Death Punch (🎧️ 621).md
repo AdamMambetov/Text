@@ -4,7 +4,7 @@ aliases:
   - Lift Me Up
 Cover: ""
 Year: 2017
-Album: "[[📼A Decade of Destruction]]"
+Album: "[[A Decade of Destruction]]"
 Creators:
   - "[[Five Finger Death Punch (🎙️ 311)]]"
   - "[[Rob Halford]]"

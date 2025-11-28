@@ -1,5 +1,5 @@
 ---
-Album: "[[📼King of the Jungle]]"
+Album: "[[King of the Jungle]]"
 Creators:
   - "[[Shanguy]]"
 Cover: ""

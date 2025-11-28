@@ -4,7 +4,7 @@ aliases:
   - Summertime Sadness
 Cover: ""
 Year: 2012
-Album: "[[📼Born to Die: The Paradise Edition [2012] {Lana Del Rey}]]"
+Album: "[[Born to Die: The Paradise Edition [2012] {Lana Del Rey}]]"
 Creators:
   - "[[Lana Del Rey]]"
 NumberInAlbum: 11

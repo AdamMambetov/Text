@@ -1,5 +1,5 @@
 ---
-Album: "[[📼The Good Times]]"
+Album: "[[The Good Times]]"
 Creators:
   - "[[Afroman (🎙️ 157)]]"
 Cover: ""

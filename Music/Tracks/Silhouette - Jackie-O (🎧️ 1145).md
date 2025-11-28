@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Silhouette]]"
+Album: "[[Silhouette]]"
 Creators:
   - "[[Jackie-O (🎙️ 341)]]"
 Cover: ""

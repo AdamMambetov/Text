@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Shinzou wo Sasageyo!]]"
+Album: "[[Shinzou wo Sasageyo!]]"
 Creators:
   - "[[Jackie-O (🎙️ 341)]]"
 Cover: ""

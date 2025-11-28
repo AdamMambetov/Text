@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Make It Bun Dem After Hours EP [2012] {Skrillex; Damian Marley}]]"
+Album: "[[Make It Bun Dem After Hours EP [2012] {Skrillex; Damian Marley}]]"
 Creators:
   - "[[Skrillex]]"
   - "[[Damian Marley (🎙️ 276)]]"

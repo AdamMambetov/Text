@@ -4,7 +4,7 @@ aliases:
   - Warriors
 Cover: ""
 Year: 2020
-Album: "[[📼Warriors]]"
+Album: "[[Warriors]]"
 Creators:
   - "[[League of Legends (🎙️ 73)]]"
   - "[[2WEI (🎙️ 68)]]"

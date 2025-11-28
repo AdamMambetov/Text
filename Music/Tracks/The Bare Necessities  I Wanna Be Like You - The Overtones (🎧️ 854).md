@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Saturday Night at the Movies]]"
+Album: "[[Saturday Night at the Movies]]"
 Creators:
   - "[[The Overtones]]"
   - "[[Lachie Chapman]]"

@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Creepin Towards The Door [2015] {Griffinilla; Lenich & Kirya}]]"
+Album: "[[Creepin Towards The Door [2015] {Griffinilla; Lenich & Kirya}]]"
 Creators:
   - "[[Lenich & Kirya]]"
 Cover: ""

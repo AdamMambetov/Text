@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Barra Limpa [1967] {Luiz Henrique}]]"
+Album: "[[Barra Limpa [1967] {Luiz Henrique}]]"
 Creators:
   - "[[Luiz Henrique]]"
 Cover: ""

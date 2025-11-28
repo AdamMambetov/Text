@@ -4,7 +4,7 @@ aliases:
   - Солдат
 Cover: ""
 Year: 2003
-Album: "[[📼Пятница]]"
+Album: "[[Пятница]]"
 Creators:
   - "[[5'nizza (🎙️ 75)]]"
 NumberInAlbum: 14

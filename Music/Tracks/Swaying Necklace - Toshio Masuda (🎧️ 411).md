@@ -1,5 +1,5 @@
 ---
-Album: "[[📼NARUTO ORIGINAL SOUNDTRACK 3]]"
+Album: "[[NARUTO ORIGINAL SOUNDTRACK 3]]"
 Creators:
   - "[[Toshio Masuda]]"
 Cover: ""

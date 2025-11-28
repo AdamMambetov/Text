@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Ensemble Play]]"
+Album: "[[Ensemble Play]]"
 Creators:
   - "[[Creepy Nuts (🎙️ 270)]]"
 Cover: ""

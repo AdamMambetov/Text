@@ -4,7 +4,7 @@ aliases:
   - Enemy
 Cover: ""
 Year: 2021
-Album: "[[📼Mercury - Act 1]]"
+Album: "[[Mercury - Act 1]]"
 Creators:
   - "[[Imagine Dragons (🎙️ 336)]]"
   - "[[J.I.D (🎙️ 337)]]"

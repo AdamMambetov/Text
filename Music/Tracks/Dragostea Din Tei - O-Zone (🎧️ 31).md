@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Dragonstea Din Tei]]"
+Album: "[[Dragonstea Din Tei]]"
 Creators:
   - "[[O-Zone (🎙️ 400)]]"
 Cover: ""

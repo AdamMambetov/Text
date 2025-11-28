@@ -1,5 +1,5 @@
 ---
-Album: "[[📼The Dungeonmaster's Guide]]"
+Album: "[[The Dungeonmaster's Guide]]"
 Creators:
   - "[[Stratus]]"
 Cover: ""

@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Resister]]"
+Album: "[[Resister]]"
 Creators:
   - "[[ASCA (🎙️ 191)]]"
 Cover: ""

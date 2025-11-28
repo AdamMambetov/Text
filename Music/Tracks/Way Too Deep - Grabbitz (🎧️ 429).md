@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Monstercat 022 - Contact]]"
+Album: "[[Monstercat 022 - Contact]]"
 Creators:
   - "[[Grabbitz]]"
 Cover: ""

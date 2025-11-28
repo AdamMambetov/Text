@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Realize [2020] {Sati Akura}]]"
+Album: "[[Realize [2020] {Sati Akura}]]"
 Creators:
   - "[[Sati Akura (🎙️ 359)]]"
 Cover: ""

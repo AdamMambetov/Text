@@ -4,7 +4,7 @@ aliases:
   - Warriors
 Cover: ""
 Year: 2022
-Album: "[[📼Warriors]]"
+Album: "[[Warriors]]"
 Creators:
   - "[[Onsa Media (🎙️ 404)]]"
   - "[[Jackie-O (🎙️ 341)]]"

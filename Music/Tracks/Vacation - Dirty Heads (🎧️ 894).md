@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Swim Team]]"
+Album: "[[Swim Team]]"
 Creators:
   - "[[Dirty Heads (🎙️ 287)]]"
 Cover: ""

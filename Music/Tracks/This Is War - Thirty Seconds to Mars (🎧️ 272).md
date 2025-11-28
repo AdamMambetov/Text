@@ -1,5 +1,5 @@
 ---
-Album: "[[📼This Is War [2009] {Thirty Seconds to Mars}]]"
+Album: "[[This Is War [2009] {Thirty Seconds to Mars}]]"
 Creators:
   - "[[Thirty Seconds to Mars (🎙️ 469)]]"
 Cover: ""

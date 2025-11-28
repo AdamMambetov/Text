@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Courage]]"
+Album: "[[Courage]]"
 Creators:
   - "[[Marie Bibika (🎙️ 376)]]"
 Cover: ""

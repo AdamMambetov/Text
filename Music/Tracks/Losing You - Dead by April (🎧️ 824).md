@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Dead by April]]"
+Album: "[[Dead by April]]"
 Creators:
   - "[[Dead by April (🎙️ 282)]]"
 Cover: ""

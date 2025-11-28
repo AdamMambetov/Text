@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Kings of Crunk]]"
+Album: "[[Kings of Crunk]]"
 Creators:
   - "[[Lil Jon & The East Side Boyz & Ying Yang Twins]]"
 Cover: ""

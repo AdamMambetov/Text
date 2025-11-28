@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Scars & Souvenirs]]"
+Album: "[[Scars & Souvenirs]]"
 Creators:
   - "[[Theory Of A Deadman (🎙️ 468)]]"
 Cover: ""

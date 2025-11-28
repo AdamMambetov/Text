@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Dancin (Krono Remix) [feat. Luvli]]]"
+Album: "[[Dancin (Krono Remix) [feat. Luvli]]]"
 Creators:
   - "[[Aaron Smith (🎙️ 143)]]"
 Cover: ""

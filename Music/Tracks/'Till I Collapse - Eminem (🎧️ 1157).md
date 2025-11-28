@@ -4,7 +4,7 @@ aliases:
   - "'Till I Collapse"
 Cover: ""
 Year: 2002
-Album: "[[📼The Eminem Show]]"
+Album: "[[The Eminem Show]]"
 Creators:
   - "[[Eminem (🎙️ 294)]]"
   - "[[Nate Dogg (🎙️ 295)]]"

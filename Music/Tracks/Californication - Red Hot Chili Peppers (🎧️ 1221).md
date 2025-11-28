@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Californication]]"
+Album: "[[Californication]]"
 Creators:
   - "[[Red Hot Chili Peppers (🎙️ 428)]]"
 Cover: ""

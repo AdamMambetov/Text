@@ -4,7 +4,7 @@ aliases:
   - Love Dramatic
 Cover: ""
 Year: 0
-Album: "[[📼Love Dramatic]]"
+Album: "[[Love Dramatic]]"
 Creators:
   - "[[DiWilliam (🎙️ 60)]]"
   - "[[Felya (🎙️ 58)]]"

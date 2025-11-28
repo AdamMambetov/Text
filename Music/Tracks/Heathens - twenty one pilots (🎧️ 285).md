@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Heathens [2016] {twenty one pilots}]]"
+Album: "[[Heathens [2016] {twenty one pilots}]]"
 Creators:
   - "[[twenty one pilots (🎙️ 475)]]"
 Cover: ""

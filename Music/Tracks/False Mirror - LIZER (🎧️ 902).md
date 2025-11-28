@@ -1,5 +1,5 @@
 ---
-Album: "[[📼False Mirror]]"
+Album: "[[False Mirror]]"
 Creators:
   - "[[LIZER (🎙️ 367)]]"
 Cover: ""

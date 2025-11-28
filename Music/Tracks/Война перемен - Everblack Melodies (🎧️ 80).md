@@ -1,5 +1,5 @@
 ---
-Album: "[[📼War of Change ~ Thousand Foot Crutch [2020] {Everblack Melodies}]]"
+Album: "[[War of Change ~ Thousand Foot Crutch [2020] {Everblack Melodies}]]"
 Creators:
   - "[[Everblack Melodies (🎙️ 307)]]"
 Cover: ""

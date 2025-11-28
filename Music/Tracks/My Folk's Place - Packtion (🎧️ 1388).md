@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Rotten Apples (Original Animation Soundtrack)]]"
+Album: "[[Rotten Apples (Original Animation Soundtrack)]]"
 Creators:
   - "[[Packtion]]"
 Cover: ""

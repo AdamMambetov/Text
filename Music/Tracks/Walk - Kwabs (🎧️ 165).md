@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Walk EP [2014] {Kwabs}]]"
+Album: "[[Walk EP [2014] {Kwabs}]]"
 Creators:
   - "[[Kwabs]]"
 Cover: ""

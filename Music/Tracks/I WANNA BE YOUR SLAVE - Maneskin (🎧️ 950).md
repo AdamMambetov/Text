@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Teatro d’ira: Vol. I]]"
+Album: "[[Teatro d’ira: Vol. I]]"
 Creators:
   - "[[Maneskin (🎙️ 375)]]"
 Cover: ""

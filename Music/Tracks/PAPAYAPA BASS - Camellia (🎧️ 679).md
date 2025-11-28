@@ -1,5 +1,5 @@
 ---
-Album: "[[📼eatmania IIDX 24 SINOBUZ [2017] {Camellia; Nanahira}]]"
+Album: "[[eatmania IIDX 24 SINOBUZ [2017] {Camellia; Nanahira}]]"
 Creators:
   - "[[Camellia (🎙️ 53)]]"
   - "[[Nanahira (🎙️ 249)]]"

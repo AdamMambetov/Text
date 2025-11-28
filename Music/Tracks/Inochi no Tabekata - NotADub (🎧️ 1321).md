@@ -4,7 +4,7 @@ aliases:
   - Inochi no Tabekata
 Cover: ""
 Year: 2022
-Album: "[[📼Inochi no Tabekata]]"
+Album: "[[Inochi no Tabekata]]"
 Creators:
   - "[[NotADub (🎙️ 399)]]"
 NumberInAlbum: 1

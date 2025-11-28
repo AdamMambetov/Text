@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Candy and Chains]]"
+Album: "[[Candy and Chains]]"
 Creators:
   - "[[otetsu (🎙️ 405)]]"
 Cover: ""

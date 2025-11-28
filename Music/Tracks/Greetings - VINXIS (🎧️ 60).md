@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Greetings]]"
+Album: "[[Greetings]]"
 Creators:
   - "[[VINXIS]]"
 Cover: ""

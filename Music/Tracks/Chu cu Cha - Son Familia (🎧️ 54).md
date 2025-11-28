@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Sonfamilia]]"
+Album: "[[Sonfamilia]]"
 Creators:
   - "[[Son Familia]]"
 Cover: ""

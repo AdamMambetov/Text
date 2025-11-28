@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Paprika]]"
+Album: "[[Paprika]]"
 Creators:
   - "[[Susumu Hirasawa (🎙️ 454)]]"
 Cover: ""

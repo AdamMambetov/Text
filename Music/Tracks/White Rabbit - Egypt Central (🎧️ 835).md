@@ -1,5 +1,5 @@
 ---
-Album: "[[📼White Rabbit]]"
+Album: "[[White Rabbit]]"
 Creators:
   - "[[Egypt Central]]"
 Cover: ""

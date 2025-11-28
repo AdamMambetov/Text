@@ -1,5 +1,5 @@
 ---
-Album: "[[📼The Rumbling]]"
+Album: "[[The Rumbling]]"
 Creators:
   - "[[Jackie-O (🎙️ 341)]]"
 Cover: ""

@@ -1,5 +1,5 @@
 ---
-Album: "[[📼99]]"
+Album: "[[99]]"
 Creators:
   - "[[HaruWei (🎙️ 329)]]"
 Cover: ""

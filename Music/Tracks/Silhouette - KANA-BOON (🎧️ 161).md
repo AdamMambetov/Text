@@ -1,5 +1,5 @@
 ---
-Album: "[[📼KANA-BOON THE BEST [2020] {KANA-BOON}]]"
+Album: "[[KANA-BOON THE BEST [2020] {KANA-BOON}]]"
 Creators:
   - "[[KANA-BOON (🎙️ 347)]]"
 Cover: ""

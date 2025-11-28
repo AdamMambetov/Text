@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Irokousui]]"
+Album: "[[Irokousui]]"
 Creators:
   - "[[DiWilliam (🎙️ 60)]]"
 Cover: ""

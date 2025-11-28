@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Heroes [2014] {Sabaton}]]"
+Album: "[[Heroes [2014] {Sabaton}]]"
 Creators:
   - "[[Sabaton (🎙️ 434)]]"
 Cover: ""

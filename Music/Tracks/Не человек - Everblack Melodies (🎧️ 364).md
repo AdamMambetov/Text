@@ -7,7 +7,7 @@ aliases:
   - tokyo ghoul op 1
 Cover: ""
 Year: 2019
-Album: "[[📼Unravel ~ TK from Ling Tosite Sigure [2019] {Everblack Melodies}]]"
+Album: "[[Unravel ~ TK from Ling Tosite Sigure [2019] {Everblack Melodies}]]"
 Creators:
   - "[[Everblack Melodies (🎙️ 307)]]"
 SourceFile: "[[Everblack Melodies - Не человек.mp3]]"

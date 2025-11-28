@@ -1,5 +1,5 @@
 ---
-Album: "[[📼From Hell With Love]]"
+Album: "[[From Hell With Love]]"
 Creators:
   - "[[Beast In Black (🎙️ 216)]]"
 Cover: ""

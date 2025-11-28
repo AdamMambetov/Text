@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Milk [2015] {Goose House}]]"
+Album: "[[Milk [2015] {Goose House}]]"
 Creators:
   - "[[Goose House (🎙️ 320)]]"
 Cover: ""

@@ -4,7 +4,7 @@ aliases:
   - Hey Mama
 Cover: ""
 Year: 2014
-Album: "[[📼Listen]]"
+Album: "[[Listen]]"
 Creators:
   - "[[David Guetta (🎙️ 280)]]"
   - "[[Bebe Rexha (🎙️ 217)]]"

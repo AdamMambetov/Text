@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Silver Screens]]"
+Album: "[[Silver Screens]]"
 Creators:
   - "[[Autumn Kings (🎙️ 198)]]"
 Cover: ""

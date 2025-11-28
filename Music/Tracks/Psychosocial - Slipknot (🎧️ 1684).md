@@ -4,7 +4,7 @@ aliases:
   - Psychosocial
   - Slipknot - Psychosocial
 Year: 2009
-Album: "[[📼]]"
+Album: "[[]]"
 Creators:
   - "[[Slipknot (🎙️ 431)]]"
 SourceFile: "[[Slipknot - Psychosocial.mp3]]"

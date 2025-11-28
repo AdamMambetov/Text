@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Let's Do It Again!!]]"
+Album: "[[Let's Do It Again!!]]"
 Creators:
   - "[[kors k]]"
 Cover: ""

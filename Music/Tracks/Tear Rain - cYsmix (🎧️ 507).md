@@ -4,7 +4,7 @@ aliases:
   - Tear Rain
 Cover: ""
 Year: 0
-Album: "[[📼osu!]]"
+Album: "[[osu!]]"
 Creators:
   - "[[cYsmix (🎙️ 273)]]"
   - "[[Emmy (🎙️ 274)]]"

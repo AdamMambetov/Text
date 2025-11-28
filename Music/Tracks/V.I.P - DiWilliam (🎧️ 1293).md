@@ -1,5 +1,5 @@
 ---
-Album: "[[📼V.I.P]]"
+Album: "[[V.I.P]]"
 Creators:
   - "[[DiWilliam (🎙️ 60)]]"
 Cover: ""

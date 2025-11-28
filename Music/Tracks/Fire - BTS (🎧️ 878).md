@@ -1,5 +1,5 @@
 ---
-Album: "[[📼The Most Beautiful Moment in Life: Young Forever]]"
+Album: "[[The Most Beautiful Moment in Life: Young Forever]]"
 Creators:
   - "[[BTS (🎙️ 242)]]"
 Cover: ""

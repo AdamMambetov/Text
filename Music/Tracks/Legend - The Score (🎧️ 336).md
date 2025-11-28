@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Atlas [2017] {The Score}]]"
+Album: "[[Atlas [2017] {The Score}]]"
 Creators:
   - "[[The Score (🎙️ 465)]]"
 Cover: ""

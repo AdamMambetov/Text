@@ -1,5 +1,5 @@
 ---
-Album: "[[📼TY.O [2011] {Taio Cruz; Flo Rida}]]"
+Album: "[[TY.O [2011] {Taio Cruz; Flo Rida}]]"
 Creators:
   - "[[Taio Cruz (🎙️ 457)]]"
   - "[[Flo Rida (🎙️ 312)]]"

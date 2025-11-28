@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Don't Think I Could Forgive You (They Will All Heal)]]"
+Album: "[[Don't Think I Could Forgive You (They Will All Heal)]]"
 Creators:
   - "[[Robin Berrygold]]"
 Cover: ""

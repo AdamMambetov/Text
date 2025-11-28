@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Live, Love, Life]]"
+Album: "[[Live, Love, Life]]"
 Creators:
   - "[[Adelitas Way (🎙️ 153)]]"
 Cover: ""

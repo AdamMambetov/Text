@@ -4,7 +4,7 @@ aliases:
   - Kaze Ni Naru
 Cover: ""
 Year: 2002
-Album: "[[📼Возвращение кота]]"
+Album: "[[Возвращение кота]]"
 Creators:
   - "[[Ayano Tsuji (🎙️ 474)]]"
 NumberInAlbum: 25

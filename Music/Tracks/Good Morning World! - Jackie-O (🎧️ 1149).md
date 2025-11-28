@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Good Morning World!]]"
+Album: "[[Good Morning World!]]"
 Creators:
   - "[[Jackie-O (🎙️ 341)]]"
 Cover: ""

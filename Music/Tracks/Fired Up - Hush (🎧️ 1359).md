@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Bulletproof]]"
+Album: "[[Bulletproof]]"
 Creators:
   - "[[Hush]]"
 Cover: ""

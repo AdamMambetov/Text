@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Hafanana / Vagabundo]]"
+Album: "[[Hafanana / Vagabundo]]"
 Creators:
   - "[[Afric Simone (🎙️ 155)]]"
 Cover: ""

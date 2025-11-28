@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Night Witches ~ Sabaton [2018] {RADIO TAPOK}]]"
+Album: "[[Night Witches ~ Sabaton [2018] {RADIO TAPOK}]]"
 Creators:
   - "[[RADIO TAPOK (🎙️ 423)]]"
 Cover: ""

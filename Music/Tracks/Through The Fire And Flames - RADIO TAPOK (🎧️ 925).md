@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Through The Fire And Flames]]"
+Album: "[[Through The Fire And Flames]]"
 Creators:
   - "[[RADIO TAPOK (🎙️ 423)]]"
   - "[[Эпидемия (🎙️ 140)]]"

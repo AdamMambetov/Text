@@ -1,5 +1,5 @@
 ---
-Album: "[[📼The Newer Chapter]]"
+Album: "[[The Newer Chapter]]"
 Creators:
   - "[[MajorVoice (🎙️ 374)]]"
 Cover: ""

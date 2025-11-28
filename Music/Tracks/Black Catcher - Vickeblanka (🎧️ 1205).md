@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Devil]]"
+Album: "[[Devil]]"
 Creators:
   - "[[Vickeblanka (🎙️ 480)]]"
 Cover: ""

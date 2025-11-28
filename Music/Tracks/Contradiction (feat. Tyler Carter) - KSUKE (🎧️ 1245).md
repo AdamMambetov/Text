@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Contradiction (feat. Tyler Carter)]]"
+Album: "[[Contradiction (feat. Tyler Carter)]]"
 Creators:
   - "[[KSUKE (🎙️ 356)]]"
 Cover: ""

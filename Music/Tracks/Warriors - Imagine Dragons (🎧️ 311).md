@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Smoke + Mirrors [2015] {Imagine Dragons}]]"
+Album: "[[Smoke + Mirrors [2015] {Imagine Dragons}]]"
 Creators:
   - "[[Imagine Dragons (🎙️ 336)]]"
 Cover: ""

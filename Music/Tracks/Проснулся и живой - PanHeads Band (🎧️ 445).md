@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Awake and Alive ~ Skillet ]]"
+Album: "[[Awake and Alive ~ Skillet ]]"
 Creators:
   - "[[PanHeads Band (🎙️ 411)]]"
 Cover: ""

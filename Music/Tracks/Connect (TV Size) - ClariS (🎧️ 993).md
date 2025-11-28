@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Puella Magi Madoka Magica OP Single - Connect]]"
+Album: "[[Puella Magi Madoka Magica OP Single - Connect]]"
 Creators:
   - "[[ClariS (🎙️ 265)]]"
 Cover: ""

@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Scarecrow]]"
+Album: "[[Scarecrow]]"
 Creators:
   - "[[Citizen Soldier (🎙️ 263)]]"
 Cover: ""

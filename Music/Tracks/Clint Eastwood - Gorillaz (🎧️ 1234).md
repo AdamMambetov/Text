@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Gorillaz]]"
+Album: "[[Gorillaz]]"
 Creators:
   - "[[Gorillaz (🎙️ 321)]]"
 Cover: ""

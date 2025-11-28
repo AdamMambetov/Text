@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Tommy-Gun]]"
+Album: "[[Tommy-Gun]]"
 Creators:
   - "[[Royal Republic]]"
 Cover: ""

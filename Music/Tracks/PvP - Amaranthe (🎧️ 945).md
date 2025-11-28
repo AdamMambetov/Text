@@ -1,5 +1,5 @@
 ---
-Album: "[[📼PVP]]"
+Album: "[[PVP]]"
 Creators:
   - "[[Amaranthe (🎙️ 174)]]"
 Cover: ""

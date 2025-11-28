@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Release 4]]"
+Album: "[[Release 4]]"
 Creators:
   - "[[RADIO TAPOK (🎙️ 423)]]"
 Cover: ""

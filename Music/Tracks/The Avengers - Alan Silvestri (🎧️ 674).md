@@ -1,5 +1,5 @@
 ---
-Album: "[[📼The Avengers]]"
+Album: "[[The Avengers]]"
 Creators:
   - "[[Alan Silvestri (🎙️ 162)]]"
 Cover: ""

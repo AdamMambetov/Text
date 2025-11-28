@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Umbrella]]"
+Album: "[[Umbrella]]"
 Creators:
   - "[[All Time Low (🎙️ 169)]]"
 Cover: ""

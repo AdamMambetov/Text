@@ -1,5 +1,5 @@
 ---
-Album: "[[📼The Attractions Of Youth]]"
+Album: "[[The Attractions Of Youth]]"
 Creators:
   - "[[Barns Courtney (🎙️ 213)]]"
 Cover: ""

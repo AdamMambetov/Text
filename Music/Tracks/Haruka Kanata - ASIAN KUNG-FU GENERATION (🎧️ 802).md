@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Hōkai Amplifier]]"
+Album: "[[Hōkai Amplifier]]"
 Creators:
   - "[[ASIAN KUNG-FU GENERATION (🎙️ 193)]]"
 Cover: ""

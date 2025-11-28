@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Rebirthing ~ Skillet [2022] {Everblack Melodies, Morphide}]]"
+Album: "[[Rebirthing ~ Skillet [2022] {Everblack Melodies, Morphide}]]"
 Creators:
   - "[[Everblack Melodies (🎙️ 307)]]"
 Cover: ""

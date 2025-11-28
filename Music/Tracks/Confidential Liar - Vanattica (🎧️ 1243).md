@@ -1,5 +1,5 @@
 ---
-Album: "[[📼The King or Me - EP]]"
+Album: "[[The King or Me - EP]]"
 Creators:
   - "[[Vanattica (🎙️ 478)]]"
 Cover: ""

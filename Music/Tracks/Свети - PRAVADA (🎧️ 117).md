@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Свети [2017] {PRAVADA}]]"
+Album: "[[Свети [2017] {PRAVADA}]]"
 Creators:
   - "[[PRAVADA (🎙️ 421)]]"
 Cover: ""

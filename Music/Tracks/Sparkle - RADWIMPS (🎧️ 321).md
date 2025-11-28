@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Human Bloom [2016] {RADWIMPS}]]"
+Album: "[[Human Bloom [2016] {RADWIMPS}]]"
 Creators:
   - "[[RADWIMPS]]"
 Cover: ""

@@ -1,5 +1,5 @@
 ---
-Album: "[[📼The Greatest Hits [2008] {Noize MC}]]"
+Album: "[[The Greatest Hits [2008] {Noize MC}]]"
 Creators:
   - "[[Noize MC (🎙️ 78)]]"
 Cover: ""

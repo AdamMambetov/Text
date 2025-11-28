@@ -1,5 +1,5 @@
 ---
-Album: "[[📼The Perfect Match]]"
+Album: "[[The Perfect Match]]"
 Creators:
   - "[[The Rumpled]]"
 Cover: ""

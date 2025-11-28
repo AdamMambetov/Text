@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Days Go By [2012] {The Offspring}]]"
+Album: "[[Days Go By [2012] {The Offspring}]]"
 Creators:
   - "[[The Offspring (🎙️ 461)]]"
 Cover: ""

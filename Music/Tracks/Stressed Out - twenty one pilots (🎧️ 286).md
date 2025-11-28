@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Blurryface [2015] {twenty one pilots}]]"
+Album: "[[Blurryface [2015] {twenty one pilots}]]"
 Creators:
   - "[[twenty one pilots (🎙️ 475)]]"
 Cover: ""

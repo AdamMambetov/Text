@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Young's Old Covers (Anime) [2021] {Jonathan Young; SixteenInMono}]]"
+Album: "[[Young's Old Covers (Anime) [2021] {Jonathan Young; SixteenInMono}]]"
 Creators:
   - "[[Jonathan Young (🎙️ 345)]]"
   - "[[SixteenInMono]]"

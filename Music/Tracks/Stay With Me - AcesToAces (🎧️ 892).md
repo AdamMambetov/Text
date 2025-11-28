@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Stay With Me]]"
+Album: "[[Stay With Me]]"
 Creators:
   - "[[AcesToAces (🎙️ 145)]]"
 Cover: ""

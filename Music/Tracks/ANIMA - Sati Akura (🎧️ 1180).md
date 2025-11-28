@@ -1,5 +1,5 @@
 ---
-Album: "[[📼ANIMA]]"
+Album: "[[ANIMA]]"
 Creators:
   - "[[Sati Akura (🎙️ 359)]]"
 Cover: ""

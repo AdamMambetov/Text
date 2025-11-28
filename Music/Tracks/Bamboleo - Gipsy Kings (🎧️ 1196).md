@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Gipsy Kings]]"
+Album: "[[Gipsy Kings]]"
 Creators:
   - "[[Gipsy Kings]]"
 Cover: ""

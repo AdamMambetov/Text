@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Sakura Mitsutsuki]]"
+Album: "[[Sakura Mitsutsuki]]"
 Creators:
   - "[[Игорь Куликов (🎙️ 71)]]"
 Cover: ""

@@ -5,7 +5,7 @@ aliases:
   - ksjdf
 Cover: ""
 Year: 2009
-Album: "[[📼Assassin’s Creed II]]"
+Album: "[[Assassin’s Creed II]]"
 Creators:
   - "[[Jesper Kyd (🎙️ 343)]]"
 NumberInAlbum: 3

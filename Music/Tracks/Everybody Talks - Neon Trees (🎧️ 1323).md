@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Picture Show]]"
+Album: "[[Picture Show]]"
 Creators:
   - "[[Neon Trees]]"
 Cover: ""

@@ -1,5 +1,5 @@
 ---
-Album: "[[📼The Flame In All of Us]]"
+Album: "[[The Flame In All of Us]]"
 Creators:
   - "[[Thousand Foot Krutch (🎙️ 470)]]"
 Cover: ""

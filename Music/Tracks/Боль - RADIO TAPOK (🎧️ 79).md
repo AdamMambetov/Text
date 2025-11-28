@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Pain ~ Three Days Grace [2018] {RADIO TAPOK}]]"
+Album: "[[Pain ~ Three Days Grace [2018] {RADIO TAPOK}]]"
 Creators:
   - "[[RADIO TAPOK (🎙️ 423)]]"
 Cover: ""

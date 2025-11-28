@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Take [2018] {Shaun}]]"
+Album: "[[Take [2018] {Shaun}]]"
 Creators:
   - "[[Shaun]]"
 Cover: ""

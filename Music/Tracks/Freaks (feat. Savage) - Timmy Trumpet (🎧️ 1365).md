@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Freaks (feat. Savage) - Single]]"
+Album: "[[Freaks (feat. Savage) - Single]]"
 Creators:
   - "[[Timmy Trumpet]]"
 Cover: ""

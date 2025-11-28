@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Sono Chi no Kioku end of THE WORLD [2021] {Coconut Dog, Марк Счётчиков, Seraph}]]"
+Album: "[[Sono Chi no Kioku end of THE WORLD [2021] {Coconut Dog, Марк Счётчиков, Seraph}]]"
 Creators:
   - "[[Onsa Media (🎙️ 404)]]"
 Cover: ""

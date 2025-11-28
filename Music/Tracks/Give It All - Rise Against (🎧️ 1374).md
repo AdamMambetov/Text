@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Siren Song of the Counter Culture]]"
+Album: "[[Siren Song of the Counter Culture]]"
 Creators:
   - "[[Rise Against]]"
 Cover: ""

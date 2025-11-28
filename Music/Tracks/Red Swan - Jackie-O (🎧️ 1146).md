@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Red Swan]]"
+Album: "[[Red Swan]]"
 Creators:
   - "[[Jackie-O (🎙️ 341)]]"
 Cover: ""

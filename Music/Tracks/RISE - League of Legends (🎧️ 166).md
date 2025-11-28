@@ -1,5 +1,5 @@
 ---
-Album: "[[📼RISE [2018] {League of Legends; The Glitch Mob; Mako; The Word Alive}]]"
+Album: "[[RISE [2018] {League of Legends; The Glitch Mob; Mako; The Word Alive}]]"
 Creators:
   - "[[League of Legends (🎙️ 73)]]"
   - "[[The Glitch Mob]]"

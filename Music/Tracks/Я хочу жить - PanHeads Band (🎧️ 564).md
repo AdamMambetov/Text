@@ -4,7 +4,7 @@ aliases:
   - Я хочу жить
 Cover: ""
 Year: 2021
-Album: "[[📼Я хочу жить]]"
+Album: "[[Я хочу жить]]"
 Creators:
   - "[[PanHeads Band (🎙️ 411)]]"
 NumberInAlbum: 1

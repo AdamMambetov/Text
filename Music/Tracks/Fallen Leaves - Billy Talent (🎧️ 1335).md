@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Billy Talent II]]"
+Album: "[[Billy Talent II]]"
 Creators:
   - "[[Billy Talent (🎙️ 221)]]"
 Cover: ""

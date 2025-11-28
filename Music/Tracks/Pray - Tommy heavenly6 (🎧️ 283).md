@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Pray [2006] {Tommy heavenly6}]]"
+Album: "[[Pray [2006] {Tommy heavenly6}]]"
 Creators:
   - "[[Tommy heavenly6 (🎙️ 473)]]"
 Cover: ""

@@ -4,7 +4,7 @@ aliases:
   - Sacrifice
 Cover: ""
 Year: 2017
-Album: "[[📼Sacrifice]]"
+Album: "[[Sacrifice]]"
 Creators:
   - "[[9mm Parabellum Bullet (🎙️ 76)]]"
 NumberInAlbum: 1

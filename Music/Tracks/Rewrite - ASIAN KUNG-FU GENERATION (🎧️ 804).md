@@ -4,7 +4,7 @@ aliases:
   - Rewrite
 Cover: ""
 Year: 2004
-Album: "[[📼Sol-fa]]"
+Album: "[[Sol-fa]]"
 Creators:
   - "[[ASIAN KUNG-FU GENERATION (🎙️ 193)]]"
 NumberInAlbum: 2

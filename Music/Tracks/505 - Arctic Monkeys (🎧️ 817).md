@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Favourite Worst Nightmare]]"
+Album: "[[Favourite Worst Nightmare]]"
 Creators:
   - "[[Arctic Monkeys (🎙️ 188)]]"
 Cover: ""

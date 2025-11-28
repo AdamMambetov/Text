@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Does This Look Infected? [2002] {Sum 41}]]"
+Album: "[[Does This Look Infected? [2002] {Sum 41}]]"
 Creators:
   - "[[Sum 41 (🎙️ 449)]]"
 Cover: ""

@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Butterfly Effect [2017] {Porno Graffitti}]]"
+Album: "[[Butterfly Effect [2017] {Porno Graffitti}]]"
 Creators:
   - "[[Porno Graffitti (🎙️ 418)]]"
 Cover: ""

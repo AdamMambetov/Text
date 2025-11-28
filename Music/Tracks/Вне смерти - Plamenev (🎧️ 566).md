@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Out of Death]]"
+Album: "[[Out of Death]]"
 Creators:
   - "[[Plamenev (🎙️ 416)]]"
 Cover: ""

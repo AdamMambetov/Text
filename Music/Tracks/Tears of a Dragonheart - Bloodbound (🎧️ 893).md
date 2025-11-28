@@ -1,5 +1,5 @@
 ---
-Album: "[[📼War of Dragons]]"
+Album: "[[War of Dragons]]"
 Creators:
   - "[[Bloodbound (🎙️ 228)]]"
 Cover: ""

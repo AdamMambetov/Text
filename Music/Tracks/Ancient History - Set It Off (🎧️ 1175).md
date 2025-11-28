@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Duality]]"
+Album: "[[Duality]]"
 Creators:
   - "[[Set It Off (🎙️ 438)]]"
 Cover: ""

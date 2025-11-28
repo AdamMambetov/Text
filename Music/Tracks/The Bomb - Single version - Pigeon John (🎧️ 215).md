@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Dragon Slayer [2011] {Pigeon John}]]"
+Album: "[[Dragon Slayer [2011] {Pigeon John}]]"
 Creators:
   - "[[Pigeon John (🎙️ 415)]]"
 Cover: ""

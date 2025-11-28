@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Gurenge [2019] {LiSA}]]"
+Album: "[[Gurenge [2019] {LiSA}]]"
 Creators:
   - "[[LiSA (🎙️ 65)]]"
 Cover: ""

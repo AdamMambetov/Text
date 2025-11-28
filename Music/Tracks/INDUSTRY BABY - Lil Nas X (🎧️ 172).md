@@ -1,5 +1,5 @@
 ---
-Album: "[[📼MONTERO [2021] {Lil Nas X; Jack Harlow}]]"
+Album: "[[MONTERO [2021] {Lil Nas X; Jack Harlow}]]"
 Creators:
   - "[[Lil Nas X (🎙️ 364)]]"
   - "[[Jack Harlow]]"

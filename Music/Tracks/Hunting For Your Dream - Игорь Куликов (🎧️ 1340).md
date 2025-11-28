@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Hunting For Your Dream]]"
+Album: "[[Hunting For Your Dream]]"
 Creators:
   - "[[Игорь Куликов (🎙️ 71)]]"
 Cover: ""

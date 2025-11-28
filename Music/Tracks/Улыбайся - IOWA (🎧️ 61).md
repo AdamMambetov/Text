@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Export]]"
+Album: "[[Export]]"
 Creators:
   - "[[IOWA (🎙️ 339)]]"
 Cover: ""

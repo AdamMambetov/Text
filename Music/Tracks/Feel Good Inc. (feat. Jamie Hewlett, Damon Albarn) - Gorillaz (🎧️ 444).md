@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Demon Days]]"
+Album: "[[Demon Days]]"
 Creators:
   - "[[Gorillaz (🎙️ 321)]]"
 Cover: ""

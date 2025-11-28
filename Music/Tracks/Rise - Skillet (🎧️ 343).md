@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Rise [2013] {Skillet}]]"
+Album: "[[Rise [2013] {Skillet}]]"
 Creators:
   - "[[Skillet (🎙️ 442)]]"
 Cover: ""

@@ -1,5 +1,5 @@
 ---
-Album: "[[📼The Marshall Mathers LP2  [2013] {Eminem; Rihanna}]]"
+Album: "[[The Marshall Mathers LP2  [2013] {Eminem; Rihanna}]]"
 Creators:
   - "[[Eminem (🎙️ 294)]]"
   - "[[Rihanna]]"

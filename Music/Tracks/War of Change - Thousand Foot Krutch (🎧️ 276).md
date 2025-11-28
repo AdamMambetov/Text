@@ -1,5 +1,5 @@
 ---
-Album: "[[📼The End Is Where We Begin [2012] {Thousand Foot Krutch}]]"
+Album: "[[The End Is Where We Begin [2012] {Thousand Foot Krutch}]]"
 Creators:
   - "[[Thousand Foot Krutch (🎙️ 470)]]"
 Cover: ""

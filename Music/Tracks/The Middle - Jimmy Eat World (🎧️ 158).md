@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Bleed American [2001] {Jimmy Eat World}]]"
+Album: "[[Bleed American [2001] {Jimmy Eat World}]]"
 Creators:
   - "[[Jimmy Eat World]]"
 Cover: ""

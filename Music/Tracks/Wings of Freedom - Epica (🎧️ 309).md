@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Epica vs. Attack on Titan Songs [2017] {Epica}]]"
+Album: "[[Epica vs. Attack on Titan Songs [2017] {Epica}]]"
 Creators:
   - "[[Epica (🎙️ 296)]]"
 Cover: ""

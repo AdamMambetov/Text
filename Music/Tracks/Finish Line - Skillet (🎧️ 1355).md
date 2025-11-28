@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Victorious]]"
+Album: "[[Victorious]]"
 Creators:
   - "[[Skillet (🎙️ 442)]]"
 Cover: ""

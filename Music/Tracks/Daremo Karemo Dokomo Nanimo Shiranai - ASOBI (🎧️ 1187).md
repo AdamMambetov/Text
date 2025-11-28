@@ -4,7 +4,7 @@ aliases:
   - Daremo Karemo Dokomo Nanimo Shiranai
 Cover: ""
 Year: 2023
-Album: '[[📼"Tengoku-Daimakyo the Animation" ending Theme - Daremo Karemo Dokomo Nanimo Shiranai - Single]]'
+Album: '[["Tengoku-Daimakyo the Animation" ending Theme - Daremo Karemo Dokomo Nanimo Shiranai - Single]]'
 Creators:
   - "[[ASOBI (🎙️ 194)]]"
 NumberInAlbum: 1

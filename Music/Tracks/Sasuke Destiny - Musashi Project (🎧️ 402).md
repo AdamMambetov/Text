@@ -1,5 +1,5 @@
 ---
-Album: "[[📼NARUTO ORIGINAL SOUNDTRACK 2]]"
+Album: "[[NARUTO ORIGINAL SOUNDTRACK 2]]"
 Creators:
   - "[[Musashi Project]]"
 Cover: ""

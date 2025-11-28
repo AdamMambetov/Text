@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Vale]]"
+Album: "[[Vale]]"
 Creators:
   - "[[Black Veil Brides (🎙️ 224)]]"
 Cover: ""

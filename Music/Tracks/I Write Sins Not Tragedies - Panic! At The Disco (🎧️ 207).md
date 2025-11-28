@@ -1,5 +1,5 @@
 ---
-Album: "[[📼A Fever You Can't Sweat Out [2005] {Panic! At The Disco}]]"
+Album: "[[A Fever You Can't Sweat Out [2005] {Panic! At The Disco}]]"
 Creators:
   - "[[Panic! At The Disco (🎙️ 412)]]"
 Cover: ""

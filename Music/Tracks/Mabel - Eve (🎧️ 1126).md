@@ -4,7 +4,7 @@ aliases:
   - Mabel
 Cover: ""
 Year: 20220305
-Album: "[[📼蒼]]"
+Album: "[[蒼]]"
 CoverOf: "[[🎵Sou - Mabel]]"
 Creators:
   - "[[Eve (🎙️ 34)]]"

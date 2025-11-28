@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Indie Anthems, Vol. 1]]"
+Album: "[[Indie Anthems, Vol. 1]]"
 Creators:
   - "[[Amphibious Zoo Music (🎙️ 178)]]"
 Cover: ""

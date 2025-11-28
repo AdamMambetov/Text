@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Nothing Remains The Same [2002] {Pain}]]"
+Album: "[[Nothing Remains The Same [2002] {Pain}]]"
 Creators:
   - "[[Pain (🎙️ 410)]]"
 Cover: ""

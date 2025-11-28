@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Mixtape [2019] {Emil Bulls}]]"
+Album: "[[Mixtape [2019] {Emil Bulls}]]"
 Creators:
   - "[[Emil Bulls]]"
 Cover: ""

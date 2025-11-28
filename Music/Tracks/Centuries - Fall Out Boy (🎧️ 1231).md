@@ -1,5 +1,5 @@
 ---
-Album: "[[📼American Beauty / American Psycho]]"
+Album: "[[American Beauty / American Psycho]]"
 Creators:
   - "[[Fall Out Boy (🎙️ 308)]]"
 Cover: ""

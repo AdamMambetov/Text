@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Age Of Ignorance [2012] {Our Last Night}]]"
+Album: "[[Age Of Ignorance [2012] {Our Last Night}]]"
 Creators:
   - "[[Our Last Night]]"
 Cover: ""

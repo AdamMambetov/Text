@@ -4,7 +4,7 @@ aliases:
   - Sparta
 Cover: ""
 Year: 2007
-Album: "[[📼Turbulence (International)]]"
+Album: "[[Turbulence (International)]]"
 Creators:
   - "[[Monoral (🎙️ 164)]]"
 NumberInAlbum: 1

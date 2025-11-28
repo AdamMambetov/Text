@@ -1,5 +1,5 @@
 ---
-Album: "[[📼The Dark Delight]]"
+Album: "[[The Dark Delight]]"
 Creators:
   - "[[Dynazty]]"
 Cover: ""

@@ -1,5 +1,5 @@
 ---
-Album: "[[📼From Dusk Till Dawn [2012] {ROOKiEZ is PUNK'D}]]"
+Album: "[[From Dusk Till Dawn [2012] {ROOKiEZ is PUNK'D}]]"
 Creators:
   - "[[ROOKiEZ is PUNK'D (🎙️ 433)]]"
 Cover: ""

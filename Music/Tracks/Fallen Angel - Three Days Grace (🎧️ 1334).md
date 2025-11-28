@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Human]]"
+Album: "[[Human]]"
 Creators:
   - "[[Three Days Grace (🎙️ 471)]]"
 Cover: ""

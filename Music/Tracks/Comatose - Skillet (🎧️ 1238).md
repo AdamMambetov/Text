@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Comatose]]"
+Album: "[[Comatose]]"
 Creators:
   - "[[Skillet (🎙️ 442)]]"
 Cover: ""

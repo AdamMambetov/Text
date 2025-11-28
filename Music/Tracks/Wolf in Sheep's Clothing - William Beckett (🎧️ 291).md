@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Duality [2015] {William Beckett; Set It Off}]]"
+Album: "[[Duality [2015] {William Beckett; Set It Off}]]"
 Creators:
   - "[[William Beckett]]"
   - "[[Set It Off (🎙️ 438)]]"

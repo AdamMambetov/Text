@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Eye of the Tiger]]"
+Album: "[[Eye of the Tiger]]"
 Creators:
   - "[[Survivor (🎙️ 453)]]"
 Cover: ""

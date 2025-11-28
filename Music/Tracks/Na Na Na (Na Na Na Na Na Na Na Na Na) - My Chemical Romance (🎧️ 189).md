@@ -1,5 +1,5 @@
 ---
-Album: "[[📼May Death Never Stop You [2014] {My Chemical Romance}]]"
+Album: "[[May Death Never Stop You [2014] {My Chemical Romance}]]"
 Creators:
   - "[[My Chemical Romance (🎙️ 385)]]"
 Cover: ""

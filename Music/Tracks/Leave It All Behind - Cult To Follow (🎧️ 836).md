@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Leave It All Behind - Elements]]"
+Album: "[[Leave It All Behind - Elements]]"
 Creators:
   - "[[Cult To Follow (🎙️ 271)]]"
 Cover: ""

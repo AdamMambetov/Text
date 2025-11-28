@@ -1,5 +1,5 @@
 ---
-Album: "[[📼hot girl bummer [2020] {Our Last Night}]]"
+Album: "[[hot girl bummer [2020] {Our Last Night}]]"
 Creators:
   - "[[Our Last Night]]"
 Cover: ""

@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Overexposed [2012] {Maroon 5}]]"
+Album: "[[Overexposed [2012] {Maroon 5}]]"
 Creators:
   - "[[Maroon 5 (🎙️ 378)]]"
 Cover: ""

@@ -1,5 +1,5 @@
 ---
-Album: "[[📼                              ]]"
+Album: "[[                              ]]"
 Creators:
   - "[[Marie Bibika (🎙️ 376)]]"
 Cover: ""

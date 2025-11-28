@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Lagtrain]]"
+Album: "[[Lagtrain]]"
 Creators:
   - "[[inabakumori (🎙️ 338)]]"
 Cover: ""

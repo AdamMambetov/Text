@@ -1,5 +1,5 @@
 ---
-Album: "[[📼The Best of Kansas]]"
+Album: "[[The Best of Kansas]]"
 Creators:
   - "[[Kansas (🎙️ 349)]]"
 Cover: ""

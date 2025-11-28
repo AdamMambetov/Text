@@ -4,7 +4,7 @@ aliases:
   - Barrier Break
 Cover: ""
 Year: 2003
-Album: "[[📼Barrier Break]]"
+Album: "[[Barrier Break]]"
 Creators:
   - "[[Dieselboy (🎙️ 286)]]"
 NumberInAlbum: 1

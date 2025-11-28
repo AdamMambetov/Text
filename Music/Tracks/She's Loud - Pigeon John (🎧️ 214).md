@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Good Sinner [2016] {Pigeon John}]]"
+Album: "[[Good Sinner [2016] {Pigeon John}]]"
 Creators:
   - "[[Pigeon John (🎙️ 415)]]"
 Cover: ""

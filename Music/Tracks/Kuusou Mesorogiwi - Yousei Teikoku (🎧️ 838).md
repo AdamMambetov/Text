@@ -1,5 +1,5 @@
 ---
-Album: "[[📼PAX VESANIA]]"
+Album: "[[PAX VESANIA]]"
 Creators:
   - "[[Yousei Teikoku (🎙️ 278)]]"
 Cover: ""

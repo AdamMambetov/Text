@@ -1,5 +1,5 @@
 ---
-Album: "[[📼The Heist [2012] {Macklemore & Ryan Lewis; Wanz}]]"
+Album: "[[The Heist [2012] {Macklemore & Ryan Lewis; Wanz}]]"
 Creators:
   - "[[Macklemore & Ryan Lewis]]"
   - "[[Wanz]]"

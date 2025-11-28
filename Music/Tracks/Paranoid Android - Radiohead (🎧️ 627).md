@@ -1,5 +1,5 @@
 ---
-Album: "[[📼OK Computer OKNOTOK 1997 2017]]"
+Album: "[[OK Computer OKNOTOK 1997 2017]]"
 Creators:
   - "[[Radiohead (🎙️ 424)]]"
 Cover: ""

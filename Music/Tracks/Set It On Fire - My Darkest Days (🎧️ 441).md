@@ -1,5 +1,5 @@
 ---
-Album: "[[📼My Darkest Days [2010] {My Darkest Days}]]"
+Album: "[[My Darkest Days [2010] {My Darkest Days}]]"
 Creators:
   - "[[My Darkest Days]]"
 Cover: ""

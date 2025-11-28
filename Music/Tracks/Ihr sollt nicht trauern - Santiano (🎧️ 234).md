@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Haithabu - Im Auge des Sturms [2018] {Santiano}]]"
+Album: "[[Haithabu - Im Auge des Sturms [2018] {Santiano}]]"
 Creators:
   - "[[Santiano]]"
 Cover: ""

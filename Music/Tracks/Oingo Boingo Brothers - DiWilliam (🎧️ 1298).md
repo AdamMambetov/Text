@@ -4,7 +4,7 @@ aliases:
   - Oingo Boingo Brothers
 Cover: ""
 Year: 0
-Album: "[[📼Oingo Boingo Brothers]]"
+Album: "[[Oingo Boingo Brothers]]"
 Creators:
   - "[[DiWilliam (🎙️ 60)]]"
   - "[[Felya (🎙️ 58)]]"

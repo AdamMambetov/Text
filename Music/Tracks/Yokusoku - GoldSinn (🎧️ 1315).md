@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Elfen Lied OST]]"
+Album: "[[Elfen Lied OST]]"
 Creators:
   - "[[GoldSinn]]"
 Cover: ""

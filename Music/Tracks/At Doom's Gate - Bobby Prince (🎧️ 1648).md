@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Doom]]"
+Album: "[[Doom]]"
 Creators:
   - "[[Bobby Prince (🎙️ 233)]]"
 Cover: ""

@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Daniel Powter: The Essential Collection]]"
+Album: "[[Daniel Powter: The Essential Collection]]"
 Creators:
   - "[[Daniel Powter (🎙️ 277)]]"
 Cover: ""

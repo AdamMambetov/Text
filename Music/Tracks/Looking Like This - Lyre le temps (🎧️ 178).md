@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Looking Like This EP [2013] {Lyre le temps}]]"
+Album: "[[Looking Like This EP [2013] {Lyre le temps}]]"
 Creators:
   - "[[Lyre le temps]]"
 Cover: ""

@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Dystopia Lane]]"
+Album: "[[Dystopia Lane]]"
 Creators:
   - "[[Blowsight (🎙️ 230)]]"
 Cover: ""

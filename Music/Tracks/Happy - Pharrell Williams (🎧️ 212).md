@@ -1,5 +1,5 @@
 ---
-Album: "[[📼G I R L [2014] {Pharrell Williams}]]"
+Album: "[[G I R L [2014] {Pharrell Williams}]]"
 Creators:
   - "[[Pharrell Williams]]"
 Cover: ""

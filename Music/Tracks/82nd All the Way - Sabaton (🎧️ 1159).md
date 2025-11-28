@@ -1,5 +1,5 @@
 ---
-Album: "[[📼The Great War]]"
+Album: "[[The Great War]]"
 Creators:
   - "[[Sabaton (🎙️ 434)]]"
 Cover: ""

@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Answer from X Girlz]]"
+Album: "[[Answer from X Girlz]]"
 Creators:
   - "[[t+pazolite (🎙️ 456)]]"
 Cover: ""

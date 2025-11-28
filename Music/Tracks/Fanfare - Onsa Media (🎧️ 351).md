@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Fanfare]]"
+Album: "[[Fanfare]]"
 Creators:
   - "[[Onsa Media (🎙️ 404)]]"
 Cover: ""

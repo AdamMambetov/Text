@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Toxicity]]"
+Album: "[[Toxicity]]"
 Creators:
   - "[[System Of A Down (🎙️ 455)]]"
 Cover: ""

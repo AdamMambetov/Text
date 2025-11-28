@@ -1,5 +1,5 @@
 ---
-Album: "[[📼When You're Through Thinking, Say Yes]]"
+Album: "[[When You're Through Thinking, Say Yes]]"
 Creators:
   - "[[Yellowcard (🎙️ 486)]]"
 Cover: ""

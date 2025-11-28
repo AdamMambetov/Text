@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Sempiternal]]"
+Album: "[[Sempiternal]]"
 Creators:
   - "[[Bring Me The Horizon (🎙️ 239)]]"
 Cover: ""

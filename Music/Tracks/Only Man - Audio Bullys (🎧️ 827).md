@@ -4,7 +4,7 @@ aliases:
   - Only Man
 Cover: ""
 Year: 2010
-Album: "[[📼Higher Than the Eiffel]]"
+Album: "[[Higher Than the Eiffel]]"
 Creators:
   - "[[Audio Bullys (🎙️ 197)]]"
 NumberInAlbum: 2

@@ -4,7 +4,7 @@ aliases:
   - Монстр
 Cover: ""
 Year: 2020
-Album: "[[📼Monster ~ Skillet [2020] {RADIO TAPOK}]]"
+Album: "[[Monster ~ Skillet [2020] {RADIO TAPOK}]]"
 Creators:
   - "[[RADIO TAPOK (🎙️ 423)]]"
 NumberInAlbum: 1

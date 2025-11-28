@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Don't You Fake It]]"
+Album: "[[Don't You Fake It]]"
 Creators:
   - "[[The Red Jumpsuit Apparatus]]"
 Cover: ""

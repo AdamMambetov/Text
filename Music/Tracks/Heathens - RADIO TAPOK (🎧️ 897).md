@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Heathens]]"
+Album: "[[Heathens]]"
 Creators:
   - "[[RADIO TAPOK (🎙️ 423)]]"
 Cover: ""

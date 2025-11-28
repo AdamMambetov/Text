@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Providence]]"
+Album: "[[Providence]]"
 Creators:
   - "[[Poor Mans Poison (🎙️ 417)]]"
 Cover: ""

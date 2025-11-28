@@ -1,5 +1,5 @@
 ---
-Album: "[[📼The Studio Album Collection 1991-2011 [2014] {Red Hot Chili Peppers}]]"
+Album: "[[The Studio Album Collection 1991-2011 [2014] {Red Hot Chili Peppers}]]"
 Creators:
   - "[[Red Hot Chili Peppers (🎙️ 428)]]"
 Cover: ""

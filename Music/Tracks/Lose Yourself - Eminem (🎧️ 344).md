@@ -1,5 +1,5 @@
 ---
-Album: "[[📼8 Mile [2002] {Eminem}]]"
+Album: "[[8 Mile [2002] {Eminem}]]"
 Creators:
   - "[[Eminem (🎙️ 294)]]"
 Cover: ""

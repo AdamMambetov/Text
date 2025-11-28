@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Saturday Night Fever]]"
+Album: "[[Saturday Night Fever]]"
 Creators:
   - "[[Bee Gees (🎙️ 218)]]"
 Cover: ""

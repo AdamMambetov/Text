@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Van Helsing]]"
+Album: "[[Van Helsing]]"
 Creators:
   - "[[Alan Silvestri (🎙️ 162)]]"
 Cover: ""

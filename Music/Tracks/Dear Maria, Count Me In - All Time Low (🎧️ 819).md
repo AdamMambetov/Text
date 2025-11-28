@@ -1,5 +1,5 @@
 ---
-Album: "[[📼So Wrong, It's Right]]"
+Album: "[[So Wrong, It's Right]]"
 Creators:
   - "[[All Time Low (🎙️ 169)]]"
 Cover: ""

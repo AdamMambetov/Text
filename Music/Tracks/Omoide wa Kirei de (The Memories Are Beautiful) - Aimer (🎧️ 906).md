@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Black Bird]]"
+Album: "[[Black Bird]]"
 Creators:
   - "[[Aimer (🎙️ 159)]]"
 Cover: ""

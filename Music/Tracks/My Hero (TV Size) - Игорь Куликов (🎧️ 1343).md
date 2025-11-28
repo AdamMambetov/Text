@@ -1,5 +1,5 @@
 ---
-Album: "[[📼My Hero]]"
+Album: "[[My Hero]]"
 Creators:
   - "[[Игорь Куликов (🎙️ 71)]]"
 Cover: ""

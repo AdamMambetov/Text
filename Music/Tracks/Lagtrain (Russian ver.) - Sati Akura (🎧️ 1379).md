@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Lagtrain]]"
+Album: "[[Lagtrain]]"
 Creators:
   - "[[Sati Akura (🎙️ 359)]]"
 Cover: ""

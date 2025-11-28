@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Razzmatazz]]"
+Album: "[[Razzmatazz]]"
 Creators:
   - "[[Jules Gaia]]"
 Cover: ""

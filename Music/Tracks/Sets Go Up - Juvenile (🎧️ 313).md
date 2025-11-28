@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Reality Check [2006] {Juvenile; Wacko}]]"
+Album: "[[Reality Check [2006] {Juvenile; Wacko}]]"
 Creators:
   - "[[Juvenile]]"
   - "[[Wacko]]"

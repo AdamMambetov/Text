@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Legends from Beyond the Galactic Terrorvortex [2019] {Gloryhammer}]]"
+Album: "[[Legends from Beyond the Galactic Terrorvortex [2019] {Gloryhammer}]]"
 Creators:
   - "[[Gloryhammer (🎙️ 318)]]"
 Cover: ""

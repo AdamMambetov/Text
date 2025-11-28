@@ -1,5 +1,5 @@
 ---
-Album: "[[📼THE WORLD WITHOUT LOGOS]]"
+Album: "[[THE WORLD WITHOUT LOGOS]]"
 Creators:
   - "[[Игорь Куликов (🎙️ 71)]]"
 Cover: ""

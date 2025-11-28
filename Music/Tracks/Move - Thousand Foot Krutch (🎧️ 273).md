@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Thousand Foot Krutch Collection [2021] {Thousand Foot Krutch}]]"
+Album: "[[Thousand Foot Krutch Collection [2021] {Thousand Foot Krutch}]]"
 Creators:
   - "[[Thousand Foot Krutch (🎙️ 470)]]"
 Cover: ""

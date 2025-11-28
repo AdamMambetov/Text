@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Sora ni Utaeba]]"
+Album: "[[Sora ni Utaeba]]"
 Creators:
   - "[[DiWilliam (🎙️ 60)]]"
 Cover: ""

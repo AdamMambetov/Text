@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Quiet World]]"
+Album: "[[Quiet World]]"
 Creators:
   - "[[Native Construct (🎙️ 389)]]"
 Cover: ""

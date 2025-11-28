@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Origins [2018] {Imagine Dragons}]]"
+Album: "[[Origins [2018] {Imagine Dragons}]]"
 Creators:
   - "[[Imagine Dragons (🎙️ 336)]]"
 Cover: ""

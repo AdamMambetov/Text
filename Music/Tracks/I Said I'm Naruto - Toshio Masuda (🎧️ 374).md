@@ -4,7 +4,7 @@ aliases:
   - I Said I'm Naruto
 Cover: ""
 Year: 2003
-Album: "[[📼NARUTO ORIGINAL SOUNDTRACK]]"
+Album: "[[NARUTO ORIGINAL SOUNDTRACK]]"
 Creators:
   - "[[Toshio Masuda]]"
 NumberInAlbum: 1

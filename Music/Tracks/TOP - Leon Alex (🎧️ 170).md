@@ -1,5 +1,5 @@
 ---
-Album: "[[📼TOP]]"
+Album: "[[TOP]]"
 Creators:
   - "[[Leon Alex (🎙️ 363)]]"
 Cover: ""

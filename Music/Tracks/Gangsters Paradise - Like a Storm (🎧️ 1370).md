@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Awaken the Fire]]"
+Album: "[[Awaken the Fire]]"
 Creators:
   - "[[Like a Storm]]"
 Cover: ""

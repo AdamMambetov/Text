@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Riot City Outlaws]]"
+Album: "[[Riot City Outlaws]]"
 Creators:
   - "[[Paddy And The Rats (🎙️ 409)]]"
 Cover: ""

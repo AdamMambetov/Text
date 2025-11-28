@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Moana]]"
+Album: "[[Moana]]"
 Creators:
   - "[[Disney (🎙️ 288)]]"
   - "[[Dwayne Johnson]]"

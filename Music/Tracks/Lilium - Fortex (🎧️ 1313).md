@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Lilium]]"
+Album: "[[Lilium]]"
 Creators:
   - "[[Fortex (🎙️ 315)]]"
 Cover: ""

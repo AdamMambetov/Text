@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Eterno Agosto]]"
+Album: "[[Eterno Agosto]]"
 Creators:
   - "[[Alvaro Soler (🎙️ 173)]]"
 Cover: ""

@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Kyouran Hey Kids!!]]"
+Album: "[[Kyouran Hey Kids!!]]"
 Creators:
   - "[[Leon Alex (🎙️ 363)]]"
 Cover: ""

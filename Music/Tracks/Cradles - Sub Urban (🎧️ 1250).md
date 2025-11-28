@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Cradles]]"
+Album: "[[Cradles]]"
 Creators:
   - "[[Sub Urban (🎙️ 448)]]"
 Cover: ""

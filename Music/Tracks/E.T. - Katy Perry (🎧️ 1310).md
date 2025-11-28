@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Teenage Dream]]"
+Album: "[[Teenage Dream]]"
 Creators:
   - "[[Katy Perry (🎙️ 352)]]"
 Cover: ""

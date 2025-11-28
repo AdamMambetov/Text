@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Best Kind Of Mess [2010] {Get Scared}]]"
+Album: "[[Best Kind Of Mess [2010] {Get Scared}]]"
 Creators:
   - "[[Get Scared]]"
 Cover: ""

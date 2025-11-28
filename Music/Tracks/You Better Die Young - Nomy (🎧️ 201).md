@@ -4,7 +4,7 @@ aliases:
   - You Better Die Young
 Cover: ""
 Year: 2008
-Album: "[[📼Song Or Suicide [2008] {Nomy}]]"
+Album: "[[Song Or Suicide [2008] {Nomy}]]"
 Creators:
   - "[[Nomy (🎙️ 398)]]"
 NumberInAlbum: 3

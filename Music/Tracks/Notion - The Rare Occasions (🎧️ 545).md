@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Notion]]"
+Album: "[[Notion]]"
 Creators:
   - "[[The Rare Occasions]]"
 Cover: ""

@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Hi no Tsuki]]"
+Album: "[[Hi no Tsuki]]"
 Creators:
   - "[[ALI PROJECT (🎙️ 165)]]"
 Cover: ""

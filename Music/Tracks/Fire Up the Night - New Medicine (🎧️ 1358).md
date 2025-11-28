@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Breaking the Model]]"
+Album: "[[Breaking the Model]]"
 Creators:
   - "[[New Medicine (🎙️ 391)]]"
 Cover: ""

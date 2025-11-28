@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Hurry up, We're Dreaming [2011] {M83}]]"
+Album: "[[Hurry up, We're Dreaming [2011] {M83}]]"
 Creators:
   - "[[M83 (🎙️ 373)]]"
 Cover: ""

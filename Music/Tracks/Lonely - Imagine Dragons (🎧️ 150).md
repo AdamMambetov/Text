@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Mercury - Act 1 [2021] {Imagine Dragons}]]"
+Album: "[[Mercury - Act 1 [2021] {Imagine Dragons}]]"
 Creators:
   - "[[Imagine Dragons (🎙️ 336)]]"
 Cover: ""

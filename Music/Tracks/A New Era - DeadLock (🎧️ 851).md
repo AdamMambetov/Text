@@ -1,5 +1,5 @@
 ---
-Album: "[[📼The Re-Arrival]]"
+Album: "[[The Re-Arrival]]"
 Creators:
   - "[[DeadLock (🎙️ 284)]]"
 Cover: ""

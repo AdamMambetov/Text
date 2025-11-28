@@ -4,7 +4,7 @@ aliases:
   - ハルカミライ(TVアニメver.)
 Cover: ""
 Year: 2017
-Album: "[[📼「#HAL」]]"
+Album: "[[「#HAL」]]"
 Creators:
   - "[[感覚ピエロ]]"
 NumberInAlbum: 4

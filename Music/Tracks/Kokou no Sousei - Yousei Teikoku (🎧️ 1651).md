@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Kokou no Sousei]]"
+Album: "[[Kokou no Sousei]]"
 Creators:
   - "[[Yousei Teikoku (🎙️ 278)]]"
 Cover: ""

@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Creepin' Towards the Door]]"
+Album: "[[Creepin' Towards the Door]]"
 Creators:
   - "[[Griffinilla (🎙️ 325)]]"
 Cover: ""

@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Light It Up [2008] {Rev Theory}]]"
+Album: "[[Light It Up [2008] {Rev Theory}]]"
 Creators:
   - "[[Rev Theory]]"
 Cover: ""

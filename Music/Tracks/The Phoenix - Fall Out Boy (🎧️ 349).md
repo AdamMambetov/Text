@@ -4,7 +4,7 @@ aliases:
   - The Phoenix
 Cover: ""
 Year: 2013
-Album: "[[📼Save Rock and Roll [2013] {Fall Out Boy}]]"
+Album: "[[Save Rock and Roll [2013] {Fall Out Boy}]]"
 Creators:
   - "[[Fall Out Boy (🎙️ 308)]]"
 NumberInAlbum: 1

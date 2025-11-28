@@ -1,5 +1,5 @@
 ---
-Album: "[[📼2008-12-31: New Years Eve at the Fox Theatre: Detroit, MI, USA]]"
+Album: "[[2008-12-31: New Years Eve at the Fox Theatre: Detroit, MI, USA]]"
 Creators:
   - "[[Barenaked Ladies (🎙️ 212)]]"
 Cover: ""

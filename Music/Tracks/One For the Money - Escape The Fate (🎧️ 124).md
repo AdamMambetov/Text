@@ -4,7 +4,7 @@ aliases:
   - One For the Money
 Cover: ""
 Year: 2013
-Album: "[[📼Ungrateful [2013] {Escape The Fate}]]"
+Album: "[[Ungrateful [2013] {Escape The Fate}]]"
 Creators:
   - "[[Escape The Fate (🎙️ 305)]]"
 NumberInAlbum: 10

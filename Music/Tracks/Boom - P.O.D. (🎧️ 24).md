@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Satellite]]"
+Album: "[[Satellite]]"
 Creators:
   - "[[P.O.D. (🎙️ 406)]]"
 Cover: ""

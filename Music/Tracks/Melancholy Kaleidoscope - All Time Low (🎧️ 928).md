@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Wake Up, Sunshine]]"
+Album: "[[Wake Up, Sunshine]]"
 Creators:
   - "[[All Time Low (🎙️ 169)]]"
 Cover: ""

@@ -4,7 +4,7 @@ aliases:
   - Blood and Thunder
 Cover: ""
 Year: 2004
-Album: "[[📼Leviathan]]"
+Album: "[[Leviathan]]"
 Creators:
   - "[[Mastodon]]"
 NumberInAlbum: 1

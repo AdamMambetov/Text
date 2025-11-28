@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Heaven & Hell]]"
+Album: "[[Heaven & Hell]]"
 Creators:
   - "[[Ava Max (🎙️ 199)]]"
 Cover: ""

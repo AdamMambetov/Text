@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Uptown Special [2015] {Mark Ronson; Bruno Mars}]]"
+Album: "[[Uptown Special [2015] {Mark Ronson; Bruno Mars}]]"
 Creators:
   - "[[Mark Ronson]]"
   - "[[Bruno Mars (🎙️ 241)]]"

@@ -1,5 +1,5 @@
 ---
-Album: "[[📼The Kids Aren't Alright]]"
+Album: "[[The Kids Aren't Alright]]"
 Creators:
   - "[[RADIO TAPOK (🎙️ 423)]]"
 Cover: ""

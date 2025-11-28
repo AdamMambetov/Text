@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Stones]]"
+Album: "[[Stones]]"
 Creators:
   - "[[Manafest]]"
 Cover: ""

@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Kawaki wo Ameku [2021] {Sati Akura}]]"
+Album: "[[Kawaki wo Ameku [2021] {Sati Akura}]]"
 Creators:
   - "[[Sati Akura (🎙️ 359)]]"
 Cover: ""

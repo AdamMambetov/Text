@@ -4,7 +4,7 @@ aliases:
   - Life Is Good
 Cover: ""
 Year: 2018
-Album: "[[📼Life Is Good]]"
+Album: "[[Life Is Good]]"
 Creators:
   - "[[Григорий Лепс (🎙️ 100)]]"
 NumberInAlbum: 1

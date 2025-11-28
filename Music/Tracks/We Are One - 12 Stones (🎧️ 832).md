@@ -4,7 +4,7 @@ aliases:
   - We Are One
 Cover: ""
 Year: 2010
-Album: "[[📼The Only Easy Day Was Yesterday]]"
+Album: "[[The Only Easy Day Was Yesterday]]"
 Creators:
   - "[[12 Stones (🎙️ 70)]]"
 NumberInAlbum: 2

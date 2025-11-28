@@ -1,5 +1,5 @@
 ---
-Album: "[[📼All Time Best]]"
+Album: "[[All Time Best]]"
 Creators:
   - "[[UVERworld (🎙️ 477)]]"
 Cover: ""

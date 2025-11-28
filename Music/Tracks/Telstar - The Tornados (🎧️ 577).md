@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Ridin' The Wind - The Anthology]]"
+Album: "[[Ridin' The Wind - The Anthology]]"
 Creators:
   - "[[The Tornados]]"
 Cover: ""

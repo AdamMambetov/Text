@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Asper X]]"
+Album: "[[Asper X]]"
 Creators:
   - "[[Asper X (🎙️ 195)]]"
 Cover: ""

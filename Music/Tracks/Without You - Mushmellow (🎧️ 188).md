@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Hollow Memories [2008] {Mushmellow}]]"
+Album: "[[Hollow Memories [2008] {Mushmellow}]]"
 Creators:
   - "[[Mushmellow]]"
 Cover: ""

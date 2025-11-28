@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Hell And Silence EP]]"
+Album: "[[Hell And Silence EP]]"
 Creators:
   - "[[Imagine Dragons (🎙️ 336)]]"
 Cover: ""

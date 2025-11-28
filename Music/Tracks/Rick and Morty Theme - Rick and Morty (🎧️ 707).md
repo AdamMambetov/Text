@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Rick and Morty]]"
+Album: "[[Rick and Morty]]"
 Creators:
   - "[[Rick and Morty]]"
   - "[[Ryan Elder]]"

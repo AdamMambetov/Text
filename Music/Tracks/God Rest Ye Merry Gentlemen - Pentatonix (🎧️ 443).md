@@ -1,5 +1,5 @@
 ---
-Album: "[[📼The Best Of Pentatonix Christmas]]"
+Album: "[[The Best Of Pentatonix Christmas]]"
 Creators:
   - "[[Pentatonix]]"
 Cover: ""

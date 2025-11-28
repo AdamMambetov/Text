@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Sonne ~ Rammstein [2020] {RADIO TAPOK}]]"
+Album: "[[Sonne ~ Rammstein [2020] {RADIO TAPOK}]]"
 Creators:
   - "[[RADIO TAPOK (🎙️ 423)]]"
 Cover: ""

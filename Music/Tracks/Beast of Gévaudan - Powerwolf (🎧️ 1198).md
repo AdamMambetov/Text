@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Call of the Wild]]"
+Album: "[[Call of the Wild]]"
 Creators:
   - "[[Powerwolf (🎙️ 420)]]"
 Cover: ""

@@ -1,5 +1,5 @@
 ---
-Album: "[[📼osu!]]"
+Album: "[[osu!]]"
 Creators:
   - "[[HoneyWorks (🎙️ 260)]]"
   - Narumi Sena (CV Amamiya Sora)

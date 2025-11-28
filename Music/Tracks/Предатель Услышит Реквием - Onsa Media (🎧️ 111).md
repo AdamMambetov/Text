@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Uragirimono no Requiem [2022] {Kari}]]"
+Album: "[[Uragirimono no Requiem [2022] {Kari}]]"
 Creators:
   - "[[Onsa Media (🎙️ 404)]]"
 Cover: ""

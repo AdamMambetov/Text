@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Don't Wake the Dead - EP]]"
+Album: "[[Don't Wake the Dead - EP]]"
 Creators:
   - "[[Beyond Unbroken (🎙️ 220)]]"
 Cover: ""

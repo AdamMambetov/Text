@@ -4,7 +4,7 @@ aliases:
   - hot girl bummer
 Cover: ""
 Year: 2020
-Album: "[[📼everything means nothing]]"
+Album: "[[everything means nothing]]"
 Creators:
   - "[[blackbear (🎙️ 225)]]"
 NumberInAlbum: 1

@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Florence + The Sphinx: Sumerian Ceremonials - A Tribute to Florence + The Machine [2014] {Fever Dreamer}]]"
+Album: "[[Florence + The Sphinx: Sumerian Ceremonials - A Tribute to Florence + The Machine [2014] {Fever Dreamer}]]"
 Creators:
   - "[[Fever Dreamer]]"
 Cover: ""

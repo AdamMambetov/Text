@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Doo-Wops & Hooligans]]"
+Album: "[[Doo-Wops & Hooligans]]"
 Creators:
   - "[[Bruno Mars (🎙️ 241)]]"
 Cover: ""

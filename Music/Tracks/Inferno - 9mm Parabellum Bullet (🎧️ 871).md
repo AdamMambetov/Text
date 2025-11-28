@@ -4,7 +4,7 @@ aliases:
   - Inferno
 Cover: ""
 Year: 2016
-Album: "[[📼Inferno]]"
+Album: "[[Inferno]]"
 Creators:
   - "[[9mm Parabellum Bullet (🎙️ 76)]]"
 NumberInAlbum: 1

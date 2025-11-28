@@ -1,5 +1,5 @@
 ---
-Album: "[[📼The Essential Elvis Presley]]"
+Album: "[[The Essential Elvis Presley]]"
 Creators:
   - "[[Elvis Presley (🎙️ 303)]]"
 Cover: ""

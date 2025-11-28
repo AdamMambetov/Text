@@ -1,5 +1,5 @@
 ---
-Album: "[[📼The Strange Case of... [2012] {Halestorm}]]"
+Album: "[[The Strange Case of... [2012] {Halestorm}]]"
 Creators:
   - "[[Halestorm]]"
 Cover: ""

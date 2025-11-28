@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Always Outnumbered, Never Outgunned [2004] {The Prodiigy}]]"
+Album: "[[Always Outnumbered, Never Outgunned [2004] {The Prodiigy}]]"
 Creators:
   - "[[The Prodigy (🎙️ 463)]]"
 Cover: ""

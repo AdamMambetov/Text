@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Courage]]"
+Album: "[[Courage]]"
 Creators:
   - "[[Jim Yosef]]"
   - "[[Anna Yvette (🎙️ 184)]]"

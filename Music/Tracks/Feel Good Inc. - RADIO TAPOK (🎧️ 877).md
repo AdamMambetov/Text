@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Feel Good Inc.]]"
+Album: "[[Feel Good Inc.]]"
 Creators:
   - "[[RADIO TAPOK (🎙️ 423)]]"
 Cover: ""

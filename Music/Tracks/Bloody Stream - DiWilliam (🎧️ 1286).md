@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Bloody Stream]]"
+Album: "[[Bloody Stream]]"
 Creators:
   - "[[DiWilliam (🎙️ 60)]]"
 Cover: ""

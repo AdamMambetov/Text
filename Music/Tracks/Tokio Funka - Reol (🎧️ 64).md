@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Tokio Funka]]"
+Album: "[[Tokio Funka]]"
 Creators:
   - "[[Reol (🎙️ 429)]]"
 Cover: ""

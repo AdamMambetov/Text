@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Here's To the Ones]]"
+Album: "[[Here's To the Ones]]"
 Creators:
   - "[[Rhett Walker Band]]"
 Cover: ""

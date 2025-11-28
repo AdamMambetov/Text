@@ -1,5 +1,5 @@
 ---
-Album: "[[📼OK Go / Nike+ Treadmill Workout Mix [2006] {OK Go}]]"
+Album: "[[OK Go / Nike+ Treadmill Workout Mix [2006] {OK Go}]]"
 Creators:
   - "[[OK Go (🎙️ 401)]]"
 Cover: ""

@@ -1,5 +1,5 @@
 ---
-Album: "[[📼The Quick Brown Fox]]"
+Album: "[[The Quick Brown Fox]]"
 Creators:
   - "[[The Quick Brown Fox (🎙️ 464)]]"
 Cover: ""

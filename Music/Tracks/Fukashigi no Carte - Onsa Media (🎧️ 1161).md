@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Fukashigi no Carte]]"
+Album: "[[Fukashigi no Carte]]"
 Creators:
   - "[[Onsa Media (🎙️ 404)]]"
 Cover: ""

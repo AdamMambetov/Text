@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Compared Child]]"
+Album: "[[Compared Child]]"
 Creators:
   - "[[Sati Akura (🎙️ 359)]]"
 Cover: ""

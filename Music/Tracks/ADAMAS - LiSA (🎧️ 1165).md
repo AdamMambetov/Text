@@ -4,7 +4,7 @@ aliases:
   - ADAMAS
 Cover: ""
 Year: 2018
-Album: "[[📼ADAMAS]]"
+Album: "[[ADAMAS]]"
 Creators:
   - "[[LiSA (🎙️ 65)]]"
 NumberInAlbum: 2

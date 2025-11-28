@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Insane]]"
+Album: "[[Insane]]"
 Creators:
   - "[[DiWilliam (🎙️ 60)]]"
 Cover: ""

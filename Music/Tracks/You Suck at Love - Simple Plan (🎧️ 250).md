@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Get Your Heart On! [2011] {Simple Plan}]]"
+Album: "[[Get Your Heart On! [2011] {Simple Plan}]]"
 Creators:
   - "[[Simple Plan (🎙️ 441)]]"
 Cover: ""

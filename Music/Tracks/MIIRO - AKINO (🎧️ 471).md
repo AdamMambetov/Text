@@ -4,7 +4,7 @@ aliases:
   - MIIRO
 Cover: ""
 Year: 2015
-Album: "[[📼osu!]]"
+Album: "[[osu!]]"
 Creators:
   - "[[AKINO (🎙️ 160)]]"
   - "[[bless4 (🎙️ 161)]]"

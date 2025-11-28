@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Music Is My Savior]]"
+Album: "[[Music Is My Savior]]"
 Creators:
   - "[[S3RL]]"
 Cover: ""

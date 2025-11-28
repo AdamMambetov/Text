@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Carry On]]"
+Album: "[[Carry On]]"
 Creators:
   - "[[Игорь Куликов (🎙️ 71)]]"
 Cover: ""

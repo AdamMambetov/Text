@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Re:Re:]]"
+Album: "[[Re:Re:]]"
 Creators:
   - "[[Kari (🎙️ 351)]]"
 Cover: ""

@@ -1,5 +1,5 @@
 ---
-Album: "[[📼The Shadow Side]]"
+Album: "[[The Shadow Side]]"
 Creators:
   - "[[Andy Black (🎙️ 182)]]"
   - "[[Matt Skiba]]"

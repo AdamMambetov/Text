@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Holding Onto Strings Better Left to Fray]]"
+Album: "[[Holding Onto Strings Better Left to Fray]]"
 Creators:
   - "[[Seether (🎙️ 437)]]"
 Cover: ""

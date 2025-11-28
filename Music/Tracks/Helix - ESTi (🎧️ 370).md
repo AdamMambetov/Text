@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Helix [2013] {ESTi}]]"
+Album: "[[Helix [2013] {ESTi}]]"
 Creators:
   - "[[ESTi (🎙️ 306)]]"
 Cover: ""

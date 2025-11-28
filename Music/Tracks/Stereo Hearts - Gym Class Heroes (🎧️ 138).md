@@ -1,5 +1,5 @@
 ---
-Album: "[[📼The Papercut Chronicles II [2011] {Gym Class Heroes; Adam Levine}]]"
+Album: "[[The Papercut Chronicles II [2011] {Gym Class Heroes; Adam Levine}]]"
 Creators:
   - "[[Gym Class Heroes (🎙️ 326)]]"
   - "[[Adam Levine (🎙️ 147)]]"

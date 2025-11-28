@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Seven Nation Army [2011] {SEVEN NATION ARMY.}]]"
+Album: "[[Seven Nation Army [2011] {SEVEN NATION ARMY.}]]"
 Creators:
   - "[[SEVEN NATION ARMY.]]"
 Cover: ""

@@ -1,5 +1,5 @@
 ---
-Album: "[[📼VORACITY]]"
+Album: "[[VORACITY]]"
 Creators:
   - "[[MYTH & ROID (🎙️ 386)]]"
 Cover: ""

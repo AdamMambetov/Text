@@ -1,5 +1,5 @@
 ---
-Album: "[[📼13 Voices [2016] {Sum 41}]]"
+Album: "[[13 Voices [2016] {Sum 41}]]"
 Creators:
   - "[[Sum 41 (🎙️ 449)]]"
 Cover: ""

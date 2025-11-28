@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Dark & Wild]]"
+Album: "[[Dark & Wild]]"
 Creators:
   - "[[BTS (🎙️ 242)]]"
 Cover: ""

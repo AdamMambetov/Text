@@ -1,5 +1,5 @@
 ---
-Album: "[[📼War of Change]]"
+Album: "[[War of Change]]"
 Creators:
   - "[[RADIO TAPOK (🎙️ 423)]]"
 Cover: ""

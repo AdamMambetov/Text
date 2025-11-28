@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Hand of Blood]]"
+Album: "[[Hand of Blood]]"
 Creators:
   - "[[Bullet For My Valentine (🎙️ 243)]]"
 Cover: ""

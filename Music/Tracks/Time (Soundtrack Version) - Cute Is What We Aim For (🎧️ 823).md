@@ -4,7 +4,7 @@ aliases:
   - Time (Soundtrack Version)
 Cover: ""
 Year: 2008
-Album: "[[📼Rotation]]"
+Album: "[[Rotation]]"
 Creators:
   - "[[Cute Is What We Aim For (🎙️ 272)]]"
 NumberInAlbum: 11

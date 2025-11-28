@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Photograph - Single [2008] {Nickelback}]]"
+Album: "[[Photograph - Single [2008] {Nickelback}]]"
 Creators:
   - "[[Nickelback (🎙️ 392)]]"
 Cover: ""

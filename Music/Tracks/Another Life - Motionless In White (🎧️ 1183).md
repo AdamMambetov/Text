@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Disguise]]"
+Album: "[[Disguise]]"
 Creators:
   - "[[Motionless In White]]"
 Cover: ""

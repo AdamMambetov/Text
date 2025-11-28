@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Crossing Field]]"
+Album: "[[Crossing Field]]"
 Creators:
   - "[[Onsa Media (🎙️ 404)]]"
 Cover: ""

@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Troubadour [2010] {K'NAAN}]]"
+Album: "[[Troubadour [2010] {K'NAAN}]]"
 Creators:
   - "[[K'NAAN (🎙️ 346)]]"
 Cover: ""

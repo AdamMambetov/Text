@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Enemy]]"
+Album: "[[Enemy]]"
 Creators:
   - "[[Bardcore (🎙️ 211)]]"
 Cover: ""

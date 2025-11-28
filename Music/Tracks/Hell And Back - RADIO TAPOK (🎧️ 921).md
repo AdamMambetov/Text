@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Hell And Back]]"
+Album: "[[Hell And Back]]"
 Creators:
   - "[[RADIO TAPOK (🎙️ 423)]]"
 Cover: ""

@@ -1,5 +1,5 @@
 ---
-Album: "[[📼When We Stand Together ~ Nickelback [2021] {Everblack Melodies}]]"
+Album: "[[When We Stand Together ~ Nickelback [2021] {Everblack Melodies}]]"
 Creators:
   - "[[Everblack Melodies (🎙️ 307)]]"
 Cover: ""

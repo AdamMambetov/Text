@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Tri-polar [2010] {Sick Puppies}]]"
+Album: "[[Tri-polar [2010] {Sick Puppies}]]"
 Creators:
   - "[[Sick Puppies]]"
 Cover: ""

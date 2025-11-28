@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Recovery [2010] {Eminem}]]"
+Album: "[[Recovery [2010] {Eminem}]]"
 Creators:
   - "[[Eminem (🎙️ 294)]]"
 Cover: ""

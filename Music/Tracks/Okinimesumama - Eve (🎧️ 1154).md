@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Bunka]]"
+Album: "[[Bunka]]"
 Creators:
   - "[[Eve (🎙️ 34)]]"
 Cover: ""

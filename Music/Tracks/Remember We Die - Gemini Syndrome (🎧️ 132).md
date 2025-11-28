@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Memento Mori [2016] {Gemini Syndrome}]]"
+Album: "[[Memento Mori [2016] {Gemini Syndrome}]]"
 Creators:
   - "[[Gemini Syndrome]]"
 Cover: ""

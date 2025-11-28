@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Les indispensables de la chanson française]]"
+Album: "[[Les indispensables de la chanson française]]"
 Creators:
   - "[[Hits Variété Pop]]"
 Cover: ""

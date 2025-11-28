@@ -1,5 +1,5 @@
 ---
-Album: "[[📼You Want Some of This?]]"
+Album: "[[You Want Some of This?]]"
 Creators:
   - "[[Jon Lajoie]]"
 Cover: ""

@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Unleashed]]"
+Album: "[[Unleashed]]"
 Creators:
   - "[[Skillet (🎙️ 442)]]"
 Cover: ""

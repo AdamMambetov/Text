@@ -1,5 +1,5 @@
 ---
-Album: "[[📼The Sacrament of Sin [2018] {Epica}]]"
+Album: "[[The Sacrament of Sin [2018] {Epica}]]"
 Creators:
   - "[[Epica (🎙️ 296)]]"
 Cover: ""

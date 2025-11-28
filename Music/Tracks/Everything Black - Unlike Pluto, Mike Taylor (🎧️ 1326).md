@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Everything Black]]"
+Album: "[[Everything Black]]"
 Creators:
   - "[[Unlike Pluto, Mike Taylor]]"
 Cover: ""

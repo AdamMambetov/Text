@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Jay Smith]]"
+Album: "[[Jay Smith]]"
 Creators:
   - "[[Jay Smith]]"
 Cover: ""

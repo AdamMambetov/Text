@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Low]]"
+Album: "[[Low]]"
 Creators:
   - "[[Flo Rida (🎙️ 312)]]"
   - "[[T-Pain]]"

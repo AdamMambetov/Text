@@ -1,5 +1,5 @@
 ---
-Album: "[[📼osu!]]"
+Album: "[[osu!]]"
 Creators:
   - "[[Brad Breeck (🎙️ 235)]]"
 Cover: ""

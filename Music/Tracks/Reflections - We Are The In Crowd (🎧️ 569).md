@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Weird Kids]]"
+Album: "[[Weird Kids]]"
 Creators:
   - "[[We Are The In Crowd]]"
 Cover: ""

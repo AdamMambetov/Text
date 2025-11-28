@@ -4,7 +4,7 @@ aliases:
   - Teeth
 Cover: ""
 Year: 2019
-Album: "[[📼13 Reasons Why (Season 3)]]"
+Album: "[[13 Reasons Why (Season 3)]]"
 Creators:
   - "[[5 Seconds of Summer (🎙️ 69)]]"
 NumberInAlbum: 1

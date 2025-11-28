@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Chemical Warfare]]"
+Album: "[[Chemical Warfare]]"
 Creators:
   - "[[Escape The Fate (🎙️ 305)]]"
 Cover: ""

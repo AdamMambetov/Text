@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Surfers Paradise]]"
+Album: "[[Surfers Paradise]]"
 Creators:
   - "[[Cody Simpson (🎙️ 267)]]"
 Cover: ""

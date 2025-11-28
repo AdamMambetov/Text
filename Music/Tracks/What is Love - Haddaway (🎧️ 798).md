@@ -1,5 +1,5 @@
 ---
-Album: "[[📼The Album]]"
+Album: "[[The Album]]"
 Creators:
   - "[[Haddaway]]"
 Cover: ""

@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Lagtrain]]"
+Album: "[[Lagtrain]]"
 Creators:
   - "[[Will Stetson (🎙️ 483)]]"
 Cover: ""

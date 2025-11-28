@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Chris Wong]]"
+Album: "[[Chris Wong]]"
 Creators:
   - "[[MY FIRST STORY]]"
 Cover: ""

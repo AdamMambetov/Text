@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Manifest]]"
+Album: "[[Manifest]]"
 Creators:
   - "[[Amaranthe (🎙️ 174)]]"
 Cover: ""

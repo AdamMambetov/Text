@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Feed the Machine]]"
+Album: "[[Feed the Machine]]"
 Creators:
   - "[[Poor Mans Poison (🎙️ 417)]]"
 Cover: ""

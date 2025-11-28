@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Friday Night]]"
+Album: "[[Friday Night]]"
 Creators:
   - "[[Vigiland (🎙️ 481)]]"
 Cover: ""

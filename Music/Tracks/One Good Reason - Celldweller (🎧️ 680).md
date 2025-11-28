@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Celldweller (10 Year Anniversary)]]"
+Album: "[[Celldweller (10 Year Anniversary)]]"
 Creators:
   - "[[Celldweller (🎙️ 253)]]"
 Cover: ""

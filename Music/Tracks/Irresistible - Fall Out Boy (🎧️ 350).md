@@ -1,5 +1,5 @@
 ---
-Album: "[[📼American Beauty/American Psycho [2015] {Fall Out Boy}]]"
+Album: "[[American Beauty/American Psycho [2015] {Fall Out Boy}]]"
 Creators:
   - "[[Fall Out Boy (🎙️ 308)]]"
 Cover: ""

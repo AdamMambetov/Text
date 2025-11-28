@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Playlist Plus [2008] {Lynyrd Skynyrd}]]"
+Album: "[[Playlist Plus [2008] {Lynyrd Skynyrd}]]"
 Creators:
   - "[[Lynyrd Skynyrd]]"
 Cover: ""

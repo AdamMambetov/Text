@@ -1,5 +1,5 @@
 ---
-Album: "[[📼I Am Human]]"
+Album: "[[I Am Human]]"
 Creators:
   - "[[Escape The Fate (🎙️ 305)]]"
 Cover: ""

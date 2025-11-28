@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Smile]]"
+Album: "[[Smile]]"
 Creators:
   - "[[Eve (🎙️ 34)]]"
 Cover: ""

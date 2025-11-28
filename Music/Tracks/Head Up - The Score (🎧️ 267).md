@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Metamorph [2022] {The Score}]]"
+Album: "[[Metamorph [2022] {The Score}]]"
 Creators:
   - "[[The Score (🎙️ 465)]]"
 Cover: ""

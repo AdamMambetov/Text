@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Rise And Fall, Rage And Grace [2008] {The Offspring}]]"
+Album: "[[Rise And Fall, Rage And Grace [2008] {The Offspring}]]"
 Creators:
   - "[[The Offspring (🎙️ 461)]]"
 Cover: ""

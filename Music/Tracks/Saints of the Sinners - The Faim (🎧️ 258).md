@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Saints of the Sinners [2018] {The Faim}]]"
+Album: "[[Saints of the Sinners [2018] {The Faim}]]"
 Creators:
   - "[[The Faim]]"
 Cover: ""

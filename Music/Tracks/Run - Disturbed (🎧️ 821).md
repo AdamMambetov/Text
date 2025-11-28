@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Indestructible]]"
+Album: "[[Indestructible]]"
 Creators:
   - "[[Disturbed (🎙️ 289)]]"
 Cover: ""

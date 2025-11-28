@@ -1,5 +1,5 @@
 ---
-Album: "[[📼The Best Of Earth, Wind & Fire Vol. 1]]"
+Album: "[[The Best Of Earth, Wind & Fire Vol. 1]]"
 Creators:
   - "[[Earth, Wind & Fire (🎙️ 300)]]"
 Cover: ""

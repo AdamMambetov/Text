@@ -1,5 +1,5 @@
 ---
-Album: "[[📼The Human Resource]]"
+Album: "[[The Human Resource]]"
 Creators:
   - "[[Evol Intent + Mayhem + Thinktank]]"
 Cover: ""

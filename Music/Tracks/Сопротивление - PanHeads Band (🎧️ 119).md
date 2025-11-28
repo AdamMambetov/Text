@@ -1,5 +1,5 @@
 ---
-Album: "[[📼The Resistance ~ Skillet [] {PanHeads Band}]]"
+Album: "[[The Resistance ~ Skillet [] {PanHeads Band}]]"
 Creators:
   - "[[PanHeads Band (🎙️ 411)]]"
 Cover: ""

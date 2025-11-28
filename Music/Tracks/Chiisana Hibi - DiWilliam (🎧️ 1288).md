@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Chiisana Hibi]]"
+Album: "[[Chiisana Hibi]]"
 Creators:
   - "[[DiWilliam (🎙️ 60)]]"
 Cover: ""

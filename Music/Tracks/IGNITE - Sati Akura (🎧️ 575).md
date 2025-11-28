@@ -1,5 +1,5 @@
 ---
-Album: "[[📼IGNITE]]"
+Album: "[[IGNITE]]"
 Creators:
   - "[[Sati Akura (🎙️ 359)]]"
 Cover: ""

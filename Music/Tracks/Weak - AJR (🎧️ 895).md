@@ -1,5 +1,5 @@
 ---
-Album: "[[📼The Click]]"
+Album: "[[The Click]]"
 Creators:
   - "[[AJR (🎙️ 149)]]"
 Cover: ""

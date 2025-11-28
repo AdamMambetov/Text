@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Personal Jesus]]"
+Album: "[[Personal Jesus]]"
 Creators:
   - "[[RADIO TAPOK (🎙️ 423)]]"
 Cover: ""

@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Hunting High and Low]]"
+Album: "[[Hunting High and Low]]"
 Creators:
   - "[[a-ha (🎙️ 142)]]"
 Cover: ""

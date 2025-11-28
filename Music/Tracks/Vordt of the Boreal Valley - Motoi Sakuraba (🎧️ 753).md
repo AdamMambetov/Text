@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Dark Souls 3]]"
+Album: "[[Dark Souls 3]]"
 Creators:
   - "[[Motoi Sakuraba (🎙️ 31)]]"
 Cover: ""

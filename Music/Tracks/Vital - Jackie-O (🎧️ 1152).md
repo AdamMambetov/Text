@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Vital]]"
+Album: "[[Vital]]"
 Creators:
   - "[[Jackie-O (🎙️ 341)]]"
 Cover: ""

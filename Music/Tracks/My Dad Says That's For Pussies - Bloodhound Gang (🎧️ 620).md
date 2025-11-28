@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Hard-Off]]"
+Album: "[[Hard-Off]]"
 Creators:
   - "[[Bloodhound Gang (🎙️ 229)]]"
 Cover: ""

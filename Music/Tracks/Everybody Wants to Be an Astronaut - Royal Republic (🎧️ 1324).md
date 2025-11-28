@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Save the Nation]]"
+Album: "[[Save the Nation]]"
 Creators:
   - "[[Royal Republic]]"
 Cover: ""

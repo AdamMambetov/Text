@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Batman: Arkham City 2011]]"
+Album: "[[Batman: Arkham City 2011]]"
 Creators:
   - "[[Panic! At The Disco (🎙️ 412)]]"
 Cover: ""

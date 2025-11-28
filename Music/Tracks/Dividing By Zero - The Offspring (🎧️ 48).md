@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Days Go By]]"
+Album: "[[Days Go By]]"
 Creators:
   - "[[The Offspring (🎙️ 461)]]"
 Cover: ""

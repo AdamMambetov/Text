@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Black Reign - EP]]"
+Album: "[[Black Reign - EP]]"
 Creators:
   - "[[Avenged Sevenfold (🎙️ 201)]]"
 Cover: ""

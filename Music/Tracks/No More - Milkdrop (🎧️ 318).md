@@ -1,5 +1,5 @@
 ---
-Album: "[[📼No More [2017] {Milkdrop}]]"
+Album: "[[No More [2017] {Milkdrop}]]"
 Creators:
   - "[[Milkdrop]]"
 Cover: ""

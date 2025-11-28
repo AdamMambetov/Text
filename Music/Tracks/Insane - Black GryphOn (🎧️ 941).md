@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Insane]]"
+Album: "[[Insane]]"
 Creators:
   - "[[Black GryphOn (🎙️ 223)]]"
   - "[[Baasik (🎙️ 206)]]"

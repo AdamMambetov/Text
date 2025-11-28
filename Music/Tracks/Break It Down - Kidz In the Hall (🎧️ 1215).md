@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Occasion]]"
+Album: "[[Occasion]]"
 Creators:
   - "[[Kidz In the Hall]]"
 Cover: ""

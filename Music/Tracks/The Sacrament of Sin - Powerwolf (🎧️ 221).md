@@ -1,5 +1,5 @@
 ---
-Album: "[[📼The Sacrament of Sin [2018] {Powerwolf}]]"
+Album: "[[The Sacrament of Sin [2018] {Powerwolf}]]"
 Creators:
   - "[[Powerwolf (🎙️ 420)]]"
 Cover: ""

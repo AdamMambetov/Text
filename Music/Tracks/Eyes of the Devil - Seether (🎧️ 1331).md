@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Finding Beauty In Negative Spaces]]"
+Album: "[[Finding Beauty In Negative Spaces]]"
 Creators:
   - "[[Seether (🎙️ 437)]]"
 Cover: ""

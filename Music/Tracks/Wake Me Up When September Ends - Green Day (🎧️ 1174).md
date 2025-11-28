@@ -1,5 +1,5 @@
 ---
-Album: "[[📼American Idiot]]"
+Album: "[[American Idiot]]"
 Creators:
   - "[[Green Day (🎙️ 324)]]"
 Cover: ""

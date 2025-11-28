@@ -1,5 +1,5 @@
 ---
-Album: "[[📼The Fame [2008] {Lady Gaga}]]"
+Album: "[[The Fame [2008] {Lady Gaga}]]"
 Creators:
   - "[[Lady Gaga (🎙️ 361)]]"
 Cover: ""

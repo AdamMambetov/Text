@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Fright March - Single]]"
+Album: "[[Fright March - Single]]"
 Creators:
   - "[[cYsmix (🎙️ 273)]]"
 Cover: ""

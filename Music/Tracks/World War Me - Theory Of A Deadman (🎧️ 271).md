@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Savages [2014] {Theory Of A Deadman}]]"
+Album: "[[Savages [2014] {Theory Of A Deadman}]]"
 Creators:
   - "[[Theory Of A Deadman (🎙️ 468)]]"
 Cover: ""

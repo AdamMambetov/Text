@@ -1,5 +1,5 @@
 ---
-Album: "[[📼UNO [2020] {Little Big}]]"
+Album: "[[UNO [2020] {Little Big}]]"
 Creators:
   - "[[Little Big (🎙️ 366)]]"
 Cover: ""

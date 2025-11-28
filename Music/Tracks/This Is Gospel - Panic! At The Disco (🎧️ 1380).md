@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Too Weird to Live, Too Rare to Die!]]"
+Album: "[[Too Weird to Live, Too Rare to Die!]]"
 Creators:
   - "[[Panic! At The Disco (🎙️ 412)]]"
 Cover: ""

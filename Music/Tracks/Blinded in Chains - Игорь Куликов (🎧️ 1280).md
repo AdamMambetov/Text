@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Blinded in Chains]]"
+Album: "[[Blinded in Chains]]"
 Creators:
   - "[[Игорь Куликов (🎙️ 71)]]"
 Cover: ""

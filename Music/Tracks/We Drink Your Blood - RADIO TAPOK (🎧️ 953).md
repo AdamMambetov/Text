@@ -1,5 +1,5 @@
 ---
-Album: "[[📼We Drink Your Blood]]"
+Album: "[[We Drink Your Blood]]"
 Creators:
   - "[[RADIO TAPOK (🎙️ 423)]]"
 Cover: ""

@@ -1,5 +1,5 @@
 ---
-Album: "[[📼空に歌えば (TV edit.)]]"
+Album: "[[空に歌えば (TV edit.)]]"
 Creators:
   - "[[amazarashi (🎙️ 176)]]"
 Cover: ""

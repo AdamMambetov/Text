@@ -1,5 +1,5 @@
 ---
-Album: "[[📼No Friends]]"
+Album: "[[No Friends]]"
 Creators:
   - "[[Cadmium (🎙️ 247)]]"
   - "[[Rosendale]]"

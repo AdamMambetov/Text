@@ -1,5 +1,5 @@
 ---
-Album: "[[📼DNCE]]"
+Album: "[[DNCE]]"
 Creators:
   - "[[DNCE (🎙️ 293)]]"
 Cover: ""

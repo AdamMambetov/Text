@@ -1,9 +1,10 @@
 ---
 created: 2024-10-13 23:37:54
-aliases: ["Low of Solipsism"]
+aliases:
+  - Low of Solipsism
 Cover: ""
 Year: 0
-Album: "[[📼Death Note OST]]"
+Album: "[[Death Note OST]]"
 Creators: []
 NumberInAlbum: 1
 source: ""

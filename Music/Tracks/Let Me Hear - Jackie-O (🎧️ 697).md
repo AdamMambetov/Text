@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Let Me Hear]]"
+Album: "[[Let Me Hear]]"
 Creators:
   - "[[Jackie-O (🎙️ 341)]]"
 Cover: ""

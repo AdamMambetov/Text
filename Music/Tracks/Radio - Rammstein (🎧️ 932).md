@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Rammstein]]"
+Album: "[[Rammstein]]"
 Creators:
   - "[[Rammstein (🎙️ 426)]]"
 Cover: ""

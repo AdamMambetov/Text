@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Let's Be Animals [2011] {The Downtown Fiction}]]"
+Album: "[[Let's Be Animals [2011] {The Downtown Fiction}]]"
 Creators:
   - "[[The Downtown Fiction]]"
 Cover: ""

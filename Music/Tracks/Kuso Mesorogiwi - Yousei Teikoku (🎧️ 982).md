@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Mirai Nikki OP]]"
+Album: "[[Mirai Nikki OP]]"
 Creators:
   - "[[Yousei Teikoku (🎙️ 278)]]"
 Cover: ""

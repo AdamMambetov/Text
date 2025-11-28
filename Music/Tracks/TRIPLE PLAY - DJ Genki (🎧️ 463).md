@@ -4,7 +4,7 @@ aliases:
   - TRIPLE PLAY
 Cover: ""
 Year: 0
-Album: "[[📼osu!]]"
+Album: "[[osu!]]"
 Creators:
   - "[[DJ Genki (🎙️ 290)]]"
   - "[[C-Show (🎙️ 291)]]"

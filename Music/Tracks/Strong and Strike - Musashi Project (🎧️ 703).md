@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Naruto]]"
+Album: "[[Naruto]]"
 Creators:
   - "[[Musashi Project]]"
 Cover: ""

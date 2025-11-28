@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Love Story [2015] {Yelawolf}]]"
+Album: "[[Love Story [2015] {Yelawolf}]]"
 Creators:
   - "[[Yelawolf (🎙️ 485)]]"
 Cover: ""

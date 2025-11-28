@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Leo Metal, Vol. 31]]"
+Album: "[[Leo Metal, Vol. 31]]"
 Creators:
   - "[[Leo]]"
 Cover: ""

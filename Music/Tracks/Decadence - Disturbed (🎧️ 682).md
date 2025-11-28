@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Ten Thousand Fists]]"
+Album: "[[Ten Thousand Fists]]"
 Creators:
   - "[[Disturbed (🎙️ 289)]]"
 Cover: ""

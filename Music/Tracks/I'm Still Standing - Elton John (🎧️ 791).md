@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Too Low for Zero]]"
+Album: "[[Too Low for Zero]]"
 Creators:
   - "[[Elton John]]"
 Cover: ""

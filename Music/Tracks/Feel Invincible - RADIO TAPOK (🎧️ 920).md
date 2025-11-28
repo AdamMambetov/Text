@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Feel Invincible]]"
+Album: "[[Feel Invincible]]"
 Creators:
   - "[[RADIO TAPOK (🎙️ 423)]]"
   - "[[Ai Mori (🎙️ 158)]]"

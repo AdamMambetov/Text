@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Birthday]]"
+Album: "[[Birthday]]"
 Creators:
   - "[[ClariS (🎙️ 265)]]"
 Cover: ""

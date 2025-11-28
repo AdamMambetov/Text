@@ -1,5 +1,5 @@
 ---
-Album: "[[📼A Monster In Paris]]"
+Album: "[[A Monster In Paris]]"
 Creators:
   - "[[Vanessa Paradis]]"
   - "[[M]]"

@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Blue]]"
+Album: "[[Blue]]"
 Creators:
   - "[[DiWilliam (🎙️ 60)]]"
 Cover: ""

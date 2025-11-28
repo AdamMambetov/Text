@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Armageddon: The Album]]"
+Album: "[[Armageddon: The Album]]"
 Creators:
   - "[[Aerosmith (🎙️ 154)]]"
 Cover: ""

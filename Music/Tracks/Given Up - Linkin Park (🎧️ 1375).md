@@ -4,7 +4,7 @@ aliases:
   - Given Up
 Cover: ""
 Year: 2007
-Album: "[[📼Minutes to Midnight]]"
+Album: "[[Minutes to Midnight]]"
 Creators:
   - "[[Linkin Park (🎙️ 365)]]"
 NumberInAlbum: 2

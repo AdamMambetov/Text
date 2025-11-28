@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Level 1]]"
+Album: "[[Level 1]]"
 Creators:
   - "[[Miracle of Sound]]"
 Cover: ""

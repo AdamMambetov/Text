@@ -4,7 +4,7 @@ aliases:
   - Heart ni Hi wo Tsukete
 Cover: ""
 Year: 2012
-Album: "[[📼Heart ni Hi wo Tsukete]]"
+Album: "[[Heart ni Hi wo Tsukete]]"
 Creators:
   - "[[9mm Parabellum Bullet (🎙️ 76)]]"
 NumberInAlbum: 1

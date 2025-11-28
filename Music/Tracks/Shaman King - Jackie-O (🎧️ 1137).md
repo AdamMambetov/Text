@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Shaman King]]"
+Album: "[[Shaman King]]"
 Creators:
   - "[[Jackie-O (🎙️ 341)]]"
 Cover: ""

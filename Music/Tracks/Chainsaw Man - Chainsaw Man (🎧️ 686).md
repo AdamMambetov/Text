@@ -4,7 +4,7 @@ aliases:
   - Chainsaw Man
 Cover: ""
 Year: 2020
-Album: "[[📼Chainsaw Man]]"
+Album: "[[Chainsaw Man]]"
 Creators:
   - "[[Chainsaw Man (🎙️ 254)]]"
 NumberInAlbum: 1

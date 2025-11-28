@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Crossing Field]]"
+Album: "[[Crossing Field]]"
 Creators:
   - "[[Marie Bibika (🎙️ 376)]]"
 Cover: ""

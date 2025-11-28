@@ -1,5 +1,5 @@
 ---
-Album: "[[📼The Black Parade / Living with Ghosts [2016] {My Chemical Romance}]]"
+Album: "[[The Black Parade / Living with Ghosts [2016] {My Chemical Romance}]]"
 Creators:
   - "[[My Chemical Romance (🎙️ 385)]]"
 Cover: ""

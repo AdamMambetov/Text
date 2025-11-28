@@ -1,5 +1,5 @@
 ---
-Album: "[[📼ANGEL OF SALVATION]]"
+Album: "[[ANGEL OF SALVATION]]"
 Creators:
   - "[[GALNERYUS (🎙️ 317)]]"
 Cover: ""

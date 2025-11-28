@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Fitz and The Tantrums]]"
+Album: "[[Fitz and The Tantrums]]"
 Creators:
   - "[[Fitz & The Tantrums]]"
 Cover: ""

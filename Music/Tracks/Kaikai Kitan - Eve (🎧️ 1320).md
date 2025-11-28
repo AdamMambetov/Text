@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Kaikai Kitan]]"
+Album: "[[Kaikai Kitan]]"
 Creators:
   - "[[Eve (🎙️ 34)]]"
 Cover: ""

@@ -1,5 +1,5 @@
 ---
-Album: "[[📼TaKillYa [2017] {Vinnie Maniscalco}]]"
+Album: "[[TaKillYa [2017] {Vinnie Maniscalco}]]"
 Creators:
   - "[[Vinnie Maniscalco]]"
 Cover: ""

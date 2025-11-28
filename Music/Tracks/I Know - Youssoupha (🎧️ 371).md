@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Letter to the Lord [2011] {Youssoupha; Irma}]]"
+Album: "[[Letter to the Lord [2011] {Youssoupha; Irma}]]"
 Creators:
   - "[[Youssoupha]]"
 Cover: ""

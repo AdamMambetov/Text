@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Lonely Day]]"
+Album: "[[Lonely Day]]"
 Creators:
   - "[[RADIO TAPOK (🎙️ 423)]]"
 Cover: ""

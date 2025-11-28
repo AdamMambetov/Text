@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Seven Hearts One Soul]]"
+Album: "[[Seven Hearts One Soul]]"
 Creators:
   - "[[The O'Reillys and the Paddyhats]]"
 Cover: ""

@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Anime & Movie Soundtracks]]"
+Album: "[[Anime & Movie Soundtracks]]"
 Creators:
   - "[[Leon Alex (🎙️ 363)]]"
 Cover: ""

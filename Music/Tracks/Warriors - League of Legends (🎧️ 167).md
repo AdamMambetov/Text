@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Warriors [2020] {League of Legends; 2WEI; Edda Hayes}]]"
+Album: "[[Warriors [2020] {League of Legends; 2WEI; Edda Hayes}]]"
 Creators:
   - "[[League of Legends (🎙️ 73)]]"
   - "[[2WEI (🎙️ 68)]]"

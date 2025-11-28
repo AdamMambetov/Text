@@ -1,5 +1,5 @@
 ---
-Album: "[[📼Sea Shanty Medley [2021] {Home Free}]]"
+Album: "[[Sea Shanty Medley [2021] {Home Free}]]"
 Creators:
   - "[[Home Free]]"
 Cover: ""

@@ -1,5 +1,5 @@
 ---
-Album: "[[📼apples]]"
+Album: "[[apples]]"
 Creators:
   - "[[Chihiro Yonekura (🎙️ 262)]]"
 Cover: ""
