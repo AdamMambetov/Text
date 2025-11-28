@@ -55,4 +55,5 @@ for (let i = 0; i < dirs.length; i++) {
 		})
 	}
 }
+new Notice("Finish", 5000)
 -%>

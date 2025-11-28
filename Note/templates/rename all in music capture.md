@@ -66,7 +66,7 @@ for (var key in types) {
 			.replaceAll("null ")
 			.split(` - (${type.icon} `)[0]
 			.split(` (${type.icon} `)[0]
-			.replaceAll(/[\[\]:/#]/g, "")
+			.replaceAll(/[\[\]:/#\?\*]/g, "")
 		title = `${rootPath}/${type.relativePath}/${title} (${type.icon} ${i+1}).md`
 		if (title === `${f.folder}/${f.name}.md`)
 			continue
