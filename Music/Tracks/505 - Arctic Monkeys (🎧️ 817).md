@@ -1,0 +1,17 @@
+---
+Album: "[[📼Favourite Worst Nightmare]]"
+Creators:
+  - "[[Arctic Monkeys (🎙️ 188)]]"
+Cover: ""
+NumberInAlbum: 12
+SourceFile: "[[Arctic Monkeys - 505.mp3]]"
+Year: 2007
+aliases:
+  - "505"
+created: 2024-06-21 05:19:46
+source: ""
+---
+
+# Arctic Monkeys - 505
+
+![[Arctic Monkeys - 505.mp3]]

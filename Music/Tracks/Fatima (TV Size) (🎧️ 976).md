@@ -1,0 +1,15 @@
+---
+Album: ""
+Creators: ["[[Itou Kanako (🎙️ 52)]]"]
+Cover: ""
+NumberInAlbum: 1
+SourceFile: "[[Ito Kanako - Fatima (TV Size).mp3]]"
+Year: 0
+aliases: []
+created: 2024-07-21 15:09:58
+source: ""
+---
+
+# Ito Kanako - Fatima (TV Size)
+
+![[Ito Kanako - Fatima (TV Size).mp3]]

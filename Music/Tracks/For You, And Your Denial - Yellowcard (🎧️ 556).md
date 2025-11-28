@@ -1,0 +1,17 @@
+---
+Album: "[[📼When You're Through Thinking, Say Yes]]"
+Creators:
+  - "[[Yellowcard (🎙️ 486)]]"
+Cover: ""
+NumberInAlbum: 2
+SourceFile: "[[Yellowcard - For You, And Your Denial.mp3]]"
+Year: 2011
+aliases:
+  - For You, And Your Denial
+created: 2022-12-20 22:41:36
+source: ""
+---
+
+# Yellowcard - For You, And Your Denial
+
+![[Yellowcard - For You, And Your Denial.mp3]]

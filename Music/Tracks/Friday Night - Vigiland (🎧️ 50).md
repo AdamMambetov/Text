@@ -1,0 +1,17 @@
+---
+Album: "[[📼Friday Night]]"
+Creators:
+  - "[[Vigiland (🎙️ 481)]]"
+Cover: ""
+NumberInAlbum: 1
+SourceFile: "[[Vigiland - Friday Night.mp3]]"
+Year: 2017
+aliases:
+  - Friday Night
+created: 2022-04-21 01:53:38
+source: ""
+---
+
+# Vigiland - Friday Night
+
+![[Vigiland - Friday Night.mp3]]
