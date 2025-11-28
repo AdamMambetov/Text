@@ -1,13 +1,16 @@
 ---
 Album: "[[Yura Yura]]"
-Creators: ["[[MUSEN, ASMO, Silentium]]"]
+Creators: []
 Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[MUSEN [ASMO, Silentium] - Yura Yura.mp3]]"
 Year: 2023
 aliases: ["Yura Yura"]
-created: 2024-10-23 14:05:52
+created: 2024-10-23T14:05:52+03:00
 source: ""
+related: []
+ListenInSec: 17
+CoverOf: ""
 ---
 
 # MUSEN [ASMO, Silentium] - Yura Yura

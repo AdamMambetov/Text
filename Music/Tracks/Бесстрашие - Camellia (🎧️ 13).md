@@ -5,6 +5,12 @@ CoverOf: "[[🎵Lia - Bravely You]]"
 Creators: ["[[Camellia (🎙️ 53)]]"]
 source:
 SourceFile: "[[Radiant Records - Бесстрашие.mp3]]"
+Cover: ""
+Year: 0
+Album: ""
+NumberInAlbum: 0
+related: []
+ListenInSec: 323
 ---
 
 # Бесстрашие

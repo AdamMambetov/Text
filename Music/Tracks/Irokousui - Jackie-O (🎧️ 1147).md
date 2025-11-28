@@ -6,8 +6,11 @@ NumberInAlbum: 1
 SourceFile: "[[Jackie-O - Irokousui.mp3]]"
 Year: 2022
 aliases: ["Irokousui", "Horimiya OP 1"]
-created: 2024-10-05 15:42:48
+created: 2024-10-05T15:42:48+03:00
 source: ""
+related: []
+ListenInSec: 150
+CoverOf: ""
 ---
 
 # Jackie-O - Irokousui

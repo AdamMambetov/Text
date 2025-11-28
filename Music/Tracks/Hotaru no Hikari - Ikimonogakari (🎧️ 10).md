@@ -5,6 +5,12 @@ CoverOf: ""
 Creators: ["[[Ikimonogakari (🎙️ 57)]]"]
 source: ""
 SourceFile: "[[Ikimonogakari - Hotaru no Hikari.mp3]]"
+Cover: ""
+Year: 0
+Album: ""
+NumberInAlbum: 0
+related: []
+ListenInSec: 96
 ---
 
 # Hotaru no Hikari

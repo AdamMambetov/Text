@@ -6,8 +6,11 @@ NumberInAlbum: 4
 SourceFile: "[[Sabaton - The Attack of the Dead Men.mp3]]"
 Year: 2019
 aliases: ["The Attack of the Dead Men"]
-created: 2022-04-22 21:29:42
+created: 2022-04-22T21:29:42+03:00
 source: ""
+related: []
+ListenInSec: 3
+CoverOf: ""
 ---
 
 # Sabaton - The Attack of the Dead Men

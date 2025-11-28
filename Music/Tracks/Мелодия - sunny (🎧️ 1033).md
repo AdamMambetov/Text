@@ -1,5 +1,5 @@
 ---
-created: 2024-08-03 19:42:50
+created: 2024-08-03T19:42:50+03:00
 aliases: ["Мелодия"]
 Cover: ""
 Year: 2007
@@ -8,6 +8,9 @@ Creators: ["[[sunny (🎙️ 18)]]", "[[cap (🎙️ 19)]]", "[[xaki (🎙️ 12
 NumberInAlbum: 58
 source: ""
 SourceFile: "[[Umineko no Naku Koro ni OST - 058 Мелодия.ogg]]"
+related: []
+ListenInSec: 21
+CoverOf: ""
 ---
 
 # Umineko no Naku Koro ni OST - 058 Мелодия

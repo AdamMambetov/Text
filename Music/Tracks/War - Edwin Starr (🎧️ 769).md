@@ -6,8 +6,11 @@ NumberInAlbum: 1
 SourceFile: "[[Edwin Starr - War.mp3]]"
 Year: 1970
 aliases: ["War"]
-created: 2024-01-08 13:45:28
+created: 2024-01-08T13:45:28+03:00
 source: ""
+related: []
+ListenInSec: 3
+CoverOf: ""
 ---
 
 # Edwin Starr - War

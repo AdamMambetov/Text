@@ -6,8 +6,11 @@ NumberInAlbum: 7
 SourceFile: "[[Three Days Grace - Get Out Alive.mp3]]"
 Year: 2006
 aliases: ["Get Out Alive"]
-created: 2024-10-30 19:27:34
+created: 2024-10-30T19:27:34+03:00
 source: ""
+related: []
+ListenInSec: 51
+CoverOf: ""
 ---
 
 # Three Days Grace - Get Out Alive

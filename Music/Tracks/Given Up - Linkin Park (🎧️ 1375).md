@@ -1,5 +1,5 @@
 ---
-created: 2024-10-30 19:29:12
+created: 2024-10-30T19:29:12+03:00
 aliases: ["Given Up"]
 Cover: ""
 Year: 2007
@@ -8,6 +8,9 @@ Creators: ["[[Linkin Park (🎙️ 365)]]"]
 NumberInAlbum: 2
 source: ""
 SourceFile: "[[Linkin Park - Given Up.mp3]]"
+related: []
+ListenInSec: 175
+CoverOf: ""
 ---
 
 # Linkin Park - Given Up

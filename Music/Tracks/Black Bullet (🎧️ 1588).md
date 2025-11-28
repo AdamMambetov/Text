@@ -6,8 +6,11 @@ NumberInAlbum: 1
 SourceFile: "[[fripSide - Black Bullet.mp3]]"
 Year: 0
 aliases: []
-created: 2025-01-08 20:01:44
+created: 2025-01-08T20:01:44+03:00
 source: ""
+related: []
+ListenInSec: 242
+CoverOf: ""
 ---
 
 # fripSide - Black Bullet

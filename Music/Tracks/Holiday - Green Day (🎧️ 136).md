@@ -6,8 +6,11 @@ NumberInAlbum: 13
 SourceFile: "[[Green Day - Holiday.mp3]]"
 Year: 2017
 aliases: ["Holiday"]
-created: 2022-04-22 20:48:10
+created: 2022-04-22T20:48:10+03:00
 source: ""
+related: []
+ListenInSec: 109
+CoverOf: ""
 ---
 
 # Green Day - Holiday

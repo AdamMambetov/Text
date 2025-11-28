@@ -5,6 +5,12 @@ CoverOf: "[[Kimi no Shiranai Monogatari - supercell (🎧️ 1686)]]"
 Creators: ["[[Radiant Records (🎙️ 39)]]", "[[Felya (🎙️ 58)]]", "[[Miki (🎙️ 64)]]"]
 source: ""
 SourceFile: "[[Radiant Records - Неизвестная история.mp3]]"
+Cover: ""
+Year: 0
+Album: ""
+NumberInAlbum: 0
+related: []
+ListenInSec: 325
 ---
 
 # Неизвестная история
