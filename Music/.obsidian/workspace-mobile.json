@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tracks/🎵Dark Souls 3 OST - 20 Aldritch, Devourer of Gods.md",
-                "mode": "preview",
+                "file": "Playlists/Favorites (💿 1).md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "🎵Dark Souls 3 OST - 20 Aldritch, Devourer of Gods"
+              "title": "Favorites (💿 1)"
             }
           },
           {
@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tracks/🎵Dark Souls 3 OST - 02 DARK SOULS III.md",
-                "mode": "source",
+                "file": "Playlists/Favorites (💿 1).md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "🎵Dark Souls 3 OST - 02 DARK SOULS III"
+              "title": "Favorites (💿 1)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -137,8 +138,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "914a87e554d47822",
+  "active": "a7610307b3dc3a26",
   "lastOpenFiles": [
+    "Tracks/Птичья песнь - Radiant Records (🎧️ 21).md",
+    "Tracks/Сорванный плод - Radiant Records (🎧️ 20).md",
+    "Playlists/Favorites (💿 1).md",
     "Tracks/🎵Dark Souls 3 OST - 02 DARK SOULS III.md",
     "Tracks/🎵Kugimiya Rie, Horie Yui, Kitamura Eri - Pre-Parade.md",
     "Tracks/🎵Radiant Records - Приготовься!.md",

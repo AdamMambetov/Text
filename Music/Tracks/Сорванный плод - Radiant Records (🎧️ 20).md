@@ -5,6 +5,12 @@ CoverOf: "[[🎵Taneda Risa - Wareta Ringo]]"
 Creators: ["[[Radiant Records (🎙️ 39)]]", "[[Nanami (🎙️ 41)]]"]
 source: ""
 SourceFile: "[[Radiant Records - Сорванный плод.mp3]]"
+Cover: ""
+Year: 0
+Album: ""
+NumberInAlbum: 0
+related: []
+ListenInSec: 233
 ---
 
 # Radiant Records - Сорванный плод

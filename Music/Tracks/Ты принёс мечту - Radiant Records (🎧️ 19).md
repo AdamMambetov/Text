@@ -5,6 +5,12 @@ CoverOf: "[[🎵Pet Na Kanojoutachi - Kimi Ga Yume Wo Tsuretekita]]"
 Creators: ["[[Radiant Records (🎙️ 39)]]", "[[Anyoka (🎙️ 67)]]", "[[Felya (🎙️ 58)]]", "[[Jully (🎙️ 42)]]"]
 source: ""
 SourceFile: "[[Radiant Records - Ты принёс мечту.mp3]]"
+Cover: ""
+Year: 0
+Album: ""
+NumberInAlbum: 0
+related: []
+ListenInSec: 45
 ---
 
 # Ты принёс мечту

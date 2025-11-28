@@ -5,6 +5,12 @@ CoverOf: "[[🎵OLDCODEX - Rage on]]"
 Creators: ["[[Radiant Records (🎙️ 39)]]", "[[Raimbowz (🎙️ 66)]]"]
 source:
 SourceFile: "[[Radiant Records - Гнев.mp3]]"
+Cover: ""
+Year: 0
+Album: ""
+NumberInAlbum: 0
+related: []
+ListenInSec: 12
 ---
 
 # Гнев

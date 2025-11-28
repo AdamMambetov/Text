@@ -1,5 +1,5 @@
 ---
-created: 2024-10-08 15:26:32
+created: 2024-10-08T15:26:32+03:00
 aliases: ["'Till I Collapse"]
 Cover: ""
 Year: 2002
@@ -8,6 +8,9 @@ Creators: ["[[Eminem (🎙️ 294)]]", "[[Nate Dogg (🎙️ 295)]]"]
 NumberInAlbum: 17
 source: ""
 SourceFile: "[[Eminem - 'Till I Collapse.mp3]]"
+related: []
+ListenInSec: 9
+CoverOf: ""
 ---
 
 # Eminem - 'Till I Collapse
