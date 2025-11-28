@@ -1,13 +1,11 @@
 ---
 Album: "[[Weird Kids]]"
-Creators:
-  - "[[We Are The In Crowd]]"
+Creators: ["[[We Are The In Crowd]]"]
 Cover: ""
 NumberInAlbum: 10
 SourceFile: "[[We Are The In Crowd - Reflections.mp3]]"
 Year: 2014
-aliases:
-  - Reflections
+aliases: ["Reflections"]
 created: 2022-12-20 23:19:08
 source: ""
 ---

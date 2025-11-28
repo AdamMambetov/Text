@@ -1,14 +1,11 @@
 ---
 Album: "[[SAMURAI SESSIONS vol.2]]"
-Creators:
-  - "[[Miyavi (🎙️ 381)]]"
-  - "[[kenken]]"
+Creators: ["[[Miyavi (🎙️ 381)]]", "[[kenken]]"]
 Cover: ""
 NumberInAlbum: 7
 SourceFile: "[[Miyavi - Flashback.mp3]]"
 Year: 2017
-aliases:
-  - Flashback
+aliases: ["Flashback"]
 created: 2024-06-21 05:20:18
 source: ""
 ---

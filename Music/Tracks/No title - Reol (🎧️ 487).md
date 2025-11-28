@@ -1,13 +1,11 @@
 ---
 Album: "[[osu!]]"
-Creators:
-  - "[[Reol (🎙️ 429)]]"
+Creators: ["[[Reol (🎙️ 429)]]"]
 Cover: ""
 NumberInAlbum: 0
 SourceFile: "[[Reol - No title.mp3]]"
 Year: 2015
-aliases:
-  - No title
+aliases: ["No title"]
 created: 2022-10-05 13:42:26
 source: ""
 ---

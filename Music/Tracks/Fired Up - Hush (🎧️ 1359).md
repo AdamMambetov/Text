@@ -1,13 +1,11 @@
 ---
 Album: "[[Bulletproof]]"
-Creators:
-  - "[[Hush]]"
+Creators: ["[[Hush]]"]
 Cover: ""
 NumberInAlbum: 2
 SourceFile: "[[Hush - Fired Up.mp3]]"
 Year: 2005
-aliases:
-  - Fired Up
+aliases: ["Fired Up"]
 created: 2024-10-30 19:16:28
 source: ""
 ---

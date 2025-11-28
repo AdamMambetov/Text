@@ -1,13 +1,11 @@
 ---
 Album: "[[Butterfly Effect [2017] {Porno Graffitti}]]"
-Creators:
-  - "[[Porno Graffitti (🎙️ 418)]]"
+Creators: ["[[Porno Graffitti (🎙️ 418)]]"]
 Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[Porno Graffitti - The Day.mp3]]"
 Year: 2017
-aliases:
-  - The Day
+aliases: ["The Day"]
 created: 2022-04-22 21:21:36
 source: ""
 ---

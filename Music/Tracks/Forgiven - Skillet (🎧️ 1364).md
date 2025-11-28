@@ -1,13 +1,11 @@
 ---
 Album: "[[Awake]]"
-Creators:
-  - "[[Skillet (🎙️ 442)]]"
+Creators: ["[[Skillet (🎙️ 442)]]"]
 Cover: ""
 NumberInAlbum: 9
 SourceFile: "[[Skillet - Forgiven.mp3]]"
 Year: 2009
-aliases:
-  - Forgiven
+aliases: ["Forgiven"]
 created: 2024-10-30 19:20:24
 source: ""
 ---

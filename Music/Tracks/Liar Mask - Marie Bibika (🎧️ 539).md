@@ -1,13 +1,11 @@
 ---
 Album: "[[                              ]]"
-Creators:
-  - "[[Marie Bibika (🎙️ 376)]]"
+Creators: ["[[Marie Bibika (🎙️ 376)]]"]
 Cover: ""
 NumberInAlbum: 6
 SourceFile: "[[Marie Bibika - Liar Mask.mp3]]"
 Year: 2019
-aliases:
-  - Liar Mask
+aliases: ["Liar Mask"]
 created: 2022-12-11 05:46:04
 source: ""
 ---

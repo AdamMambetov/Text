@@ -1,13 +1,11 @@
 ---
 Album: "[[osu!]]"
-Creators:
-  - "[[ONE OK ROCK (🎙️ 402)]]"
+Creators: ["[[ONE OK ROCK (🎙️ 402)]]"]
 Cover: ""
 NumberInAlbum: 13
 SourceFile: "[[ONE OK ROCK - Start Again.mp3]]"
 Year: 2017
-aliases:
-  - Start Again
+aliases: ["Start Again"]
 created: 2022-10-05 13:54:56
 source: ""
 ---

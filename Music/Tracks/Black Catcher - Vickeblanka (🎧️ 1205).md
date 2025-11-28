@@ -1,13 +1,11 @@
 ---
 Album: "[[Devil]]"
-Creators:
-  - "[[Vickeblanka (🎙️ 480)]]"
+Creators: ["[[Vickeblanka (🎙️ 480)]]"]
 Cover: ""
 NumberInAlbum: 5
 SourceFile: "[[Vickeblanka - Black Catcher.mp3]]"
 Year: 2020
-aliases:
-  - Black Catcher
+aliases: ["Black Catcher"]
 created: 2024-10-10 23:02:16
 source: ""
 ---

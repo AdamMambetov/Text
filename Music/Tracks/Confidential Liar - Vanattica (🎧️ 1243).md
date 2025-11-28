@@ -1,13 +1,11 @@
 ---
 Album: "[[The King or Me - EP]]"
-Creators:
-  - "[[Vanattica (🎙️ 478)]]"
+Creators: ["[[Vanattica (🎙️ 478)]]"]
 Cover: ""
 NumberInAlbum: 0
 SourceFile: "[[Vanattica - Confidential Liar.mp3]]"
 Year: 2011
-aliases:
-  - Confidential Liar
+aliases: ["Confidential Liar"]
 created: 2024-10-13 22:59:46
 source: ""
 ---

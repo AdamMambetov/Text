@@ -1,13 +1,11 @@
 ---
 Album: "[[Young's Old Covers (Nostalgic Movies)]]"
-Creators:
-  - "[[Jonathan Young (🎙️ 345)]]"
+Creators: ["[[Jonathan Young (🎙️ 345)]]"]
 Cover: ""
 NumberInAlbum: 36
 SourceFile: "[[Jonathan Young - Ducktales.mp3]]"
 Year: 2017
-aliases:
-  - Ducktales
+aliases: ["Ducktales"]
 created: 2024-10-23 14:35:28
 source: ""
 ---

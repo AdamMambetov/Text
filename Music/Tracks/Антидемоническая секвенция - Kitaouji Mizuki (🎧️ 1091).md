@@ -1,13 +1,11 @@
 ---
 Album: "[[Umineko no Naku Koro ni OST (📀 30)]]"
-Creators:
-  - "[[Kitaouji Mizuki (🎙️ 13)]]"
+Creators: ["[[Kitaouji Mizuki (🎙️ 13)]]"]
 Cover: ""
 NumberInAlbum: 153
 SourceFile: "[[Umineko no Naku Koro ni OST - 153 Антидемоническая секвенция.ogg]]"
 Year: 2007
-aliases:
-  - Антидемоническая секвенция
+aliases: ["Антидемоническая секвенция"]
 created: 2024-08-04 18:36:02
 source: ""
 ---

@@ -1,13 +1,11 @@
 ---
 Album: "[[Vital]]"
-Creators:
-  - "[[Jackie-O (🎙️ 341)]]"
+Creators: ["[[Jackie-O (🎙️ 341)]]"]
 Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[Jackie-O - Vital.mp3]]"
 Year: 2019
-aliases:
-  - Vital
+aliases: ["Vital"]
 created: 2024-10-05 15:53:04
 source: ""
 ---

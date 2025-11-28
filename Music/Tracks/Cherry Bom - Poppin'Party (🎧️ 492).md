@@ -1,13 +1,11 @@
 ---
 Album: "[[osu!]]"
-Creators:
-  - "[[Poppin'Party]]"
+Creators: ["[[Poppin'Party]]"]
 Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[Poppin'Party - Cherry Bomb.mp3]]"
 Year: 0
-aliases:
-  - Cherry Bom
+aliases: ["Cherry Bom"]
 created: 2022-10-05 13:48:38
 source: ""
 ---

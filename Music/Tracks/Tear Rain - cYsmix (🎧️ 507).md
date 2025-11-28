@@ -1,13 +1,10 @@
 ---
 created: 2022-10-05 13:58:16
-aliases:
-  - Tear Rain
+aliases: ["Tear Rain"]
 Cover: ""
 Year: 0
 Album: "[[osu!]]"
-Creators:
-  - "[[cYsmix (🎙️ 273)]]"
-  - "[[Emmy (🎙️ 274)]]"
+Creators: ["[[cYsmix (🎙️ 273)]]", "[[Emmy (🎙️ 274)]]"]
 NumberInAlbum: 5
 source: ""
 SourceFile: "[[cYsmix ft. Emmy - Tear Rain.mp3]]"

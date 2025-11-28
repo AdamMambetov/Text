@@ -1,13 +1,11 @@
 ---
 Album: "[[osu!]]"
-Creators:
-  - "[[Porter Robinson & Madeon]]"
+Creators: ["[[Porter Robinson & Madeon]]"]
 Cover: ""
 NumberInAlbum: 0
 SourceFile: "[[Porter Robinson & Madeon - Shelter.mp3]]"
 Year: 0
-aliases:
-  - Shelter
+aliases: ["Shelter"]
 created: 2022-10-05 13:49:24
 source: ""
 ---

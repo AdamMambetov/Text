@@ -1,13 +1,11 @@
 ---
 Album: "[[ANIMA]]"
-Creators:
-  - "[[Sati Akura (🎙️ 359)]]"
+Creators: ["[[Sati Akura (🎙️ 359)]]"]
 Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[Sati Akura - ANIMA.mp3]]"
 Year: 2020
-aliases:
-  - ANIMA
+aliases: ["ANIMA"]
 created: 2024-10-10 22:21:24
 source: ""
 ---

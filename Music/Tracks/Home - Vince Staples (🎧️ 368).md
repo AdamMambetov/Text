@@ -1,12 +1,10 @@
 ---
 created: 2022-04-28 15:03:16
-aliases:
-  - Home
+aliases: ["Home"]
 Cover: ""
 Year: 2018
 Album: "[[Spider-Man Into the Spider-Verse (📀 23)]]"
-Creators:
-  - "[[Vince Staples]]"
+Creators: ["[[Vince Staples]]"]
 NumberInAlbum: 13
 source: ""
 SourceFile: "[[Spider-Man Into the Spider-Verse OST - Home.mp3]]"

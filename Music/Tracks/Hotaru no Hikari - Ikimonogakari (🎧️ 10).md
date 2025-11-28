@@ -1,10 +1,8 @@
 ---
 created: 2025-06-30T18:46:20+03:00
-aliases:
-  - Hotaru no Hikari
+aliases: ["Hotaru no Hikari"]
 CoverOf: ""
-Creators:
-  - "[[Ikimonogakari (🎙️ 57)]]"
+Creators: ["[[Ikimonogakari (🎙️ 57)]]"]
 source: ""
 SourceFile: "[[Ikimonogakari - Hotaru no Hikari.mp3]]"
 ---

@@ -1,13 +1,11 @@
 ---
 Album: "[[NARUTO ORIGINAL SOUNDTRACK 2]]"
-Creators:
-  - "[[Musashi Project]]"
+Creators: ["[[Musashi Project]]"]
 Cover: ""
 NumberInAlbum: 16
 SourceFile: "[[Naruto OST - Sasuke Destiny.mp3]]"
 Year: 2004
-aliases:
-  - Sasuke Destiny
+aliases: ["Sasuke Destiny"]
 created: 2022-04-28 17:51:00
 source: ""
 ---

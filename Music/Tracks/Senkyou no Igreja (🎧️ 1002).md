@@ -5,8 +5,7 @@ Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[Umineko no Naku Koro ni OST - Senkyou no Igreja.ogg]]"
 Year: 2007
-aliases:
-  - Senkyou no Igreja
+aliases: ["Senkyou no Igreja"]
 created: 2024-08-03 18:08:22
 source: ""
 ---

@@ -1,13 +1,11 @@
 ---
 Album: "[[Human]]"
-Creators:
-  - "[[OneRepublic (🎙️ 403)]]"
+Creators: ["[[OneRepublic (🎙️ 403)]]"]
 Cover: ""
 NumberInAlbum: 3
 SourceFile: "[[OneRepublic - Someday.mp3]]"
 Year: 2021
-aliases:
-  - Someday
+aliases: ["Someday"]
 created: 2022-04-28 17:23:10
 source: ""
 ---

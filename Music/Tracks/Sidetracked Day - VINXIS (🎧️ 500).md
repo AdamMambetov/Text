@@ -1,13 +1,11 @@
 ---
 Album: "[[osu!]]"
-Creators:
-  - "[[VINXIS]]"
+Creators: ["[[VINXIS]]"]
 Cover: ""
 NumberInAlbum: 0
 SourceFile: "[[VINXIS - Sidetracked Day.mp3]]"
 Year: 0
-aliases:
-  - Sidetracked Day
+aliases: ["Sidetracked Day"]
 created: 2022-10-05 13:54:22
 source: ""
 ---

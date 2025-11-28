@@ -1,13 +1,11 @@
 ---
 Album: "[[Eterno Agosto]]"
-Creators:
-  - "[[Alvaro Soler (🎙️ 173)]]"
+Creators: ["[[Alvaro Soler (🎙️ 173)]]"]
 Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[Alvaro Soler - Sofia.mp3]]"
 Year: 2015
-aliases:
-  - Sofia
+aliases: ["Sofia"]
 created: 2024-06-21 05:20:06
 source: ""
 ---

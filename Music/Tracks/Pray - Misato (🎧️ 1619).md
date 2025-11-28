@@ -1,13 +1,11 @@
 ---
 Album: ""
-Creators:
-  - "[[Misato (🎙️ 63)]]"
+Creators: ["[[Misato (🎙️ 63)]]"]
 Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[Misato - Pray.mp3]]"
 Year: 0
-aliases:
-  - Pray
+aliases: ["Pray"]
 created: 2025-01-08 23:07:42
 source: ""
 ---

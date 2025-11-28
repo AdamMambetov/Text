@@ -1,14 +1,11 @@
 ---
 Album: "[[No Friends]]"
-Creators:
-  - "[[Cadmium (🎙️ 247)]]"
-  - "[[Rosendale]]"
+Creators: ["[[Cadmium (🎙️ 247)]]", "[[Rosendale]]"]
 Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[Cadmium - No Friends.mp3]]"
 Year: 2020
-aliases:
-  - No Friends
+aliases: ["No Friends"]
 created: 2024-06-21 05:20:26
 source: ""
 ---

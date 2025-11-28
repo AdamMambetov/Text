@@ -1,13 +1,11 @@
 ---
 Album: "[[NARUTO ORIGINAL SOUNDTRACK 2]]"
-Creators:
-  - "[[Toshio Masuda]]"
+Creators: ["[[Toshio Masuda]]"]
 Cover: ""
 NumberInAlbum: 10
 SourceFile: "[[Naruto OST - Guy's Theme.mp3]]"
 Year: 2004
-aliases:
-  - Guy's Theme
+aliases: ["Guy's Theme"]
 created: 2022-04-28 17:50:42
 source: ""
 ---

@@ -1,13 +1,11 @@
 ---
 Album: "[[Pirates of the Caribbean: On Stranger Tides]]"
-Creators:
-  - "[[Hans Zimmer (🎙️ 328)]]"
+Creators: ["[[Hans Zimmer (🎙️ 328)]]"]
 Cover: ""
 NumberInAlbum: 11
 SourceFile: "[[Pirates of the Caribbean On Stranger Tides OST - End Credits.mp3]]"
 Year: 2011
-aliases:
-  - End Credits
+aliases: ["End Credits"]
 created: 2024-01-02 21:39:46
 source: ""
 ---

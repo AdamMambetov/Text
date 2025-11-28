@@ -1,12 +1,10 @@
 ---
 created: 2024-10-23 15:01:48
-aliases:
-  - Inochi no Tabekata
+aliases: ["Inochi no Tabekata"]
 Cover: ""
 Year: 2022
 Album: "[[Inochi no Tabekata]]"
-Creators:
-  - "[[NotADub (🎙️ 399)]]"
+Creators: ["[[NotADub (🎙️ 399)]]"]
 NumberInAlbum: 1
 source: ""
 SourceFile: "[[NotADub - Inochi no Tabekata.mp3]]"

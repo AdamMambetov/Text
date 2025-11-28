@@ -1,13 +1,11 @@
 ---
 Album: "[[Nirvana]]"
-Creators:
-  - "[[Onsa Media (🎙️ 404)]]"
+Creators: ["[[Onsa Media (🎙️ 404)]]"]
 Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[Onsa Media - Nirvana.mp3]]"
 Year: 2021
-aliases:
-  - Nirvana
+aliases: ["Nirvana"]
 created: 2022-04-28 01:58:40
 source: ""
 ---

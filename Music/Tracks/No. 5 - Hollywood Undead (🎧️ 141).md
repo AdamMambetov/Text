@@ -1,13 +1,11 @@
 ---
 Album: "[[Swan Songs [2008] {Hollywood Undead}]]"
-Creators:
-  - "[[Hollywood Undead (🎙️ 332)]]"
+Creators: ["[[Hollywood Undead (🎙️ 332)]]"]
 Cover: ""
 NumberInAlbum: 5
 SourceFile: "[[Hollywood Undead - No. 5.mp3]]"
 Year: 2008
-aliases:
-  - No. 5
+aliases: ["No. 5"]
 created: 2022-04-22 20:51:40
 source: ""
 ---

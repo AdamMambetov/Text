@@ -1,7 +1,6 @@
 ---
 Album: ""
-Creators:
-  - "[[Konomi Suzuki (🎙️ 355)]]"
+Creators: ["[[Konomi Suzuki (🎙️ 355)]]"]
 Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[Konomi Suzuki - Realize.mp3]]"

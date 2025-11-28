@@ -1,13 +1,11 @@
 ---
 Album: "[[Monstercat 022 - Contact]]"
-Creators:
-  - "[[Grabbitz]]"
+Creators: ["[[Grabbitz]]"]
 Cover: ""
 NumberInAlbum: 23
 SourceFile: "[[Grabbitz - Way Too Deep.mp3]]"
 Year: 0
-aliases:
-  - Way Too Deep
+aliases: ["Way Too Deep"]
 created: 2022-05-02 03:44:14
 source: ""
 ---

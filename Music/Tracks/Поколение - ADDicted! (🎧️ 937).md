@@ -1,13 +1,11 @@
 ---
 Album: "[[Поколение]]"
-Creators:
-  - "[[ADDicted! (🎙️ 148)]]"
+Creators: ["[[ADDicted! (🎙️ 148)]]"]
 Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[ADDicted! - Поколение.mp3]]"
 Year: 2020
-aliases:
-  - Поколение
+aliases: ["Поколение"]
 created: 2024-06-21 05:20:26
 source: ""
 ---

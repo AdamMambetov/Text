@@ -1,13 +1,11 @@
 ---
 Album: "[[Paprika]]"
-Creators:
-  - "[[Susumu Hirasawa (🎙️ 454)]]"
+Creators: ["[[Susumu Hirasawa (🎙️ 454)]]"]
 Cover: ""
 NumberInAlbum: 13
 SourceFile: "[[Paprika OST - The Girl in Byakkoya.mp3]]"
 Year: 2006
-aliases:
-  - The Girl in Byakkoya
+aliases: ["The Girl in Byakkoya"]
 created: 2024-01-03 20:17:56
 source: ""
 ---

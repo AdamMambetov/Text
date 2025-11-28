@@ -1,7 +1,6 @@
 ---
 Album: ""
-Creators:
-  - "[[MYTH & ROID (🎙️ 386)]]"
+Creators: ["[[MYTH & ROID (🎙️ 386)]]"]
 Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[MYTH & ROID - Paradisus-Paradoxum.mp3]]"

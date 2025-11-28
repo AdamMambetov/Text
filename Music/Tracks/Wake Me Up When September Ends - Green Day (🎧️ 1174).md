@@ -1,13 +1,11 @@
 ---
 Album: "[[American Idiot]]"
-Creators:
-  - "[[Green Day (🎙️ 324)]]"
+Creators: ["[[Green Day (🎙️ 324)]]"]
 Cover: ""
 NumberInAlbum: 12
 SourceFile: "[[Green Day - American Idiot.mp3]]"
 Year: 2004
-aliases:
-  - Wake Me Up When September Ends
+aliases: ["Wake Me Up When September Ends"]
 created: 2024-10-08 15:51:06
 source: ""
 ---

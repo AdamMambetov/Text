@@ -1,12 +1,10 @@
 ---
 created: 2024-10-13 23:15:52
-aliases:
-  - Secret Betrayal
+aliases: ["Secret Betrayal"]
 Cover: ""
 Year: 2019
 Album: "[[Dark Souls 3]]"
-Creators:
-  - "[[Yuka Kitamura (🎙️ 29)]]"
+Creators: ["[[Yuka Kitamura (🎙️ 29)]]"]
 NumberInAlbum: 23
 source: ""
 SourceFile: "[[Dark Souls 3 OST - 23 Secret Betrayal.mp3]]"

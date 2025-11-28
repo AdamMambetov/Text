@@ -1,13 +1,10 @@
 ---
 created: 2024-10-23 13:51:34
-aliases:
-  - Love Dramatic
+aliases: ["Love Dramatic"]
 Cover: ""
 Year: 0
 Album: "[[Love Dramatic]]"
-Creators:
-  - "[[DiWilliam (🎙️ 60)]]"
-  - "[[Felya (🎙️ 58)]]"
+Creators: ["[[DiWilliam (🎙️ 60)]]", "[[Felya (🎙️ 58)]]"]
 NumberInAlbum: 1
 source: ""
 SourceFile: "[[DiWilliam - Love Dramatic.mp3]]"

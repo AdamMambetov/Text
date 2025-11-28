@@ -1,12 +1,10 @@
 ---
 created: 2024-01-04 15:27:44
-aliases:
-  - Aldritch, Devourer of Gods
+aliases: ["Aldritch, Devourer of Gods"]
 Cover: ""
 Year: 2019
 Album: "[[Dark Souls 3]]"
-Creators:
-  - "[[Motoi Sakuraba (🎙️ 31)]]"
+Creators: ["[[Motoi Sakuraba (🎙️ 31)]]"]
 ListenInSec: 611
 NumberInAlbum: 16
 related: []

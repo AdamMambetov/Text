@@ -1,14 +1,11 @@
 ---
 Album: "[[Young's Old Covers (Anime) [2021] {Jonathan Young; SixteenInMono}]]"
-Creators:
-  - "[[Jonathan Young (🎙️ 345)]]"
-  - "[[SixteenInMono]]"
+Creators: ["[[Jonathan Young (🎙️ 345)]]", "[[SixteenInMono]]"]
 Cover: ""
 NumberInAlbum: 7
 SourceFile: "[[Jonathan Young - 99.mp3]]"
 Year: 2021
-aliases:
-  - Mob Choir 99
+aliases: ["Mob Choir 99"]
 created: 2022-04-22 20:58:52
 source: ""
 ---

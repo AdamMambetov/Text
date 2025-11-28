@@ -1,13 +1,11 @@
 ---
 Album: "[[From Under the Cork Tree]]"
-Creators:
-  - "[[Fall Out Boy (🎙️ 308)]]"
+Creators: ["[[Fall Out Boy (🎙️ 308)]]"]
 Cover: ""
 NumberInAlbum: 3
 SourceFile: "[[Fall Out Boy - Dance, Dance.mp3]]"
 Year: 2005
-aliases:
-  - Dance, Dance
+aliases: ["Dance, Dance"]
 created: 2024-10-13 23:13:46
 source: ""
 ---

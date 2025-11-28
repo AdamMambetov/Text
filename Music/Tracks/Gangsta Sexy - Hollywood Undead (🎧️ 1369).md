@@ -1,13 +1,11 @@
 ---
 Album: "[[American Tragedy]]"
-Creators:
-  - "[[Hollywood Undead (🎙️ 332)]]"
+Creators: ["[[Hollywood Undead (🎙️ 332)]]"]
 Cover: ""
 NumberInAlbum: 7
 SourceFile: "[[Hollywood Undead - Gangsta Sexy.mp3]]"
 Year: 2011
-aliases:
-  - Gangsta Sexy
+aliases: ["Gangsta Sexy"]
 created: 2024-10-30 19:24:38
 source: ""
 ---

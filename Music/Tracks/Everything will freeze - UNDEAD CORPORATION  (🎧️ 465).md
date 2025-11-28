@@ -1,13 +1,11 @@
 ---
 Album: "[[osu!]]"
-Creators:
-  - "[[UNDEAD CORPORATION ]]"
+Creators: ["[[UNDEAD CORPORATION ]]"]
 Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[UNDEAD CORPORATION - Everything will freeze.mp3]]"
 Year: 0
-aliases:
-  - Everything will freeze
+aliases: ["Everything will freeze"]
 created: 2022-10-05 13:22:52
 source: ""
 ---

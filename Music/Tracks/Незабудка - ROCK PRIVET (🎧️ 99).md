@@ -1,13 +1,11 @@
 ---
 Album: "[[Незабудка ~ Тима Белорусских [2019] {ROCK PRIVET}]]"
-Creators:
-  - "[[ROCK PRIVET (🎙️ 432)]]"
+Creators: ["[[ROCK PRIVET (🎙️ 432)]]"]
 Cover: ""
 NumberInAlbum: 52
 SourceFile: "[[ROCK PRIVET - Незабудка.mp3]]"
 Year: 2019
-aliases:
-  - Незабудка
+aliases: ["Незабудка"]
 created: 2022-04-21 04:20:54
 source: ""
 ---

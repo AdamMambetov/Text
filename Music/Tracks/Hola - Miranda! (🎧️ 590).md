@@ -1,13 +1,11 @@
 ---
 Album: "[[El Disco de Tu Corazón]]"
-Creators:
-  - "[[Miranda!]]"
+Creators: ["[[Miranda!]]"]
 Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[Miranda! - Hola.mp3]]"
 Year: 2008
-aliases:
-  - Hola
+aliases: ["Hola"]
 created: 2023-02-14 03:23:00
 source: ""
 ---

@@ -1,13 +1,11 @@
 ---
 Album: "[[Now You're Gone]]"
-Creators:
-  - "[[Basshunter (🎙️ 214)]]"
+Creators: ["[[Basshunter (🎙️ 214)]]"]
 Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[Basshunter - Now You're Gone.mp3]]"
 Year: 2008
-aliases:
-  - Now You're Gone
+aliases: ["Now You're Gone"]
 created: 2024-10-13 22:22:44
 source: ""
 ---

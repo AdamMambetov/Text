@@ -1,12 +1,10 @@
 ---
 created: 2022-04-26 19:56:02
-aliases:
-  - The Phoenix
+aliases: ["The Phoenix"]
 Cover: ""
 Year: 2013
 Album: "[[Save Rock and Roll [2013] {Fall Out Boy}]]"
-Creators:
-  - "[[Fall Out Boy (🎙️ 308)]]"
+Creators: ["[[Fall Out Boy (🎙️ 308)]]"]
 NumberInAlbum: 1
 source: ""
 SourceFile: "[[Fall Out Boy - The Phoenix.mp3]]"

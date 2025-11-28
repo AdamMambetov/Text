@@ -1,7 +1,6 @@
 ---
 Album: "[[TQBF - Speedkore 4 Kidz!]]"
-Creators:
-  - "[[The Quick Brown Fox (🎙️ 464)]]"
+Creators: ["[[The Quick Brown Fox (🎙️ 464)]]"]
 Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[The Quick Brown Fox - The Big Black.mp3]]"

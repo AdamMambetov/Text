@@ -1,7 +1,6 @@
 ---
 created: 2024-10-13 23:36:52
-aliases:
-  - Teloelogy of Death
+aliases: ["Teloelogy of Death"]
 Cover: ""
 Year: 0
 Album: "[[Death Note OST]]"

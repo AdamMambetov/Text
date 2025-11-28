@@ -1,13 +1,11 @@
 ---
 Album: "[[NARUTO ORIGINAL SOUNDTRACK 3]]"
-Creators:
-  - "[[Toshio Masuda]]"
+Creators: ["[[Toshio Masuda]]"]
 Cover: ""
 NumberInAlbum: 16
 SourceFile: "[[Naruto OST - Ripple.mp3]]"
 Year: 2005
-aliases:
-  - Ripple
+aliases: ["Ripple"]
 created: 2022-04-28 17:53:28
 source: ""
 ---

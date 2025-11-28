@@ -1,12 +1,10 @@
 ---
 created: 2024-10-08 15:41:30
-aliases:
-  - Again
+aliases: ["Again"]
 Cover: ""
 Year: 2009
 Album: "[[Green Garden Pop]]"
-Creators:
-  - "[[YUI (🎙️ 489)]]"
+Creators: ["[[YUI (🎙️ 489)]]"]
 NumberInAlbum: 3
 source: ""
 SourceFile: "[[YUI - Again.mp3]]"
