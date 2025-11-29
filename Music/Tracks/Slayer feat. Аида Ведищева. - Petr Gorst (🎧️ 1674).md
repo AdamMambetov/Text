@@ -1,10 +1,15 @@
 ---
 SourceFile: "[[Petr Gorst - Slayer and Аида Ведищева Mashup.mp3]]"
 Year: 2020
-Album: "[[]]"
+Album: ""
 aliases: ["Slayer feat. Аида Ведищева."]
-created: 2025-05-04 14:48:17.137643
-Creators: ["[[Petr Gorst]]"]
+created: 2025-05-04T14:48:17+03:00
+Creators: []
+Cover: ""
+NumberInAlbum: 0
+related: []
+ListenInSec: 16
+CoverOf: ""
 ---
 
 # Petr Gorst - Slayer and Аида Ведищева Mashup

@@ -5,6 +5,12 @@ CoverOf: "[[Renai Circulation - Kana Hanazawa (🎧️ 319)]]"
 Creators: ["[[Radiant Records (🎙️ 39)]]", "[[Lilaria (🎙️ 54)]]"]
 source:
 SourceFile: "[[Radiant Records - Круговорот любви.mp3]]"
+Cover: ""
+Year: 0
+Album: ""
+NumberInAlbum: 0
+related: []
+ListenInSec: 230
 ---
 
 # Круговорот любви

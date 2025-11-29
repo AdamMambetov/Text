@@ -5,6 +5,12 @@ CoverOf: "[[Pre-Parade - Kugimiya Rie (🎧️ 9)]]"
 Creators: ["[[Radiant Records (🎙️ 39)]]", "[[Lilaria (🎙️ 54)]]", "[[Nika Lenina (🎙️ 45)]]"]
 source: ""
 SourceFile: "[[Radiant Records - Приготовься!.mp3]]"
+Cover: ""
+Year: 0
+Album: ""
+NumberInAlbum: 0
+related: []
+ListenInSec: 187
 ---
 
 # Приготовься!

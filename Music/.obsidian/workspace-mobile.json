@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tracks/Бесчувственный - Everblack Melodies (🎧️ 307).md",
-                "mode": "source",
+                "file": "Playlists/Favorites (💿 1).md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Бесчувственный - Everblack Melodies (🎧️ 307)"
+              "title": "Favorites (💿 1)"
             }
           }
         ],
@@ -102,6 +102,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Playlists/Favorites (💿 1).md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -140,26 +141,31 @@
   },
   "active": "edbc53258a9a522c",
   "lastOpenFiles": [
-    "Tracks/21 Guns (🎧️ 1531).md",
-    "Tracks/7th Trigger - UVERworld (🎧️ 1279).md",
-    "Tracks/7 Minutes In Heaven (Atavan Halen) - Fall Out Boy (🎧️ 1158).md",
-    "Tracks/7 весов - pre-holder (🎧️ 1101).md",
-    "Tracks/7 -seven- (TV Size) - FLOW (🎧️ 1654).md",
-    "Tracks/4 октября - xaki (🎧️ 1097).md",
-    "Tracks/2 типа людей - Макс Корж (🎧️ 1179).md",
-    "Tracks/1Coma - Hiroyuki Sawano (🎧️ 1652).md",
-    "Tracks/(You're The) Devil In Disguise - Elvis Presley (🎧️ 1178).md",
-    "Tracks/(can you) understand me - Komiya Mao (🎧️ 513).md",
-    "Tracks/“Идиллия” - Sumiisan (🎧️ 1010).md",
-    "Tracks/'Till I Collapse - Eminem (🎧️ 1157).md",
+    "Tracks/Insane - Black GryphOn (🎧️ 941).md",
     "Playlists/Favorites (💿 1).md",
-    "Tracks/Hotaru no Hikari - Ikimonogakari (🎧️ 10).md",
-    "Tracks/Птичья песнь - Radiant Records (🎧️ 21).md",
+    "Tracks/Inochi no Tabekata - NotADub (🎧️ 1321).md",
+    "Tracks/I'm Dangerous (🎧️ 716).md",
+    "Tracks/Holiday - Green Day (🎧️ 136).md",
+    "Tracks/Goya no Machiawase - Hello Sleepwalkers (🎧️ 35).md",
+    "Tracks/Get Out Alive - Three Days Grace (🎧️ 1373).md",
+    "Tracks/DARK SOULS III - Yuka Kitamura (🎧️ 757).md",
+    "Tracks/Black Bullet (🎧️ 1588).md",
+    "Tracks/Beautiful Morning (🎧️ 1510).md",
+    "Tracks/Школа мертвецов - Radiant Records (🎧️ 601).md",
+    "Tracks/Ты принёс мечту - Radiant Records (🎧️ 19).md",
     "Tracks/Сорванный плод - Radiant Records (🎧️ 20).md",
-    "Tracks/🎵Dark Souls 3 OST - 02 DARK SOULS III.md",
-    "Tracks/🎵Kugimiya Rie, Horie Yui, Kitamura Eri - Pre-Parade.md",
-    "Tracks/🎵Radiant Records - Приготовься!.md",
-    "Tracks/🎵Dark Souls 3 OST - 20 Aldritch, Devourer of Gods.md",
-    "Playlists/Favorites (1).md"
+    "Tracks/Синяя птица (TV Size) - Radiant Records (🎧️ 899).md",
+    "Tracks/Росчерк - dai (🎧️ 1060).md",
+    "Tracks/Птичья песнь - Radiant Records (🎧️ 21).md",
+    "Tracks/Почётна и завидна наша роль - Олег Анофриев (🎧️ 662).md",
+    "Tracks/Полный ход - Radiant Records (🎧️ 12).md",
+    "Tracks/Ориентир - Radiant Records (🎧️ 603).md",
+    "Tracks/Неизвестная история - Radiant Records (🎧️ 11).md",
+    "Tracks/Мелодия - sunny (🎧️ 1033).md",
+    "Tracks/Гнев - Radiant Records (🎧️ 16).md",
+    "Tracks/Врата - Radiant Records (🎧️ 1351).md",
+    "Tracks/Бесчувственный - Everblack Melodies (🎧️ 307).md",
+    "Tracks/Бесстрашие - Camellia (🎧️ 13).md",
+    "Tracks/Аромат подозрения - Luck Ganriki (🎧️ 1016).md"
   ]
 }

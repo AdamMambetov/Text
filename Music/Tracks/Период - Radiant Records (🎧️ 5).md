@@ -5,6 +5,12 @@ CoverOf: "[[🎵Chemistry - Period]]"
 Creators: ["[[Radiant Records (🎙️ 39)]]", "[[Radiant (🎙️ 40)]]"]
 source:
 SourceFile: "[[Radiant Records - Период.mp3]]"
+Cover: ""
+Year: 0
+Album: ""
+NumberInAlbum: 0
+related: []
+ListenInSec: 197
 ---
 
 # Период
