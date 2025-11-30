@@ -6,8 +6,11 @@ NumberInAlbum: 1
 SourceFile: "[[HOMM V OST - Inferno Battle Theme 1.mp3]]"
 Year: 0
 aliases: []
-created: 2025-01-08 18:39:24
+created: 2025-01-08T18:39:24+03:00
 source: ""
+related: []
+ListenInSec: 4
+CoverOf: ""
 ---
 
 # HOMM V OST - Inferno Battle Theme 1

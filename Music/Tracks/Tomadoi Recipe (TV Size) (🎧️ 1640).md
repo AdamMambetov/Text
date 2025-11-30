@@ -6,8 +6,11 @@ NumberInAlbum: 1
 SourceFile: "[[Mikakuning! - Tomadoi Recipe (TV Size).mp3]]"
 Year: 0
 aliases: []
-created: 2025-01-08 23:41:34
+created: 2025-01-08T23:41:34+03:00
 source: ""
+related: []
+ListenInSec: 83
+CoverOf: ""
 ---
 
 # Mikakuning! - Tomadoi Recipe (TV Size)

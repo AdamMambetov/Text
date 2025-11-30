@@ -6,8 +6,11 @@ NumberInAlbum: 1
 SourceFile: "[[Bonnie Tyler - Holding Out For A Hero.mp3]]"
 Year: 0
 aliases: ["Holding Out For A Hero"]
-created: 2025-01-08 22:55:42
+created: 2025-01-08T22:55:42+03:00
 source: ""
+related: []
+ListenInSec: 3
+CoverOf: ""
 ---
 
 # Bonnie Tyler - Holding Out For A Hero

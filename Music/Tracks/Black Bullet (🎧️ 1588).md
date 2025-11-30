@@ -5,11 +5,11 @@ Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[fripSide - Black Bullet.mp3]]"
 Year: 0
-aliases: ["Black Bullet"]
+aliases: []
 created: 2025-01-08T20:01:44+03:00
 source: ""
 related: []
-ListenInSec: 485
+ListenInSec: 728
 CoverOf: ""
 ---
 

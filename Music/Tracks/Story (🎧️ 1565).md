@@ -1,5 +1,5 @@
 ---
-created: 2025-01-08 19:13:40
+created: 2025-01-08T19:13:40+03:00
 aliases: []
 Cover: ""
 Year: 0
@@ -8,6 +8,9 @@ Creators: []
 NumberInAlbum: 1
 source: ""
 SourceFile: "[[HaruWei - Story.mp3]]"
+related: []
+ListenInSec: 204
+CoverOf: ""
 ---
 
 # HaruWei - Story

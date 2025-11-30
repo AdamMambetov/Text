@@ -1,5 +1,5 @@
 ---
-created: 2025-01-08 18:37:12
+created: 2025-01-08T18:37:12+03:00
 aliases: []
 Cover: ""
 Year: 0
@@ -8,6 +8,9 @@ Creators: []
 NumberInAlbum: 1
 source: ""
 SourceFile: "[[HOMM V OST - Haven Town.mp3]]"
+related: []
+ListenInSec: 16
+CoverOf: ""
 ---
 
 # HOMM V OST - Haven Town

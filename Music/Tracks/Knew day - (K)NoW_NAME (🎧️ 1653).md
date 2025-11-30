@@ -1,14 +1,17 @@
 ---
-created: 2025-02-03 08:18:16
+created: 2025-02-03T08:18:16+03:00
 aliases: ["Knew day"]
 Cover: ""
 Year: 2016
 Creators: ["[[(K)NoW_NAME (🎙️ 35)]]"]
-ListenInSec: 0
+ListenInSec: 218
 source: ""
 SourceFile: "[[(K)NoW_NAME - Knew day.mp3]]"
-related:
+related: []
   - "[[Believer - 3 Doors Down (🎧️ 1645)]]"
+Album: ""
+NumberInAlbum: 0
+CoverOf: ""
 ---
 
 # (K)NoW_NAME - Knew day
