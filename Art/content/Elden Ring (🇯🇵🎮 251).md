@@ -95,6 +95,7 @@ hidden true
  - [Моды](https://youtu.be/hIs4FWMnRcI?si=1Awglrc6p0qIx5l1)
  - [Билд Берсерка](https://youtu.be/uACVIg8ZMWQ?si=HAPhr_5meMKiw9Yj)
  - [Гайд по моддингу](https://youtu.be/Q0hGU7PosC4)
+ - [Гайд по Cheat Engine](https://youtu.be/ZW7E5_vMhig?si=1CTPSRRcAmJ75qxf)
  - [Скип Мога](https://youtu.be/TtkaVeydX9U?si=Fo1YsN_Jx2u8IkTp)
  - [YT Malenia, Miyazaki Originally Intended](https://youtu.be/MbHz4Ex9sCs)
  - [Rawlight Souls - Побеждаю боссов их же оружием](https://youtu.be/6qLZbZ1rATE?si=-Cmj2TKCp-5O3dF4)
