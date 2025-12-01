@@ -1,5 +1,5 @@
 ---
-created: 2024-08-05 23:30:10
+created: 2024-08-05T23:30:10+03:00
 aliases: ["АРОМАТ ПОДОЗРЕНИЯ"]
 Cover: ""
 Year: 2007
@@ -8,6 +8,9 @@ Creators: ["[[Luck Ganriki (🎙️ 4)]]", "[[E. Kida (🎙️ 9)]]", "[[Kino Ne
 NumberInAlbum: 161
 source: ""
 SourceFile: "[[Umineko no Naku Koro ni OST - 161 АРОМАТ ПОДОЗРЕНИЯ.ogg]]"
+related: []
+ListenInSec: 1
+CoverOf: ""
 ---
 
 # Umineko no Naku Koro ni OST - 161 АРОМАТ ПОДОЗРЕНИЯ

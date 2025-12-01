@@ -1,5 +1,5 @@
 ---
-created: 2024-10-08 15:41:30
+created: 2024-10-08T15:41:30+03:00
 aliases: ["Again"]
 Cover: ""
 Year: 2009
@@ -8,6 +8,9 @@ Creators: ["[[YUI (🎙️ 489)]]"]
 NumberInAlbum: 3
 source: ""
 SourceFile: "[[YUI - Again.mp3]]"
+related: []
+ListenInSec: 4
+CoverOf: ""
 ---
 
 # YUI - Again

@@ -6,8 +6,11 @@ NumberInAlbum: 45
 SourceFile: "[[Umineko no Naku Koro ni OST - 045 Внутренности скорпиона.ogg]]"
 Year: 2007
 aliases: ["Внутренности скорпиона"]
-created: 2024-08-03 19:38:26
+created: 2024-08-03T19:38:26+03:00
 source: ""
+related: []
+ListenInSec: 2
+CoverOf: ""
 ---
 
 # Umineko no Naku Koro ni OST - 045 Внутренности скорпиона

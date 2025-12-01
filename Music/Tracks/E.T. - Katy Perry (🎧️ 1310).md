@@ -6,8 +6,11 @@ NumberInAlbum: 8
 SourceFile: "[[Katy Perry - E.T..mp3]]"
 Year: 2010
 aliases: ["E.T."]
-created: 2024-10-23 14:37:50
+created: 2024-10-23T14:37:50+03:00
 source: ""
+related: []
+ListenInSec: 3
+CoverOf: ""
 ---
 
 # Katy Perry - E.T.

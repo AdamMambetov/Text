@@ -9,7 +9,7 @@ NumberInAlbum: 1
 source: ""
 SourceFile: "[[Melody Note - Kuusou Mesorogiwi.mp3]]"
 related: []
-ListenInSec: 93
+ListenInSec: 110
 CoverOf: ""
 ---
 

@@ -6,8 +6,11 @@ NumberInAlbum: 5
 SourceFile: "[[Cascada - What Hurts The Most.mp3]]"
 Year: 2008
 aliases: ["What Hurts The Most (Nightcore Remix)"]
-created: 2022-10-05 14:03:10
+created: 2022-10-05T14:03:10+03:00
 source: ""
+related: []
+ListenInSec: 6
+CoverOf: ""
 ---
 
 # Cascada - What Hurts The Most

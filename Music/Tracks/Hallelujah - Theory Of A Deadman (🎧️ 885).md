@@ -9,7 +9,7 @@ aliases: ["Hallelujah"]
 created: 2024-06-21T05:20:14+03:00
 source: ""
 related: []
-ListenInSec: 2
+ListenInSec: 8
 CoverOf: ""
 ---
 

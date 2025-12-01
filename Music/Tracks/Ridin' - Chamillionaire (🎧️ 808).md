@@ -1,13 +1,16 @@
 ---
 Album: "[[The Sound of Revenge]]"
-Creators: ["[[Chamillionaire (🎙️ 255)]]", "[[Krayzie Bone]]"]
+Creators: ["[[Chamillionaire (🎙️ 255)]]"]
 Cover: ""
 NumberInAlbum: 4
 SourceFile: "[[Chamillionaire - Ridin'.mp3]]"
 Year: 2005
 aliases: ["Ridin'"]
-created: 2024-06-21 05:19:44
+created: 2024-06-21T05:19:44+03:00
 source: ""
+related: []
+ListenInSec: 2
+CoverOf: ""
 ---
 
 # Chamillionaire - Ridin'

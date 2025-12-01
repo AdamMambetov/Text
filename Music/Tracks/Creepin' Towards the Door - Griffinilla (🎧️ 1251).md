@@ -6,8 +6,11 @@ NumberInAlbum: 1
 SourceFile: "[[Griffinilla - Creepin' Towards the Door.mp3]]"
 Year: 2015
 aliases: ["Creepin' Towards the Door"]
-created: 2024-10-13 23:08:56
+created: 2024-10-13T23:08:56+03:00
 source: ""
+related: []
+ListenInSec: 2
+CoverOf: ""
 ---
 
 # Griffinilla - Creepin' Towards the Door

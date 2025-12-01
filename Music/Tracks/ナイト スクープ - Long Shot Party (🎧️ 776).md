@@ -9,7 +9,7 @@ aliases: ["ナイト スクープ"]
 created: 2024-06-14T15:54:16+03:00
 source: ""
 related: []
-ListenInSec: 96
+ListenInSec: 103
 CoverOf: ""
 ---
 

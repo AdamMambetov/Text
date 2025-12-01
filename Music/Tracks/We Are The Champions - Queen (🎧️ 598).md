@@ -6,8 +6,11 @@ NumberInAlbum: 17
 SourceFile: "[[Queen - We Are The Champions.mp3]]"
 Year: 2000
 aliases: ["We Are The Champions"]
-created: 2023-03-31 17:02:50
+created: 2023-03-31T17:02:50+03:00
 source: ""
+related: []
+ListenInSec: 2
+CoverOf: ""
 ---
 
 # Queen - We Are The Champions

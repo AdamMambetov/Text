@@ -6,8 +6,11 @@ NumberInAlbum: 12
 SourceFile: "[[Civil War - Colours on My Shield.mp3]]"
 Year: 2015
 aliases: ["Colours on My Shield"]
-created: 2023-07-09 18:50:20
+created: 2023-07-09T18:50:20+03:00
 source: ""
+related: []
+ListenInSec: 1
+CoverOf: ""
 ---
 
 # Civil War - Colours on My Shield

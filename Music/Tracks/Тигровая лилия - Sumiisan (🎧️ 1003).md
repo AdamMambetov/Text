@@ -6,8 +6,11 @@ NumberInAlbum: 1
 SourceFile: "[[Umineko no Naku Koro ni OST - 001 Тигровая лилия.ogg]]"
 Year: 2007
 aliases: ["Тигровая лилия"]
-created: 2024-08-03 19:33:32
+created: 2024-08-03T19:33:32+03:00
 source: ""
+related: []
+ListenInSec: 1
+CoverOf: ""
 ---
 
 # Umineko no Naku Koro ni OST - 001 Тигровая лилия

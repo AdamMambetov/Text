@@ -6,8 +6,11 @@ NumberInAlbum: 10
 SourceFile: "[[Skillet - Whispers in the Dark.mp3]]"
 Year: 2006
 aliases: ["Whispers in the Dark"]
-created: 2024-06-21 05:19:46
+created: 2024-06-21T05:19:46+03:00
 source: ""
+related: []
+ListenInSec: 2
+CoverOf: ""
 ---
 
 # Skillet - Whispers in the Dark

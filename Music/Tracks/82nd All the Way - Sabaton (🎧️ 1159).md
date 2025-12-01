@@ -9,7 +9,7 @@ aliases: ["82nd All the Way"]
 created: 2024-10-08T15:32:10+03:00
 source: ""
 related: []
-ListenInSec: 1
+ListenInSec: 2
 CoverOf: ""
 ---
 

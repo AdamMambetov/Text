@@ -1,13 +1,16 @@
 ---
 Album: "[[The Album]]"
-Creators: ["[[Haddaway]]"]
+Creators: []
 Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[Haddaway - What is Love.mp3]]"
 Year: 1993
 aliases: ["What is Love"]
-created: 2024-06-21 05:19:40
+created: 2024-06-21T05:19:40+03:00
 source: ""
+related: []
+ListenInSec: 1
+CoverOf: ""
 ---
 
 # Haddaway - What is Love

@@ -6,8 +6,11 @@ NumberInAlbum: 15
 SourceFile: "[[Marie Bibika - Courage.mp3]]"
 Year: 2019
 aliases: ["Courage"]
-created: 2024-10-23 13:37:22
+created: 2024-10-23T13:37:22+03:00
 source: ""
+related: []
+ListenInSec: 3
+CoverOf: ""
 ---
 
 # Marie Bibika - Courage

@@ -9,7 +9,7 @@ aliases: ["88"]
 created: 2024-10-08T15:32:38+03:00
 source: ""
 related: []
-ListenInSec: 2
+ListenInSec: 3
 CoverOf: ""
 ---
 

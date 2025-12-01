@@ -1,13 +1,16 @@
 ---
 Album: "[[osu!]]"
-Creators: ["[[UNDEAD CORPORATION]]"]
+Creators: []
 Cover: ""
 NumberInAlbum: 0
 SourceFile: "[[UNDEAD CORPORATION - The Dream Of A Rabbit.mp3]]"
 Year: 0
 aliases: ["Yoru Naku Usagi wa Yume o Miru"]
-created: 2022-10-05 14:01:36
+created: 2022-10-05T14:01:36+03:00
 source: ""
+related: []
+ListenInSec: 5
+CoverOf: ""
 ---
 
 # UNDEAD CORPORATION - The Dream Of A Rabbit

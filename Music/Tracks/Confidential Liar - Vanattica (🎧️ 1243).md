@@ -6,8 +6,11 @@ NumberInAlbum: 0
 SourceFile: "[[Vanattica - Confidential Liar.mp3]]"
 Year: 2011
 aliases: ["Confidential Liar"]
-created: 2024-10-13 22:59:46
+created: 2024-10-13T22:59:46+03:00
 source: ""
+related: []
+ListenInSec: 2
+CoverOf: ""
 ---
 
 # Vanattica - Confidential Liar

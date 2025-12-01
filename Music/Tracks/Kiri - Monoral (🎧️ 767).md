@@ -1,5 +1,5 @@
 ---
-created: 2024-01-04 15:32:20
+created: 2024-01-04T15:32:20+03:00
 aliases: ["Kiri"]
 Cover: ""
 Year: 2007
@@ -8,6 +8,9 @@ Creators: ["[[Monoral (🎙️ 164)]]"]
 NumberInAlbum: 2
 source: ""
 SourceFile: "[[Monoral - Kiri.mp3]]"
+related: []
+ListenInSec: 22
+CoverOf: ""
 ---
 
 # Monoral - Kiri

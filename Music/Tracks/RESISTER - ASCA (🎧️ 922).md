@@ -6,8 +6,11 @@ NumberInAlbum: 1
 SourceFile: "[[ASCA - RESISTER.mp3]]"
 Year: 2019
 aliases: ["RESISTER"]
-created: 2024-06-21 05:20:24
+created: 2024-06-21T05:20:24+03:00
 source: ""
+related: []
+ListenInSec: 7
+CoverOf: ""
 ---
 
 # ASCA - RESISTER

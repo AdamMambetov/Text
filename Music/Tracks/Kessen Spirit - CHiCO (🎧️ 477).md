@@ -9,7 +9,7 @@ NumberInAlbum: 1
 source: ""
 SourceFile: "[[CHiCO with HoneyWorks - Kessen Spirit.mp3]]"
 related: []
-ListenInSec: 2
+ListenInSec: 5
 CoverOf: ""
 ---
 

@@ -6,8 +6,11 @@ NumberInAlbum: 1
 SourceFile: "[[Daniel Powter - Bad Day.mp3]]"
 Year: 2021
 aliases: ["Bad Day"]
-created: 2024-06-21 05:20:30
+created: 2024-06-21T05:20:30+03:00
 source: ""
+related: []
+ListenInSec: 2
+CoverOf: ""
 ---
 
 # Daniel Powter - Bad Day

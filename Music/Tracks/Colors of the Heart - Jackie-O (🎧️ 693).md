@@ -1,5 +1,5 @@
 ---
-created: 2023-11-11 11:49:54
+created: 2023-11-11T11:49:54+03:00
 aliases: ["Colors of the Heart"]
 Cover: ""
 Year: 2020
@@ -8,6 +8,9 @@ Creators: ["[[Jackie-O (🎙️ 341)]]"]
 NumberInAlbum: 1
 source: ""
 SourceFile: "[[Jackie-O - Colors of the Heart.mp3]]"
+related: []
+ListenInSec: 1
+CoverOf: ""
 ---
 
 # Jackie-O - Colors of the Heart

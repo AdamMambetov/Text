@@ -1,13 +1,16 @@
 ---
 Album: "[[osu!]]"
-Creators: ["[[SakiZ]]"]
+Creators: []
 Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[SakiZ - osu!memories.mp3]]"
 Year: 0
 aliases: ["osu!memories"]
-created: 2022-10-05 13:53:02
+created: 2022-10-05T13:53:02+03:00
 source: ""
+related: []
+ListenInSec: 4
+CoverOf: ""
 ---
 
 # SakiZ - osu!memories

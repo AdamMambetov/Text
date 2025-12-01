@@ -9,7 +9,7 @@ aliases: ["(can you) understand me?"]
 created: 2022-10-05T14:04:48+03:00
 source: ""
 related: []
-ListenInSec: 71
+ListenInSec: 75
 CoverOf: ""
 ---
 

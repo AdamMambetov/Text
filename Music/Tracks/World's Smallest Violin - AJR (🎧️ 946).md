@@ -6,8 +6,11 @@ NumberInAlbum: 11
 SourceFile: "[[AJR - World's Smallest Violin.mp3]]"
 Year: 2021
 aliases: ["World's Smallest Violin"]
-created: 2024-06-21 05:20:30
+created: 2024-06-21T05:20:30+03:00
 source: ""
+related: []
+ListenInSec: 1
+CoverOf: ""
 ---
 
 # AJR - World's Smallest Violin

@@ -9,7 +9,7 @@ NumberInAlbum: 1
 source: ""
 SourceFile: "[[9mm Parabellum Bullet - Sacrifice.mp3]]"
 related: []
-ListenInSec: 61
+ListenInSec: 66
 CoverOf: ""
 ---
 

@@ -1,13 +1,16 @@
 ---
 Album: "[[Mulan]]"
-Creators: ["[[Disney (🎙️ 288)]]", "[[Donny Osmond]]"]
+Creators: ["[[Disney (🎙️ 288)]]"]
 Cover: ""
 NumberInAlbum: 3
 SourceFile: "[[Mulan OST - I'll Make A Man Out Of You.mp3]]"
 Year: 1998
 aliases: ["I'll Make A Man Out Of You"]
-created: 2023-11-05 08:46:38
+created: 2023-11-05T08:46:38+03:00
 source: ""
+related: []
+ListenInSec: 3
+CoverOf: ""
 ---
 
 # Mulan OST - I'll Make A Man Out Of You

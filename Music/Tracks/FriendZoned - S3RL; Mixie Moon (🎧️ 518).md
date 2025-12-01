@@ -1,13 +1,16 @@
 ---
 Album: "[[osu!]]"
-Creators: ["[[S3RL; Mixie Moon]]"]
+Creators: []
 Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[S3RL ft. Mixie Moon - FriendZoned (osu ver).mp3]]"
 Year: 0
 aliases: ["FriendZoned"]
-created: 2022-10-30 13:17:04
+created: 2022-10-30T13:17:04+03:00
 source: ""
+related: []
+ListenInSec: 4
+CoverOf: ""
 ---
 
 # S3RL ft. Mixie Moon - FriendZoned (osu ver)

@@ -6,8 +6,11 @@ NumberInAlbum: 1
 SourceFile: "[[sumika - Fanfare.mp3]]"
 Year: 0
 aliases: ["Fanfare"]
-created: 2022-10-05 13:57:24
+created: 2022-10-05T13:57:24+03:00
 source: ""
+related: []
+ListenInSec: 17
+CoverOf: ""
 ---
 
 # sumika - Fanfare

@@ -9,7 +9,7 @@ aliases: ["Disease"]
 created: 2024-10-23T13:40:10+03:00
 source: ""
 related: []
-ListenInSec: 2
+ListenInSec: 3
 CoverOf: ""
 ---
 

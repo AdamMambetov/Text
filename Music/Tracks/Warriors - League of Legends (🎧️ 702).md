@@ -9,7 +9,7 @@ NumberInAlbum: 1
 source: ""
 SourceFile: "[[League of Legends - Warriors 2.mp3]]"
 related: []
-ListenInSec: 189
+ListenInSec: 195
 CoverOf: ""
 ---
 

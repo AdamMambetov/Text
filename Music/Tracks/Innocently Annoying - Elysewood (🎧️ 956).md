@@ -1,13 +1,16 @@
 ---
 Album: "[[Innocently Annoying]]"
-Creators: ["[[Elysewood]]"]
+Creators: []
 Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[Elysewood - Innocently Annoying.mp3]]"
 Year: 2022
 aliases: ["Innocently Annoying"]
-created: 2024-06-21 05:20:34
+created: 2024-06-21T05:20:34+03:00
 source: ""
+related: []
+ListenInSec: 3
+CoverOf: ""
 ---
 
 # Elysewood - Innocently Annoying

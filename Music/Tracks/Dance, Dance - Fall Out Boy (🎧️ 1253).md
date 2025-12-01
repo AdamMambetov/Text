@@ -6,8 +6,11 @@ NumberInAlbum: 3
 SourceFile: "[[Fall Out Boy - Dance, Dance.mp3]]"
 Year: 2005
 aliases: ["Dance, Dance"]
-created: 2024-10-13 23:13:46
+created: 2024-10-13T23:13:46+03:00
 source: ""
+related: []
+ListenInSec: 3
+CoverOf: ""
 ---
 
 # Fall Out Boy - Dance, Dance

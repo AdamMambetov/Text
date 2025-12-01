@@ -9,7 +9,7 @@ aliases: ["No Friends"]
 created: 2024-06-21T05:20:26+03:00
 source: ""
 related: []
-ListenInSec: 8
+ListenInSec: 10
 CoverOf: ""
 ---
 

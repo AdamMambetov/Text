@@ -1,10 +1,16 @@
 ---
-created: 2024-06-21 05:20:04
+created: 2024-06-21T05:20:04+03:00
 aliases: ["Одиночки"]
 CoverOf: "[[🎵Aqua Timez - Alones]]"
 Creators: ["[[Radiant Records (🎙️ 39)]]", "[[Genji (🎙️ 43)]]"]
 source: ""
 SourceFile: "[[Radiant Records - Одиночки.mp3]]"
+Cover: ""
+Year: 0
+Album: ""
+NumberInAlbum: 0
+related: []
+ListenInSec: 1
 ---
 
 # Одиночки

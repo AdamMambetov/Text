@@ -6,8 +6,11 @@ NumberInAlbum: 1
 SourceFile: "[[the peggies - Kiminosei.mp3]]"
 Year: 2019
 aliases: ["Kiminosei"]
-created: 2022-12-09 21:37:04
+created: 2022-12-09T21:37:04+03:00
 source: ""
+related: []
+ListenInSec: 9
+CoverOf: ""
 ---
 
 # the peggies - Kiminosei

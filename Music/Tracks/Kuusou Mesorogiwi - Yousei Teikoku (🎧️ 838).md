@@ -6,8 +6,11 @@ NumberInAlbum: 1
 SourceFile: "[[Yousei Teikoku - Kuusou Mesorogiwi.mp3]]"
 Year: 2011
 aliases: ["Kuusou Mesorogiwi"]
-created: 2024-06-21 05:19:54
+created: 2024-06-21T05:19:54+03:00
 source: ""
+related: []
+ListenInSec: 9
+CoverOf: ""
 ---
 
 # Yousei Teikoku - Kuusou Mesorogiwi

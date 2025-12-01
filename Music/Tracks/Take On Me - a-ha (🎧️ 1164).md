@@ -6,8 +6,11 @@ NumberInAlbum: 1
 SourceFile: "[[a-ha - Take on Me.mp3]]"
 Year: 1985
 aliases: ["Take On Me"]
-created: 2024-10-08 15:36:44
+created: 2024-10-08T15:36:44+03:00
 source: ""
+related: []
+ListenInSec: 11
+CoverOf: ""
 ---
 
 # a-ha - Take on Me

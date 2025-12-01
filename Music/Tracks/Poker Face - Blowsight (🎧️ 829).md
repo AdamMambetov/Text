@@ -6,8 +6,11 @@ NumberInAlbum: 13
 SourceFile: "[[Blowsight - Poker Face.mp3]]"
 Year: 2010
 aliases: ["Poker Face"]
-created: 2024-06-21 05:19:50
+created: 2024-06-21T05:19:50+03:00
 source: ""
+related: []
+ListenInSec: 1
+CoverOf: ""
 ---
 
 # Blowsight - Poker Face

@@ -1,13 +1,16 @@
 ---
 Album: "[[Elfen Lied OST]]"
-Creators: ["[[GoldSinn]]"]
+Creators: []
 Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[Elfen Lied OST - Yokusoku.mp3]]"
 Year: 0
 aliases: ["Yokusoku"]
-created: 2024-10-23 14:54:58
+created: 2024-10-23T14:54:58+03:00
 source: ""
+related: []
+ListenInSec: 7
+CoverOf: ""
 ---
 
 # Elfen Lied OST - Yokusoku

@@ -6,8 +6,11 @@ NumberInAlbum: 1
 SourceFile: "[[Panic! At The Disco - High Hopes.mp3]]"
 Year: 0
 aliases: []
-created: 2024-01-04 12:13:52
+created: 2024-01-04T12:13:52+03:00
 source: ""
+related: []
+ListenInSec: 6
+CoverOf: ""
 ---
 
 # Panic! At The Disco - High Hopes

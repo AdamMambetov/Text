@@ -6,8 +6,11 @@ NumberInAlbum: 1
 SourceFile: "[[Jinja - Lagtrain (German Version).mp3]]"
 Year: 20230921
 aliases: ["Lagtrain (German Version)"]
-created: 2024-12-12 21:19:40
+created: 2024-12-12T21:19:40+03:00
 source: ""
+related: []
+ListenInSec: 4
+CoverOf: ""
 ---
 
 # Jinja - Lagtrain (German Version)

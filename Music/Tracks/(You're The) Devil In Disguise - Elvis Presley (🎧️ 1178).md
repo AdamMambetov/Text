@@ -9,7 +9,7 @@ aliases: ["(You're The) Devil In Disguise"]
 created: 2024-10-10T21:49:32+03:00
 source: ""
 related: []
-ListenInSec: 1
+ListenInSec: 7
 CoverOf: ""
 ---
 

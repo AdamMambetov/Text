@@ -1,13 +1,16 @@
 ---
 Album: "[[Rick and Morty]]"
-Creators: ["[[Rick and Morty]]", "[[Ryan Elder]]"]
+Creators: []
 Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[Rick and Morty OST - Main Theme.mp3]]"
 Year: 2018
 aliases: ["Rick and Morty Theme"]
-created: 2024-01-03 21:16:28
+created: 2024-01-03T21:16:28+03:00
 source: ""
+related: []
+ListenInSec: 2
+CoverOf: ""
 ---
 
 # Rick and Morty OST - Main Theme

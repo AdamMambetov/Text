@@ -6,8 +6,11 @@ NumberInAlbum: 3
 SourceFile: "[[Noize MC - Из окна.mp3]]"
 Year: 2008
 aliases: ["Из окна"]
-created: 2022-05-11 23:11:14
+created: 2022-05-11T23:11:14+03:00
 source: ""
+related: []
+ListenInSec: 1
+CoverOf: ""
 ---
 
 # Noize MC - Из окна

@@ -6,8 +6,11 @@ NumberInAlbum: 11
 SourceFile: "[[Autumn Kings - Livin' La Vida Loca.mp3]]"
 Year: 2017
 aliases: ["Livin' La Vida Loca"]
-created: 2024-06-21 05:20:16
+created: 2024-06-21T05:20:16+03:00
 source: ""
+related: []
+ListenInSec: 3
+CoverOf: ""
 ---
 
 # Autumn Kings - Livin' La Vida Loca

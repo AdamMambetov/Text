@@ -6,8 +6,11 @@ NumberInAlbum: 3
 SourceFile: "[[Bloodbound - Tears of a Dragonheart.mp3]]"
 Year: 2017
 aliases: ["Tears of a Dragonheart"]
-created: 2024-06-21 05:20:16
+created: 2024-06-21T05:20:16+03:00
 source: ""
+related: []
+ListenInSec: 2
+CoverOf: ""
 ---
 
 # Bloodbound - Tears of a Dragonheart

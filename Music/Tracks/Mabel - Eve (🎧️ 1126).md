@@ -1,5 +1,5 @@
 ---
-created: 2024-10-05 14:36:20
+created: 2024-10-05T14:36:20+03:00
 aliases: ["Mabel"]
 Cover: ""
 Year: 20220305
@@ -9,6 +9,8 @@ Creators: ["[[Eve (🎙️ 34)]]"]
 NumberInAlbum: 1
 source: ""
 SourceFile: "[[Eve - Mabel.mp3]]"
+related: []
+ListenInSec: 2
 ---
 
 # Eve - Mabel

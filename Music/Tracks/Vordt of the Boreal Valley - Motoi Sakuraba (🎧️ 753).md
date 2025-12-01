@@ -6,8 +6,11 @@ NumberInAlbum: 7
 SourceFile: "[[Dark Souls 3 OST - 06 Vordt of the Boreal Valley.mp3]]"
 Year: 2019
 aliases: ["Vordt of the Boreal Valley"]
-created: 2024-01-04 15:27:02
+created: 2024-01-04T15:27:02+03:00
 source: ""
+related: []
+ListenInSec: 1
+CoverOf: ""
 ---
 
 # Dark Souls 3 OST - 06 Vordt of the Boreal Valley

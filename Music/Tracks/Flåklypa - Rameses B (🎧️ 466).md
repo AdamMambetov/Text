@@ -6,8 +6,11 @@ NumberInAlbum: 1
 SourceFile: "[[Rameses B - Flaklypa.mp3]]"
 Year: 2013
 aliases: ["Flåklypa"]
-created: 2022-10-05 13:24:34
+created: 2022-10-05T13:24:34+03:00
 source: ""
+related: []
+ListenInSec: 66
+CoverOf: ""
 ---
 
 # Rameses B - Flaklypa

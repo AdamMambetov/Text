@@ -6,8 +6,11 @@ NumberInAlbum: 25
 SourceFile: "[[Camellia - Chirality.mp3]]"
 Year: 0
 aliases: ["Chirality"]
-created: 2022-10-05 13:04:44
+created: 2022-10-05T13:04:44+03:00
 source: ""
+related: []
+ListenInSec: 4
+CoverOf: ""
 ---
 
 # Camellia - Chirality

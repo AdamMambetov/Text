@@ -1,13 +1,16 @@
 ---
 Album: "[[osu!]]"
-Creators: ["[[IOSYS]]"]
+Creators: []
 Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[IOSYS - Cirno no Perfect Sansuu Kyoushitsu.mp3]]"
 Year: 0
 aliases: ["Cirno no Perfect Sansuu Kyoushitsu"]
-created: 2022-10-05 13:30:38
+created: 2022-10-05T13:30:38+03:00
 source: ""
+related: []
+ListenInSec: 4
+CoverOf: ""
 ---
 
 # IOSYS - Cirno no Perfect Sansuu Kyoushitsu

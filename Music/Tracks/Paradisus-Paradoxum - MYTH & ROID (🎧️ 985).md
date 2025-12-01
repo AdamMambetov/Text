@@ -6,8 +6,11 @@ NumberInAlbum: 1
 SourceFile: "[[MYTH & ROID - Paradisus-Paradoxum (TV Size).mp3]]"
 Year: 0
 aliases: ["Paradisus-Paradoxum"]
-created: 2024-07-21 15:27:18
+created: 2024-07-21T15:27:18+03:00
 source: ""
+related: []
+ListenInSec: 4
+CoverOf: ""
 ---
 
 # MYTH & ROID - Paradisus-Paradoxum (TV Size)

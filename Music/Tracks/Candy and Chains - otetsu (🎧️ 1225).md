@@ -6,8 +6,11 @@ NumberInAlbum: 1
 SourceFile: "[[otetsu - Ame to Kusari (Short Version).m4a]]"
 Year: 2015
 aliases: ["Candy and Chains"]
-created: 2024-10-13 22:43:24
+created: 2024-10-13T22:43:24+03:00
 source: ""
+related: []
+ListenInSec: 6
+CoverOf: ""
 ---
 
 # otetsu - Ame to Kusari (Short Version)

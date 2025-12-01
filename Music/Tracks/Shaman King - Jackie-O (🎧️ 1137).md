@@ -6,8 +6,11 @@ NumberInAlbum: 1
 SourceFile: "[[Jackie-O - Shaman King.mp3]]"
 Year: 2021
 aliases: ["Shaman King"]
-created: 2024-10-05 15:15:38
+created: 2024-10-05T15:15:38+03:00
 source: ""
+related: []
+ListenInSec: 2
+CoverOf: ""
 ---
 
 # Jackie-O - Shaman King

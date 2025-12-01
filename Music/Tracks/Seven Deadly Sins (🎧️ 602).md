@@ -6,8 +6,11 @@ NumberInAlbum: 1
 SourceFile: "[[MAN WITH A MISSION - Seven Deadly Sins.mp3]]"
 Year: 0
 aliases: []
-created: 2023-07-09 17:56:20
+created: 2023-07-09T17:56:20+03:00
 source: ""
+related: []
+ListenInSec: 18
+CoverOf: ""
 ---
 
 # MAN WITH A MISSION - Seven Deadly Sins

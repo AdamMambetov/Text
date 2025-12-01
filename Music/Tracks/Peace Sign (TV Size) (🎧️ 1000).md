@@ -6,8 +6,11 @@ NumberInAlbum: 1
 SourceFile: "[[Kenshi Yonezu - Peace Sign (TV Size).mp3]]"
 Year: 0
 aliases: []
-created: 2024-07-21 15:59:18
+created: 2024-07-21T15:59:18+03:00
 source: ""
+related: []
+ListenInSec: 14
+CoverOf: ""
 ---
 
 # Kenshi Yonezu - Peace Sign (TV Size)

@@ -1,5 +1,5 @@
 ---
-created: 2023-09-30 15:54:16
+created: 2023-09-30T15:54:16+03:00
 aliases: ["Barrier Break"]
 Cover: ""
 Year: 2003
@@ -8,6 +8,9 @@ Creators: ["[[Dieselboy (🎙️ 286)]]"]
 NumberInAlbum: 1
 source: ""
 SourceFile: "[[Dieselboy - Barrier Break.mp3]]"
+related: []
+ListenInSec: 2
+CoverOf: ""
 ---
 
 # Dieselboy - Barrier Break

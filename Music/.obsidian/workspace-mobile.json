@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "ef7551cf95b4cc3b",
+        "id": "5b8026cb6550df72",
         "type": "tabs",
         "children": [
           {
-            "id": "a7610307b3dc3a26",
+            "id": "59fd4f79299bce04",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tracks/Hotaru no Hikari - Ikimonogakari (🎧️ 10).md",
+                "file": "Creators/PanHeads Band (🎙️ 411).md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Hotaru no Hikari - Ikimonogakari (🎧️ 10)"
-            }
-          },
-          {
-            "id": "edbc53258a9a522c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tracks/Dragonborn Song (🎧️ 1392).md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Dragonborn Song (🎧️ 1392)"
+              "title": "PanHeads Band (🎙️ 411)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -139,13 +124,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "edbc53258a9a522c",
+  "active": "59fd4f79299bce04",
   "lastOpenFiles": [
+    "Tracks/Проснулся и живой - PanHeads Band (🎧️ 445).md",
+    "Tracks/Шесть материков - PanHeads Band (🎧️ 535).md",
+    "Tracks/Сопротивление - PanHeads Band (🎧️ 119).md",
+    "Tracks/Коматоз - PanHeads Band (🎧️ 438).md",
+    "Tracks/Я хочу жить - PanHeads Band (🎧️ 564).md",
+    "Tracks/Не умрем - PanHeads Band (🎧️ 568).md",
+    "Playlists/Anime (💿 3).md",
+    "Tracks/Hotaru no Hikari - Ikimonogakari (🎧️ 10).md",
+    "Tracks/Dragonborn Song (🎧️ 1392).md",
     "Tracks/Blue Bird - Ikimonogakari (🎧️ 1493).md",
     "Playlists/Favorites (💿 1).md",
     "Playlists/Anime Endings (💿 5).md",
     "Playlists/Anime Openings (💿 4).md",
-    "Playlists/Anime (💿 3).md",
     "Playlists/osu! (💿 2).md",
     "Tracks/Insane - Black GryphOn (🎧️ 941).md",
     "Tracks/Inochi no Tabekata - NotADub (🎧️ 1321).md",
@@ -158,14 +151,6 @@
     "Tracks/Beautiful Morning (🎧️ 1510).md",
     "Tracks/Школа мертвецов - Radiant Records (🎧️ 601).md",
     "Tracks/Ты принёс мечту - Radiant Records (🎧️ 19).md",
-    "Tracks/Сорванный плод - Radiant Records (🎧️ 20).md",
-    "Tracks/Синяя птица (TV Size) - Radiant Records (🎧️ 899).md",
-    "Tracks/Росчерк - dai (🎧️ 1060).md",
-    "Tracks/Птичья песнь - Radiant Records (🎧️ 21).md",
-    "Tracks/Почётна и завидна наша роль - Олег Анофриев (🎧️ 662).md",
-    "Tracks/Полный ход - Radiant Records (🎧️ 12).md",
-    "Tracks/Ориентир - Radiant Records (🎧️ 603).md",
-    "Tracks/Неизвестная история - Radiant Records (🎧️ 11).md",
-    "Tracks/Мелодия - sunny (🎧️ 1033).md"
+    "Tracks/Сорванный плод - Radiant Records (🎧️ 20).md"
   ]
 }

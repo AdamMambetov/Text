@@ -6,8 +6,11 @@ NumberInAlbum: 61
 SourceFile: "[[Umineko no Naku Koro ni OST - 061 Танец свеч.ogg]]"
 Year: 2007
 aliases: ["Танец свеч"]
-created: 2024-08-03 19:43:56
+created: 2024-08-03T19:43:56+03:00
 source: ""
+related: []
+ListenInSec: 2
+CoverOf: ""
 ---
 
 # Umineko no Naku Koro ni OST - 061 Танец свеч

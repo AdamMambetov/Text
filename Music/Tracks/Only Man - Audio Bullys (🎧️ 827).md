@@ -1,5 +1,5 @@
 ---
-created: 2024-06-21 05:19:50
+created: 2024-06-21T05:19:50+03:00
 aliases: ["Only Man"]
 Cover: ""
 Year: 2010
@@ -8,6 +8,9 @@ Creators: ["[[Audio Bullys (🎙️ 197)]]"]
 NumberInAlbum: 2
 source: ""
 SourceFile: "[[Audio Bullys - Only Man.mp3]]"
+related: []
+ListenInSec: 2
+CoverOf: ""
 ---
 
 # Audio Bullys - Only Man

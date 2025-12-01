@@ -6,8 +6,11 @@ NumberInAlbum: 2
 SourceFile: "[[Imagine Dragons - Gold.mp3]]"
 Year: 2014
 aliases: ["Gold"]
-created: 2024-10-30 19:30:48
+created: 2024-10-30T19:30:48+03:00
 source: ""
+related: []
+ListenInSec: 10
+CoverOf: ""
 ---
 
 # Imagine Dragons - Gold

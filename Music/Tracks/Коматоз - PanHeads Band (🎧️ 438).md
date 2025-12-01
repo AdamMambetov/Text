@@ -3,11 +3,14 @@ Album: "[[Comatose ~ Skillet [2013] {The PanHeads Band}]]"
 Creators: ["[[PanHeads Band (🎙️ 411)]]"]
 Cover: ""
 NumberInAlbum: 1
-SourceFile: "[[PanHeads Band - Коматоз.mp3]]"
+SourceFile: "[[PANHEADS BAND - Коматоз.mp3]]"
 Year: 2021
 aliases: ["Коматоз"]
-created: 2022-05-16 07:55:00
+created: 2022-05-16T07:55:00+03:00
 source: ""
+related: []
+ListenInSec: 2
+CoverOf: ""
 ---
 
 # PanHeads Band - Коматоз

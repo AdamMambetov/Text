@@ -9,7 +9,7 @@ aliases: ["Led Zeppelin - Immigrant Song"]
 created: 2025-01-07T18:28:08+03:00
 source: ""
 related: []
-ListenInSec: 4
+ListenInSec: 5
 CoverOf: ""
 ---
 

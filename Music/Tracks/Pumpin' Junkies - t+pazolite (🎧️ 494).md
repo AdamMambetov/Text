@@ -6,8 +6,11 @@ NumberInAlbum: 1
 SourceFile: "[[t+pazolite - Pumpin' Junkies.mp3]]"
 Year: 0
 aliases: ["Pumpin' Junkies"]
-created: 2022-10-05 13:49:42
+created: 2022-10-05T13:49:42+03:00
 source: ""
+related: []
+ListenInSec: 3
+CoverOf: ""
 ---
 
 # t+pazolite - Pumpin' Junkies

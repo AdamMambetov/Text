@@ -6,8 +6,11 @@ NumberInAlbum: 10
 SourceFile: "[[New Medicine - Fire Up The Night.mp3]]"
 Year: 2014
 aliases: ["Fire Up the Night"]
-created: 2024-10-30 19:15:28
+created: 2024-10-30T19:15:28+03:00
 source: ""
+related: []
+ListenInSec: 2
+CoverOf: ""
 ---
 
 # New Medicine - Fire Up The Night

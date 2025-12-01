@@ -6,8 +6,11 @@ NumberInAlbum: 1
 SourceFile: "[[Amaranthe - Maximize.mp3]]"
 Year: 2016
 aliases: ["Maximize"]
-created: 2024-06-21 05:20:12
+created: 2024-06-21T05:20:12+03:00
 source: ""
+related: []
+ListenInSec: 5
+CoverOf: ""
 ---
 
 # Amaranthe - Maximize

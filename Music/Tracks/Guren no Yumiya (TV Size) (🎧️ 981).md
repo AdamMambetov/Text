@@ -6,8 +6,11 @@ NumberInAlbum: 1
 SourceFile: "[[Linked Horizon - Guren no Yumiya (TV Size).mp3]]"
 Year: 0
 aliases: []
-created: 2024-07-21 15:19:28
+created: 2024-07-21T15:19:28+03:00
 source: ""
+related: []
+ListenInSec: 9
+CoverOf: ""
 ---
 
 # Linked Horizon - Guren no Yumiya (TV Size)

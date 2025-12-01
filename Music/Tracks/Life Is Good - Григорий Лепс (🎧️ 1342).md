@@ -1,5 +1,5 @@
 ---
-created: 2024-10-23 15:22:08
+created: 2024-10-23T15:22:08+03:00
 aliases: ["Life Is Good"]
 Cover: ""
 Year: 2018
@@ -8,6 +8,9 @@ Creators: ["[[Григорий Лепс (🎙️ 100)]]"]
 NumberInAlbum: 1
 source: ""
 SourceFile: "[[Григорий Лепс - Life Is Good.mp3]]"
+related: []
+ListenInSec: 1
+CoverOf: ""
 ---
 
 # Григорий Лепс - Life Is Good

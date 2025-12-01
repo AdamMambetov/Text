@@ -6,8 +6,11 @@ NumberInAlbum: 1
 SourceFile: "[[Sonny Boy OST - Shounen Shoujo.mp3]]"
 Year: 0
 aliases: []
-created: 2023-08-23 13:26:04
+created: 2023-08-23T13:26:04+03:00
 source: ""
+related: []
+ListenInSec: 12
+CoverOf: ""
 ---
 
 # Sonny Boy OST - Shounen Shoujo

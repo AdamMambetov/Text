@@ -1,5 +1,5 @@
 ---
-created: 2024-10-30 19:10:08
+created: 2024-10-30T19:10:08+03:00
 aliases: ["Ezio’s Family", "ksjdf"]
 Cover: ""
 Year: 2009
@@ -8,6 +8,9 @@ Creators: ["[[Jesper Kyd (🎙️ 343)]]"]
 NumberInAlbum: 3
 source: ""
 SourceFile: "[[Assassin's Creed 2 OST - Ezio's Family.mp3]]"
+related: []
+ListenInSec: 2
+CoverOf: ""
 ---
 
 # Assassin's Creed 2 OST - Ezio's Family

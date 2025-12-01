@@ -6,8 +6,11 @@ NumberInAlbum: 2
 SourceFile: "[[Avenged Sevenfold - Welcome to the Family.mp3]]"
 Year: 2010
 aliases: ["Welcome to the Family"]
-created: 2024-06-21 05:19:50
+created: 2024-06-21T05:19:50+03:00
 source: ""
+related: []
+ListenInSec: 17
+CoverOf: ""
 ---
 
 # Avenged Sevenfold - Welcome to the Family

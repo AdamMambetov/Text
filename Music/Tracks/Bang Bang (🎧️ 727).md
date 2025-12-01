@@ -6,8 +6,11 @@ NumberInAlbum: 1
 SourceFile: "[[Hollywood Undead - Bang Bang.mp3]]"
 Year: 0
 aliases: []
-created: 2024-01-04 12:14:40
+created: 2024-01-04T12:14:40+03:00
 source: ""
+related: []
+ListenInSec: 3
+CoverOf: ""
 ---
 
 # Hollywood Undead - Bang Bang

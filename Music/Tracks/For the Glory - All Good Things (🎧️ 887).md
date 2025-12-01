@@ -6,8 +6,11 @@ NumberInAlbum: 7
 SourceFile: "[[All Good Things - For the Glory.mp3]]"
 Year: 2017
 aliases: ["For the Glory"]
-created: 2024-06-21 05:20:16
+created: 2024-06-21T05:20:16+03:00
 source: ""
+related: []
+ListenInSec: 3
+CoverOf: ""
 ---
 
 # All Good Things - For the Glory

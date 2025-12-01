@@ -1,13 +1,16 @@
 ---
 Album: "[[Bolt]]"
-Creators: ["[[Disney (🎙️ 288)]]", "[[Jenny Lewis]]"]
+Creators: ["[[Disney (🎙️ 288)]]"]
 Cover: ""
 NumberInAlbum: 2
 SourceFile: "[[Bolt OST - Barking At The Moon.mp3]]"
 Year: 2008
 aliases: ["Barking At The Moon"]
-created: 2024-01-04 15:03:30
+created: 2024-01-04T15:03:30+03:00
 source: ""
+related: []
+ListenInSec: 1
+CoverOf: ""
 ---
 
 # Bolt OST - Barking At The Moon

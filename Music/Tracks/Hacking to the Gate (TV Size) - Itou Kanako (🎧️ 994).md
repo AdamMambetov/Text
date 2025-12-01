@@ -9,7 +9,7 @@ NumberInAlbum: 1
 source: ""
 SourceFile: "[[Itou Kanako - Hacking to the Gate (TV Size).mp3]]"
 related: []
-ListenInSec: 83
+ListenInSec: 88
 CoverOf: ""
 ---
 

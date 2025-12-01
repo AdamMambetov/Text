@@ -1,10 +1,16 @@
 ---
-created: 2024-06-21 05:20:04
+created: 2024-06-21T05:20:04+03:00
 aliases: ["Ветер", "Wind"]
 CoverOf: "[[Wind - Akeboshi (🎧️ 1660)]]"
 Creators: ["[[Radiant Records (🎙️ 39)]]", "[[Nibiru (🎙️ 44)]]"]
 source: ""
 SourceFile: "[[Radiant Records - Ветер.mp3]]"
+Cover: ""
+Year: 0
+Album: ""
+NumberInAlbum: 0
+related: []
+ListenInSec: 5
 ---
 
 # Ветер

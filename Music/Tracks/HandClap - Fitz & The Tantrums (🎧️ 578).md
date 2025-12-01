@@ -1,13 +1,16 @@
 ---
 Album: "[[Fitz and The Tantrums]]"
-Creators: ["[[Fitz & The Tantrums]]"]
+Creators: []
 Cover: ""
 NumberInAlbum: 2
 SourceFile: "[[Fitz & The Tantrums - HandClap.mp3]]"
 Year: 2017
 aliases: ["HandClap"]
-created: 2022-12-20 23:25:04
+created: 2022-12-20T23:25:04+03:00
 source: ""
+related: []
+ListenInSec: 1
+CoverOf: ""
 ---
 
 # Fitz & The Tantrums - HandClap

@@ -6,8 +6,11 @@ NumberInAlbum: 88
 SourceFile: "[[Umineko no Naku Koro ni OST - 088 F-стиль.ogg]]"
 Year: 2007
 aliases: ["F-стиль"]
-created: 2024-08-03 20:54:48
+created: 2024-08-03T20:54:48+03:00
 source: ""
+related: []
+ListenInSec: 1
+CoverOf: ""
 ---
 
 # Umineko no Naku Koro ni OST - 088 F-стиль

@@ -9,7 +9,7 @@ aliases: []
 created: 2023-12-03T18:05:32+03:00
 source: ""
 related: []
-ListenInSec: 12
+ListenInSec: 15
 CoverOf: ""
 ---
 

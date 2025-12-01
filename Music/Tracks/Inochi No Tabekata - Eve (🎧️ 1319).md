@@ -6,8 +6,11 @@ NumberInAlbum: 1
 SourceFile: "[[Eve - Inochi no Tabekata.mp3]]"
 Year: 2020
 aliases: ["Inochi No Tabekata"]
-created: 2024-10-23 14:59:58
+created: 2024-10-23T14:59:58+03:00
 source: ""
+related: []
+ListenInSec: 7
+CoverOf: ""
 ---
 
 # Eve - Inochi no Tabekata

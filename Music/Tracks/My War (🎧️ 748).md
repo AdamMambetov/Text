@@ -6,8 +6,11 @@ NumberInAlbum: 1
 SourceFile: "[[Shinsei Kamattechan - My War.mp3]]"
 Year: 0
 aliases: []
-created: 2024-01-04 12:16:10
+created: 2024-01-04T12:16:10+03:00
 source: ""
+related: []
+ListenInSec: 15
+CoverOf: ""
 ---
 
 # Shinsei Kamattechan - My War

@@ -1,13 +1,16 @@
 ---
 Album: "[[Stones]]"
-Creators: ["[[Manafest]]"]
+Creators: []
 Cover: ""
 NumberInAlbum: 3
 SourceFile: "[[Manafest - Firestarter.mp3]]"
 Year: 2017
 aliases: ["Firestarter"]
-created: 2024-10-30 19:17:10
+created: 2024-10-30T19:17:10+03:00
 source: ""
+related: []
+ListenInSec: 1
+CoverOf: ""
 ---
 
 # Manafest - Firestarter

@@ -1,13 +1,16 @@
 ---
 Album: "[[Hope]]"
-Creators: ["[[The Strumbellas]]"]
+Creators: []
 Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[The Strumbellas - Spirits.mp3]]"
 Year: 2016
 aliases: ["Spirits"]
-created: 2022-12-21 00:07:28
+created: 2022-12-21T00:07:28+03:00
 source: ""
+related: []
+ListenInSec: 4
+CoverOf: ""
 ---
 
 # The Strumbellas - Spirits

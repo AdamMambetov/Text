@@ -1,13 +1,16 @@
 ---
 Album: "[[The Baddest of George Thorogood and the Destroyers]]"
-Creators: ["[[George Thorogood & The Destroyers]]"]
+Creators: []
 Cover: ""
 NumberInAlbum: 6
 SourceFile: "[[George Thorogood & The Destroyers - Bad To The Bone.mp3]]"
 Year: 1982
 aliases: ["Bad To the Bone"]
-created: 2024-10-10 22:50:50
+created: 2024-10-10T22:50:50+03:00
 source: ""
+related: []
+ListenInSec: 2
+CoverOf: ""
 ---
 
 # George Thorogood & The Destroyers - Bad To The Bone

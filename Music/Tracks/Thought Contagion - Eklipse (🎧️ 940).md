@@ -9,7 +9,7 @@ aliases: ["Thought Contagion"]
 created: 2024-06-21T05:20:28+03:00
 source: ""
 related: []
-ListenInSec: 2
+ListenInSec: 4
 CoverOf: ""
 ---
 

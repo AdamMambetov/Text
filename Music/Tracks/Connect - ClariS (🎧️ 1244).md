@@ -6,8 +6,11 @@ NumberInAlbum: 7
 SourceFile: "[[ClariS - Connect.mp3]]"
 Year: 2012
 aliases: ["Connect"]
-created: 2024-10-13 23:02:12
+created: 2024-10-13T23:02:12+03:00
 source: ""
+related: []
+ListenInSec: 5
+CoverOf: ""
 ---
 
 # ClariS - Connect

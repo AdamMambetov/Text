@@ -6,8 +6,11 @@ NumberInAlbum: 27
 SourceFile: "[[Big Bang Theory OST - Main Theme.mp3]]"
 Year: 2009
 aliases: ["Big Bang Theory Theme"]
-created: 2023-09-30 14:41:44
+created: 2023-09-30T14:41:44+03:00
 source: ""
+related: []
+ListenInSec: 1
+CoverOf: ""
 ---
 
 # Big Bang Theory OST - Main Theme

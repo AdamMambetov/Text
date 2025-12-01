@@ -6,8 +6,11 @@ NumberInAlbum: 8
 SourceFile: "[[Paddy And The Rats - One Last Ale.mp3]]"
 Year: 2018
 aliases: ["One Last Ale"]
-created: 2022-12-09 06:54:36
+created: 2022-12-09T06:54:36+03:00
 source: ""
+related: []
+ListenInSec: 5
+CoverOf: ""
 ---
 
 # Paddy And The Rats - One Last Ale
