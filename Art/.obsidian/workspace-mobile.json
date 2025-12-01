@@ -33,9 +33,23 @@
               "icon": "lucide-file",
               "title": "Blue Lock 1 (🇯🇵📺 731)"
             }
+          },
+          {
+            "id": "11d98c30a95eac74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/One Punch Man 3 (🇯🇵📺 727).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "One Punch Man 3 (🇯🇵📺 727)"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -183,8 +197,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8b370adffb105144",
+  "active": "11d98c30a95eac74",
   "lastOpenFiles": [
+    "content/Blue Lock 1 (🇯🇵📺 731).md",
     "franchises/📚The Dark Pictures Anthology.md",
     "franchises/📚Колесо времени.md",
     "franchises/📚Атака титанов.md",
@@ -212,7 +227,6 @@
     "content/Elden Ring (🇯🇵🎮 251).md",
     "content/Mobile Legends Bang Bang (🇨🇳🎮 325).md",
     "content/Mouthwashing (🇸🇪🎮 970).md",
-    "content/Rhythm Tengoku (🇯🇵🎮 995).md",
     "covers/the_blind_watchmaker_book_cover.jpg",
     "covers/h2o_just_add_water_series_cover.jpg",
     "covers/star_wars_visions_1_anime_cover.jpg",
