@@ -9,7 +9,7 @@ aliases: ["distance"]
 created: 2024-06-14T15:54:16+03:00
 source: ""
 related: []
-ListenInSec: 4
+ListenInSec: 102
 CoverOf: ""
 ---
 

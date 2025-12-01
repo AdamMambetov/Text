@@ -9,7 +9,7 @@ NumberInAlbum: 2
 source: ""
 SourceFile: "[[LiSA - ADAMAS.mp3]]"
 related: []
-ListenInSec: 183
+ListenInSec: 184
 CoverOf: ""
 ---
 

@@ -6,8 +6,11 @@ NumberInAlbum: 1
 SourceFile: "[[Eminem - Lose Yourself.mp3]]"
 Year: 2002
 aliases: ["Lose Yourself"]
-created: 2022-04-26 19:43:30
+created: 2022-04-26T19:43:30+03:00
 source: ""
+related: []
+ListenInSec: 3
+CoverOf: ""
 ---
 
 # Eminem - Lose Yourself

@@ -6,8 +6,11 @@ NumberInAlbum: 11
 SourceFile: "[[Fall Out Boy - Twin Skeleton's (Hotel In NYC).mp3]]"
 Year: 2015
 aliases: ["Twin Skeleton's (Hotel In NYC)"]
-created: 2022-04-26 01:13:30
+created: 2022-04-26T01:13:30+03:00
 source: ""
+related: []
+ListenInSec: 2
+CoverOf: ""
 ---
 
 # Fall Out Boy - Twin Skeleton's (Hotel In NYC)

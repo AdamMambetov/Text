@@ -9,7 +9,7 @@ aliases: ["Your Turn To Die Ost .10-Majority Vote [EXTENDED]"]
 created: 2024-12-12T20:15:16+03:00
 source: ""
 related: []
-ListenInSec: 1
+ListenInSec: 567
 CoverOf: ""
 ---
 

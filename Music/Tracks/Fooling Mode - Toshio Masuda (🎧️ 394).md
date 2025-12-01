@@ -1,13 +1,16 @@
 ---
 Album: "[[NARUTO ORIGINAL SOUNDTRACK 2]]"
-Creators: ["[[Toshio Masuda]]"]
+Creators: []
 Cover: ""
 NumberInAlbum: 7
 SourceFile: "[[Naruto OST - Fooling Mode.mp3]]"
 Year: 2004
 aliases: ["Fooling Mode"]
-created: 2022-04-28 17:50:32
+created: 2022-04-28T17:50:32+03:00
 source: ""
+related: []
+ListenInSec: 8
+CoverOf: ""
 ---
 
 # Naruto OST - Fooling Mode

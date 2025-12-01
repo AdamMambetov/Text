@@ -6,8 +6,11 @@ NumberInAlbum: 4
 SourceFile: "[[Panic! At The Disco - Emperor's New Clothes.mp3]]"
 Year: 2016
 aliases: ["Emperor's New Clothes"]
-created: 2022-04-28 01:59:16
+created: 2022-04-28T01:59:16+03:00
 source: ""
+related: []
+ListenInSec: 17
+CoverOf: ""
 ---
 
 # Panic! At The Disco - Emperor's New Clothes

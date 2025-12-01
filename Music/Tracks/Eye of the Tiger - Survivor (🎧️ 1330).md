@@ -9,7 +9,7 @@ aliases: ["Eye of the Tiger"]
 created: 2024-10-23T15:10:26+03:00
 source: ""
 related: []
-ListenInSec: 2
+ListenInSec: 66
 CoverOf: ""
 ---
 

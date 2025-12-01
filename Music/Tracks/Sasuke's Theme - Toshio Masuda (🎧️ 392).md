@@ -1,13 +1,16 @@
 ---
 Album: "[[NARUTO ORIGINAL SOUNDTRACK 2]]"
-Creators: ["[[Toshio Masuda]]"]
+Creators: []
 Cover: ""
 NumberInAlbum: 4
 SourceFile: "[[Naruto OST - Sasuke's Theme.mp3]]"
 Year: 2004
 aliases: ["Sasuke's Theme"]
-created: 2022-04-28 17:50:24
+created: 2022-04-28T17:50:24+03:00
 source: ""
+related: []
+ListenInSec: 7
+CoverOf: ""
 ---
 
 # Naruto OST - Sasuke's Theme

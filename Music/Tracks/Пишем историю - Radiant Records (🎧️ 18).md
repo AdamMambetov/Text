@@ -10,7 +10,7 @@ Year: 0
 Album: ""
 NumberInAlbum: 0
 related: []
-ListenInSec: 24
+ListenInSec: 200
 ---
 
 # Пишем историю

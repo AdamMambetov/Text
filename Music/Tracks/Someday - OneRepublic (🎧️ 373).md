@@ -6,8 +6,11 @@ NumberInAlbum: 3
 SourceFile: "[[OneRepublic - Someday.mp3]]"
 Year: 2021
 aliases: ["Someday"]
-created: 2022-04-28 17:23:10
+created: 2022-04-28T17:23:10+03:00
 source: ""
+related: []
+ListenInSec: 2
+CoverOf: ""
 ---
 
 # OneRepublic - Someday

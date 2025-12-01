@@ -1,5 +1,5 @@
 ---
-created: 2022-04-26 19:56:02
+created: 2022-04-26T19:56:02+03:00
 aliases: ["The Phoenix"]
 Cover: ""
 Year: 2013
@@ -8,6 +8,9 @@ Creators: ["[[Fall Out Boy (🎙️ 308)]]"]
 NumberInAlbum: 1
 source: ""
 SourceFile: "[[Fall Out Boy - The Phoenix.mp3]]"
+related: []
+ListenInSec: 4
+CoverOf: ""
 ---
 
 # Fall Out Boy - The Phoenix

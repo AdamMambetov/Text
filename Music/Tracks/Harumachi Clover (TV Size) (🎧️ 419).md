@@ -6,8 +6,11 @@ NumberInAlbum: 1
 SourceFile: "[[Hanasaka Yui - Harumachi Clover (TV Size).mp3]]"
 Year: 0
 aliases: []
-created: 2022-05-02 03:18:22
+created: 2022-05-02T03:18:22+03:00
 source: ""
+related: []
+ListenInSec: 34
+CoverOf: ""
 ---
 
 # Hanasaka Yui - Harumachi Clover (TV Size)

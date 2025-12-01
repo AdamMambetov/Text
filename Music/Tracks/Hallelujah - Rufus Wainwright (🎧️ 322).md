@@ -1,13 +1,16 @@
 ---
 Album: "[[Shrek [2001]]]"
-Creators: ["[[Rufus Wainwright]]"]
+Creators: []
 Cover: ""
 NumberInAlbum: 10
 SourceFile: "[[Rufus Wainwright - Hallelujah.mp3]]"
 Year: 2001
 aliases: ["Hallelujah"]
-created: 2022-04-23 02:37:28
+created: 2022-04-23T02:37:28+03:00
 source: ""
+related: []
+ListenInSec: 12
+CoverOf: ""
 ---
 
 # Rufus Wainwright - Hallelujah

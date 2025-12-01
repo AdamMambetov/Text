@@ -1,13 +1,16 @@
 ---
 Album: "[[NARUTO ORIGINAL SOUNDTRACK 2]]"
-Creators: ["[[Musashi Project]]"]
+Creators: []
 Cover: ""
 NumberInAlbum: 12
 SourceFile: "[[Naruto OST - Orochimaru's Theme.mp3]]"
 Year: 2004
 aliases: ["Orochimaru's Theme"]
-created: 2022-04-28 17:50:48
+created: 2022-04-28T17:50:48+03:00
 source: ""
+related: []
+ListenInSec: 22
+CoverOf: ""
 ---
 
 # Naruto OST - Orochimaru's Theme
