@@ -6,8 +6,11 @@ NumberInAlbum: 2
 SourceFile: "[[Adelitas Way - Drifting.mp3]]"
 Year: 2018
 aliases: ["Drifting"]
-created: 2024-06-21 05:20:20
+created: 2024-06-21T05:20:20+03:00
 source: ""
+related: []
+ListenInSec: 1
+CoverOf: ""
 ---
 
 # Adelitas Way - Drifting

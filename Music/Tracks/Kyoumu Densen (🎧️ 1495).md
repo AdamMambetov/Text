@@ -6,8 +6,11 @@ NumberInAlbum: 1
 SourceFile: "[[ALI PROJECT - Kyoumu Densen.mp3]]"
 Year: 0
 aliases: ["Kyoumu Densen"]
-created: 2025-01-08 01:29:32
+created: 2025-01-08T01:29:32+03:00
 source: ""
+related: []
+ListenInSec: 9
+CoverOf: ""
 ---
 
 # ALI PROJECT - Kyoumu Densen

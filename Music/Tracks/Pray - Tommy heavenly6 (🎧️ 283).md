@@ -9,7 +9,7 @@ aliases: ["Pray"]
 created: 2022-04-22T21:48:58+03:00
 source: ""
 related: []
-ListenInSec: 249
+ListenInSec: 256
 CoverOf: ""
 ---
 

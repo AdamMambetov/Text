@@ -6,8 +6,11 @@ NumberInAlbum: 5
 SourceFile: "[[Beast In Black - Die By The Blade.mp3]]"
 Year: 2019
 aliases: ["Die By The Blade"]
-created: 2023-07-09 18:49:58
+created: 2023-07-09T18:49:58+03:00
 source: ""
+related: []
+ListenInSec: 4
+CoverOf: ""
 ---
 
 # Beast In Black - Die By The Blade

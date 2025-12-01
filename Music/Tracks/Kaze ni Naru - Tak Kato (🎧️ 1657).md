@@ -9,7 +9,7 @@ aliases: ["Kaze ni Naru"]
 created: 2025-02-03T08:24:20+03:00
 source: ""
 related: []
-ListenInSec: 241
+ListenInSec: 245
 CoverOf: ""
 ---
 

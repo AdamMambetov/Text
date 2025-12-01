@@ -1,13 +1,16 @@
 ---
 Album: "[[Symphony Of Light]]"
-Creators: ["[[The Dark Tenor]]"]
+Creators: []
 Cover: ""
 NumberInAlbum: 4
 SourceFile: "[[The Dark Tenor - Love Is Light.mp3]]"
 Year: 2015
 aliases: ["Love Is Light"]
-created: 2022-12-09 06:55:36
+created: 2022-12-09T06:55:36+03:00
 source: ""
+related: []
+ListenInSec: 99
+CoverOf: ""
 ---
 
 # The Dark Tenor - Love Is Light

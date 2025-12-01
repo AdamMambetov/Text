@@ -8,7 +8,7 @@ Creators: ["[[The Weeknd (🎙️ 467)]]"]
 Cover: ""
 NumberInAlbum: 0
 related: []
-ListenInSec: 74
+ListenInSec: 90
 CoverOf: ""
 ---
 

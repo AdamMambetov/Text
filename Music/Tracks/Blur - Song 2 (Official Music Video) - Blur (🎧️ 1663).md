@@ -8,7 +8,7 @@ Creators: ["[[Blur (🎙️ 232)]]"]
 Cover: ""
 NumberInAlbum: 0
 related: []
-ListenInSec: 1
+ListenInSec: 23
 CoverOf: ""
 ---
 

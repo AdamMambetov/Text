@@ -9,7 +9,7 @@ NumberInAlbum: 1
 source: ""
 SourceFile: "[[HOMM V OST - Haven Town.mp3]]"
 related: []
-ListenInSec: 16
+ListenInSec: 22
 CoverOf: ""
 ---
 

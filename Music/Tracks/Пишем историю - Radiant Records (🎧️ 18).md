@@ -5,6 +5,12 @@ CoverOf: "[[🎵Dean Fujioka - History Maker]]"
 Creators: ["[[Radiant Records (🎙️ 39)]]", "[[Radiant (🎙️ 40)]]"]
 source: ""
 SourceFile: "[[Radiant Records - Пишем историю.mp3]]"
+Cover: ""
+Year: 0
+Album: ""
+NumberInAlbum: 0
+related: []
+ListenInSec: 24
 ---
 
 # Пишем историю

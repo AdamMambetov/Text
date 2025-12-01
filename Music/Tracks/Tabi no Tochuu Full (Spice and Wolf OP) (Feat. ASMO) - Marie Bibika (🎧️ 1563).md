@@ -9,7 +9,7 @@ aliases: ["Tabi no Tochuu [Full] (Spice and Wolf OP) (Feat. ASMO)"]
 created: 2025-01-08T19:09:56+03:00
 source: ""
 related: []
-ListenInSec: 270
+ListenInSec: 275
 CoverOf: ""
 ---
 

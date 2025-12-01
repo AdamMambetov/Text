@@ -6,8 +6,11 @@ NumberInAlbum: 1
 SourceFile: "[[Will Stetson - Senbonzakura.mp3]]"
 Year: 0
 aliases: []
-created: 2025-01-08 18:21:30
+created: 2025-01-08T18:21:30+03:00
 source: ""
+related: []
+ListenInSec: 8
+CoverOf: ""
 ---
 
 # Will Stetson - Senbonzakura

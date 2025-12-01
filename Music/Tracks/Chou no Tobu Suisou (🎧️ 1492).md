@@ -6,8 +6,11 @@ NumberInAlbum: 1
 SourceFile: "[[TK from Ling tosite sigure - Chou no Tobu Suisou.mp3]]"
 Year: 0
 aliases: []
-created: 2025-01-08 01:22:10
+created: 2025-01-08T01:22:10+03:00
 source: ""
+related: []
+ListenInSec: 3
+CoverOf: ""
 ---
 
 # TK from Ling tosite sigure - Chou no Tobu Suisou

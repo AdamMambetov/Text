@@ -9,7 +9,7 @@ aliases: ["Kokou no Sousei"]
 created: 2025-01-27T19:49:42+03:00
 source: ""
 related: []
-ListenInSec: 289
+ListenInSec: 298
 CoverOf: ""
 ---
 

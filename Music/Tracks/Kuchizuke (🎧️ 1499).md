@@ -9,7 +9,7 @@ aliases: ["Kuchizuke"]
 created: 2025-01-08T01:53:00+03:00
 source: ""
 related: []
-ListenInSec: 245
+ListenInSec: 257
 CoverOf: ""
 ---
 

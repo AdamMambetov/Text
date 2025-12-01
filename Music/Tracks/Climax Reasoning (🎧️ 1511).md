@@ -6,8 +6,11 @@ NumberInAlbum: 1
 SourceFile: "[[Danganrnopa OST - 1-27- Climax Reasoning.mp3]]"
 Year: 0
 aliases: ["Climax Reasoning"]
-created: 2025-01-08 16:55:42
+created: 2025-01-08T16:55:42+03:00
 source: ""
+related: []
+ListenInSec: 2
+CoverOf: ""
 ---
 
 # Danganrnopa OST - 1-27- Climax Reasoning

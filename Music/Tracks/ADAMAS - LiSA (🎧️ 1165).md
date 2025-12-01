@@ -1,5 +1,5 @@
 ---
-created: 2024-10-08 15:37:46
+created: 2024-10-08T15:37:46+03:00
 aliases: ["ADAMAS"]
 Cover: ""
 Year: 2018
@@ -8,6 +8,9 @@ Creators: ["[[LiSA (🎙️ 65)]]"]
 NumberInAlbum: 2
 source: ""
 SourceFile: "[[LiSA - ADAMAS.mp3]]"
+related: []
+ListenInSec: 174
+CoverOf: ""
 ---
 
 # LiSA - ADAMAS

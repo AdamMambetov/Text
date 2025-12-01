@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Playlists/Favorites (💿 1).md",
+                "file": "Tracks/Blue Bird - Ikimonogakari (🎧️ 1493).md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Favorites (💿 1)"
+              "title": "Blue Bird - Ikimonogakari (🎧️ 1493)"
             }
           }
         ],
@@ -102,7 +102,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Playlists/Favorites (💿 1).md",
+            "file": "Tracks/Blue Bird - Ikimonogakari (🎧️ 1493).md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -141,8 +141,12 @@
   },
   "active": "edbc53258a9a522c",
   "lastOpenFiles": [
-    "Tracks/Insane - Black GryphOn (🎧️ 941).md",
     "Playlists/Favorites (💿 1).md",
+    "Playlists/Anime Endings (💿 5).md",
+    "Playlists/Anime Openings (💿 4).md",
+    "Playlists/Anime (💿 3).md",
+    "Playlists/osu! (💿 2).md",
+    "Tracks/Insane - Black GryphOn (🎧️ 941).md",
     "Tracks/Inochi no Tabekata - NotADub (🎧️ 1321).md",
     "Tracks/I'm Dangerous (🎧️ 716).md",
     "Tracks/Holiday - Green Day (🎧️ 136).md",
@@ -162,10 +166,6 @@
     "Tracks/Ориентир - Radiant Records (🎧️ 603).md",
     "Tracks/Неизвестная история - Radiant Records (🎧️ 11).md",
     "Tracks/Мелодия - sunny (🎧️ 1033).md",
-    "Tracks/Гнев - Radiant Records (🎧️ 16).md",
-    "Tracks/Врата - Radiant Records (🎧️ 1351).md",
-    "Tracks/Бесчувственный - Everblack Melodies (🎧️ 307).md",
-    "Tracks/Бесстрашие - Camellia (🎧️ 13).md",
-    "Tracks/Аромат подозрения - Luck Ganriki (🎧️ 1016).md"
+    "Tracks/Гнев - Radiant Records (🎧️ 16).md"
   ]
 }
