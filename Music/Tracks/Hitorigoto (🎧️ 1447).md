@@ -6,8 +6,11 @@ NumberInAlbum: 1
 SourceFile: "[[Sati Akura - Hitorigoto.mp3]]"
 Year: 0
 aliases: []
-created: 2025-01-07 23:44:24
+created: 2025-01-07T23:44:24+03:00
 source: ""
+related: []
+ListenInSec: 3
+CoverOf: ""
 ---
 
 # Sati Akura - Hitorigoto

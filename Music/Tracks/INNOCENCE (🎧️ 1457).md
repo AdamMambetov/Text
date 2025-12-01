@@ -6,8 +6,11 @@ NumberInAlbum: 1
 SourceFile: "[[Aoi Eri - INNOCENCE.mp3]]"
 Year: 0
 aliases: ["INNOCENCE"]
-created: 2025-01-08 00:20:56
+created: 2025-01-08T00:20:56+03:00
 source: ""
+related: []
+ListenInSec: 5
+CoverOf: ""
 ---
 
 # Aoi Eri - INNOCENCE

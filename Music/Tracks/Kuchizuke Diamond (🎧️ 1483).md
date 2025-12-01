@@ -6,8 +6,11 @@ NumberInAlbum: 1
 SourceFile: "[[WEAVER - Kuchizuke Diamond.mp3]]"
 Year: 0
 aliases: []
-created: 2025-01-08 01:10:04
+created: 2025-01-08T01:10:04+03:00
 source: ""
+related: []
+ListenInSec: 4
+CoverOf: ""
 ---
 
 # WEAVER - Kuchizuke Diamond
