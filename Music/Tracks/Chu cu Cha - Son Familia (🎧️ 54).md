@@ -1,13 +1,16 @@
 ---
 Album: "[[Sonfamilia]]"
-Creators: ["[[Son Familia]]"]
+Creators: []
 Cover: ""
 NumberInAlbum: 0
 SourceFile: "[[Son Familia - Chu cu Cha.mp3]]"
 Year: 0
 aliases: ["Chu cu Cha"]
-created: 2022-04-21 01:53:56
+created: 2022-04-21T01:53:56+03:00
 source: ""
+related: []
+ListenInSec: 7
+CoverOf: ""
 ---
 
 # Son Familia - Chu cu Cha

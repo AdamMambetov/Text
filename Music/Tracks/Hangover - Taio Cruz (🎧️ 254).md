@@ -9,7 +9,7 @@ aliases: ["Hangover"]
 created: 2022-04-22T21:38:56+03:00
 source: ""
 related: []
-ListenInSec: 1
+ListenInSec: 4
 CoverOf: ""
 ---
 

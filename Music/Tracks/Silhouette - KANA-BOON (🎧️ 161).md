@@ -6,8 +6,11 @@ NumberInAlbum: 10
 SourceFile: "[[KANA-BOON - Silhouette.mp3]]"
 Year: 2020
 aliases: ["Silhouette"]
-created: 2022-04-22 20:59:36
+created: 2022-04-22T20:59:36+03:00
 source: ""
+related: []
+ListenInSec: 6
+CoverOf: ""
 ---
 
 # KANA-BOON - Silhouette

@@ -6,8 +6,11 @@ NumberInAlbum: 0
 SourceFile: "[[Panic! At The Disco - Mercenary.mp3]]"
 Year: 0
 aliases: ["Mercenary"]
-created: 2022-04-21 01:52:36
+created: 2022-04-21T01:52:36+03:00
 source: ""
+related: []
+ListenInSec: 2
+CoverOf: ""
 ---
 
 # Panic! At The Disco - Mercenary

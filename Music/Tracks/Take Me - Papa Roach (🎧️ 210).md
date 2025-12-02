@@ -6,8 +6,11 @@ NumberInAlbum: 4
 SourceFile: "[[Papa Roach - Take Me.mp3]]"
 Year: 2004
 aliases: ["Take Me"]
-created: 2022-04-22 21:19:26
+created: 2022-04-22T21:19:26+03:00
 source: ""
+related: []
+ListenInSec: 2
+CoverOf: ""
 ---
 
 # Papa Roach - Take Me

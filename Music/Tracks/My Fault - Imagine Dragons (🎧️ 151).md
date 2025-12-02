@@ -6,8 +6,11 @@ NumberInAlbum: 14
 SourceFile: "[[Imagine Dragons - My Fault.mp3]]"
 Year: 2013
 aliases: ["My Fault"]
-created: 2022-04-22 20:55:14
+created: 2022-04-22T20:55:14+03:00
 source: ""
+related: []
+ListenInSec: 2
+CoverOf: ""
 ---
 
 # Imagine Dragons - My Fault

@@ -1,13 +1,16 @@
 ---
 Album: "[[TaKillYa [2017] {Vinnie Maniscalco}]]"
-Creators: ["[[Vinnie Maniscalco]]"]
+Creators: []
 Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[Vinnie Maniscalco - TaKillYa.mp3]]"
 Year: 2017
 aliases: ["TaKillYa"]
-created: 2022-04-22 21:50:44
+created: 2022-04-22T21:50:44+03:00
 source: ""
+related: []
+ListenInSec: 1
+CoverOf: ""
 ---
 
 # Vinnie Maniscalco - TaKillYa

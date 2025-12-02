@@ -6,8 +6,11 @@ NumberInAlbum: 1
 SourceFile: "[[Louis Armstrong - What A Wonderful World.mp3]]"
 Year: 1998
 aliases: ["What A Wonderful World"]
-created: 2022-04-22 21:05:36
+created: 2022-04-22T21:05:36+03:00
 source: ""
+related: []
+ListenInSec: 133
+CoverOf: ""
 ---
 
 # Louis Armstrong - What A Wonderful World

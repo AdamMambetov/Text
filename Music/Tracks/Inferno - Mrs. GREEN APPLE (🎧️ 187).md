@@ -6,8 +6,11 @@ NumberInAlbum: 3
 SourceFile: "[[Mrs. GREEN APPLE - Inferno.mp3]]"
 Year: 2019
 aliases: ["Inferno"]
-created: 2022-04-22 21:11:00
+created: 2022-04-22T21:11:00+03:00
 source: ""
+related: []
+ListenInSec: 7
+CoverOf: ""
 ---
 
 # Mrs. GREEN APPLE - Inferno

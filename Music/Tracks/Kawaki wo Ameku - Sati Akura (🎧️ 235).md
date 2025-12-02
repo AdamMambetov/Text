@@ -6,8 +6,11 @@ NumberInAlbum: 1
 SourceFile: "[[Sati Akura - Kawaki wo Ameku.mp3]]"
 Year: 2021
 aliases: ["Kawaki wo Ameku"]
-created: 2022-04-22 21:30:56
+created: 2022-04-22T21:30:56+03:00
 source: ""
+related: []
+ListenInSec: 2
+CoverOf: ""
 ---
 
 # Sati Akura - Kawaki wo Ameku

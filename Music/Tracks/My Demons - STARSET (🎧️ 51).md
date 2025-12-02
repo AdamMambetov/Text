@@ -1,13 +1,16 @@
 ---
 Album: "[[Transmissions]]"
-Creators: ["[[STARSET]]"]
+Creators: []
 Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[STARSET - My Demons.mp3]]"
 Year: 0
 aliases: ["My Demons"]
-created: 2022-04-21 01:53:40
+created: 2022-04-21T01:53:40+03:00
 source: ""
+related: []
+ListenInSec: 2
+CoverOf: ""
 ---
 
 # STARSET - My Demons

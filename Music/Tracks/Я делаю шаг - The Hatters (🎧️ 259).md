@@ -6,8 +6,11 @@ NumberInAlbum: 4
 SourceFile: "[[The Hatters - Я делаю шаг.mp3]]"
 Year: 2020
 aliases: ["Я делаю шаг"]
-created: 2022-04-22 21:39:58
+created: 2022-04-22T21:39:58+03:00
 source: ""
+related: []
+ListenInSec: 2
+CoverOf: ""
 ---
 
 # The Hatters - Я делаю шаг

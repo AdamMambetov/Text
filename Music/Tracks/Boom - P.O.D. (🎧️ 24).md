@@ -1,5 +1,5 @@
 ---
-created: 2022-04-21 01:52:06
+created: 2022-04-21T01:52:06+03:00
 aliases: ["Boom"]
 Cover: ""
 Year: 2018
@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[P.O.D. - Boom.mp3]]"
 related: []
-ListenInSec: 0
+ListenInSec: 3
 CoverOf: ""
 ---
 

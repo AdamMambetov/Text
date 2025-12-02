@@ -1,5 +1,5 @@
 ---
-created: 2022-04-22 20:51:30
+created: 2022-04-22T20:51:30+03:00
 aliases: ["Gravity"]
 Cover: ""
 Year: 2015
@@ -8,6 +8,9 @@ Creators: ["[[Hollywood Undead (🎙️ 332)]]"]
 NumberInAlbum: 7
 source: ""
 SourceFile: "[[Hollywood Undead - Gravity.mp3]]"
+related: []
+ListenInSec: 2
+CoverOf: ""
 ---
 
 # Hollywood Undead - Gravity

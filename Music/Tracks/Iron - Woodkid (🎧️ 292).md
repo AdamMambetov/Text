@@ -6,8 +6,11 @@ NumberInAlbum: 1
 SourceFile: "[[Woodkid - Iron.mp3]]"
 Year: 2011
 aliases: ["Iron"]
-created: 2022-04-22 21:51:30
+created: 2022-04-22T21:51:30+03:00
 source: ""
+related: []
+ListenInSec: 2
+CoverOf: ""
 ---
 
 # Woodkid - Iron

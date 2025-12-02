@@ -9,7 +9,7 @@ aliases: ["Die, Die My Darling"]
 created: 2022-04-21T01:52:40+03:00
 source: ""
 related: []
-ListenInSec: 2
+ListenInSec: 4
 CoverOf: ""
 ---
 

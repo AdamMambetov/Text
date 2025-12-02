@@ -6,8 +6,11 @@ NumberInAlbum: 5
 SourceFile: "[[Wavves - My Head Hurts.mp3]]"
 Year: 2015
 aliases: ["My Head Hurts"]
-created: 2022-04-22 21:51:06
+created: 2022-04-22T21:51:06+03:00
 source: ""
+related: []
+ListenInSec: 3
+CoverOf: ""
 ---
 
 # Wavves - My Head Hurts

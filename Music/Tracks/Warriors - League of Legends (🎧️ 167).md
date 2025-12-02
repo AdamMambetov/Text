@@ -6,8 +6,11 @@ NumberInAlbum: 1
 SourceFile: "[[League of Legends - Warriors.mp3]]"
 Year: 2020
 aliases: ["Warriors"]
-created: 2022-04-22 21:02:24
+created: 2022-04-22T21:02:24+03:00
 source: ""
+related: []
+ListenInSec: 6
+CoverOf: ""
 ---
 
 # League of Legends - Warriors

@@ -6,8 +6,11 @@ NumberInAlbum: 2
 SourceFile: "[[Three Days Grace - Pain.mp3]]"
 Year: 2006
 aliases: ["Pain"]
-created: 2022-04-22 21:47:32
+created: 2022-04-22T21:47:32+03:00
 source: ""
+related: []
+ListenInSec: 1
+CoverOf: ""
 ---
 
 # Three Days Grace - Pain

@@ -6,8 +6,11 @@ NumberInAlbum: 11
 SourceFile: "[[My Chemical Romance - Teenagers.mp3]]"
 Year: 2016
 aliases: ["Teenagers"]
-created: 2022-04-22 21:11:42
+created: 2022-04-22T21:11:42+03:00
 source: ""
+related: []
+ListenInSec: 1
+CoverOf: ""
 ---
 
 # My Chemical Romance - Teenagers

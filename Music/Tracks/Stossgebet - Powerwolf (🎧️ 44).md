@@ -1,5 +1,5 @@
 ---
-created: 2022-04-21 01:53:02
+created: 2022-04-21T01:53:02+03:00
 aliases: ["Stossgebet"]
 Cover: ""
 Year: 0
@@ -8,6 +8,9 @@ Creators: ["[[Powerwolf (🎙️ 420)]]"]
 NumberInAlbum: 0
 source: ""
 SourceFile: "[[Powerwolf - Stossgebet.mp3]]"
+related: []
+ListenInSec: 2
+CoverOf: ""
 ---
 
 # Powerwolf - Stossgebet

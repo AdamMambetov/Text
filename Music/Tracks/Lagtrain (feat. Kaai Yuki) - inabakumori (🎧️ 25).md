@@ -1,15 +1,15 @@
 ---
-created: 2022-04-21 01:52:24
+created: 2022-04-21T01:52:24+03:00
 aliases: ["Lagtrain"]
 Cover: ""
 Year: 0
 Album: "[[Lagtrain]]"
-Creators: ["[[inabakumori (🎙️ 338)]]", "[[Kaai Yuki]]"]
+Creators: ["[[inabakumori (🎙️ 338)]]"]
 NumberInAlbum: 0
 source: ""
 SourceFile: "[[inabakumori - Lagtrain.mp3]]"
 related: []
-ListenInSec: 0
+ListenInSec: 10
 CoverOf: ""
 ---
 

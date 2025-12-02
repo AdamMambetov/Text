@@ -6,8 +6,11 @@ NumberInAlbum: 7
 SourceFile: "[[Sum 41 - War.mp3]]"
 Year: 2016
 aliases: ["War"]
-created: 2022-04-22 21:38:42
+created: 2022-04-22T21:38:42+03:00
 source: ""
+related: []
+ListenInSec: 2
+CoverOf: ""
 ---
 
 # Sum 41 - War

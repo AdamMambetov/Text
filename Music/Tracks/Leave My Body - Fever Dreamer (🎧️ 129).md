@@ -1,13 +1,16 @@
 ---
 Album: "[[Florence + The Sphinx: Sumerian Ceremonials - A Tribute to Florence + The Machine [2014] {Fever Dreamer}]]"
-Creators: ["[[Fever Dreamer]]"]
+Creators: []
 Cover: ""
 NumberInAlbum: 6
 SourceFile: "[[Fever Dreamer - Leave My Body.mp3]]"
 Year: 2014
 aliases: ["Leave My Body"]
-created: 2022-04-22 20:45:16
+created: 2022-04-22T20:45:16+03:00
 source: ""
+related: []
+ListenInSec: 14
+CoverOf: ""
 ---
 
 # Fever Dreamer - Leave My Body

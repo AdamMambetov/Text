@@ -6,8 +6,11 @@ NumberInAlbum: 0
 SourceFile: "[[Powerwolf - Killers with the Cross.mp3]]"
 Year: 0
 aliases: ["Killers with the Cross"]
-created: 2022-04-21 01:53:00
+created: 2022-04-21T01:53:00+03:00
 source: ""
+related: []
+ListenInSec: 5
+CoverOf: ""
 ---
 
 # Powerwolf - Killers with the Cross

@@ -9,7 +9,7 @@ aliases: ["Hands Up"]
 created: 2022-04-22T21:09:32+03:00
 source: ""
 related: []
-ListenInSec: 3
+ListenInSec: 10
 CoverOf: ""
 ---
 

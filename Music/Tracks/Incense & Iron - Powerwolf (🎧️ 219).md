@@ -6,8 +6,11 @@ NumberInAlbum: 4
 SourceFile: "[[Powerwolf - Incense & Iron.mp3]]"
 Year: 2018
 aliases: ["Incense & Iron"]
-created: 2022-04-22 21:22:24
+created: 2022-04-22T21:22:24+03:00
 source: ""
+related: []
+ListenInSec: 3
+CoverOf: ""
 ---
 
 # Powerwolf - Incense & Iron

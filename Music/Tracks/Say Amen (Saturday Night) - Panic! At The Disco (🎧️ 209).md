@@ -6,8 +6,11 @@ NumberInAlbum: 2
 SourceFile: "[[Panic! At The Disco - Say Amen (Saturday Night).mp3]]"
 Year: 2018
 aliases: ["Say Amen (Saturday Night)"]
-created: 2022-04-22 21:19:12
+created: 2022-04-22T21:19:12+03:00
 source: ""
+related: []
+ListenInSec: 9
+CoverOf: ""
 ---
 
 # Panic! At The Disco - Say Amen (Saturday Night)

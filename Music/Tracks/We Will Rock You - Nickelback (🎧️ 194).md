@@ -6,8 +6,11 @@ NumberInAlbum: 3
 SourceFile: "[[Nickelback - We Will Rock You.mp3]]"
 Year: 2008
 aliases: ["We Will Rock You"]
-created: 2022-04-22 21:13:28
+created: 2022-04-22T21:13:28+03:00
 source: ""
+related: []
+ListenInSec: 2
+CoverOf: ""
 ---
 
 # Nickelback - We Will Rock You

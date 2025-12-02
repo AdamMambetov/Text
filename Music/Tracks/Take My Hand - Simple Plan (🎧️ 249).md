@@ -6,8 +6,11 @@ NumberInAlbum: 2
 SourceFile: "[[Simple Plan - Take My Hand.mp3]]"
 Year: 2008
 aliases: ["Take My Hand"]
-created: 2022-04-22 21:34:22
+created: 2022-04-22T21:34:22+03:00
 source: ""
+related: []
+ListenInSec: 1
+CoverOf: ""
 ---
 
 # Simple Plan - Take My Hand

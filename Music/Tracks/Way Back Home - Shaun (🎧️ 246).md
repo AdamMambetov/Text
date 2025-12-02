@@ -1,13 +1,16 @@
 ---
 Album: "[[Take [2018] {Shaun}]]"
-Creators: ["[[Shaun]]"]
+Creators: []
 Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[Shaun - Way Back Home.mp3]]"
 Year: 2018
 aliases: ["Way Back Home"]
-created: 2022-04-22 21:33:50
+created: 2022-04-22T21:33:50+03:00
 source: ""
+related: []
+ListenInSec: 2
+CoverOf: ""
 ---
 
 # Shaun - Way Back Home

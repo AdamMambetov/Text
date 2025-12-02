@@ -6,8 +6,11 @@ NumberInAlbum: 18
 SourceFile: "[[Vere Dictum - Эффект соляриса.mp3]]"
 Year: 2020
 aliases: ["Эффект соляриса"]
-created: 2022-04-22 21:50:20
+created: 2022-04-22T21:50:20+03:00
 source: ""
+related: []
+ListenInSec: 1
+CoverOf: ""
 ---
 
 # Vere Dictum - Эффект соляриса

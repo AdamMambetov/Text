@@ -1,13 +1,16 @@
 ---
 Album: "[[Tonight]]"
-Creators: ["[[Sunset Neon]]"]
+Creators: []
 Cover: ""
 NumberInAlbum: 0
 SourceFile: "[[Sunset Neon - Tonight.mp3]]"
 Year: 0
 aliases: ["Tonight"]
-created: 2022-04-21 01:53:14
+created: 2022-04-21T01:53:14+03:00
 source: ""
+related: []
+ListenInSec: 2
+CoverOf: ""
 ---
 
 # Sunset Neon - Tonight

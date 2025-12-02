@@ -1,13 +1,16 @@
 ---
 Album: "[[Shatter Me [2014] {Lindsey Stirling}]]"
-Creators: ["[[Lindsey Stirling]]"]
+Creators: []
 Cover: ""
 NumberInAlbum: 6
 SourceFile: "[[Lindsey Stirling - Roundtable Rival.mp3]]"
 Year: 2014
 aliases: ["Roundtable Rival"]
-created: 2022-04-22 21:04:46
+created: 2022-04-22T21:04:46+03:00
 source: ""
+related: []
+ListenInSec: 10
+CoverOf: ""
 ---
 
 # Lindsey Stirling - Roundtable Rival

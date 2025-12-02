@@ -1,5 +1,5 @@
 ---
-created: 2022-04-22 21:16:34
+created: 2022-04-22T21:16:34+03:00
 aliases: ["You Better Die Young"]
 Cover: ""
 Year: 2008
@@ -8,6 +8,9 @@ Creators: ["[[Nomy (🎙️ 398)]]"]
 NumberInAlbum: 3
 source: ""
 SourceFile: "[[Nomy - You Better Die Young.mp3]]"
+related: []
+ListenInSec: 3
+CoverOf: ""
 ---
 
 # Nomy - You Better Die Young

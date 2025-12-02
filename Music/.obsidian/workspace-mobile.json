@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tracks/Renai Circulation - Kana Hanazawa (🎧️ 319).md",
+                "file": "Playlists/Детство (💿 8).md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Renai Circulation - Kana Hanazawa (🎧️ 319)"
+              "title": "Детство (💿 8)"
+            }
+          },
+          {
+            "id": "4f10e99a5ced55d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Playlists/Anime (💿 3).md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Anime (💿 3)"
             }
           }
         ]
@@ -87,7 +101,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Tracks/Dragonborn Song (🎧️ 1392).md",
+            "file": "Playlists/Детство (💿 8).md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -126,6 +140,13 @@
   },
   "active": "59fd4f79299bce04",
   "lastOpenFiles": [
+    "Playlists/Яндекс (💿 7).md",
+    "Playlists/Детство (💿 8).md",
+    "Playlists/100% Шедевр (💿 6).md",
+    "Playlists/Anime (💿 3).md",
+    "Tracks/Tomadoi Recipe (🎧️ 1639).md",
+    "Tracks/Tomadoi Recipe (TV Size) (🎧️ 1640).md",
+    "Tracks/Renai Circulation - Kana Hanazawa (🎧️ 319).md",
     "Playlists/Favorites (💿 1).md",
     "Creators/PanHeads Band (🎙️ 411).md",
     "Tracks/Проснулся и живой - PanHeads Band (🎧️ 445).md",
@@ -134,7 +155,6 @@
     "Tracks/Коматоз - PanHeads Band (🎧️ 438).md",
     "Tracks/Я хочу жить - PanHeads Band (🎧️ 564).md",
     "Tracks/Не умрем - PanHeads Band (🎧️ 568).md",
-    "Playlists/Anime (💿 3).md",
     "Tracks/Hotaru no Hikari - Ikimonogakari (🎧️ 10).md",
     "Tracks/Dragonborn Song (🎧️ 1392).md",
     "Tracks/Blue Bird - Ikimonogakari (🎧️ 1493).md",
@@ -145,12 +165,6 @@
     "Tracks/Inochi no Tabekata - NotADub (🎧️ 1321).md",
     "Tracks/I'm Dangerous (🎧️ 716).md",
     "Tracks/Holiday - Green Day (🎧️ 136).md",
-    "Tracks/Goya no Machiawase - Hello Sleepwalkers (🎧️ 35).md",
-    "Tracks/Get Out Alive - Three Days Grace (🎧️ 1373).md",
-    "Tracks/DARK SOULS III - Yuka Kitamura (🎧️ 757).md",
-    "Tracks/Black Bullet (🎧️ 1588).md",
-    "Tracks/Beautiful Morning (🎧️ 1510).md",
-    "Tracks/Школа мертвецов - Radiant Records (🎧️ 601).md",
-    "Tracks/Ты принёс мечту - Radiant Records (🎧️ 19).md"
+    "Tracks/Goya no Machiawase - Hello Sleepwalkers (🎧️ 35).md"
   ]
 }

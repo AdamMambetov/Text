@@ -6,8 +6,11 @@ NumberInAlbum: 1
 SourceFile: "[[RADIO TAPOK - Sonne.mp3]]"
 Year: 2020
 aliases: ["Солнце"]
-created: 2022-04-21 05:08:12
+created: 2022-04-21T05:08:12+03:00
 source: ""
+related: []
+ListenInSec: 1
+CoverOf: ""
 ---
 
 # RADIO TAPOK - Sonne

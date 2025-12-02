@@ -6,8 +6,11 @@ NumberInAlbum: 1
 SourceFile: "[[Pigeon John - The Bomb.mp3]]"
 Year: 2011
 aliases: ["The Bomb - Single version"]
-created: 2022-04-22 21:20:18
+created: 2022-04-22T21:20:18+03:00
 source: ""
+related: []
+ListenInSec: 2
+CoverOf: ""
 ---
 
 # Pigeon John - The Bomb

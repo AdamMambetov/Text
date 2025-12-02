@@ -6,8 +6,11 @@ NumberInAlbum: 1
 SourceFile: "[[Imagine Dragons - Radioactive.mp3]]"
 Year: 2013
 aliases: ["Radioactive"]
-created: 2022-04-22 20:55:36
+created: 2022-04-22T20:55:36+03:00
 source: ""
+related: []
+ListenInSec: 1
+CoverOf: ""
 ---
 
 # Imagine Dragons - Radioactive

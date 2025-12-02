@@ -6,8 +6,11 @@ NumberInAlbum: 1
 SourceFile: "[[Will Stetson - Lagtrain.mp3]]"
 Year: 0
 aliases: ["Lagtrain"]
-created: 2022-04-21 01:53:42
+created: 2022-04-21T01:53:42+03:00
 source: ""
+related: []
+ListenInSec: 7
+CoverOf: ""
 ---
 
 # Will Stetson - Lagtrain
