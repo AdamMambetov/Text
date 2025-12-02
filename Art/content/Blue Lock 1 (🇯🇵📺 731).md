@@ -9,7 +9,7 @@ Rating:
   - "[[®️12|PG-13]]"
 Cover: "[[blue_lock_1_anime_cover.png]]"
 Year: 2022
-Episode: 11
+Episode: 13
 tags:
   - ❤
 related:
