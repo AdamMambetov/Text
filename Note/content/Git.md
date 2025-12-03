@@ -67,3 +67,11 @@ source: https://git-scm.com/
 ## Прочее
 
 ![[photo_382406_132 - 20231203173834308.jpg]]
+
+## Ошибки
+
+> [!error]- object file .git/objects/... is empty
+> [source](https://stackoverflow.com/questions/11706215/how-can-i-fix-the-git-error-object-file-is-empty)
+> ```bash
+> git fsck --full
+> ```
