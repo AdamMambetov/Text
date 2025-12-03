@@ -9,7 +9,7 @@ NumberInAlbum: 1
 source: ""
 SourceFile: "[[Death Note OST - 04 L's Theme.mp3]]"
 related: []
-ListenInSec: 5
+ListenInSec: 176
 CoverOf: ""
 ---
 

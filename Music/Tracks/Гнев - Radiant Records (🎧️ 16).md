@@ -10,7 +10,7 @@ Year: 0
 Album: ""
 NumberInAlbum: 0
 related: []
-ListenInSec: 18
+ListenInSec: 19
 ---
 
 # Гнев

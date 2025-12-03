@@ -9,7 +9,7 @@ aliases: ["Konohamaru's Theme"]
 created: 2022-04-28T17:50:36+03:00
 source: ""
 related: []
-ListenInSec: 10
+ListenInSec: 101
 CoverOf: ""
 ---
 

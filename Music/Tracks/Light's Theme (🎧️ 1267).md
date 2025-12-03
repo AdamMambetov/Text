@@ -9,7 +9,7 @@ NumberInAlbum: 1
 source: ""
 SourceFile: "[[Death Note OST - 03 Light's Theme.mp3]]"
 related: []
-ListenInSec: 4
+ListenInSec: 9
 CoverOf: ""
 ---
 
