@@ -1,7 +1,7 @@
 ---
-created: 2025-11-19T23:09:30+03:00
+created: 2025-11-19T23:09:30+0300
 aliases: ["Escape The Fate"]
-ListenInSec: 0
+ListenInSec: 87
 ---
 
 # Escape The Fate

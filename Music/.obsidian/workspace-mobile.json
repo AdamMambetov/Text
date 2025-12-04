@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Playlists/Anime (💿 3).md",
+                "file": "Playlists/100% Шедевр (💿 6).md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Anime (💿 3)"
+              "title": "100% Шедевр (💿 6)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,12 +139,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "59fd4f79299bce04",
+  "active": "4f10e99a5ced55d1",
   "lastOpenFiles": [
+    "Playlists/Anime (💿 3).md",
+    "Tracks/Птичья песнь - Radiant Records (🎧️ 21).md",
     "Playlists/100% Шедевр (💿 6).md",
     "Playlists/Детство (💿 8).md",
     "Playlists/Яндекс (💿 7).md",
-    "Playlists/Anime (💿 3).md",
     "Tracks/Tomadoi Recipe (🎧️ 1639).md",
     "Tracks/Tomadoi Recipe (TV Size) (🎧️ 1640).md",
     "Tracks/Renai Circulation - Kana Hanazawa (🎧️ 319).md",
@@ -164,7 +166,6 @@
     "Tracks/Insane - Black GryphOn (🎧️ 941).md",
     "Tracks/Inochi no Tabekata - NotADub (🎧️ 1321).md",
     "Tracks/I'm Dangerous (🎧️ 716).md",
-    "Tracks/Holiday - Green Day (🎧️ 136).md",
-    "Tracks/Goya no Machiawase - Hello Sleepwalkers (🎧️ 35).md"
+    "Tracks/Holiday - Green Day (🎧️ 136).md"
   ]
 }

@@ -10,7 +10,7 @@ NumberInAlbum: 1
 source: ""
 SourceFile: "[[Eve - Mabel.mp3]]"
 related: []
-ListenInSec: 2
+ListenInSec: 180
 ---
 
 # Eve - Mabel

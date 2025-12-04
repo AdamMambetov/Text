@@ -1,7 +1,7 @@
 ---
-created: 2025-11-19T22:46:52+03:00
+created: 2025-11-19T22:46:52+0300
 aliases: ["Broder"]
-ListenInSec: 0
+ListenInSec: 31
 ---
 
 # Broder

@@ -1,7 +1,7 @@
 ---
-created: 2025-11-19T22:54:37+03:00
+created: 2025-11-19T22:54:37+0300
 aliases: ["cYsmix"]
-ListenInSec: 0
+ListenInSec: 154
 ---
 
 # cYsmix

@@ -1,7 +1,7 @@
 ---
-created: 2025-11-20T00:30:41+03:00
+created: 2025-11-20T00:30:41+0300
 aliases: ["Three Days Grace"]
-ListenInSec: 0
+ListenInSec: 1
 ---
 
 # Three Days Grace
