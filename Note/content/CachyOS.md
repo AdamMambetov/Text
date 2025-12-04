@@ -140,3 +140,15 @@ UUID=YOUR_UUID_HERE  /mnt/mydrive  YOUR_FILESYSTEM_TYPE  defaults,nofail  0  2
 1. Скачать [[TLauncher]] с [официального сайта](https://tlauncher.ru/). В версии для линукс выбираем "Показать все версии" и скачиваем "Прямой JAR"
 2. Извлечь архив
 3. `java -jar ./TLauncher.jar`
+
+## Как перезагрузить Waybar
+
+```bash
+killall waybar && hyprctl dispatch execr waybar
+```
+
+или
+
+```bash
+pkill waybar && hyprctl dispatch exec waybar
+```
