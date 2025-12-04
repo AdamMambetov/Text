@@ -3,17 +3,18 @@ created: 2024-11-04T14:21:41+03:00
 aliases:
   - "Синяя тюрьма: Блю Лок"
   - Blue Lock
-Status: watch
+Status: complete
 Type: anime
 Rating:
   - "[[®️12|PG-13]]"
 Cover: "[[blue_lock_1_anime_cover.png]]"
 Year: 2022
-Episode: 13
+Episode: 24
 tags:
   - ❤
 related:
   - "[[@Дмитрий Кесида]]"
+Views: 1
 ---
 
 # Синяя тюрьма: Блю Лок
