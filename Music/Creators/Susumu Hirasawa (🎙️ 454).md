@@ -1,7 +1,7 @@
 ---
-created: 2025-11-20T00:24:02+03:00
+created: 2025-11-20T00:24:02+0300
 aliases: ["Susumu Hirasawa"]
-ListenInSec: 0
+ListenInSec: 273
 ---
 
 # Susumu Hirasawa

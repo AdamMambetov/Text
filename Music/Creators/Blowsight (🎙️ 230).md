@@ -1,7 +1,7 @@
 ---
-created: 2025-11-19T22:45:49+03:00
+created: 2025-11-19T22:45:49+0300
 aliases: ["Blowsight"]
-ListenInSec: 0
+ListenInSec: 9
 ---
 
 # Blowsight

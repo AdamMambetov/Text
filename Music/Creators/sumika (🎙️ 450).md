@@ -1,7 +1,7 @@
 ---
-created: 2025-11-20T00:18:43+03:00
+created: 2025-11-20T00:18:43+0300
 aliases: ["sumika"]
-ListenInSec: 0
+ListenInSec: 97
 ---
 
 # sumika

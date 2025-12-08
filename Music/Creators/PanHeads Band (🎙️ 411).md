@@ -1,7 +1,7 @@
 ---
-created: 2025-11-20T00:01:39+03:00
+created: 2025-11-20T00:01:39+0300
 aliases: ["PanHeads Band"]
-ListenInSec: 0
+ListenInSec: 3
 ---
 
 # PanHeads Band
