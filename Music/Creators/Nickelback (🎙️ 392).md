@@ -1,7 +1,7 @@
 ---
-created: 2025-11-19T23:56:20+03:00
+created: 2025-11-19T23:56:20+0300
 aliases: ["Nickelback"]
-ListenInSec: 0
+ListenInSec: 48
 ---
 
 # Nickelback

@@ -1,7 +1,7 @@
 ---
-created: 2025-11-19T22:48:40+03:00
+created: 2025-11-19T22:48:40+0300
 aliases: ["Nanahira"]
-ListenInSec: 0
+ListenInSec: 6
 ---
 
 # Nanahira

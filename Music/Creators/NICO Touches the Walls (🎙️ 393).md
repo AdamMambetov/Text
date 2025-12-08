@@ -1,7 +1,7 @@
 ---
-created: 2025-11-19T23:56:39+03:00
+created: 2025-11-19T23:56:39+0300
 aliases: ["NICO Touches the Walls"]
-ListenInSec: 0
+ListenInSec: 6
 ---
 
 # NICO Touches the Walls

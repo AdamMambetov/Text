@@ -1,7 +1,7 @@
 ---
-created: 2025-11-19T23:14:44+03:00
+created: 2025-11-19T23:14:44+0300
 aliases: ["Go Sakabe"]
-ListenInSec: 0
+ListenInSec: 104
 ---
 
 # Go Sakabe

@@ -9,7 +9,7 @@ aliases: ["What is Love"]
 created: 2024-06-21T05:19:40+03:00
 source: ""
 related: []
-ListenInSec: 1
+ListenInSec: 61
 CoverOf: ""
 ---
 

@@ -10,7 +10,7 @@ Year: 0
 Album: ""
 NumberInAlbum: 0
 related: []
-ListenInSec: 52
+ListenInSec: 55
 ---
 
 # Асимметрия

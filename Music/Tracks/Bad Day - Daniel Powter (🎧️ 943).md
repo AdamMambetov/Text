@@ -9,7 +9,7 @@ aliases: ["Bad Day"]
 created: 2024-06-21T05:20:30+03:00
 source: ""
 related: []
-ListenInSec: 2
+ListenInSec: 26
 CoverOf: ""
 ---
 

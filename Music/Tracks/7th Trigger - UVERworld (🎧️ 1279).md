@@ -9,7 +9,7 @@ aliases: ["7th Trigger"]
 created: 2024-10-23T13:26:28+03:00
 source: ""
 related: []
-ListenInSec: 15
+ListenInSec: 270
 CoverOf: ""
 ---
 

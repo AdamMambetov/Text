@@ -9,7 +9,7 @@ aliases: ["Date A Live (Orchestra Version)"]
 created: 2024-10-13T23:21:44+03:00
 source: ""
 related: []
-ListenInSec: 16
+ListenInSec: 120
 CoverOf: ""
 ---
 

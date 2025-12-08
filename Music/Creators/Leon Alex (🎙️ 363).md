@@ -1,7 +1,7 @@
 ---
-created: 2025-11-19T23:38:17+03:00
+created: 2025-11-19T23:38:17+0300
 aliases: ["Leon Alex"]
-ListenInSec: 0
+ListenInSec: 18
 ---
 
 # Leon Alex

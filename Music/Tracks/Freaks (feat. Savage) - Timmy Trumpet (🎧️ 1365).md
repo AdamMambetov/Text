@@ -9,7 +9,7 @@ aliases: ["Freaks (feat. Savage)"]
 created: 2024-10-30T19:21:02+03:00
 source: ""
 related: []
-ListenInSec: 3
+ListenInSec: 23
 CoverOf: ""
 ---
 

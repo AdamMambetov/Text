@@ -9,7 +9,7 @@ aliases: ["TaKillYa"]
 created: 2022-04-22T21:50:44+03:00
 source: ""
 related: []
-ListenInSec: 1
+ListenInSec: 27
 CoverOf: ""
 ---
 

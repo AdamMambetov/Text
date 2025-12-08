@@ -9,7 +9,7 @@ aliases: ["Strong and Strike"]
 created: 2024-01-02T23:37:44+03:00
 source: ""
 related: []
-ListenInSec: 13
+ListenInSec: 17
 CoverOf: ""
 ---
 

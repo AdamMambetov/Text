@@ -9,7 +9,7 @@ aliases: ["We Are The Champions"]
 created: 2023-03-31T17:02:50+03:00
 source: ""
 related: []
-ListenInSec: 2
+ListenInSec: 187
 CoverOf: ""
 ---
 

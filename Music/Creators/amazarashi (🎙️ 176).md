@@ -1,7 +1,7 @@
 ---
-created: 2025-11-19T22:35:55+03:00
+created: 2025-11-19T22:35:55+0300
 aliases: ["amazarashi"]
-ListenInSec: 0
+ListenInSec: 11
 ---
 
 # amazarashi

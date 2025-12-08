@@ -9,7 +9,7 @@ NumberInAlbum: 2
 source: ""
 SourceFile: "[[Yousei Teikoku - Astral Dogma.mp3]]"
 related: []
-ListenInSec: 2
+ListenInSec: 315
 CoverOf: ""
 ---
 

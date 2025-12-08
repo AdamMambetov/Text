@@ -9,7 +9,7 @@ NumberInAlbum: 1
 source: ""
 SourceFile: "[[NayutalieN - Alien Alien (Nhato Remix).mp3]]"
 related: []
-ListenInSec: 5
+ListenInSec: 175
 CoverOf: ""
 ---
 

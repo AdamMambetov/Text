@@ -9,7 +9,7 @@ aliases: ["New World Order"]
 created: 2025-01-08T17:11:02+03:00
 source: ""
 related: []
-ListenInSec: 4
+ListenInSec: 10
 CoverOf: ""
 ---
 

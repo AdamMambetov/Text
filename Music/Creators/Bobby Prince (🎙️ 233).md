@@ -1,7 +1,7 @@
 ---
-created: 2025-11-19T22:46:06+03:00
+created: 2025-11-19T22:46:06+0300
 aliases: ["Bobby Prince"]
-ListenInSec: 0
+ListenInSec: 91
 ---
 
 # Bobby Prince

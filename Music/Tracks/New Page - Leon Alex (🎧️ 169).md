@@ -9,7 +9,7 @@ aliases: ["New Page", "Black Clover Ending 10"]
 created: 2022-04-22T21:03:16+03:00
 source: ""
 related: []
-ListenInSec: 5
+ListenInSec: 23
 CoverOf: ""
 ---
 

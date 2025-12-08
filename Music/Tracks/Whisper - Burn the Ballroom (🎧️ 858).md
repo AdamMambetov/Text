@@ -9,7 +9,7 @@ aliases: ["Whisper"]
 created: 2024-06-21T05:20:02+03:00
 source: ""
 related: []
-ListenInSec: 4
+ListenInSec: 287
 CoverOf: ""
 ---
 

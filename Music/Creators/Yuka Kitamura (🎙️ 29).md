@@ -1,6 +1,7 @@
 ---
-created: 2024-08-13T16:32:08+03:00
+created: 2024-08-13T16:32:08+0300
 aliases: ["Yuka Kitamura"]
+ListenInSec: 4
 ---
 
 # Yuka Kitamura

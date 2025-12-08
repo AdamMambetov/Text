@@ -1,7 +1,7 @@
 ---
-created: 2025-11-19T22:57:43+03:00
+created: 2025-11-19T22:57:43+0300
 aliases: ["Yousei Teikoku"]
-ListenInSec: 0
+ListenInSec: 313
 ---
 
 # Yousei Teikoku

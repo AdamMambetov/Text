@@ -9,7 +9,7 @@ aliases: ["Lightning Strike"]
 created: 2022-12-20T10:42:28+03:00
 source: ""
 related: []
-ListenInSec: 89
+ListenInSec: 103
 CoverOf: ""
 ---
 

@@ -1,7 +1,7 @@
 ---
-created: 2025-11-19T22:00:50+03:00
+created: 2025-11-19T22:00:50+0300
 aliases: ["All Time Low"]
-ListenInSec: 0
+ListenInSec: 219
 ---
 
 # All Time Low

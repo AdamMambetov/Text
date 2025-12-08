@@ -9,7 +9,7 @@ aliases: ["Never Going Home"]
 created: 2022-04-22T21:50:32+03:00
 source: ""
 related: []
-ListenInSec: 1
+ListenInSec: 6
 CoverOf: ""
 ---
 

@@ -1,7 +1,7 @@
 ---
-created: 2025-11-19T22:57:22+03:00
+created: 2025-11-19T22:57:22+0300
 aliases: ["Daniel Powter"]
-ListenInSec: 0
+ListenInSec: 24
 ---
 
 # Daniel Powter

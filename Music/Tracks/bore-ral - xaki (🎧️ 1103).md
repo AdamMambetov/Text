@@ -9,7 +9,7 @@ aliases: ["bore-ral"]
 created: 2024-08-04T18:43:24+03:00
 source: ""
 related: []
-ListenInSec: 1
+ListenInSec: 62
 CoverOf: ""
 ---
 

@@ -9,7 +9,7 @@ NumberInAlbum: 11
 source: ""
 SourceFile: "[[Lana Del Rey - Summertime Sadness.mp3]]"
 related: []
-ListenInSec: 4
+ListenInSec: 14
 CoverOf: ""
 ---
 
