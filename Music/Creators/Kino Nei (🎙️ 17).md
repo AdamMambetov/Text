@@ -1,6 +1,7 @@
 ---
-created: 2024-08-04T14:42:01+03:00
+created: 2024-08-04T14:42:01+0300
 aliases: ["Kino Nei", "木野寧"]
+ListenInSec: 98
 ---
 
 # Kino Nei

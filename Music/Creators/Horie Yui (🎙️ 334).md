@@ -1,7 +1,7 @@
 ---
-created: 2025-11-19T23:18:43+03:00
+created: 2025-11-19T23:18:43+0300
 aliases: ["Horie Yui"]
-ListenInSec: 0
+ListenInSec: 188
 ---
 
 # Horie Yui

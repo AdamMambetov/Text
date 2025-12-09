@@ -1,7 +1,7 @@
 ---
-created: 2025-11-19T23:39:21+03:00
+created: 2025-11-19T23:39:21+0300
 aliases: ["Little Big"]
-ListenInSec: 0
+ListenInSec: 152
 ---
 
 # Little Big

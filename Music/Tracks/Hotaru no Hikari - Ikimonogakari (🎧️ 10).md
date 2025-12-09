@@ -10,7 +10,7 @@ Year: 0
 Album: ""
 NumberInAlbum: 0
 related: []
-ListenInSec: 330
+ListenInSec: 556
 ---
 
 # Hotaru no Hikari

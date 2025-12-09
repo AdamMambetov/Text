@@ -9,7 +9,7 @@ aliases: ["Геймер"]
 created: 2022-12-20T23:20:50+03:00
 source: ""
 related: []
-ListenInSec: 1
+ListenInSec: 3
 CoverOf: ""
 ---
 

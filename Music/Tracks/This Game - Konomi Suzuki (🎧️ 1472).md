@@ -9,7 +9,7 @@ NumberInAlbum: 1
 source: ""
 SourceFile: "[[Konomi Suzuki - This Game.mp3]]"
 related: []
-ListenInSec: 5
+ListenInSec: 276
 CoverOf: ""
 ---
 

@@ -9,7 +9,7 @@ aliases: ["The Resistance"]
 created: 2022-04-26T01:32:28+03:00
 source: ""
 related: []
-ListenInSec: 3
+ListenInSec: 10
 CoverOf: ""
 ---
 

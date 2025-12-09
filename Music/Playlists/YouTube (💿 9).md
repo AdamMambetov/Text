@@ -1,7 +1,7 @@
 ---
 created: 2025-12-08T05:49:17+0300
 aliases: ["YouTube"]
-tracklist: ["[[Departure! - Игорь Куликов (🎧️ 1275)]]", "[[Бесчувственный - Everblack Melodies (🎧️ 307)]]", "[[Creepin' Towards the Door - Griffinilla (🎧️ 1251)]]", "[[RISE - League of Legends (🎧️ 166)]]", "[[Donten - Игорь Куликов (🎧️ 1304)]]", "[[Unravel - Jackie-O (🎧️ 696)]]", "[[Step into the Dark! (🎧️ 734)]]", "[[nana (🎧️ 1398)]]", "[[Raison d'etre - Игорь Куликов (🎧️ 1345)]]", "[[Let Me Hear - Jackie-O (🎧️ 697)]]", "[[Sakura Mitsutsuki - Игорь Куликов (🎧️ 1338)]]"]
+tracklist: ["[[Departure! - Игорь Куликов (🎧️ 1275)]]", "[[Бесчувственный - Everblack Melodies (🎧️ 307)]]", "[[Creepin' Towards the Door - Griffinilla (🎧️ 1251)]]", "[[RISE - League of Legends (🎧️ 166)]]", "[[Donten - Игорь Куликов (🎧️ 1304)]]", "[[Unravel - Jackie-O (🎧️ 696)]]", "[[Step into the Dark! (🎧️ 734)]]", "[[nana (🎧️ 1398)]]", "[[Raison d'etre - Игорь Куликов (🎧️ 1345)]]", "[[Let Me Hear - Jackie-O (🎧️ 697)]]", "[[Sakura Mitsutsuki - Игорь Куликов (🎧️ 1338)]]", "[[Gotye - Somebody That I Used To Know (feat. Kimbra) Official Music Video - Gotye (🎧️ 1669)]]", "[[Thunder (🎧️ 1598)]]", "[[Sacrifice (🎧️ 704)]]", "[[Scatman (ski-ba-bop-ba-dop-bop) - Scatman John (🎧️ 645)]]"]
 ---
 
 # YouTube

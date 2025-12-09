@@ -9,7 +9,7 @@ NumberInAlbum: 58
 source: ""
 SourceFile: "[[Umineko no Naku Koro ni OST - 058 Мелодия.ogg]]"
 related: []
-ListenInSec: 25
+ListenInSec: 492
 CoverOf: ""
 ---
 

@@ -1,7 +1,7 @@
 ---
-created: 2025-11-19T22:40:13+03:00
+created: 2025-11-19T22:40:13+0300
 aliases: ["Avantasia"]
-ListenInSec: 0
+ListenInSec: 251
 ---
 
 # Avantasia

@@ -9,7 +9,7 @@ aliases: ["Take Me To Church"]
 created: 2022-04-22T20:53:02+03:00
 source: ""
 related: []
-ListenInSec: 2
+ListenInSec: 27
 CoverOf: ""
 ---
 

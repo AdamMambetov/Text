@@ -1,7 +1,7 @@
 ---
-created: 2025-11-19T21:55:37+03:00
+created: 2025-11-19T21:55:37+0300
 aliases: ["AC DC"]
-ListenInSec: 0
+ListenInSec: 243
 ---
 
 # AC DC

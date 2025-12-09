@@ -1,7 +1,7 @@
 ---
-created: 2025-11-19T22:46:00+03:00
+created: 2025-11-19T22:46:00+0300
 aliases: ["Blur"]
-ListenInSec: 0
+ListenInSec: 116
 ---
 
 # Blur

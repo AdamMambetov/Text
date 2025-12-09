@@ -9,7 +9,7 @@ NumberInAlbum: 1
 source: ""
 SourceFile: "[[Chimoruki - NONCANDIDATE (Clowns Song, Kaisou, Day of Tragedy OST Mashup).mp3]]"
 related: []
-ListenInSec: 582
+ListenInSec: 775
 CoverOf: ""
 ---
 

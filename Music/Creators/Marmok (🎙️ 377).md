@@ -1,7 +1,7 @@
 ---
-created: 2025-11-19T23:45:45+03:00
+created: 2025-11-19T23:45:45+0300
 aliases: ["Marmok"]
-ListenInSec: 0
+ListenInSec: 1
 ---
 
 # Marmok

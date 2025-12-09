@@ -9,7 +9,7 @@ aliases: ["Kimi no Shiranai Monogatari"]
 created: 2022-10-05T13:07:48+03:00
 source: ""
 related: []
-ListenInSec: 13
+ListenInSec: 130
 CoverOf: ""
 ---
 

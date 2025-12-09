@@ -9,7 +9,7 @@ aliases: ["Lack of Caution"]
 created: 2024-10-30T19:23:38+03:00
 source: ""
 related: []
-ListenInSec: 5
+ListenInSec: 98
 CoverOf: ""
 ---
 

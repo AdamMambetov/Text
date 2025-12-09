@@ -1,7 +1,7 @@
 ---
-created: 2025-11-20T00:16:41+03:00
+created: 2025-11-20T00:16:41+0300
 aliases: ["Smash Mouth"]
-ListenInSec: 0
+ListenInSec: 168
 ---
 
 # Smash Mouth

@@ -1,7 +1,7 @@
 ---
-created: 2025-11-19T22:40:06+03:00
+created: 2025-11-19T22:40:06+0300
 aliases: ["Ava Max"]
-ListenInSec: 0
+ListenInSec: 154
 ---
 
 # Ava Max

@@ -9,7 +9,7 @@ aliases: ["Hurricane (Yamai Battle Theme)"]
 created: 2024-10-13T23:21:12+03:00
 source: ""
 related: []
-ListenInSec: 189
+ListenInSec: 377
 CoverOf: ""
 ---
 

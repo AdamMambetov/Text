@@ -9,7 +9,7 @@ NumberInAlbum: 6
 source: ""
 SourceFile: "[[Yolanda Be Cool - We No Speak Americano.mp3]]"
 related: []
-ListenInSec: 5
+ListenInSec: 155
 CoverOf: ""
 ---
 

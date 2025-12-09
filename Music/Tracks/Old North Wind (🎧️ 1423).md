@@ -9,7 +9,7 @@ aliases: ["Old North Wind"]
 created: 2025-01-07T20:03:22+03:00
 source: ""
 related: []
-ListenInSec: 1
+ListenInSec: 2
 CoverOf: ""
 ---
 

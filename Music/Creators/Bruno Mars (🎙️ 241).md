@@ -1,7 +1,7 @@
 ---
-created: 2025-11-19T22:47:06+03:00
+created: 2025-11-19T22:47:06+0300
 aliases: ["Bruno Mars"]
-ListenInSec: 0
+ListenInSec: 255
 ---
 
 # Bruno Mars

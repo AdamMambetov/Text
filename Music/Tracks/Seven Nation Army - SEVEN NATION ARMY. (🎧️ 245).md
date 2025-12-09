@@ -9,7 +9,7 @@ aliases: ["Seven Nation Army"]
 created: 2022-04-22T21:33:40+03:00
 source: ""
 related: []
-ListenInSec: 3
+ListenInSec: 182
 CoverOf: ""
 ---
 

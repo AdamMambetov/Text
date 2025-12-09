@@ -1,7 +1,7 @@
 ---
-created: 2025-11-19T22:42:56+03:00
+created: 2025-11-19T22:42:56+0300
 aliases: ["Baracuda"]
-ListenInSec: 0
+ListenInSec: 150
 ---
 
 # Baracuda

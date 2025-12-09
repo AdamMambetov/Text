@@ -1,7 +1,7 @@
 ---
-created: 2025-11-19T22:53:28+03:00
+created: 2025-11-19T22:53:28+0300
 aliases: ["ClariS"]
-ListenInSec: 0
+ListenInSec: 117
 ---
 
 # ClariS

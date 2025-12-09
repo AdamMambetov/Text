@@ -1,7 +1,7 @@
 ---
-created: 2025-11-20T00:09:11+03:00
+created: 2025-11-20T00:09:11+0300
 aliases: ["Slipknot"]
-ListenInSec: 0
+ListenInSec: 287
 ---
 
 # Slipknot

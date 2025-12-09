@@ -1,7 +1,7 @@
 ---
-created: 2025-11-19T21:56:47+03:00
+created: 2025-11-19T21:56:47+0300
 aliases: ["Akeboshi"]
-ListenInSec: 0
+ListenInSec: 150
 ---
 
 # Akeboshi

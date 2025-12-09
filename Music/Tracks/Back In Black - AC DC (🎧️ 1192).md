@@ -9,7 +9,7 @@ NumberInAlbum: 6
 source: ""
 SourceFile: "[[AC DC - Back in Black.mp3]]"
 related: []
-ListenInSec: 4
+ListenInSec: 247
 CoverOf: ""
 ---
 

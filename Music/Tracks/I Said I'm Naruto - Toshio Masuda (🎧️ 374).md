@@ -9,7 +9,7 @@ NumberInAlbum: 1
 source: ""
 SourceFile: "[[Naruto OST - I Said I'm Naruto.mp3]]"
 related: []
-ListenInSec: 7
+ListenInSec: 105
 CoverOf: ""
 ---
 

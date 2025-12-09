@@ -9,7 +9,7 @@ NumberInAlbum: 1
 source: ""
 SourceFile: "[[Death Note OST - 22 Teloelogy of Death.mp3]]"
 related: []
-ListenInSec: 23
+ListenInSec: 27
 CoverOf: ""
 ---
 

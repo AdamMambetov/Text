@@ -9,7 +9,7 @@ aliases: ["MIRAI NIKKI OPENING (PelleK & Raon Lee) 未来日記 Op"]
 created: 2025-01-07T18:46:58+03:00
 source: ""
 related: []
-ListenInSec: 8
+ListenInSec: 236
 CoverOf: ""
 ---
 

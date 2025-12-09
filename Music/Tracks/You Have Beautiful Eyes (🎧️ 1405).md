@@ -9,7 +9,7 @@ aliases: ["You Have Beautiful Eyes"]
 created: 2025-01-07T19:56:04+03:00
 source: ""
 related: []
-ListenInSec: 5
+ListenInSec: 7
 CoverOf: ""
 ---
 

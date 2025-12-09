@@ -8,7 +8,7 @@ SourceFile: "[[Gotye feat. Kimbra - Somebody That I Used To Know.mp3]]"
 Cover: ""
 NumberInAlbum: 0
 related: []
-ListenInSec: 479
+ListenInSec: 710
 CoverOf: ""
 ---
 

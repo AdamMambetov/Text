@@ -1,7 +1,7 @@
 ---
-created: 2025-11-19T23:57:15+03:00
+created: 2025-11-19T23:57:15+0300
 aliases: ["No Resolve"]
-ListenInSec: 0
+ListenInSec: 165
 ---
 
 # No Resolve

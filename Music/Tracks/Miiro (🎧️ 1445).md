@@ -9,7 +9,7 @@ NumberInAlbum: 1
 source: ""
 SourceFile: "[[Kun-Kun - Miiro.mp3]]"
 related: []
-ListenInSec: 322
+ListenInSec: 552
 CoverOf: ""
 ---
 

@@ -9,7 +9,7 @@ NumberInAlbum: 1
 source: ""
 SourceFile: "[[Kana Hanazawa - Renai Circulation (TV Size).mp3]]"
 related: []
-ListenInSec: 6
+ListenInSec: 92
 CoverOf: ""
 ---
 
