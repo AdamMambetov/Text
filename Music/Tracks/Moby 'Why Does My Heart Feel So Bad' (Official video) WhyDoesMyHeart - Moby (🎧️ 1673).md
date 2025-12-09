@@ -8,7 +8,7 @@ Cover: ""
 Album: ""
 NumberInAlbum: 0
 related: []
-ListenInSec: 48
+ListenInSec: 77
 CoverOf: ""
 ---
 

@@ -9,7 +9,7 @@ NumberInAlbum: 1
 source: ""
 SourceFile: "[[Jared Halley - Take On Me.mp3]]"
 related: []
-ListenInSec: 493
+ListenInSec: 500
 CoverOf: ""
 ---
 

@@ -9,7 +9,7 @@ NumberInAlbum: 25
 source: ""
 SourceFile: "[[The Cat Returns OST - Kaze Ni Naru.mp3]]"
 related: []
-ListenInSec: 234
+ListenInSec: 468
 CoverOf: ""
 ---
 

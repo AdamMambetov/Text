@@ -9,7 +9,7 @@ aliases: ["INDUSTRY BABY"]
 created: 2022-04-22T21:04:34+03:00
 source: ""
 related: []
-ListenInSec: 1
+ListenInSec: 42
 CoverOf: ""
 ---
 

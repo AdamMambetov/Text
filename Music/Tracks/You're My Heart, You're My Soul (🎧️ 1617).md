@@ -9,7 +9,7 @@ NumberInAlbum: 1
 source: ""
 SourceFile: "[[Modern Talking - You're My Heart, You're My Soul.mp3]]"
 related: []
-ListenInSec: 15
+ListenInSec: 21
 CoverOf: ""
 ---
 

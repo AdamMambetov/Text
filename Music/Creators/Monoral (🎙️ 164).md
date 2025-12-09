@@ -1,7 +1,7 @@
 ---
-created: 2025-11-19T22:00:06+03:00
+created: 2025-11-19T22:00:06+0300
 aliases: ["Monoral"]
-ListenInSec: 0
+ListenInSec: 249
 ---
 
 # Monoral

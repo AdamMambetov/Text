@@ -1,7 +1,7 @@
 ---
-created: 2025-11-20T00:03:00+03:00
+created: 2025-11-20T00:03:00+0300
 aliases: ["Pigeon John"]
-ListenInSec: 0
+ListenInSec: 5
 ---
 
 # Pigeon John

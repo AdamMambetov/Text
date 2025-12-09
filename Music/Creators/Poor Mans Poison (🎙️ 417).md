@@ -1,7 +1,7 @@
 ---
-created: 2025-11-20T00:03:50+03:00
+created: 2025-11-20T00:03:50+0300
 aliases: ["Poor Mans Poison"]
-ListenInSec: 0
+ListenInSec: 23
 ---
 
 # Poor Mans Poison

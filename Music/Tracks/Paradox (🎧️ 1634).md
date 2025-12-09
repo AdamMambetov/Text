@@ -9,7 +9,7 @@ aliases: ["Paradox"]
 created: 2025-01-08T23:27:48+03:00
 source: ""
 related: []
-ListenInSec: 1001
+ListenInSec: 1007
 CoverOf: ""
 ---
 

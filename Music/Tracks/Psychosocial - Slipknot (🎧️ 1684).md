@@ -8,7 +8,7 @@ SourceFile: "[[Slipknot - Psychosocial.mp3]]"
 Cover: ""
 NumberInAlbum: 0
 related: []
-ListenInSec: 586
+ListenInSec: 589
 CoverOf: ""
 ---
 
