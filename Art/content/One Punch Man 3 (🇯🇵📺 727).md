@@ -10,7 +10,7 @@ Rating:
   - "[[®️18|18+]]"
 Cover: "[[one_punch_man_3_anime_cover.jpeg]]"
 Year: 2025
-Episode: 8
+Episode: 9
 Предыстория: "[[One Punch Man 2 (🇯🇵📺 377)]]"
 ---
 
