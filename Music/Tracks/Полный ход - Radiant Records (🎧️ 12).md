@@ -7,7 +7,7 @@ source: ""
 SourceFile: "[[Radiant Records - Полный ход.mp3]]"
 Cover: ""
 Year: 0
-Album: ""
+Album: "[[ПЕРЕПУТЬЕ (📀 33)]]"
 NumberInAlbum: 0
 related: []
 ListenInSec: 655

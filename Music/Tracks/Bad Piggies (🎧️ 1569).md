@@ -5,12 +5,12 @@ Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[Latchezar Dimitrov - Bad Piggies.mp3]]"
 Year: 0
-aliases: []
+aliases: ["Bad Piggies"]
 created: 2025-01-08T19:24:02+03:00
 source: ""
 related: []
 ListenInSec: 150
-CoverOf: ""
+CoverOf: "[[Bad Piggies (🎧️ 1568)]]"
 ---
 
 # Latchezar Dimitrov - Bad Piggies

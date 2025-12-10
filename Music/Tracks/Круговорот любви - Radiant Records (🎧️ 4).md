@@ -7,7 +7,7 @@ source:
 SourceFile: "[[Radiant Records - Круговорот любви.mp3]]"
 Cover: ""
 Year: 0
-Album: ""
+Album: "[[Летний сон (📀 37)]]"
 NumberInAlbum: 0
 related: []
 ListenInSec: 781

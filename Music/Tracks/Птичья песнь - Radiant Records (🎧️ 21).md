@@ -7,7 +7,7 @@ source: ""
 SourceFile: "[[Radiant Records - Птичья песнь.mp3]]"
 Cover: "[[Radiant Records - ПЕРЕПУТЬЕ.jpg]]"
 Year: 0
-Album: ""
+Album: "[[ПЕРЕПУТЬЕ (📀 33)]]"
 NumberInAlbum: 0
 related: []
 ListenInSec: 4489

@@ -7,7 +7,7 @@ source: ""
 SourceFile: "[[Radiant Records - Приготовься!.mp3]]"
 Cover: ""
 Year: 0
-Album: ""
+Album: "[[Магия (📀 35)]]"
 NumberInAlbum: 0
 related: []
 ListenInSec: 393
