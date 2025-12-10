@@ -28,7 +28,7 @@
               "state": {
                 "file": "content/One Punch Man 3 (🇯🇵📺 727).md",
                 "mode": "preview",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "One Punch Man 3 (🇯🇵📺 727)"
@@ -163,21 +163,34 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "templates:Insert template": false,
-      "obsidian-git:Open Git source control": false,
+      "switcher:Open quick switcher": true,
+      "templates:Insert template": true,
+      "obsidian-git:Open Git source control": true,
       "graph:Open graph view": true,
-      "command-palette:Open command palette": true,
+      "command-palette:Open command palette": false,
       "bases:Create new base": true,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "cmdr:Emoji Toolbar: Open emoji picker": false,
+      "cmdr:QuickAdd: Rename art": false,
+      "modalforms:Edit forms": false,
+      "quickadd:QuickAdd": false
     }
   },
   "active": "11d98c30a95eac74",
   "lastOpenFiles": [
+    "content/Yuusha ga Shinda! (🇯🇵📺 1195).md",
+    "content/Tower Dungeon (🇯🇵📗 1194).md",
+    "content/One Punch Man 3 (🇯🇵📺 727).md",
+    "covers/yuusha_ga_shinda_anime_cover.jpg",
+    "covers/tower_dungeon_manga_cover.jpg",
+    "content/One Punch Man 2 (🇯🇵📺 377).md",
+    "content/Blue Lock 2 (🇯🇵📺 1192).md",
+    "content/Blue Lock. Nagi Episode (🇯🇵📺 1193).md",
     "content/Blue Lock 1 (🇯🇵📺 731).md",
+    "covers/blue_lock_episode_nagi_anime_film_cover.jpg",
+    "covers/blue_lock_2_anime_cover.jpg",
     "_art base.base",
     "content/Человек-бензопила. Резе (🇯🇵📺 1145).md",
-    "content/One Punch Man 3 (🇯🇵📺 727).md",
     "franchises/📚The Dark Pictures Anthology.md",
     "franchises/📚Колесо времени.md",
     "franchises/📚Атака титанов.md",
@@ -196,20 +209,11 @@
     "content/Major Payne (🇺🇸🎞 211).md",
     "content/Няньки (🇺🇸🎞 215).md",
     "content/Danganronpa V3. Killing Harmony (🇯🇵🎮 314).md",
-    "content/Umineko no Naku Koro ni (🇯🇵🎮 254).md",
-    "content/Bullets Per Minute (🇬🇧🎮 889).md",
-    "content/Dark and Darker (🇰🇷🎮 255).md",
-    "content/Dark Souls 1 (🇯🇵🎮 971).md",
-    "content/Elden Ring (🇯🇵🎮 251).md",
     "covers/the_blind_watchmaker_book_cover.jpg",
     "covers/h2o_just_add_water_series_cover.jpg",
     "covers/star_wars_visions_1_anime_cover.jpg",
     "covers/трое_из_простоквашино_cartoon_cover.jpg",
     "covers/приключения_поросенка_фунтика_cartoon_cover.jpg",
-    "covers/лунтик_cartoon_cover.jpg",
-    "covers/котенок_по_имени_гав_cartoon_cover.jpg",
-    "covers/маша_и_медведь_cartoon_cover.jpg",
-    "covers/барбоскины_cartoon_cover.jpg",
     "Text/Art/covers",
     "Text/Art",
     "Text"

@@ -1,6 +1,10 @@
 [
-  "obsidian-git",
-  "obsidian-version-history-diff",
   "templater-obsidian",
-  "3d-graph-new"
+  "3d-graph-new",
+  "obsidian-linter",
+  "cmdr",
+  "buttons",
+  "dataview",
+  "modalforms",
+  "quickadd"
 ]

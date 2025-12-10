@@ -10,11 +10,13 @@ Rating:
 Cover: "[[blue_lock_1_anime_cover.png]]"
 Year: 2022
 Episode: 24
+Views: 1
 tags:
   - ❤
 related:
   - "[[@Дмитрий Кесида]]"
-Views: 1
+  - "[[Blue Lock. Nagi Episode (🇯🇵📺 1193)]]"
+Продолжение: "[[Blue Lock 2 (🇯🇵📺 1192)]]"
 ---
 
 # Синяя тюрьма: Блю Лок
