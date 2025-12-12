@@ -8,7 +8,7 @@ Creators: []
 Cover: ""
 NumberInAlbum: 0
 related: []
-ListenInSec: 335
+ListenInSec: 570
 CoverOf: ""
 ---
 

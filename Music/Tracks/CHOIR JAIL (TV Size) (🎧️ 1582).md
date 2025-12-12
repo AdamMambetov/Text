@@ -1,16 +1,16 @@
 ---
 Album: ""
-Creators: []
+Creators: ["[[Nika Lenina (🎙️ 45)]]"]
 Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[Nika Lenina - CHOIR JAIL (TV Size).mp3]]"
 Year: 0
-aliases: []
+aliases: ["CHOIR JAIL (TV Size)"]
 created: 2025-01-08T19:54:24+03:00
 source: ""
 related: []
-ListenInSec: 201
-CoverOf: ""
+ListenInSec: 216
+CoverOf: "[[CHOIR JAIL (TV Size) - Konomi Suzuki (🎧️ 1584)]]"
 ---
 
 # Nika Lenina - CHOIR JAIL (TV Size)

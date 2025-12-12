@@ -9,7 +9,7 @@ NumberInAlbum: 1
 source: ""
 SourceFile: "[[Konomi Suzuki - CHOIR JAIL (TV Size).mp3]]"
 related: []
-ListenInSec: 103
+ListenInSec: 184
 CoverOf: ""
 ---
 

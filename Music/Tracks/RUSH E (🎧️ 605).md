@@ -5,11 +5,11 @@ Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[Sheet Music Boss - RUSH E.mp3]]"
 Year: 0
-aliases: []
+aliases: ["RUSH E"]
 created: 2023-07-09T17:59:38+03:00
 source: ""
 related: []
-ListenInSec: 205
+ListenInSec: 256
 CoverOf: ""
 ---
 

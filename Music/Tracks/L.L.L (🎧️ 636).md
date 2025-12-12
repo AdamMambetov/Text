@@ -1,6 +1,6 @@
 ---
 Album: ""
-Creators: []
+Creators: ["[[MYTH & ROID (🎙️ 386)]]"]
 Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[MYTH & ROID - L.L.L.mp3]]"

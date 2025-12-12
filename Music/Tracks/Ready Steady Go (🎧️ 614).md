@@ -5,11 +5,11 @@ Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[L'Arc-en-Ciel - Ready Steady Go.mp3]]"
 Year: 0
-aliases: []
+aliases: ["Ready Steady Go"]
 created: 2023-07-09T18:30:00+03:00
 source: ""
 related: []
-ListenInSec: 239
+ListenInSec: 319
 CoverOf: ""
 ---
 

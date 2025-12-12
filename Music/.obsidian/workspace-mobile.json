@@ -22,34 +22,6 @@
             }
           },
           {
-            "id": "0a58bb157a04d1c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tracks/Падение (🎧️ 743).md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Падение (🎧️ 743)"
-            }
-          },
-          {
-            "id": "92133306d2ab74bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tracks/Испания (🎧️ 713).md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Испания (🎧️ 713)"
-            }
-          },
-          {
             "id": "4f10e99a5ced55d1",
             "type": "leaf",
             "state": {
@@ -64,21 +36,35 @@
             }
           },
           {
-            "id": "fd0750b42ee710dc",
+            "id": "21242bd0528152f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tracks/L.L.L (🎧️ 636).md",
-                "mode": "source",
+                "file": "Playlists/100% Шедевр (💿 6).md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "L.L.L (🎧️ 636)"
+              "title": "100% Шедевр (💿 6)"
+            }
+          },
+          {
+            "id": "cc2c4cc80cc5caac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Playlists/100% Шедевр (💿 6).md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "100% Шедевр (💿 6)"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -183,33 +169,33 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0a58bb157a04d1c4",
+  "active": "cc2c4cc80cc5caac",
   "lastOpenFiles": [
-    "Tracks/L.L.L (🎧️ 636).md",
-    "Tracks/Lalalalalalalalalala - Mikolas Josef (🎧️ 185).md",
-    "Lalalalalalalalalala [2020] {Mikolas Josef}.md",
-    "Tracks/Падение (🎧️ 743).md",
-    "Tracks/A Reason to Fight (🎧️ 1599).md",
-    "Tracks/Yuusha (🎧️ 1571).md",
-    "Tracks/Yuusha (🎧️ 1572).md",
-    "Tracks/Hotaru no Hikari (TV Size) (🎧️ 1693).md",
-    "Playlists/Яндекс (💿 7).md",
-    "Playlists/Spotify (💿 10).md",
-    "Tracks/Испания (🎧️ 713).md",
-    "Tracks/Птичья песнь - Radiant Records (🎧️ 21).md",
-    "Playlists/Favorites (💿 1).md",
-    "Tracks/Calendula Requiem (🎧️ 1502).md",
-    "templates/playlist template.md",
-    "Tracks/Black Bullet (🎧️ 1588).md",
+    "Tracks/RUSH E (🎧️ 605).md",
+    "Tracks/Gourmet Race Theme 1 (🎧️ 1576).md",
     "Playlists/100% Шедевр (💿 6).md",
-    "Tracks/Black Bullet (🎧️ 1587).md",
-    "Tracks/Because I Got High (Extended Version) - Afroman (🎧️ 1659).md",
-    "Tracks/Beautiful Lie in ProgramWorld (🎧️ 1524).md",
-    "Tracks/Bad Piggies (🎧️ 1569).md",
-    "Tracks/Bad Piggies (🎧️ 1568).md",
-    "Tracks/Bad Apple - Touhou Project (🎧️ 2).md",
-    "Tracks/At Doom's Gate - Bobby Prince (🎧️ 1648).md",
-    "Tracks/asphyxia (TV Size) (🎧️ 988).md",
-    "Tracks/All Hallow's Eve Ball - Alan Silvestri (🎧️ 672).md"
+    "Tracks/CHOIR JAIL (TV Size) (🎧️ 1582).md",
+    "Tracks/CHOIR JAIL (🎧️ 1581).md",
+    "Tracks/Red Fraction (🎧️ 1585).md",
+    "Tracks/Secret of the Forest (🎧️ 1589).md",
+    "Tracks/Shrek 2 Soundtrack   1. Counting Crows - Accidentally in Love - atnaloj626 (🎧️ 1678).md",
+    "Tracks/Shrek 2 Soundtrack   5. Lipps Inc - Funkytown - atnaloj626 (🎧️ 1680).md",
+    "Tracks/Flåklypa - Rameses B (🎧️ 466).md",
+    "Tracks/the WORLD (🎧️ 634).md",
+    "Tracks/Identity (🎧️ 637).md",
+    "Tracks/Gotye - Somebody That I Used To Know (feat. Kimbra) Official Music Video - Gotye (🎧️ 1669).md",
+    "Tracks/VORTEX (🎧️ 1560).md",
+    "Tracks/Kabaneri of the Iron Fortress (🎧️ 1625).md",
+    "Tracks/nana (🎧️ 1398).md",
+    "Tracks/Sakura Mitsutsuki (🎧️ 1479).md",
+    "Tracks/Necropolis Town Theme (🎧️ 783).md",
+    "Tracks/Ready Steady Go (🎧️ 614).md",
+    "Tracks/Rightfully (🎧️ 1507).md",
+    "Tracks/George Michael - Careless Whisper (Official Video) - georgemichael (🎧️ 1668).md",
+    "Tracks/Quiplash OST - Round 1 Write - Broder (🎧️ 1675).md",
+    "Playlists/Favorites (💿 1).md",
+    "Tracks/L.L.L (🎧️ 636).md",
+    "Tracks/Испания (🎧️ 713).md",
+    "Tracks/Падение (🎧️ 743).md"
   ]
 }
