@@ -9,7 +9,7 @@ aliases: ["Bad Romance"]
 created: 2024-10-10T22:49:58+03:00
 source: ""
 related: []
-ListenInSec: 2
+ListenInSec: 35
 CoverOf: ""
 ---
 

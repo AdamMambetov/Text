@@ -9,7 +9,7 @@ aliases: ["Yhorm The Giant"]
 created: 2024-10-13T23:16:14+03:00
 source: ""
 related: []
-ListenInSec: 3
+ListenInSec: 400
 CoverOf: ""
 ---
 

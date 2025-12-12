@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[Izumi Akazawa - Responsibility Response.mp3]]"
 related: []
-ListenInSec: 87
+ListenInSec: 169
 CoverOf: ""
 ---
 

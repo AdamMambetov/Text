@@ -9,7 +9,7 @@ aliases: ["Hysteria"]
 created: 2022-04-22T20:45:44+03:00
 source: ""
 related: []
-ListenInSec: 1
+ListenInSec: 231
 CoverOf: ""
 ---
 

@@ -1,16 +1,16 @@
 ---
 Album: ""
-Creators: []
+Creators: ["[[Sati Akura (🎙️ 359)]]"]
 Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[Sati Akura - Yuusha.mp3]]"
 Year: 0
-aliases: []
+aliases: ["Yuusha"]
 created: 2025-01-08T19:27:34+03:00
 source: ""
 related: []
-ListenInSec: 206
-CoverOf: ""
+ListenInSec: 348
+CoverOf: "[[Yuusha (🎧️ 1571)]]"
 ---
 
 # Sati Akura - Yuusha

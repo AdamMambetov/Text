@@ -1,7 +1,7 @@
 ---
-created: 2025-11-19T23:13:51+03:00
+created: 2025-11-19T23:13:51+0300
 aliases: ["FRANKY"]
-ListenInSec: 0
+ListenInSec: 230
 ---
 
 # FRANKY

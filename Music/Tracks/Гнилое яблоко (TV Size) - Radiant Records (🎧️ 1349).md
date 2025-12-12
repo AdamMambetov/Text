@@ -11,7 +11,7 @@ Year: 0
 Album: ""
 NumberInAlbum: 0
 related: []
-ListenInSec: 20
+ListenInSec: 25
 ---
 
 # Гнилое яблоко

@@ -1,7 +1,7 @@
 ---
-created: 2025-11-19T21:36:07+03:00
+created: 2025-11-19T21:36:07+0300
 aliases: ["12 Stones"]
-ListenInSec: 0
+ListenInSec: 195
 ---
 
 # 12 Stones

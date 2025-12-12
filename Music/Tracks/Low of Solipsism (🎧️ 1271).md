@@ -9,7 +9,7 @@ NumberInAlbum: 1
 source: ""
 SourceFile: "[[Death Note OST - 23 Low of Solipsism.mp3]]"
 related: []
-ListenInSec: 14
+ListenInSec: 19
 CoverOf: ""
 ---
 

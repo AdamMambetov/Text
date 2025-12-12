@@ -9,7 +9,7 @@ aliases: ["Werewolf Trap"]
 created: 2023-09-29T18:29:12+03:00
 source: ""
 related: []
-ListenInSec: 8
+ListenInSec: 115
 CoverOf: ""
 ---
 

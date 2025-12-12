@@ -9,7 +9,7 @@ NumberInAlbum: 1
 source: ""
 SourceFile: "[[Григорий Лепс - Life Is Good.mp3]]"
 related: []
-ListenInSec: 1
+ListenInSec: 8
 CoverOf: ""
 ---
 

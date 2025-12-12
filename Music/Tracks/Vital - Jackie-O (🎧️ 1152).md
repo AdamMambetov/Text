@@ -9,7 +9,7 @@ aliases: ["Vital"]
 created: 2024-10-05T15:53:04+03:00
 source: ""
 related: []
-ListenInSec: 2
+ListenInSec: 250
 CoverOf: ""
 ---
 

@@ -1,7 +1,7 @@
 ---
-created: 2025-11-19T22:38:01+03:00
+created: 2025-11-19T22:38:01+0300
 aliases: ["Arctic Monkeys"]
-ListenInSec: 0
+ListenInSec: 1
 ---
 
 # Arctic Monkeys

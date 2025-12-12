@@ -9,7 +9,7 @@ aliases: ["Undead"]
 created: 2022-04-22T20:51:48+03:00
 source: ""
 related: []
-ListenInSec: 3
+ListenInSec: 255
 CoverOf: ""
 ---
 

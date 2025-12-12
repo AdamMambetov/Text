@@ -1,7 +1,7 @@
 ---
-created: 2025-11-19T23:55:47+03:00
+created: 2025-11-19T23:55:47+0300
 aliases: ["nekodex"]
-ListenInSec: 0
+ListenInSec: 132
 ---
 
 # nekodex

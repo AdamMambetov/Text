@@ -13,12 +13,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tracks/Птичья песнь - Radiant Records (🎧️ 21).md",
+                "file": "Playlists/Яндекс (💿 7).md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Птичья песнь - Radiant Records (🎧️ 21)"
+              "title": "Яндекс (💿 7)"
+            }
+          },
+          {
+            "id": "0a58bb157a04d1c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tracks/Падение (🎧️ 743).md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Падение (🎧️ 743)"
+            }
+          },
+          {
+            "id": "92133306d2ab74bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tracks/Испания (🎧️ 713).md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Испания (🎧️ 713)"
             }
           },
           {
@@ -27,30 +55,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/playlist template.md",
+                "file": "Playlists/Favorites (💿 1).md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "playlist template"
+              "title": "Favorites (💿 1)"
             }
           },
           {
-            "id": "ca8ce949e8a06a9d",
+            "id": "fd0750b42ee710dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tracks/Black Bullet (🎧️ 1588).md",
-                "mode": "preview",
+                "file": "Tracks/L.L.L (🎧️ 636).md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Black Bullet (🎧️ 1588)"
+              "title": "L.L.L (🎧️ 636)"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,7 +144,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Tracks/Black Bullet (🎧️ 1588).md",
+            "file": "Tracks/Падение (🎧️ 743).md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -155,8 +183,24 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ca8ce949e8a06a9d",
+  "active": "0a58bb157a04d1c4",
   "lastOpenFiles": [
+    "Tracks/L.L.L (🎧️ 636).md",
+    "Tracks/Lalalalalalalalalala - Mikolas Josef (🎧️ 185).md",
+    "Lalalalalalalalalala [2020] {Mikolas Josef}.md",
+    "Tracks/Падение (🎧️ 743).md",
+    "Tracks/A Reason to Fight (🎧️ 1599).md",
+    "Tracks/Yuusha (🎧️ 1571).md",
+    "Tracks/Yuusha (🎧️ 1572).md",
+    "Tracks/Hotaru no Hikari (TV Size) (🎧️ 1693).md",
+    "Playlists/Яндекс (💿 7).md",
+    "Playlists/Spotify (💿 10).md",
+    "Tracks/Испания (🎧️ 713).md",
+    "Tracks/Птичья песнь - Radiant Records (🎧️ 21).md",
+    "Playlists/Favorites (💿 1).md",
+    "Tracks/Calendula Requiem (🎧️ 1502).md",
+    "templates/playlist template.md",
+    "Tracks/Black Bullet (🎧️ 1588).md",
     "Playlists/100% Шедевр (💿 6).md",
     "Tracks/Black Bullet (🎧️ 1587).md",
     "Tracks/Because I Got High (Extended Version) - Afroman (🎧️ 1659).md",
@@ -166,22 +210,6 @@
     "Tracks/Bad Apple - Touhou Project (🎧️ 2).md",
     "Tracks/At Doom's Gate - Bobby Prince (🎧️ 1648).md",
     "Tracks/asphyxia (TV Size) (🎧️ 988).md",
-    "Tracks/All Hallow's Eve Ball - Alan Silvestri (🎧️ 672).md",
-    "Tracks/Academy Town Theme (🎧️ 785).md",
-    "Tracks/Я так соскучился - Порнофильмы (🎧️ 912).md",
-    "Tracks/Уходи, негатив! - Роднополисы (🎧️ 873).md",
-    "Tracks/Птичья песнь - Radiant Records (🎧️ 21).md",
-    "Tracks/Приготовься! - Radiant Records (🎧️ 8).md",
-    "Tracks/Полный ход - Radiant Records (🎧️ 12).md",
-    "Tracks/Перепутье - Radiant Records (🎧️ 14).md",
-    "Tracks/Осколки - Radiant Records (🎧️ 6).md",
-    "Tracks/Неизвестная история - Radiant Records (🎧️ 11).md",
-    "Tracks/Круговорот любви - Radiant Records (🎧️ 4).md",
-    "Tracks/Конец сказки - dai (🎧️ 1023).md",
-    "Tracks/Зомби Ферма - Зомби Ферма (🎧️ 49).md",
-    "Tracks/Воланд - Игорь Корнелюк (🎧️ 1692).md",
-    "Tracks/Бесстрашие - Camellia (🎧️ 13).md",
-    "Tracks/Danzai no Hana ~Guilty Sky~ (🎧️ 1605).md",
-    "Playlists/YouTube (💿 9).md"
+    "Tracks/All Hallow's Eve Ball - Alan Silvestri (🎧️ 672).md"
   ]
 }

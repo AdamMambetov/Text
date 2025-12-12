@@ -9,7 +9,7 @@ aliases: ["Big Bang Theory Theme"]
 created: 2023-09-30T14:41:44+03:00
 source: ""
 related: []
-ListenInSec: 1
+ListenInSec: 9
 CoverOf: ""
 ---
 

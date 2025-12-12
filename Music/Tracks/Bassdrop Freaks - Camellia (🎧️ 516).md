@@ -9,7 +9,7 @@ NumberInAlbum: 10
 source: ""
 SourceFile: "[[Camellia feat Nanahira - Bassdrop Freaks.mp3]]"
 related: []
-ListenInSec: 13
+ListenInSec: 15
 CoverOf: ""
 ---
 

@@ -9,7 +9,7 @@ aliases: ["Kan Saete Kuyashiiwa"]
 created: 2022-10-05T13:34:14+03:00
 source: ""
 related: []
-ListenInSec: 3
+ListenInSec: 228
 CoverOf: ""
 ---
 

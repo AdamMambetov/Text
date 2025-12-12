@@ -1,7 +1,7 @@
 ---
-created: 2025-11-19T22:43:06+03:00
+created: 2025-11-19T22:43:06+0300
 aliases: ["Barenaked Ladies"]
-ListenInSec: 0
+ListenInSec: 8
 ---
 
 # Barenaked Ladies

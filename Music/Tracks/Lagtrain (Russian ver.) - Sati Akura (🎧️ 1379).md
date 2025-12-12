@@ -9,7 +9,7 @@ aliases: ["Lagtrain (Russian ver.)"]
 created: 2024-12-06T00:07:20+03:00
 source: ""
 related: []
-ListenInSec: 1
+ListenInSec: 240
 CoverOf: ""
 ---
 

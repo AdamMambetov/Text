@@ -5,11 +5,11 @@ Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[Kanon Kanon - Calendula Requiem.mp3]]"
 Year: 0
-aliases: []
+aliases: ["Calendula Requiem"]
 created: 2025-01-08T02:10:02+03:00
 source: ""
 related: []
-ListenInSec: 305
+ListenInSec: 613
 CoverOf: ""
 ---
 

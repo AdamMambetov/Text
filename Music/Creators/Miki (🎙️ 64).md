@@ -1,7 +1,7 @@
 ---
 created: 2025-06-30T19:31:46+0300
 aliases: ["Miki"]
-ListenInSec: 312
+ListenInSec: 630
 ---
 
 # Miki

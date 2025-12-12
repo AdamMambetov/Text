@@ -1,7 +1,7 @@
 ---
-created: 2025-11-19T22:40:20+03:00
+created: 2025-11-19T22:40:20+0300
 aliases: ["Avenged Sevenfold"]
-ListenInSec: 0
+ListenInSec: 12
 ---
 
 # Avenged Sevenfold
