@@ -20,8 +20,37 @@
               "icon": "lucide-file",
               "title": "Termux"
             }
+          },
+          {
+            "id": "df9e075d0b114e88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/@Адам Мамбетов.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "@Адам Мамбетов"
+            }
+          },
+          {
+            "id": "f2382021f21d57c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_inbox/NuShell.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "NuShell"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -181,15 +210,16 @@
       "obsidian42-brat:BRAT": true
     }
   },
-  "active": "4695da0453856af1",
+  "active": "f2382021f21d57c4",
   "lastOpenFiles": [
+    "content/@Адам Мамбетов.md",
+    "_inbox/NuShell.md",
+    "content/Termux.md",
     "projects/maui/Music Player Maui.md",
     "templates/move to content capture.md",
     "templates/art template.md",
     "periodic/daily/2025-11-09.md",
     "content",
-    "content/@Адам Мамбетов.md",
-    "content/Termux.md",
     "content/цели в жизни.md",
     "periodic/daily/2025-11-03.md",
     "home/homepage.md",
@@ -210,7 +240,6 @@
     "content/@Очень красивый мужчина.md",
     "_inbox/📰В США пранкер надел футболку Уничтожим патриархат.md",
     "_inbox/📰В общественной приемной партии Единая Россия города Прохладного КБР прошла неделя приёмов граждан.md",
-    "_inbox/📰В Китае мужчина почти сутки простоял на коленях, умоляя вернуться бывшую.md",
     "scripts/termux-scripts/git-sync.sh",
     "scripts/termux-scripts/git-pull.sh",
     "scripts/termux-scripts",
