@@ -9,7 +9,7 @@ aliases: ["Mercenary"]
 created: 2022-04-21T01:52:36+03:00
 source: ""
 related: []
-ListenInSec: 2
+ListenInSec: 6
 CoverOf: ""
 ---
 

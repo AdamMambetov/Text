@@ -9,7 +9,7 @@ aliases: ["Hitorigoto"]
 created: 2025-01-07T23:44:24+03:00
 source: ""
 related: []
-ListenInSec: 373
+ListenInSec: 429
 CoverOf: "[[Hitorigoto (🎧️ 1448)]]"
 ---
 

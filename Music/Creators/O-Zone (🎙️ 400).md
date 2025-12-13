@@ -1,7 +1,7 @@
 ---
-created: 2025-11-19T23:58:41+03:00
+created: 2025-11-19T23:58:41+0300
 aliases: ["O-Zone"]
-ListenInSec: 0
+ListenInSec: 70
 ---
 
 # O-Zone

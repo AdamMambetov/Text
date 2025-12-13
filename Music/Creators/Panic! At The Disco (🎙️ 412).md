@@ -1,7 +1,7 @@
 ---
-created: 2025-11-20T00:02:00+03:00
+created: 2025-11-20T00:02:00+0300
 aliases: ["Panic! At The Disco"]
-ListenInSec: 0
+ListenInSec: 4
 ---
 
 # Panic! At The Disco

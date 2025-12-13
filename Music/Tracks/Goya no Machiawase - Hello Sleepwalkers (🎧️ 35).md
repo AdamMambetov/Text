@@ -9,7 +9,7 @@ aliases: ["Goya no Machiawase"]
 created: 2022-04-21T01:52:46+03:00
 source: ""
 related: []
-ListenInSec: 207
+ListenInSec: 217
 CoverOf: ""
 ---
 

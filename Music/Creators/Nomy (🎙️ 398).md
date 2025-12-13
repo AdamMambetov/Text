@@ -1,7 +1,7 @@
 ---
-created: 2025-11-19T23:57:42+03:00
+created: 2025-11-19T23:57:42+0300
 aliases: ["Nomy"]
-ListenInSec: 0
+ListenInSec: 4
 ---
 
 # Nomy
