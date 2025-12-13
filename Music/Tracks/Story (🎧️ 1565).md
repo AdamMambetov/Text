@@ -1,16 +1,16 @@
 ---
 created: 2025-01-08T19:13:40+03:00
-aliases: []
+aliases: ["Story"]
 Cover: ""
 Year: 0
 Album: ""
-Creators: []
+Creators: ["[[HaruWei (🎙️ 329)]]"]
 NumberInAlbum: 1
 source: ""
 SourceFile: "[[HaruWei - Story.mp3]]"
 related: []
-ListenInSec: 218
-CoverOf: ""
+ListenInSec: 238
+CoverOf: "[[Story (🎧️ 1566)]]"
 ---
 
 # HaruWei - Story

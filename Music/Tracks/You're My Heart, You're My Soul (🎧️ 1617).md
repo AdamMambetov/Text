@@ -1,6 +1,6 @@
 ---
 created: 2025-01-08T23:00:12+03:00
-aliases: []
+aliases: ["You're My Heart, You're My Soul"]
 Cover: ""
 Year: 0
 Album: ""
@@ -9,7 +9,7 @@ NumberInAlbum: 1
 source: ""
 SourceFile: "[[Modern Talking - You're My Heart, You're My Soul.mp3]]"
 related: []
-ListenInSec: 21
+ListenInSec: 53
 CoverOf: ""
 ---
 

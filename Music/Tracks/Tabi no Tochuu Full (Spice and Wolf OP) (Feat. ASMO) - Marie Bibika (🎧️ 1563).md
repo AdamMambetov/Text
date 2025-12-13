@@ -5,12 +5,12 @@ Cover: ""
 NumberInAlbum: 18
 SourceFile: "[[Marie Bibika - Tabi no Tochuu.mp3]]"
 Year: 2023
-aliases: ["Tabi no Tochuu [Full] (Spice and Wolf OP) (Feat. ASMO)"]
+aliases: ["Tabi no Tochuu"]
 created: 2025-01-08T19:09:56+03:00
 source: ""
 related: []
-ListenInSec: 283
-CoverOf: ""
+ListenInSec: 393
+CoverOf: "[[Tabi No Tochu (🎧️ 1528)]]"
 ---
 
 # Marie Bibika - Tabi no Tochuu

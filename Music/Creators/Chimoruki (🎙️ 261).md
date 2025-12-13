@@ -1,7 +1,7 @@
 ---
 created: 2025-11-19T22:52:55+0300
 aliases: ["Chimoruki"]
-ListenInSec: 485
+ListenInSec: 525
 ---
 
 # Chimoruki

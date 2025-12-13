@@ -1,11 +1,11 @@
 ---
 Album: ""
-Creators: []
+Creators: ["[[ClariS (🎙️ 265)]]"]
 Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[ClariS - Hitorigoto (TV Size).mp3]]"
 Year: 0
-aliases: []
+aliases: ["Hitorigoto (TV Size)"]
 created: 2024-07-21T15:24:02+03:00
 source: ""
 related: []

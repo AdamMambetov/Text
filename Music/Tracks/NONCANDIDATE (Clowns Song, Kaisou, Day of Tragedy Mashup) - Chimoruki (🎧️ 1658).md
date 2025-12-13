@@ -1,6 +1,6 @@
 ---
 created: 2025-02-03T08:25:50+03:00
-aliases: ["NONCANDIDATE (Clowns Song, Kaisou, Day of Tragedy Mashup)"]
+aliases: ["NONCANDIDATE"]
 Cover: ""
 Year: 2021
 Album: "[[Music]]"
@@ -9,10 +9,10 @@ NumberInAlbum: 1
 source: ""
 SourceFile: "[[Chimoruki - NONCANDIDATE (Clowns Song, Kaisou, Day of Tragedy OST Mashup).mp3]]"
 related: []
-ListenInSec: 1067
+ListenInSec: 1107
 CoverOf: ""
 ---
 
-# Chimoruki - NONCANDIDATE [Clowns Song, Kaisou, Day of Tragedy OST Mashup]
+# Chimoruki - NONCANDIDATE (Clowns Song, Kaisou, Day of Tragedy OST Mashup)
 
 ![[Chimoruki - NONCANDIDATE (Clowns Song, Kaisou, Day of Tragedy OST Mashup).mp3]]

@@ -1,14 +1,14 @@
 ---
 created: 2025-05-04T14:48:16+03:00
-aliases: ["Eminem - Crab God (Full Version)"]
+aliases: ["Crab God"]
 Year: 2019
 Album: ""
 Creators: []
 SourceFile: "[[Kanskaart - Crab God (Lose Yourself, Crab Rave Mashup).mp3]]"
 Cover: ""
 NumberInAlbum: 0
-related: []
-ListenInSec: 205
+related: ["[[Lose Yourself - Eminem (🎧️ 344)]]"]
+ListenInSec: 224
 CoverOf: ""
 ---
 

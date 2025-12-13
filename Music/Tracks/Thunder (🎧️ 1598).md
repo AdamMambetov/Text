@@ -1,16 +1,16 @@
 ---
 Album: ""
-Creators: []
+Creators: ["[[RADIO TAPOK (🎙️ 423)]]"]
 Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[RADIO TAPOK - Thunder.mp3]]"
 Year: 0
-aliases: []
+aliases: ["Thunder"]
 created: 2025-01-08T20:37:00+03:00
 source: ""
 related: []
-ListenInSec: 348
-CoverOf: ""
+ListenInSec: 373
+CoverOf: "[[Thunder - Imagine Dragons (🎧️ 155)]]"
 ---
 
 # RADIO TAPOK - Thunder

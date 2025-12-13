@@ -1,6 +1,6 @@
 ---
 created: 2025-01-08T23:34:50+03:00
-aliases: []
+aliases: ["Take On Me"]
 Cover: ""
 Year: 0
 Album: ""

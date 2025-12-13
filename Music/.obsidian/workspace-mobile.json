@@ -8,63 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "59fd4f79299bce04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Playlists/Яндекс (💿 7).md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Яндекс (💿 7)"
-            }
-          },
-          {
-            "id": "4f10e99a5ced55d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Playlists/Favorites (💿 1).md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Favorites (💿 1)"
-            }
-          },
-          {
             "id": "21242bd0528152f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Playlists/osu! (💿 2).md",
+                "file": "Playlists/YouTube (💿 9).md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "osu! (💿 2)"
+              "title": "YouTube (💿 9)"
             }
           },
           {
-            "id": "2985d25dca6c7472",
+            "id": "dd0cf37679663172",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tracks/River Flows In You (A Love Note) (🎧️ 1650).md",
-                "mode": "preview",
+                "file": "Tracks/Hitorigoto (TV Size) (🎧️ 983).md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "River Flows In You (A Love Note) (🎧️ 1650)"
+              "title": "Hitorigoto (TV Size) (🎧️ 983)"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,7 +102,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Tracks/Падение (🎧️ 743).md",
+            "file": "Tracks/Hitorigoto (TV Size) (🎧️ 983).md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -169,33 +141,33 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2985d25dca6c7472",
+  "active": "dd0cf37679663172",
   "lastOpenFiles": [
-    "Playlists/osu! (💿 2).md",
-    "Tracks/Peer Gynt (🎧️ 418).md",
-    "Tracks/Harumachi Clover (TV Size) (🎧️ 419).md",
-    "Tracks/Classic Pursuit (🎧️ 422).md",
-    "Tracks/Moonlight Sonata (🎧️ 424).md",
-    "Tracks/Harumachi Clover (Swing Arrangement) (🎧️ 427).md",
-    "Tracks/A Centralized View (🎧️ 431).md",
-    "Tracks/The Quick Brown Fox (🎧️ 440).md",
-    "Tracks/This Will Be the Day (feat. Casey Lee Williams) (TV Size) (🎧️ 434).md",
-    "Tracks/Welcome To The Clu - MT Nightcore (🎧️ 485).md",
-    "Tracks/Cold Green Eyes ft Roos Denayer - Station Earth (🎧️ 503).md",
-    "Tracks/Dadadadadadadadadada (🎧️ 523).md",
-    "Tracks/RAISE MY SWORD (🎧️ 524).md",
-    "Tracks/Hitoribocchi no Monologue (TV Size) (🎧️ 542).md",
-    "Tracks/HIKARI (TV Size) (🎧️ 966).md",
-    "Tracks/snooze (feat. SHIKI) - wotaku (🎧️ 967).md",
-    "Tracks/Violet Perfume (🎧️ 990).md",
-    "Tracks/Just Awake (TV Size) (🎧️ 999).md",
-    "Tracks/Friendzoned (feat. Mixie Moon & MC Offside) - S3RL (🎧️ 1381).md",
-    "Tracks/Deep In The Night (Original Mix) - Pegboard Nerds & Snails (🎧️ 416).md",
-    "Tracks/River Flows In You (A Love Note) (🎧️ 1650).md",
-    "Playlists/100% Шедевр (💿 6).md",
-    "Tracks/RUSH E (🎧️ 605).md",
-    "Tracks/Gourmet Race Theme 1 (🎧️ 1576).md",
-    "Tracks/CHOIR JAIL (TV Size) (🎧️ 1582).md",
-    "Tracks/CHOIR JAIL (🎧️ 1581).md"
+    "Tracks/Hitorigoto - Sati Akura (🎧️ 469).md",
+    "Tracks/Hitorigoto (🎧️ 1447).md",
+    "Playlists/YouTube (💿 9).md",
+    "Tracks/Hitorigoto (🎧️ 1448).md",
+    "Tracks/The WORLD - Игорь Куликов (🎧️ 1346).md",
+    "Tracks/Trip Innocent of D (🎧️ 1546).md",
+    "Tracks/Trip Innocent of D (🎧️ 779).md",
+    "Tracks/Lagtrain (Russian ver.) - Sati Akura (🎧️ 1379).md",
+    "Tracks/Tabi no Tochuu Full (Spice and Wolf OP) (Feat. ASMO) - Marie Bibika (🎧️ 1563).md",
+    "Tracks/Tabi No Tochu (🎧️ 1528).md",
+    "Tracks/Kina No Kaori ~Ai No Shiren!~ (🎧️ 1564).md",
+    "Tracks/Story (🎧️ 1565).md",
+    "Tracks/Story (🎧️ 1566).md",
+    "Tracks/IDOL (🎧️ 1570).md",
+    "Tracks/Main theme from HoMM V (🎧️ 1573).md",
+    "Tracks/Grass Theme From HoMM II (🎧️ 1574).md",
+    "Tracks/Find the Flame (🎧️ 1575).md",
+    "Tracks/Red Fraction (🎧️ 1580).md",
+    "Tracks/Red Fraction (🎧️ 1585).md",
+    "Tracks/Du Hast (🎧️ 1590).md",
+    "Tracks/Du Hast (🎧️ 1591).md",
+    "Tracks/Warriors Of The World (🎧️ 1592).md",
+    "Tracks/Warriors of the World (🎧️ 1593).md",
+    "Tracks/Wrong Side of Heaven (🎧️ 1595).md",
+    "Tracks/Wrong Side of Heaven (🎧️ 1594).md",
+    "Tracks/Radioactive (🎧️ 1596).md"
   ]
 }
