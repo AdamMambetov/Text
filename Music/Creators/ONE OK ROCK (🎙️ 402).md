@@ -1,7 +1,7 @@
 ---
-created: 2025-11-19T23:59:10+03:00
+created: 2025-11-19T23:59:10+0300
 aliases: ["ONE OK ROCK"]
-ListenInSec: 0
+ListenInSec: 36
 ---
 
 # ONE OK ROCK

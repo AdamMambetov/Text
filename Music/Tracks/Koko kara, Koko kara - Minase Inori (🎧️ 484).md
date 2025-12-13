@@ -9,7 +9,7 @@ NumberInAlbum: 1
 source: ""
 SourceFile: "[[Minase Inori, Kana Hanazawa, Iguchi Yuka, Hayami Saori - Koko kara, Koko kara (TV Size).mp3]]"
 related: []
-ListenInSec: 3
+ListenInSec: 58
 CoverOf: ""
 ---
 

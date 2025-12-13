@@ -1,17 +1,15 @@
 ---
-Album: "[[Speeeedy EDM Blog - главный источник электронной музыки вконтакте!\r]]"
-
-  vk.com/speeeedy]]"
+Album: ""
 Creators: []
 Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[Snails & Pegboard Nerds - Deep In The Night.mp3]]"
 Year: 2016
-aliases: ["Deep In The Night (Original Mix)"]
+aliases: ["Deep In The Night"]
 created: 2022-05-02T03:05:52+03:00
 source: ""
 related: []
-ListenInSec: 304
+ListenInSec: 344
 CoverOf: ""
 ---
 

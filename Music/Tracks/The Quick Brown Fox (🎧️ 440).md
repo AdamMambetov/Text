@@ -5,11 +5,11 @@ Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[The Quick Brown Fox - The Big Black.mp3]]"
 Year: 2009
-aliases: []
+aliases: ["The Big Black"]
 created: 2022-06-09T01:54:54+03:00
 source: ""
 related: []
-ListenInSec: 146
+ListenInSec: 208
 CoverOf: ""
 ---
 

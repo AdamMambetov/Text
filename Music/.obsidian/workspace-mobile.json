@@ -41,26 +41,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Playlists/100% Шедевр (💿 6).md",
+                "file": "Playlists/osu! (💿 2).md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "100% Шедевр (💿 6)"
+              "title": "osu! (💿 2)"
             }
           },
           {
-            "id": "cc2c4cc80cc5caac",
+            "id": "2985d25dca6c7472",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Playlists/100% Шедевр (💿 6).md",
+                "file": "Tracks/River Flows In You (A Love Note) (🎧️ 1650).md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "100% Шедевр (💿 6)"
+              "title": "River Flows In You (A Love Note) (🎧️ 1650)"
             }
           }
         ],
@@ -169,33 +169,33 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cc2c4cc80cc5caac",
+  "active": "2985d25dca6c7472",
   "lastOpenFiles": [
+    "Playlists/osu! (💿 2).md",
+    "Tracks/Peer Gynt (🎧️ 418).md",
+    "Tracks/Harumachi Clover (TV Size) (🎧️ 419).md",
+    "Tracks/Classic Pursuit (🎧️ 422).md",
+    "Tracks/Moonlight Sonata (🎧️ 424).md",
+    "Tracks/Harumachi Clover (Swing Arrangement) (🎧️ 427).md",
+    "Tracks/A Centralized View (🎧️ 431).md",
+    "Tracks/The Quick Brown Fox (🎧️ 440).md",
+    "Tracks/This Will Be the Day (feat. Casey Lee Williams) (TV Size) (🎧️ 434).md",
+    "Tracks/Welcome To The Clu - MT Nightcore (🎧️ 485).md",
+    "Tracks/Cold Green Eyes ft Roos Denayer - Station Earth (🎧️ 503).md",
+    "Tracks/Dadadadadadadadadada (🎧️ 523).md",
+    "Tracks/RAISE MY SWORD (🎧️ 524).md",
+    "Tracks/Hitoribocchi no Monologue (TV Size) (🎧️ 542).md",
+    "Tracks/HIKARI (TV Size) (🎧️ 966).md",
+    "Tracks/snooze (feat. SHIKI) - wotaku (🎧️ 967).md",
+    "Tracks/Violet Perfume (🎧️ 990).md",
+    "Tracks/Just Awake (TV Size) (🎧️ 999).md",
+    "Tracks/Friendzoned (feat. Mixie Moon & MC Offside) - S3RL (🎧️ 1381).md",
+    "Tracks/Deep In The Night (Original Mix) - Pegboard Nerds & Snails (🎧️ 416).md",
+    "Tracks/River Flows In You (A Love Note) (🎧️ 1650).md",
+    "Playlists/100% Шедевр (💿 6).md",
     "Tracks/RUSH E (🎧️ 605).md",
     "Tracks/Gourmet Race Theme 1 (🎧️ 1576).md",
-    "Playlists/100% Шедевр (💿 6).md",
     "Tracks/CHOIR JAIL (TV Size) (🎧️ 1582).md",
-    "Tracks/CHOIR JAIL (🎧️ 1581).md",
-    "Tracks/Red Fraction (🎧️ 1585).md",
-    "Tracks/Secret of the Forest (🎧️ 1589).md",
-    "Tracks/Shrek 2 Soundtrack   1. Counting Crows - Accidentally in Love - atnaloj626 (🎧️ 1678).md",
-    "Tracks/Shrek 2 Soundtrack   5. Lipps Inc - Funkytown - atnaloj626 (🎧️ 1680).md",
-    "Tracks/Flåklypa - Rameses B (🎧️ 466).md",
-    "Tracks/the WORLD (🎧️ 634).md",
-    "Tracks/Identity (🎧️ 637).md",
-    "Tracks/Gotye - Somebody That I Used To Know (feat. Kimbra) Official Music Video - Gotye (🎧️ 1669).md",
-    "Tracks/VORTEX (🎧️ 1560).md",
-    "Tracks/Kabaneri of the Iron Fortress (🎧️ 1625).md",
-    "Tracks/nana (🎧️ 1398).md",
-    "Tracks/Sakura Mitsutsuki (🎧️ 1479).md",
-    "Tracks/Necropolis Town Theme (🎧️ 783).md",
-    "Tracks/Ready Steady Go (🎧️ 614).md",
-    "Tracks/Rightfully (🎧️ 1507).md",
-    "Tracks/George Michael - Careless Whisper (Official Video) - georgemichael (🎧️ 1668).md",
-    "Tracks/Quiplash OST - Round 1 Write - Broder (🎧️ 1675).md",
-    "Playlists/Favorites (💿 1).md",
-    "Tracks/L.L.L (🎧️ 636).md",
-    "Tracks/Испания (🎧️ 713).md",
-    "Tracks/Падение (🎧️ 743).md"
+    "Tracks/CHOIR JAIL (🎧️ 1581).md"
   ]
 }

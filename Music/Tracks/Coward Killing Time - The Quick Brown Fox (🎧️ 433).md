@@ -9,7 +9,7 @@ aliases: ["Coward Killing Time"]
 created: 2022-05-02T04:00:48+03:00
 source: ""
 related: []
-ListenInSec: 13
+ListenInSec: 61
 CoverOf: ""
 ---
 

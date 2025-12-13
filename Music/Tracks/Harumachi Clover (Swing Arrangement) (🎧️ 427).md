@@ -1,15 +1,15 @@
 ---
 Album: ""
-Creators: []
+Creators: ["[[Will Stetson (🎙️ 483)]]"]
 Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[Will Stetson - Harumachi Clover (Swing Arrangement).mp3]]"
 Year: 0
-aliases: []
+aliases: ["Harumachi Clover (Swing Arrangement)"]
 created: 2022-05-02T03:40:04+03:00
 source: ""
 related: []
-ListenInSec: 12
+ListenInSec: 47
 CoverOf: ""
 ---
 

@@ -9,7 +9,7 @@ aliases: ["Burnt Rice"]
 created: 2022-10-05T13:54:06+03:00
 source: ""
 related: []
-ListenInSec: 4
+ListenInSec: 48
 CoverOf: ""
 ---
 

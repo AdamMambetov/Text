@@ -5,11 +5,11 @@ Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[VINXIS - A Centralized View.mp3]]"
 Year: 0
-aliases: []
+aliases: ["A Centralized View"]
 created: 2022-05-02T03:49:08+03:00
 source: ""
 related: []
-ListenInSec: 158
+ListenInSec: 200
 CoverOf: ""
 ---
 

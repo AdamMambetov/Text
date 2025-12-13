@@ -9,7 +9,7 @@ aliases: ["Watashi no Tenshi"]
 created: 2022-10-05T14:07:26+03:00
 source: ""
 related: []
-ListenInSec: 8
+ListenInSec: 45
 CoverOf: ""
 ---
 
