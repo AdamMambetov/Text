@@ -49,8 +49,3 @@ pkg update && pkg upgrade
 > ```
 
 ---
-
-```
-Generating public/private rsa key pair.
-Your identification has been saved in /data/data/com.termux/files/usr/etc/ssh/ssh_host_rsa_key
-```
