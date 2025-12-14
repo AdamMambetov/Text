@@ -152,3 +152,21 @@ killall waybar && hyprctl dispatch execr waybar
 ```bash
 pkill waybar && hyprctl dispatch exec waybar
 ```
+
+## Анимация матрицы в терминале (unimatrix)
+
+[Источник](https://github.com/will8211/unimatrix)
+
+### Как установить
+
+```bash
+sudo curl -L https://raw.githubusercontent.com/will8211/unimatrix/master/unimatrix.py -o /usr/local/bin/unimatrix
+sudo chmod a+rx /usr/local/bin/unimatrix
+```
+
+### Запуск
+
+```bash
+unimatrix
+```
+
