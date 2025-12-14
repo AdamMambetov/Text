@@ -6,12 +6,6 @@ const result = await modalForm.openForm("track-form", { values: {
 	aliases: [tp.file.title],
 }});
 
-//let aliases = result.asString("{{aliases}}")
-//let aliases
-//if (aliases !== "{{aliases}}") {
-//	aliases = aliases.split(",")
-//	console.log(aliases)
-//}
 let aliases = result.get("aliases")
 let title = result.aliases.value[0]
 let year = result.get("Year")
