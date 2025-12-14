@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "fa56c5a2fd917216",
+        "id": "a3fc91cd8e1e0590",
         "type": "tabs",
         "children": [
           {
-            "id": "f7ee106d6b433380",
+            "id": "d06fc2837271f266",
             "type": "leaf",
             "state": {
-              "type": "3d-graph-view-global",
+              "type": "smart-release-notes-view",
               "state": {},
-              "icon": "orbit",
-              "title": "Global 3D Graph"
+              "icon": "file-text",
+              "title": "Release Notes"
             }
           }
         ]
@@ -66,8 +66,8 @@
             "state": {
               "type": "bookmarks",
               "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "icon": "lucide-ghost",
+              "title": "bookmarks"
             }
           }
         ]
@@ -159,9 +159,19 @@
               "icon": "links-going-out",
               "title": "Outgoing links"
             }
+          },
+          {
+            "id": "7e0b1d9c12abb036",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Connections"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -170,19 +180,23 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "cmdr:Emoji Toolbar: Open emoji picker": false,
+      "cmdr:QuickAdd: Rename art": false,
+      "modalforms:Edit forms": false,
+      "quickadd:QuickAdd": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false,
-      "3d-graph-new:Global 3D Graph": false
+      "3d-graph-new:Global 3D Graph": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Smart Lookup: Open lookup view": false,
+      "smart-connections:Smart Connections: Open random connection": false
     }
   },
-  "active": "f7ee106d6b433380",
+  "active": "d06fc2837271f266",
   "lastOpenFiles": [
     "covers/91_days_anime_cover.jpg",
     "_art base.base",
