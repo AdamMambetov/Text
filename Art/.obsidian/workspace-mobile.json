@@ -14,10 +14,24 @@
               "type": "bases",
               "state": {
                 "file": "_art base.base",
-                "viewName": "Шедевры"
+                "viewName": "Смотрю"
               },
               "icon": "lucide-layout-grid",
               "title": "_art base"
+            }
+          },
+          {
+            "id": "5515c868986ffa30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/18if (🇯🇵📺 62).md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "18if (🇯🇵📺 62)"
             }
           },
           {
@@ -175,11 +189,12 @@
       "quickadd:QuickAdd": false
     }
   },
-  "active": "11d98c30a95eac74",
+  "active": "5515c868986ffa30",
   "lastOpenFiles": [
+    "_art base.base",
+    "content/One Punch Man 3 (🇯🇵📺 727).md",
     "content/Yuusha ga Shinda! (🇯🇵📺 1195).md",
     "content/Tower Dungeon (🇯🇵📗 1194).md",
-    "content/One Punch Man 3 (🇯🇵📺 727).md",
     "covers/yuusha_ga_shinda_anime_cover.jpg",
     "covers/tower_dungeon_manga_cover.jpg",
     "content/One Punch Man 2 (🇯🇵📺 377).md",
@@ -188,7 +203,6 @@
     "content/Blue Lock 1 (🇯🇵📺 731).md",
     "covers/blue_lock_episode_nagi_anime_film_cover.jpg",
     "covers/blue_lock_2_anime_cover.jpg",
-    "_art base.base",
     "content/Человек-бензопила. Резе (🇯🇵📺 1145).md",
     "franchises/📚The Dark Pictures Anthology.md",
     "franchises/📚Колесо времени.md",
