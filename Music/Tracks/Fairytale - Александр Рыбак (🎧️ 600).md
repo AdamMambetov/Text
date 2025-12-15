@@ -9,7 +9,7 @@ NumberInAlbum: 1
 source: ""
 SourceFile: "[[Александр Рыбак - Fairytale.mp3]]"
 related: []
-ListenInSec: 174
+ListenInSec: 357
 CoverOf: ""
 ---
 

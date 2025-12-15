@@ -9,7 +9,7 @@ aliases: ["I Wanna Rock"]
 created: 2022-12-20T23:34:26+03:00
 source: ""
 related: []
-ListenInSec: 9
+ListenInSec: 177
 CoverOf: ""
 ---
 

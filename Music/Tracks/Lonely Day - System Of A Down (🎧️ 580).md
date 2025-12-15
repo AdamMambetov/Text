@@ -9,7 +9,7 @@ aliases: ["Lonely Day"]
 created: 2022-12-20T23:27:18+03:00
 source: ""
 related: []
-ListenInSec: 167
+ListenInSec: 330
 CoverOf: ""
 ---
 

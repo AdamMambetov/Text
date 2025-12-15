@@ -9,7 +9,7 @@ aliases: ["Let The Bad Times Roll"]
 created: 2022-04-22T21:40:28+03:00
 source: ""
 related: []
-ListenInSec: 2
+ListenInSec: 10
 CoverOf: ""
 ---
 

@@ -1,7 +1,7 @@
 ---
-created: 2025-11-20T00:33:14+03:00
+created: 2025-11-20T00:33:14+0300
 aliases: ["Twisted Sister"]
-ListenInSec: 0
+ListenInSec: 168
 ---
 
 # Twisted Sister

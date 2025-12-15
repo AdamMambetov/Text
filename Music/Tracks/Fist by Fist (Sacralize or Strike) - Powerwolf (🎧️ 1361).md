@@ -9,7 +9,7 @@ aliases: ["Fist by Fist (Sacralize or Strike)"]
 created: 2024-10-30T19:17:44+03:00
 source: ""
 related: []
-ListenInSec: 9
+ListenInSec: 10
 CoverOf: ""
 ---
 

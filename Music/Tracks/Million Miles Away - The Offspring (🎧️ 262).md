@@ -9,7 +9,7 @@ aliases: ["Million Miles Away"]
 created: 2022-04-22T21:40:36+03:00
 source: ""
 related: []
-ListenInSec: 7
+ListenInSec: 16
 CoverOf: ""
 ---
 

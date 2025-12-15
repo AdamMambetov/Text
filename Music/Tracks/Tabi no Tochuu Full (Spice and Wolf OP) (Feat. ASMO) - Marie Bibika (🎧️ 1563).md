@@ -9,7 +9,7 @@ aliases: ["Tabi no Tochuu"]
 created: 2025-01-08T19:09:56+03:00
 source: ""
 related: []
-ListenInSec: 393
+ListenInSec: 665
 CoverOf: "[[Tabi No Tochu (🎧️ 1528)]]"
 ---
 

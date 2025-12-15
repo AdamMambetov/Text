@@ -9,7 +9,7 @@ aliases: ["I Don't Want to Miss a Thing"]
 created: 2025-01-08T20:45:32+03:00
 source: ""
 related: []
-ListenInSec: 82
+ListenInSec: 247
 CoverOf: "[[I Don't Want to Miss a Thing - Aerosmith (🎧️ 749)]]"
 ---
 

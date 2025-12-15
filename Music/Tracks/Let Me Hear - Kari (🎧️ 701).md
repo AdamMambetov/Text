@@ -9,7 +9,7 @@ NumberInAlbum: 1
 source: ""
 SourceFile: "[[Kari - Let Me Hear.m4a]]"
 related: []
-ListenInSec: 9
+ListenInSec: 219
 CoverOf: ""
 ---
 

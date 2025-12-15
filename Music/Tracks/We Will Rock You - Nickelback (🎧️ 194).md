@@ -9,7 +9,7 @@ aliases: ["We Will Rock You"]
 created: 2022-04-22T21:13:28+03:00
 source: ""
 related: []
-ListenInSec: 50
+ListenInSec: 163
 CoverOf: ""
 ---
 

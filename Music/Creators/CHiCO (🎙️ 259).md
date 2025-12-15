@@ -1,7 +1,7 @@
 ---
-created: 2025-11-19T22:51:03+03:00
+created: 2025-11-19T22:51:03+0300
 aliases: ["CHiCO"]
-ListenInSec: 0
+ListenInSec: 9
 ---
 
 # CHiCO

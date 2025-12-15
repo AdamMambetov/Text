@@ -9,7 +9,7 @@ NumberInAlbum: 1
 source: ""
 SourceFile: "[[DiWilliam - Love Dramatic.mp3]]"
 related: []
-ListenInSec: 5
+ListenInSec: 55
 CoverOf: ""
 ---
 

@@ -12,7 +12,7 @@ NumberInAlbum: 1
 source: ""
 SourceFile: "[[NotADub - Inochi no Tabekata.mp3]]"
 related: []
-ListenInSec: 240
+ListenInSec: 484
 CoverOf: "[[Inochi No Tabekata - Eve (🎧️ 1319)]]"
 ---
 

@@ -1,7 +1,7 @@
 ---
-created: 2025-11-19T22:55:22+03:00
+created: 2025-11-19T22:55:22+0300
 aliases: ["Emmy"]
-ListenInSec: 0
+ListenInSec: 231
 ---
 
 # Emmy
