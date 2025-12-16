@@ -18,12 +18,6 @@ source: https://cgsensei.pro/quick
 # Быстрый старт в Unreal Engine
 
 
-
-
-
-
-
-
 ## Описание
 
 
