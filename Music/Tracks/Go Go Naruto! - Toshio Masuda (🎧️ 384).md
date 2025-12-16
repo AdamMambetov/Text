@@ -9,7 +9,7 @@ aliases: ["Go Go Naruto!"]
 created: 2022-04-28T17:39:20+03:00
 source: ""
 related: []
-ListenInSec: 138
+ListenInSec: 249
 CoverOf: ""
 ---
 

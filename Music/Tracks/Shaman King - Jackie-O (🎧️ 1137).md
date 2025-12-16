@@ -9,7 +9,7 @@ aliases: ["Shaman King"]
 created: 2024-10-05T15:15:38+03:00
 source: ""
 related: []
-ListenInSec: 195
+ListenInSec: 381
 CoverOf: ""
 ---
 
