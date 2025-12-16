@@ -1,7 +1,7 @@
 ---
-created: 2025-11-19T23:34:20+03:00
+created: 2025-11-19T23:34:20+0300
 aliases: ["KSUKE"]
-ListenInSec: 0
+ListenInSec: 2
 ---
 
 # KSUKE

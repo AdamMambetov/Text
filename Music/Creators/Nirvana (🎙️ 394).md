@@ -1,7 +1,7 @@
 ---
-created: 2025-11-19T23:57:02+03:00
+created: 2025-11-19T23:57:02+0300
 aliases: ["Nirvana"]
-ListenInSec: 0
+ListenInSec: 300
 ---
 
 # Nirvana

@@ -9,7 +9,7 @@ aliases: ["Gold"]
 created: 2024-10-30T19:30:48+03:00
 source: ""
 related: []
-ListenInSec: 10
+ListenInSec: 225
 CoverOf: ""
 ---
 

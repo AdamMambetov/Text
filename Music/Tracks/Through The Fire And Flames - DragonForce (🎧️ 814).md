@@ -9,7 +9,7 @@ NumberInAlbum: 1
 source: ""
 SourceFile: "[[DragonForce - Through The Fire And Flames.mp3]]"
 related: []
-ListenInSec: 2
+ListenInSec: 353
 CoverOf: ""
 ---
 

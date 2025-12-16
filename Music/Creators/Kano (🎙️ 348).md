@@ -1,7 +1,7 @@
 ---
-created: 2025-11-19T23:26:57+03:00
+created: 2025-11-19T23:26:57+0300
 aliases: ["Kano"]
-ListenInSec: 0
+ListenInSec: 253
 ---
 
 # Kano

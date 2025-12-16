@@ -9,7 +9,7 @@ aliases: ["Walking The Wire"]
 created: 2022-04-22T20:56:04+03:00
 source: ""
 related: []
-ListenInSec: 2
+ListenInSec: 12
 CoverOf: ""
 ---
 
