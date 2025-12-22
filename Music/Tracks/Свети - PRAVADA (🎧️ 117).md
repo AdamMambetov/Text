@@ -9,7 +9,7 @@ aliases: ["Свети"]
 created: 2022-04-21T05:03:14+03:00
 source: ""
 related: []
-ListenInSec: 1
+ListenInSec: 230
 CoverOf: ""
 ---
 

@@ -9,7 +9,7 @@ aliases: ["CHOIR JAIL"]
 created: 2025-01-08T19:54:10+03:00
 source: ""
 related: []
-ListenInSec: 230
+ListenInSec: 462
 CoverOf: "[[CHOIR JAIL - Konomi Suzuki (🎧️ 1583)]]"
 ---
 

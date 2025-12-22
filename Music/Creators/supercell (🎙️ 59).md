@@ -1,7 +1,7 @@
 ---
 created: 2025-06-30T19:00:32+0300
 aliases: ["supercell"]
-ListenInSec: 418
+ListenInSec: 508
 ---
 
 # supercell

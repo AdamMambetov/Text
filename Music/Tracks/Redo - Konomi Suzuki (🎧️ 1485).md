@@ -9,7 +9,7 @@ NumberInAlbum: 1
 source: ""
 SourceFile: "[[Konomi Suzuki - Redo.mp3]]"
 related: []
-ListenInSec: 548
+ListenInSec: 801
 CoverOf: ""
 ---
 

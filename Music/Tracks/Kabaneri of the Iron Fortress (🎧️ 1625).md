@@ -9,7 +9,7 @@ aliases: ["Kabaneri of the Iron Fortress"]
 created: 2025-01-08T23:19:02+03:00
 source: ""
 related: []
-ListenInSec: 874
+ListenInSec: 1163
 CoverOf: ""
 ---
 

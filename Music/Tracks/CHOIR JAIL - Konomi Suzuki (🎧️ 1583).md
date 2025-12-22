@@ -9,7 +9,7 @@ NumberInAlbum: 1
 source: ""
 SourceFile: "[[Konomi Suzuki - CHOIR JAIL.mp3]]"
 related: []
-ListenInSec: 1138
+ListenInSec: 1371
 CoverOf: ""
 ---
 
