@@ -1,7 +1,7 @@
 ---
 created: 2025-06-30T19:08:53+0300
 aliases: ["DiWilliam"]
-ListenInSec: 839
+ListenInSec: 1072
 ---
 
 # DiWilliam

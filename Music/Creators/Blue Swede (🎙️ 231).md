@@ -1,7 +1,7 @@
 ---
-created: 2025-11-19T22:45:54+03:00
+created: 2025-11-19T22:45:54+0300
 aliases: ["Blue Swede"]
-ListenInSec: 0
+ListenInSec: 173
 ---
 
 # Blue Swede

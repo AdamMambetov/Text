@@ -1,7 +1,7 @@
 ---
 created: 2025-11-19T23:18:36+0300
 aliases: ["Kugimiya Rie"]
-ListenInSec: 779
+ListenInSec: 982
 ---
 
 # Kugimiya Rie
