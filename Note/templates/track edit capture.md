@@ -1,10 +1,23 @@
-<% "---" %>
+---
+aliases:
+  - "5"
+  - j
+  - jgffg
+---
+
 <%*
 dv = app.plugins.plugins.dataview.api
 const modalForm = app.plugins.plugins.modalforms.api;
-const result = await modalForm.openForm("track-form", { values: {
-	aliases: [tp.file.title],
-}});
+let page = dv.page(tp.file.path(true))
+let keys = ["aliases", "Year", "Album", "Creators", "NumberInAlbum", "source", "SourceFile", "related", "ListenInSec", "CoverOf", "SelectedCover"]
+let values = {}
+for (let i in keys) {
+	let k = keys[i]
+	if (page[k] == null) continue
+	values[k] = page[k]
+}
+
+const result = await modalForm.openForm("track-edit-form", { values: values });
 
 let aliases = result.get("aliases")
 let title = result.aliases.value[0]
@@ -33,32 +46,11 @@ if (coverTFile != null) {
 	await tp.app.fileManager.renameFile(coverTFile, `${path}/${cover}`)
 	cover = `[[${cover}]]`
 } else {
-	cover = ""
+	cover = `[[${result.get("SelectedCover")}]]`
 }
 
-let num = dv.pages('"Text/Music/Tracks"').length
-await tp.file.rename(`${title} (🎧️ ${num})`);
-
-tR += `created: ${tp.date.now("YYYY-MM-DD[T]HH:mm:ssZ")}\n`
-tR += `aliases: ${aliases}\n`
-tR += `Cover: "${cover}"\n`
-tR += `Year: ${year}\n`
-tR += `Album: "${album}"\n`
-tR += `Creators: [${creators}]\n`
-tR += `NumberInAlbum: ${numberInAlbum}\n`
-tR += `source: "${source}"\n`
-tR += `SourceFile: "[[${sourceFile}]]"\n`
-tR += `related: [${related}]\n`
-tR += `ListenInSec: ${listenInSec}\n`
-tR += `CoverOf: "${coverOf}"\n`
+await tp.app.fileManager.processFrontMatter(file, async (fm) => {
+	for (let i in )
+	fm[]
+})
 -%>
-<% "---" %>
-
-
-# <% title %>
-
-<% `![[${sourceFile}]]` %>
-
-## Related Tracks
-
-![[related tracks.base]]

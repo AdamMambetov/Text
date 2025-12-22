@@ -6,3 +6,4 @@ source: https://www.deepl.com/ru/translator
 # DeepL
 
 Самый точный переводчик в мире.
+Запрещён в России.
