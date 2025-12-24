@@ -1,7 +1,7 @@
 ---
-created: 2025-11-20T00:33:04+03:00
+created: 2025-11-20T00:33:04+0300
 aliases: ["twenty one pilots"]
-ListenInSec: 0
+ListenInSec: 118
 ---
 
 # twenty one pilots

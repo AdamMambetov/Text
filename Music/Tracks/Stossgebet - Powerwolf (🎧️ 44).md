@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[Powerwolf - Stossgebet.mp3]]"
 related: []
-ListenInSec: 2
+ListenInSec: 234
 CoverOf: ""
 ---
 

@@ -1,7 +1,7 @@
 ---
-created: 2025-11-19T23:14:36+03:00
+created: 2025-11-19T23:14:36+0300
 aliases: ["Gloryhammer"]
-ListenInSec: 0
+ListenInSec: 1
 ---
 
 # Gloryhammer

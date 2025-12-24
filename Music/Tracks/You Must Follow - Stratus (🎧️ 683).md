@@ -9,7 +9,7 @@ aliases: ["You Must Follow"]
 created: 2023-09-30T15:55:26+03:00
 source: ""
 related: []
-ListenInSec: 2
+ListenInSec: 15
 CoverOf: ""
 ---
 

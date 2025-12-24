@@ -9,7 +9,7 @@ aliases: ["Beautiful Lie (Ver.B)"]
 created: 2025-01-08T17:25:58+03:00
 source: ""
 related: []
-ListenInSec: 459
+ListenInSec: 698
 CoverOf: ""
 ---
 

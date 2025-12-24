@@ -9,7 +9,7 @@ aliases: ["ノーボーイ・ノークライ"]
 created: 2024-06-14T15:24:10+03:00
 source: ""
 related: []
-ListenInSec: 204
+ListenInSec: 416
 CoverOf: ""
 ---
 

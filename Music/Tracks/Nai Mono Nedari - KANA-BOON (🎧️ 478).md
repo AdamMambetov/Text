@@ -9,7 +9,7 @@ aliases: ["Nai Mono Nedari"]
 created: 2022-10-05T13:33:32+03:00
 source: ""
 related: []
-ListenInSec: 4
+ListenInSec: 6
 CoverOf: ""
 ---
 

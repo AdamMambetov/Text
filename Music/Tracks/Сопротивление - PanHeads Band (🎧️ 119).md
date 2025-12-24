@@ -9,7 +9,7 @@ aliases: ["Сопротивление"]
 created: 2022-04-21T05:10:22+03:00
 source: ""
 related: []
-ListenInSec: 2
+ListenInSec: 181
 CoverOf: ""
 ---
 

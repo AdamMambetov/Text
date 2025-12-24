@@ -9,7 +9,7 @@ aliases: ["Chirality"]
 created: 2022-10-05T13:04:44+03:00
 source: ""
 related: []
-ListenInSec: 4
+ListenInSec: 105
 CoverOf: ""
 ---
 

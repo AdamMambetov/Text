@@ -1,7 +1,7 @@
 ---
-created: 2025-11-20T00:27:36+03:00
+created: 2025-11-20T00:27:36+0300
 aliases: ["the peggies"]
-ListenInSec: 0
+ListenInSec: 226
 ---
 
 # the peggies

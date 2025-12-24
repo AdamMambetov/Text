@@ -9,7 +9,7 @@ aliases: ["Sacrifice"]
 created: 2024-01-03T00:07:36+03:00
 source: ""
 related: []
-ListenInSec: 298
+ListenInSec: 500
 CoverOf: "[[Sacrifice - 9mm Parabellum Bullet (🎧️ 1)]]"
 ---
 

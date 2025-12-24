@@ -9,7 +9,7 @@ aliases: ["Time of Dying"]
 created: 2022-04-22T21:47:50+03:00
 source: ""
 related: []
-ListenInSec: 1
+ListenInSec: 2
 CoverOf: ""
 ---
 

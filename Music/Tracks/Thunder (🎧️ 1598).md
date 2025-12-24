@@ -9,7 +9,7 @@ aliases: ["Thunder"]
 created: 2025-01-08T20:37:00+03:00
 source: ""
 related: []
-ListenInSec: 373
+ListenInSec: 549
 CoverOf: "[[Thunder - Imagine Dragons (🎧️ 155)]]"
 ---
 

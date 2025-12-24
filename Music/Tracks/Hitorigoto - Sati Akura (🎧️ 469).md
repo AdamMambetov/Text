@@ -9,7 +9,7 @@ aliases: ["Hitorigoto (TV Size)"]
 created: 2022-10-05T13:28:16+03:00
 source: ""
 related: []
-ListenInSec: 156
+ListenInSec: 248
 CoverOf: "[[Hitorigoto (TV Size) (🎧️ 983)]]"
 ---
 

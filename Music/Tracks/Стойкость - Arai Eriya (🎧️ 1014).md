@@ -9,7 +9,7 @@ aliases: ["Стойкость"]
 created: 2024-08-03T19:35:08+03:00
 source: ""
 related: []
-ListenInSec: 1
+ListenInSec: 310
 CoverOf: ""
 ---
 
