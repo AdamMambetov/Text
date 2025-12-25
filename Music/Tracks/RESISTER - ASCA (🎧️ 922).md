@@ -9,7 +9,7 @@ aliases: ["RESISTER"]
 created: 2024-06-21T05:20:24+03:00
 source: ""
 related: []
-ListenInSec: 8
+ListenInSec: 233
 CoverOf: ""
 ---
 

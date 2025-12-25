@@ -9,7 +9,7 @@ aliases: ["Gravity Falls Theme Song"]
 created: 2022-10-05T12:59:40+03:00
 source: ""
 related: []
-ListenInSec: 11
+ListenInSec: 50
 CoverOf: ""
 ---
 

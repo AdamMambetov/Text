@@ -1,7 +1,7 @@
 ---
 created: 2024-08-04T13:14:08+0300
 aliases: ["Luck Ganriki", "ラック眼力"]
-ListenInSec: 743
+ListenInSec: 844
 ---
 
 # Luck Ganriki

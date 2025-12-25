@@ -1,7 +1,7 @@
 ---
 created: 2025-11-19T23:12:01+0300
 aliases: ["Fall Out Boy"]
-ListenInSec: 307
+ListenInSec: 510
 ---
 
 # Fall Out Boy

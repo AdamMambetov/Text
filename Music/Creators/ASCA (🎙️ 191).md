@@ -1,7 +1,7 @@
 ---
-created: 2025-11-19T22:38:23+03:00
+created: 2025-11-19T22:38:23+0300
 aliases: ["ASCA"]
-ListenInSec: 0
+ListenInSec: 225
 ---
 
 # ASCA
