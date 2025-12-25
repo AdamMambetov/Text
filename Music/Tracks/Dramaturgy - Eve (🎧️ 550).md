@@ -9,7 +9,7 @@ aliases: ["Dramaturgy"]
 created: 2022-12-20T22:33:16+03:00
 source: ""
 related: []
-ListenInSec: 3
+ListenInSec: 240
 CoverOf: ""
 ---
 

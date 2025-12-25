@@ -1,7 +1,7 @@
 ---
-created: 2025-11-19T22:00:30+03:00
+created: 2025-11-19T22:00:30+0300
 aliases: ["Alien Ant Farm"]
-ListenInSec: 0
+ListenInSec: 1
 ---
 
 # Alien Ant Farm

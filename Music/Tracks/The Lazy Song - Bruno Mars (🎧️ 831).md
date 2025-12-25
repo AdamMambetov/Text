@@ -9,7 +9,7 @@ aliases: ["The Lazy Song"]
 created: 2024-06-21T05:19:50+03:00
 source: ""
 related: []
-ListenInSec: 2
+ListenInSec: 190
 CoverOf: ""
 ---
 

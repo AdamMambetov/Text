@@ -1,7 +1,7 @@
 ---
 created: 2025-06-30T06:37:02+0300
 aliases: ["Jully"]
-ListenInSec: 569
+ListenInSec: 876
 ---
 
 # Jully

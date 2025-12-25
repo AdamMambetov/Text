@@ -9,7 +9,7 @@ aliases: ["Renatus"]
 created: 2022-10-05T13:49:58+03:00
 source: ""
 related: []
-ListenInSec: 314
+ListenInSec: 550
 CoverOf: ""
 ---
 

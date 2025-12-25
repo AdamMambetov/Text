@@ -1,7 +1,7 @@
 ---
-created: 2025-11-19T23:37:36+03:00
+created: 2025-11-19T23:37:36+0300
 aliases: ["Lady Gaga"]
-ListenInSec: 0
+ListenInSec: 237
 ---
 
 # Lady Gaga

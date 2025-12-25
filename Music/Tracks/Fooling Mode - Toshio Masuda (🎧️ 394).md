@@ -9,7 +9,7 @@ aliases: ["Fooling Mode"]
 created: 2022-04-28T17:50:32+03:00
 source: ""
 related: []
-ListenInSec: 8
+ListenInSec: 110
 CoverOf: ""
 ---
 

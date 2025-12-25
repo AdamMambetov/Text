@@ -1,7 +1,7 @@
 ---
 created: 2025-11-19T23:14:44+0300
 aliases: ["Go Sakabe"]
-ListenInSec: 328
+ListenInSec: 450
 ---
 
 # Go Sakabe

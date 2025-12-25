@@ -9,7 +9,7 @@ aliases: ["Monokuro no Kiss"]
 created: 2025-01-08T22:47:32+03:00
 source: ""
 related: []
-ListenInSec: 688
+ListenInSec: 926
 CoverOf: ""
 ---
 

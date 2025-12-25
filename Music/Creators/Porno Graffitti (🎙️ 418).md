@@ -1,7 +1,7 @@
 ---
-created: 2025-11-20T00:04:03+03:00
+created: 2025-11-20T00:04:03+0300
 aliases: ["Porno Graffitti"]
-ListenInSec: 0
+ListenInSec: 240
 ---
 
 # Porno Graffitti

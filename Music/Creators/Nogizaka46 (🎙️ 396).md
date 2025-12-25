@@ -1,7 +1,7 @@
 ---
-created: 2025-11-19T23:57:27+03:00
+created: 2025-11-19T23:57:27+0300
 aliases: ["Nogizaka46"]
-ListenInSec: 0
+ListenInSec: 88
 ---
 
 # Nogizaka46

@@ -1,7 +1,7 @@
 ---
 created: 2025-11-20T00:36:42+0300
 aliases: ["Yellowcard"]
-ListenInSec: 180
+ListenInSec: 393
 ---
 
 # Yellowcard

@@ -8,7 +8,7 @@ Creators: ["[[5 Seconds of Summer (🎙️ 69)]]"]
 NumberInAlbum: 1
 SourceFile: "[[5 Seconds of Summer - Teeth.mp3]]"
 related: []
-ListenInSec: 2
+ListenInSec: 206
 CoverOf: ""
 ---
 

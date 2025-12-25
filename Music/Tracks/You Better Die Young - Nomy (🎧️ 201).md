@@ -9,7 +9,7 @@ NumberInAlbum: 3
 source: ""
 SourceFile: "[[Nomy - You Better Die Young.mp3]]"
 related: []
-ListenInSec: 3
+ListenInSec: 227
 CoverOf: ""
 ---
 

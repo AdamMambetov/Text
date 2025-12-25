@@ -9,7 +9,7 @@ NumberInAlbum: 1
 source: ""
 SourceFile: "[[BUCK-TICK - Kuchizuke (TV Size).mp3]]"
 related: []
-ListenInSec: 94
+ListenInSec: 186
 CoverOf: ""
 ---
 

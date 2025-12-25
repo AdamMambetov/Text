@@ -9,7 +9,7 @@ aliases: ["Shinzou wo Sasageyo!"]
 created: 2023-11-11T11:58:28+03:00
 source: ""
 related: []
-ListenInSec: 9
+ListenInSec: 347
 CoverOf: ""
 ---
 
