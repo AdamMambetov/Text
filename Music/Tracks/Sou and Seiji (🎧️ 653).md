@@ -1,13 +1,13 @@
 ---
 Album: ""
 Creators: []
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 1
 SourceFile: "[[Sonny Boy OST - Sou and Seiji.mp3]]"
 Year: 0
-aliases: []
+aliases: ["Sou and Seiji"]
 created: 2023-08-23T13:22:14+03:00
-source: ""
+source: 
 related: []
 ListenInSec: 711
 CoverOf: ""

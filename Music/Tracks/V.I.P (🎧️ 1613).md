@@ -1,13 +1,13 @@
 ---
 Album: ""
-Creators: []
-Cover: ""
+Creators: ["[[SID (🎙️ 439)]]"]
+Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 1
 SourceFile: "[[SID - V.I.P.mp3]]"
 Year: 0
-aliases: []
+aliases: ["V.I.P"]
 created: 2025-01-08T22:34:46+03:00
-source: ""
+source: 
 related: []
 ListenInSec: 564
 CoverOf: ""

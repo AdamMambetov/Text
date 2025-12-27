@@ -1,13 +1,13 @@
 ---
 Album: ""
 Creators: []
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 2
 SourceFile: "[[Need for Speed Most Wanted OST - Nine Thou (Superstars Remix).mp3]]"
 Year: 0
-aliases: []
+aliases: ["Nine Thou (Superstars Remix)"]
 created: 2023-09-30T16:07:24+03:00
-source: ""
+source: 
 related: []
 ListenInSec: 220
 CoverOf: ""

@@ -1,15 +1,16 @@
 ---
+Cover: "[[_No Album Art.jpg]]"
 Album: ""
 Creators: []
-Cover: ""
+undefinedCover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 1
 SourceFile: "[[Frederic - Kanashii Ureshii.mp3]]"
 Year: 0
-aliases: []
+aliases: ["Kanashii Ureshii"]
 created: 2025-01-08T01:16:18+03:00
-source: ""
+source: 
 related: []
-ListenInSec: 292
+ListenInSec: 293
 CoverOf: ""
 ---
 
