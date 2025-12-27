@@ -46,7 +46,6 @@ Object.keys(trackInfo).forEach(key => {
 			}
 			return el
 		})
-		new Notice(formValues[key], 20000)
 	}
 	else if (key === "Cover") {
 		formValues["SelectedCover"] = getLinkName(value)
