@@ -1,6 +1,7 @@
 ---
-created: 2024-08-04T13:49:03+03:00
+created: 2024-08-04T13:49:03+0300
 aliases: ["Yuudai", "ゆーだい"]
+ListenInSec: 2
 ---
 
 # Yuudai

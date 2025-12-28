@@ -1,15 +1,15 @@
 ---
 Album: ""
 Creators: []
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 1
 SourceFile: "[[Masayuki Suzuki feat. Ihara Rikka - Love Dramatic.mp3]]"
 Year: 0
-aliases: []
+aliases: ["Love Dramatic"]
 created: 2025-01-08T22:28:46+03:00
-source: ""
+source: 
 related: []
-ListenInSec: 299
+ListenInSec: 560
 CoverOf: ""
 ---
 

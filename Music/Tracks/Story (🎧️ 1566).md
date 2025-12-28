@@ -1,13 +1,13 @@
 ---
 Album: ""
 Creators: []
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 1
 SourceFile: "[[Mayu Maeshima - Story.mp3]]"
 Year: 0
-aliases: []
+aliases: ["Story"]
 created: 2025-01-08T19:14:56+03:00
-source: ""
+source: 
 related: []
 ListenInSec: 720
 CoverOf: ""

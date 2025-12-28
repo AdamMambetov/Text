@@ -1,7 +1,7 @@
 ---
-created: 2025-11-19T23:15:03+03:00
+created: 2025-11-19T23:15:03+0300
 aliases: ["Goose House"]
-ListenInSec: 0
+ListenInSec: 249
 ---
 
 # Goose House

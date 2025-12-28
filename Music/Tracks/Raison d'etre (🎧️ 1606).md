@@ -1,13 +1,13 @@
 ---
 Album: ""
 Creators: []
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 1
 SourceFile: "[[Nightmare - Raison d'etre.mp3]]"
 Year: 0
-aliases: []
+aliases: ["Raison d'etre"]
 created: 2025-01-08T20:57:30+03:00
-source: ""
+source: 
 related: []
 ListenInSec: 379
 CoverOf: ""

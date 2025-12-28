@@ -9,7 +9,7 @@ aliases: ["Soul of Cinder"]
 created: 2024-01-04T15:27:06+03:00
 source: ""
 related: []
-ListenInSec: 3
+ListenInSec: 50
 CoverOf: ""
 ---
 

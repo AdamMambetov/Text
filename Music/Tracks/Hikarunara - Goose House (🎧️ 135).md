@@ -9,7 +9,7 @@ aliases: ["Hikarunara"]
 created: 2022-04-22T20:46:54+03:00
 source: ""
 related: []
-ListenInSec: 7
+ListenInSec: 256
 CoverOf: ""
 ---
 

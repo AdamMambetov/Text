@@ -1,15 +1,15 @@
 ---
 Album: ""
 Creators: []
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 1
 SourceFile: "[[Kawada Mami - Hishoku no Sora.mp3]]"
 Year: 0
-aliases: []
+aliases: ["Hishoku no Sora"]
 created: 2025-01-08T19:20:32+03:00
-source: ""
+source: 
 related: []
-ListenInSec: 488
+ListenInSec: 507
 CoverOf: ""
 ---
 

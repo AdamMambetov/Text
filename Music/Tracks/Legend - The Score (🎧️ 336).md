@@ -9,7 +9,7 @@ aliases: ["Legend"]
 created: 2022-04-26T01:25:42+03:00
 source: ""
 related: []
-ListenInSec: 10
+ListenInSec: 196
 CoverOf: ""
 ---
 
