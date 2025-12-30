@@ -9,7 +9,7 @@ aliases: ["Hishoku no Sora"]
 created: 2025-01-08T19:20:32+03:00
 source: 
 related: []
-ListenInSec: 507
+ListenInSec: 762
 CoverOf: ""
 ---
 

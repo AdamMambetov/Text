@@ -9,7 +9,7 @@ NumberInAlbum: 10
 source: ""
 SourceFile: "[[Poor Mans Poison - C'mon Down.mp3]]"
 related: []
-ListenInSec: 174
+ListenInSec: 330
 CoverOf: ""
 ---
 

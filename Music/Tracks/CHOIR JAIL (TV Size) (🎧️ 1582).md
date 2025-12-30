@@ -9,7 +9,7 @@ aliases: ["CHOIR JAIL (TV Size)"]
 created: 2025-01-08T19:54:24+03:00
 source: ""
 related: []
-ListenInSec: 308
+ListenInSec: 400
 CoverOf: "[[CHOIR JAIL (TV Size) - Konomi Suzuki (🎧️ 1584)]]"
 ---
 

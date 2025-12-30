@@ -9,7 +9,7 @@ aliases: ["Danzai no Hana ~Guilty Sky~"]
 created: 2025-01-08T20:49:08+03:00
 source: ""
 related: []
-ListenInSec: 608
+ListenInSec: 867
 CoverOf: ""
 ---
 

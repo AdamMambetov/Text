@@ -1,7 +1,7 @@
 ---
 created: 2025-06-30T20:17:53+0300
 aliases: ["Anyoka"]
-ListenInSec: 769
+ListenInSec: 1020
 ---
 
 # Anyoka
