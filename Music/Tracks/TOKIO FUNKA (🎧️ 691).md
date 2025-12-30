@@ -9,7 +9,7 @@ NumberInAlbum: 1
 source: ""
 SourceFile: "[[Sati Akura - TOKIO FUNKA.mp3]]"
 related: []
-ListenInSec: 705
+ListenInSec: 1047
 CoverOf: ""
 ---
 

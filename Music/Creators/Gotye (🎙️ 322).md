@@ -1,7 +1,7 @@
 ---
 created: 2025-11-19T23:15:35+0300
 aliases: ["Gotye"]
-ListenInSec: 942
+ListenInSec: 700
 ---
 
 # Gotye
