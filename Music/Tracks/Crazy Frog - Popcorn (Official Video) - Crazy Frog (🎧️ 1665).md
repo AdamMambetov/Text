@@ -9,7 +9,7 @@ Creators: ["[[Crazy Frog (🎙️ 269)]]"]
 Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 0
 related: []
-ListenInSec: 352
+ListenInSec: 519
 CoverOf: ""
 ---
 

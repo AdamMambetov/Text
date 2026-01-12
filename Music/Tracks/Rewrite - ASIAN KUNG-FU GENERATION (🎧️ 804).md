@@ -9,7 +9,7 @@ NumberInAlbum: 2
 source: ""
 SourceFile: "[[ASIAN KUNG-FU GENERATION - Rewrite.mp3]]"
 related: []
-ListenInSec: 440
+ListenInSec: 666
 CoverOf: ""
 ---
 

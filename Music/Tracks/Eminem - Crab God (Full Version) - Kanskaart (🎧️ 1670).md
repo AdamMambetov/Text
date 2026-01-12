@@ -8,7 +8,7 @@ SourceFile: "[[Kanskaart - Crab God (Lose Yourself, Crab Rave Mashup).mp3]]"
 Cover: ""
 NumberInAlbum: 0
 related: ["[[Lose Yourself - Eminem (🎧️ 344)]]"]
-ListenInSec: 224
+ListenInSec: 375
 CoverOf: ""
 ---
 

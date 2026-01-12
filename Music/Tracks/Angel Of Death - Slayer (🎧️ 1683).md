@@ -8,7 +8,7 @@ Creators: ["[[Slayer (🎙️ 443)]]"]
 Cover: ""
 NumberInAlbum: 0
 related: []
-ListenInSec: 411
+ListenInSec: 700
 CoverOf: ""
 ---
 

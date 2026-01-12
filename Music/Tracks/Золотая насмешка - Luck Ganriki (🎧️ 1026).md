@@ -9,7 +9,7 @@ aliases: ["Золотая насмешка"]
 created: 2024-08-03T19:38:16+03:00
 source: ""
 related: []
-ListenInSec: 1
+ListenInSec: 350
 CoverOf: ""
 ---
 

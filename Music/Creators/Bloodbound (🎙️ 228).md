@@ -1,7 +1,7 @@
 ---
-created: 2025-11-19T22:45:38+03:00
+created: 2025-11-19T22:45:38+0300
 aliases: ["Bloodbound"]
-ListenInSec: 0
+ListenInSec: 228
 ---
 
 # Bloodbound

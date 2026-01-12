@@ -9,7 +9,7 @@ aliases: ["Kings & Queens"]
 created: 2024-10-10T22:45:32+03:00
 source: ""
 related: []
-ListenInSec: 158
+ListenInSec: 319
 CoverOf: ""
 ---
 

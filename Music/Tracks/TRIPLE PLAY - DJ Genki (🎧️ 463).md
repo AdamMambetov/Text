@@ -9,7 +9,7 @@ NumberInAlbum: 1
 source: ""
 SourceFile: "[[DJ Genki, C-Show and Camellia - TRIPLE PLAY.mp3]]"
 related: []
-ListenInSec: 5
+ListenInSec: 258
 CoverOf: ""
 ---
 

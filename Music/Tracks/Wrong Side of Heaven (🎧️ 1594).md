@@ -9,7 +9,7 @@ aliases: ["Wrong Side of Heaven"]
 created: 2025-01-08T20:33:50+03:00
 source: ""
 related: []
-ListenInSec: 296
+ListenInSec: 560
 CoverOf: "[[Wrong Side of Heaven (🎧️ 1595)]]"
 ---
 

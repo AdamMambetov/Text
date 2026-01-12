@@ -1,7 +1,7 @@
 ---
 created: 2025-11-20T00:29:22+0300
 aliases: ["The Weeknd"]
-ListenInSec: 500
+ListenInSec: 701
 ---
 
 # The Weeknd

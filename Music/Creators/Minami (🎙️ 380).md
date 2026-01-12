@@ -1,7 +1,7 @@
 ---
 created: 2025-11-19T23:46:57+0300
 aliases: ["Minami"]
-ListenInSec: 505
+ListenInSec: 756
 ---
 
 # Minami

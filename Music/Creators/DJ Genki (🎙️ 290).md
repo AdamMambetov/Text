@@ -1,7 +1,7 @@
 ---
-created: 2025-11-19T23:01:49+03:00
+created: 2025-11-19T23:01:49+0300
 aliases: ["DJ Genki"]
-ListenInSec: 0
+ListenInSec: 253
 ---
 
 # DJ Genki

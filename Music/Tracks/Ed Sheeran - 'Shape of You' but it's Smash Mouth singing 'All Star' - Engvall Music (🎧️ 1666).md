@@ -8,7 +8,7 @@ Creators: []
 Cover: ""
 NumberInAlbum: 0
 related: ["[[All Star - Smash Mouth (🎧️ 46)]]"]
-ListenInSec: 498
+ListenInSec: 678
 CoverOf: ""
 ---
 

@@ -9,7 +9,7 @@ aliases: ["Vordt of the Boreal Valley"]
 created: 2024-01-04T15:27:02+03:00
 source: ""
 related: []
-ListenInSec: 364
+ListenInSec: 734
 CoverOf: ""
 ---
 

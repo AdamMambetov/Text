@@ -9,7 +9,7 @@ aliases: ["Дурак и молния"]
 created: 2022-04-21T04:12:04+03:00
 source: ""
 related: []
-ListenInSec: 7
+ListenInSec: 120
 CoverOf: ""
 ---
 

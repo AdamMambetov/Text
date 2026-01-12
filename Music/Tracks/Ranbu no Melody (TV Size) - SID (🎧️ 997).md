@@ -9,7 +9,7 @@ aliases: ["Ranbu no Melody (TV Size)"]
 created: 2024-07-21T15:56:18+03:00
 source: ""
 related: []
-ListenInSec: 94
+ListenInSec: 183
 CoverOf: ""
 ---
 

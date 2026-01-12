@@ -1,7 +1,7 @@
 ---
-created: 2025-11-19T23:07:55+03:00
+created: 2025-11-19T23:07:55+0300
 aliases: ["Earth, Wind & Fire"]
-ListenInSec: 0
+ListenInSec: 215
 ---
 
 # Earth, Wind & Fire
