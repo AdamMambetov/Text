@@ -75,3 +75,8 @@ source: https://git-scm.com/
 > ```bash
 > git fsck --full
 > ```
+> 
+> Если появилось что-то вроде `error: object file /storage/emulated/0/_Adam/Text/.git/modules/Music/objects/9c/a690c05ba649d6952131e819d4abe3624d1e37 is empty`, то удаляем данный файл
+> ```bash
+> rm /storage/emulated/0/_Adam/Text/.git/modules/Music/objects/9c/a690c05ba649d6952131e819d4abe3624d1e37
+> ```
