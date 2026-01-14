@@ -58,7 +58,7 @@ Object.keys(trackInfo).forEach(key => {
 })
 
 let itemsToLink = (arr) => arr.map(el => `"[[${el}]]"`)
-const result = await modalForm.openForm("track-edit-form", { values: formValues });
+const result = await modalForm.openForm("track-form", { values: formValues });
 if (result.status === "cancelled")
 	return
 
