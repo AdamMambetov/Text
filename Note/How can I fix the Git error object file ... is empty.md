@@ -1,10 +1,10 @@
 ---
 created: 2026-01-14T23:22:03+03:00
-source: https://stackoverflow.com/questions/11706215/how-can-i-fix-the-git-error-object-file-is-empty
 category:
   - "[[Программирование]]"
 meta:
   - "[[Git]]"
+source: https://stackoverflow.com/questions/11706215/how-can-i-fix-the-git-error-object-file-is-empty
 ---
 
 # How can I fix the Git error "object file ... is empty"?
