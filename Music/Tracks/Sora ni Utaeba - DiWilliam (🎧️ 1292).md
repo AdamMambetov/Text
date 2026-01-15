@@ -9,7 +9,7 @@ aliases: ["Sora ni Utaeba"]
 created: 2024-10-23T13:48:10+03:00
 source: ""
 related: []
-ListenInSec: 4
+ListenInSec: 94
 CoverOf: ""
 ---
 

@@ -9,7 +9,7 @@ aliases: ["Whatever It Takes"]
 created: 2022-04-23T01:58:00+03:00
 source: ""
 related: []
-ListenInSec: 2
+ListenInSec: 6
 CoverOf: ""
 ---
 

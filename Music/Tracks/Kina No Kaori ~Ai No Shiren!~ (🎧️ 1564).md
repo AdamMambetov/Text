@@ -9,7 +9,7 @@ aliases: ["Kina No Kaori ~Ai No Shiren!~"]
 created: 2025-01-08T19:12:04+03:00
 source: ""
 related: []
-ListenInSec: 374
+ListenInSec: 653
 CoverOf: ""
 ---
 

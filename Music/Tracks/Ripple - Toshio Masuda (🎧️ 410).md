@@ -9,7 +9,7 @@ aliases: ["Ripple"]
 created: 2022-04-28T17:53:28+03:00
 source: ""
 related: []
-ListenInSec: 9
+ListenInSec: 126
 CoverOf: ""
 ---
 

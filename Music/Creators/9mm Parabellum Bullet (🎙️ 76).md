@@ -1,7 +1,7 @@
 ---
-created: 2025-11-19T21:39:35+03:00
+created: 2025-11-19T21:39:35+0300
 aliases: ["9mm Parabellum Bullet"]
-ListenInSec: 0
+ListenInSec: 201
 ---
 
 # 9mm Parabellum Bullet

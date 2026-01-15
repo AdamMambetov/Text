@@ -9,7 +9,7 @@ aliases: ["Naruto's Daily Life"]
 created: 2022-04-28T17:39:02+03:00
 source: ""
 related: []
-ListenInSec: 136
+ListenInSec: 276
 CoverOf: ""
 ---
 
