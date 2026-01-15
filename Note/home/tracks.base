@@ -1,0 +1,15 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("Text/Music/Tracks")
+    groupBy:
+      property: created
+      direction: ASC
+    order:
+      - created
+      - file.name
+    sort: []
+    columnSize:
+      note.created: 178
