@@ -3,14 +3,15 @@ created: 2024-11-04T14:21:34+03:00
 aliases:
   - Ванпанчмен 3
   - One Punch Man 3
-Status: watch
+Status: complete
 Type: anime
 Rating:
   - "[[®️16|R-17]]"
   - "[[®️18|18+]]"
 Cover: "[[one_punch_man_3_anime_cover.jpeg]]"
 Year: 2025
-Episode: 9
+Episode: 12
+Views: 1
 Предыстория: "[[One Punch Man 2 (🇯🇵📺 377)]]"
 ---
 
