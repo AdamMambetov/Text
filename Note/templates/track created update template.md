@@ -6,21 +6,17 @@ let arr = dv.pages('"Text/Music/Tracks"')
 	.filter(el => el.rows.length > 1)
 while (arr.length > 0) {
 	for (let i = 0; i < arr.length; i++) {
-		let el = arr[i]
-		// new Notice(Object.keys(el.key), 50000)
+		const el = arr[i]
 		for (let j = 0; j < el.rows.length; j++) {
-			let offset = 1000 * j
-			let date = new Date(el.key.ts + offset)
-			// date.getTime()
-			// date.toISOString()
-			new Notice(moment(date).format("YYYY-MM-DDTHH:mm:ssZ"), 50000)
-			let page = el.rows[j]
-			let file = tp.file.find_tfile(page.file.path)
-			new Notice(file, 5000)
+			const file = el.rows[j].file
+			new Notice(file.name, 50000)
+			const offset = 1000 * j
+			const date = new Date(el.key.ts + offset)
+			const dateStr = moment(date).format("YYYY-MM-DDTHH:mm:ssZ")
+			new Notice(dateStr, 50000)
 			await tp.app.fileManager.processFrontMatter(file, fm => {
-				new Notice(fm["created"], 50000)
+				fm["created"] = dateStr
 			})
-			break
 		}
 		break
 	}
