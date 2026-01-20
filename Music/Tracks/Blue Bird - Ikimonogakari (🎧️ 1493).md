@@ -1,7 +1,9 @@
 ---
 created: 2025-01-08T01:24:04+03:00
-aliases: ["Blue Bird"]
-Creators: ["[[Ikimonogakari (🎙️ 57)]]"]
+aliases:
+  - Blue Bird
+Creators:
+  - "[[Ikimonogakari (🎙️ 57)]]"
 source: ""
 SourceFile: "[[Ikimonogakari - Blue Bird.mp3]]"
 Cover: ""

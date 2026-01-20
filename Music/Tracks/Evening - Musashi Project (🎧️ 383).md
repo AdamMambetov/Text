@@ -5,7 +5,8 @@ Cover: ""
 NumberInAlbum: 13
 SourceFile: "[[Naruto OST - Evening.mp3]]"
 Year: 2003
-aliases: ["Evening"]
+aliases:
+  - Evening
 created: 2022-04-28T17:39:20+03:00
 source: ""
 related: []

@@ -2,8 +2,9 @@
 SourceFile: "[[Usolie Records - Eromanga Slipknot (Hitorigoto, Psychosocial Mashup).mp3]]"
 Year: 2020
 Album: ""
-aliases: ["Eromanga Slipknot"]
-created: 2025-05-04T14:48:18+03:00
+aliases:
+  - Eromanga Slipknot
+created: 2025-05-04T14:48:23+03:00
 Creators: []
 Cover: ""
 NumberInAlbum: 0

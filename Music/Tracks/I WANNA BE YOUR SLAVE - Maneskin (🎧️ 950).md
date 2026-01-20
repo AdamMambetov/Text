@@ -1,12 +1,14 @@
 ---
 Album: "[[Teatro d’ira: Vol. I]]"
-Creators: ["[[Maneskin (🎙️ 375)]]"]
+Creators:
+  - "[[Maneskin (🎙️ 375)]]"
 Cover: ""
 NumberInAlbum: 4
 SourceFile: "[[Maneskin - I WANNA BE YOUR SLAVE.mp3]]"
 Year: 2021
-aliases: ["I WANNA BE YOUR SLAVE"]
-created: 2024-06-21T05:20:32+03:00
+aliases:
+  - I WANNA BE YOUR SLAVE
+created: 2024-06-21T05:20:37+03:00
 source: ""
 related: []
 ListenInSec: 174

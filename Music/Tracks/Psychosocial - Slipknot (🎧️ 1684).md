@@ -1,9 +1,12 @@
 ---
-created: 2025-05-04T14:48:17+03:00
-aliases: ["Psychosocial", "Slipknot - Psychosocial"]
+created: 2025-05-04T14:48:33+03:00
+aliases:
+  - Psychosocial
+  - Slipknot - Psychosocial
 Year: 2009
 Album: ""
-Creators: ["[[Slipknot (🎙️ 431)]]"]
+Creators:
+  - "[[Slipknot (🎙️ 431)]]"
 SourceFile: "[[Slipknot - Psychosocial.mp3]]"
 Cover: ""
 NumberInAlbum: 0

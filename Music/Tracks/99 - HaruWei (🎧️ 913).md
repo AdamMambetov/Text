@@ -1,11 +1,13 @@
 ---
 Album: "[[99]]"
-Creators: ["[[HaruWei (🎙️ 329)]]"]
+Creators:
+  - "[[HaruWei (🎙️ 329)]]"
 Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[HaruWei - 99.mp3]]"
 Year: 2018
-aliases: ["99"]
+aliases:
+  - "99"
 created: 2024-06-21T05:20:22+03:00
 source: ""
 related: []

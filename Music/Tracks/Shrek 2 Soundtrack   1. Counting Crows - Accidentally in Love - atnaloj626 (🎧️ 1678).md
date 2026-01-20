@@ -1,9 +1,11 @@
 ---
-created: 2025-05-04T14:48:17+03:00
-aliases: ["Accidentally in Love"]
+created: 2025-05-04T14:48:38+03:00
+aliases:
+  - Accidentally in Love
 Year: 2009
 Album: ""
-Creators: ["[[atnaloj626 (🎙️ 196)]]"]
+Creators:
+  - "[[atnaloj626 (🎙️ 196)]]"
 SourceFile: "[[Shrek 2 OST - 01 Accidentally in Love.mp3]]"
 Cover: ""
 NumberInAlbum: 0

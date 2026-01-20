@@ -2,8 +2,9 @@
 SourceFile: "[[VERKA SERDUCHKA - Все будет хорошо.mp3]]"
 Year: 2012
 Album: ""
-aliases: ["Все будет хорошо"]
-created: 2025-05-04T14:48:18+03:00
+aliases:
+  - Все будет хорошо
+created: 2025-05-04T14:48:45+03:00
 Creators: []
 Cover: ""
 NumberInAlbum: 0

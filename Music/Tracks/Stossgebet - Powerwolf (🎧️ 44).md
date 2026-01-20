@@ -1,10 +1,12 @@
 ---
-created: 2022-04-21T01:53:02+03:00
-aliases: ["Stossgebet"]
+created: 2022-04-21T01:53:03+03:00
+aliases:
+  - Stossgebet
 Cover: ""
 Year: 0
 Album: "[[The Sacrament of Sin 2018]]"
-Creators: ["[[Powerwolf (🎙️ 420)]]"]
+Creators:
+  - "[[Powerwolf (🎙️ 420)]]"
 NumberInAlbum: 0
 source: ""
 SourceFile: "[[Powerwolf - Stossgebet.mp3]]"

@@ -1,12 +1,14 @@
 ---
 Album: "[[OK Orchestra]]"
-Creators: ["[[AJR (🎙️ 149)]]"]
+Creators:
+  - "[[AJR (🎙️ 149)]]"
 Cover: ""
 NumberInAlbum: 11
 SourceFile: "[[AJR - World's Smallest Violin.mp3]]"
 Year: 2021
-aliases: ["World's Smallest Violin"]
-created: 2024-06-21T05:20:30+03:00
+aliases:
+  - World's Smallest Violin
+created: 2024-06-21T05:21:57+03:00
 source: ""
 related: []
 ListenInSec: 1

@@ -2,8 +2,9 @@
 SourceFile: "[[Shrek 3 OST - 01 Royal Pain.mp3]]"
 Year: 2007
 Album: "[[Shrek 3 OST]]"
-aliases: ["Royal Pain"]
-created: 2025-05-04T14:48:17+03:00
+aliases:
+  - Royal Pain
+created: 2025-05-04T14:48:35+03:00
 Creators: []
 Cover: ""
 NumberInAlbum: 0

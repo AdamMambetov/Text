@@ -1,8 +1,12 @@
 ---
-created: 2024-06-21T05:19:54+03:00
-aliases: ["Рядом", "Closer"]
+created: 2024-06-21T05:22:22+03:00
+aliases:
+  - Рядом
+  - Closer
 CoverOf: "[[🎵Inoue Joe - Closer]]"
-Creators: ["[[Radiant Records (🎙️ 39)]]", "[[Nibiru (🎙️ 44)]]"]
+Creators:
+  - "[[Radiant Records (🎙️ 39)]]"
+  - "[[Nibiru (🎙️ 44)]]"
 source: ""
 SourceFile: "[[Radiant Records - Рядом.mp3]]"
 Cover: ""

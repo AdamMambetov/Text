@@ -5,7 +5,8 @@ Cover: ""
 NumberInAlbum: 2
 SourceFile: "[[Naruto OST - Confrontment.mp3]]"
 Year: 2004
-aliases: ["Confrontment"]
+aliases:
+  - Confrontment
 created: 2022-04-28T17:50:18+03:00
 source: ""
 related: []

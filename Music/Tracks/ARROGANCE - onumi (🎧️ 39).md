@@ -5,7 +5,8 @@ Cover: ""
 NumberInAlbum: 0
 SourceFile: "[[onumi - ARROGANCE.mp3]]"
 Year: 0
-aliases: ["ARROGANCE"]
+aliases:
+  - ARROGANCE
 created: 2022-04-21T01:52:58+03:00
 source: ""
 related: []

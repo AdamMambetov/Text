@@ -1,11 +1,13 @@
 ---
 Album: "[[The Papercut Chronicles]]"
-Creators: ["[[Gym Class Heroes (🎙️ 326)]]"]
+Creators:
+  - "[[Gym Class Heroes (🎙️ 326)]]"
 Cover: ""
 NumberInAlbum: 10
 SourceFile: "[[Gym Class Heroes - Cupid's Chokehold Breakfast in America.mp3]]"
 Year: 2005
-aliases: ["Cupid's Chokehold / Breakfast in America"]
+aliases:
+  - Cupid's Chokehold / Breakfast in America
 created: 2024-06-21T05:19:44+03:00
 source: ""
 related: []

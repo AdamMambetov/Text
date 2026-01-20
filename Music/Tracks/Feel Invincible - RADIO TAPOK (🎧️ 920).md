@@ -1,11 +1,14 @@
 ---
 Album: "[[Feel Invincible]]"
-Creators: ["[[RADIO TAPOK (🎙️ 423)]]", "[[Ai Mori (🎙️ 158)]]"]
+Creators:
+  - "[[RADIO TAPOK (🎙️ 423)]]"
+  - "[[Ai Mori (🎙️ 158)]]"
 Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[RADIO TAPOK - Feel Invincible.mp3]]"
 Year: 2019
-aliases: ["Feel Invincible"]
+aliases:
+  - Feel Invincible
 created: 2024-06-21T05:20:24+03:00
 source: ""
 related: []
