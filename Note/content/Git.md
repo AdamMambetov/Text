@@ -56,6 +56,11 @@ source: https://git-scm.com/
 > git config --global core.quotepath false
 > ```
 
+> [!NOTE]- Алиас git st
+> ```bash
+> git config --global alias.st status
+> ```
+
 
 ## Ссылки
 

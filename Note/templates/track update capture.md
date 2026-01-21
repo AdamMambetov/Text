@@ -2,9 +2,7 @@
 dv = app.plugins.plugins.dataview.api
 
 let arr = dv.pages('"Text/Music/Tracks"')
-	.groupBy(p => p.created)
-	.filter(el => el.rows.length > 1)
-
+	.sort(p => p.created, "asc")
 let current = dv.page(tp.file.path(true))
 let creator = dv.page(current.Creators[0])
 let trackName = current.aliases[0]
