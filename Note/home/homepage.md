@@ -8,6 +8,9 @@ cssclasses:
   - hide-metadata
 ---
 
+- [[Дочери Мнемозины (🇯🇵📺 287)]]
+- [[Music Is My Saviour (feat. Mixie Moon) - S3RL (🎧️ 62)]]
+
 # Главное
  - [[Text/Note/home/_art base.base|_art base]]
  - [[инструкция]]
