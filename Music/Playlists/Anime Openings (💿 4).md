@@ -192,8 +192,8 @@ tracklist:
   - "[[Inferno - Mrs. GREEN APPLE (🎧️ 187)]]"
   - "[[Peace Sign - Kenshi Yonezu (🎧️ 162)]]"
   - "[[Silhouette - KANA-BOON (🎧️ 161)]]"
-  - "[[Hikarunara - Goose House (🎧️ 135)]]"
-  - "[[Steppin' Out - FLOW (🎧️ 130)]]"
+  - "[[Hikarunara - Goose House (🎧️ 114)]]"
+  - "[[Steppin' Out - FLOW (🎧️ 109)]]"
   - "[[Goya no Machiawase - Hello Sleepwalkers (🎧️ 14)]]"
   - "[[Kawaki wo Ameku - Minami (🎧️ 8)]]"
 ---

@@ -1,11 +1,14 @@
 ---
 Album: "[[Music Is My Savior]]"
-Creators: []
+Creators:
+  - "[[S3RL (🎙️ 503)]]"
+  - "[[Mixie Moon (🎙️ 504)]]"
 Cover: ""
 NumberInAlbum: 0
 SourceFile: "[[S3RL - Music Is My Saviour.mp3]]"
 Year: 0
-aliases: ["Music Is My Saviour (feat. Mixie Moon)"]
+aliases:
+  - Music Is My Saviour
 created: 2022-04-21T01:56:10+03:00
 source: ""
 related: []

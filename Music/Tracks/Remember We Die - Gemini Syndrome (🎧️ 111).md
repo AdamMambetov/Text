@@ -1,13 +1,13 @@
 ---
 Album: "[[Memento Mori [2016] {Gemini Syndrome}]]"
-Creators: []
-Cover: ""
+Creators: ["[[Gemini Syndrome (🎙️ 507)]]"]
+Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 2
 SourceFile: "[[Gemini Syndrome - Remember We Die.mp3]]"
 Year: 2016
 aliases: ["Remember We Die"]
 created: 2022-04-22T20:45:58+03:00
-source: ""
+source: 
 related: []
 ListenInSec: 6
 CoverOf: ""
