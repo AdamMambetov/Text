@@ -1,6 +1,8 @@
 ---
 Album: "[[KIKO]]"
-Creators: []
+Creators:
+  - "[[Panda Eyes (🎙️ 491)]]"
+  - "[[Terminite (🎙️ 492)]]"
 Cover: ""
 NumberInAlbum: 0
 SourceFile: "[[Panda Eyes - Highscore.mp3]]"
