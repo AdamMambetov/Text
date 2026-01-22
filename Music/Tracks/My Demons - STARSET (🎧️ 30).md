@@ -1,6 +1,7 @@
 ---
 Album: "[[Transmissions]]"
-Creators: []
+Creators:
+  - "[[STARSET (🎙️ 498)]]"
 Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[STARSET - My Demons.mp3]]"

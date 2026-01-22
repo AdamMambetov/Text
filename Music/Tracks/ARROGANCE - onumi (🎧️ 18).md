@@ -1,6 +1,7 @@
 ---
 Album: "[[ARROGANCE]]"
-Creators: []
+Creators:
+  - "[[onumi (🎙️ 494)]]"
 Cover: ""
 NumberInAlbum: 0
 SourceFile: "[[onumi - ARROGANCE.mp3]]"

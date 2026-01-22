@@ -1,6 +1,7 @@
 ---
 Album: "[[Sonfamilia]]"
-Creators: []
+Creators:
+  - "[[Son Familia (🎙️ 499)]]"
 Cover: ""
 NumberInAlbum: 0
 SourceFile: "[[Son Familia - Chu cu Cha.mp3]]"

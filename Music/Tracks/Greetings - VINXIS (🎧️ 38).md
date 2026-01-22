@@ -1,6 +1,7 @@
 ---
 Album: "[[Greetings]]"
-Creators: []
+Creators:
+  - "[[VINXIS (🎙️ 502)]]"
 Cover: ""
 NumberInAlbum: 0
 SourceFile: "[[VINXIS - Greetings.mp3]]"
