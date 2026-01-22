@@ -15,9 +15,7 @@ let creatorName = creator.aliases[0]
 	.replaceAll("#", "")
 	.replaceAll("/", "")
 	.replaceAll("\\", "")
-let num = dv.pages('"Text/Music/Tracks"')
-	.sort(p => p.created, "asc")
-	.indexOf(current) + 1
+let num = arr.indexOf(current) + 1
 let title = `${trackName} - ${creatorName} (🎧️ ${num})`
 new Notice(title, 5000)
 await tp.file.rename(title)
