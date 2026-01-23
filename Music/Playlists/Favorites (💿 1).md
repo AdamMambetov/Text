@@ -1114,7 +1114,7 @@ tracklist:
   - "[[Take My Hand - Simple Plan (🎧️ 249)]]"
   - "[[Ranbu No Melody - SID (🎧️ 248)]]"
   - "[[You're Going Down - Sick Puppies (🎧️ 247)]]"
-  - "[[Way Back Home - Shaun (🎧️ 246)]]"
+  - "[[Way Back Home - Shaun (🎧️ 225)]]"
   - "[[Seven Nation Army - SEVEN NATION ARMY. (🎧️ 224)]]"
   - "[[Partners in Crime - Set It Off (🎧️ 221)]]"
   - "[[Never Looking Back - Scarlet White (🎧️ 217)]]"
