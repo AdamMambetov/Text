@@ -6,7 +6,7 @@ tracklist:
   - "[[Departure! - Игорь Куликов (🎧️ 1275)]]"
   - "[[Бесчувственный - Everblack Melodies (🎧️ 307)]]"
   - "[[Creepin' Towards the Door - Griffinilla (🎧️ 1251)]]"
-  - "[[RISE - League of Legends (🎧️ 166)]]"
+  - "[[RISE - League of Legends (🎧️ 145)]]"
   - "[[Donten - Игорь Куликов (🎧️ 1304)]]"
   - "[[Unravel - Jackie-O (🎧️ 696)]]"
   - "[[Step into the Dark! (🎧️ 734)]]"

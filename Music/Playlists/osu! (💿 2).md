@@ -117,7 +117,7 @@ tracklist:
   - "[[Emperor's New Clothes - Panic! At The Disco (🎧️ 356)]]"
   - "[[One by One - ONE OK ROCK (🎧️ 320)]]"
   - "[[Frame of Mind - Tristam (🎧️ 284)]]"
-  - "[[My Love - Kuba Oms (🎧️ 164)]]"
+  - "[[My Love - Kuba Oms (🎧️ 143)]]"
   - "[[The Creator - Yousei Teikoku (🎧️ 42)]]"
   - "[[Tokio Funka - Reol (🎧️ 43)]]"
   - "[[Greetings - VINXIS (🎧️ 38)]]"

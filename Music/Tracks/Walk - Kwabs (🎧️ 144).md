@@ -1,13 +1,13 @@
 ---
 Album: "[[Walk EP [2014] {Kwabs}]]"
-Creators: []
-Cover: ""
+Creators: ["[[Kwabs (🎙️ 513)]]"]
+Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 1
 SourceFile: "[[Kwabs - Walk.mp3]]"
 Year: 2014
 aliases: ["Walk"]
 created: 2022-04-22T21:01:28+03:00
-source: ""
+source: 
 related: []
 ListenInSec: 203
 CoverOf: ""
