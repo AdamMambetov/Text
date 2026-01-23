@@ -9,7 +9,7 @@ cssclasses:
 ---
 
 - [[Дочери Мнемозины (🇯🇵📺 287)]]
-- [[Music Is My Saviour (feat. Mixie Moon) - S3RL (🎧️ 62)]]
+- [[I Miss the Misery - Halestorm (🎧️ 139)]]
 
 # Главное
  - [[Text/Note/home/_art base.base|_art base]]
