@@ -9,7 +9,7 @@ cssclasses:
 ---
 
 - [[Дочери Мнемозины (🇯🇵📺 287)]]
-- [[Way Back Home - Shaun (🎧️ 246)]]
+- [[Way Back Home - Shaun (🎧️ 225)]]
 
 # Главное
  - [[Text/Note/home/_art base.base|_art base]]
