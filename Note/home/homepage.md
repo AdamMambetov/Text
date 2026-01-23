@@ -9,7 +9,7 @@ cssclasses:
 ---
 
 - [[Дочери Мнемозины (🇯🇵📺 287)]]
-- [[Lalalalalalalalalala - Mikolas Josef (🎧️ 185)]]
+- [[Way Back Home - Shaun (🎧️ 246)]]
 
 # Главное
  - [[Text/Note/home/_art base.base|_art base]]

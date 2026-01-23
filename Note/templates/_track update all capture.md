@@ -19,6 +19,8 @@ arr.forEach(p => {
 		.replaceAll("\\", "")
 	let num = arr.indexOf(p) + 1
 	let title = `${trackName} - ${creatorName} (🎧️ ${num}).md`
+	
+	if (file.name === title) return
 	tp.app.fileManager.renameFile(file, file.path.replace(file.name, title))
 })
 new Notice("Finish", 50000)
