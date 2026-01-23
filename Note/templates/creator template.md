@@ -1,7 +1,8 @@
 <% "---" %>
 <%*
-let title = tp.file.title
+dv = app.plugins.plugins.dataview.api
 
+let title = tp.file.title
 let num = dv.pages('"Text/Music/Creators"').length
 let name = `${title} (🎙️ ${num})`
 await tp.file.rename(name)

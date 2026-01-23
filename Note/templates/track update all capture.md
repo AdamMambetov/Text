@@ -4,7 +4,7 @@ dv = app.plugins.plugins.dataview.api
 let arr = dv.pages('"Text/Music/Tracks"')
 	.sort(p => p.created, "asc")
 arr.forEach(p => {
-	new Notice(p.file.name, 50000)
+	new Notice(p.file.name, 15000)
 	let file = tp.file.find_tfile(p.file.path)
 	let creator = dv.page(p.Creators[0])
 	let trackName = p.aliases[0]

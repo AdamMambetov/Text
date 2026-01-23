@@ -48,7 +48,12 @@ Object.keys(trackInfo).forEach(key => {
 		})
 	}
 	else if (key === "Cover") {
-		formValues["SelectedCover"] = getLinkName(value)
+		let coverKey = "ExistingCover"
+		let linkName = getLinkName(value)
+		if (linkName === "")
+			formValues[coverKey] = "_No Album Art.jpg"
+		else
+			formValues[coverKey] = linkName
 	}
 	else if (isLink(value)) {
 		formValues[key] = `${getLinkName(value)}`
@@ -92,7 +97,11 @@ if (coverTFile != null) {
 	await tp.app.fileManager.renameFile(coverTFile, `${path}/${cover}`)
 	cover = `"[[${cover}]]"`
 } else {
-	cover = `"[[${result.get("SelectedCover")}]]"`
+	let _cover = result.get("ExistingCover")
+	if (_cover === "")
+		cover = `"[[_No Album Art.jpg]]"`
+	else
+		cover = `"[[${_cover}]]"`
 }
 trackInfo["Cover"] = cover
 
