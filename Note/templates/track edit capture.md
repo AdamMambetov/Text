@@ -58,8 +58,14 @@ Object.keys(trackInfo).forEach(key => {
 	else if (isLink(value)) {
 		formValues[key] = `${getLinkName(value)}`
 	}
-	else
+	else if (key === "Album") {
 		formValues[key] = value
+			.replaceAll("[[", "")
+			.replaceAll("]]", "")
+	}
+	else {
+		formValues[key] = value
+	}
 })
 
 let itemsToLink = (arr) => arr.map(el => `"[[${el}]]"`)

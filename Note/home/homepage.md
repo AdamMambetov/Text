@@ -9,7 +9,7 @@ cssclasses:
 ---
 
 - [[Дочери Мнемозины (🇯🇵📺 287)]]
-- [[Roundtable Rival - Lindsey Stirling (🎧️ 173)]]
+- [[Lalalalalalalalalala - Mikolas Josef (🎧️ 185)]]
 
 # Главное
  - [[Text/Note/home/_art base.base|_art base]]
