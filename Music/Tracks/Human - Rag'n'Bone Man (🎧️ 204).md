@@ -1,13 +1,13 @@
 ---
 Album: "[[Human [2017] {Rag'n'Bone Man}]]"
-Creators: []
-Cover: ""
+Creators: ["[[Rag'n'Bone Man (🎙️ 527)]]"]
+Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 1
 SourceFile: "[[Rag'n'Bone Man - Human.mp3]]"
 Year: 2017
 aliases: ["Human"]
 created: 2022-04-22T21:26:26+03:00
-source: ""
+source: 
 related: []
 ListenInSec: 570
 CoverOf: ""
