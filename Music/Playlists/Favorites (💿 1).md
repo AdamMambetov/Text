@@ -1024,7 +1024,7 @@ tracklist:
   - "[[Naruto's Daily Life - Toshio Masuda (🎧️ 376)]]"
   - "[[Morning - Musashi Project (🎧️ 375)]]"
   - "[[I Said I'm Naruto - Toshio Masuda (🎧️ 374)]]"
-  - "[[Mas Que Nada - Luiz Henrique (🎧️ 369)]]"
+  - "[[Mas Que Nada - Luiz Henrique (🎧️ 348)]]"
   - "[[Way Up - Jaden Smith (🎧️ 345)]]"
   - "[[Sunflower (ft. Swae Lee) - Post Malone (🎧️ 344)]]"
   - "[[Не человек - Everblack Melodies (🎧️ 343)]]"
