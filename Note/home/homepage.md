@@ -9,9 +9,9 @@ cssclasses:
 ---
 
 # TODO
-- [[Mas Que Nada - Luiz Henrique (🎧️ 369)]]
+- [[Someday - FlipSyde (🎧️ 372)]]
+- [[Антон Виноградов (🎙️ 84)]]
 - [[Дочери Мнемозины (🇯🇵📺 287)]]
-
 # Главное
  - [[Text/Note/home/_art base.base|_art base]]
  - [[инструкция]]
