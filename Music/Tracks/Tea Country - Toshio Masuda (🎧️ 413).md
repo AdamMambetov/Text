@@ -1,14 +1,13 @@
 ---
 Album: "[[NARUTO ORIGINAL SOUNDTRACK 3]]"
-Creators: []
-Cover: ""
+Creators: ["[[Toshio Masuda (🎙️ 561)]]"]
+Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 19
 SourceFile: "[[Naruto OST - Tea Country.mp3]]"
 Year: 2005
-aliases:
-  - Tea Country
+aliases: ["Tea Country"]
 created: 2022-04-28T17:53:41+03:00
-source: ""
+source: 
 related: []
 ListenInSec: 13
 CoverOf: ""

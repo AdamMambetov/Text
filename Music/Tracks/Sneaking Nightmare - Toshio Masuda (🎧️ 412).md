@@ -1,14 +1,13 @@
 ---
 Album: "[[NARUTO ORIGINAL SOUNDTRACK 3]]"
-Creators: []
-Cover: ""
+Creators: ["[[Toshio Masuda (🎙️ 561)]]"]
+Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 20
 SourceFile: "[[Naruto OST - Sneaking Nightmare.mp3]]"
 Year: 2005
-aliases:
-  - Sneaking Nightmare
+aliases: ["Sneaking Nightmare"]
 created: 2022-04-28T17:53:40+03:00
-source: ""
+source: 
 related: []
 ListenInSec: 80
 CoverOf: ""
