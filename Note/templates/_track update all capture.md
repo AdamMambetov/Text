@@ -3,7 +3,9 @@ dv = app.plugins.plugins.dataview.api
 
 let arr = dv.pages('"Text/Music/Tracks"')
 	.sort(p => p.created, "asc")
-arr.forEach(p => {
+let bExit = false
+arr.forEach(async (p) => {
+	if (bExit) return
 	//new Notice(p.file.name, 15000)
 	let file = tp.file.find_tfile(p.file.path)
 	try {
@@ -27,7 +29,7 @@ arr.forEach(p => {
 			file.name,
 			title,
 		)
-		tp.app.fileManager.renameFile(
+		await tp.app.fileManager.renameFile(
 			file,
 			title,
 		)
@@ -35,7 +37,7 @@ arr.forEach(p => {
 		tp.app.workspace
 			.getLeaf()
 			.openFile(file)
-		throw new Error(e.message)
+		bExit = true
 	}
 })
 new Notice("Finish", 50000)
