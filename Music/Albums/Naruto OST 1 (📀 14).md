@@ -4,7 +4,8 @@ Year: 2003
 source: https://vgmdb.net/album/23889
 aliases: []
 Creators: []
-tracklist: ["[[Strong and Strike - Musashi Project (🎧️ 703)]]"]
+tracklist:
+  - "[[Strong and Strike - Musashi Project (🎧️ 681)]]"
 ---
 
 ![[Naruto.jpg]]
