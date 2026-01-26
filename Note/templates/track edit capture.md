@@ -80,11 +80,11 @@ if (album !== "")
 	trackInfo.Album = `"[[${album}]]"`
 else
 	trackInfo.Album = `""`
-trackInfo.Creators = "[" + result.get("Creators", itemsToLink) + "]"
+trackInfo.Creators = `[${result.get("Creators", itemsToLink)}]`
 trackInfo.NumberInAlbum = result.get("NumberInAlbum")
-trackInfo.source = result.get("source")
+trackInfo.source = `"${result.get("source")}"`
 trackInfo.SourceFile = `"[[${result.get("SourceFile")}]]"`
-trackInfo.related = "[" + result.get("related", itemsToLink) + "]"
+trackInfo.related = `[${result.get("related", itemsToLink)}]`
 trackInfo.ListenInSec = result.get("ListenInSec")
 let coverOf = result.get("CoverOf")
 if (coverOf !== "")
