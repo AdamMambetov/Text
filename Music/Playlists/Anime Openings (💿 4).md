@@ -172,7 +172,7 @@ tracklist:
   - "[[Kiminosei - the peggies (🎧️ 517)]]"
   - "[[Tsuki no Okisa - Nogizaka46 (🎧️ 496)]]"
   - "[[One Room Sugar Life - Nanawo Akari (🎧️ 515)]]"
-  - "[[Blade of Hope - sweet ARMS (🎧️ 451)]]"
+  - "[[Blade of Hope (TV Size) - sweet ARMS (🎧️ 430)]]"
   - "[[Hikarunara (TV Size) - Goose House (🎧️ 418)]]"
   - "[[Niwaka Ame ni mo Makezu (TV Size) - NICO Touches the Walls (🎧️ 411)]]"
   - "[[BLOODY STREAM - Coda (🎧️ 409)]]"

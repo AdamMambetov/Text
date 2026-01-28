@@ -1,7 +1,7 @@
 ---
 Album: "[[osu!]]"
-Creators: []
-Cover: ""
+Creators: ["[[UNDEAD CORPORATION (🎙️ 580)]]"]
+Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 1
 SourceFile: "[[UNDEAD CORPORATION - Everything will freeze.mp3]]"
 Year: 0

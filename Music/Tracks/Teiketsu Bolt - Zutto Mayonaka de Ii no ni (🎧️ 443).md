@@ -1,7 +1,7 @@
 ---
 Album: "[[osu!]]"
-Creators: []
-Cover: ""
+Creators: ["[[Zutto Mayonaka de Ii no ni (🎙️ 579)]]"]
+Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 1
 SourceFile: "[[Zutto Mayonaka de Ii no ni - Teiketsu Bolt.mp3]]"
 Year: 2020

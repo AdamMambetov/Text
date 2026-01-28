@@ -1,7 +1,7 @@
 ---
 Album: "[[osu!]]"
-Creators: []
-Cover: ""
+Creators: ["[[Neru (🎙️ 578)]]"]
+Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 8
 SourceFile: "[[Neru - Byoumei wa Ai Datta.mp3]]"
 Year: 0

@@ -1,7 +1,7 @@
 ---
 Album: "[[osu!]]"
-Creators: []
-Cover: ""
+Creators: ["[[Hamburgaga (🎙️ 581)]]"]
+Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 1
 SourceFile: "[[Hamburgaga - Fubuki Guys.mp3]]"
 Year: 0

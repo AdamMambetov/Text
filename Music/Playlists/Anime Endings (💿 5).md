@@ -29,7 +29,7 @@ tracklist:
   - "[[L.L.L. - MYTH & ROID (🎧️ 615)]]"
   - "[[Sugar Song to Bitter Step (🎧️ 628)]]"
   - "[[Paranoid Android - Radiohead (🎧️ 606)]]"
-  - "[[Maware! Setsugekka - Harada Hitomi, Kayano Ai & Ogura Yui (🎧️ 468)]]"
+  - "[[Maware! Setsugekka (TV Size) - Harada Hitomi (🎧️ 447)]]"
   - "[[Walk Like an Egyptian - The Bangles (🎧️ 234)]]"
 ---
 
