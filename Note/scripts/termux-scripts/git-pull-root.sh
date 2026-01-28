@@ -1,5 +1,9 @@
-cd /storage/emulated/0/_Adam/Text/
+echo "--- git-pull-root ---"
 
+cd /storage/emulated/0/_Adam/Text/
 git status
-git pull
+
+echo "--- git pull root ---"
+git pull'
+echo "--- git pull submodules ---"
 git submodule foreach "git pull"
