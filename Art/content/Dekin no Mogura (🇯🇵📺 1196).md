@@ -3,13 +3,14 @@ created: 2026-01-26T05:20:55+03:00
 aliases:
   - Запрещённый крот
   - Dekin no Mogura
-Status: watch
+Status: complete
 Type: anime
 Rating:
   - "[[®️12|PG-13]]"
 Cover: "[[dekin_no_mogura_anime_cover.jpg]]"
 Year: 2025
-Episode: 11
+Episode: 12
+Views: 1
 ---
 
 # Запрещённый крот
