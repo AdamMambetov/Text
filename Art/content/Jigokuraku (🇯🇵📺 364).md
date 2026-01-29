@@ -13,6 +13,7 @@ Cover: "[[jigokuraku_anime_cover.png]]"
 Year: 2023
 Episode: 13
 Views: 1
+Продолжение: "[[Jigokuraku 2 (🇯🇵📺 1197)]]"
 ---
 
 # Адский рай
