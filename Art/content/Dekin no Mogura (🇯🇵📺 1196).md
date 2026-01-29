@@ -9,7 +9,7 @@ Rating:
   - "[[®️12|PG-13]]"
 Cover: "[[dekin_no_mogura_anime_cover.jpg]]"
 Year: 2025
-Episode: 8
+Episode: 10
 ---
 
 # Запрещённый крот
