@@ -10,7 +10,7 @@ Rating:
   - "[[®️16|R-17]]"
 Cover: "[[jigokuraku_2_anime_cover.jpg]]"
 Year: 2026
-Episode: 2
+Episode: 3
 Предыстория: "[[Jigokuraku (🇯🇵📺 364)]]"
 ---
 
