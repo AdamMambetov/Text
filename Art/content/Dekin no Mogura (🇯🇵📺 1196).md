@@ -2,6 +2,7 @@
 created: 2026-01-26T05:20:55+03:00
 aliases:
   - Запрещённый крот
+  - Dekin no Mogura
 Status: watch
 Type: anime
 Rating:
