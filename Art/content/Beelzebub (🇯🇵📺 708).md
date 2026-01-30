@@ -3,14 +3,14 @@ created: 2024-11-04T14:21:10+03:00
 aliases:
   - Вельзепуз
   - Beelzebub
-Status: defer
+Status: watch
 Type: anime
 Rating:
   - "[[®️12|PG-13]]"
   - "[[®️16|16+]]"
 Cover: "[[beelzebub_anime_cover.jpg]]"
 Year: 2011
-Episode: 3
+Episode: 7
 ---
 
 # Вельзепуз
@@ -21,62 +21,13 @@ Episode: 3
 name Shikimori
 type link
 action https://shikimori.one/animes/9513
-customColor #4682b4
+class button-shikimori
 hidden true
 ```
 ^button-shikimori
 
-```button
-name TV Time
-type link
-action https://www.tvtime.com/
-customColor #997f00
-hidden true
-```
-^button-tvTime
 
-```button
-name World Art
-type link
-action http://www.world-art.ru/
-customColor #7a0000
-hidden true
-```
-^button-worldArt
-
-```button
-name AnimeLib
-type link
-action https://anilib.me/
-customColor #252527
-customTextColor #7E57C2
-hidden true
-```
-^button-animelib
-
-```button
-name Senkuro
-type link
-action https://senkuro.com/
-customColor #191A21
-hidden true
-```
-^button-senkuro
-
-```button
-name ReYohoho
-type link
-action https://reyohoho.github.io/reyohoho/
-customColor #1c1c1c
-hidden true
-```
-^button-reyohoho
-
-`button-shikimori` `button-tvTime`
-
-`button-worldArt` `button-animelib`
-
-`button-senkuro` `button-reyohoho`
+`button-shikimori`
 
 ## Описание
 
