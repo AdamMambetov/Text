@@ -3,13 +3,14 @@ created: 2024-11-04T14:23:01+03:00
 aliases:
   - Исюра
   - Ishura
-Status: plan
+Status: watch
 Type: anime
 Rating:
   - "[[®️16|R-17]]"
   - "[[®️18|18+]]"
 Cover: "[[ishura_anime_cover.jpeg]]"
 Year: 2024
+Episode: 1
 ---
 
 # Исюра
