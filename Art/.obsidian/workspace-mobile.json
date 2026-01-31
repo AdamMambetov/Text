@@ -26,12 +26,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/18if (🇯🇵📺 62).md",
+                "file": "content/1+1 (🇫🇷🎞 193).md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "18if (🇯🇵📺 62)"
+              "title": "1+1 (🇫🇷🎞 193)"
             }
           },
           {
@@ -186,11 +186,18 @@
       "cmdr:Emoji Toolbar: Open emoji picker": false,
       "cmdr:QuickAdd: Rename art": false,
       "modalforms:Edit forms": false,
-      "quickadd:QuickAdd": false
+      "quickadd:QuickAdd": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Smart Lookup: Open lookup view": false,
+      "smart-connections:Smart Connections: Open random connection": false
     }
   },
   "active": "5515c868986ffa30",
   "lastOpenFiles": [
+    "content/Рагна Багровый (🇯🇵📺 192).md",
+    "content/1+1 (🇫🇷🎞 193).md",
+    "content/Inglourious Basterds (🇺🇸🎞 194).md",
+    "content/18if (🇯🇵📺 62).md",
     "_art base.base",
     "content/One Punch Man 3 (🇯🇵📺 727).md",
     "content/Yuusha ga Shinda! (🇯🇵📺 1195).md",
@@ -219,9 +226,6 @@
     "content/Семь смертей Эвелины Хардкасл (🇺🇸📘 967).md",
     "content/Темный эльф 1. Отступник (🇺🇸📘 244).md",
     "content/Kung Fu Panda (🇺🇸🎞 208).md",
-    "content/Major Payne (🇺🇸🎞 211).md",
-    "content/Няньки (🇺🇸🎞 215).md",
-    "content/Danganronpa V3. Killing Harmony (🇯🇵🎮 314).md",
     "covers/the_blind_watchmaker_book_cover.jpg",
     "covers/h2o_just_add_water_series_cover.jpg",
     "covers/star_wars_visions_1_anime_cover.jpg",

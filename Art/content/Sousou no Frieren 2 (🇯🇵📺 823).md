@@ -4,12 +4,13 @@ aliases:
   - Провожающая в последний путь Фрирен 2
   - Sousou no Frieren 2
   - "Frieren: Beyond Journey's End 2"
-Status: plan
+Status: watch
 Type: anime
 Rating:
   - "[[®️12|PG-13]]"
 Cover: "[[frieren_2_anime_cover.jpeg]]"
 Year: 2026
+Episode: 1
 Предыстория: "[[Sousou no Frieren 1 (🇯🇵📺 123)]]"
 ---
 
