@@ -10,7 +10,7 @@ Rating:
   - "[[®️18|18+]]"
 Cover: "[[ishura_anime_cover.jpeg]]"
 Year: 2024
-Episode: 6
+Episode: 7
 ---
 
 # Исюра
