@@ -41,3 +41,13 @@ related:
 
 1. https://github.com/07th-mod/python-patcher/releases/tag/v1.4.1
 2. 
+
+## Установка версии Umineko no naku koro ni Symphony of Catbox and Dreams
+
+[Источник](https://vk.com/wall-202892520_629?w=wall-202892520_629)
+
+1. Скачать https://disk.yandex.ru/d/uU_oT1vDeuCHKg
+2. Скачать эмулятор Yuzu
+3. Запустите его, нажмите File - Open yuzu Folder, зайдите в папку keys и переместите туда файл prod.keys и перезапустить эмулятор
+4. Дважды кликните по центру эмулятора, укажите путь к образу игры
+5. Правой кнопкой мыши нажимаете по игре - Open Mod Data Location. Создайте там папку UminekoCatboxEnglish и закиньте содержимое архива patch_yuzu в неё.
