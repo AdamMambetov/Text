@@ -12,5 +12,6 @@
     "margin": "2",
     "downscalePercent": 100
   },
-  "strictLineBreaks": false
+  "strictLineBreaks": false,
+  "openBehavior": "daily"
 }
