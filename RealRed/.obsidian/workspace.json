@@ -8,97 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3f64e3122882f4ef",
+            "id": "7298181842e42055",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "periodic/2026-01-12.md",
+                "file": "periodic/2026-02-02.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2026-01-12"
-            }
-          },
-          {
-            "id": "b4e46c5b378e63d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "periodic/2026-01-15.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-01-15"
-            }
-          },
-          {
-            "id": "127c8e752755e4fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "periodic/2026-01-16.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-01-16"
-            }
-          },
-          {
-            "id": "636fd59fbbd4f6f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "periodic/2026-01-23.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-01-23"
-            }
-          },
-          {
-            "id": "ba3414330632e6f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "periodic/2026-01-26.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-01-26"
-            }
-          },
-          {
-            "id": "81e41e98f5453f9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "periodic/2026-01-28.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-01-28"
+              "title": "2026-02-02"
             }
           }
         ],
-        "currentTab": 5,
         "stacked": true
       }
     ],
@@ -146,18 +70,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "09c12ca83bd21fa3",
+            "id": "ec72d9f535d1191d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "periodic/2026-01.md",
+                "file": "periodic/2026-02.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2026-01"
+              "title": "2026-02"
             }
           }
         ]
@@ -282,13 +206,24 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "81e41e98f5453f9c",
+  "active": "7298181842e42055",
   "lastOpenFiles": [
-    "periodic/2026-01-26.md",
+    "periodic/2026-02.md",
+    "periodic/2026-01.md",
+    "periodic/2026-02-02.md",
     "periodic/2026-01-28.md",
+    "отчёты/~$чет_о_работе_за_2026_01_Мамбетов_Адам_Муратович.doc",
+    "отчёты/~WRL0004.tmp",
+    "отчёты/~WRD0003.tmp",
+    "отчёты/~WRD0002.tmp",
+    "periodic/2026-01-16.md",
+    "periodic/2026-01-15.md",
+    "periodic/2026-01-12.md",
+    "отчёты/~$чет_о_работе_за_2025_12_Мамбетов_Адам_Муратович 1.doc",
+    "отчёты/Отчет_о_работе_за_2026_01_Мамбетов_Адам_Муратович.doc",
+    "periodic/2026-01-26.md",
     "files/Pasted image 20260126151135.png",
     "periodic/2026-01-23.md",
-    "periodic/2026-01-16.md",
     "Сравнение плагинов RR_Apart_BP_Prepare в Татарской и Самара Сити.md",
     "files/Pasted image 20260122181929.png",
     "files/Pasted image 20260122181807.png",
@@ -300,17 +235,11 @@
     "files/Pasted image 20260122180805.png",
     "files/Pasted image 20260122180738.png",
     "Задачи по выборщику в Самара Сити.md",
-    "periodic/2026-01-15.md",
-    "periodic/2026-01-12.md",
-    "periodic/2026-01.md",
     "periodic/2025-12.md",
     "periodic/2025-12-29.md",
     "periodic/2025-12-24.md",
     "conflict-files-obsidian-git.md",
     "отчёты/~$чет_о_работе_за_2025_12_Мамбетов_Адам_Муратович.doc",
-    "отчёты/~WRL0004.tmp",
-    "отчёты/~WRD0003.tmp",
-    "отчёты/~WRD0002.tmp",
     "отчёты/Отчет_о_работе_за_2025_12_Мамбетов_Адам_Муратович.doc",
     "отчёты/Отчет_о_работе_за_2025_11_Мамбетов_Адам_Муратович — копия.doc",
     "отчёты/Отчет_о_работе_за_2025_11_Мамбетов_Адам_Муратович.doc",
@@ -324,11 +253,6 @@
     "periodic/2025-12-10.md",
     "Новая система тэгов.md",
     "periodic/2025-11.md",
-    "periodic/2025-12-01.md",
-    "отчёты/~$чет_о_работе_за_2025_11_Мамбетов_Адам_Муратович.doc",
-    "periodic/2025-11-10.md",
-    "отчёты/Отчет_о_работе_за_2025_10_Мамбетов_Адам_Муратович — копия.doc",
-    "Как узнать спецификатор доступа у функции из .T3D файла.md",
-    "Untitled.base"
+    "periodic/2025-12-01.md"
   ]
 }
