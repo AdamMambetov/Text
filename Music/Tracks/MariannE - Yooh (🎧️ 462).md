@@ -1,7 +1,7 @@
 ---
-Album: "[[osu!]]"
-Creators: []
-Cover: ""
+Album: ""
+Creators: ["[[Yooh (🎙️ 599)]]"]
+Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 8
 SourceFile: "[[Yooh - MariannE.mp3]]"
 Year: 2014

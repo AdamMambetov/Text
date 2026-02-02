@@ -1,7 +1,7 @@
 ---
-Album: "[[osu!]]"
-Creators: []
-Cover: ""
+Album: ""
+Creators: ["[[Falcom Sound Team jdk (🎙️ 603)]]"]
+Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 1
 SourceFile: "[[Falcom Sound Team jdk - OVER DRIVE2.mp3]]"
 Year: 0

@@ -1,7 +1,7 @@
 ---
-Album: "[[osu!]]"
-Creators: []
-Cover: ""
+Album: ""
+Creators: ["[[Silentroom (🎙️ 602)]]"]
+Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 5
 SourceFile: "[[Silentroom - NULCTRL.mp3]]"
 Year: 2020

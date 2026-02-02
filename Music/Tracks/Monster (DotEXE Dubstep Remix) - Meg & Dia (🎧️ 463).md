@@ -1,7 +1,7 @@
 ---
-Album: "[[osu!]]"
-Creators: []
-Cover: ""
+Album: ""
+Creators: ["[[Meg & Dia (🎙️ 600)]]"]
+Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 0
 SourceFile: "[[Meg & Dia - Monster (DotEXE Dubstep Remix).mp3]]"
 Year: 0
