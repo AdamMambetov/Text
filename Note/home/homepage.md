@@ -9,7 +9,7 @@ cssclasses:
 ---
 
 # TODO
-- [[Someday - FlipSyde (🎧️ 351)]]
+- [[MariannE - Yooh (🎧️ 462)]]
 - [[Антон Виноградов (🎙️ 84)]]
 - [[Дочери Мнемозины (🇯🇵📺 287)]]
 # Главное
@@ -17,9 +17,6 @@ cssclasses:
  - [[инструкция]]
  - [[цели в жизни]]
  - [[excalibrain]]
-# Работа
- - [[Music Player Maui]]
- - [[Baffle]]
 # Статистика базы знаний
 - [Недавно созданные](created): `$=dv.pages('').where(f => f.created > (now() - dv.duration("1 month"))).length`
   `$=dv.list(dv.pages('').where(f => f.created > (now() - dv.duration("1 month"))).sort(f => f.created.ts, "desc").limit(20).file.link)`

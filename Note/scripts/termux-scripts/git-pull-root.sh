@@ -4,6 +4,6 @@ cd /storage/emulated/0/_Adam/Text/
 git status
 
 echo "--- git pull root ---"
-git pull'
+git pull
 echo "--- git pull submodules ---"
 git submodule foreach "git pull"
