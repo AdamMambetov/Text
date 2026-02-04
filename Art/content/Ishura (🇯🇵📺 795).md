@@ -12,6 +12,7 @@ Cover: "[[ishura_anime_cover.jpeg]]"
 Year: 2024
 Episode: 12
 Views: 1
+Продолжение: "[[Ishura 2 (🇯🇵📺 1198)]]"
 ---
 
 # Исюра
