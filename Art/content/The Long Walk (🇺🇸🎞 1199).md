@@ -3,10 +3,13 @@ created: 2026-02-04T23:34:20+03:00
 aliases:
   - Долгая прогулка
   - The Long Walk
-Status: watch
+Status: complete
 Type: film
 Cover: "[[the_long_walk_film_cover.jpg]]"
 Year: 2025
+Views: 1
+tags:
+  - ❤
 ---
 
 # Долгая прогулка
@@ -26,7 +29,8 @@ hidden true
 
 ## Причина добавления
 
-Узнал про фильм на стриме у [[@HellYeahPlay|Сергея HellYeah]].
+Узнал про фильм на стриме на Twitch у [[@HellYeahPlay|Сергея HellYeah]].
+Посмотрел на стриме на Boosty у [[@HellYeahPlay|Сергея HellYeah]].
 
 
 ## Описание
