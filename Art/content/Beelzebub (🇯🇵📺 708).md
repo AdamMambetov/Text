@@ -10,7 +10,7 @@ Rating:
   - "[[®️16|16+]]"
 Cover: "[[beelzebub_anime_cover.jpg]]"
 Year: 2011
-Episode: 22
+Episode: 25
 ---
 
 # Вельзепуз
