@@ -4,7 +4,7 @@ dv = app.plugins.plugins.dataview.api
 const modalForm = app.plugins.plugins.modalforms.api;
 const result = await modalForm.openForm("art-form", { values: { aliases: [tp.file.title] } });
 const linkInfo = {
-	links: ["shikimori.one", "tvtime.com", "world-art.ru", "onikes.ru", "yo8z6gv.github.io", "animefillerlist.com", "mangalib.me", "ranobelib.me", "anilib.me", "senkuro.com", "reyohoho.github.io/reyohoho", "freetp.org", "store.steampowered.com", "store.epicgames.com", "gog.com"],
+	links: ["shiki", "tvtime.com", "world-art.ru", "onikes.ru", "yo8z6gv.github.io", "animefillerlist.com", "mangalib.me", "ranobelib.me", "anilib.me", "senkuro.com", "reyohoho.github.io/reyohoho", "freetp.org", "store.steampowered.com", "store.epicgames.com", "gog.com"],
 	names: ["shikimori", "tvTime", "worldArt", "onikes", "kesidatokioVods", "animeFillerList", "mangalib", "ranobelib", "animelib", "senkuro", "reyohoho", "freetp", "steam", "epicGames", "gog"],
 	buttons: ["Shikimori", "TV Time", "World Art", "ONIKES", "KESIDATOKIO VOD'S", "Anime Filler List", "MangaLib", "RanobeLib", "AnimeLib", "Senkuro", "ReYohoho", "FreeTP", "Steam", "Epic Games", "GOG"],
 }

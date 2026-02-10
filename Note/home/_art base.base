@@ -84,6 +84,10 @@ views:
     image: note.Cover
   - type: cards
     name: Card
+    filters:
+      and:
+        - Type == "anime film"
+        - Status == "complete"
     groupBy:
       property: Year
       direction: ASC
