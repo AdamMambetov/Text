@@ -4,9 +4,13 @@ category:
   - "[[Программирование]]"
 meta:
   - "[[Unreal Engine]]"
+related:
+  - https://dev.epicgames.com/community/learning/tutorials/XjZP/unreal-engine-automate-with-custom-dataprep-filters-operations
 ---
 
 # Blueprint Predicate
+
+Совет от [Developer Assistant](https://dev.epicgames.com/community/assistant/unreal-engine).
 
 > Как мне сделать так, чтобы в Blueprint была возможность как в C++ вызова FindByPredicate у массива. Чтобы можно было в отдельном графе написать предикат по которому будет осуществлён поиск
 
