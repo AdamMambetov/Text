@@ -1,8 +1,8 @@
 ---
-Album: "[[osu!]]"
-Creators: []
-Cover: ""
-NumberInAlbum: 7
+Album: ""
+Creators: ["[[UNDEAD (🎙️ 621)]]"]
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[UNDEAD - Valentine Eve's Nightmare.mp3]]"
 Year: 2018
 aliases: ["Valentine Eve's Nightmare"]

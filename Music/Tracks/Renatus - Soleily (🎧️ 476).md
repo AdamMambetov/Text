@@ -1,8 +1,8 @@
 ---
-Album: "[[osu!]]"
-Creators: []
-Cover: ""
-NumberInAlbum: 3
+Album: ""
+Creators: ["[[Soleily (🎙️ 611)]]"]
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[Soleily - Renatus.mp3]]"
 Year: 2013
 aliases: ["Renatus"]

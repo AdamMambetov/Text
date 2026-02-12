@@ -1,7 +1,7 @@
 ---
-Album: "[[osu!]]"
-Creators: []
-Cover: ""
+Album: ""
+Creators: ["[[VINXIS (🎙️ 502)]]"]
+Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 0
 SourceFile: "[[VINXIS - Sidetracked Day.mp3]]"
 Year: 0

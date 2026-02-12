@@ -1,7 +1,7 @@
 ---
-Album: "[[osu!]]"
-Creators: []
-Cover: ""
+Album: ""
+Creators: ["[[Rostik (🎙️ 612)]]"]
+Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 1
 SourceFile: "[[Rostik - Liquid (Paul Rosenthal Remix).mp3]]"
 Year: 0

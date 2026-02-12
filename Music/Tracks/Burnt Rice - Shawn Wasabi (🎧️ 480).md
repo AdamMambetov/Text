@@ -1,7 +1,7 @@
 ---
-Album: "[[osu!]]"
-Creators: []
-Cover: ""
+Album: ""
+Creators: ["[[Shawn Wasabi (🎙️ 614)]]","[[YUNG GEMMY (🎙️ 615)]]"]
+Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 1
 SourceFile: "[[Shawn Wasabi ft. YUNG GEMMY - Burnt Rice.mp3]]"
 Year: 0

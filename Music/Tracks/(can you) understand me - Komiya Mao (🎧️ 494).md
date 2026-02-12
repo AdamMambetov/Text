@@ -1,8 +1,8 @@
 ---
-Album: "[[osu!]]"
-Creators: []
-Cover: ""
-NumberInAlbum: 1
+Album: ""
+Creators: ["[[Komiya Mao (🎙️ 622)]]"]
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[Komiya Mao - (can you) understand me.mp3]]"
 Year: 2015
 aliases: ["(can you) understand me?"]
@@ -13,6 +13,6 @@ ListenInSec: 164
 CoverOf: ""
 ---
 
-# Komiya Mao - (can you) understand me
+# Komiya Mao - (can you) understand me?
 
 ![[Komiya Mao - (can you) understand me.mp3]]

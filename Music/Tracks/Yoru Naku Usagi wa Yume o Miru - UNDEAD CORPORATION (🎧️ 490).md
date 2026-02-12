@@ -1,7 +1,7 @@
 ---
-Album: "[[osu!]]"
-Creators: []
-Cover: ""
+Album: ""
+Creators: ["[[UNDEAD CORPORATION (🎙️ 580)]]"]
+Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 0
 SourceFile: "[[UNDEAD CORPORATION - The Dream Of A Rabbit.mp3]]"
 Year: 0

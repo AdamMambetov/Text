@@ -1,7 +1,7 @@
 ---
-Album: "[[osu!]]"
-Creators: []
-Cover: ""
+Album: ""
+Creators: ["[[Nanawo Akari (🎙️ 624)]]"]
+Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 1
 SourceFile: "[[Nanawo Akari - One Room Sugar Life.mp3]]"
 Year: 0
