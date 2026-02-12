@@ -4,9 +4,9 @@ aliases: ["99"]
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
-Creators: []
+Creators: ["[[Mob Choir (🎙️ 607)]]"]
 NumberInAlbum: 1
-source: 
+source: ""
 SourceFile: "[[Mob Choir - 99.mp3]]"
 related: []
 ListenInSec: 482

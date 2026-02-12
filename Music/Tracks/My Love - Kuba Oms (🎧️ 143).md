@@ -1,7 +1,7 @@
 ---
-Album: "[[My Love [2014] {Kuba Oms}]]"
+Album: "[[My Love]]"
 Creators: ["[[Kuba Oms (🎙️ 357)]]"]
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 1
 SourceFile: "[[Kuba Oms - My Love.mp3]]"
 Year: 2014
