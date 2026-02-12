@@ -111,9 +111,24 @@
               "icon": "lucide-file",
               "title": "2026-02-10"
             }
+          },
+          {
+            "id": "1b04e45bcbc45ad9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "periodic/2026-02-12.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-02-12"
+            }
           }
         ],
-        "currentTab": 6,
+        "currentTab": 7,
         "stacked": true
       }
     ],
@@ -297,8 +312,9 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "070a51345cb0379f",
+  "active": "1b04e45bcbc45ad9",
   "lastOpenFiles": [
+    "periodic/2026-02-12.md",
     "periodic/2026-02-10.md",
     "periodic/2026-02-09.md",
     "periodic/2026-02-06.md",
@@ -343,7 +359,6 @@
     "отчёты/Отчет_о_работе_за_2025_11_Мамбетов_Адам_Муратович.doc",
     "periodic/2025-12-17.md",
     "periodic/2025-12-16.md",
-    "periodic/2025-12-15.md",
-    "periodic/2025-12-08.md"
+    "periodic/2025-12-15.md"
   ]
 }
