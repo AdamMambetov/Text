@@ -1,0 +1,23 @@
+---
+created: 2025-06-30T17:58:20+03:00
+aliases: ["PANHEADS BAND - Герой"]
+Cover: "[[_No Album Art.jpg]]"
+Year: 0
+Album: ""
+Creators: []
+NumberInAlbum: 0
+source: ""
+SourceFile: "[[PANHEADS BAND - Герой.mp3]]"
+related: []
+ListenInSec: 0
+CoverOf: ""
+---
+
+`$=dv.header(1, dv.current().aliases[0])`
+
+![[PANHEADS BAND - Герой.mp3]]
+
+## Related Tracks
+
+![[related tracks.base]]
+
