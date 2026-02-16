@@ -1,4 +1,6 @@
-```dataviewjs
+<%*
+dv = app.plugins.plugins.dataview.api
+
 var sourceFiles = app.vault.getFiles()
 	.filter(f => f.path.startsWith("Audio/Music"))
 const tracks = app.vault.getFolderByPath("Text/Music/Tracks").children
@@ -17,4 +19,4 @@ for (let i in tracks) {
 }
 dv.list(a.map(f => f.basename))
 dv.list(sourceFiles.map(f => f.basename))
-```
+-%>
