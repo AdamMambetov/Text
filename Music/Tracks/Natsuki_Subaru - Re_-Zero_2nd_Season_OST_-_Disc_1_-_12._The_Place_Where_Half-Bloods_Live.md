@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[Natsuki_Subaru - Re_-Zero_2nd_Season_OST_-_Disc_1_-_12._The_Place_Where_Half-Bloods_Live.mp3]]"
 related: []
-ListenInSec: 0
+ListenInSec: 144
 CoverOf: ""
 ---
 

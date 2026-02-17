@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[Serena_-3 - ReZero_kara_Hajimeru_Isekai_Seikatsu_Ost_08_EMT.mp3]]"
 related: []
-ListenInSec: 0
+ListenInSec: 101
 CoverOf: ""
 ---
 

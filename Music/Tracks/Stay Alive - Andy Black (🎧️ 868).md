@@ -1,17 +1,15 @@
 ---
 Album: "[[The Shadow Side]]"
-Creators:
-  - "[[Andy Black (🎙️ 182)]]"
-Cover: ""
+Creators: ["[[Andy Black (🎙️ 182)]]"]
+Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 4
 SourceFile: "[[Andy Black - Stay Alive.mp3]]"
 Year: 2016
-aliases:
-  - Stay Alive
+aliases: ["Stay Alive"]
 created: 2024-06-21T05:21:20+03:00
 source: ""
 related: []
-ListenInSec: 3
+ListenInSec: 20
 CoverOf: ""
 ---
 

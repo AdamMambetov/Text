@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[Release - Anastasia_Hoshin.mp3]]"
 related: []
-ListenInSec: 0
+ListenInSec: 128
 CoverOf: ""
 ---
 

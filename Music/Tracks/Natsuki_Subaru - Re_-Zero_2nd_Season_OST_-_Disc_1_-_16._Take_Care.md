@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[Natsuki_Subaru - Re_-Zero_2nd_Season_OST_-_Disc_1_-_16._Take_Care.mp3]]"
 related: []
-ListenInSec: 0
+ListenInSec: 293
 CoverOf: ""
 ---
 

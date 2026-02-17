@@ -1,7 +1,7 @@
 ---
-created: 2026-01-27T23:59:16+03:00
+created: 2026-01-27T23:59:16+0300
 aliases: ["Kayano Ai"]
-ListenInSec: 0
+ListenInSec: 87
 ---
 
 # Kayano Ai

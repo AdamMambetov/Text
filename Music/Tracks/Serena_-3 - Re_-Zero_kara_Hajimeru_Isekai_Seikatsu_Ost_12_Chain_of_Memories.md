@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[Serena_-3 - Re_-Zero_kara_Hajimeru_Isekai_Seikatsu_Ost_12_Chain_of_Memories.mp3]]"
 related: []
-ListenInSec: 215
+ListenInSec: 425
 CoverOf: ""
 ---
 

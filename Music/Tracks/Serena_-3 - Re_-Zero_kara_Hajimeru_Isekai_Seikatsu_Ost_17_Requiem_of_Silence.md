@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[Serena_-3 - Re_-Zero_kara_Hajimeru_Isekai_Seikatsu_Ost_17_Requiem_of_Silence.mp3]]"
 related: []
-ListenInSec: 0
+ListenInSec: 420
 CoverOf: ""
 ---
 

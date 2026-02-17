@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[Kenichiro_Suehiro - _ (4).mp3]]"
 related: []
-ListenInSec: 0
+ListenInSec: 170
 CoverOf: ""
 ---
 

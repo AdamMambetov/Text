@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[Anime_Ost_Archive - Re_-Zero_The_Frozen_Bond_OST_-_6._Eerie.mp3]]"
 related: []
-ListenInSec: 0
+ListenInSec: 78
 CoverOf: ""
 ---
 

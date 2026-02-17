@@ -1,17 +1,15 @@
 ---
 Album: "[[Dark Souls 3]]"
-Creators:
-  - "[[Tsukasa Saitoh (🎙️ 30)]]"
-Cover: ""
+Creators: ["[[Tsukasa Saitoh (🎙️ 30)]]"]
+Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 6
 SourceFile: "[[Dark Souls 3 OST - 05 Iudex Gundyr.mp3]]"
 Year: 2019
-aliases:
-  - Iudex Gundyr
+aliases: ["Iudex Gundyr"]
 created: 2024-01-04T15:27:11+03:00
 source: ""
 related: []
-ListenInSec: 4
+ListenInSec: 20
 CoverOf: ""
 ---
 

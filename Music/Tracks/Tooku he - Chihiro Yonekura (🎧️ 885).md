@@ -1,17 +1,15 @@
 ---
 Album: "[[apples]]"
-Creators: []
-  - "[[Chihiro Yonekura (🎙️ 262)]]"
-Cover: ""
+Creators: ["[[Chihiro Yonekura (🎙️ 262)]]"]
+Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 10
 SourceFile: "[[Chihiro Yonekura - Tooku he.mp3]]"
 Year: 2000
-aliases: []
-  - Tooku he
+aliases: ["Tooku he"]
 created: 2024-06-21T05:21:37+03:00
 source: ""
 related: []
-ListenInSec: 417
+ListenInSec: 728
 CoverOf: ""
 ---
 

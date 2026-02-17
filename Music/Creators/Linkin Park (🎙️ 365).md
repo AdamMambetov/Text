@@ -1,7 +1,7 @@
 ---
-created: 2025-11-19T23:39:10+03:00
+created: 2025-11-19T23:39:10+0300
 aliases: ["Linkin Park"]
-ListenInSec: 0
+ListenInSec: 62
 ---
 
 # Linkin Park

@@ -9,7 +9,7 @@ aliases: ["Climax Reasoning"]
 created: 2025-01-08T16:55:42+03:00
 source: ""
 related: []
-ListenInSec: 2
+ListenInSec: 8
 CoverOf: ""
 ---
 

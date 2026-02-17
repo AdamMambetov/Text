@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[Natsuki_Subaru - Re_-Zero_2nd_Season_OST_-_Disc_2_-_20._Death_Ballet_-Reprise.mp3]]"
 related: []
-ListenInSec: 0
+ListenInSec: 181
 CoverOf: ""
 ---
 

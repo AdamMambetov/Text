@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[Release - Regulus_Corneus.mp3]]"
 related: []
-ListenInSec: 0
+ListenInSec: 142
 CoverOf: ""
 ---
 

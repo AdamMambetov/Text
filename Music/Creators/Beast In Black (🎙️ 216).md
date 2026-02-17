@@ -1,7 +1,7 @@
 ---
-created: 2025-11-19T22:43:29+03:00
+created: 2025-11-19T22:43:29+0300
 aliases: ["Beast In Black"]
-ListenInSec: 0
+ListenInSec: 40
 ---
 
 # Beast In Black

@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[MYTH_ROID_Official_Channel - STRAIGHT_BET.mp3]]"
 related: []
-ListenInSec: 0
+ListenInSec: 247
 CoverOf: ""
 ---
 

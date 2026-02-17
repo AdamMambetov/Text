@@ -1,7 +1,7 @@
 ---
-created: 2026-02-02T01:42:19+03:00
+created: 2026-02-02T01:42:19+0300
 aliases: ["Ryosuke Nikamoto"]
-ListenInSec: 0
+ListenInSec: 135
 ---
 
 # Ryosuke Nikamoto
