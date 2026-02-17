@@ -1,17 +1,17 @@
 ---
 created: 2024-06-21T05:22:29+03:00
-aliases:
+aliases: []
   - Солдат
 Cover: ""
 Year: 2003
 Album: "[[Пятница]]"
-Creators:
+Creators: []
   - "[[5'nizza (🎙️ 75)]]"
 NumberInAlbum: 14
 source: ""
 SourceFile: "[[5'nizza - Солдат.mp3]]"
 related: []
-ListenInSec: 2
+ListenInSec: 3
 CoverOf: ""
 ---
 

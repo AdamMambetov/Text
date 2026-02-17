@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[Hiroyuki_Sawano - Mkaliez.mp3]]"
 related: []
-ListenInSec: 0
+ListenInSec: 15
 CoverOf: ""
 ---
 

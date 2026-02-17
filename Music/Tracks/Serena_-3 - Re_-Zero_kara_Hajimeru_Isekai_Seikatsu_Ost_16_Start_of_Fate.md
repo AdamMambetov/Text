@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[Serena_-3 - Re_-Zero_kara_Hajimeru_Isekai_Seikatsu_Ost_16_Start_of_Fate.mp3]]"
 related: []
-ListenInSec: 0
+ListenInSec: 29
 CoverOf: ""
 ---
 

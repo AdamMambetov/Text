@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[Eduard Khil - Trololo Song.mp3]]"
 related: []
-ListenInSec: 0
+ListenInSec: 324
 CoverOf: ""
 ---
 

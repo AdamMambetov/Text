@@ -1,16 +1,16 @@
 ---
 created: 2024-06-21T05:21:25+03:00
-aliases:
+aliases: []
   - Teeth
 Cover: ""
 Year: 2019
 Album: "[[13 Reasons Why (Season 3)]]"
-Creators:
+Creators: []
   - "[[5 Seconds of Summer (🎙️ 69)]]"
 NumberInAlbum: 1
 SourceFile: "[[5 Seconds of Summer - Teeth.mp3]]"
 related: []
-ListenInSec: 206
+ListenInSec: 224
 CoverOf: ""
 ---
 

@@ -9,7 +9,7 @@ aliases: ["Из окна"]
 created: 2022-05-11T23:11:14+03:00
 source: ""
 related: []
-ListenInSec: 1
+ListenInSec: 15
 CoverOf: ""
 ---
 

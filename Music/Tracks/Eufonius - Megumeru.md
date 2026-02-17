@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[Eufonius - Megumeru.mp3]]"
 related: []
-ListenInSec: 0
+ListenInSec: 279
 CoverOf: ""
 ---
 

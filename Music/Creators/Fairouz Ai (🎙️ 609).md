@@ -1,7 +1,7 @@
 ---
-created: 2026-02-12T11:23:27+03:00
+created: 2026-02-12T11:23:27+0300
 aliases: ["Fairouz Ai"]
-ListenInSec: 0
+ListenInSec: 243
 ---
 
 # Fairouz Ai

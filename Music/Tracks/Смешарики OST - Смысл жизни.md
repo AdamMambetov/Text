@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[Смешарики OST - Смысл жизни.mp3]]"
 related: []
-ListenInSec: 0
+ListenInSec: 1
 CoverOf: ""
 ---
 

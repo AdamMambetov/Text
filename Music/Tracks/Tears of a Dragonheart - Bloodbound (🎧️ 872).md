@@ -1,17 +1,17 @@
 ---
 Album: "[[War of Dragons]]"
-Creators:
+Creators: []
   - "[[Bloodbound (🎙️ 228)]]"
 Cover: ""
 NumberInAlbum: 3
 SourceFile: "[[Bloodbound - Tears of a Dragonheart.mp3]]"
 Year: 2017
-aliases:
+aliases: []
   - Tears of a Dragonheart
 created: 2024-06-21T05:21:24+03:00
 source: ""
 related: []
-ListenInSec: 230
+ListenInSec: 232
 CoverOf: ""
 ---
 
