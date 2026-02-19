@@ -8,7 +8,7 @@ SourceFile: "[[ASIAN KUNG-FU GENERATION - Haruka Kanata.mp3]]"
 Year: 2002
 aliases:
   - Haruka Kanata
-created: 2024-06-21T05:19:42+03:00
+created: 2023-09-29T16:22:02+03:00
 source:
 related: []
 ListenInSec: 252

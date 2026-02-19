@@ -8,7 +8,7 @@ SourceFile: "[[Earth, Wind & Fire - September.mp3]]"
 Year: 1978
 aliases:
   - September
-created: 2024-06-21T05:19:38+03:00
+created: 2023-09-29T16:24:19+03:00
 source: ""
 related: []
 ListenInSec: 217

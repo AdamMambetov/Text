@@ -1,6 +1,7 @@
 ---
-created: 2025-06-30T20:38:38+03:00
-aliases: ["Lia - Tori no Uta (TV Size)"]
+created: 2025-06-30T20:37:05+03:00
+aliases:
+  - Lia - Tori no Uta (TV Size)
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""

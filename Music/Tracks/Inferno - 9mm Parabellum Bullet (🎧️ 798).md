@@ -1,5 +1,5 @@
 ---
-created: 2024-06-21T05:20:10+03:00
+created: 2023-09-29T16:22:45+03:00
 aliases:
   - Inferno
 Cover: ""

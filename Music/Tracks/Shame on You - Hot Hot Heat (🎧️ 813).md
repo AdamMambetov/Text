@@ -1,13 +1,13 @@
 ---
 Album: "[[Elevator]]"
-Creators: []
+Creators:
 Cover: ""
 NumberInAlbum: 13
 SourceFile: "[[Hot Hot Heat - Shame on You.mp3]]"
 Year: 2005
-aliases: []
+aliases:
   - Shame on You
-created: 2024-06-21T05:21:16+03:00
+created: 2023-09-29T16:24:33+03:00
 source: ""
 related: []
 ListenInSec: 336

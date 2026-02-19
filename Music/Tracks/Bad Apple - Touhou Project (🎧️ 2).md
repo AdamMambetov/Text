@@ -1,6 +1,7 @@
 ---
-created: 2025-06-29T22:04:32+03:00
-aliases: ["Bad Apple"]
+created: 2025-06-29T22:02:33+03:00
+aliases:
+  - Bad Apple
 CoverOf: ""
 Creators: []
 source: https://youtu.be/FtutLA63Cp8?si=RRle_RkfrEbkSec1

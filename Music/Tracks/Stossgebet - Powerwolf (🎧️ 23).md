@@ -1,5 +1,5 @@
 ---
-created: 2022-04-21T01:53:02+03:00
+created: 2022-04-21T01:53:03+03:00
 aliases:
   - Stossgebet
 Cover: ""

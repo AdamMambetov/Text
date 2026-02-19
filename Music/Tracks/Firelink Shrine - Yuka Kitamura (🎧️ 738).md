@@ -1,14 +1,14 @@
 ---
 Album: "[[Dark Souls 3]]"
-Creators: []
+Creators:
   - "[[Yuka Kitamura (🎙️ 29)]]"
 Cover: ""
 NumberInAlbum: 5
 SourceFile: "[[Dark Souls 3 OST - 04 Firelink Shrine.mp3]]"
 Year: 2019
-aliases: []
+aliases:
   - Firelink Shrine
-created: 2024-01-04T15:27:10+03:00
+created: 2023-09-29T16:23:31+03:00
 source: ""
 related: []
 ListenInSec: 373

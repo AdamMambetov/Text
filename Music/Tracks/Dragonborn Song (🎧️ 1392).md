@@ -5,8 +5,9 @@ Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[TES V Skyrim OST - Dragonborn.mp3]]"
 Year: 2011
-aliases: ["Dragonborn Song"]
-created: 2025-01-07T18:24:40+03:00
+aliases:
+  - Dragonborn Song
+created: 2025-01-07T18:24:37+03:00
 source: ""
 related: []
 ListenInSec: 234

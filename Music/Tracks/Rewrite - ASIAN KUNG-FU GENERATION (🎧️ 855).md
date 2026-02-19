@@ -1,5 +1,5 @@
 ---
-created: 2024-06-21T05:19:42+03:00
+created: 2023-09-29T20:14:59+03:00
 aliases:
   - Rewrite
 Cover: ""

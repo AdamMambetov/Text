@@ -5,8 +5,9 @@ Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[Kosaka Riyu - Danzai no Hana ~Guilty Sky~.mp3]]"
 Year: 0
-aliases: ["Danzai no Hana ~Guilty Sky~"]
-created: 2025-01-08T20:49:08+03:00
+aliases:
+  - Danzai no Hana ~Guilty Sky~
+created: 2025-01-08T20:49:07+03:00
 source: ""
 related: []
 ListenInSec: 867

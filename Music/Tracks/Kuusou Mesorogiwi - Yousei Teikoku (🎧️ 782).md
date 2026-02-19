@@ -1,14 +1,14 @@
 ---
 Album: "[[PAX VESANIA]]"
-Creators: []
+Creators:
   - "[[Yousei Teikoku (🎙️ 278)]]"
 Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[Yousei Teikoku - Kuusou Mesorogiwi.mp3]]"
 Year: 2011
-aliases: []
+aliases:
   - Kuusou Mesorogiwi
-created: 2024-06-21T05:19:54+03:00
+created: 2023-09-29T16:21:57+03:00
 source: ""
 related: []
 ListenInSec: 482

@@ -1,5 +1,5 @@
 ---
-created: 2024-06-21T05:20:26+03:00
+created: 2023-09-29T16:23:50+03:00
 aliases:
   - Monsters
 Cover: ""

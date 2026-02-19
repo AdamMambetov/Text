@@ -1,6 +1,7 @@
 ---
-created: 2025-06-03T00:48:28+03:00
-aliases: ["Linked Horizon - Jiyuu no Tsubasa"]
+created: 2025-06-03T00:48:26+03:00
+aliases:
+  - Linked Horizon - Jiyuu no Tsubasa
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""

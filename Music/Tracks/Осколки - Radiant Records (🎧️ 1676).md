@@ -1,5 +1,5 @@
 ---
-created: 2025-06-30T08:15:03+03:00
+created: 2025-06-30T08:08:14+03:00
 aliases:
   - Осколки
   - Omoide Kakera

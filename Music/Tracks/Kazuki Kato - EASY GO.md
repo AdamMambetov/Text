@@ -1,7 +1,6 @@
 ---
 created: 2025-12-26T13:41:47+03:00
-aliases: []
-  - Kazuki Kato - EASY GO
+aliases: ["EASY GO"]
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""

@@ -1,9 +1,9 @@
 ---
-created: 2025-06-30T19:59:20+03:00
+created: 2025-06-30T18:54:27+03:00
 aliases:
   - Асимметрия
   - Asymmetry
-CoverOf: "[[🎵Yui Horie - Asymmetry]]"
+CoverOf: "[[Asymmetry - Yui Horie]]"
 Creators:
   - "[[Radiant Records (🎙️ 39)]]"
   - "[[Lilaria (🎙️ 54)]]"

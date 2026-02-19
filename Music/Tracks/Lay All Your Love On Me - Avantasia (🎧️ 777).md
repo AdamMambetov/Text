@@ -8,7 +8,7 @@ SourceFile: "[[Avantasia - Lay All Your Love On Me.mp3]]"
 Year: 2007
 aliases:
   - Lay All Your Love On Me
-created: 2024-06-21T05:19:46+03:00
+created: 2023-09-29T16:23:10+03:00
 source: ""
 related: []
 ListenInSec: 280

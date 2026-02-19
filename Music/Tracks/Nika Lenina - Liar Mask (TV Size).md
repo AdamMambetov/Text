@@ -1,6 +1,7 @@
 ---
-created: 2025-06-03T00:45:34+03:00
-aliases: ["Nika Lenina - Liar Mask (TV Size)"]
+created: 2025-06-03T00:45:33+03:00
+aliases:
+  - Nika Lenina - Liar Mask (TV Size)
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""

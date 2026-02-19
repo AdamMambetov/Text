@@ -8,7 +8,7 @@ SourceFile: "[[Daniel Powter - Bad Day.mp3]]"
 Year: 2021
 aliases:
   - Bad Day
-created: 2024-06-21T05:20:30+03:00
+created: 2023-09-29T16:23:29+03:00
 source: ""
 related: []
 ListenInSec: 220

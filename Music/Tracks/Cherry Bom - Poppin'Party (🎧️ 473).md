@@ -1,12 +1,14 @@
 ---
 Album: ""
-Creators: ["[[Poppin'Party (🎙️ 604)]]"]
+Creators:
+  - "[[Poppin'Party (🎙️ 604)]]"
 Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 1
 SourceFile: "[[Poppin'Party - Cherry Bomb.mp3]]"
 Year: 0
-aliases: ["Cherry Bom"]
-created: 2022-10-05T13:48:38+03:00
+aliases:
+  - Cherry Bom
+created: 2022-10-05T13:48:39+03:00
 source: ""
 related: []
 ListenInSec: 3

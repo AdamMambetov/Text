@@ -5,8 +5,9 @@ Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[Yiruma & Skullee - River Flows In You (A Love Note).mp3]]"
 Year: 0
-aliases: ["River Flows In You (A Love Note)"]
-created: 2025-01-27T19:48:34+03:00
+aliases:
+  - River Flows In You (A Love Note)
+created: 2024-12-06T00:57:22+03:00
 source: ""
 related: []
 ListenInSec: 258

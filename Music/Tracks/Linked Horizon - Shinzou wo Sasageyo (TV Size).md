@@ -1,6 +1,7 @@
 ---
-created: 2025-06-02T23:56:54+03:00
-aliases: ["Linked Horizon - Shinzou wo Sasageyo (TV Size)"]
+created: 2025-06-02T23:56:53+03:00
+aliases:
+  - Linked Horizon - Shinzou wo Sasageyo (TV Size)
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""

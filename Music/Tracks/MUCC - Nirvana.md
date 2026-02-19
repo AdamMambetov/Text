@@ -1,6 +1,7 @@
 ---
-created: 2025-06-02T23:47:13+03:00
-aliases: ["MUCC - Nirvana"]
+created: 2025-06-02T23:47:12+03:00
+aliases:
+  - MUCC - Nirvana
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""

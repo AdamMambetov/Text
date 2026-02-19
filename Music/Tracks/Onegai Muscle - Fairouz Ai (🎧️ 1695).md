@@ -1,5 +1,5 @@
 ---
-created: 2025-06-02T23:17:28+03:00
+created: 2025-06-02T23:17:27+03:00
 aliases:
   - Onegai Muscle
 Cover: "[[_No Album Art.jpg]]"

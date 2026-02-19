@@ -5,8 +5,9 @@ Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[Danganrnopa V3 OST White - 12 Beautiful Lie.mp3]]"
 Year: 0
-aliases: ["Beautiful Lie"]
-created: 2025-01-08T17:19:40+03:00
+aliases:
+  - Beautiful Lie
+created: 2025-01-08T17:19:36+03:00
 source: ""
 related: []
 ListenInSec: 34

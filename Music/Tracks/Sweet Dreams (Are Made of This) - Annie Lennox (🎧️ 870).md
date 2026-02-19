@@ -9,7 +9,7 @@ SourceFile: "[[Eurythmics - Sweet Dreams (Are Made of This).mp3]]"
 Year: 2005
 aliases:
   - Sweet Dreams (Are Made of This)
-created: 2024-06-21T05:19:44+03:00
+created: 2023-09-29T16:24:28+03:00
 source: ""
 related: []
 ListenInSec: 14

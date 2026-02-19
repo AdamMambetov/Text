@@ -1,7 +1,7 @@
 ---
 created: 2025-11-14T03:32:42+03:00
-aliases: []
-  - OstsForAll0 - Shiki_OST_-_Muddy_Water
+aliases:
+  - Shiki OST - Muddy Water
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""

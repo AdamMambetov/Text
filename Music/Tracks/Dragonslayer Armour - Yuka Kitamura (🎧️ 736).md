@@ -1,14 +1,14 @@
 ---
 Album: "[[Dark Souls 3]]"
-Creators: []
+Creators:
   - "[[Yuka Kitamura (🎙️ 29)]]"
-Cover: ""
+Cover: "[[Dark Souls 3.png]]"
 NumberInAlbum: 18
 SourceFile: "[[Dark Souls 3 OST - 13 Dragonslayer Armour.mp3]]"
 Year: 2019
-aliases: []
+aliases:
   - Dragonslayer Armour
-created: 2024-01-04T15:27:08+03:00
+created: 2023-09-29T16:23:40+03:00
 source: ""
 related: []
 ListenInSec: 21

@@ -5,9 +5,10 @@ Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 1
 SourceFile: "[[flumpool - Chiisana Hibi.mp3]]"
 Year: 0
-aliases: ["Chiisana Hibi"]
-created: 2025-01-08T22:30:56+03:00
-source: 
+aliases:
+  - Chiisana Hibi
+created: 2025-01-08T22:30:53+03:00
+source:
 related: []
 ListenInSec: 449
 CoverOf: ""

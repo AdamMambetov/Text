@@ -1,5 +1,5 @@
 ---
-created: 2024-01-04T15:27:02+03:00
+created: 2023-09-29T16:23:37+03:00
 aliases:
   - Aldritch, Devourer of Gods
 Cover: ""

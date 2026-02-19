@@ -8,7 +8,7 @@ SourceFile: "[[Naruto OST - Daylight of Konoha.mp3]]"
 Year: 2004
 aliases:
   - Daylight of Konoha
-created: 2022-04-28T17:50:18+03:00
+created: 2022-04-28T17:50:19+03:00
 source:
 related: []
 ListenInSec: 29

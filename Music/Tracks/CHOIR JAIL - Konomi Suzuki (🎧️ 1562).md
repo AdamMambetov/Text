@@ -1,10 +1,12 @@
 ---
-created: 2025-01-08T19:55:30+03:00
-aliases: ["CHOIR JAIL"]
+created: 2025-01-08T19:55:28+03:00
+aliases:
+  - CHOIR JAIL
 Cover: ""
 Year: 0
 Album: ""
-Creators: ["[[Konomi Suzuki (🎙️ 355)]]"]
+Creators:
+  - "[[Konomi Suzuki (🎙️ 355)]]"
 NumberInAlbum: 1
 source: ""
 SourceFile: "[[Konomi Suzuki - CHOIR JAIL.mp3]]"

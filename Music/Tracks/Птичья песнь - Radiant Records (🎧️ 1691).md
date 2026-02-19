@@ -1,9 +1,9 @@
 ---
-created: 2025-06-30T20:34:15+03:00
+created: 2025-06-30T18:54:31+03:00
 aliases:
   - Птичья песнь
   - Tori no Uta
-CoverOf: "[[🎵Lia - Tori no Uta]]"
+CoverOf: "[[Lia - Tori no Uta (Full)]]"
 Creators:
   - "[[Radiant Records (🎙️ 39)]]"
   - "[[Camellia (🎙️ 53)]]"

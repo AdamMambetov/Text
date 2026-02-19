@@ -1,10 +1,10 @@
 ---
-created: 2024-10-23T15:38:06+03:00
-aliases: []
+created: 2023-09-29T16:22:33+03:00
+aliases:
   - Гнилое яблоко (TV Size)
   - Bad Apple
 CoverOf: "[[Bad Apple - Touhou Project (🎧️ 2)]]"
-Creators: []
+Creators:
   - "[[Radiant Records (🎙️ 39)]]"
   - "[[Jully (🎙️ 42)]]"
 FullVersion: "[[Гнилое яблоко - Radiant Records (🎧️ 1329)]]"

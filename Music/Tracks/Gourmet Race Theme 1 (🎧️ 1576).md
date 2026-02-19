@@ -5,8 +5,9 @@ Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[Kirby Super Star - Gourmet Race Theme 1.mp3]]"
 Year: 0
-aliases: ["Gourmet Race Theme 1"]
-created: 2025-01-08T19:45:14+03:00
+aliases:
+  - Gourmet Race Theme 1
+created: 2025-01-08T19:45:12+03:00
 source: ""
 related: []
 ListenInSec: 426

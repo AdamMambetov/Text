@@ -5,7 +5,7 @@ Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[Dom1no - Lilium.mp3]]"
 Year: 0
-aliases: []
+aliases: ["Dom1no - Lilium"]
 created: 2024-05-26T10:47:54+03:00
 source: ""
 related: []
