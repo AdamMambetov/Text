@@ -1,10 +1,10 @@
 ---
 created: 2025-06-30T18:57:59+03:00
-aliases:
+aliases: []
   - Неизвестная история
   - Kimi no Shiranai Monogatari
 CoverOf: "[[Kimi no Shiranai Monogatari - supercell (🎧️ 1653)]]"
-Creators:
+Creators: []
   - "[[Radiant Records (🎙️ 39)]]"
   - "[[Felya (🎙️ 58)]]"
   - "[[Miki (🎙️ 64)]]"
@@ -15,7 +15,7 @@ Year: 0
 Album: "[[ПЕРЕПУТЬЕ (📀 33)]]"
 NumberInAlbum: 3
 related: []
-ListenInSec: 2300
+ListenInSec: 2638
 ---
 
 # Неизвестная история

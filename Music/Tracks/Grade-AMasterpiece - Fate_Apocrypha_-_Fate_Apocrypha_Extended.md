@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[Grade-AMasterpiece - Fate_Apocrypha_-_Fate_Apocrypha_Extended.mp3]]"
 related: []
-ListenInSec: 0
+ListenInSec: 2438
 CoverOf: ""
 ---
 

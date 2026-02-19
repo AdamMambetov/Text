@@ -1,10 +1,10 @@
 ---
 created: 2025-01-08T01:24:05+03:00
-aliases:
+aliases: []
   - Огонёк
   - Hotaru no Hikari
 CoverOf: "[[Hotaru no Hikari - Ikimonogakari (🎧️ 1680)]]"
-Creators:
+Creators: []
   - "[[Radiant Records (🎙️ 39)]]"
   - "[[Jully (🎙️ 42)]]"
 source: ""
@@ -14,7 +14,7 @@ Year: 0
 Album: ""
 NumberInAlbum: 0
 related: []
-ListenInSec: 484
+ListenInSec: 724
 ---
 
 # Огонёк

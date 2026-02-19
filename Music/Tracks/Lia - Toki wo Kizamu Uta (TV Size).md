@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[Lia - Toki wo Kizamu Uta (TV Size).mp3]]"
 related: []
-ListenInSec: 0
+ListenInSec: 90
 CoverOf: ""
 ---
 

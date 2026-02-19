@@ -9,7 +9,7 @@ NumberInAlbum: 2
 source: ""
 SourceFile: "[[Monoral - Kiri.mp3]]"
 related: []
-ListenInSec: 761
+ListenInSec: 1019
 CoverOf: ""
 ---
 

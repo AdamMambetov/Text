@@ -9,7 +9,7 @@ aliases: ["Yokusoku"]
 created: 2024-10-23T14:54:58+03:00
 source: ""
 related: []
-ListenInSec: 130
+ListenInSec: 259
 CoverOf: ""
 ---
 

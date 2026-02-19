@@ -1,6 +1,6 @@
 ---
 created: 2025-01-08T01:14:04+03:00
-aliases:
+aliases: []
   - Guren (TV Size)
 Creators: []
 FullVersion: "[[Guren - DOES (🎧️ 1487)]]"
@@ -11,7 +11,7 @@ Year: 0
 Album: ""
 NumberInAlbum: 0
 related: []
-ListenInSec: 201
+ListenInSec: 291
 CoverOf: ""
 ---
 

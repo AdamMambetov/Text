@@ -1,7 +1,7 @@
 ---
 created: 2024-08-04T14:32:31+0300
 aliases: ["zts"]
-ListenInSec: 3119
+ListenInSec: 3499
 ---
 
 # zts

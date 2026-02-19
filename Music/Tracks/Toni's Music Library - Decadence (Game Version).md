@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[Toni's Music Library - Decadence (Game Version).mp3]]"
 related: []
-ListenInSec: 0
+ListenInSec: 210
 CoverOf: ""
 ---
 

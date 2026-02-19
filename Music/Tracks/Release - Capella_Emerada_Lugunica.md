@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[Release - Capella_Emerada_Lugunica.mp3]]"
 related: []
-ListenInSec: 153
+ListenInSec: 307
 CoverOf: ""
 ---
 

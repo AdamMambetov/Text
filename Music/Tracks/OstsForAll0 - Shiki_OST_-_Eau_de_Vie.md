@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[OstsForAll0 - Shiki_OST_-_Eau_de_Vie.mp3]]"
 related: []
-ListenInSec: 0
+ListenInSec: 438
 CoverOf: ""
 ---
 

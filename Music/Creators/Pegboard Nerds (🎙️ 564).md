@@ -1,7 +1,7 @@
 ---
-created: 2026-01-26T14:10:02+03:00
+created: 2026-01-26T14:10:02+0300
 aliases: ["Pegboard Nerds"]
-ListenInSec: 0
+ListenInSec: 274
 ---
 
 # Pegboard Nerds

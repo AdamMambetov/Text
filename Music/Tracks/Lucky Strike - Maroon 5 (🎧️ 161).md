@@ -9,7 +9,7 @@ aliases: ["Lucky Strike"]
 created: 2022-04-22T21:09:16+03:00
 source: ""
 related: []
-ListenInSec: 2
+ListenInSec: 186
 CoverOf: ""
 ---
 

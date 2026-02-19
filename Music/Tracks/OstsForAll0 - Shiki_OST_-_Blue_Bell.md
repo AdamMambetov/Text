@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[OstsForAll0 - Shiki_OST_-_Blue_Bell.mp3]]"
 related: []
-ListenInSec: 0
+ListenInSec: 155
 CoverOf: ""
 ---
 

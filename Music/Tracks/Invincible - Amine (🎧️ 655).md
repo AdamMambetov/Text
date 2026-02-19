@@ -9,7 +9,7 @@ NumberInAlbum: 5
 source: ""
 SourceFile: "[[Spider-Man Into the Spider-Verse OST - Invincible.mp3]]"
 related: []
-ListenInSec: 1
+ListenInSec: 10
 CoverOf: ""
 ---
 

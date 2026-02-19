@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[TimeShift OST - 3 Drop Like Flies.mp3]]"
 related: []
-ListenInSec: 0
+ListenInSec: 99
 CoverOf: ""
 ---
 

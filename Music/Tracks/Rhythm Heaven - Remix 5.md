@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[Rhythm Heaven - Remix 5.mp3]]"
 related: []
-ListenInSec: 0
+ListenInSec: 115
 CoverOf: ""
 ---
 

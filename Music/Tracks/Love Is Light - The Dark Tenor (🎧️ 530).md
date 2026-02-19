@@ -9,7 +9,7 @@ aliases: ["Love Is Light"]
 created: 2022-12-09T06:55:36+03:00
 source: ""
 related: []
-ListenInSec: 101
+ListenInSec: 278
 CoverOf: ""
 ---
 

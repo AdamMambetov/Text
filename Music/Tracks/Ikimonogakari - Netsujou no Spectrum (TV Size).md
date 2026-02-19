@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[Ikimonogakari - Netsujou no Spectrum (TV Size).mp3]]"
 related: []
-ListenInSec: 0
+ListenInSec: 90
 CoverOf: ""
 ---
 

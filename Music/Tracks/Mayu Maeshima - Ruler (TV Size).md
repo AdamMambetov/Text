@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[Mayu Maeshima - Ruler (TV Size).mp3]]"
 related: []
-ListenInSec: 0
+ListenInSec: 103
 CoverOf: ""
 ---
 

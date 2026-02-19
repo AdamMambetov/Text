@@ -9,7 +9,7 @@ aliases: ["Yuusha"]
 created: 2025-01-08T19:26:08+03:00
 source: ""
 related: []
-ListenInSec: 955
+ListenInSec: 1147
 CoverOf: ""
 ---
 

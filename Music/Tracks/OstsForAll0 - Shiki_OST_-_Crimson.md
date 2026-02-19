@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[OstsForAll0 - Shiki_OST_-_Crimson.mp3]]"
 related: []
-ListenInSec: 137
+ListenInSec: 275
 CoverOf: ""
 ---
 

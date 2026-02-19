@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[Serena_-3 - Re_-Zero_kara_Hajimeru_Isekai_Seikatsu_Ost_03_Hymne_of_Despair_and_Atonement.mp3]]"
 related: []
-ListenInSec: 189
+ListenInSec: 379
 CoverOf: ""
 ---
 

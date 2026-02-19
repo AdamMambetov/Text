@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[lomb_TV_LombTV - Rhythm_Tengoku_-_Spaceball_Game.mp3]]"
 related: []
-ListenInSec: 0
+ListenInSec: 255
 CoverOf: ""
 ---
 

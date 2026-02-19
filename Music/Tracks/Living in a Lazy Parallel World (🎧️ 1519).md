@@ -9,7 +9,7 @@ aliases: ["Living in a Lazy Parallel World"]
 created: 2025-01-08T17:20:12+03:00
 source: ""
 related: []
-ListenInSec: 480
+ListenInSec: 720
 CoverOf: ""
 ---
 

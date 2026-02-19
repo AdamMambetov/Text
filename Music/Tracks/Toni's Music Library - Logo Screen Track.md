@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[Toni's Music Library - Logo Screen Track.mp3]]"
 related: []
-ListenInSec: 0
+ListenInSec: 40
 CoverOf: ""
 ---
 

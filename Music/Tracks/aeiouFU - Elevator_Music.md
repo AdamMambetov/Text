@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[aeiouFU - Elevator_Music.mp3]]"
 related: []
-ListenInSec: 0
+ListenInSec: 240
 CoverOf: ""
 ---
 

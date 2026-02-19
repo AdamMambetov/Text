@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[Danganrnopa OST - 2-10- Argument (TURN UP THE HEAT).mp3]]"
 related: []
-ListenInSec: 0
+ListenInSec: 250
 CoverOf: ""
 ---
 

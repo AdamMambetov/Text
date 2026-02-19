@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[lomb_TV_LombTV - Rhythm_Tengoku_-_Turbo_Tap_Trial_Tap_Trial_2.mp3]]"
 related: []
-ListenInSec: 0
+ListenInSec: 261
 CoverOf: ""
 ---
 

@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[Ai Fairouz - Onegai Muscle (TV Size).mp3]]"
 related: []
-ListenInSec: 0
+ListenInSec: 88
 CoverOf: ""
 ---
 

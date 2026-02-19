@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[OstsForAll0 - Shiki_OST_-_Echo.mp3]]"
 related: []
-ListenInSec: 160
+ListenInSec: 291
 CoverOf: ""
 ---
 

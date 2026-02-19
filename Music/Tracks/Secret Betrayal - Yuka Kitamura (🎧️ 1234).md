@@ -9,7 +9,7 @@ NumberInAlbum: 23
 source: ""
 SourceFile: "[[Dark Souls 3 OST - 23 Secret Betrayal.mp3]]"
 related: []
-ListenInSec: 238
+ListenInSec: 466
 CoverOf: ""
 ---
 

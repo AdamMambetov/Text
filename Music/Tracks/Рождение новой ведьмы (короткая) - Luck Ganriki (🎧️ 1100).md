@@ -9,7 +9,7 @@ NumberInAlbum: 160
 source: ""
 SourceFile: "[[Umineko no Naku Koro ni OST - 160 Рождение новой ведьмы (короткая).ogg]]"
 related: []
-ListenInSec: 2
+ListenInSec: 161
 CoverOf: ""
 ---
 

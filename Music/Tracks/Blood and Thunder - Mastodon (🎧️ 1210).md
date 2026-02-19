@@ -9,7 +9,7 @@ NumberInAlbum: 1
 source: ""
 SourceFile: "[[Mastodon - Blood and Thunder.mp3]]"
 related: []
-ListenInSec: 454
+ListenInSec: 682
 CoverOf: ""
 ---
 

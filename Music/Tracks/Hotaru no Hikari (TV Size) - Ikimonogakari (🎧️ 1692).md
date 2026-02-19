@@ -9,7 +9,7 @@ NumberInAlbum: 3
 source: ""
 SourceFile: "[[Ikimonogakari - Hotaru no Hikari (TV Size).mp3]]"
 related: ["[[Hotaru no Hikari - Ikimonogakari (🎧️ 1680)]]"]
-ListenInSec: 779
+ListenInSec: 962
 CoverOf: ""
 ---
 
