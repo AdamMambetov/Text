@@ -1,12 +1,13 @@
 <%*
 dv = app.plugins.plugins.dataview.api
 
-if (true) {
+// Sync "created" property in note from "SourceFile"
+if (false) {
 	let arr = dv.pages('"Text/Music/Tracks"')
 	let exit = false
 	arr.forEach(async (el) => {
-		const file = tp.file.find_tfile(el.file.path)
-		let source = tp.file.find_tfile(el.SourceFile.path)
+		const file = await tp.file.find_tfile(el.file.path)
+		let source = await tp.file.find_tfile(el.SourceFile.path)
 		let ctime = source.stat.ctime
 		if (ctime >= el.created.ts)
 			return
@@ -19,6 +20,12 @@ if (true) {
 	return
 }
 
+dv.pages('"Text/Music/Tracks"').forEach(el => {
+	if (el.SourceFile == null)
+		console.log(`${el.file.name}`)
+})
+
+// Found and fix identical "created"
 let arr = dv.pages('"Text/Music/Tracks"')
 	.groupBy(p => p.created)
 	.filter(el => el.rows.length > 1)
@@ -27,6 +34,7 @@ while (arr.length > 0) {
 	for (let j = 0; j < el.rows.length; j++) {
 		const file = tp.file.find_tfile(el.rows[j].file.path)
 		new Notice(file.name, 50000)
+		console.log(file.name)
 		const offset = 1000 * j
 		const date = new Date(el.key.ts + offset)
 		const dateStr = moment(date).format("YYYY-MM-DDTHH:mm:ssZ")
