@@ -1,6 +1,24 @@
 <%*
 dv = app.plugins.plugins.dataview.api
 
+if (true) {
+	let arr = dv.pages('"Text/Music/Tracks"')
+	let exit = false
+	arr.forEach(async (el) => {
+		const file = tp.file.find_tfile(el.file.path)
+		let source = tp.file.find_tfile(el.SourceFile.path)
+		let ctime = source.stat.ctime
+		if (ctime >= el.created.ts)
+			return
+		const created = moment(new Date(ctime)).format("YYYY-MM-DDTHH:mm:ssZ")
+		await tp.app.fileManager.processFrontMatter(file, fm => {
+			fm["created"] = created
+		})
+		new Notice(file.name, 50000)
+	})
+	return
+}
+
 let arr = dv.pages('"Text/Music/Tracks"')
 	.groupBy(p => p.created)
 	.filter(el => el.rows.length > 1)
