@@ -1,6 +1,7 @@
 ---
-created: 2025-12-28T19:40:19+03:00
-aliases: ["Kazuki Kato - EASY GO"]
+created: 2025-12-26T13:41:47+03:00
+aliases: []
+  - Kazuki Kato - EASY GO
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
@@ -9,7 +10,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[Kazuki Kato - EASY GO.mp3]]"
 related: []
-ListenInSec: 242
+ListenInSec: 457
 CoverOf: ""
 ---
 

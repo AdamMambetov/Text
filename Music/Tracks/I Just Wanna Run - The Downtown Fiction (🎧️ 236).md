@@ -9,7 +9,7 @@ aliases: ["I Just Wanna Run"]
 created: 2022-04-22T21:39:30+03:00
 source: 
 related: []
-ListenInSec: 388
+ListenInSec: 584
 CoverOf: ""
 ---
 

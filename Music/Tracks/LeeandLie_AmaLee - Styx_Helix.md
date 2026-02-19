@@ -1,6 +1,7 @@
 ---
-created: 2025-11-21T03:20:37+03:00
-aliases: ["LeeandLie_AmaLee - Styx_Helix"]
+created: 2025-11-20T23:19:46+03:00
+aliases:
+  - LeeandLie_AmaLee - Styx_Helix
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
@@ -9,7 +10,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[LeeandLie_AmaLee - Styx_Helix.mp3]]"
 related: []
-ListenInSec: 903
+ListenInSec: 1184
 CoverOf: ""
 ---
 

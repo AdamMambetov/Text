@@ -1,7 +1,7 @@
 ---
-created: 2026-01-27T23:55:33+03:00
+created: 2026-01-27T23:55:33+0300
 aliases: ["Hamburgaga"]
-ListenInSec: 0
+ListenInSec: 127
 ---
 
 # Hamburgaga

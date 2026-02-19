@@ -1,5 +1,5 @@
 ---
-created: 2024-06-21T05:21:13+03:00
+created: 2024-06-21T05:20:16+03:00
 aliases:
   - Sacrifice
 Cover: ""

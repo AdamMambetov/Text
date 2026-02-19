@@ -1,8 +1,13 @@
 ---
-created: 2025-06-30T19:06:31+03:00
-aliases: ["Полный ход", "Easy go"]
+created: 2025-06-30T19:04:36+03:00
+aliases:
+  - Полный ход
+  - Easy go
 CoverOf: "[[🎵Kazuki Kato - Easy go]]"
-Creators: ["[[Radiant Records (🎙️ 39)]]", "[[Nibiru (🎙️ 44)]]", "[[DiWilliam (🎙️ 60)]]"]
+Creators:
+  - "[[Radiant Records (🎙️ 39)]]"
+  - "[[Nibiru (🎙️ 44)]]"
+  - "[[DiWilliam (🎙️ 60)]]"
 source: ""
 SourceFile: "[[Radiant Records - Полный ход.mp3]]"
 Cover: ""

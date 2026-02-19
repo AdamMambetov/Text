@@ -1,6 +1,7 @@
 ---
-created: 2025-11-03T13:42:53+03:00
-aliases: ["lomb_TV_LombTV - Rhythm_Tengoku_-_Spaceball_Game"]
+created: 2025-10-28T21:51:42+03:00
+aliases:
+  - lomb_TV_LombTV - Rhythm_Tengoku_-_Spaceball_Game
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
@@ -9,7 +10,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[lomb_TV_LombTV - Rhythm_Tengoku_-_Spaceball_Game.mp3]]"
 related: []
-ListenInSec: 255
+ListenInSec: 340
 CoverOf: ""
 ---
 

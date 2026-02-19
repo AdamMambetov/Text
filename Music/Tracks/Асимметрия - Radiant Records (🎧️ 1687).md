@@ -1,8 +1,12 @@
 ---
-created: 2025-06-30T19:59:46+03:00
-aliases: ["Асимметрия", "Asymmetry"]
+created: 2025-06-30T19:59:20+03:00
+aliases:
+  - Асимметрия
+  - Asymmetry
 CoverOf: "[[🎵Yui Horie - Asymmetry]]"
-Creators: ["[[Radiant Records (🎙️ 39)]]", "[[Lilaria (🎙️ 54)]]"]
+Creators:
+  - "[[Radiant Records (🎙️ 39)]]"
+  - "[[Lilaria (🎙️ 54)]]"
 source: ""
 SourceFile: "[[Radiant Records - Асимметрия.mp3]]"
 Cover: ""

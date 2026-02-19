@@ -1,5 +1,5 @@
 ---
-created: 2025-05-04T14:48:33+03:00
+created: 2025-05-04T02:23:59+03:00
 aliases:
   - Psychosocial
   - Slipknot - Psychosocial

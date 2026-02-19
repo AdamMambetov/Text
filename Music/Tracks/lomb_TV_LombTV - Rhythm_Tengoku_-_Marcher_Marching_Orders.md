@@ -1,6 +1,7 @@
 ---
-created: 2025-11-03T13:42:51+03:00
-aliases: ["lomb_TV_LombTV - Rhythm_Tengoku_-_Marcher_Marching_Orders"]
+created: 2025-10-28T22:05:48+03:00
+aliases:
+  - lomb_TV_LombTV - Rhythm_Tengoku_-_Marcher_Marching_Orders
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""

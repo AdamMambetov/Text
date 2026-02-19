@@ -1,6 +1,7 @@
 ---
-created: 2025-11-03T13:42:23+03:00
-aliases: ["lomb_TV_LombTV - Rhythm_Tengoku_-_Remix_2"]
+created: 2025-10-28T22:45:42+03:00
+aliases:
+  - lomb_TV_LombTV - Rhythm_Tengoku_-_Remix_2
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
@@ -9,7 +10,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[lomb_TV_LombTV - Rhythm_Tengoku_-_Remix_2.mp3]]"
 related: []
-ListenInSec: 377
+ListenInSec: 629
 CoverOf: ""
 ---
 

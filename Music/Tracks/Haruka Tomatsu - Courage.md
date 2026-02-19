@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[Haruka Tomatsu - Courage.mp3]]"
 related: []
-ListenInSec: 0
+ListenInSec: 251
 CoverOf: ""
 ---
 

@@ -9,7 +9,7 @@ aliases: ["Natural"]
 created: 2022-04-22T20:55:24+03:00
 source: ""
 related: []
-ListenInSec: 189
+ListenInSec: 377
 CoverOf: ""
 ---
 

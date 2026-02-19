@@ -1,6 +1,7 @@
 ---
-created: 2025-11-19T13:48:05+03:00
-aliases: ["KADOKAWAanime - NOX_LUX_MYTH_ROID"]
+created: 2025-11-19T03:21:10+03:00
+aliases:
+  - KADOKAWAanime - NOX_LUX_MYTH_ROID
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""

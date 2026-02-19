@@ -1,5 +1,5 @@
 ---
-created: 2024-06-21T05:22:24+03:00
+created: 2024-06-21T05:20:18+03:00
 aliases:
   - Синяя птица (TV Size)
   - Blue Bird (TV Size)

@@ -1,5 +1,5 @@
 ---
-created: 2024-06-21T05:20:08+03:00
+created: 2024-06-21T05:20:02+03:00
 aliases:
   - Hey Mama
 Cover: ""

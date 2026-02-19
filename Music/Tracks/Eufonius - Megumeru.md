@@ -1,6 +1,7 @@
 ---
-created: 2025-08-01T16:02:46+03:00
-aliases: ["Eufonius - Megumeru"]
+created: 2025-08-01T15:56:32+03:00
+aliases:
+  - Eufonius - Megumeru
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""

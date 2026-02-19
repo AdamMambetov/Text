@@ -1,7 +1,7 @@
 ---
-created: 2026-02-12T19:50:29+03:00
+created: 2026-02-12T19:50:29+0300
 aliases: ["Shawn Wasabi"]
-ListenInSec: 0
+ListenInSec: 121
 ---
 
 # Shawn Wasabi

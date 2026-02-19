@@ -1,5 +1,5 @@
 ---
-created: 2025-05-04T14:48:27+03:00
+created: 2025-05-04T00:58:51+03:00
 aliases:
   - Kimi no Shiranai Monogatari
 Creators:

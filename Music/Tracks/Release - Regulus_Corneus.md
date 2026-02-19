@@ -1,6 +1,7 @@
 ---
-created: 2025-11-19T13:48:05+03:00
-aliases: ["Release - Regulus_Corneus"]
+created: 2025-11-19T02:31:28+03:00
+aliases:
+  - Release - Regulus_Corneus
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""

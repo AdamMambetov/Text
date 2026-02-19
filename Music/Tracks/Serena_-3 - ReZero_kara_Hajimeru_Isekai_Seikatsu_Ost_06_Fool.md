@@ -1,6 +1,7 @@
 ---
-created: 2025-11-14T12:03:37+03:00
-aliases: ["Serena_-3 - ReZero_kara_Hajimeru_Isekai_Seikatsu_Ost_06_Fool"]
+created: 2025-11-14T12:03:16+03:00
+aliases:
+  - Serena_-3 - ReZero_kara_Hajimeru_Isekai_Seikatsu_Ost_06_Fool
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
@@ -9,7 +10,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[Serena_-3 - ReZero_kara_Hajimeru_Isekai_Seikatsu_Ost_06_Fool.mp3]]"
 related: []
-ListenInSec: 94
+ListenInSec: 189
 CoverOf: ""
 ---
 

@@ -1,6 +1,7 @@
 ---
-created: 2025-09-25T22:01:56+03:00
-aliases: ["Toni's Music Library - Do Ya Thing (Game Version) (Clean)"]
+created: 2025-09-25T13:05:28+03:00
+aliases:
+  - Toni's Music Library - Do Ya Thing (Game Version) (Clean)
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""

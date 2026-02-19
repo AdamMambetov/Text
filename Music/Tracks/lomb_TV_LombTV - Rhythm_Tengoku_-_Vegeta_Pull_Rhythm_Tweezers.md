@@ -1,6 +1,7 @@
 ---
-created: 2025-11-03T13:42:52+03:00
-aliases: ["lomb_TV_LombTV - Rhythm_Tengoku_-_Vegeta_Pull_Rhythm_Tweezers"]
+created: 2025-10-28T22:03:00+03:00
+aliases:
+  - lomb_TV_LombTV - Rhythm_Tengoku_-_Vegeta_Pull_Rhythm_Tweezers
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""

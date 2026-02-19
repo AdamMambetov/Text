@@ -1,5 +1,5 @@
 ---
-created: 2024-06-21T05:20:36+03:00
+created: 2024-06-21T05:20:26+03:00
 aliases:
   - hot girl bummer
 Cover: ""

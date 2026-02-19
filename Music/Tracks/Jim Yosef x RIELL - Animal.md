@@ -1,6 +1,7 @@
 ---
-created: 2025-07-31T22:19:39+03:00
-aliases: ["Jim Yosef x RIELL - Animal"]
+created: 2025-07-31T18:18:10+03:00
+aliases:
+  - Jim Yosef x RIELL - Animal
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
@@ -9,7 +10,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[Jim Yosef x RIELL - Animal.mp3]]"
 related: []
-ListenInSec: 176
+ListenInSec: 350
 CoverOf: ""
 ---
 

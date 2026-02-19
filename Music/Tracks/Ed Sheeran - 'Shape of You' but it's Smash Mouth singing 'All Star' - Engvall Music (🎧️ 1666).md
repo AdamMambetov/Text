@@ -4,7 +4,7 @@ Year: 20170407
 Album: ""
 aliases:
   - "'Shape of You' but it's Smash Mouth singing 'All Star'"
-created: 2025-05-04T14:48:20+03:00
+created: 2025-05-04T02:00:17+03:00
 Creators: []
 Cover: ""
 NumberInAlbum: 0

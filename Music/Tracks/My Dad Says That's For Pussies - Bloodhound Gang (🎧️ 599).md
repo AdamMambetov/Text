@@ -9,7 +9,7 @@ aliases: ["My Dad Says That's For Pussies"]
 created: 2023-07-09T18:49:44+03:00
 source: ""
 related: []
-ListenInSec: 2
+ListenInSec: 30
 CoverOf: ""
 ---
 

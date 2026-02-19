@@ -1,7 +1,7 @@
 ---
 created: 2025-11-19T23:06:48+0300
 aliases: ["Nate Dogg"]
-ListenInSec: 301
+ListenInSec: 597
 ---
 
 # Nate Dogg

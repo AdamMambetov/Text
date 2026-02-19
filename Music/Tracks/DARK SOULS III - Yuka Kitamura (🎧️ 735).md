@@ -1,17 +1,17 @@
 ---
 Album: "[[Dark Souls 3]]"
-Creators:
+Creators: []
   - "[[Yuka Kitamura (🎙️ 29)]]"
 Cover: ""
 NumberInAlbum: 2
 SourceFile: "[[Dark Souls 3 OST - 02 DARK SOULS III.mp3]]"
 Year: 2019
-aliases:
+aliases: []
   - DARK SOULS III
 created: 2024-01-04T15:27:07+03:00
 source: ""
 related: []
-ListenInSec: 623
+ListenInSec: 944
 CoverOf: ""
 ---
 

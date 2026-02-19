@@ -1,6 +1,7 @@
 ---
-created: 2025-11-19T13:48:05+03:00
-aliases: ["Release - Operation_to_recapture"]
+created: 2025-11-19T02:35:12+03:00
+aliases:
+  - Release - Operation_to_recapture
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""

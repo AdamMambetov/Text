@@ -1,6 +1,7 @@
 ---
-created: 2025-11-19T13:49:15+03:00
-aliases: ["Kenichiro_Suehiro - _ (4)"]
+created: 2025-11-19T01:52:04+03:00
+aliases:
+  - Kenichiro_Suehiro - _ (4)
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""

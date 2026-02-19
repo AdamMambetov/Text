@@ -1,6 +1,7 @@
 ---
-created: 2025-09-25T22:01:49+03:00
-aliases: ["Toni's Music Library - B-Side Wins Again (Game Version)"]
+created: 2025-09-25T13:11:12+03:00
+aliases:
+  - Toni's Music Library - B-Side Wins Again (Game Version)
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""

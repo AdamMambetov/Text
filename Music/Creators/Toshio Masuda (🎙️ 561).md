@@ -1,7 +1,7 @@
 ---
 created: 2026-01-25T03:34:26+0300
 aliases: ["Toshio Masuda"]
-ListenInSec: 83
+ListenInSec: 197
 ---
 
 # Toshio Masuda

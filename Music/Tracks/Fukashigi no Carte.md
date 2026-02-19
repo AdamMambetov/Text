@@ -1,6 +1,7 @@
 ---
-created: 2025-11-03T15:57:03+03:00
-aliases: ["Fukashigi no Carte"]
+created: 2025-10-23T16:00:20+03:00
+aliases:
+  - Fukashigi no Carte
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""

@@ -1,6 +1,7 @@
 ---
-created: 2025-09-25T22:01:51+03:00
-aliases: ["Toni's Music Library - Fired Up (Game Version) (Clean)"]
+created: 2025-09-25T13:10:14+03:00
+aliases:
+  - Toni's Music Library - Fired Up (Game Version) (Clean)
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""

@@ -1,6 +1,7 @@
 ---
-created: 2025-08-02T13:20:30+03:00
-aliases: ["Rhythm Heaven - Remix 5"]
+created: 2025-08-01T16:32:20+03:00
+aliases:
+  - Rhythm Heaven - Remix 5
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""

@@ -1,6 +1,7 @@
 ---
-created: 2025-11-03T13:42:58+03:00
-aliases: ["SawanoHiroyuki_nZk_mizuki - aLIEz"]
+created: 2025-10-28T20:46:28+03:00
+aliases:
+  - SawanoHiroyuki_nZk_mizuki - aLIEz
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""

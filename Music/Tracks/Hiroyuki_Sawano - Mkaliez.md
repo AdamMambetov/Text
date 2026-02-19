@@ -1,6 +1,7 @@
 ---
-created: 2025-11-03T13:42:54+03:00
-aliases: ["Hiroyuki_Sawano - Mkaliez"]
+created: 2025-10-28T21:18:20+03:00
+aliases:
+  - Hiroyuki_Sawano - Mkaliez
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""

@@ -1,6 +1,7 @@
 ---
-created: 2025-09-25T22:00:44+03:00
-aliases: ["Toni's Music Library - One Good Reason (Instrumental) (Game Version)"]
+created: 2025-09-25T13:15:24+03:00
+aliases:
+  - Toni's Music Library - One Good Reason (Instrumental) (Game Version)
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""

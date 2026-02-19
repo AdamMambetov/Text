@@ -1,6 +1,7 @@
 ---
-created: 2025-12-28T19:39:43+03:00
-aliases: ["Kazuki Kato - EASY GO (TV Size)"]
+created: 2025-12-26T13:47:58+03:00
+aliases:
+  - Kazuki Kato - EASY GO (TV Size)
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""

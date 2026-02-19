@@ -1,6 +1,7 @@
 ---
-created: 2025-11-19T13:49:07+03:00
-aliases: ["Release - Sirius_Romaneeconti"]
+created: 2025-11-19T02:30:56+03:00
+aliases:
+  - Release - Sirius_Romaneeconti
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""

@@ -1,6 +1,7 @@
 ---
-created: 2025-08-01T16:02:46+03:00
-aliases: ["Yuka Iguchi - Platinum Disco"]
+created: 2025-08-01T15:09:54+03:00
+aliases:
+  - Yuka Iguchi - Platinum Disco
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
@@ -9,7 +10,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[Yuka Iguchi - Platinum Disco.mp3]]"
 related: []
-ListenInSec: 386
+ListenInSec: 640
 CoverOf: ""
 ---
 

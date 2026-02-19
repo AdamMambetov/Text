@@ -1,6 +1,7 @@
 ---
-created: 2025-11-19T13:49:10+03:00
-aliases: ["Release - Priscilla_Barielle"]
+created: 2025-11-19T02:27:22+03:00
+aliases:
+  - Release - Priscilla_Barielle
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""

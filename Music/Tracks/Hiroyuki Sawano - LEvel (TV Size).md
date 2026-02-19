@@ -1,6 +1,7 @@
 ---
-created: 2025-11-03T13:42:58+03:00
-aliases: ["Hiroyuki Sawano - LEvel (TV Size)"]
+created: 2025-10-28T20:37:18+03:00
+aliases:
+  - Hiroyuki Sawano - LEvel (TV Size)
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""

@@ -1,6 +1,7 @@
 ---
-created: 2025-11-19T13:48:05+03:00
-aliases: ["Release - Capella_Emerada_Lugunica"]
+created: 2025-11-19T02:33:38+03:00
+aliases:
+  - Release - Capella_Emerada_Lugunica
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""

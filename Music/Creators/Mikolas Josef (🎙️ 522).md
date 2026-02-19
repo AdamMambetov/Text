@@ -1,7 +1,7 @@
 ---
-created: 2026-01-23T20:20:44+03:00
+created: 2026-01-23T20:20:44+0300
 aliases: ["Mikolas Josef"]
-ListenInSec: 0
+ListenInSec: 6
 ---
 
 # Mikolas Josef

@@ -1,6 +1,7 @@
 ---
-created: 2025-11-03T13:42:51+03:00
-aliases: ["lomb_TV_LombTV - Rhythm_Tengoku_-_Turbo_Tap_Trial_Tap_Trial_2"]
+created: 2025-10-28T22:09:50+03:00
+aliases:
+  - lomb_TV_LombTV - Rhythm_Tengoku_-_Turbo_Tap_Trial_Tap_Trial_2
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""

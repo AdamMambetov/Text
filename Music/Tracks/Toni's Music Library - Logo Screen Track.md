@@ -1,6 +1,7 @@
 ---
-created: 2025-09-25T22:02:00+03:00
-aliases: ["Toni's Music Library - Logo Screen Track"]
+created: 2025-09-25T13:03:36+03:00
+aliases:
+  - Toni's Music Library - Logo Screen Track
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""

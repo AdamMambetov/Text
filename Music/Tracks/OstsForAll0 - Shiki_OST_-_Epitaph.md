@@ -1,6 +1,7 @@
 ---
-created: 2025-11-14T03:28:03+03:00
-aliases: ["OstsForAll0 - Shiki_OST_-_Epitaph"]
+created: 2025-11-14T03:27:52+03:00
+aliases:
+  - OstsForAll0 - Shiki_OST_-_Epitaph
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""

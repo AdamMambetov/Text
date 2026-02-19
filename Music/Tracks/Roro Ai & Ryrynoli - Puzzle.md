@@ -1,6 +1,7 @@
 ---
-created: 2025-06-07T16:01:32+03:00
-aliases: ["Roro Ai & Ryrynoli - Puzzle"]
+created: 2025-06-06T16:34:50+03:00
+aliases:
+  - Roro Ai & Ryrynoli - Puzzle
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""

@@ -8,7 +8,7 @@ SourceFile: "[[Depeche Mode - Personal Jesus.mp3]]"
 Year: 1990
 aliases:
   - Personal Jesus
-created: 2024-06-21T05:20:57+03:00
+created: 2024-06-21T05:19:40+03:00
 source: ""
 related: []
 ListenInSec: 2

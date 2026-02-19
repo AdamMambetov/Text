@@ -1,5 +1,5 @@
 ---
-created: 2024-06-21T05:22:06+03:00
+created: 2024-06-21T05:19:54+03:00
 aliases:
   - Врата (TV Size)
 Creators:

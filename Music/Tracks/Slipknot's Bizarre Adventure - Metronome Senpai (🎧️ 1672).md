@@ -4,7 +4,7 @@ Year: 20190629
 Album: ""
 aliases:
   - Slipknot's Bizarre Adventure
-created: 2025-05-04T14:48:42+03:00
+created: 2025-05-04T02:29:32+03:00
 Creators: []
 Cover: ""
 NumberInAlbum: 0

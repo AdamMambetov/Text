@@ -1,7 +1,7 @@
 ---
 created: 2025-11-19T23:36:25+0300
 aliases: ["Sati Akura"]
-ListenInSec: 1341
+ListenInSec: 1556
 ---
 
 # Sati Akura

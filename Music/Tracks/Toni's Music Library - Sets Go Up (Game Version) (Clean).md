@@ -1,6 +1,7 @@
 ---
-created: 2025-09-25T22:01:52+03:00
-aliases: ["Toni's Music Library - Sets Go Up (Game Version) (Clean)"]
+created: 2025-09-25T13:09:16+03:00
+aliases:
+  - Toni's Music Library - Sets Go Up (Game Version) (Clean)
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""

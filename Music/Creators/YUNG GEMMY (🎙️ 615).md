@@ -1,7 +1,7 @@
 ---
-created: 2026-02-12T19:50:51+03:00
+created: 2026-02-12T19:50:51+0300
 aliases: ["YUNG GEMMY"]
-ListenInSec: 0
+ListenInSec: 121
 ---
 
 # YUNG GEMMY

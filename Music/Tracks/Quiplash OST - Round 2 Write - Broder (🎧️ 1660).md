@@ -1,5 +1,5 @@
 ---
-created: 2025-05-04T14:48:34+03:00
+created: 2025-05-04T02:53:23+03:00
 aliases:
   - Quiplash OST - Round 2 Write
 Year: 2020

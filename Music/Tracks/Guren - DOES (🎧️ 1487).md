@@ -1,5 +1,5 @@
 ---
-created: 2025-01-08T01:14:05+03:00
+created: 2025-01-08T01:14:04+03:00
 aliases:
   - Guren
 Creators: []

@@ -1,6 +1,7 @@
 ---
-created: 2025-11-19T13:49:29+03:00
-aliases: ["Serena_-3 - Re_-Zero_kara_Hajimeru_Isekai_Seikatsu_Ost_12_Chain_of_Memories"]
+created: 2025-11-19T01:06:36+03:00
+aliases:
+  - Serena_-3 - Re_-Zero_kara_Hajimeru_Isekai_Seikatsu_Ost_12_Chain_of_Memories
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
@@ -9,7 +10,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[Serena_-3 - Re_-Zero_kara_Hajimeru_Isekai_Seikatsu_Ost_12_Chain_of_Memories.mp3]]"
 related: []
-ListenInSec: 425
+ListenInSec: 573
 CoverOf: ""
 ---
 

@@ -1,5 +1,5 @@
 ---
-created: 2025-05-04T14:48:26+03:00
+created: 2025-05-04T00:54:03+03:00
 aliases:
   - Kimi no Shiranai (TV Size)
   - Bakemonogatari 1 Ending

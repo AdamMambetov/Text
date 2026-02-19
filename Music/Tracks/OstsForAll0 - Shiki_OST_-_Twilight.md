@@ -1,6 +1,7 @@
 ---
-created: 2025-11-14T03:27:00+03:00
-aliases: ["OstsForAll0 - Shiki_OST_-_Twilight"]
+created: 2025-11-14T03:26:48+03:00
+aliases:
+  - OstsForAll0 - Shiki_OST_-_Twilight
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""

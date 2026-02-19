@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[Lia - Bravely You.mp3]]"
 related: []
-ListenInSec: 327
+ListenInSec: 653
 CoverOf: ""
 ---
 

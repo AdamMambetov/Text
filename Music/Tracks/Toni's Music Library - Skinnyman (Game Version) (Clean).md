@@ -1,6 +1,7 @@
 ---
-created: 2025-09-25T22:00:44+03:00
-aliases: ["Toni's Music Library - Skinnyman (Game Version) (Clean)"]
+created: 2025-09-25T13:17:20+03:00
+aliases:
+  - Toni's Music Library - Skinnyman (Game Version) (Clean)
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""

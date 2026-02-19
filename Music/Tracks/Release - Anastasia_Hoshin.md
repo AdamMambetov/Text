@@ -1,6 +1,7 @@
 ---
-created: 2025-11-19T13:49:11+03:00
-aliases: ["Release - Anastasia_Hoshin"]
+created: 2025-11-19T02:26:52+03:00
+aliases:
+  - Release - Anastasia_Hoshin
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""

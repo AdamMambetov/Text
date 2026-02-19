@@ -9,7 +9,7 @@ NumberInAlbum: 116
 source: ""
 SourceFile: "[[Umineko no Naku Koro ni OST - 116 Спираль.ogg]]"
 related: []
-ListenInSec: 16
+ListenInSec: 198
 CoverOf: ""
 ---
 

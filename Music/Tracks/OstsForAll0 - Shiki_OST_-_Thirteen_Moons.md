@@ -1,6 +1,7 @@
 ---
-created: 2025-11-14T03:43:34+03:00
-aliases: ["OstsForAll0 - Shiki_OST_-_Thirteen_Moons"]
+created: 2025-11-14T03:43:22+03:00
+aliases:
+  - OstsForAll0 - Shiki_OST_-_Thirteen_Moons
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""

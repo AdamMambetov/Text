@@ -1,6 +1,7 @@
 ---
-created: 2025-11-03T13:43:34+03:00
-aliases: ["Ellie Goulding - Destiny (TV Size)"]
+created: 2025-10-28T20:32:06+03:00
+aliases:
+  - Ellie Goulding - Destiny (TV Size)
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""

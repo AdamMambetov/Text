@@ -1,5 +1,5 @@
 ---
-created: 2024-06-21T05:20:55+03:00
+created: 2024-06-21T05:19:50+03:00
 aliases:
   - Only Man
 Cover: ""
