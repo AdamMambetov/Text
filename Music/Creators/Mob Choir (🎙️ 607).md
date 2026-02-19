@@ -1,7 +1,7 @@
 ---
-created: 2026-02-12T11:07:24+03:00
+created: 2026-02-12T11:07:24+0300
 aliases: ["Mob Choir"]
-ListenInSec: 0
+ListenInSec: 185
 ---
 
 # Mob Choir

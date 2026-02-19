@@ -1,6 +1,6 @@
 ---
 created: 2025-11-19T01:05:12+03:00
-aliases:
+aliases: []
   - Serena_-3 - Re_-Zero_kara_Hajimeru_Isekai_Seikatsu_Ost_09_Heartbeat_of_Determination
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
@@ -10,7 +10,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[Serena_-3 - Re_-Zero_kara_Hajimeru_Isekai_Seikatsu_Ost_09_Heartbeat_of_Determination.mp3]]"
 related: []
-ListenInSec: 514
+ListenInSec: 637
 CoverOf: ""
 ---
 

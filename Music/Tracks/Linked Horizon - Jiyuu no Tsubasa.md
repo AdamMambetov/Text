@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[Linked Horizon - Jiyuu no Tsubasa.mp3]]"
 related: []
-ListenInSec: 0
+ListenInSec: 325
 CoverOf: ""
 ---
 

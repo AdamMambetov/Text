@@ -1,6 +1,6 @@
 ---
 created: 2025-08-01T16:32:20+03:00
-aliases:
+aliases: []
   - Rhythm Heaven - Remix 5
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
@@ -10,7 +10,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[Rhythm Heaven - Remix 5.mp3]]"
 related: []
-ListenInSec: 115
+ListenInSec: 230
 CoverOf: ""
 ---
 
