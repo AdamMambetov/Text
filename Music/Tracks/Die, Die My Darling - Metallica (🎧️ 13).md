@@ -1,8 +1,8 @@
 ---
-Album: "[[Garage Inc.]]"
+Album: ""
 Creators: ["[[Metallica (🎙️ 379)]]"]
-Cover: ""
-NumberInAlbum: 5
+Cover: "[[Metallica - Garage Inc.png]]"
+NumberInAlbum: 0
 SourceFile: "[[Metallica - Die, Die My Darling.mp3]]"
 Year: 1998
 aliases: ["Die, Die My Darling"]
