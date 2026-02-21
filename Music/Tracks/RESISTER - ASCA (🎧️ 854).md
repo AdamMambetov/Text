@@ -1,13 +1,11 @@
 ---
 Album: "[[Resister]]"
-Creators:
-  - "[[ASCA (🎙️ 191)]]"
+Creators: ["[[ASCA (🎙️ 191)]]"]
 Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[ASCA - RESISTER.mp3]]"
 Year: 2019
-aliases:
-  - RESISTER
+aliases: ["RESISTER"]
 created: 2023-09-29T16:24:13+03:00
 source: ""
 related: []

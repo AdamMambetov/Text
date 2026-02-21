@@ -1,12 +1,8 @@
 ---
 created: 2024-06-21T05:22:25+03:00
-aliases:
-  - Синяя птица
-  - Blue Bird
+aliases: ["Синяя птица", "Blue Bird"]
 CoverOf: "[[Blue Bird - Ikimonogakari (🎧️ 1472)]]"
-Creators:
-  - "[[Radiant Records (🎙️ 39)]]"
-  - "[[Nanami (🎙️ 41)]]"
+Creators: ["[[Radiant Records (🎙️ 39)]]", "[[Nanami (🎙️ 41)]]"]
 source:
 SourceFile: "[[Radiant Records - Синяя птица.mp3]]"
 Cover: ""

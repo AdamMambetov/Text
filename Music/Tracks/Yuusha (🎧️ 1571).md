@@ -5,8 +5,7 @@ Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[YOASOBI - Yuusha.mp3]]"
 Year: 0
-aliases:
-  - Yuusha
+aliases: ["Yuusha"]
 created: 2025-01-08T19:26:05+03:00
 source: ""
 related: []

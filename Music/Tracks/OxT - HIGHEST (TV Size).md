@@ -1,7 +1,6 @@
 ---
 created: 2025-12-13T16:27:09+03:00
-aliases:
-  - OxT - HIGHEST (TV Size)
+aliases: ["OxT - HIGHEST (TV Size)"]
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""

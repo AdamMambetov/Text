@@ -1,7 +1,6 @@
 ---
 created: 2025-11-14T03:49:12+03:00
-aliases:
-  - OstsForAll0 - Shiki_OST_-_Echo
+aliases: ["OstsForAll0 - Shiki_OST_-_Echo"]
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""

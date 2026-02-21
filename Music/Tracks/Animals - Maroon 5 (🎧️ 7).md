@@ -1,13 +1,11 @@
 ---
 Album: "[[V]]"
-Creators:
-  - "[[Maroon 5 (🎙️ 378)]]"
+Creators: ["[[Maroon 5 (🎙️ 378)]]"]
 Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[Maroon 5 - Animals.mp3]]"
 Year: 2015
-aliases:
-  - Animals
+aliases: ["Animals"]
 created: 2022-04-21T01:52:30+03:00
 source: ""
 related: []

@@ -1,7 +1,6 @@
 ---
 created: 2025-11-20T23:19:46+03:00
-aliases:
-  - LeeandLie_AmaLee - Styx_Helix
+aliases: ["LeeandLie_AmaLee - Styx_Helix"]
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""

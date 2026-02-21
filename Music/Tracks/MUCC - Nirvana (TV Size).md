@@ -1,7 +1,6 @@
 ---
 created: 2025-06-02T23:45:18+03:00
-aliases:
-  - MUCC - Nirvana (TV Size)
+aliases: ["MUCC - Nirvana (TV Size)"]
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""

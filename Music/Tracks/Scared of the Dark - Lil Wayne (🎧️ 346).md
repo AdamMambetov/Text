@@ -4,9 +4,9 @@ aliases: ["Scared of the Dark"]
 Cover: "[[_No Album Art.jpg]]"
 Year: 2018
 Album: "[[Spider-Man Into the Spider-Verse (📀 23)]]"
-Creators: ["[[Lil Wayne (🎙️ 553)]]","[[Ty Dolla $ign (🎙️ 554)]]","[[XXXTentacion (🎙️ 555)]]"]
+Creators: ["[[Lil Wayne (🎙️ 553)]]", "[[Ty Dolla $ign (🎙️ 554)]]", "[[XXXTentacion (🎙️ 555)]]"]
 NumberInAlbum: 11
-source: 
+source:
 SourceFile: "[[Lil Wayne - Scared of the Dark.mp3]]"
 related: []
 ListenInSec: 2

@@ -7,7 +7,7 @@ SourceFile: "[[Detroit Metal City OST - SATSUGAI.mp3]]"
 Year: 0
 aliases: ["SATSUGAI"]
 created: 2025-01-27T19:39:14+03:00
-source: 
+source:
 related: []
 ListenInSec: 1250
 CoverOf: ""

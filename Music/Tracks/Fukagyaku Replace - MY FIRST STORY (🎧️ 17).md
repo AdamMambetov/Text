@@ -1,13 +1,11 @@
 ---
 Album: "[[Chris Wong]]"
-Creators:
-  - "[[MY FIRST STORY (🎙️ 493)]]"
+Creators: ["[[MY FIRST STORY (🎙️ 493)]]"]
 Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[MY FIRST STORY - Fukagyaku Replace.mp3]]"
 Year: 0
-aliases:
-  - Fukagyaku Replace
+aliases: ["Fukagyaku Replace"]
 created: 2022-04-21T01:52:56+03:00
 source: ""
 related: []

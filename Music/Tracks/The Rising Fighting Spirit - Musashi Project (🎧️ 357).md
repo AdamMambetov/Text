@@ -7,7 +7,7 @@ SourceFile: "[[Naruto OST - The Rising Fighting Spirit.mp3]]"
 Year: 2003
 aliases: ["The Rising Fighting Spirit"]
 created: 2022-04-28T17:39:06+03:00
-source: 
+source:
 related: []
 ListenInSec: 287
 CoverOf: ""

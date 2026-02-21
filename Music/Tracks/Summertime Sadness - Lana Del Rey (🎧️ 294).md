@@ -6,7 +6,7 @@ Year: 2012
 Album: "[[Born to Die: The Paradise Edition [2012] {Lana Del Rey}]]"
 Creators: ["[[Lana Del Rey (🎙️ 545)]]"]
 NumberInAlbum: 11
-source: 
+source:
 SourceFile: "[[Lana Del Rey - Summertime Sadness.mp3]]"
 related: []
 ListenInSec: 289

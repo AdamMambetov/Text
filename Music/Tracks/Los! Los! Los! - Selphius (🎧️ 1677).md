@@ -1,8 +1,7 @@
 ---
 SourceFile: "[[Selphius - Los! Los! Los!.mp3]]"
 Year: 2019
-aliases:
-  - Los! Los! Los!
+aliases: ["Los! Los! Los!"]
 created: 2025-05-04T01:11:51+03:00
 Creators: []
 Cover: ""

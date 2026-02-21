@@ -1,7 +1,6 @@
 ---
 created: 2025-08-01T15:09:54+03:00
-aliases:
-  - Yuka Iguchi - Platinum Disco
+aliases: ["Yuka Iguchi - Platinum Disco"]
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""

@@ -1,13 +1,11 @@
 ---
 Album: ""
-Creators:
-  - "[[Nika Lenina (🎙️ 45)]]"
+Creators: ["[[Nika Lenina (🎙️ 45)]]"]
 Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[Nika Lenina - CHOIR JAIL (TV Size).mp3]]"
 Year: 0
-aliases:
-  - CHOIR JAIL (TV Size)
+aliases: ["CHOIR JAIL (TV Size)"]
 created: 2025-01-08T19:54:23+03:00
 source: ""
 related: []

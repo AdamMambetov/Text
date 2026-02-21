@@ -1,7 +1,6 @@
 ---
 created: 2025-09-25T13:13:02+03:00
-aliases:
-  - Toni's Music Library - Tilted (Game Version) (Clean)
+aliases: ["Toni's Music Library - Tilted (Game Version) (Clean)"]
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""

@@ -5,8 +5,7 @@ Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[BPM OST - 01 Into Asgard.mp3]]"
 Year: 0
-aliases:
-  - Into Asgard
+aliases: ["Into Asgard"]
 created: 2025-01-08T23:24:54+03:00
 source: ""
 related: []

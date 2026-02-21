@@ -1,7 +1,6 @@
 ---
 created: 2025-06-24T08:45:50+03:00
-aliases:
-  - millennium parade - WORK
+aliases: ["millennium parade - WORK"]
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""

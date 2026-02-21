@@ -1,9 +1,7 @@
 ---
 created: 2023-09-29T16:21:59+03:00
-aliases:
-  - Врата (TV Size)
-Creators:
-  - "[[Radiant Records (🎙️ 39)]]"
+aliases: ["Врата (TV Size)"]
+Creators: ["[[Radiant Records (🎙️ 39)]]"]
 FullVersion: "[[Врата - Radiant Records (🎧️ 1330)]]"
 source: ""
 SourceFile: "[[Radiant Records - Врата (TV Size).mp3]]"

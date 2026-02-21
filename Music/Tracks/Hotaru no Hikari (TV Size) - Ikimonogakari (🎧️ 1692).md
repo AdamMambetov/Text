@@ -1,12 +1,10 @@
 ---
 created: 2025-11-28T16:48:52+03:00
-aliases:
-  - Hotaru no Hikari (TV Size)
+aliases: ["Hotaru no Hikari (TV Size)"]
 Cover: "[[_No Album Art.jpg]]"
 Year: 2009
 Album: ""
-Creators:
-  - "[[Ikimonogakari (🎙️ 57)]]"
+Creators: ["[[Ikimonogakari (🎙️ 57)]]"]
 NumberInAlbum: 3
 source: ""
 SourceFile: "[[Ikimonogakari - Hotaru no Hikari (TV Size).mp3]]"

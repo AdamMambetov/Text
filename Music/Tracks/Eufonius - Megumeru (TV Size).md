@@ -1,7 +1,6 @@
 ---
 created: 2025-08-01T15:44:50+03:00
-aliases:
-  - Eufonius - Megumeru (TV Size)
+aliases: ["Eufonius - Megumeru (TV Size)"]
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""

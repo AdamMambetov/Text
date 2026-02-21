@@ -1,13 +1,11 @@
 ---
 Album: ""
-Creators:
-  - "[[Will Stetson (🎙️ 483)]]"
+Creators: ["[[Will Stetson (🎙️ 483)]]"]
 Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 1
 SourceFile: "[[Will Stetson - Black Catcher (Swing Arrangement).mp3]]"
 Year: 0
-aliases:
-  - Black Catcher (Swing Arrangement)
+aliases: ["Black Catcher (Swing Arrangement)"]
 created: 2025-01-07T19:37:43+03:00
 source: ""
 related: []

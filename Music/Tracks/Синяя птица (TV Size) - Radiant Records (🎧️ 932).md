@@ -1,12 +1,8 @@
 ---
 created: 2023-09-29T16:21:56+03:00
-aliases:
-  - Синяя птица (TV Size)
-  - Blue Bird (TV Size)
+aliases: ["Синяя птица (TV Size)", "Blue Bird (TV Size)"]
 CoverOf: "[[🎵Ikimonogakari - Blue Bird (TV Size)]]"
-Creators:
-  - "[[Radiant Records (🎙️ 39)]]"
-  - "[[Nanami (🎙️ 41)]]"
+Creators: ["[[Radiant Records (🎙️ 39)]]", "[[Nanami (🎙️ 41)]]"]
 FullVersion: "[[Синяя птица - Radiant Records (🎧️ 933)]]"
 source:
 SourceFile: "[[Radiant Records - Синяя птица (TV Size).mp3]]"

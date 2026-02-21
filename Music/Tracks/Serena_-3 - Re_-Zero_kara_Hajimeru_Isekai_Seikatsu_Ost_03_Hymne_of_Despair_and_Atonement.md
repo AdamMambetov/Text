@@ -1,7 +1,6 @@
 ---
 created: 2025-11-14T20:22:24+03:00
-aliases:
-  - Serena_-3 - Re_-Zero_kara_Hajimeru_Isekai_Seikatsu_Ost_03_Hymne_of_Despair_and_Atonement
+aliases: ["Serena_-3 - Re_-Zero_kara_Hajimeru_Isekai_Seikatsu_Ost_03_Hymne_of_Despair_and_Atonement"]
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""

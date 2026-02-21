@@ -1,14 +1,11 @@
 ---
 Album: "[[Insane]]"
-Creators:
-  - "[[Black GryphOn (🎙️ 223)]]"
-  - "[[Baasik (🎙️ 206)]]"
+Creators: ["[[Black GryphOn (🎙️ 223)]]", "[[Baasik (🎙️ 206)]]"]
 Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[Black Gryph0n - Insane.mp3]]"
 Year: 2021
-aliases:
-  - Insane
+aliases: ["Insane"]
 created: 2023-09-29T16:23:22+03:00
 source: ""
 related: []

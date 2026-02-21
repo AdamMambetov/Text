@@ -1,7 +1,6 @@
 ---
 created: 2025-01-08T01:14:05+03:00
-aliases:
-  - Guren
+aliases: ["Guren"]
 Creators: []
 source: ""
 SourceFile: "[[DOES - Guren.mp3]]"

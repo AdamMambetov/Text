@@ -5,8 +5,7 @@ Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[Mattyyym - Trip Innocent of D.mp3]]"
 Year: 0
-aliases:
-  - Trip Innocent of D
+aliases: ["Trip Innocent of D"]
 created: 2025-01-08T18:32:48+03:00
 source: ""
 related: []

@@ -1,7 +1,6 @@
 ---
 created: 2025-11-14T03:41:26+03:00
-aliases:
-  - OstsForAll0 - Shiki_OST_-_Fir_Trees
+aliases: ["OstsForAll0 - Shiki_OST_-_Fir_Trees"]
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""

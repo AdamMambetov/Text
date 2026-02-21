@@ -1,7 +1,6 @@
 ---
 created: 2025-09-25T13:07:16+03:00
-aliases:
-  - Toni's Music Library - My Hood (In A Hood Near You) (Game Version) (Clean)
+aliases: ["Toni's Music Library - My Hood (In A Hood Near You) (Game Version) (Clean)"]
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""

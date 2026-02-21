@@ -2,8 +2,7 @@
 SourceFile: "[[Metronome Senpai - Slipknot's Bizarre Adventure.mp3]]"
 Year: 20190629
 Album: ""
-aliases:
-  - Slipknot's Bizarre Adventure
+aliases: ["Slipknot's Bizarre Adventure"]
 created: 2025-05-04T02:29:30+03:00
 Creators: []
 Cover: ""

@@ -1,13 +1,11 @@
 ---
 Album: ""
-Creators:
-  - "[[fripSide (🎙️ 566)]]"
+Creators: ["[[fripSide (🎙️ 566)]]"]
 Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 1
 SourceFile: "[[fripSide - Black Bullet.mp3]]"
 Year: 0
-aliases:
-  - Black Bullet
+aliases: ["Black Bullet"]
 created: 2025-01-08T20:01:42+03:00
 source:
 related: []

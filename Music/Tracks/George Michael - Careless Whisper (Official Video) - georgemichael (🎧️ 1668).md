@@ -2,8 +2,7 @@
 SourceFile: "[[George Michael - Careless Whisper.mp3]]"
 Year: 2009
 Album: ""
-aliases:
-  - Careless Whisper
+aliases: ["Careless Whisper"]
 created: 2025-05-04T01:53:58+03:00
 Creators: []
 Cover: ""

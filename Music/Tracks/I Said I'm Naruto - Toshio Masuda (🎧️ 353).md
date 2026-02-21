@@ -6,7 +6,7 @@ Year: 2003
 Album: "[[Naruto OST 1 (📀 14)]]"
 Creators: ["[[Toshio Masuda (🎙️ 561)]]"]
 NumberInAlbum: 2
-source: 
+source:
 SourceFile: "[[Naruto OST - I Said I'm Naruto.mp3]]"
 related: []
 ListenInSec: 105

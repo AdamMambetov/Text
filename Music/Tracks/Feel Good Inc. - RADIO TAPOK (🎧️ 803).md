@@ -1,13 +1,11 @@
 ---
 Album: "[[Feel Good Inc.]]"
-Creators:
-  - "[[RADIO TAPOK (🎙️ 423)]]"
+Creators: ["[[RADIO TAPOK (🎙️ 423)]]"]
 Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[RADIO TAPOK - Feel Good Inc.mp3]]"
 Year: 2016
-aliases:
-  - Feel Good Inc.
+aliases: ["Feel Good Inc."]
 created: 2024-01-04T12:57:03+03:00
 source: ""
 related: []

@@ -1,7 +1,6 @@
 ---
 created: 2025-06-30T20:59:18+03:00
-aliases:
-  - Lia - Tori no Uta
+aliases: ["Lia - Tori no Uta"]
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""

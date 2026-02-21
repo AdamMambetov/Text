@@ -2,8 +2,7 @@
 SourceFile: "[[Evanescence - Bring Me To Life.mp3]]"
 Year: 2009
 Album: ""
-aliases:
-  - Evanescence - Bring Me To Life (Official HD Music Video)
+aliases: ["Evanescence - Bring Me To Life (Official HD Music Video)"]
 created: 2025-05-04T02:21:33+03:00
 Creators: []
 Cover: ""

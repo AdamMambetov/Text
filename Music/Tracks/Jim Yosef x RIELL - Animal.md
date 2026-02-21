@@ -1,7 +1,6 @@
 ---
 created: 2025-07-31T18:18:10+03:00
-aliases:
-  - Jim Yosef x RIELL - Animal
+aliases: ["Jim Yosef x RIELL - Animal"]
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""

@@ -1,13 +1,11 @@
 ---
 Album: ""
-Creators:
-  - "[[RADIO TAPOK (🎙️ 423)]]"
+Creators: ["[[RADIO TAPOK (🎙️ 423)]]"]
 Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[RADIO TAPOK - I Don't Want to Miss a Thing.mp3]]"
 Year: 0
-aliases:
-  - I Don't Want to Miss a Thing
+aliases: ["I Don't Want to Miss a Thing"]
 created: 2025-01-08T20:45:31+03:00
 source: ""
 related: []

@@ -1,13 +1,11 @@
 ---
 Album: ""
-Creators:
-  - "[[RADIO TAPOK (🎙️ 423)]]"
+Creators: ["[[RADIO TAPOK (🎙️ 423)]]"]
 Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[RADIO TAPOK - Wrong Side of Heaven.mp3]]"
 Year: 0
-aliases:
-  - Wrong Side of Heaven
+aliases: ["Wrong Side of Heaven"]
 created: 2025-01-08T20:33:48+03:00
 source: ""
 related: []

@@ -1,6 +1,6 @@
 ---
 Album: ""
-Creators: ["[[Porter Robinson (🎙️ 605)]]","[[Madeon (🎙️ 606)]]"]
+Creators: ["[[Porter Robinson (🎙️ 605)]]", "[[Madeon (🎙️ 606)]]"]
 Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 0
 SourceFile: "[[Porter Robinson & Madeon - Shelter.mp3]]"

@@ -1,13 +1,11 @@
 ---
 Album: "[[Shut your mouth]]"
-Creators:
-  - "[[RADIO TAPOK (🎙️ 423)]]"
+Creators: ["[[RADIO TAPOK (🎙️ 423)]]"]
 Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 1
 SourceFile: "[[RADIO TAPOK - Shut your mouth.mp3]]"
 Year: 2017
-aliases:
-  - Shut your mouth
+aliases: ["Shut your mouth"]
 created: 2024-01-04T13:05:24+03:00
 source: ""
 related: []

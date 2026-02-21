@@ -6,7 +6,7 @@ Year: 2018
 Album: "[[Spider-Man Into the Spider-Verse (📀 23)]]"
 Creators: ["[[Jaden Smith (🎙️ 552)]]"]
 NumberInAlbum: 3
-source: 
+source:
 SourceFile: "[[Jaden Smith - Way Up.mp3]]"
 related: []
 ListenInSec: 3
