@@ -1,7 +1,7 @@
 ---
-Album: "[[Welcome To My Freakshow]]"
+Album: ""
 Creators: ["[[Nomy (🎙️ 398)]]"]
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 1
 SourceFile: "[[Nomy - Monkey Boy.mp3]]"
 Year: 2010
