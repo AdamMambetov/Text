@@ -1,9 +1,9 @@
+filters:
+  and:
+    - file.inFolder("Text/Music/Tracks")
 views:
   - type: table
-    name: Table
-    filters:
-      and:
-        - file.inFolder("Text/Music/Tracks")
+    name: Created Group
     groupBy:
       property: created
       direction: ASC
@@ -13,3 +13,13 @@ views:
     sort: []
     columnSize:
       note.created: 178
+  - type: table
+    name: Year Group
+    groupBy:
+      property: Year
+      direction: ASC
+    order:
+      - Year
+      - file.name
+    columnSize:
+      note.Year: 93
