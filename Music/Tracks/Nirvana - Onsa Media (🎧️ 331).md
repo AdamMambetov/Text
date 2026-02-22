@@ -9,7 +9,7 @@ aliases: ["Nirvana"]
 created: 2022-04-28T01:58:40+03:00
 source: ""
 related: []
-ListenInSec: 10
+ListenInSec: 233
 CoverOf: ""
 ---
 

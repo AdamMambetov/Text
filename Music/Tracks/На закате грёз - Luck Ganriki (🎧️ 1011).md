@@ -9,7 +9,7 @@ NumberInAlbum: 57
 source: ""
 SourceFile: "[[Umineko no Naku Koro ni OST - 057 На закате грез.ogg]]"
 related: []
-ListenInSec: 200
+ListenInSec: 301
 CoverOf: ""
 ---
 
