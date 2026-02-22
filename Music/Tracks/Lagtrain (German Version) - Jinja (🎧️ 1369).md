@@ -1,11 +1,13 @@
 ---
 Album: "[[Lagtrain (German Version)]]"
-Creators: ["[[Jinja (🎙️ 344)]]"]
+Creators:
+  - "[[Jinja (🎙️ 344)]]"
 Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[Jinja - Lagtrain (German Version).mp3]]"
-Year: 20230921
-aliases: ["Lagtrain (German Version)"]
+Year: 2023
+aliases:
+  - Lagtrain (German Version)
 created: 2024-12-12T21:18:50+03:00
 source: ""
 related: []

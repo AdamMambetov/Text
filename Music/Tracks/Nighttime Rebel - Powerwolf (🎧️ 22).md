@@ -1,11 +1,13 @@
 ---
-Album: "[[The Sacrament of Sin 2018]]"
-Creators: ["[[Powerwolf (🎙️ 420)]]"]
-Cover: ""
-NumberInAlbum: 0
+Album: "[[The Sacrament of Sin (📀 39)]]"
+Creators:
+  - "[[Powerwolf (🎙️ 420)]]"
+Cover: "[[Powerwolf - The Sacrament of Sin.jpg]]"
+NumberInAlbum: 10
 SourceFile: "[[Powerwolf - Nighttime Rebel.mp3]]"
-Year: 0
-aliases: ["Nighttime Rebel"]
+Year: 2018
+aliases:
+  - Nighttime Rebel
 created: 2022-04-21T01:53:02+03:00
 source: ""
 related: []

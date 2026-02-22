@@ -1,7 +1,7 @@
 ---
 Album: "[[Частушки Бабок-ежек]]"
 Creators: []
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 1
 SourceFile: "[[Nightwish - Частушки Бабок-ежек.mp3]]"
 Year: 2024
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 287
 CoverOf: ""
+category: ["[[Искусственный интеллект]]"]
 ---
 
 # Nightwish - Частушки Бабок-ежек

@@ -1,10 +1,12 @@
 ---
 SourceFile: "[[Shrek OST - 11 I'm On My Way.mp3]]"
-Year: 20090417
+Year: 2009
 Album: ""
-aliases: ["Shrek Soundtrack   11. The Proclaimers - I'm On My Way"]
+aliases:
+  - Shrek Soundtrack   11. The Proclaimers - I'm On My Way
 created: 2025-05-04T01:32:54+03:00
-Creators: ["[[atnaloj626 (🎙️ 196)]]"]
+Creators:
+  - "[[atnaloj626 (🎙️ 196)]]"
 Cover: ""
 NumberInAlbum: 0
 related: []

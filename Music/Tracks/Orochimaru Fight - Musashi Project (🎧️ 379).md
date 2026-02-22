@@ -1,11 +1,13 @@
 ---
-Album: "[[Naruto OST 2 (📀 15)]]"
-Creators: ["[[Musashi Project (🎙️ 562)]]"]
+Album: "[[Naruto OST 2 (📀 16)]]"
+Creators:
+  - "[[Musashi Project (🎙️ 562)]]"
 Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 15
 SourceFile: "[[Naruto OST - Orochimaru Fight.mp3]]"
 Year: 2004
-aliases: ["Orochimaru Fight"]
+aliases:
+  - Orochimaru Fight
 created: 2022-04-28T17:50:54+03:00
 source:
 related: []

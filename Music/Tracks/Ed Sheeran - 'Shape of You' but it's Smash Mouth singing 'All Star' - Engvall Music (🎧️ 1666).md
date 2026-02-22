@@ -1,8 +1,9 @@
 ---
 SourceFile: "[[Engval Music - Shape of You and All Star Mashup.mp3]]"
-Year: 20170407
+Year: 2017
 Album: ""
-aliases: ["'Shape of You' but it's Smash Mouth singing 'All Star'"]
+aliases:
+  - "'Shape of You' but it's Smash Mouth singing 'All Star'"
 created: 2025-05-04T02:00:13+03:00
 Creators: []
 Cover: ""

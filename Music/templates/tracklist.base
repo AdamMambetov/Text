@@ -11,11 +11,13 @@ views:
             - this.tracklist.contains(file)
         - this.file.ext != "base"
     order:
+      - NumberInAlbum
       - file.name
     sort:
-      - property: formula.NumInAlbum
-        direction: DESC
-    columnSize: {}
+      - property: NumberInAlbum
+        direction: ASC
+    columnSize:
+      note.NumberInAlbum: 38
   - type: list
     name: List
     filters:

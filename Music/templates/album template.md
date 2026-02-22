@@ -1,15 +1,13 @@
 ---
 created: <% tp.date.now("YYYY-MM-DD[T]HH:mm:ssZ") %>
-aliases:
-  - "{{value}}"
+aliases: ["{{value}}"]
 Year: 0
 tracklist: []
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 Creators: []
 ---
 
-# {{value}}
-
+`$=dv.header(1, dv.current().aliases[0])`
 
 ## Tracklist
 

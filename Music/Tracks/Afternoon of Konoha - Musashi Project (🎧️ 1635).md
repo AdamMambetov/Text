@@ -1,11 +1,13 @@
 ---
-Album: "[[Naruto OST 2 (📀 15)]]"
-Creators: ["[[Musashi Project (🎙️ 562)]]"]
+Album: "[[Naruto OST 2 (📀 16)]]"
+Creators:
+  - "[[Musashi Project (🎙️ 562)]]"
 Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 7
 SourceFile: "[[Naruto OST - Afternoon of Konoha.mp3]]"
 Year: 2004
-aliases: ["Afternoon of Konoha"]
+aliases:
+  - Afternoon of Konoha
 created: 2025-02-03T08:22:32+03:00
 source:
 related: []
