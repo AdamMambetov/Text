@@ -1,8 +1,8 @@
 ---
-Album: "[[Friday Night]]"
+Album: ""
 Creators: ["[[Vigiland (🎙️ 481)]]"]
-Cover: ""
-NumberInAlbum: 1
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[Vigiland - Friday Night.mp3]]"
 Year: 2017
 aliases: ["Friday Night"]

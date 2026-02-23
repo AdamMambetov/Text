@@ -1,11 +1,11 @@
 ---
-Album: "[[Deja Vu: The TFK Anthology]]"
+Album: ""
 Creators: ["[[Thousand Foot Krutch (🎙️ 470)]]"]
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 1
 SourceFile: "[[Thousand Foot Krutch - I Climb.mp3]]"
-Year: 0
-aliases: ["I Clim"]
+Year: 2003
+aliases: ["I Climb"]
 created: 2022-04-21T01:53:59+03:00
 source: ""
 related: []

@@ -1,10 +1,10 @@
 ---
-Album: "[[Days Go By]]"
+Album: ""
 Creators: ["[[The Offspring (🎙️ 461)]]"]
-Cover: ""
+Cover: "[[The Offspring - Days Go By.png]]"
 NumberInAlbum: 0
 SourceFile: "[[The Offspring - Dividing By Zero.mp3]]"
-Year: 0
+Year: 2012
 aliases: ["Dividing By Zero"]
 created: 2022-04-21T01:53:16+03:00
 source: ""

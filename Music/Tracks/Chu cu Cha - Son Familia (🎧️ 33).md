@@ -1,10 +1,10 @@
 ---
-Album: "[[Sonfamilia]]"
+Album: ""
 Creators: ["[[Son Familia (🎙️ 499)]]"]
-Cover: ""
+Cover: "[[Son Familia - Sonfamilia.jpg]]"
 NumberInAlbum: 0
 SourceFile: "[[Son Familia - Chu cu Cha.mp3]]"
-Year: 0
+Year: 2008
 aliases: ["Chu cu Cha"]
 created: 2022-04-21T01:53:56+03:00
 source: ""
