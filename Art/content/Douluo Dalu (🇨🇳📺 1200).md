@@ -7,7 +7,7 @@ Status: watch
 Type: anime
 Cover: "[[douluo_dalu_anime_cover.jpg]]"
 Year: 2018
-Episode: 54
+Episode: 55
 ---
 
 # Боевой континент
