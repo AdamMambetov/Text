@@ -9,7 +9,7 @@ NumberInAlbum: 104
 source: ""
 SourceFile: "[[Umineko no Naku Koro ni OST - 104 Счастливая Мария!.ogg]]"
 related: []
-ListenInSec: 1
+ListenInSec: 170
 CoverOf: ""
 ---
 
