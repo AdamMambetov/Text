@@ -1,8 +1,8 @@
 ---
-Album: "[[Love, Lies & Therapy]]"
-Creators: []
-Cover: ""
-NumberInAlbum: 11
+Album: ""
+Creators: ["[[Saliva (🎙️ 628)]]"]
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[Saliva - They Don't Care About Us.mp3]]"
 Year: 2016
 aliases: ["They Don't Care About Us"]

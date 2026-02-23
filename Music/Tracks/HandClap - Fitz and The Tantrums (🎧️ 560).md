@@ -1,7 +1,7 @@
 ---
-Album: "[[Fitz and The Tantrums]]"
-Creators: []
-Cover: ""
+Album: ""
+Creators: ["[[Fitz and The Tantrums (🎙️ 638)]]"]
+Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 2
 SourceFile: "[[Fitz & The Tantrums - HandClap.mp3]]"
 Year: 2017

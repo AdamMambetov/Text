@@ -1,8 +1,8 @@
 ---
-Album: "[[Les indispensables de la chanson française]]"
-Creators: []
-Cover: ""
-NumberInAlbum: 11
+Album: ""
+Creators: ["[[Disney (🎙️ 288)]]"]
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[Hits Variété Pop - La Seine.mp3]]"
 Year: 2017
 aliases: ["La Seine"]

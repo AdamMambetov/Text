@@ -1,8 +1,8 @@
 ---
-Album: "[[Weird Kids]]"
-Creators: []
-Cover: ""
-NumberInAlbum: 10
+Album: ""
+Creators: ["[[We Are The In Crowd (🎙️ 635)]]"]
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[We Are The In Crowd - Reflections.mp3]]"
 Year: 2014
 aliases: ["Reflections"]

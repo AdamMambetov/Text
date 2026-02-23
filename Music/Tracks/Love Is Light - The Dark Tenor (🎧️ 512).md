@@ -1,8 +1,8 @@
 ---
-Album: "[[Symphony Of Light]]"
-Creators: []
-Cover: ""
-NumberInAlbum: 4
+Album: ""
+Creators: ["[[The Dark Tenor (🎙️ 627)]]"]
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[The Dark Tenor - Love Is Light.mp3]]"
 Year: 2015
 aliases: ["Love Is Light"]

@@ -1,8 +1,8 @@
 ---
-Album: "[[Notion]]"
-Creators: []
-Cover: ""
-NumberInAlbum: 1
+Album: ""
+Creators: ["[[The Rare Occasions (🎙️ 634)]]"]
+Cover: "[[The Rare Occasions - Notion.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[The Rare Occasions - Notion.mp3]]"
 Year: 2021
 aliases: ["Notion"]

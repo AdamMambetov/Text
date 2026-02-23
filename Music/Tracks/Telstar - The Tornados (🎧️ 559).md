@@ -1,8 +1,8 @@
 ---
-Album: "[[Ridin' The Wind - The Anthology]]"
-Creators: []
-Cover: ""
-NumberInAlbum: 3
+Album: ""
+Creators: ["[[The Tornados (🎙️ 637)]]"]
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[The Tornados - Telstar.mp3]]"
 Year: 2002
 aliases: ["Telstar"]

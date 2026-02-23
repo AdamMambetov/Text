@@ -1,8 +1,8 @@
 ---
-Album: "[[YMCA]]"
-Creators: []
-Cover: ""
-NumberInAlbum: 1
+Album: ""
+Creators: ["[[Village People (🎙️ 636)]]"]
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[Village People - YMCA.mp3]]"
 Year: 1978
 aliases: ["YMCA"]

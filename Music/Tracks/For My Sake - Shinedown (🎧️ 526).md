@@ -1,8 +1,8 @@
 ---
-Album: "[[The Studio Album Collection]]"
-Creators: []
-Cover: ""
-NumberInAlbum: 10
+Album: ""
+Creators: ["[[Shinedown (🎙️ 633)]]"]
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[Shinedown - For My Sake.mp3]]"
 Year: 2013
 aliases: ["For My Sake"]
