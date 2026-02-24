@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[Yoh Kamiyama - Irokousui.mp3]]"
 related: []
-ListenInSec: 0
+ListenInSec: 193
 CoverOf: ""
 ---
 

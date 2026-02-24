@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[lomb_TV_LombTV - Rhythm_Tengoku_-_Marcher_Marching_Orders.mp3]]"
 related: []
-ListenInSec: 168
+ListenInSec: 224
 CoverOf: ""
 ---
 

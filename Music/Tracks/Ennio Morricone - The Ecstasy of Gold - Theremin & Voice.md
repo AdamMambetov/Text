@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[Ennio Morricone - The Ecstasy of Gold - Theremin & Voice.mp3]]"
 related: []
-ListenInSec: 130
+ListenInSec: 462
 CoverOf: ""
 ---
 

@@ -5,8 +5,7 @@ Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[The Roost - Animal Crossing. New Leaf.mp3]]"
 Year: 2022
-aliases:
-  - "The Roost - Animal Crossing: New Leaf"
+aliases: ["The Roost - Animal Crossing: New Leaf"]
 created: 2024-12-12T21:09:01+03:00
 source: ""
 related: []

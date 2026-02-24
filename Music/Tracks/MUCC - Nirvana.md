@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[MUCC - Nirvana.mp3]]"
 related: []
-ListenInSec: 0
+ListenInSec: 227
 CoverOf: ""
 ---
 

@@ -1,7 +1,7 @@
 ---
 created: 2026-02-12T11:23:51+0300
 aliases: ["Ishikawa Kaito"]
-ListenInSec: 708
+ListenInSec: 799
 ---
 
 # Ishikawa Kaito

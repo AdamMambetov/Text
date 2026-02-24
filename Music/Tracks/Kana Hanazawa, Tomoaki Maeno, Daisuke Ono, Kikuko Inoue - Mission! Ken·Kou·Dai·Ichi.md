@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[Kana Hanazawa, Tomoaki Maeno, Daisuke Ono, Kikuko Inoue - Mission! Ken·Kou·Dai·Ichi.mp3]]"
 related: []
-ListenInSec: 0
+ListenInSec: 97
 CoverOf: ""
 ---
 

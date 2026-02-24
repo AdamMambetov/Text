@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[lomb_TV_LombTV - Rhythm_Tengoku_-_Cosmo_Dance_Cosmic_Dance.mp3]]"
 related: []
-ListenInSec: 277
+ListenInSec: 455
 CoverOf: ""
 ---
 

@@ -9,7 +9,7 @@ aliases: ["Black Bullet"]
 created: 2025-01-08T20:01:42+03:00
 source:
 related: []
-ListenInSec: 2390
+ListenInSec: 2651
 CoverOf: ""
 ---
 

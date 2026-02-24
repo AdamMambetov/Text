@@ -1,7 +1,7 @@
 ---
-created: 2025-11-19T22:54:29+03:00
+created: 2025-11-19T22:54:29+0300
 aliases: ["Cute Is What We Aim For"]
-ListenInSec: 0
+ListenInSec: 40
 ---
 
 # Cute Is What We Aim For

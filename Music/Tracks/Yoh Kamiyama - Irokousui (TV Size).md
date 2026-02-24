@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[Yoh Kamiyama - Irokousui (TV Size).mp3]]"
 related: []
-ListenInSec: 0
+ListenInSec: 91
 CoverOf: ""
 ---
 

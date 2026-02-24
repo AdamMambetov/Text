@@ -9,7 +9,7 @@ aliases: ["Kyouran Hey Kids!!", "Noragami Aragoto"]
 created: 2022-04-22T21:03:06+03:00
 source: ""
 related: []
-ListenInSec: 1
+ListenInSec: 7
 CoverOf: ""
 ---
 

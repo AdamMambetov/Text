@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[OstsForAll0 - Shiki_OST_-_Day_and_Night.mp3]]"
 related: []
-ListenInSec: 373
+ListenInSec: 560
 CoverOf: ""
 ---
 

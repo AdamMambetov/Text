@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[Roro Ai & Marie Bibika - Happy! Lucky! Dochy!.mp3]]"
 related: []
-ListenInSec: 0
+ListenInSec: 90
 CoverOf: ""
 ---
 

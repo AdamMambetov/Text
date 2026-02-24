@@ -1,7 +1,7 @@
 ---
 created: 2026-01-24T13:29:02+0300
 aliases: ["The Bangles"]
-ListenInSec: 198
+ListenInSec: 291
 ---
 
 # The Bangles

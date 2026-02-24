@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[Rika Mayama - Liar Mask (TV Size).mp3]]"
 related: []
-ListenInSec: 0
+ListenInSec: 89
 CoverOf: ""
 ---
 

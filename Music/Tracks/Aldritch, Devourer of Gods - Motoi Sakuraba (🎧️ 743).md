@@ -5,7 +5,7 @@ Cover: ""
 Year: 2019
 Album: "[[Dark Souls 3]]"
 Creators: ["[[Motoi Sakuraba (🎙️ 31)]]"]
-ListenInSec: 967
+ListenInSec: 968
 NumberInAlbum: 16
 related: []
 SourceFile: "[[Dark Souls 3 OST - 20 Aldritch, Devourer of Gods.mp3]]"

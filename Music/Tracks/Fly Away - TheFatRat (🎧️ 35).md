@@ -1,6 +1,6 @@
 ---
 Album: ""
-Creators: ["[[TheFatRat (🎙️ 500)]]","[[Anjulie (🎙️ 501)]]"]
+Creators: ["[[TheFatRat (🎙️ 500)]]", "[[Anjulie (🎙️ 501)]]"]
 Cover: "[[Fly Away.png]]"
 NumberInAlbum: 0
 SourceFile: "[[TheFatRat - Fly Away.mp3]]"

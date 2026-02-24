@@ -11,7 +11,8 @@ source: ""
 related: []
 ListenInSec: 287
 CoverOf: ""
-category: ["[[Искусственный интеллект]]"]
+category:
+  - "[[Искусственный интеллект]]"
 ---
 
 # Nightwish - Частушки Бабок-ежек

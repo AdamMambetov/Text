@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[MUCC - Nirvana (TV Size).mp3]]"
 related: []
-ListenInSec: 0
+ListenInSec: 94
 CoverOf: ""
 ---
 

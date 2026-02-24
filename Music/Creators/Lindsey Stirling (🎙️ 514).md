@@ -1,7 +1,7 @@
 ---
-created: 2026-01-23T19:40:58+03:00
+created: 2026-01-23T19:40:58+0300
 aliases: ["Lindsey Stirling"]
-ListenInSec: 0
+ListenInSec: 3
 ---
 
 # Lindsey Stirling

@@ -7,7 +7,7 @@ SourceFile: "[[Shanguy - King Of The Jungle.mp3]]"
 Year: 2018
 aliases: ["King Of The Jungle"]
 created: 2022-12-09T06:55:22+03:00
-source: "https://www.youtube.com/watch?v=HOJ7H6gh8Jo"
+source: https://www.youtube.com/watch?v=HOJ7H6gh8Jo
 related: []
 ListenInSec: 2
 CoverOf: ""

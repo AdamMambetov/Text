@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[Champ'd Up OST - Create 1.mp3]]"
 related: []
-ListenInSec: 0
+ListenInSec: 471
 CoverOf: ""
 ---
 

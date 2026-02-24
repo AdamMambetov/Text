@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[Boku no Lyric no Bouyomi - Asayake to Nettaigyo (TV Size).mp3]]"
 related: []
-ListenInSec: 0
+ListenInSec: 89
 CoverOf: ""
 ---
 

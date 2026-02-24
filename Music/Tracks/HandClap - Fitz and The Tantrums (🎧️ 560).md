@@ -9,7 +9,7 @@ aliases: ["HandClap"]
 created: 2022-12-20T23:25:04+03:00
 source: ""
 related: []
-ListenInSec: 109
+ListenInSec: 113
 CoverOf: ""
 ---
 

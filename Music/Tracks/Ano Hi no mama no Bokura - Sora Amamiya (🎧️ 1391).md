@@ -1,7 +1,6 @@
 ---
 created: 2024-12-12T21:23:46+03:00
-aliases:
-  - Ano Hi no mama no Bokura
+aliases: ["Ano Hi no mama no Bokura"]
 Cover: ""
 Year: 2024
 Album: ""

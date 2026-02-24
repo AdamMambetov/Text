@@ -1,7 +1,7 @@
 ---
-created: 2026-01-22T13:56:07+03:00
+created: 2026-01-22T13:56:07+0300
 aliases: ["Emil Bulls"]
-ListenInSec: 0
+ListenInSec: 247
 ---
 
 # Emil Bulls

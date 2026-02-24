@@ -9,7 +9,7 @@ aliases: ["Courage"]
 created: 2024-10-13T23:05:14+03:00
 source: ""
 related: []
-ListenInSec: 224
+ListenInSec: 228
 CoverOf: ""
 ---
 

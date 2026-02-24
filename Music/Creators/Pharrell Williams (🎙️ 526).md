@@ -1,7 +1,7 @@
 ---
-created: 2026-01-24T01:49:49+03:00
+created: 2026-01-24T01:49:49+0300
 aliases: ["Pharrell Williams"]
-ListenInSec: 0
+ListenInSec: 231
 ---
 
 # Pharrell Williams

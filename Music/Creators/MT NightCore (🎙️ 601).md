@@ -1,7 +1,7 @@
 ---
-created: 2026-02-02T02:15:24+03:00
+created: 2026-02-02T02:15:24+0300
 aliases: ["MT NightCore"]
-ListenInSec: 0
+ListenInSec: 3
 ---
 
 # MT NightCore

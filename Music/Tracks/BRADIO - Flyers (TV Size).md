@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[BRADIO - Flyers (TV Size).mp3]]"
 related: []
-ListenInSec: 0
+ListenInSec: 6
 CoverOf: ""
 ---
 

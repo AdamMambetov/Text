@@ -6,7 +6,7 @@ Year: 2020
 Album: "[[Lagtrain]]"
 Creators: ["[[inabakumori (🎙️ 338)]]"]
 NumberInAlbum: 0
-source: "https://youtu.be/UnIhRpIT7nc?si=Bs4kLOZBXv8XWpS5"
+source: https://youtu.be/UnIhRpIT7nc?si=Bs4kLOZBXv8XWpS5
 SourceFile: "[[inabakumori - Lagtrain.mp3]]"
 related: []
 ListenInSec: 16

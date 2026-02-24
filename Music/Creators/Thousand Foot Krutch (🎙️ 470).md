@@ -1,7 +1,7 @@
 ---
 created: 2025-11-20T00:30:17+0300
 aliases: ["Thousand Foot Krutch"]
-ListenInSec: 1110
+ListenInSec: 1120
 ---
 
 # Thousand Foot Krutch

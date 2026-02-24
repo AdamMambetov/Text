@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[Verjuski & Marie Bibika - innocent arrogance.mp3]]"
 related: []
-ListenInSec: 208
+ListenInSec: 223
 CoverOf: ""
 ---
 

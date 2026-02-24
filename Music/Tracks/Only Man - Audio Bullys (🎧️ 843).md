@@ -9,7 +9,7 @@ NumberInAlbum: 2
 source: ""
 SourceFile: "[[Audio Bullys - Only Man.mp3]]"
 related: []
-ListenInSec: 2
+ListenInSec: 8
 CoverOf: ""
 ---
 

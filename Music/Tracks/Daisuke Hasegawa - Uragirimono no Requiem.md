@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[Daisuke Hasegawa - Uragirimono no Requiem.mp3]]"
 related: []
-ListenInSec: 0
+ListenInSec: 8
 CoverOf: ""
 ---
 

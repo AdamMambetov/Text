@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[UVERworld - Colors of the Heart (TV Size).mp3]]"
 related: []
-ListenInSec: 0
+ListenInSec: 91
 CoverOf: ""
 ---
 

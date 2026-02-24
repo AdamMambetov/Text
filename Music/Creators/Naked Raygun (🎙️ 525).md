@@ -1,7 +1,7 @@
 ---
-created: 2026-01-24T01:48:27+03:00
+created: 2026-01-24T01:48:27+0300
 aliases: ["Naked Raygun"]
-ListenInSec: 0
+ListenInSec: 23
 ---
 
 # Naked Raygun

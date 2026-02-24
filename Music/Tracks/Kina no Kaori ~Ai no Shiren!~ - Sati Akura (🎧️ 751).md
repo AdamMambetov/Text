@@ -9,7 +9,7 @@ NumberInAlbum: 1
 source: ""
 SourceFile: "[[Sati Akura ft. Kun-Kun - Kina no Kaori ~Ai no Shiren!~.mp3]]"
 related: []
-ListenInSec: 565
+ListenInSec: 659
 CoverOf: ""
 ---
 

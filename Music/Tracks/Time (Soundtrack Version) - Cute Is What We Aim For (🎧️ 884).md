@@ -9,7 +9,7 @@ NumberInAlbum: 11
 source: ""
 SourceFile: "[[Cute Is What We Aim For - Time.mp3]]"
 related: []
-ListenInSec: 1
+ListenInSec: 41
 CoverOf: ""
 ---
 

@@ -9,7 +9,7 @@ aliases: ["Maniac (feat. Yann Ligner)"]
 created: 2024-10-13T22:44:14+03:00
 source: ""
 related: []
-ListenInSec: 283
+ListenInSec: 384
 CoverOf: ""
 ---
 

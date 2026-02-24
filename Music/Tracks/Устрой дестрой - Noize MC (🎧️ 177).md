@@ -9,7 +9,7 @@ NumberInAlbum: 2
 source: ""
 SourceFile: "[[Noize MC - Устрой дестрой.mp3]]"
 related: []
-ListenInSec: 1
+ListenInSec: 50
 CoverOf: ""
 ---
 

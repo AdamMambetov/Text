@@ -9,7 +9,7 @@ aliases: ["Byoumei wa Ai Datta"]
 created: 2022-10-05T13:02:22+03:00
 source: ""
 related: []
-ListenInSec: 448
+ListenInSec: 536
 CoverOf: ""
 ---
 

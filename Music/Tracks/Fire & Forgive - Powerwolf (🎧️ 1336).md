@@ -1,13 +1,11 @@
 ---
 Album: "[[The Sacrament of Sin (📀 39)]]"
-Creators:
-  - "[[Powerwolf (🎙️ 420)]]"
+Creators: ["[[Powerwolf (🎙️ 420)]]"]
 Cover: "[[Powerwolf - The Sacrament of Sin.jpg]]"
 NumberInAlbum: 1
 SourceFile: "[[Powerwolf - Fire & Forgive.mp3]]"
 Year: 2018
-aliases:
-  - Fire & Forgive
+aliases: ["Fire & Forgive"]
 created: 2024-10-30T19:15:02+03:00
 source: ""
 related: []

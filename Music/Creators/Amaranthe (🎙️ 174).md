@@ -1,7 +1,7 @@
 ---
 created: 2025-11-19T22:35:45+0300
 aliases: ["Amaranthe"]
-ListenInSec: 755
+ListenInSec: 825
 ---
 
 # Amaranthe

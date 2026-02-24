@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[Beethoven - Moonlight Sonata.mp3]]"
 related: []
-ListenInSec: 0
+ListenInSec: 82
 CoverOf: ""
 ---
 

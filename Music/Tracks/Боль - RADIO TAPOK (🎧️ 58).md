@@ -9,7 +9,7 @@ aliases: ["Боль", "Pain"]
 created: 2022-04-21T03:46:34+03:00
 source: ""
 related: []
-ListenInSec: 2
+ListenInSec: 8
 CoverOf: "[[Pain - Three Days Grace (🎧️ 257)]]"
 ---
 
