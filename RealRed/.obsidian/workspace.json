@@ -216,9 +216,24 @@
               "icon": "lucide-file",
               "title": "2026-02-24"
             }
+          },
+          {
+            "id": "2b0dd886ba0c7a04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "periodic/2026-02-25.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-02-25"
+            }
           }
         ],
-        "currentTab": 13,
+        "currentTab": 14,
         "stacked": true
       }
     ],
@@ -402,9 +417,10 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "72f602ef6e4bbd29",
+  "active": "2b0dd886ba0c7a04",
   "lastOpenFiles": [
     "periodic/2026-02-24.md",
+    "periodic/2026-02-25.md",
     "periodic/2026-02-20.md",
     "periodic/2026-02-19.md",
     "periodic/2026-02-18.md",
@@ -445,7 +461,6 @@
     "files/Pasted image 20260122180805.png",
     "files/Pasted image 20260122180738.png",
     "Задачи по выборщику в Самара Сити.md",
-    "periodic/2025-12.md",
     "отчёты/~$чет_о_работе_за_2025_12_Мамбетов_Адам_Муратович.doc",
     "отчёты/Отчет_о_работе_за_2025_12_Мамбетов_Адам_Муратович.doc",
     "отчёты/Отчет_о_работе_за_2025_11_Мамбетов_Адам_Муратович — копия.doc",
