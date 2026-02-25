@@ -13,5 +13,5 @@
     "downscalePercent": 100
   },
   "strictLineBreaks": false,
-  "openBehavior": "daily"
+  "openBehavior": ""
 }
