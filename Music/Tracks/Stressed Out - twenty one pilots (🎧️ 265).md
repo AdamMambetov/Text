@@ -9,7 +9,7 @@ aliases: ["Stressed Out"]
 created: 2022-04-22T21:49:56+03:00
 source: ""
 related: []
-ListenInSec: 132
+ListenInSec: 332
 CoverOf: ""
 ---
 

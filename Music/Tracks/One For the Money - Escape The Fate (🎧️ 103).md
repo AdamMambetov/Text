@@ -9,7 +9,7 @@ NumberInAlbum: 10
 source: ""
 SourceFile: "[[Escape The Fate - One For the Money.mp3]]"
 related: []
-ListenInSec: 6
+ListenInSec: 71
 CoverOf: ""
 ---
 

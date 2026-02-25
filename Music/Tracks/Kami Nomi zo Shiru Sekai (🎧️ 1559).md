@@ -9,7 +9,7 @@ aliases: ["Kami Nomi zo Shiru Sekai"]
 created: 2025-01-08T19:02:56+03:00
 source: ""
 related: []
-ListenInSec: 467
+ListenInSec: 556
 CoverOf: ""
 ---
 

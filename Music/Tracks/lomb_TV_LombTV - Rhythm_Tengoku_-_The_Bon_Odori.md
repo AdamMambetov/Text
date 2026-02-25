@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[lomb_TV_LombTV - Rhythm_Tengoku_-_The_Bon_Odori.mp3]]"
 related: []
-ListenInSec: 615
+ListenInSec: 727
 CoverOf: ""
 ---
 

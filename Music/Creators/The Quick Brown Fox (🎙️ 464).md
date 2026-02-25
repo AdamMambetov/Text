@@ -1,7 +1,7 @@
 ---
 created: 2025-11-20T00:28:18+0300
 aliases: ["The Quick Brown Fox"]
-ListenInSec: 96
+ListenInSec: 239
 ---
 
 # The Quick Brown Fox

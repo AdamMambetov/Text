@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[OstsForAll0 - Shiki_OST_-_Twilight.mp3]]"
 related: []
-ListenInSec: 162
+ListenInSec: 324
 CoverOf: ""
 ---
 

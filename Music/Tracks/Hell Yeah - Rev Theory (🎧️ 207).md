@@ -9,7 +9,7 @@ aliases: ["Hell Yeah"]
 created: 2022-04-22T21:27:18+03:00
 source:
 related: []
-ListenInSec: 2
+ListenInSec: 4
 CoverOf: ""
 ---
 

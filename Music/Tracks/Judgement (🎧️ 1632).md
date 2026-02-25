@@ -9,7 +9,7 @@ aliases: ["Judgement"]
 created: 2025-01-08T23:26:08+03:00
 source: ""
 related: []
-ListenInSec: 1202
+ListenInSec: 1517
 CoverOf: ""
 ---
 

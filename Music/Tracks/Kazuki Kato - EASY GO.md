@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[Kazuki Kato - EASY GO.mp3]]"
 related: []
-ListenInSec: 457
+ListenInSec: 674
 CoverOf: ""
 ---
 

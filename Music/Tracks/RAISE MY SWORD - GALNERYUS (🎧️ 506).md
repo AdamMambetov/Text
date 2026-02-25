@@ -9,7 +9,7 @@ NumberInAlbum: 1
 source: ""
 SourceFile: "[[GALNERYUS - RAISE MY SWORD.mp3]]"
 related: []
-ListenInSec: 37
+ListenInSec: 213
 CoverOf: ""
 ---
 
