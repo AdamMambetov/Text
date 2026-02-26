@@ -9,7 +9,7 @@ NumberInAlbum: 1
 source: ""
 SourceFile: "[[AKINO with bless4 - Extra Magic Hour.mp3]]"
 related: []
-ListenInSec: 531
+ListenInSec: 783
 CoverOf: ""
 ---
 

@@ -1,7 +1,7 @@
 ---
 created: 2025-11-20T00:06:05+0300
 aliases: ["Rameses B"]
-ListenInSec: 1105
+ListenInSec: 1106
 ---
 
 # Rameses B

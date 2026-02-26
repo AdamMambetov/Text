@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[Lia - Tori no Uta.mp3]]"
 related: []
-ListenInSec: 292
+ListenInSec: 683
 CoverOf: ""
 ---
 

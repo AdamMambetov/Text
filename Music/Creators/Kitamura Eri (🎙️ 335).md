@@ -1,7 +1,7 @@
 ---
 created: 2025-11-19T23:18:56+0300
 aliases: ["Kitamura Eri"]
-ListenInSec: 1988
+ListenInSec: 1991
 ---
 
 # Kitamura Eri

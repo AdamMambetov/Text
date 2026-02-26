@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[Lia - Toki wo Kizamu Uta.mp3]]"
 related: []
-ListenInSec: 1157
+ListenInSec: 1447
 CoverOf: ""
 ---
 
