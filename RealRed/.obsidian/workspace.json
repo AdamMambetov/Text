@@ -113,6 +113,21 @@
             }
           },
           {
+            "id": "b2379b084c51f0e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "periodic/2026-02-11.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-02-11"
+            }
+          },
+          {
             "id": "1b04e45bcbc45ad9",
             "type": "leaf",
             "state": {
@@ -125,6 +140,21 @@
               },
               "icon": "lucide-file",
               "title": "2026-02-12"
+            }
+          },
+          {
+            "id": "b678157875563cf6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "periodic/2026-02-13.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-02-13"
             }
           },
           {
@@ -203,6 +233,21 @@
             }
           },
           {
+            "id": "ca1eea5b11406fe9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "periodic/2026-02-22.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-02-22"
+            }
+          },
+          {
             "id": "72f602ef6e4bbd29",
             "type": "leaf",
             "state": {
@@ -231,9 +276,39 @@
               "icon": "lucide-file",
               "title": "2026-02-25"
             }
+          },
+          {
+            "id": "41e074e43ad8a7d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "periodic/2026-02-26.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-02-26"
+            }
+          },
+          {
+            "id": "889d09ea61c2c610",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "periodic/2026-02-27.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-02-27"
+            }
           }
         ],
-        "currentTab": 14,
+        "currentTab": 19,
         "stacked": true
       }
     ],
@@ -417,27 +492,32 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "2b0dd886ba0c7a04",
+  "active": "889d09ea61c2c610",
   "lastOpenFiles": [
+    "periodic/2026-02-24.md",
+    "periodic/2026-02-26.md",
+    "periodic/2026-02-27.md",
+    "periodic/2026-02-22.md",
+    "periodic/2026-02.md",
+    "periodic/2026-02-11.md",
+    "periodic/2026-02-10.md",
+    "periodic/2026-02-17.md",
+    "periodic/2026-02-09.md",
+    "periodic/2026-02-20.md",
+    "periodic/2026-02-19.md",
+    "periodic/2026-02-13.md",
+    "periodic/2026-02-12.md",
+    "periodic/2026-02-16.md",
+    "periodic/2026-02-03.md",
+    "periodic/2026-02-02.md",
+    "periodic/2026-02-25.md",
+    "periodic/2026-02-18.md",
+    "periodic/2026-02-06.md",
+    "periodic/2026-02-04.md",
     "files/Pasted image 20260225155445.png",
     "files/Pasted image 20260225155317.png",
-    "periodic/2026-02-20.md",
-    "periodic/2026-02-25.md",
-    "periodic/2026-02-24.md",
-    "periodic/2026-02-19.md",
-    "periodic/2026-02-18.md",
-    "periodic/2026-02-17.md",
-    "periodic/2026-02-16.md",
-    "periodic/2026-02-12.md",
-    "periodic/2026-02-10.md",
-    "periodic/2026-02-09.md",
-    "periodic/2026-02-06.md",
     "periodic/2026-02-05.md",
-    "periodic/2026-02-04.md",
-    "periodic/2026-02-03.md",
     "templates/daily template.md",
-    "periodic/2026-02-02.md",
-    "periodic/2026-02.md",
     "periodic/2026-01.md",
     "periodic/2026-01-28.md",
     "отчёты/~$чет_о_работе_за_2026_01_Мамбетов_Адам_Муратович.doc",
@@ -446,13 +526,9 @@
     "отчёты/~WRD0002.tmp",
     "periodic/2026-01-16.md",
     "periodic/2026-01-15.md",
-    "periodic/2026-01-12.md",
     "отчёты/~$чет_о_работе_за_2025_12_Мамбетов_Адам_Муратович 1.doc",
     "отчёты/Отчет_о_работе_за_2026_01_Мамбетов_Адам_Муратович.doc",
-    "periodic/2026-01-26.md",
     "files/Pasted image 20260126151135.png",
-    "periodic/2026-01-23.md",
-    "Сравнение плагинов RR_Apart_BP_Prepare в Татарской и Самара Сити.md",
     "files/Pasted image 20260122181929.png",
     "files/Pasted image 20260122181807.png",
     "files/Pasted image 20260122181748.png",
@@ -460,7 +536,6 @@
     "files/Pasted image 20260122181146.png",
     "files/Pasted image 20260122181030.png",
     "files/Pasted image 20260122180916.png",
-    "files/Pasted image 20260122180805.png",
     "отчёты/~$чет_о_работе_за_2025_12_Мамбетов_Адам_Муратович.doc",
     "отчёты/Отчет_о_работе_за_2025_12_Мамбетов_Адам_Муратович.doc",
     "отчёты/Отчет_о_работе_за_2025_11_Мамбетов_Адам_Муратович — копия.doc",
