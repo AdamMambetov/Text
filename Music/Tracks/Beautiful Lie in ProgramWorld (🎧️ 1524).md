@@ -9,7 +9,7 @@ aliases: ["Beautiful Lie in ProgramWorld"]
 created: 2025-01-08T17:38:06+03:00
 source: ""
 related: []
-ListenInSec: 885
+ListenInSec: 1052
 CoverOf: ""
 ---
 

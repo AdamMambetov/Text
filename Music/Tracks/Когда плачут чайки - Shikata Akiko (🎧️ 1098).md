@@ -9,7 +9,7 @@ NumberInAlbum: 241
 source: ""
 SourceFile: "[[Umineko no Naku Koro ni OST - 241 Когда плачут чайки.ogg]]"
 related: []
-ListenInSec: 192
+ListenInSec: 275
 CoverOf: ""
 ---
 

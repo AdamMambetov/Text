@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[Yuka Iguchi - Platinum Disco (TV Size).mp3]]"
 related: []
-ListenInSec: 464
+ListenInSec: 642
 CoverOf: ""
 ---
 

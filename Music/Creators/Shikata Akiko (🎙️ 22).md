@@ -1,7 +1,7 @@
 ---
 created: 2024-08-04T17:35:36+0300
 aliases: ["Shikata Akiko", "志方あきこ"]
-ListenInSec: 189
+ListenInSec: 272
 ---
 
 # Shikata Akiko

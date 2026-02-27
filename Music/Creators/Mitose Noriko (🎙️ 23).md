@@ -1,7 +1,7 @@
 ---
 created: 2024-08-04T17:37:58+0300
 aliases: ["Mitose Noriko", "みとせのりこ"]
-ListenInSec: 189
+ListenInSec: 272
 ---
 
 # Mitose Noriko

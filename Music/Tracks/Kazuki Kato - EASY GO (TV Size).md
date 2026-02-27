@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[Kazuki Kato - EASY GO (TV Size).mp3]]"
 related: []
-ListenInSec: 358
+ListenInSec: 446
 CoverOf: ""
 ---
 

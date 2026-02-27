@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[lomb_TV_LombTV - Rhythm_Tengoku_-_Remix_2.mp3]]"
 related: []
-ListenInSec: 704
+ListenInSec: 830
 CoverOf: ""
 ---
 

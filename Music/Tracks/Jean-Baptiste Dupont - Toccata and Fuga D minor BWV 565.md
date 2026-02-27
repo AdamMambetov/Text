@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[Jean-Baptiste Dupont - Toccata and Fuga D minor BWV 565.mp3]]"
 related: []
-ListenInSec: 459
+ListenInSec: 1071
 CoverOf: ""
 ---
 

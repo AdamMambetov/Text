@@ -9,7 +9,7 @@ aliases: ["Notion"]
 created: 2022-12-20T10:49:48+03:00
 source: ""
 related: []
-ListenInSec: 588
+ListenInSec: 780
 CoverOf: ""
 ---
 

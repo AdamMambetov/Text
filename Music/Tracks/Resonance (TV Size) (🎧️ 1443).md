@@ -9,7 +9,7 @@ aliases: ["Resonance (TV Size)"]
 created: 2025-01-07T21:01:16+03:00
 source:
 related: []
-ListenInSec: 439
+ListenInSec: 528
 CoverOf: ""
 ---
 

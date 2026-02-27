@@ -9,7 +9,7 @@ aliases: ["Lay Your Hands on Me"]
 created: 2024-10-13T22:27:12+03:00
 source: ""
 related: []
-ListenInSec: 647
+ListenInSec: 967
 CoverOf: ""
 ---
 
