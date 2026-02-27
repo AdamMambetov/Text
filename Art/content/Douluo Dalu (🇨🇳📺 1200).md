@@ -7,7 +7,7 @@ Status: watch
 Type: anime
 Cover: "[[douluo_dalu_anime_cover.jpg]]"
 Year: 2018
-Episode: 79
+Episode: 80
 ---
 
 # Боевой континент
