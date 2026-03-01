@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[Serena_-3 - Re_-Zero_kara_Hajimeru_Isekai_Seikatsu_Ost_07_Promenade_of_Whistles_and_Creation.mp3]]"
 related: []
-ListenInSec: 632
+ListenInSec: 646
 CoverOf: ""
 ---
 

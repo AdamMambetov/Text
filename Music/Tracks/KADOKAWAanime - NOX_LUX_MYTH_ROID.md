@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[KADOKAWAanime - NOX_LUX_MYTH_ROID.mp3]]"
 related: []
-ListenInSec: 89
+ListenInSec: 113
 CoverOf: ""
 ---
 

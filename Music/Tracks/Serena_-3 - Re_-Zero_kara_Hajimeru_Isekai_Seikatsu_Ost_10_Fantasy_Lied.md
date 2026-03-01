@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[Serena_-3 - Re_-Zero_kara_Hajimeru_Isekai_Seikatsu_Ost_10_Fantasy_Lied.mp3]]"
 related: []
-ListenInSec: 757
+ListenInSec: 762
 CoverOf: ""
 ---
 

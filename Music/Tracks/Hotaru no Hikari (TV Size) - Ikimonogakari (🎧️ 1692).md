@@ -8,9 +8,9 @@ Creators: ["[[Ikimonogakari (🎙️ 57)]]"]
 NumberInAlbum: 3
 source: ""
 SourceFile: "[[Ikimonogakari - Hotaru no Hikari (TV Size).mp3]]"
-related:
+related: []
   - "[[Hotaru no Hikari - Ikimonogakari (🎧️ 1680)]]"
-ListenInSec: 962
+ListenInSec: 968
 CoverOf: ""
 ---
 

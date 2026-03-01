@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[Natsuki_Subaru - Re_-Zero_2nd_Season_OST_-_Disc_1_-_10._A_Fleeting_Moment.mp3]]"
 related: []
-ListenInSec: 101
+ListenInSec: 107
 CoverOf: ""
 ---
 

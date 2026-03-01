@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[Serena_-3 - ReZero_kara_Hajimeru_Isekai_Seikatsu_Ost_04_Timbre_of_the_Beginning.mp3]]"
 related: []
-ListenInSec: 125
+ListenInSec: 254
 CoverOf: ""
 ---
 

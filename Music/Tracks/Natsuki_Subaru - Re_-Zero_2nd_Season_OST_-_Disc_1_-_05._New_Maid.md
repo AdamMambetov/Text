@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[Natsuki_Subaru - Re_-Zero_2nd_Season_OST_-_Disc_1_-_05._New_Maid.mp3]]"
 related: []
-ListenInSec: 96
+ListenInSec: 118
 CoverOf: ""
 ---
 

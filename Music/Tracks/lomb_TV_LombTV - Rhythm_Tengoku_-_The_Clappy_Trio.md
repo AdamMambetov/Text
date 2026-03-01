@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[lomb_TV_LombTV - Rhythm_Tengoku_-_The_Clappy_Trio.mp3]]"
 related: []
-ListenInSec: 627
+ListenInSec: 714
 CoverOf: ""
 ---
 

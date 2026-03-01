@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[Serena_-3 - ReZero_kara_Hajimeru_Isekai_Seikatsu_Ost_01_Rondo_of_Love_and_Darkness_Main_Theme.mp3]]"
 related: []
-ListenInSec: 228
+ListenInSec: 418
 CoverOf: ""
 ---
 

@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[Serena_-3 - Re_-Zero_kara_Hajimeru_Isekai_Seikatsu_Ost_05_March_from_Another_World.mp3]]"
 related: []
-ListenInSec: 355
+ListenInSec: 475
 CoverOf: ""
 ---
 

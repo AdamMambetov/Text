@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[DEAN FUJIOKA - History Maker (TV Size).mp3]]"
 related: []
-ListenInSec: 89
+ListenInSec: 178
 CoverOf: ""
 ---
 

@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[millennium parade - WORK (TV Size).mp3]]"
 related: []
-ListenInSec: 0
+ListenInSec: 12
 CoverOf: ""
 ---
 

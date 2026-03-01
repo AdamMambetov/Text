@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[Serena_-3 - ReZero_kara_Hajimeru_Isekai_Seikatsu_Ost_02_Death_Ballet.mp3]]"
 related: []
-ListenInSec: 167
+ListenInSec: 337
 CoverOf: ""
 ---
 

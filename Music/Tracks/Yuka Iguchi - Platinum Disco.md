@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[Yuka Iguchi - Platinum Disco.mp3]]"
 related: []
-ListenInSec: 1148
+ListenInSec: 1402
 CoverOf: ""
 ---
 

@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[Serena_-3 - Re_-Zero_kara_Hajimeru_Isekai_Seikatsu_Ost_15_Gray_Trane.mp3]]"
 related: []
-ListenInSec: 195
+ListenInSec: 403
 CoverOf: ""
 ---
 

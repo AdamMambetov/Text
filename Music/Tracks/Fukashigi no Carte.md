@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[Fukashigi no Carte.mp3]]"
 related: []
-ListenInSec: 300
+ListenInSec: 313
 CoverOf: ""
 ---
 

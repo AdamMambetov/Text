@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[Crunchyroll - Re_-ZERO_-Starting_Life_in_Another_World-_Season_2_-_Ending_1_Memento.mp3]]"
 related: []
-ListenInSec: 89
+ListenInSec: 177
 CoverOf: ""
 ---
 

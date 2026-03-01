@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[Casey Edwards - Devil Trigger - Nero's battle theme from Devil May Cry 5 [OFFICIAL AUDIO].mp3]]"
 related: []
-ListenInSec: 1985
+ListenInSec: 1987
 CoverOf: ""
 ---
 

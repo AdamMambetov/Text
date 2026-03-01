@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[Mayu Maeshima - Ruler.mp3]]"
 related: []
-ListenInSec: 462
+ListenInSec: 467
 CoverOf: ""
 ---
 

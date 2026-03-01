@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[Natsuki_Subaru - Re_-Zero_2nd_Season_OST_-_Disc_1_-_06._Petra.mp3]]"
 related: []
-ListenInSec: 134
+ListenInSec: 141
 CoverOf: ""
 ---
 

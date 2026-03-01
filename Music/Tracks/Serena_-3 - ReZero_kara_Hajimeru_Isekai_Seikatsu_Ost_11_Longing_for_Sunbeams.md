@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[Serena_-3 - ReZero_kara_Hajimeru_Isekai_Seikatsu_Ost_11_Longing_for_Sunbeams.mp3]]"
 related: []
-ListenInSec: 210
+ListenInSec: 337
 CoverOf: ""
 ---
 

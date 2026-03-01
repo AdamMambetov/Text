@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[Natsuki_Subaru - Re_-Zero_2nd_Season_OST_-_Disc_2_-_05._Rural_Flute.mp3]]"
 related: []
-ListenInSec: 148
+ListenInSec: 296
 CoverOf: ""
 ---
 

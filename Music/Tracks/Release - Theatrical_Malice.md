@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[Release - Theatrical_Malice.mp3]]"
 related: []
-ListenInSec: 268
+ListenInSec: 470
 CoverOf: ""
 ---
 

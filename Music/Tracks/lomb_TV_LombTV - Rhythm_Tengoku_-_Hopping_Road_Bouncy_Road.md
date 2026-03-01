@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[lomb_TV_LombTV - Rhythm_Tengoku_-_Hopping_Road_Bouncy_Road.mp3]]"
 related: []
-ListenInSec: 350
+ListenInSec: 398
 CoverOf: ""
 ---
 

@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[J.S. Bach - Toccata and Fugue in D Minor, BWV 565.mp3]]"
 related: []
-ListenInSec: 556
+ListenInSec: 790
 CoverOf: ""
 ---
 

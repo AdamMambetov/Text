@@ -9,7 +9,7 @@ NumberInAlbum: 161
 source: ""
 SourceFile: "[[Umineko no Naku Koro ni OST - 161 АРОМАТ ПОДОЗРЕНИЯ.ogg]]"
 related: []
-ListenInSec: 189
+ListenInSec: 383
 CoverOf: ""
 ---
 
