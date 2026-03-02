@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[Mittsies - Vitality.mp3]]"
 related: []
-ListenInSec: 449
+ListenInSec: 674
 CoverOf: ""
 ---
 

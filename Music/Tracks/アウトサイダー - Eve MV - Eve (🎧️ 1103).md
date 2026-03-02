@@ -9,7 +9,7 @@ aliases: ["アウトサイダー - Eve MV"]
 created: 2024-10-05T14:25:42+03:00
 source: ""
 related: []
-ListenInSec: 218
+ListenInSec: 426
 CoverOf: ""
 ---
 

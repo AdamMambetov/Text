@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[Serena_-3 - Re_-Zero_kara_Hajimeru_Isekai_Seikatsu_Ost_02_Takt_of_Heroes_Origin.mp3]]"
 related: []
-ListenInSec: 344
+ListenInSec: 357
 CoverOf: ""
 ---
 

@@ -9,7 +9,7 @@ aliases: ["Chiisana Koi no Uta"]
 created: 2022-10-05T13:03:52+03:00
 source: ""
 related: []
-ListenInSec: 268
+ListenInSec: 546
 CoverOf: ""
 ---
 

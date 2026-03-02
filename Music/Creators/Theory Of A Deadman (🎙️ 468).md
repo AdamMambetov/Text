@@ -1,7 +1,7 @@
 ---
 created: 2025-11-20T00:29:48+0300
 aliases: ["Theory Of A Deadman"]
-ListenInSec: 433
+ListenInSec: 724
 ---
 
 # Theory Of A Deadman

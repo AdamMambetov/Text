@@ -9,7 +9,7 @@ aliases: ["Afternoon of Konoha"]
 created: 2025-02-03T08:22:32+03:00
 source:
 related: []
-ListenInSec: 16
+ListenInSec: 117
 CoverOf: ""
 ---
 

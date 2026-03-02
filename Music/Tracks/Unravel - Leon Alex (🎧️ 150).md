@@ -9,7 +9,7 @@ aliases: ["Unravel", "Tokyo Ghoul OP 1"]
 created: 2022-04-22T21:03:38+03:00
 source: ""
 related: []
-ListenInSec: 10
+ListenInSec: 100
 CoverOf: ""
 ---
 

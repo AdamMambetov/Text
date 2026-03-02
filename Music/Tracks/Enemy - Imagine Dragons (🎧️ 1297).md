@@ -9,7 +9,7 @@ NumberInAlbum: 1
 source: ""
 SourceFile: "[[Imagine Dragons - Enemy.mp3]]"
 related: []
-ListenInSec: 335
+ListenInSec: 506
 CoverOf: ""
 ---
 

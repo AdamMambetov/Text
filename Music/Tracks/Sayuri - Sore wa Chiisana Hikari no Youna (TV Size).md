@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[Sayuri - Sore wa Chiisana Hikari no Youna (TV Size).mp3]]"
 related: []
-ListenInSec: 89
+ListenInSec: 171
 CoverOf: ""
 ---
 

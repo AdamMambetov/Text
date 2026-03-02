@@ -9,7 +9,7 @@ NumberInAlbum: 1
 source: ""
 SourceFile: "[[Fall Out Boy - The Phoenix.mp3]]"
 related: []
-ListenInSec: 4
+ListenInSec: 12
 CoverOf: ""
 ---
 

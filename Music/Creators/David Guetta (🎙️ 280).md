@@ -1,7 +1,7 @@
 ---
-created: 2025-11-19T22:58:15+03:00
+created: 2025-11-19T22:58:15+0300
 aliases: ["David Guetta"]
-ListenInSec: 0
+ListenInSec: 190
 ---
 
 # David Guetta

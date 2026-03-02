@@ -1,7 +1,7 @@
 ---
-created: 2025-11-19T23:58:07+03:00
+created: 2025-11-19T23:58:07+0300
 aliases: ["NotADub"]
-ListenInSec: 0
+ListenInSec: 242
 ---
 
 # NotADub

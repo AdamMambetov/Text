@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[Hiroyuki Sawano - LEvel (TV Size).mp3]]"
 related: []
-ListenInSec: 274
+ListenInSec: 363
 CoverOf: ""
 ---
 

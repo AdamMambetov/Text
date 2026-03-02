@@ -9,7 +9,7 @@ aliases: ["Crossing Field", "Sword Art Online 1 OP", "Мастера меча о
 created: 2022-04-28T01:58:48+03:00
 source: ""
 related: []
-ListenInSec: 254
+ListenInSec: 505
 CoverOf: "[[Crossing Field - LiSA (🎧️ 1437)]]"
 ---
 

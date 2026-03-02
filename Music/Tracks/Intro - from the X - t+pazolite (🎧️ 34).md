@@ -9,7 +9,7 @@ aliases: ["Intro - from the X"]
 created: 2022-04-21T01:53:57+03:00
 source: ""
 related: []
-ListenInSec: 4
+ListenInSec: 11
 CoverOf: ""
 ---
 

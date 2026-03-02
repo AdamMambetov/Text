@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[Toni's Music Library - Fired Up (Game Version) (Clean).mp3]]"
 related: []
-ListenInSec: 0
+ListenInSec: 39
 CoverOf: ""
 ---
 

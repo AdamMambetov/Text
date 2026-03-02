@@ -9,7 +9,7 @@ NumberInAlbum: 1
 source: ""
 SourceFile: "[[blackbear - hot girl bummer.mp3]]"
 related: []
-ListenInSec: 1
+ListenInSec: 6
 CoverOf: ""
 ---
 

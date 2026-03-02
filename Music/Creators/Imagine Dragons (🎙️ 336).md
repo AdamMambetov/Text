@@ -1,7 +1,7 @@
 ---
 created: 2025-11-19T23:19:19+0300
 aliases: ["Imagine Dragons"]
-ListenInSec: 2425
+ListenInSec: 2845
 ---
 
 # Imagine Dragons

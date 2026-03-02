@@ -9,7 +9,7 @@ aliases: ["This Is War"]
 created: 2025-01-08T20:44:38+03:00
 source: ""
 related: []
-ListenInSec: 586
+ListenInSec: 854
 CoverOf: "[[This Is War - Thirty Seconds to Mars (🎧️ 251)]]"
 ---
 

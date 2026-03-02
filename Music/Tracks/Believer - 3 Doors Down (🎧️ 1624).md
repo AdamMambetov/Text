@@ -2,7 +2,7 @@
 created: 2023-09-29T16:22:43+03:00
 aliases: ["Believer"]
 Creators: ["[[3 Doors Down (🎙️ 32)]]"]
-ListenInSec: 199
+ListenInSec: 375
 source:
 SourceFile: "[[3 Doors Down - Believer.mp3]]"
 Cover: ""
