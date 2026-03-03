@@ -1,6 +1,6 @@
 ---
 created: 2025-07-31T15:52:12+03:00
-aliases: ["Mittsies - Vitality"]
+aliases: ["Mittsies - Vitality","Helltaker"]
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
