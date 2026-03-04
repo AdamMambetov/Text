@@ -8,7 +8,7 @@ SourceFile: "[[supercell - Kimi no Shiranai (TV Size).mp3]]"
 Cover: ""
 NumberInAlbum: 0
 related: []
-ListenInSec: 1081
+ListenInSec: 1170
 CoverOf: ""
 ---
 

@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[Serena_-3 - ReZero_kara_Hajimeru_Isekai_Seikatsu_Ost_07_Appa.mp3]]"
 related: []
-ListenInSec: 281
+ListenInSec: 371
 CoverOf: ""
 ---
 

@@ -9,7 +9,7 @@ aliases: ["Core Pride"]
 created: 2024-10-23T13:23:32+03:00
 source: ""
 related: []
-ListenInSec: 1086
+ListenInSec: 1341
 CoverOf: ""
 ---
 

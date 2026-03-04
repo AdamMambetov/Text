@@ -8,7 +8,7 @@ NumberInAlbum: 1
 source: ""
 SourceFile: "[[Creepy Nuts - Bling-Bang-Bang-Born (TV Size).mp3]]"
 related: []
-ListenInSec: 89
+ListenInSec: 178
 CoverOf: ""
 ---
 

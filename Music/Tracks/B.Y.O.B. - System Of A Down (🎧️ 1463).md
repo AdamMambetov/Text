@@ -1,11 +1,11 @@
 ---
 Album: ""
-Creators: []
-Cover: ""
+Creators: ["[[System Of A Down (🎙️ 455)]]"]
+Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 1
 SourceFile: "[[System Of A Down - B.Y.O.B..mp3]]"
 Year: 0
-aliases: []
+aliases: ["B.Y.O.B.","BYOB"]
 created: 2025-01-08T00:53:40+03:00
 source: ""
 related: []

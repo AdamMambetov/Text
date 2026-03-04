@@ -9,7 +9,7 @@ aliases: ["It's the Training!"]
 created: 2022-04-28T17:50:38+03:00
 source:
 related: []
-ListenInSec: 6
+ListenInSec: 11
 CoverOf: ""
 ---
 
