@@ -9,7 +9,7 @@ NumberInAlbum: 1
 source: ""
 SourceFile: "[[HaruWei - Story.mp3]]"
 related: []
-ListenInSec: 668
+ListenInSec: 888
 CoverOf: "[[Story (🎧️ 1566)]]"
 ---
 

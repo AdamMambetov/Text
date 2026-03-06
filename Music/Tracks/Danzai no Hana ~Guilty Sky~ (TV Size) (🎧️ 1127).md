@@ -9,7 +9,7 @@ aliases: ["Danzai no Hana ~Guilty Sky~ (TV Size)"]
 created: 2024-10-05T14:44:43+03:00
 source: ""
 related: []
-ListenInSec: 441
+ListenInSec: 524
 CoverOf: ""
 ---
 

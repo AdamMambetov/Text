@@ -9,7 +9,7 @@ aliases: ["Because I Got High (Extended Version)"]
 created: 2025-02-03T08:27:32+03:00
 source: ""
 related: []
-ListenInSec: 1216
+ListenInSec: 1525
 CoverOf: ""
 ---
 

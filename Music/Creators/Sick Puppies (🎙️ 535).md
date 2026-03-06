@@ -1,7 +1,7 @@
 ---
-created: 2026-01-24T13:25:01+03:00
+created: 2026-01-24T13:25:01+0300
 aliases: ["Sick Puppies"]
-ListenInSec: 0
+ListenInSec: 7
 ---
 
 # Sick Puppies

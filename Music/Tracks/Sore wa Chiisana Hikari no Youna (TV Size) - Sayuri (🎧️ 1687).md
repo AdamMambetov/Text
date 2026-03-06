@@ -1,10 +1,10 @@
 ---
 created: 2025-06-02T23:41:52+03:00
-aliases: ["Sayuri - Sore wa Chiisana Hikari no Youna (TV Size)"]
+aliases: ["Sore wa Chiisana Hikari no Youna (TV Size)","Boku dake ga Inai Machi ED 1 (TV Size)","Erased ED 1 (TV Size)","Город в котором меня нет ED 1 (TV Size)"]
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
-Creators: []
+Creators: ["[[Sayuri (🎙️ 641)]]"]
 NumberInAlbum: 0
 source: ""
 SourceFile: "[[Sayuri - Sore wa Chiisana Hikari no Youna (TV Size).mp3]]"

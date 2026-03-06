@@ -1,7 +1,7 @@
 ---
-created: 2026-01-22T03:54:18+03:00
+created: 2026-01-22T03:54:18+0300
 aliases: ["Rock"]
-ListenInSec: 0
+ListenInSec: 5
 ---
 
 # Rock

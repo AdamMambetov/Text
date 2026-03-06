@@ -1,7 +1,7 @@
 ---
-created: 2026-01-22T14:22:08+03:00
+created: 2026-01-22T14:22:08+0300
 aliases: ["Get Scared"]
-ListenInSec: 0
+ListenInSec: 160
 ---
 
 # Get Scared

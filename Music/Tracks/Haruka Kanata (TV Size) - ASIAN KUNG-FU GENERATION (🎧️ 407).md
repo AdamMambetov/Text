@@ -9,7 +9,7 @@ aliases: ["Haruka Kanata (TV Size)"]
 created: 2022-05-02T03:40:20+03:00
 source:
 related: []
-ListenInSec: 23
+ListenInSec: 111
 CoverOf: ""
 ---
 

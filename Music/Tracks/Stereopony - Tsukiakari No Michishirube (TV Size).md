@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[Stereopony - Tsukiakari No Michishirube (TV Size).mp3]]"
 related: []
-ListenInSec: 363
+ListenInSec: 454
 CoverOf: ""
 ---
 

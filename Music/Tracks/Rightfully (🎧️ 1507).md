@@ -9,7 +9,7 @@ aliases: ["Rightfully"]
 created: 2025-01-08T16:52:28+03:00
 source: ""
 related: []
-ListenInSec: 1802
+ListenInSec: 2022
 CoverOf: ""
 ---
 

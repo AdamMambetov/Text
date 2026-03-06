@@ -9,7 +9,7 @@ aliases: ["Cirno no Perfect Sansuu Kyoushitsu"]
 created: 2022-10-05T13:30:38+03:00
 source: ""
 related: []
-ListenInSec: 123
+ListenInSec: 250
 CoverOf: ""
 ---
 

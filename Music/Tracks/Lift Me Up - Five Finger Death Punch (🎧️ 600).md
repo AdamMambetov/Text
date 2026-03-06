@@ -9,7 +9,7 @@ NumberInAlbum: 3
 source: ""
 SourceFile: "[[Five Finger Death Punch - Lift Me Up.mp3]]"
 related: []
-ListenInSec: 3
+ListenInSec: 247
 CoverOf: ""
 ---
 

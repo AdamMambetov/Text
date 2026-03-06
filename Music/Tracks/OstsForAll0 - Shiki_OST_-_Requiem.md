@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[OstsForAll0 - Shiki_OST_-_Requiem.mp3]]"
 related: []
-ListenInSec: 535
+ListenInSec: 730
 CoverOf: ""
 ---
 

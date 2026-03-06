@@ -1,10 +1,10 @@
 ---
 created: 2025-06-02T23:50:10+03:00
-aliases: ["Boku no Lyric no Bouyomi - Asayake to Nettaigyo (TV Size)"]
+aliases: ["Asayake to Nettaigyo (TV Size)","Kokkoku ED 1 (TV Size)","Миг за мигом ED 1 (TV Size)"]
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
-Creators: []
+Creators: ["[[Boku no Lyric no Bouyomi (🎙️ 642)]]"]
 NumberInAlbum: 0
 source: ""
 SourceFile: "[[Boku no Lyric no Bouyomi - Asayake to Nettaigyo (TV Size).mp3]]"

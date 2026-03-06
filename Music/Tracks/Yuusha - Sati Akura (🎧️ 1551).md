@@ -9,7 +9,7 @@ aliases: ["Yuusha"]
 created: 2025-01-08T19:27:30+03:00
 source: ""
 related: []
-ListenInSec: 1005
+ListenInSec: 1199
 CoverOf: "[[Yuusha (🎧️ 1571)]]"
 ---
 

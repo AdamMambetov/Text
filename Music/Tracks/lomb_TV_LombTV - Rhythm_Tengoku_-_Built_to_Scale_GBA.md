@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[lomb_TV_LombTV - Rhythm_Tengoku_-_Built_to_Scale_GBA.mp3]]"
 related: []
-ListenInSec: 817
+ListenInSec: 911
 CoverOf: ""
 ---
 

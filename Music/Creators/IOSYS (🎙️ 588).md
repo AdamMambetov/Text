@@ -1,7 +1,7 @@
 ---
-created: 2026-02-02T01:30:22+03:00
+created: 2026-02-02T01:30:22+0300
 aliases: ["IOSYS"]
-ListenInSec: 0
+ListenInSec: 127
 ---
 
 # IOSYS

@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[Lia - Tori no Uta (TV Size).mp3]]"
 related: []
-ListenInSec: 609
+ListenInSec: 710
 CoverOf: ""
 ---
 

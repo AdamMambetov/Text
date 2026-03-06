@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[Linked Horizon - Shinzou wo Sasageyo (TV Size).mp3]]"
 related: []
-ListenInSec: 354
+ListenInSec: 531
 CoverOf: ""
 ---
 

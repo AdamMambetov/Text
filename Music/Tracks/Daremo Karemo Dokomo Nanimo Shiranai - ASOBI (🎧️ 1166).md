@@ -9,7 +9,7 @@ NumberInAlbum: 1
 source: ""
 SourceFile: "[[ASOBI - Daremo Karemo Dokomo Nanimo Shiranai.mp3]]"
 related: []
-ListenInSec: 328
+ListenInSec: 778
 CoverOf: ""
 ---
 

@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[Roro Ai & Kari - Mission! Ken·Kou·Dai·Ichi.mp3]]"
 related: []
-ListenInSec: 276
+ListenInSec: 460
 CoverOf: ""
 ---
 
