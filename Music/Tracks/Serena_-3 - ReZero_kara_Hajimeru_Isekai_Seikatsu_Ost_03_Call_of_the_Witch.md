@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[Serena_-3 - ReZero_kara_Hajimeru_Isekai_Seikatsu_Ost_03_Call_of_the_Witch.mp3]]"
 related: []
-ListenInSec: 606
+ListenInSec: 621
 CoverOf: ""
 ---
 

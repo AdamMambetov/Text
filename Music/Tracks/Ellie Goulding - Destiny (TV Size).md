@@ -9,7 +9,7 @@ NumberInAlbum: 0
 source: ""
 SourceFile: "[[Ellie Goulding - Destiny (TV Size).mp3]]"
 related: []
-ListenInSec: 800
+ListenInSec: 889
 CoverOf: ""
 ---
 

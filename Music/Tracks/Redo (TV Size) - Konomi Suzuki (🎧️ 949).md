@@ -9,7 +9,7 @@ NumberInAlbum: 1
 source: ""
 SourceFile: "[[Konomi Suzuki - Redo (TV Size).mp3]]"
 related: []
-ListenInSec: 714
+ListenInSec: 802
 CoverOf: ""
 ---
 

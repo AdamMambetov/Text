@@ -1,7 +1,7 @@
 ---
 created: 2025-11-19T22:58:54+0300
 aliases: ["DeadLock"]
-ListenInSec: 1432
+ListenInSec: 1722
 ---
 
 # DeadLock
