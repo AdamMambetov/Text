@@ -23,3 +23,17 @@ views:
       - file.name
     columnSize:
       note.Year: 93
+  - type: table
+    name: invalid
+    filters:
+      or:
+        - valid == null
+        - valid == false
+    order:
+      - valid
+      - file.name
+    sort:
+      - property: created
+        direction: ASC
+    columnSize:
+      file.name: 310
