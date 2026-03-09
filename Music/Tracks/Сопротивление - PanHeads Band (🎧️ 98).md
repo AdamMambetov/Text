@@ -1,16 +1,17 @@
 ---
-Album: "[[The Resistance ~ Skillet [] {PanHeads Band}]]"
+Album: ""
 Creators: ["[[PanHeads Band (🎙️ 411)]]"]
-Cover: ""
-NumberInAlbum: 1
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[PANHEADS BAND - Сопротивление.mp3]]"
 Year: 2021
-aliases: ["Сопротивление"]
+aliases: ["Сопротивление","The Resistance"]
 created: 2022-04-21T05:10:22+03:00
 source: ""
 related: []
 ListenInSec: 181
-CoverOf: ""
+CoverOf: "[[The Resistance - Skillet (🎧️ 318)]]"
+valid: true
 ---
 
 # PanHeads Band - Сопротивление

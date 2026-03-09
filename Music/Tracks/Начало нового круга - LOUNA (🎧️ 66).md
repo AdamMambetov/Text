@@ -1,8 +1,8 @@
 ---
-Album: "[[Начало нового круга [2020] {LOUNA}]]"
+Album: ""
 Creators: ["[[LOUNA (🎙️ 370)]]"]
-Cover: ""
-NumberInAlbum: 3
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: -1
 SourceFile: "[[LOUNA - Начало нового круга.mp3]]"
 Year: 2020
 aliases: ["Начало нового круга"]
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 430
 CoverOf: ""
+valid: true
 ---
 
 # LOUNA - Начало нового круга

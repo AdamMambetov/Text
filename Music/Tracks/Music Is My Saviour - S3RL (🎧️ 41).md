@@ -1,7 +1,7 @@
 ---
 Album: "[[Music Is My Savior]]"
-Creators: ["[[S3RL (🎙️ 503)]]", "[[Mixie Moon (🎙️ 504)]]"]
-Cover: ""
+Creators: ["[[S3RL (🎙️ 503)]]","[[Mixie Moon (🎙️ 504)]]"]
+Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 0
 SourceFile: "[[S3RL - Music Is My Saviour.mp3]]"
 Year: 0
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 2
 CoverOf: ""
+valid: true
 ---
 
 # S3RL - Music Is My Saviour

@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 17
 CoverOf: ""
+valid: true
 ---
 
 # Vigiland - Friday Night

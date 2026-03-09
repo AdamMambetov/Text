@@ -1,7 +1,7 @@
 ---
 Album: "[[Sono Chi no Kioku end of THE WORLD [2021] {Coconut Dog, Марк Счётчиков, Seraph}]]"
 Creators: ["[[Onsa Media (🎙️ 404)]]"]
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 0
 SourceFile: "[[Onsa Media - Sono Chi no Kioku end of THE WORLD.mp3]]"
 Year: 0
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 2
 CoverOf: ""
+valid: true
 ---
 
 # Onsa Media - Sono Chi no Kioku end of THE WORLD

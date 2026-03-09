@@ -1,16 +1,17 @@
 ---
 created: 2022-04-21T03:54:48+03:00
-aliases: ["Монстр"]
-Cover: ""
+aliases: ["Монстр","Monster"]
+Cover: "[[_No Album Art.jpg]]"
 Year: 2020
-Album: "[[Monster ~ Skillet [2020] {RADIO TAPOK}]]"
+Album: ""
 Creators: ["[[RADIO TAPOK (🎙️ 423)]]"]
-NumberInAlbum: 1
+NumberInAlbum: 0
 source: ""
 SourceFile: "[[RADIO TAPOK - Monster.mp3]]"
 related: []
 ListenInSec: 3
-CoverOf: ""
+CoverOf: "[[Monster - Skillet (🎧️ 320)]]"
+valid: true
 ---
 
 # RADIO TAPOK - Monster

@@ -1,8 +1,8 @@
 ---
-Album: "[[Folie a Deux [2008] {Fall Out Boy}]]"
+Album: ""
 Creators: ["[[Fall Out Boy (🎙️ 308)]]"]
-Cover: ""
-NumberInAlbum: 3
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[Fall Out Boy - She's My Winona.mp3]]"
 Year: 2008
 aliases: ["She's My Winona"]
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 6
 CoverOf: ""
+valid: true
 ---
 
 # Fall Out Boy - She's My Winona

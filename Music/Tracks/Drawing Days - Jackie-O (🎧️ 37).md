@@ -10,7 +10,8 @@ created: 2022-04-21T01:54:00+03:00
 source: ""
 related: []
 ListenInSec: 278
-CoverOf: "[[Drawing Days]]"
+CoverOf: ""
+valid: true
 ---
 
 # Jackie-O - Drawing Days

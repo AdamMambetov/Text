@@ -1,8 +1,8 @@
 ---
-Album: "[[Recovery [2010] {Eminem}]]"
+Album: ""
 Creators: ["[[Eminem (🎙️ 294)]]"]
-Cover: ""
-NumberInAlbum: 7
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: -1
 SourceFile: "[[Eminem - Not Afraid.mp3]]"
 Year: 2010
 aliases: ["Not Afraid"]
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 259
 CoverOf: ""
+valid: true
 ---
 
 # Eminem - Not Afraid

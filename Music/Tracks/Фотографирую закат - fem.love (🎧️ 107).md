@@ -1,8 +1,8 @@
 ---
-Album: "[[Разбитые сердца [2020] {fem.love}]]"
+Album: ""
 Creators: ["[[fem.love (🎙️ 310)]]"]
-Cover: ""
-NumberInAlbum: 2
+Cover: "[[fem.love - Разбитые сердца.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[fem.love - Фотографирую закат.mp3]]"
 Year: 2020
 aliases: ["Фотографирую закат"]
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 2
 CoverOf: ""
+valid: true
 ---
 
 # fem.love - Фотографирую закат

@@ -1,7 +1,7 @@
 ---
 Album: "[[Greetings]]"
 Creators: ["[[VINXIS (🎙️ 502)]]"]
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 0
 SourceFile: "[[VINXIS - Greetings.mp3]]"
 Year: 0
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 172
 CoverOf: ""
+valid: true
 ---
 
 # VINXIS - Greetings

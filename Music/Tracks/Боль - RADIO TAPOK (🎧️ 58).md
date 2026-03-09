@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 8
 CoverOf: "[[Pain - Three Days Grace (🎧️ 257)]]"
+valid: true
 ---
 
 # RADIO TAPOK - Pain

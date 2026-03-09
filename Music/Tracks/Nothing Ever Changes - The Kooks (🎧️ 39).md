@@ -1,7 +1,7 @@
 ---
-Album: "[[Konk Deluxe]]"
+Album: ""
 Creators: ["[[The Kooks (🎙️ 459)]]"]
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 0
 SourceFile: "[[The Kooks - Nothing Ever Changes.mp3]]"
 Year: 0
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 133
 CoverOf: ""
+valid: true
 ---
 
 # The Kooks - Nothing Ever Changes

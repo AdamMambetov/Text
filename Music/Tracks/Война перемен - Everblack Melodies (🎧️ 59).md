@@ -1,16 +1,17 @@
 ---
-Album: "[[War of Change ~ Thousand Foot Crutch [2020] {Everblack Melodies}]]"
+Album: ""
 Creators: ["[[Everblack Melodies (🎙️ 307)]]"]
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 1
 SourceFile: "[[Everblack Melodies - Война перемен.mp3]]"
 Year: 2020
-aliases: ["Война перемен"]
+aliases: ["Война перемен","War of Change"]
 created: 2022-04-21T03:46:50+03:00
 source: ""
 related: []
 ListenInSec: 433
-CoverOf: ""
+CoverOf: "[[War of Change - Thousand Foot Krutch (🎧️ 255)]]"
+valid: true
 ---
 
 # Everblack Melodies - Война перемен

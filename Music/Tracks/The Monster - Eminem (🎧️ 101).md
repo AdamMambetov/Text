@@ -1,8 +1,8 @@
 ---
-Album: "[[The Marshall Mathers LP2  [2013] {Eminem; Rihanna}]]"
-Creators: ["[[Eminem (🎙️ 294)]]"]
-Cover: ""
-NumberInAlbum: 12
+Album: ""
+Creators: ["[[Eminem (🎙️ 294)]]","[[Rihanna (🎙️ 658)]]"]
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[Eminem - The Monster.mp3]]"
 Year: 2013
 aliases: ["The Monster"]
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 3
 CoverOf: ""
+valid: true
 ---
 
 # Eminem - The Monster

@@ -1,7 +1,7 @@
 ---
 Album: "[[Uragirimono no Requiem [2022] {Kari}]]"
 Creators: ["[[Onsa Media (🎙️ 404)]]"]
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 0
 SourceFile: "[[Onsa Media - Uragirimono no Requiem.mp3]]"
 Year: 0
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 394
 CoverOf: ""
+valid: true
 ---
 
 # Onsa Media - Uragirimono no Requiem

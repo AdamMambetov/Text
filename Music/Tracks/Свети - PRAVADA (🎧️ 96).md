@@ -1,8 +1,8 @@
 ---
-Album: "[[Свети [2017] {PRAVADA}]]"
+Album: ""
 Creators: ["[[PRAVADA (🎙️ 421)]]"]
-Cover: ""
-NumberInAlbum: 1
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[PRAVADA - Свети.mp3]]"
 Year: 2017
 aliases: ["Свети"]
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 892
 CoverOf: ""
+valid: true
 ---
 
 # PRAVADA - Свети

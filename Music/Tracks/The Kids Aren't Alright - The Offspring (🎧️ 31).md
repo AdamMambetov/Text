@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 2
 CoverOf: ""
+valid: true
 ---
 
 # The Offspring - The Kids Aren't Alright

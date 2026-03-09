@@ -1,8 +1,8 @@
 ---
-Album: "[[PAX VESANIA]]"
+Album: ""
 Creators: ["[[Yousei Teikoku (🎙️ 278)]]"]
-Cover: ""
-NumberInAlbum: 2
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[Yousei Teikoku - The Creator.mp3]]"
 Year: 2011
 aliases: ["The Creator"]
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 11
 CoverOf: ""
+valid: true
 ---
 
 # Yousei Teikoku - The Creator

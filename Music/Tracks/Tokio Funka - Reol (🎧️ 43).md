@@ -1,7 +1,7 @@
 ---
-Album: "[[Tokio Funka]]"
+Album: ""
 Creators: ["[[Reol (🎙️ 429)]]"]
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 0
 SourceFile: "[[Reol - Tokio Funka.mp3]]"
 Year: 0
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 178
 CoverOf: ""
+valid: true
 ---
 
 # Reol - Tokio Funka

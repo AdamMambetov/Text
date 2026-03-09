@@ -1,7 +1,7 @@
 ---
-Album: "[[Export]]"
+Album: ""
 Creators: ["[[IOWA (🎙️ 339)]]"]
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 1
 SourceFile: "[[IOWA - Улыбайся.mp3]]"
 Year: 0
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 218
 CoverOf: ""
+valid: true
 ---
 
 # IOWA - Улыбайся

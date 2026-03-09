@@ -1,5 +1,5 @@
 ---
-Album: "[[[[Mixtape [2019] {Emil Bulls}]]]]"
+Album: ""
 Creators: ["[[Emil Bulls (🎙️ 505)]]"]
 Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 1
@@ -7,10 +7,11 @@ SourceFile: "[[Emil Bulls - Survivor.mp3]]"
 Year: 2019
 aliases: ["Survivor"]
 created: 2022-04-22T20:35:32+03:00
-source:
+source: ""
 related: []
 ListenInSec: 249
 CoverOf: ""
+valid: true
 ---
 
 # Emil Bulls - Survivor

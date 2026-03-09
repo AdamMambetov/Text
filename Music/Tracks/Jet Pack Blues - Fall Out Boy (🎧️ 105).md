@@ -1,8 +1,8 @@
 ---
-Album: "[[American Beauty/American Psycho [2015] {Fall Out Boy}]]"
+Album: ""
 Creators: ["[[Fall Out Boy (🎙️ 308)]]"]
-Cover: ""
-NumberInAlbum: 6
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[Fall Out Boy - Jet Pack Blues.mp3]]"
 Year: 2015
 aliases: ["Jet Pack Blues"]
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 14
 CoverOf: ""
+valid: true
 ---
 
 # Fall Out Boy - Jet Pack Blues

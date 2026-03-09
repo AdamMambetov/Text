@@ -1,8 +1,8 @@
 ---
-Album: "[[The Sacrament of Sin [2018] {Epica}]]"
+Album: "[[The Sacrament of Sin (📀 39)]]"
 Creators: ["[[Epica (🎙️ 296)]]"]
-Cover: ""
-NumberInAlbum: 1
+Cover: "[[Powerwolf - The Sacrament of Sin.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[Epica - Sacred & Wild.mp3]]"
 Year: 2018
 aliases: ["Sacred & Wild"]
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 3
 CoverOf: ""
+valid: true
 ---
 
 # Epica - Sacred & Wild
