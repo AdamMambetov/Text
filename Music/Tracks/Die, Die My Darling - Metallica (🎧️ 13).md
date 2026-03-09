@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 10
 CoverOf: ""
+valid: true
 ---
 
 # Metallica - Die, Die My Darling

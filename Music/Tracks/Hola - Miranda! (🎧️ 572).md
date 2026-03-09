@@ -1,7 +1,7 @@
 ---
 Album: "[[El Disco de Tu Corazón]]"
-Creators: []
-Cover: ""
+Creators: ["[[Miranda! (🎙️ 648)]]"]
+Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 1
 SourceFile: "[[Miranda! - Hola.mp3]]"
 Year: 2008

@@ -7,10 +7,11 @@ Cover: "[[Karetus - PINATA.jpg]]"
 NumberInAlbum: 1
 SourceFile: "[[Karetus - Full Flavor.mp3]]"
 Year: 2015
-source: https://osu.ppy.sh/beatmapsets/974058#osu/2174699
+source: "https://osu.ppy.sh/beatmapsets/974058#osu/2174699"
 related: []
 ListenInSec: 164
 CoverOf: ""
+valid: true
 ---
 
 # Karetus - Full Flavor

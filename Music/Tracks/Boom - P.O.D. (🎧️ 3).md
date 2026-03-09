@@ -11,6 +11,7 @@ SourceFile: "[[P.O.D. - Boom.mp3]]"
 related: []
 ListenInSec: 365
 CoverOf: ""
+valid: true
 ---
 
 # P.O.D. - Boom

@@ -1,7 +1,7 @@
 ---
 Album: ""
-Creators: []
-Cover: ""
+Creators: ["[[Sheet Music Boss (🎙️ 650)]]"]
+Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 1
 SourceFile: "[[Sheet Music Boss - RUSH E.mp3]]"
 Year: 0

@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 229
 CoverOf: ""
+valid: true
 ---
 
 # Powerwolf - Nightside of Siberia

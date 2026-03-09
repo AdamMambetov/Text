@@ -1,7 +1,7 @@
 ---
 Album: "[[Seven Hearts One Soul]]"
-Creators: []
-Cover: ""
+Creators: ["[[The O'Reillys and the Paddyhats (🎙️ 645)]]"]
+Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 6
 SourceFile: "[[The O'Reillys and the Paddyhats - Barrels of Whiskey.mp3]]"
 Year: 2017

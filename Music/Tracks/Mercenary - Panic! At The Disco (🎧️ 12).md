@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 184
 CoverOf: ""
+valid: true
 ---
 
 # Panic! At The Disco - Mercenary

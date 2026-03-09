@@ -1,7 +1,7 @@
 ---
 Album: "[[Tommy-Gun]]"
-Creators: []
-Cover: ""
+Creators: ["[[Royal Republic (🎙️ 644)]]"]
+Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 1
 SourceFile: "[[Royal Republic - Tommy-Gun.mp3]]"
 Year: 2010

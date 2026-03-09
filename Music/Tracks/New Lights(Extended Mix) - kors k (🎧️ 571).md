@@ -1,7 +1,7 @@
 ---
 Album: "[[Let's Do It Again!!]]"
-Creators: []
-Cover: ""
+Creators: ["[[kors k (🎙️ 647)]]"]
+Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 1
 SourceFile: "[[kors k - New Lights (Extended Mix).mp3]]"
 Year: 2015

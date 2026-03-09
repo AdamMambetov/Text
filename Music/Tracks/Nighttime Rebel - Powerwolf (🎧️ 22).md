@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 428
 CoverOf: ""
+valid: true
 ---
 
 # Powerwolf - Nighttime Rebel
