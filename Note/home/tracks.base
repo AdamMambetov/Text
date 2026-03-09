@@ -36,4 +36,4 @@ views:
       - property: created
         direction: ASC
     columnSize:
-      file.name: 310
+      file.name: 983
