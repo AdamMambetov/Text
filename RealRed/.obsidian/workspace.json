@@ -36,9 +36,84 @@
               "icon": "lucide-file",
               "title": "2026-03-04"
             }
+          },
+          {
+            "id": "c27b30ae52d9c0aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "periodic/2026-03-05.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-03-05"
+            }
+          },
+          {
+            "id": "cca004daaae0334b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "periodic/2026-03-06.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-03-06"
+            }
+          },
+          {
+            "id": "b8f7f8fee3ec7a3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "periodic/2026-03-10.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-03-10"
+            }
+          },
+          {
+            "id": "2cd9e024a867d18f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "periodic/2026-03-11.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-03-11"
+            }
+          },
+          {
+            "id": "987fc140b64e7677",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "periodic/2026-03-12.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-03-12"
+            }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 6,
         "stacked": true
       }
     ],
@@ -62,7 +137,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Файловый менеджер"
             }
           },
           {
@@ -171,7 +246,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Поиск"
             }
           },
           {
@@ -180,12 +255,11 @@
             "state": {
               "type": "bc-matrix-view",
               "state": {},
-              "icon": "blinds",
-              "title": "Matrix view"
+              "icon": "lucide-ghost",
+              "title": "bc-matrix-view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "2f026727d02f16d1",
@@ -210,23 +284,67 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": true,
-      "switcher:Open quick switcher": true,
-      "graph:Open graph view": true,
-      "daily-notes:Open today's daily note": true,
-      "templates:Insert template": true,
-      "command-palette:Open command palette": true,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
       "templater-obsidian:Templater": true,
       "omnisearch:Omnisearch": true,
       "obsidian42-brat:BRAT": true,
-      "obsidian-git:Open Git source control": true
+      "obsidian-git:Open Git source control": true,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "20d45d0544337ccc",
+  "floating": {
+    "id": "faf6e63c523c8f55",
+    "type": "floating",
+    "children": [
+      {
+        "id": "75b79c2c66608ff8",
+        "type": "window",
+        "children": [
+          {
+            "id": "028584e33390b7de",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "9ee4834ed00a3351",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Двухэтажные квартиры.excalidraw.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "Двухэтажные квартиры.excalidraw"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -3182,
+        "y": 409,
+        "width": 1229,
+        "height": 1360,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "987fc140b64e7677",
   "lastOpenFiles": [
-    "periodic/2026-03-02.md",
-    "periodic/2026-03-04.md",
+    "Двухэтажные квартиры.excalidraw.md",
+    "periodic/2026-03-12.md",
+    "periodic/2026-03-11.md",
+    "periodic/2026-03-06.md",
+    "periodic/2026-03-10.md",
+    "periodic/2026-03-05.md",
     "periodic/2026-02-27.md",
+    "periodic/2026-03-04.md",
+    "periodic/2026-03-02.md",
     "periodic/2026-03.md",
     "periodic/2026-02.md",
     "periodic/2026-02-26.md",
@@ -249,14 +367,8 @@
     "periodic/2026-02-03.md",
     "periodic/2026-02-02.md",
     "periodic/2026-02-25.md",
-    "periodic/2026-02-18.md",
-    "periodic/2026-02-06.md",
-    "periodic/2026-02-04.md",
     "files/Pasted image 20260225155445.png",
     "files/Pasted image 20260225155317.png",
-    "periodic/2026-02-05.md",
-    "templates/daily template.md",
-    "periodic/2026-01.md",
     "отчёты/~$чет_о_работе_за_2026_01_Мамбетов_Адам_Муратович.doc",
     "отчёты/~WRL0004.tmp",
     "отчёты/~WRD0003.tmp",
