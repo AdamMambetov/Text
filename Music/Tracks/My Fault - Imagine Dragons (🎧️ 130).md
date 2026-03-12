@@ -1,8 +1,8 @@
 ---
-Album: "[[Night Visions [2013] {Imagine Dragons}]]"
+Album: ""
 Creators: ["[[Imagine Dragons (🎙️ 336)]]"]
-Cover: ""
-NumberInAlbum: 14
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[Imagine Dragons - My Fault.mp3]]"
 Year: 2013
 aliases: ["My Fault"]
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 280
 CoverOf: ""
+valid: true
 ---
 
 # Imagine Dragons - My Fault

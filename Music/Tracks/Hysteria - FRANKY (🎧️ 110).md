@@ -1,8 +1,8 @@
 ---
-Album: "[[Hysteria [2013] {FRANKY}]]"
+Album: ""
 Creators: ["[[FRANKY (🎙️ 316)]]"]
-Cover: ""
-NumberInAlbum: 1
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[FRANKY - Hysteria.mp3]]"
 Year: 2013
 aliases: ["Hysteria"]
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 231
 CoverOf: ""
+valid: true
 ---
 
 # FRANKY - Hysteria

@@ -1,8 +1,8 @@
 ---
-Album: "[[Night Visions [2013] {Imagine Dragons}]]"
+Album: ""
 Creators: ["[[Imagine Dragons (🎙️ 336)]]"]
-Cover: ""
-NumberInAlbum: 3
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[Imagine Dragons - It's Time.mp3]]"
 Year: 2013
 aliases: ["It's Time"]
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 892
 CoverOf: ""
+valid: true
 ---
 
 # Imagine Dragons - It's Time

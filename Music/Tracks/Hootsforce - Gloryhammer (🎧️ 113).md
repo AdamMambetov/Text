@@ -1,8 +1,8 @@
 ---
-Album: "[[Legends from Beyond the Galactic Terrorvortex [2019] {Gloryhammer}]]"
+Album: ""
 Creators: ["[[Gloryhammer (🎙️ 318)]]"]
-Cover: ""
-NumberInAlbum: 8
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[Gloryhammer - Hootsforce.mp3]]"
 Year: 2019
 aliases: ["Hootsforce"]
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 2
 CoverOf: ""
+valid: true
 ---
 
 # Gloryhammer - Hootsforce

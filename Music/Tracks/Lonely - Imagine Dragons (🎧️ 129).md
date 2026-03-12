@@ -1,8 +1,8 @@
 ---
-Album: "[[Mercury - Act 1 [2021] {Imagine Dragons}]]"
+Album: ""
 Creators: ["[[Imagine Dragons (🎙️ 336)]]"]
-Cover: ""
-NumberInAlbum: 3
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[Imagine Dragons - Lonely.mp3]]"
 Year: 2021
 aliases: ["Lonely"]
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 818
 CoverOf: ""
+valid: true
 ---
 
 # Imagine Dragons - Lonely

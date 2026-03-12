@@ -1,8 +1,8 @@
 ---
-Album: "[[Origins [2018] {Imagine Dragons}]]"
+Album: ""
 Creators: ["[[Imagine Dragons (🎙️ 336)]]"]
-Cover: ""
-NumberInAlbum: 1
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[Imagine Dragons - Natural.mp3]]"
 Year: 2018
 aliases: ["Natural"]
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 377
 CoverOf: ""
+valid: true
 ---
 
 # Imagine Dragons - Natural

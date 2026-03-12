@@ -1,8 +1,8 @@
 ---
-Album: "[[Roots [2015] {Imagine Dragons}]]"
+Album: ""
 Creators: ["[[Imagine Dragons (🎙️ 336)]]"]
-Cover: ""
-NumberInAlbum: 1
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[Imagine Dragons - Roots.mp3]]"
 Year: 2015
 aliases: ["Roots"]
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 347
 CoverOf: ""
+valid: true
 ---
 
 # Imagine Dragons - Roots

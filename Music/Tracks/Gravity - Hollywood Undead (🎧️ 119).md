@@ -1,16 +1,17 @@
 ---
 created: 2022-04-22T20:51:30+03:00
 aliases: ["Gravity"]
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 Year: 2015
-Album: "[[Day Of The Dead [2015 {Hollywood Undead}]]"
+Album: ""
 Creators: ["[[Hollywood Undead (🎙️ 332)]]"]
-NumberInAlbum: 7
+NumberInAlbum: 0
 source: ""
 SourceFile: "[[Hollywood Undead - Gravity.mp3]]"
 related: []
 ListenInSec: 201
 CoverOf: ""
+valid: true
 ---
 
 # Hollywood Undead - Gravity

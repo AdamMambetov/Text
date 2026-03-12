@@ -1,16 +1,17 @@
 ---
-Album: "[[KANA-BOON THE BEST [2020] {KANA-BOON}]]"
+Album: ""
 Creators: ["[[KANA-BOON (🎙️ 347)]]"]
-Cover: ""
-NumberInAlbum: 10
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[KANA-BOON - Silhouette.mp3]]"
-Year: 2020
-aliases: ["Silhouette"]
+Year: 0
+aliases: ["Silhouette","Naruto Shippuuden OP 16","Наруто Ураганные хроники OP 16"]
 created: 2022-04-22T20:59:36+03:00
 source: ""
 related: []
 ListenInSec: 6
 CoverOf: ""
+valid: true
 ---
 
 # KANA-BOON - Silhouette

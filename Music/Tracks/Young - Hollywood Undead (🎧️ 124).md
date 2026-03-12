@@ -1,8 +1,8 @@
 ---
-Album: "[[Swan Songs [2008] {Hollywood Undead}]]"
+Album: ""
 Creators: ["[[Hollywood Undead (🎙️ 332)]]"]
-Cover: ""
-NumberInAlbum: 6
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[Hollywood Undead - Young.mp3]]"
 Year: 2008
 aliases: ["Young"]
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 42
 CoverOf: ""
+valid: true
 ---
 
 # Hollywood Undead - Young

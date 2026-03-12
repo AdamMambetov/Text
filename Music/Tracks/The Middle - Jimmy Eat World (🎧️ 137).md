@@ -1,16 +1,17 @@
 ---
-Album: "[[Bleed American [2001] {Jimmy Eat World}]]"
+Album: ""
 Creators: ["[[Jimmy Eat World (🎙️ 512)]]"]
 Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 3
+NumberInAlbum: 0
 SourceFile: "[[Jimmy Eat World - The Middle.mp3]]"
 Year: 2001
 aliases: ["The Middle"]
 created: 2022-04-22T20:57:58+03:00
-source:
+source: ""
 related: []
 ListenInSec: 167
 CoverOf: ""
+valid: true
 ---
 
 # Jimmy Eat World - The Middle

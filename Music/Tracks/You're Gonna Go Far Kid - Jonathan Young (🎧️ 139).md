@@ -1,16 +1,17 @@
 ---
-Album: "[[Young's Old Covers (2019-2021) [2021] {Jonathan Young; Lauren Babic; Lee Albrecht}]]"
+Album: ""
 Creators: ["[[Jonathan Young (🎙️ 345)]]"]
-Cover: ""
-NumberInAlbum: 21
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[Jonathan Young - You're Gonna Go Far Kid.mp3]]"
-Year: 2021
+Year: 0
 aliases: ["You're Gonna Go Far Kid"]
 created: 2022-04-22T20:59:10+03:00
 source: ""
 related: []
 ListenInSec: 285
-CoverOf: ""
+CoverOf: "[[You're Gonna Go Far, Kid - The Offspring (🎧️ 245)]]"
+valid: true
 ---
 
 # Jonathan Young - You're Gonna Go Far Kid

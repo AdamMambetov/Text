@@ -1,8 +1,8 @@
 ---
-Album: "[[Night Visions [2013] {Imagine Dragons}]]"
+Album: ""
 Creators: ["[[Imagine Dragons (🎙️ 336)]]"]
-Cover: ""
-NumberInAlbum: 1
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[Imagine Dragons - Radioactive.mp3]]"
 Year: 2013
 aliases: ["Radioactive"]
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 375
 CoverOf: ""
+valid: true
 ---
 
 # Imagine Dragons - Radioactive
