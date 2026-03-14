@@ -37,3 +37,9 @@ views:
         direction: ASC
     columnSize:
       file.name: 983
+  - type: table
+    name: невалидные шедевры
+    filters:
+      and:
+        - valid == null
+        - file("Text/Music/Playlists/100% Шедевр (💿 6)").hasLink(file)
