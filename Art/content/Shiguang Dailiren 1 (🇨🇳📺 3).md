@@ -2,8 +2,8 @@
 created: 2022-03-16T00:01:00
 aliases:
   - Агент времени
-  - Link Click
   - Shiguang Dailiren
+  - Link Click
 Status: complete
 Type: anime
 Rating:
@@ -18,7 +18,7 @@ tags:
 related:
   - "[[@Дмитрий Кесида]]"
 Stream: 3
-Продолжение: "[[Link Click 2 (🇨🇳📺 132)]]"
+Продолжение: "[[Shiguang Dailiren 2 (🇨🇳📺 132)]]"
 ---
 
 # Агент времени

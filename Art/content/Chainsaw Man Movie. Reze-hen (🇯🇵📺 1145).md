@@ -10,16 +10,14 @@ Rating:
   - "[[®️18|18+]]"
 Cover: "[[chainsaw_man_reze_anime_film_cover.jpg]]"
 Year: 2025
+Views: 2
 Адаптация: "[[Chainsaw Man 1 (🇯🇵📗 70)]]"
 Предыстория: "[[Человек-бензопила (🇯🇵📺 666)]]"
-Views: 1
 ---
 
-# Человек-бензопила. Резе
+# Человек-бензопила: Резе
 
 ![[chainsaw_man_reze_anime_film_cover.jpg]]
-
-
 
 ```button
 name Shikimori
@@ -37,6 +35,7 @@ hidden true
 
 Узнал на Шикимори.
 Посмотрел в кино в Прометее в Санкт-Петербурге. Билет стоил 490 рублей.
+Посмотрел запись у [[@HellYeahPlay|Сергея HellYeah]] на [бусти](https://boosty.to/hellyeahplay/posts/cadf3d18-fe97-4e36-b807-75383fabb42f).
 
 ## Описание
 

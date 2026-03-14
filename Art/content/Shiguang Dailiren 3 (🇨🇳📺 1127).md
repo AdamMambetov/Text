@@ -10,7 +10,7 @@ Rating:
   - "[[®️16|R-17]]"
 Cover: "[[link_click_3_anime_cover.jpg]]"
 Year: 2026
-Предыстория: "[[Link Click 2 (🇨🇳📺 132)]]"
+Предыстория: "[[Shiguang Dailiren. Yingdu Pian (🇨🇳📺 1213)]]"
 ---
 
 # Агент времени 3

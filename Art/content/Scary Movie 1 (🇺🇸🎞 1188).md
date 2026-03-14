@@ -10,13 +10,12 @@ Rating:
 Cover: "[[scary_movie_1_film_cover.jpg]]"
 Year: 2000
 Views: 1
+Продолжение: "[[Scary Movie 2 (🇺🇸🎞 1203)]]"
 ---
 
 # Очень страшное кино
 
 ![[scary_movie_1_film_cover.jpg]]
-
-
 
 ```button
 name World Art
@@ -38,8 +37,6 @@ hidden true
 
 
 `button-worldArt` `button-reyohoho`
-
-
 
 ## Причина добавления
 
