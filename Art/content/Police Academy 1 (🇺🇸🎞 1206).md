@@ -1,8 +1,8 @@
 ---
 created: 2026-03-14T21:13:29+03:00
 aliases:
-  - Полицейская академия
-  - Police Academy
+  - Полицейская академия 1
+  - Police Academy 1
 Status: complete
 Type: film
 Rating:
@@ -16,7 +16,8 @@ tags:
 Продолжение: "[[Police Academy 2. Their First Assignment (🇺🇸🎞 1207)]]"
 ---
 
-# Полицейская академия
+ 
+# Полицейская академия 1
 
 ![[police_academy_film_cover.jpg]]
 

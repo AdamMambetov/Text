@@ -1,8 +1,8 @@
 ---
 created: 2026-03-14T21:01:52+03:00
 aliases:
-  - Операция «Мёртвый снег»
-  - Dead Snow
+  - Операция «Мёртвый снег» 1
+  - Dead Snow 1
 Status: complete
 Type: film
 Rating:

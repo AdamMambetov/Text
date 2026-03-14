@@ -11,7 +11,7 @@ Cover: "[[dead_snow_2_film_cover.jpg]]"
 Year: 2014
 Episode: 1
 Views: 1
-Предыстория: "[[Dead Snow (🇳🇴🎞 1205)]]"
+Предыстория: "[[Dead Snow 1 (🇳🇴🎞 1205)]]"
 ---
 
 # Операция «Мёртвый снег» 2
