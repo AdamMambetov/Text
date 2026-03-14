@@ -1,8 +1,8 @@
 ---
-Album: "[[Troubadour [2010] {K'NAAN}]]"
+Album: ""
 Creators: ["[[K'NAAN (🎙️ 346)]]"]
-Cover: ""
-NumberInAlbum: 15
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[K'NAAN - Wavin' Flag.mp3]]"
 Year: 2010
 aliases: ["Wavin'  Flag"]
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 214
 CoverOf: ""
+valid: true
 ---
 
 # K'NAAN - Wavin' Flag

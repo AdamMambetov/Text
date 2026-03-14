@@ -1,8 +1,8 @@
 ---
-Album: "[[Overexposed [2012] {Maroon 5}]]"
+Album: ""
 Creators: ["[[Maroon 5 (🎙️ 378)]]"]
-Cover: ""
-NumberInAlbum: 4
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[Maroon 5 - Lucky Strike.mp3]]"
 Year: 2012
 aliases: ["Lucky Strike"]
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 186
 CoverOf: ""
+valid: true
 ---
 
 # Maroon 5 - Lucky Strike

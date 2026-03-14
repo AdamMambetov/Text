@@ -1,8 +1,8 @@
 ---
-Album: "[[May Death Never Stop You [2014] {My Chemical Romance}]]"
+Album: ""
 Creators: ["[[My Chemical Romance (🎙️ 385)]]"]
-Cover: ""
-NumberInAlbum: 13
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[My Chemical Romance - Na Na Na (Na Na Na Na Na Na Na Na Na).mp3]]"
 Year: 2014
 aliases: ["Na Na Na (Na Na Na Na Na Na Na Na Na)"]
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 129
 CoverOf: ""
+valid: true
 ---
 
 # My Chemical Romance - Na Na Na (Na Na Na Na Na Na Na Na Na)

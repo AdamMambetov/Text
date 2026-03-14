@@ -1,8 +1,8 @@
 ---
-Album: "[[Good Sinner [2016] {Pigeon John}]]"
+Album: ""
 Creators: ["[[Pigeon John (🎙️ 415)]]"]
-Cover: ""
-NumberInAlbum: 10
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[Pigeon John - She's Loud.mp3]]"
 Year: 2016
 aliases: ["She's Loud"]
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 1
 CoverOf: ""
+valid: true
 ---
 
 # Pigeon John - She's Loud

@@ -1,8 +1,8 @@
 ---
-Album: "[[MONTERO [2021] {Lil Nas X; Jack Harlow}]]"
+Album: ""
 Creators: ["[[Lil Nas X (🎙️ 364)]]"]
-Cover: ""
-NumberInAlbum: 3
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[Lil Nas X - INDUSTRY BABY.mp3]]"
 Year: 2021
 aliases: ["INDUSTRY BABY"]
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 42
 CoverOf: ""
+valid: true
 ---
 
 # Lil Nas X - INDUSTRY BABY

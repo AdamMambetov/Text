@@ -1,8 +1,8 @@
 ---
-Album: "[[The Black Parade / Living with Ghosts [2016] {My Chemical Romance}]]"
+Album: ""
 Creators: ["[[My Chemical Romance (🎙️ 385)]]"]
-Cover: ""
-NumberInAlbum: 11
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[My Chemical Romance - Teenagers.mp3]]"
 Year: 2016
 aliases: ["Teenagers"]
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 162
 CoverOf: ""
+valid: true
 ---
 
 # My Chemical Romance - Teenagers

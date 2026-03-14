@@ -1,8 +1,8 @@
 ---
-Album: "[[Nothing Remains The Same [2002] {Pain}]]"
+Album: ""
 Creators: ["[[Pain (🎙️ 410)]]"]
-Cover: ""
-NumberInAlbum: 2
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[Pain - Shut Your Mouth.mp3]]"
 Year: 2002
 aliases: ["Shut Your Mouth"]
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 371
 CoverOf: ""
+valid: true
 ---
 
 # Pain - Shut Your Mouth

@@ -1,8 +1,8 @@
 ---
-Album: "[[Gotta Good Feelin' [2020] {Pigeon John}]]"
+Album: ""
 Creators: ["[[Pigeon John (🎙️ 415)]]"]
-Cover: ""
-NumberInAlbum: 11
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[Pigeon John - Play It Again.mp3]]"
 Year: 2020
 aliases: ["Play It Again"]
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 10
 CoverOf: ""
+valid: true
 ---
 
 # Pigeon John - Play It Again

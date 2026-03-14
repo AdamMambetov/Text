@@ -1,8 +1,8 @@
 ---
-Album: "[[Getting Away With Murder [2004] {Papa Roach}]]"
+Album: ""
 Creators: ["[[Papa Roach (🎙️ 413)]]"]
-Cover: ""
-NumberInAlbum: 4
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[Papa Roach - Take Me.mp3]]"
 Year: 2004
 aliases: ["Take Me"]
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 2
 CoverOf: ""
+valid: true
 ---
 
 # Papa Roach - Take Me

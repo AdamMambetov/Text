@@ -1,8 +1,8 @@
 ---
-Album: "[[Blood of the Saints [2011] {Powerwolf}]]"
+Album: ""
 Creators: ["[[Powerwolf (🎙️ 420)]]"]
-Cover: ""
-NumberInAlbum: 2
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[Powerwolf - Sanctified with Dynamite.mp3]]"
 Year: 2011
 aliases: ["Sanctified with Dynamite"]
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 654
 CoverOf: ""
+valid: true
 ---
 
 # Powerwolf - Sanctified with Dynamite

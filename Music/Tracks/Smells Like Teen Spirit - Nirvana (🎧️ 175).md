@@ -1,8 +1,8 @@
 ---
-Album: "[[Nirvana [2002] {Nirvana}]]"
+Album: ""
 Creators: ["[[Nirvana (🎙️ 394)]]"]
-Cover: ""
-NumberInAlbum: 5
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[Nirvana - Smells Like Teen Spirit.mp3]]"
 Year: 2002
 aliases: ["Smells Like Teen Spirit"]
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 603
 CoverOf: ""
+valid: true
 ---
 
 # Nirvana - Smells Like Teen Spirit

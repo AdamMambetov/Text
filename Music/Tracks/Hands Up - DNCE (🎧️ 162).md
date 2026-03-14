@@ -1,8 +1,8 @@
 ---
-Album: "[[Bride to be [2021] {Merk & Kremont; DNCE}]]"
+Album: ""
 Creators: ["[[DNCE (🎙️ 293)]]"]
-Cover: ""
-NumberInAlbum: 3
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[Merk & Kremont - Hands Up.mp3]]"
 Year: 2021
 aliases: ["Hands Up"]
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 172
 CoverOf: ""
+valid: true
 ---
 
 # Merk & Kremont - Hands Up

@@ -1,8 +1,8 @@
 ---
-Album: "[[Cinematics [2013] {Set It Off}]]"
+Album: ""
 Creators: ["[[Set It Off (🎙️ 438)]]"]
-Cover: ""
-NumberInAlbum: 5
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[Set It Off - I'll Sleep When I'm Dead.mp3]]"
 Year: 2013
 aliases: ["I'll Sleep When I'm Dead"]
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 191
 CoverOf: ""
+valid: true
 ---
 
 # Set It Off - I'll Sleep When I'm Dead

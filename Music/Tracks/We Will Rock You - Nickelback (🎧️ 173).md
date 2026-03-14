@@ -1,8 +1,8 @@
 ---
-Album: "[[Photograph - Single [2008] {Nickelback}]]"
+Album: ""
 Creators: ["[[Nickelback (🎙️ 392)]]"]
-Cover: ""
-NumberInAlbum: 3
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[Nickelback - We Will Rock You.mp3]]"
 Year: 2008
 aliases: ["We Will Rock You"]
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 163
 CoverOf: ""
+valid: true
 ---
 
 # Nickelback - We Will Rock You

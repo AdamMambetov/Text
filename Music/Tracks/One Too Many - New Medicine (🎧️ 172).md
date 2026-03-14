@@ -1,8 +1,8 @@
 ---
-Album: "[[Breaking The Model [2014] {New Medicine}]]"
+Album: ""
 Creators: ["[[New Medicine (🎙️ 391)]]"]
-Cover: ""
-NumberInAlbum: 3
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[New Medicine - One Too Many.mp3]]"
 Year: 2014
 aliases: ["One Too Many"]
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 226
 CoverOf: ""
+valid: true
 ---
 
 # New Medicine - One Too Many

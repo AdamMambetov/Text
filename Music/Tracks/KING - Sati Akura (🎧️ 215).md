@@ -1,8 +1,8 @@
 ---
-Album: "[[KING [2021] {Sati Akura}]]"
+Album: ""
 Creators: ["[[Sati Akura (🎙️ 359)]]"]
-Cover: ""
-NumberInAlbum: 1
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[Sati Akura - KING.mp3]]"
 Year: 2021
 aliases: ["KING"]
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 25
 CoverOf: ""
+valid: true
 ---
 
 # Sati Akura - KING

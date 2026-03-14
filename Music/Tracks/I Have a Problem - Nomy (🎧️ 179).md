@@ -1,8 +1,8 @@
 ---
-Album: "[[Pillar of the Solid Rock [] {Nomy}]]"
+Album: ""
 Creators: ["[[Nomy (🎙️ 398)]]"]
-Cover: ""
-NumberInAlbum: 5
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[Nomy - I Have a Problem.mp3]]"
 Year: 0
 aliases: ["I Have a Problem"]
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 5
 CoverOf: ""
+valid: true
 ---
 
 # Nomy - I Have a Problem

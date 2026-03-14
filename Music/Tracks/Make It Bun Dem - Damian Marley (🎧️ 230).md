@@ -1,8 +1,8 @@
 ---
-Album: "[[Make It Bun Dem After Hours EP [2012] {Skrillex; Damian Marley}]]"
+Album: ""
 Creators: ["[[Damian Marley (🎙️ 276)]]"]
-Cover: ""
-NumberInAlbum: 1
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[Skrillex - Make It Bun Dem.mp3]]"
 Year: 2012
 aliases: ["Make It Bun Dem"]
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 504
 CoverOf: ""
+valid: true
 ---
 
 # Skrillex - Make It Bun Dem

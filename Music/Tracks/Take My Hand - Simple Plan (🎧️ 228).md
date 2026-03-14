@@ -1,8 +1,8 @@
 ---
-Album: "[[Simple Plan [Deluxe] [2008] {Simple Plan}]]"
+Album: ""
 Creators: ["[[Simple Plan (🎙️ 441)]]"]
-Cover: ""
-NumberInAlbum: 2
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[Simple Plan - Take My Hand.mp3]]"
 Year: 2008
 aliases: ["Take My Hand"]
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 451
 CoverOf: ""
+valid: true
 ---
 
 # Simple Plan - Take My Hand

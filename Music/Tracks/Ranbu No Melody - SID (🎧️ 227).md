@@ -1,16 +1,17 @@
 ---
-Album: "[[SID Anime Best 2008-2017 [2018] {SID}]]"
+Album: ""
 Creators: ["[[SID (🎙️ 439)]]"]
-Cover: ""
-NumberInAlbum: 5
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[SID - Ranbu No Melody.mp3]]"
-Year: 2018
-aliases: ["Ranbu No Melody"]
+Year: 0
+aliases: ["Ranbu No Melody","Bleach OP 13","Блич OP 13"]
 created: 2022-04-22T21:34:12+03:00
 source: ""
 related: []
 ListenInSec: 457
 CoverOf: ""
+valid: true
 ---
 
 # SID - Ranbu No Melody

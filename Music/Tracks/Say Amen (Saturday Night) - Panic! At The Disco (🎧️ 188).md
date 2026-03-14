@@ -1,8 +1,8 @@
 ---
-Album: "[[Pray for the Wicked [2018] {Panic! At The Disco}]]"
+Album: ""
 Creators: ["[[Panic! At The Disco (🎙️ 412)]]"]
-Cover: ""
-NumberInAlbum: 2
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[Panic! At The Disco - Say Amen (Saturday Night).mp3]]"
 Year: 2018
 aliases: ["Say Amen (Saturday Night)"]
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 197
 CoverOf: ""
+valid: true
 ---
 
 # Panic! At The Disco - Say Amen (Saturday Night)

@@ -1,8 +1,8 @@
 ---
-Album: "[[Выход в город [2021] {Noize MC}]]"
+Album: ""
 Creators: ["[[Noize MC (🎙️ 78)]]"]
-Cover: ""
-NumberInAlbum: 16
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[Noize MC - Столетняя война.mp3]]"
 Year: 2021
 aliases: ["Столетняя война"]
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 11
 CoverOf: ""
+valid: true
 ---
 
 # Noize MC - Столетняя война

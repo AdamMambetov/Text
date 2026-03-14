@@ -1,8 +1,8 @@
 ---
-Album: "[[Cinematics [2013] {Set It Off}]]"
+Album: ""
 Creators: ["[[Set It Off (🎙️ 438)]]"]
-Cover: ""
-NumberInAlbum: 13
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[Set It Off - Partners in Crime.mp3]]"
 Year: 2013
 aliases: ["Partners in Crime"]
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 211
 CoverOf: ""
+valid: true
 ---
 
 # Set It Off - Partners in Crime

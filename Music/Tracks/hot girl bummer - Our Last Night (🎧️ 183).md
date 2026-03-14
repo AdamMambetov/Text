@@ -1,8 +1,8 @@
 ---
-Album: "[[hot girl bummer [2020] {Our Last Night}]]"
+Album: ""
 Creators: ["[[Our Last Night (🎙️ 495)]]"]
-Cover: ""
-NumberInAlbum: 1
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[Our Last Night - hot girl bummer.mp3]]"
 Year: 2020
 aliases: ["hot girl bummer"]
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 186
 CoverOf: ""
+valid: true
 ---
 
 # Our Last Night - hot girl bummer

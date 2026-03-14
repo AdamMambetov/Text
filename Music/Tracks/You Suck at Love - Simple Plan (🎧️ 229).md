@@ -1,8 +1,8 @@
 ---
-Album: "[[Get Your Heart On! [2011] {Simple Plan}]]"
+Album: ""
 Creators: ["[[Simple Plan (🎙️ 441)]]"]
-Cover: ""
-NumberInAlbum: 1
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[Simple Plan - You Suck at Love.mp3]]"
 Year: 2011
 aliases: ["You Suck at Love"]
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 179
 CoverOf: ""
+valid: true
 ---
 
 # Simple Plan - You Suck at Love

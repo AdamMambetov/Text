@@ -1,8 +1,8 @@
 ---
-Album: "[[Hurry up, We're Dreaming [2011] {M83}]]"
+Album: ""
 Creators: ["[[M83 (🎙️ 373)]]"]
-Cover: ""
-NumberInAlbum: 2
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[M83 - Midnight City.mp3]]"
 Year: 2011
 aliases: ["Midnight City"]
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 242
 CoverOf: ""
+valid: true
 ---
 
 # M83 - Midnight City

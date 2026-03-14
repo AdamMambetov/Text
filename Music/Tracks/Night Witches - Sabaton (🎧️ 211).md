@@ -1,8 +1,8 @@
 ---
-Album: "[[Heroes [2014] {Sabaton}]]"
+Album: ""
 Creators: ["[[Sabaton (🎙️ 434)]]"]
-Cover: ""
-NumberInAlbum: 1
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[Sabaton - Night Witches.mp3]]"
 Year: 2014
 aliases: ["Night Witches"]
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 181
 CoverOf: ""
+valid: true
 ---
 
 # Sabaton - Night Witches

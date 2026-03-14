@@ -1,16 +1,17 @@
 ---
-Album: "[[Attitude [2019] {Mrs. GREEN APPLE}]]"
+Album: ""
 Creators: ["[[Mrs. GREEN APPLE (🎙️ 384)]]"]
-Cover: ""
-NumberInAlbum: 3
+Cover: "[[Mrs. GREEN APPLE - Attitude.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[Mrs. GREEN APPLE - Inferno.mp3]]"
 Year: 2019
-aliases: ["Inferno"]
+aliases: ["Inferno","Fire Force OP 1","Пламенная бригада пожарных OP 1"]
 created: 2022-04-22T21:11:00+03:00
 source: ""
 related: []
 ListenInSec: 205
 CoverOf: ""
+valid: true
 ---
 
 # Mrs. GREEN APPLE - Inferno

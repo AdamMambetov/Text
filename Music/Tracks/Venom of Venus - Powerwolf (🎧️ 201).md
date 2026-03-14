@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 6
 CoverOf: ""
+valid: true
 ---
 
 # Powerwolf - Venom of Venus

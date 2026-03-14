@@ -1,8 +1,8 @@
 ---
-Album: "[[Mutter [2001] {Rammstein}]]"
+Album: ""
 Creators: ["[[Rammstein (🎙️ 426)]]"]
-Cover: ""
-NumberInAlbum: 3
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[Rammstein - Sonne.mp3]]"
 Year: 2001
 aliases: ["Sonne"]
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 540
 CoverOf: ""
+valid: true
 ---
 
 # Rammstein - Sonne

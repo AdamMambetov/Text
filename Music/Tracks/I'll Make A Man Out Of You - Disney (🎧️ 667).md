@@ -1,8 +1,8 @@
 ---
 Album: "[[Mulan]]"
 Creators: ["[[Disney (🎙️ 288)]]"]
-Cover: ""
-NumberInAlbum: 3
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[Mulan OST - I'll Make A Man Out Of You.mp3]]"
 Year: 1998
 aliases: ["I'll Make A Man Out Of You"]
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 204
 CoverOf: ""
+valid: true
 ---
 
 # Mulan OST - I'll Make A Man Out Of You

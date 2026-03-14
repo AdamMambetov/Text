@@ -1,8 +1,8 @@
 ---
-Album: "[[Uptown Special [2015] {Mark Ronson; Bruno Mars}]]"
+Album: ""
 Creators: ["[[Bruno Mars (🎙️ 241)]]"]
-Cover: ""
-NumberInAlbum: 4
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[Mark Ronson - Uptown Funk.mp3]]"
 Year: 2015
 aliases: ["Uptown Funk"]
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 1061
 CoverOf: ""
+valid: true
 ---
 
 # Mark Ronson - Uptown Funk

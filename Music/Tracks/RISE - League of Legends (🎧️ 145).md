@@ -1,8 +1,8 @@
 ---
-Album: "[[RISE [2018] {League of Legends; The Glitch Mob; Mako; The Word Alive}]]"
+Album: ""
 Creators: ["[[League of Legends (🎙️ 73)]]"]
-Cover: ""
-NumberInAlbum: 1
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[League of Legends - RISE.mp3]]"
 Year: 2018
 aliases: ["RISE"]
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 759
 CoverOf: ""
+valid: true
 ---
 
 # League of Legends - RISE

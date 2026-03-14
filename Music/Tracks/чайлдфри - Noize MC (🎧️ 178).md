@@ -1,8 +1,8 @@
 ---
-Album: "[[Царь горы [2016] {Noize MC; Монеточка}]]"
-Creators: ["[[Noize MC (🎙️ 78)]]", "[[Монеточка (🎙️ 119)]]"]
-Cover: ""
-NumberInAlbum: 7
+Album: ""
+Creators: ["[[Noize MC (🎙️ 78)]]","[[Монеточка (🎙️ 119)]]"]
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[Noize MC - чайлдфри.mp3]]"
 Year: 2016
 aliases: ["чайлдфри"]
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 471
 CoverOf: ""
+valid: true
 ---
 
 # Noize MC - чайлдфри

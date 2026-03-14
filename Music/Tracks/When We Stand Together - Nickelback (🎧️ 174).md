@@ -1,8 +1,8 @@
 ---
-Album: "[[Here and Now [2011] {Nickelback}]]"
+Album: ""
 Creators: ["[[Nickelback (🎙️ 392)]]"]
-Cover: ""
-NumberInAlbum: 3
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[Nickelback - When We Stand Together.mp3]]"
 Year: 2011
 aliases: ["When We Stand Together"]
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 184
 CoverOf: ""
+valid: true
 ---
 
 # Nickelback - When We Stand Together

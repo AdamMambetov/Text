@@ -1,8 +1,8 @@
 ---
-Album: "[[Duality [2015] {Set It Off}]]"
+Album: ""
 Creators: ["[[Set It Off (🎙️ 438)]]"]
-Cover: ""
-NumberInAlbum: 1
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[Set It Off - The Haunting.mp3]]"
 Year: 2015
 aliases: ["The Haunting"]
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 347
 CoverOf: ""
+valid: true
 ---
 
 # Set It Off - The Haunting

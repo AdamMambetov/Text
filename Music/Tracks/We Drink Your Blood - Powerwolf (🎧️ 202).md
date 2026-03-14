@@ -1,8 +1,8 @@
 ---
-Album: "[[Blood of the Saints [2011] {Powerwolf}]]"
+Album: ""
 Creators: ["[[Powerwolf (🎙️ 420)]]"]
-Cover: ""
-NumberInAlbum: 3
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[Powerwolf - We Drink Your Blood.mp3]]"
 Year: 2011
 aliases: ["We Drink Your Blood"]
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 440
 CoverOf: ""
+valid: true
 ---
 
 # Powerwolf - We Drink Your Blood

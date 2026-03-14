@@ -1,8 +1,8 @@
 ---
-Album: "[[OK Go / Nike+ Treadmill Workout Mix [2006] {OK Go}]]"
+Album: ""
 Creators: ["[[OK Go (🎙️ 401)]]"]
-Cover: ""
-NumberInAlbum: 9
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[OK Go - Here It Goes Again.mp3]]"
 Year: 2006
 aliases: ["Here It Goes Again"]
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 21
 CoverOf: ""
+valid: true
 ---
 
 # OK Go - Here It Goes Again

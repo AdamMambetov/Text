@@ -1,16 +1,17 @@
 ---
-Album: "[[G I R L [2014] {Pharrell Williams}]]"
+Album: ""
 Creators: ["[[Pharrell Williams (🎙️ 526)]]"]
 Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 5
+NumberInAlbum: 0
 SourceFile: "[[Pharrell Williams - Happy.mp3]]"
 Year: 2014
 aliases: ["Happy"]
 created: 2022-04-22T21:19:50+03:00
-source:
+source: ""
 related: []
 ListenInSec: 269
 CoverOf: ""
+valid: true
 ---
 
 # Pharrell Williams - Happy
