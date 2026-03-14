@@ -15,7 +15,7 @@ Year: 2022
 Views: 1
 related:
   - "[[Sword Art Online. Progressive (🇯🇵📘 250)]]"
-Предыстория: "[[Мастера Меча Онлайн. Прогрессив - Ария в беззвездной ночи (🇯🇵📺 464)]]"
+Предыстория: "[[Sword Art Online. Progressive Movie - Hoshi Naki Yoru no Aria (🇯🇵📺 464)]]"
 ---
 
 # Мастера Меча Онлайн. Прогрессив - Скерцо глубокой ночи

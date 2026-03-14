@@ -17,7 +17,7 @@ Views: 3
 tags:
   - ❤
 related:
-  - "[[Мастера Меча Онлайн. Прогрессив - Ария в беззвездной ночи (🇯🇵📺 464)]]"
+  - "[[Sword Art Online. Progressive Movie - Hoshi Naki Yoru no Aria (🇯🇵📺 464)]]"
 Продолжение: "[[Sword Art Online 2 (🇯🇵📺 466)]]"
 ---
 

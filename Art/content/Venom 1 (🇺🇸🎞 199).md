@@ -1,8 +1,8 @@
 ---
 created: 2024-06-10T02:47:00
 aliases:
-  - Веном
-  - Venom
+  - Веном 1
+  - Venom 1
 Status: complete
 Type: film
 Rating:
@@ -16,7 +16,7 @@ tags:
 Продолжение: "[[Venom 2 (🇺🇸🎞 1023)]]"
 ---
 
-# Веном
+# Веном 1
 
 ![[venom_film_cover.jpg]]
 

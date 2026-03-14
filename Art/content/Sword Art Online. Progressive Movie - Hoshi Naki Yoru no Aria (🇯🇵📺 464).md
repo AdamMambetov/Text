@@ -16,7 +16,7 @@ Views: 1
 related:
   - "[[Sword Art Online 1 (🇯🇵📺 463)]]"
   - "[[Sword Art Online. Progressive (🇯🇵📘 250)]]"
-Продолжение: "[[Мастера Меча Онлайн. Прогрессив - Скерцо глубокой ночи (🇯🇵📺 465)]]"
+Продолжение: "[[Sword Art Online. Progressive Movie - Kuraki Yuuyami no Scherzo (🇯🇵📺 465)]]"
 ---
 
 # Мастера Меча Онлайн: Прогрессив - Ария в беззвёздной ночи
