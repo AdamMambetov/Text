@@ -1,7 +1,7 @@
 ---
-Album: "[[osu!]]"
+Album: ""
 Creators: ["[[SPYAIR (🎙️ 446)]]"]
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 0
 SourceFile: "[[SPYAIR - MIDNIGHT.mp3]]"
 Year: 0
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 213
 CoverOf: ""
+valid: true
 ---
 
 # SPYAIR - MIDNIGHT

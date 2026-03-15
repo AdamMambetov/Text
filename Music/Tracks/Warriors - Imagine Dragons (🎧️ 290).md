@@ -1,8 +1,8 @@
 ---
-Album: "[[Smoke + Mirrors [2015] {Imagine Dragons}]]"
+Album: ""
 Creators: ["[[Imagine Dragons (🎙️ 336)]]"]
-Cover: ""
-NumberInAlbum: 18
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[Imagine Dragons - Warriors.mp3]]"
 Year: 2015
 aliases: ["Warriors"]
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 1006
 CoverOf: ""
+valid: true
 ---
 
 # Imagine Dragons - Warriors

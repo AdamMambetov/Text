@@ -1,8 +1,8 @@
 ---
-Album: "[[Elfen Lied OST]]"
+Album: ""
 Creators: []
-Cover: ""
-NumberInAlbum: 1
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[Elfen Lied OST - Lilium (Saint_version).mp3]]"
 Year: 2004
 aliases: ["Lilium - Saint version"]

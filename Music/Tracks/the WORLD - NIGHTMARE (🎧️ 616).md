@@ -1,0 +1,19 @@
+---
+Album: ""
+Creators: ["[[NIGHTMARE (🎙️ 668)]]"]
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
+SourceFile: "[[NIGHTMARE - the WORLD.mp3]]"
+Year: 0
+aliases: ["the WORLD","Death Note OP 1","Тетрадь смерти OP 1"]
+created: 2023-07-09T19:19:10+03:00
+source: ""
+related: []
+ListenInSec: 1980
+CoverOf: ""
+valid: true
+---
+
+# NIGHTMARE - the WORLD
+
+![[NIGHTMARE - the WORLD.mp3]]

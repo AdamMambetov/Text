@@ -2,7 +2,7 @@
 Album: ""
 Creators: ["[[OxT (🎙️ 653)]]"]
 Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 1
+NumberInAlbum: 0
 SourceFile: "[[OxT - HIGHEST.mp3]]"
 Year: 0
 aliases: ["HIGHEST","Восхождение в тени OP 1"]
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 92
 CoverOf: ""
+valid: true
 ---
 
 # OxT - HIGHEST
