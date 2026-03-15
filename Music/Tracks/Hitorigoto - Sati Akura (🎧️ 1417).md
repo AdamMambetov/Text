@@ -1,16 +1,17 @@
 ---
 Album: ""
 Creators: ["[[Sati Akura (🎙️ 359)]]"]
-Cover: ""
-NumberInAlbum: 1
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[Sati Akura - Hitorigoto.mp3]]"
 Year: 0
-aliases: ["Hitorigoto"]
+aliases: ["Hitorigoto","Eromanga-sensei OP 1","Эроманга-сэнсей OP 1"]
 created: 2025-01-07T23:44:24+03:00
 source: ""
 related: []
 ListenInSec: 922
-CoverOf: "[[Hitorigoto - ClariS (🎧️ 1427)]]"
+CoverOf: "[[Hitorigoto - ClariS (🎧️ 1418)]]"
+valid: true
 ---
 
 # Sati Akura - Hitorigoto

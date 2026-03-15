@@ -1,0 +1,26 @@
+---
+created: 2023-09-29T16:21:56+03:00
+aliases:
+  - Синяя птица (TV Size)
+  - Blue Bird (TV Size)
+  - Naruto Shippuuden OP 3
+  - Наруто Ураганные хроники OP 3
+CoverOf: "[[🎵Ikimonogakari - Blue Bird (TV Size)]]"
+Creators:
+  - "[[Radiant Records (🎙️ 39)]]"
+  - "[[Nanami (🎙️ 41)]]"
+FullVersion: "[[Синяя птица - Radiant Records (🎧️ 1059)]]"
+source: ""
+SourceFile: "[[Radiant Records - Синяя птица (TV Size).mp3]]"
+Cover: "[[_No Album Art.jpg]]"
+Year: 0
+Album: ""
+NumberInAlbum: 0
+related: []
+ListenInSec: 275
+valid: true
+---
+
+# Синяя птица
+
+![[Radiant Records - Синяя птица (TV Size).mp3]]
