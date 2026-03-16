@@ -111,9 +111,24 @@
               "icon": "lucide-file",
               "title": "2026-03-12"
             }
+          },
+          {
+            "id": "857401c242bb6757",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "periodic/2026-03-16.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-03-16"
+            }
           }
         ],
-        "currentTab": 6,
+        "currentTab": 7,
         "stacked": true
       }
     ],
@@ -137,7 +152,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Файловый менеджер"
+              "title": "Files"
             }
           },
           {
@@ -246,7 +261,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Поиск"
+              "title": "Search"
             }
           },
           {
@@ -284,12 +299,12 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
-      "bases:Создать новую базу": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "templater-obsidian:Templater": true,
       "omnisearch:Omnisearch": true,
       "obsidian42-brat:BRAT": true,
@@ -297,48 +312,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "floating": {
-    "id": "faf6e63c523c8f55",
-    "type": "floating",
-    "children": [
-      {
-        "id": "75b79c2c66608ff8",
-        "type": "window",
-        "children": [
-          {
-            "id": "028584e33390b7de",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "9ee4834ed00a3351",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "Двухэтажные квартиры.excalidraw.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "Двухэтажные квартиры.excalidraw"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -3182,
-        "y": 409,
-        "width": 1229,
-        "height": 1360,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "987fc140b64e7677",
+  "active": "857401c242bb6757",
   "lastOpenFiles": [
-    "Двухэтажные квартиры.excalidraw.md",
     "periodic/2026-03-12.md",
+    "periodic/2026-03-16.md",
     "periodic/2026-03-11.md",
+    "Двухэтажные квартиры.excalidraw.md",
     "periodic/2026-03-06.md",
     "periodic/2026-03-10.md",
     "periodic/2026-03-05.md",
@@ -366,7 +345,6 @@
     "periodic/2026-02-16.md",
     "periodic/2026-02-03.md",
     "periodic/2026-02-02.md",
-    "periodic/2026-02-25.md",
     "files/Pasted image 20260225155445.png",
     "files/Pasted image 20260225155317.png",
     "отчёты/~$чет_о_работе_за_2026_01_Мамбетов_Адам_Муратович.doc",
