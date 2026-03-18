@@ -1,8 +1,8 @@
 ---
-Album: "[[osu!]]"
+Album: ""
 Creators: ["[[Ariabl'eyeS (🎙️ 189)]]"]
-Cover: ""
-NumberInAlbum: 1
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[Ariabl'eyeS - Kegare Naki Bara Juuji (Short ver).mp3]]"
 Year: 0
 aliases: ["Kegare Naki Bara Juuji"]
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 5
 CoverOf: ""
+valid: true
 ---
 
 # Ariabl'eyeS - Kegare Naki Bara Juuji (Short ver)

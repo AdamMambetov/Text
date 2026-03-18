@@ -1,8 +1,8 @@
 ---
-Album: "[[osu!]]"
+Album: ""
 Creators: ["[[KANA-BOON (🎙️ 347)]]"]
-Cover: ""
-NumberInAlbum: 1
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[KANA-BOON - Nai Mono Nedari.mp3]]"
 Year: 0
 aliases: ["Nai Mono Nedari"]
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 6
 CoverOf: ""
+valid: true
 ---
 
 # KANA-BOON - Nai Mono Nedari

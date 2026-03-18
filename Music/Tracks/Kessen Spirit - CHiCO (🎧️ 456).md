@@ -1,16 +1,17 @@
 ---
 created: 2022-10-05T13:33:06+03:00
 aliases: ["Kessen Spirit"]
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 Year: 0
-Album: "[[osu!]]"
-Creators: ["[[CHiCO (🎙️ 259)]]", "[[HoneyWorks (🎙️ 260)]]"]
-NumberInAlbum: 1
+Album: ""
+Creators: ["[[CHiCO (🎙️ 259)]]","[[HoneyWorks (🎙️ 260)]]"]
+NumberInAlbum: 0
 source: ""
 SourceFile: "[[CHiCO with HoneyWorks - Kessen Spirit.mp3]]"
 related: []
 ListenInSec: 14
 CoverOf: ""
+valid: true
 ---
 
 # CHiCO with HoneyWorks - Kessen Spirit

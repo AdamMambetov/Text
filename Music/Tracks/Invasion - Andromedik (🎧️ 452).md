@@ -1,8 +1,8 @@
 ---
-Album: "[[osu!]]"
+Album: ""
 Creators: ["[[Andromedik (🎙️ 181)]]"]
-Cover: ""
-NumberInAlbum: 6
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[Andromedik - Invasion.mp3]]"
 Year: 2016
 aliases: ["Invasion"]
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 260
 CoverOf: ""
+valid: true
 ---
 
 # Andromedik - Invasion

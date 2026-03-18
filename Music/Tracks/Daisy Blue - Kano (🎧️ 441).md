@@ -1,8 +1,8 @@
 ---
-Album: "[[osu!]]"
+Album: ""
 Creators: ["[[Kano (🎙️ 348)]]"]
-Cover: ""
-NumberInAlbum: 2
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[Kano - Daisy Blue.mp3]]"
 Year: 2017
 aliases: ["Daisy Blue"]
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 509
 CoverOf: ""
+valid: true
 ---
 
 # Kano - Daisy Blue

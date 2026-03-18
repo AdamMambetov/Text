@@ -1,8 +1,8 @@
 ---
-Album: "[[osu!]]"
+Album: ""
 Creators: ["[[Baracuda (🎙️ 210)]]"]
-Cover: ""
-NumberInAlbum: 7
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[Baracuda - La Di Da.mp3]]"
 Year: 2009
 aliases: ["La Di Da"]
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 153
 CoverOf: ""
+valid: true
 ---
 
 # Baracuda - La Di Da

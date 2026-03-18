@@ -1,8 +1,8 @@
 ---
-Album: "[[osu!]]"
+Album: ""
 Creators: ["[[Aki (🎙️ 151)]]"]
-Cover: ""
-NumberInAlbum: 1
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[Aki - Darkish.mp3]]"
 Year: 0
 aliases: ["Darkish"]
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 7
 CoverOf: ""
+valid: true
 ---
 
 # Aki - Darkish

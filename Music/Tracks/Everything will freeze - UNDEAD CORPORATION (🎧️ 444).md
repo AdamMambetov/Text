@@ -1,8 +1,8 @@
 ---
-Album: "[[osu!]]"
+Album: ""
 Creators: ["[[UNDEAD CORPORATION (🎙️ 580)]]"]
 Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 1
+NumberInAlbum: 0
 SourceFile: "[[UNDEAD CORPORATION - Everything will freeze.mp3]]"
 Year: 0
 aliases: ["Everything will freeze"]
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 425
 CoverOf: ""
+valid: true
 ---
 
 # UNDEAD CORPORATION - Everything will freeze

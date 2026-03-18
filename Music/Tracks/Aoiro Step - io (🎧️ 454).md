@@ -1,8 +1,8 @@
 ---
-Album: "[[osu!]]"
+Album: ""
 Creators: ["[[io (🎙️ 589)]]"]
 Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 1
+NumberInAlbum: 0
 SourceFile: "[[io - Aoiro Step.mp3]]"
 Year: 0
 aliases: ["Aoiro Step"]
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 3
 CoverOf: ""
+valid: true
 ---
 
 # io - Aoiro Step

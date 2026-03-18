@@ -1,8 +1,8 @@
 ---
-Album: "[[osu!]]"
+Album: ""
 Creators: ["[[t+pazolite (🎙️ 456)]]"]
-Cover: ""
-NumberInAlbum: 15
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[t+pazolite - Call me it. (500 Tortures).mp3]]"
 Year: 0
 aliases: ["Call me it. (500 Tortures)"]
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 258
 CoverOf: ""
+valid: true
 ---
 
 # t+pazolite - Call me it. (500 Tortures)

@@ -1,8 +1,8 @@
 ---
-Album: "[[osu!]]"
+Album: ""
 Creators: ["[[Araki (🎙️ 187)]]"]
-Cover: ""
-NumberInAlbum: 1
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[Araki - Teo.mp3]]"
 Year: 0
 aliases: ["Teo"]
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 343
 CoverOf: ""
+valid: true
 ---
 
 # Araki - Teo

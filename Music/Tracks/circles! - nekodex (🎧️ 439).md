@@ -1,8 +1,8 @@
 ---
-Album: "[[osu!]]"
+Album: ""
 Creators: ["[[nekodex (🎙️ 390)]]"]
-Cover: ""
-NumberInAlbum: 1
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[nekodex - circles!.mp3]]"
 Year: 2015
 aliases: ["circles!"]
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 136
 CoverOf: ""
+valid: true
 ---
 
 # nekodex - circles!

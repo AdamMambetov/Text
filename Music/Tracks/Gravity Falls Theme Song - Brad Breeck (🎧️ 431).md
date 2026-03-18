@@ -1,7 +1,7 @@
 ---
-Album: "[[osu!]]"
+Album: ""
 Creators: ["[[Brad Breeck (🎙️ 235)]]"]
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 0
 SourceFile: "[[Brad Breeck - Gravity Falls Theme Song.mp3]]"
 Year: 0
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 50
 CoverOf: ""
+valid: true
 ---
 
 # Brad Breeck - Gravity Falls Theme Song

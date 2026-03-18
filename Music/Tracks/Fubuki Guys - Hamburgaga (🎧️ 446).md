@@ -1,8 +1,8 @@
 ---
-Album: "[[osu!]]"
+Album: ""
 Creators: ["[[Hamburgaga (🎙️ 581)]]"]
 Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 1
+NumberInAlbum: 0
 SourceFile: "[[Hamburgaga - Fubuki Guys.mp3]]"
 Year: 0
 aliases: ["Fubuki Guys"]
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 258
 CoverOf: ""
+valid: true
 ---
 
 # Hamburgaga - Fubuki Guys

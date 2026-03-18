@@ -1,8 +1,8 @@
 ---
-Album: "[[osu!]]"
+Album: ""
 Creators: ["[[Busdriver (🎙️ 245)]]"]
-Cover: ""
-NumberInAlbum: 1
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[Busdriver - Imaginary Places.mp3]]"
 Year: 0
 aliases: ["Imaginary Places"]
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 593
 CoverOf: ""
+valid: true
 ---
 
 # Busdriver - Imaginary Places

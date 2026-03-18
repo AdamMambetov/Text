@@ -1,8 +1,8 @@
 ---
-Album: "[[osu!]]"
+Album: ""
 Creators: ["[[Araki (🎙️ 187)]]"]
-Cover: ""
-NumberInAlbum: 1
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[Araki - Chiisana Koi no Uta.mp3]]"
 Year: 0
 aliases: ["Chiisana Koi no Uta"]
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 3
 CoverOf: ""
+valid: true
 ---
 
 # Araki - Chiisana Koi no Uta

@@ -1,8 +1,8 @@
 ---
-Album: "[[osu!]]"
+Album: ""
 Creators: ["[[Chasers (🎙️ 257)]]"]
-Cover: ""
-NumberInAlbum: 1
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[Chasers - Lost.mp3]]"
 Year: 2013
 aliases: ["Lost"]
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 411
 CoverOf: ""
+valid: true
 ---
 
 # Chasers - Lost

@@ -1,8 +1,8 @@
 ---
-Album: "[[osu!]]"
+Album: ""
 Creators: ["[[Camellia (🎙️ 53)]]"]
-Cover: ""
-NumberInAlbum: 1
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[Camellia - Racemization.mp3]]"
 Year: 2015
 aliases: ["Racemization"]
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 300
 CoverOf: ""
+valid: true
 ---
 
 # Camellia - Racemization

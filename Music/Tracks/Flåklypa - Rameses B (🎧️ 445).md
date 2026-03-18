@@ -1,16 +1,17 @@
 ---
-Album: "[[osu!]]"
+Album: ""
 Creators: ["[[Rameses B (🎙️ 425)]]"]
-Cover: ""
-NumberInAlbum: 1
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[Rameses B - Flaklypa.mp3]]"
 Year: 2013
-aliases: ["Flåklypa", "Flaklypa"]
+aliases: ["Flåklypa","Flaklypa"]
 created: 2022-10-05T13:24:34+03:00
 source: ""
 related: []
 ListenInSec: 1567
 CoverOf: ""
+valid: true
 ---
 
 # Rameses B - Flaklypa

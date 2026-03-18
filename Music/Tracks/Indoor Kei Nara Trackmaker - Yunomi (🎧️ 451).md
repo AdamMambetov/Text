@@ -1,8 +1,8 @@
 ---
-Album: "[[osu!]]"
-Creators: ["[[Yunomi (🎙️ 586)]]", "[[nicamoq (🎙️ 587)]]"]
+Album: ""
+Creators: ["[[Yunomi (🎙️ 586)]]","[[nicamoq (🎙️ 587)]]"]
 Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 1
+NumberInAlbum: 0
 SourceFile: "[[Yunomi & nicamoq - Indoor Kei Nara Trackmaker (curryrice Remix).mp3]]"
 Year: 0
 aliases: ["Indoor Kei Nara Trackmaker"]
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 3
 CoverOf: ""
+valid: true
 ---
 
 # Yunomi &  - Indoor Kei Nara Trackmaker (curryrice Remix)

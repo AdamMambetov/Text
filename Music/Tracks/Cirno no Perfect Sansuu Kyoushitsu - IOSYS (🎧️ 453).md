@@ -1,8 +1,8 @@
 ---
-Album: "[[osu!]]"
+Album: ""
 Creators: ["[[IOSYS (🎙️ 588)]]"]
 Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 1
+NumberInAlbum: 0
 SourceFile: "[[IOSYS - Cirno no Perfect Sansuu Kyoushitsu.mp3]]"
 Year: 0
 aliases: ["Cirno no Perfect Sansuu Kyoushitsu"]
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 250
 CoverOf: ""
+valid: true
 ---
 
 # IOSYS - Cirno no Perfect Sansuu Kyoushitsu

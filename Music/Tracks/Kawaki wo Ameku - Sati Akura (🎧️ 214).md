@@ -1,8 +1,8 @@
 ---
-Album: "[[Kawaki wo Ameku]]"
+Album: ""
 Creators: ["[[Sati Akura (🎙️ 359)]]"]
 Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 1
+NumberInAlbum: 0
 SourceFile: "[[Sati Akura - Kawaki wo Ameku.mp3]]"
 Year: 2021
 aliases: ["Kawaki wo Ameku","Я кричу о своей жажде","Domekano 1 OP","Домекано 1 OP","Crying for Rain"]
