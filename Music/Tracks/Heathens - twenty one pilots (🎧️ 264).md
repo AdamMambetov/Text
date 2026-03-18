@@ -1,8 +1,8 @@
 ---
-Album: "[[Heathens [2016] {twenty one pilots}]]"
+Album: ""
 Creators: ["[[twenty one pilots (🎙️ 475)]]"]
-Cover: ""
-NumberInAlbum: 1
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[twenty one pilots - Heathens.mp3]]"
 Year: 2016
 aliases: ["Heathens"]
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 9
 CoverOf: ""
+valid: true
 ---
 
 # twenty one pilots - Heathens

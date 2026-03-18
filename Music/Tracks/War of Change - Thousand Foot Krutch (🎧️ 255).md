@@ -1,8 +1,8 @@
 ---
-Album: "[[The End Is Where We Begin [2012] {Thousand Foot Krutch}]]"
+Album: ""
 Creators: ["[[Thousand Foot Krutch (🎙️ 470)]]"]
-Cover: ""
-NumberInAlbum: 10
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[Thousand Foot Krutch - War of Change.mp3]]"
 Year: 2012
 aliases: ["War of Change"]
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 694
 CoverOf: ""
+valid: true
 ---
 
 # Thousand Foot Krutch - War of Change

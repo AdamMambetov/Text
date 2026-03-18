@@ -1,5 +1,5 @@
 ---
-Album: "[[NARUTO ORIGINAL SOUNDTRACK 2]]"
+Album: "[[Naruto OST 2 (📀 16)]]"
 Creators: ["[[Toshio Masuda (🎙️ 561)]]"]
 Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 15
@@ -7,10 +7,11 @@ SourceFile: "[[Naruto OST - Thunder Break.mp3]]"
 Year: 2004
 aliases: ["Thunder Break"]
 created: 2022-04-28T17:50:58+03:00
-source:
+source: ""
 related: []
 ListenInSec: 8
 CoverOf: ""
+valid: true
 ---
 
 # Naruto OST - Thunder Break

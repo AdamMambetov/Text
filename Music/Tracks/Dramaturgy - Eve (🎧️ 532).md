@@ -1,8 +1,8 @@
 ---
-Album: "[[Bunka]]"
+Album: ""
 Creators: ["[[Eve (🎙️ 34)]]"]
-Cover: ""
-NumberInAlbum: 3
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[Eve - Dramaturgy.mp3]]"
 Year: 2017
 aliases: ["Dramaturgy"]
@@ -11,6 +11,7 @@ source: "https://youtu.be/jJzw1h5CR-I?si=TK1e8UZNbf54U7sE"
 related: []
 ListenInSec: 474
 CoverOf: ""
+valid: true
 ---
 
 # Eve - Dramaturgy

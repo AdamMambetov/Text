@@ -1,8 +1,8 @@
 ---
-Album: "[[One-X [2006] {Three Days Grace}]]"
+Album: ""
 Creators: ["[[Three Days Grace (🎙️ 471)]]"]
-Cover: ""
-NumberInAlbum: 6
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[Three Days Grace - Riot.mp3]]"
 Year: 2006
 aliases: ["Riot"]
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 1
 CoverOf: ""
+valid: true
 ---
 
 # Three Days Grace - Riot

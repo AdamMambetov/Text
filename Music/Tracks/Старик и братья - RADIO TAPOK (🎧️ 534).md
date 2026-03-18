@@ -1,8 +1,8 @@
 ---
-Album: "[[Старик и братья]]"
+Album: ""
 Creators: ["[[RADIO TAPOK (🎙️ 423)]]"]
-Cover: ""
-NumberInAlbum: 1
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[Radio Tapok - Старик и братья.mp3]]"
 Year: 2018
 aliases: ["Старик и братья"]
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 1
 CoverOf: ""
+valid: true
 ---
 
 # Radio Tapok - Старик и братья

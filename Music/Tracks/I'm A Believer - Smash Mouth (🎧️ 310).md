@@ -1,8 +1,8 @@
 ---
-Album: "[[Shrek [2001] {Smash Mouth}]]"
+Album: ""
 Creators: ["[[Smash Mouth (🎙️ 444)]]"]
-Cover: ""
-NumberInAlbum: 2
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[Smash Mouth - I'm A Believer.mp3]]"
 Year: 2001
 aliases: ["I'm A Believer"]
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 361
 CoverOf: ""
+valid: true
 ---
 
 # Smash Mouth - I'm A Believer

@@ -1,8 +1,8 @@
 ---
-Album: "[[One-X [2006] {Three Days Grace}]]"
+Album: ""
 Creators: ["[[Three Days Grace (🎙️ 471)]]"]
-Cover: ""
-NumberInAlbum: 2
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[Three Days Grace - Pain.mp3]]"
 Year: 2006
 aliases: ["Pain"]
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 508
 CoverOf: ""
+valid: true
 ---
 
 # Three Days Grace - Pain

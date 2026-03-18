@@ -1,8 +1,8 @@
 ---
 Album: ""
 Creators: ["[[System Of A Down (🎙️ 455)]]"]
-Cover: ""
-NumberInAlbum: 1
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[System Of A Down - Lonely Day.mp3]]"
 Year: 0
 aliases: ["Lonely Day"]
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 330
 CoverOf: ""
+valid: true
 ---
 
 # System Of A Down - Lonely Day
