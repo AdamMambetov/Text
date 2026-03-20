@@ -5,7 +5,7 @@ Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 0
 SourceFile: "[[DiWilliam - Dororo.mp3]]"
 Year: 0
-aliases: ["Dororo"]
+aliases: ["Dororo","Dororo OP 2","Дороро OP 2"]
 created: 2024-10-23T13:45:02+03:00
 source: ""
 related: []

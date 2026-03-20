@@ -11,6 +11,7 @@ Album: ""
 NumberInAlbum: 0
 related: []
 ListenInSec: 2143
+valid: true
 ---
 
 # Bad Apple

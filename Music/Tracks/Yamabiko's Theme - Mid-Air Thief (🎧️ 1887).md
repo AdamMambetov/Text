@@ -1,0 +1,24 @@
+---
+created: 2026-03-20T02:34:16+03:00
+aliases: ["Yamabiko's Theme"]
+Cover: "[[Sonny Boy OST.jpg]]"
+Year: 2021
+Album: "[[Sonny Boy OST (📀 41)]]"
+Creators: ["[[Mid-Air Thief (🎙️ 699)]]"]
+NumberInAlbum: 9
+source: ""
+SourceFile: "[[Sonny Boy OST - Yamabiko's Theme.mp3]]"
+related: []
+ListenInSec: 0
+CoverOf: ""
+valid: true
+---
+
+`$=dv.header(1, dv.current().aliases[0])`
+
+![[Sonny Boy OST - Yamabiko's Theme.mp3]]
+
+## Related Tracks
+
+![[related tracks.base]]
+

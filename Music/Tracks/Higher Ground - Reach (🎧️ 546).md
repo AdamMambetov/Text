@@ -1,8 +1,8 @@
 ---
-Album: "[[The Promise of a Life]]"
+Album: ""
 Creators: ["[[Reach (🎙️ 427)]]"]
-Cover: ""
-NumberInAlbum: 7
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[Reach - Higher Ground.mp3]]"
 Year: 2021
 aliases: ["Higher Ground"]
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 1256
 CoverOf: ""
+valid: true
 ---
 
 # Reach - Higher Ground

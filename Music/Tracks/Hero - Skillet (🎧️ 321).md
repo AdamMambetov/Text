@@ -1,8 +1,8 @@
 ---
-Album: "[[Awake [2009] {Skillet}]]"
+Album: ""
 Creators: ["[[Skillet (🎙️ 442)]]"]
-Cover: ""
-NumberInAlbum: 1
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[Skillet - Hero.mp3]]"
 Year: 2009
 aliases: ["Hero"]
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 1127
 CoverOf: ""
+valid: true
 ---
 
 # Skillet - Hero
