@@ -1,8 +1,8 @@
 ---
-Album: "[[Creepin' Towards the Door]]"
+Album: "[[Creepin' Towards the Door (📀 9)]]"
 Creators: ["[[Griffinilla (🎙️ 325)]]"]
-Cover: ""
-NumberInAlbum: 1
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 2
 SourceFile: "[[Griffinilla - Creepin' Towards the Door.mp3]]"
 Year: 2015
 aliases: ["Creepin' Towards the Door"]
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 312
 CoverOf: ""
+valid: true
 ---
 
 # Griffinilla - Creepin' Towards the Door
