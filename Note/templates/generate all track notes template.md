@@ -4,6 +4,7 @@ dv = app.plugins.plugins.dataview.api
 // Search all tracks without note
 var sourceFiles = app.vault.getFiles()
 	.filter(f => f.path.startsWith("Audio/Music"))
+	.filter(f => f.name !== "desktop.ini")
 const tracks = app.vault.getFolderByPath("Text/Music/Tracks").children
 	.filter(f => f instanceof tp.obsidian.TFile)
 
