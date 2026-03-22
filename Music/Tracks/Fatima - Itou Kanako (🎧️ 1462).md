@@ -8,7 +8,7 @@ Year: 0
 aliases: ["Fatima","Steins Gate 0 OP","Врата Штейна 0 OP"]
 created: 2025-01-08T00:51:38+03:00
 source: ""
-related: []
+related: ["[[Fatima (TV Size) - Itou Kanako (🎧️ 1082)]]"]
 ListenInSec: 488
 CoverOf: ""
 ---

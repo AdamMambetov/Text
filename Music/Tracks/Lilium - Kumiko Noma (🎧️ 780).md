@@ -8,7 +8,7 @@ Year: 0
 aliases: ["Lilium","Elfen Lied OP 1","Эльфийская песнь OP 1"]
 created: 2023-09-29T16:24:54+03:00
 source: ""
-related: []
+related: ["[[Lilium (TV Size) - Kumiko Noma]]"]
 ListenInSec: 1350
 CoverOf: ""
 valid: true

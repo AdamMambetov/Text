@@ -8,7 +8,7 @@ Year: 0
 aliases: []
 created: 2024-07-21T15:19:28+03:00
 source: ""
-related: []
+related: ["[[Guren no Yumiya - Linked Horizon]]"]
 ListenInSec: 185
 CoverOf: ""
 ---

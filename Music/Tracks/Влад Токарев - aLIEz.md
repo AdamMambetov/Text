@@ -10,7 +10,7 @@ source: ""
 SourceFile: "[[Влад Токарев - aLIEz.mp3]]"
 related: []
 ListenInSec: 1140
-CoverOf: ""
+CoverOf: "[[aLIEz - Hiroyuki Sawano (🎧️ 1785)]]"
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

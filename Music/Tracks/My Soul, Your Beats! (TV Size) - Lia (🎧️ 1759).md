@@ -8,7 +8,7 @@ Creators: ["[[Lia (🎙️ 659)]]"]
 NumberInAlbum: 0
 source: ""
 SourceFile: "[[Lia - My Soul, Your Beats! (TV Size).mp3]]"
-related: []
+related: ["[[My Soul, Your Beats! - Lia (🎧️ 1754)]]"]
 ListenInSec: 623
 CoverOf: ""
 valid: true

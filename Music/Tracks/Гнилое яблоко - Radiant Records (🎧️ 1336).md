@@ -9,7 +9,7 @@ Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 NumberInAlbum: 0
-related: []
+related: ["[[Гнилое яблоко (YT Size) - Radiant Records (🎧️ 647)]]"]
 ListenInSec: 320
 valid: true
 ---

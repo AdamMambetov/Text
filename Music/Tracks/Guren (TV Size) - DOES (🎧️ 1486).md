@@ -1,8 +1,9 @@
 ---
 created: 2025-01-08T01:14:04+03:00
-aliases: ["Guren (TV Size)"]
-Creators: ["[[DOES (🎙️ 36)]]"]
-FullVersion: "[[Guren - DOES (🎧️ 1487)]]"
+aliases:
+  - Guren (TV Size)
+Creators:
+  - "[[DOES (🎙️ 36)]]"
 source: ""
 SourceFile: "[[DOES - Guren (TV Size).mp3]]"
 Cover: "[[_No Album Art.jpg]]"

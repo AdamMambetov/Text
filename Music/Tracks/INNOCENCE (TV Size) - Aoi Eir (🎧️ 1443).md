@@ -8,7 +8,7 @@ Year: 0
 aliases: ["INNOCENCE (TV Size)","Sword Art Online OP 2","SAO OP 2","Мастера меча онлайн OP 2","САО OP 2"]
 created: 2025-01-08T00:20:52+03:00
 source: ""
-related: []
+related: ["[[INNOCENCE - Aoi Eir (🎧️ 1444)]]"]
 ListenInSec: 87
 CoverOf: ""
 valid: true

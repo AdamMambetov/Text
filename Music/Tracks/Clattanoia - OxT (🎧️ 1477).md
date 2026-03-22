@@ -8,7 +8,7 @@ Year: 0
 aliases: ["Clattanoia","Overlord OP 1","Повелитель OP 1","Оверлорд OP 1"]
 created: 2025-01-08T01:20:44+03:00
 source: ""
-related: []
+related: ["[[Clattanoia (TV Size) - OxT]]"]
 ListenInSec: 477
 CoverOf: ""
 valid: true

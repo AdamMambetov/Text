@@ -8,7 +8,7 @@ Creators: ["[[OxT (🎙️ 653)]]"]
 NumberInAlbum: 0
 source: ""
 SourceFile: "[[OxT - HIGHEST (TV Size).mp3]]"
-related: []
+related: ["[[HIGHEST - OxT (🎧️ 590)]]"]
 ListenInSec: 360
 CoverOf: ""
 valid: true

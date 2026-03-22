@@ -8,7 +8,7 @@ Year: 0
 aliases: ["Realize","ReZero OP 3","РеЗеро OP 3"]
 created: 2025-01-16T02:21:20+03:00
 source: ""
-related: []
+related: ["[[Realize (TV Size) - Konomi Suzuki]]"]
 ListenInSec: 734
 CoverOf: ""
 valid: true

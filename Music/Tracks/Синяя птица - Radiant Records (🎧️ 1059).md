@@ -9,7 +9,7 @@ Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 NumberInAlbum: 0
-related: []
+related: ["[[Синяя птица (TV Size) - Radiant Records (🎧️ 638)]]"]
 ListenInSec: 414
 valid: true
 ---

@@ -8,7 +8,7 @@ Year: 2015
 aliases: ["Bravely You (TV Size)","Charlotte OP 1","Шарлотта OP 1"]
 created: 2024-07-21T15:06:44+03:00
 source: ""
-related: []
+related: ["[[Bravely You - Lia (🎧️ 1753)]]"]
 ListenInSec: 95
 CoverOf: ""
 valid: true

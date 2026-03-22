@@ -4,7 +4,7 @@ aliases: ["Lia - Toki wo Kizamu Uta"]
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
-Creators: []
+Creators: ["[[Lia (🎙️ 659)]]"]
 NumberInAlbum: 0
 source: ""
 SourceFile: "[[Lia - Toki wo Kizamu Uta.mp3]]"

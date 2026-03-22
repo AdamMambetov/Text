@@ -8,7 +8,7 @@ Creators: ["[[Lia (🎙️ 659)]]"]
 NumberInAlbum: 0
 source: ""
 SourceFile: "[[Lia - Tori no Uta.mp3]]"
-related: []
+related: ["[[Tori no Uta - Lia (🎧️ 1750)]]","[[Tori no Uta (TV Size) - Lia (🎧️ 1740)]]"]
 ListenInSec: 1463
 CoverOf: ""
 valid: true

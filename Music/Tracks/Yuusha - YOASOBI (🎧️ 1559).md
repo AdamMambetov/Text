@@ -8,7 +8,7 @@ Year: 0
 aliases: ["Yuusha","Frieren OP 1","Фрирен OP 1"]
 created: 2025-01-08T19:26:05+03:00
 source: ""
-related: []
+related: ["[[Yuusha (TV Size) - YOASOBI]]"]
 ListenInSec: 1532
 CoverOf: ""
 valid: true

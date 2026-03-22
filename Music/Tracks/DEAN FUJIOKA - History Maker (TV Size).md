@@ -8,7 +8,7 @@ Creators: []
 NumberInAlbum: 0
 source: ""
 SourceFile: "[[DEAN FUJIOKA - History Maker (TV Size).mp3]]"
-related: []
+related: ["[[History Maker - Dean Fujioka]]"]
 ListenInSec: 178
 CoverOf: ""
 ---

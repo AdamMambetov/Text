@@ -8,7 +8,7 @@ Creators: ["[[Hiroyuki Sawano (🎙️ 331)]]","[[mizuki (🎙️ 663)]]"]
 NumberInAlbum: 0
 source: ""
 SourceFile: "[[SawanoHiroyuki_nZk_mizuki - aLIEz.mp3]]"
-related: []
+related: ["[[aLIEz (TV Size) - Hiroyuki Sawano]]"]
 ListenInSec: 1665
 CoverOf: ""
 valid: true

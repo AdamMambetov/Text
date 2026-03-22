@@ -8,7 +8,7 @@ Creators: ["[[Yoh Kamiyama (🎙️ 662)]]"]
 NumberInAlbum: 0
 source: ""
 SourceFile: "[[Yoh Kamiyama - Irokousui.mp3]]"
-related: []
+related: ["[[Irokousui (TV Size) - Yoh Kamiyama (🎧️ 1694)]]"]
 ListenInSec: 193
 CoverOf: ""
 valid: true

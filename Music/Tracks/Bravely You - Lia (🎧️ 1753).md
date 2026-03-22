@@ -10,7 +10,7 @@ source: ""
 SourceFile: "[[Lia - Bravely You.mp3]]"
 related: []
 ListenInSec: 1629
-CoverOf: ""
+CoverOf: "[[Bravely You (TV Size) - Lia (🎧️ 1079)]]"
 valid: true
 ---
 

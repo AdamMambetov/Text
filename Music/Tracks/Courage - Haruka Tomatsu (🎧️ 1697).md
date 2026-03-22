@@ -8,7 +8,7 @@ Creators: ["[[Haruka Tomatsu (🎙️ 688)]]"]
 NumberInAlbum: 0
 source: ""
 SourceFile: "[[Haruka Tomatsu - Courage.mp3]]"
-related: []
+related: ["[[Courage (TV Size) - Haruka Tomatsu (🎧️ 1698)]]"]
 ListenInSec: 1508
 CoverOf: ""
 valid: true

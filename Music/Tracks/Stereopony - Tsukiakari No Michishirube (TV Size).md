@@ -4,11 +4,11 @@ aliases: ["Stereopony - Tsukiakari No Michishirube (TV Size)"]
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
-Creators: []
+Creators: ["[[Stereopony (🎙️ 56)]]"]
 NumberInAlbum: 0
 source: ""
 SourceFile: "[[Stereopony - Tsukiakari No Michishirube (TV Size).mp3]]"
-related: []
+related: ["[[Tsukiakari No Michishirube - Stereopony (🎧️ 585)]]"]
 ListenInSec: 454
 CoverOf: ""
 ---

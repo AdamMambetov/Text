@@ -8,7 +8,7 @@ Creators: ["[[Konomi Suzuki (🎙️ 355)]]"]
 NumberInAlbum: 0
 source: ""
 SourceFile: "[[Konomi Suzuki - CHOIR JAIL (TV Size).mp3]]"
-related: []
+related: ["[[CHOIR JAIL - Konomi Suzuki (🎧️ 1572)]]"]
 ListenInSec: 536
 CoverOf: ""
 valid: true

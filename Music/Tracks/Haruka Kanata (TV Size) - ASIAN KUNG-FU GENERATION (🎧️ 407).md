@@ -8,7 +8,7 @@ Year: 0
 aliases: ["Haruka Kanata (TV Size)","Naruto OP 2","Наруто OP 2"]
 created: 2022-05-02T03:40:20+03:00
 source: ""
-related: []
+related: ["[[Haruka Kanata - ASIAN KUNG-FU GENERATION (🎧️ 644)]]"]
 ListenInSec: 111
 CoverOf: ""
 valid: true

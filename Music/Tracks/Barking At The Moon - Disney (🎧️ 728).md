@@ -1,5 +1,5 @@
 ---
-Album: "[[Bolt]]"
+Album: "[[Bolt OST (📀 8)]]"
 Creators: ["[[Disney (🎙️ 288)]]"]
 Cover: ""
 NumberInAlbum: 2

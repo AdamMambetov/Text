@@ -8,7 +8,7 @@ Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 NumberInAlbum: 0
-related: []
+related: ["[[Blue Bird (TV Size) - Ikimonogakari]]"]
 ListenInSec: 1373
 CoverOf: ""
 valid: true
