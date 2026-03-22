@@ -10,7 +10,7 @@ created: 2024-10-08T15:34:02+03:00
 source: ""
 related: []
 ListenInSec: 1
-CoverOf: ""
+CoverOf: "[[Fukashigi no Carte]]"
 ---
 
 # Onsa Media - Fukashigi no Carte

@@ -8,7 +8,7 @@ Year: 0
 aliases: []
 created: 2024-07-21T15:57:40+03:00
 source: ""
-related: []
+related: ["[[Fukashigi no Carte]]"]
 ListenInSec: 67
 CoverOf: ""
 ---

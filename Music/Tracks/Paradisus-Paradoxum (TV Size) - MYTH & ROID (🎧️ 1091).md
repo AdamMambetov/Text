@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 180
 CoverOf: ""
+valid: true
 ---
 
 # MYTH & ROID - Paradisus-Paradoxum (TV Size)

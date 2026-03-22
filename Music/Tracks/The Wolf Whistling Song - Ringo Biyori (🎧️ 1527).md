@@ -8,7 +8,7 @@ Year: 0
 aliases: ["The Wolf Whistling Song"]
 created: 2025-01-08T17:42:30+03:00
 source: ""
-related: []
+related: ["[[The Wolf Whistling Song (TV Size) - Ringo Biyori (🎧️ 1526)]]"]
 ListenInSec: 280
 CoverOf: ""
 ---

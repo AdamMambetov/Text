@@ -8,7 +8,7 @@ Year: 2019
 aliases: ["Yofukashi no Uta"]
 created: 2024-10-05T15:15:47+03:00
 source: ""
-related: []
+related: ["[[Yofukashi no Uta (TV Size) - Creepy Nuts]]"]
 ListenInSec: 18
 CoverOf: ""
 ---

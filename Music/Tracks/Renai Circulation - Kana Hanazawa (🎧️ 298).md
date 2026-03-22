@@ -8,7 +8,7 @@ Cover: ""
 Year: 0
 Album: ""
 NumberInAlbum: 0
-related: []
+related: ["[[Renai Circulation (TV Size) - Kana Hanazawa (🎧️ 1421)]]"]
 ListenInSec: 515
 CoverOf: ""
 ---

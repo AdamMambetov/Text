@@ -8,7 +8,7 @@ Creators: []
 NumberInAlbum: 0
 source: ""
 SourceFile: "[[Ai Fairouz - Onegai Muscle (TV Size).mp3]]"
-related: []
+related: ["[[Onegai Muscle - Fairouz Ai (🎧️ 1695)]]"]
 ListenInSec: 99
 CoverOf: ""
 ---

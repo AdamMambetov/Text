@@ -8,7 +8,7 @@ Year: 0
 aliases: ["Ranbu no Melody (TV Size)"]
 created: 2024-07-21T15:56:18+03:00
 source: ""
-related: []
+related: ["[[Ranbu No Melody - SID (🎧️ 227)]]"]
 ListenInSec: 272
 CoverOf: ""
 ---

@@ -8,7 +8,7 @@ Creators: ["[[Fairouz Ai (🎙️ 609)]]", "[[Ishikawa Kaito (🎙️ 610)]]"]
 NumberInAlbum: 0
 source: ""
 SourceFile: "[[Ai Fairouz - Onegai Muscle.mp3]]"
-related: []
+related: ["[[Ai Fairouz - Onegai Muscle (TV Size)]]"]
 ListenInSec: 1893
 CoverOf: ""
 ---

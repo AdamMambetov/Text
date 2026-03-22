@@ -8,7 +8,7 @@ Creators: []
 NumberInAlbum: 0
 source: ""
 SourceFile: "[[Linked Horizon - Jiyuu no Tsubasa.mp3]]"
-related: []
+related: ["[[Linked Horizon - Jiyuu no Tsubasa (TV Size)]]"]
 ListenInSec: 816
 CoverOf: ""
 ---

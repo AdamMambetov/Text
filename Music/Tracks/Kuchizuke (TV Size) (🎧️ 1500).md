@@ -8,7 +8,7 @@ Creators: []
 NumberInAlbum: 1
 source: ""
 SourceFile: "[[BUCK-TICK - Kuchizuke (TV Size).mp3]]"
-related: []
+related: ["[[Kuchizuke (🎧️ 1499)]]"]
 ListenInSec: 186
 CoverOf: ""
 ---

@@ -8,7 +8,7 @@ Year: 0
 aliases: []
 created: 2025-01-08T01:10:14+03:00
 source: ""
-related: []
+related: ["[[Kuchizuke Diamond (🎧️ 1483)]]"]
 ListenInSec: 96
 CoverOf: ""
 ---

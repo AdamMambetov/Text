@@ -8,7 +8,7 @@ Creators: []
 NumberInAlbum: 1
 source: ""
 SourceFile: "[[Sora Amamiya, Rie Takahashi, Ai Kayano - Ano Hi no mama no Bokura.mp3]]"
-related: []
+related: ["[[Ano Hi no mama no Bokura (TV Size) - Sora Amamiya]]"]
 ListenInSec: 443
 CoverOf: ""
 ---

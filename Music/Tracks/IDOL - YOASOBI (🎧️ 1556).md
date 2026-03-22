@@ -1,16 +1,17 @@
 ---
 Album: ""
-Creators: []
-Cover: ""
-NumberInAlbum: 1
+Creators: ["[[YOASOBI (🎙️ 660)]]"]
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[YOASOBI - IDOL.mp3]]"
 Year: 0
 aliases: ["IDOL"]
 created: 2025-01-08T19:25:27+03:00
 source: ""
-related: []
+related: ["[[IDOL (TV Size) - YOASOBI]]"]
 ListenInSec: 478
 CoverOf: ""
+valid: true
 ---
 
 # YOASOBI - IDOL

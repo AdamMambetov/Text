@@ -9,7 +9,7 @@ Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 NumberInAlbum: 0
-related: []
+related: ["[[Pre-Parade (TV Size) - Kugimiya Rie]]"]
 ListenInSec: 2859
 ---
 

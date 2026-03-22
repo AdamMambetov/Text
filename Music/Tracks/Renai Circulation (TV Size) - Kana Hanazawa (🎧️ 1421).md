@@ -8,7 +8,7 @@ Creators: ["[[Kana Hanazawa (🎙️ 186)]]"]
 NumberInAlbum: 1
 source: ""
 SourceFile: "[[Kana Hanazawa - Renai Circulation (TV Size).mp3]]"
-related: []
+related: ["[[Renai Circulation - Kana Hanazawa (🎧️ 298)]]"]
 ListenInSec: 182
 CoverOf: ""
 ---

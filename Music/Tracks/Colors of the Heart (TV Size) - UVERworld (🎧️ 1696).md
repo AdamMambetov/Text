@@ -8,7 +8,7 @@ Creators: ["[[UVERworld (🎙️ 477)]]"]
 NumberInAlbum: 0
 source: ""
 SourceFile: "[[UVERworld - Colors of the Heart (TV Size).mp3]]"
-related: []
+related: ["[[Colors of the Heart - UVERworld (🎧️ 1264)]]"]
 ListenInSec: 91
 CoverOf: ""
 valid: true

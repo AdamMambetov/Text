@@ -10,7 +10,7 @@ created: 2023-07-09T18:53:00+03:00
 source: ""
 related: []
 ListenInSec: 18
-CoverOf: ""
+CoverOf: "[[Goya no Machiawase - Hello Sleepwalkers (🎧️ 14)]]"
 ---
 
 # Jackie-O - Goya no Machiawase

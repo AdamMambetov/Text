@@ -8,7 +8,7 @@ Year: 2011
 aliases: ["Connect (TV Size)","Madoka OP 1","Мадока OP 1"]
 created: 2024-07-21T15:51:02+03:00
 source: ""
-related: []
+related: ["[[Connect - ClariS (🎧️ 1230)]]"]
 ListenInSec: 96
 CoverOf: ""
 valid: true

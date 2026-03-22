@@ -1,5 +1,5 @@
 ---
-Album: "[[Awake and Alive ~ Skillet ]]"
+Album: ""
 Creators: ["[[PanHeads Band (🎙️ 411)]]"]
 Cover: ""
 NumberInAlbum: 6
@@ -10,7 +10,7 @@ created: 2022-08-08T11:08:24+03:00
 source: ""
 related: []
 ListenInSec: 623
-CoverOf: ""
+CoverOf: "[[Awake and Alive - Skillet (🎧️ 1170)]]"
 ---
 
 # Panheads Band - Проснулся и живой

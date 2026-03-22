@@ -1,8 +1,8 @@
 ---
 Album: ""
-Creators: []
-Cover: ""
-NumberInAlbum: 1
+Creators: ["[[Mattyyym (🎙️ 701)]]"]
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[Mattyyym - Trip Innocent of D.mp3]]"
 Year: 0
 aliases: ["Trip Innocent of D"]
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 299
 CoverOf: "[[Trip Innocent of D (🎧️ 643)]]"
+valid: true
 ---
 
 # Mattyyym - Trip Innocent of D

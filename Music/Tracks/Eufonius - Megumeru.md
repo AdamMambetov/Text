@@ -8,7 +8,7 @@ Creators: []
 NumberInAlbum: 0
 source: ""
 SourceFile: "[[Eufonius - Megumeru.mp3]]"
-related: []
+related: ["[[Eufonius - Megumeru (TV Size)]]"]
 ListenInSec: 2240
 CoverOf: ""
 ---
