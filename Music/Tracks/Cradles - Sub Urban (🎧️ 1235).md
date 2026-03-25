@@ -1,8 +1,8 @@
 ---
-Album: "[[Cradles]]"
+Album: ""
 Creators: ["[[Sub Urban (🎙️ 448)]]"]
-Cover: ""
-NumberInAlbum: 1
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[Sub Urban - Cradles.mp3]]"
 Year: 2019
 aliases: ["Cradles"]
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 1036
 CoverOf: ""
+valid: true
 ---
 
 # Sub Urban - Cradles
