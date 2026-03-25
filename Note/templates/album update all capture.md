@@ -4,7 +4,7 @@ dv = app.plugins.plugins.dataview.api
 let arr = dv.pages('"Text/Music/Albums"')
 	.sort(p => p.created, "asc")
 let bExit = false
-arr.forEach(async (p) => {
+arr.forEach(async (p, i) => {
 	if (bExit) return
 	//new Notice(p.file.name, 15000)
 	let file = tp.file.find_tfile(p.file.path)
@@ -14,7 +14,7 @@ arr.forEach(async (p) => {
 			.replaceAll("#", "")
 			.replaceAll("/", "")
 			.replaceAll("\\", "")
-		let num = arr.indexOf(p) + 1
+		let num = i + 1
 		let title = `${albumName} (📀 ${num}).md`
 		
 		if (file.name === title)
