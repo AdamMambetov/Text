@@ -1,11 +1,14 @@
 ---
 Album: ""
-Creators: ["[[RADIO TAPOK (🎙️ 423)]]"]
+Creators:
+  - "[[RADIO TAPOK (🎙️ 421)]]"
 Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 0
 SourceFile: "[[RADIO TAPOK - Sonne.mp3]]"
 Year: 2020
-aliases: ["Солнце","Sonne"]
+aliases:
+  - Солнце
+  - Sonne
 created: 2022-04-21T05:08:12+03:00
 source: ""
 related: []

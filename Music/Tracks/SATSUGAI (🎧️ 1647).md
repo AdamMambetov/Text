@@ -2,12 +2,12 @@
 Album: ""
 Creators: []
 Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 1
+NumberInAlbum: 0
 SourceFile: "[[Detroit Metal City OST - SATSUGAI.mp3]]"
 Year: 0
-aliases: ["SATSUGAI"]
+aliases: ["SATSUGAI","Detroit Metal City OP 1","DMC OP 1"]
 created: 2025-01-27T19:39:14+03:00
-source:
+source: ""
 related: []
 ListenInSec: 1250
 CoverOf: ""

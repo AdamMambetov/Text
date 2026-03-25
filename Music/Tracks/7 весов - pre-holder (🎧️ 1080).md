@@ -1,7 +1,7 @@
 ---
 Album: "[[Umineko no Naku Koro ni OST (📀 30)]]"
 Creators: ["[[pre-holder (🎙️ 5)]]"]
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 166
 SourceFile: "[[Umineko no Naku Koro ni OST - 166 7 весов.ogg]]"
 Year: 2007

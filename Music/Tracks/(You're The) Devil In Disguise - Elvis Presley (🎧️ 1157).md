@@ -1,7 +1,7 @@
 ---
 Album: "[[The Essential Elvis Presley]]"
-Creators: ["[[Elvis Presley (🎙️ 303)]]"]
-Cover: ""
+Creators: ["[[Elvis Presley (🎙️ 301)]]"]
+Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 7
 SourceFile: "[[Elvis Presley - (You're The) Devil in Disguise.mp3]]"
 Year: 1963

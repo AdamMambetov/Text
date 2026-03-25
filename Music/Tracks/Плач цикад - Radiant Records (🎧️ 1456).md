@@ -1,8 +1,12 @@
 ---
 created: 2025-01-08T01:00:28+03:00
-aliases: ["Плач цикад", "Higurashi no Naku Koro ni"]
+aliases:
+  - Плач цикад
+  - Higurashi no Naku Koro ni
 CoverOf: "[[Higurashi no Naku Koro ni - Shimamiya Eiko (🎧️ 1623)]]"
-Creators: ["[[Radiant Records (🎙️ 39)]]", "[[Tooniegirl (🎙️ 46)]]"]
+Creators:
+  - "[[Radiant Records (🎙️ 39)]]"
+  - "[[Tooniegirl (🎙️ 46)]]"
 source: ""
 SourceFile: "[[Radiant Records - Плач цикад.mp3]]"
 Cover: ""

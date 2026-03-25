@@ -1,11 +1,13 @@
 ---
 Album: ""
-Creators: ["[[RADIO TAPOK (🎙️ 423)]]"]
+Creators:
+  - "[[RADIO TAPOK (🎙️ 421)]]"
 Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 0
 SourceFile: "[[RADIO TAPOK - Personal Jesus.mp3]]"
 Year: 2021
-aliases: ["Personal Jesus"]
+aliases:
+  - Personal Jesus
 created: 2023-09-29T16:26:04+03:00
 source: ""
 related: []

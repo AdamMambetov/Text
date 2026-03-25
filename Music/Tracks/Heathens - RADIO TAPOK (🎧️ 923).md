@@ -1,11 +1,13 @@
 ---
 Album: ""
-Creators: ["[[RADIO TAPOK (🎙️ 423)]]"]
+Creators:
+  - "[[RADIO TAPOK (🎙️ 421)]]"
 Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 0
 SourceFile: "[[RADIO TAPOK - Heathens.mp3]]"
 Year: 2017
-aliases: ["Heathens"]
+aliases:
+  - Heathens
 created: 2024-01-04T13:03:11+03:00
 source: ""
 related: []

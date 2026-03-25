@@ -1,14 +1,17 @@
 ---
 Album: "[[Pray [2006] {Tommy heavenly6}]]"
-Creators: ["[[Tommy heavenly6 (🎙️ 473)]]"]
+Creators:
+  - "[[Tommy heavenly6 (🎙️ 471)]]"
 Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[Tommy heavenly6 - Pray.mp3]]"
 Year: 2006
-aliases: ["Pray"]
+aliases:
+  - Pray
 created: 2022-04-22T21:48:58+03:00
 source: ""
-related: ["[[Pray (TV Size) - Tommy heavenly6]]"]
+related:
+  - "[[Pray (TV Size) - Tommy heavenly6]]"
 ListenInSec: 279
 CoverOf: ""
 ---

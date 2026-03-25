@@ -1,11 +1,13 @@
 ---
 Album: ""
-Creators: ["[[Stonebank (🎙️ 619)]]"]
+Creators:
+  - "[[Stonebank (🎙️ 617)]]"
 Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 1
 SourceFile: "[[Stonebank - The Pressure.mp3]]"
 Year: 0
-aliases: ["The Pressure"]
+aliases:
+  - The Pressure
 created: 2022-10-05T13:57:04+03:00
 source: ""
 related: []

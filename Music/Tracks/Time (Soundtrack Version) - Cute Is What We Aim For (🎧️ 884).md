@@ -1,10 +1,12 @@
 ---
 created: 2023-09-29T16:24:38+03:00
-aliases: ["Time (Soundtrack Version)"]
+aliases:
+  - Time (Soundtrack Version)
 Cover: ""
 Year: 2008
 Album: "[[Rotation]]"
-Creators: ["[[Cute Is What We Aim For (🎙️ 272)]]"]
+Creators:
+  - "[[Cute Is What We Aim For (🎙️ 271)]]"
 NumberInAlbum: 11
 source: ""
 SourceFile: "[[Cute Is What We Aim For - Time.mp3]]"

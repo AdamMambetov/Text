@@ -1,10 +1,12 @@
 ---
 created: 2026-03-20T02:35:55+03:00
-aliases: ["Kyo no Uta"]
+aliases:
+  - Kyo no Uta
 Cover: "[[Sonny Boy OST.jpg]]"
 Year: 2021
 Album: "[[Sonny Boy OST (📀 41)]]"
-Creators: ["[[Kaneyori Masaru (🎙️ 700)]]"]
+Creators:
+  - "[[Kaneyori Masaru (🎙️ 699)]]"
 NumberInAlbum: 13
 source: ""
 SourceFile: "[[Sonny Boy OST - Kyo no Uta.mp3]]"

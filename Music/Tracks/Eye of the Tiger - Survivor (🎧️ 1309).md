@@ -1,11 +1,13 @@
 ---
 Album: "[[Eye of the Tiger]]"
-Creators: ["[[Survivor (🎙️ 453)]]"]
+Creators:
+  - "[[Survivor (🎙️ 451)]]"
 Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[Survivor - Eye of the Tiger.mp3]]"
 Year: 1982
-aliases: ["Eye of the Tiger"]
+aliases:
+  - Eye of the Tiger
 created: 2024-10-23T15:10:26+03:00
 source: ""
 related: []

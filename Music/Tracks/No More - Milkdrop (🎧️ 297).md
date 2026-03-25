@@ -1,11 +1,13 @@
 ---
 Album: "[[No More [2017] {Milkdrop}]]"
-Creators: ["[[Milkdrop (🎙️ 546)]]"]
+Creators:
+  - "[[Milkdrop (🎙️ 544)]]"
 Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 1
 SourceFile: "[[Milkdrop - No More.mp3]]"
 Year: 2017
-aliases: ["No More"]
+aliases:
+  - No More
 created: 2022-04-23T02:25:52+03:00
 source:
 related: []

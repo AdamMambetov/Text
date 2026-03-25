@@ -1,11 +1,13 @@
 ---
 Album: ""
-Creators: ["[[Halestorm (🎙️ 509)]]"]
+Creators:
+  - "[[Halestorm (🎙️ 507)]]"
 Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 0
 SourceFile: "[[Halestorm - I Miss the Misery.mp3]]"
 Year: 2012
-aliases: ["I Miss the Misery"]
+aliases:
+  - I Miss the Misery
 created: 2022-04-22T20:49:30+03:00
 source: ""
 related: []

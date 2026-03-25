@@ -8,13 +8,13 @@ Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 Creators:
-  - "[[Jackie-O (🎙️ 341)]]"
-NumberInAlbum:
+  - "[[Jackie-O (🎙️ 339)]]"
+NumberInAlbum: 0
 source: https://youtu.be/4O6LnZ-pMXA?si=Uoc2jlVrS01g2V3S
 SourceFile: "[[Jackie-O - Flyers (TV Size).mp3]]"
 related: []
-ListenInSec:
-CoverOf: "[[Flyers (TV Size) - BRADIO (🎧️ 1691)]]"
+ListenInSec: 0
+CoverOf: "[[Flyers (TV Size) - BRADIO (🎧️ 1688)]]"
 ---
 
 

@@ -1,10 +1,13 @@
 ---
 created: 2025-07-31T18:18:10+03:00
-aliases: ["Animal"]
+aliases:
+  - Animal
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
-Creators: ["[[Jim Yosef (🎙️ 686)]]","[[RIELL (🎙️ 687)]]"]
+Creators:
+  - "[[Jim Yosef (🎙️ 685)]]"
+  - "[[RIELL (🎙️ 686)]]"
 NumberInAlbum: 0
 source: ""
 SourceFile: "[[Jim Yosef x RIELL - Animal.mp3]]"
@@ -16,7 +19,7 @@ valid: true
 
 `$=dv.header(1, dv.current().aliases[0])`
 
-![[Jim Yosef x  - Animal.mp3]]
+![[Jim Yosef x RIELL - Animal.mp3]]
 
 ## Related Tracks
 

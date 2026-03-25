@@ -1,11 +1,13 @@
 ---
 Album: ""
-Creators: ["[[Set It Off (🎙️ 438)]]"]
+Creators:
+  - "[[Set It Off (🎙️ 436)]]"
 Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 0
 SourceFile: "[[Set It Off - I'll Sleep When I'm Dead.mp3]]"
 Year: 2013
-aliases: ["I'll Sleep When I'm Dead"]
+aliases:
+  - I'll Sleep When I'm Dead
 created: 2022-04-22T21:32:44+03:00
 source: ""
 related: []

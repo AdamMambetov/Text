@@ -1,11 +1,13 @@
 ---
 Album: ""
-Creators: ["[[Three Days Grace (🎙️ 471)]]"]
+Creators:
+  - "[[Three Days Grace (🎙️ 469)]]"
 Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 0
 SourceFile: "[[Three Days Grace - Get Out Alive.mp3]]"
 Year: 2006
-aliases: ["Get Out Alive"]
+aliases:
+  - Get Out Alive
 created: 2024-10-30T19:27:34+03:00
 source: ""
 related: []

@@ -1,11 +1,13 @@
 ---
 Album: ""
-Creators: ["[[Yooh (🎙️ 599)]]"]
+Creators:
+  - "[[Yooh (🎙️ 597)]]"
 Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 8
 SourceFile: "[[Yooh - MariannE.mp3]]"
 Year: 2014
-aliases: ["MariannE"]
+aliases:
+  - MariannE
 created: 2022-10-05T13:37:52+03:00
 source: ""
 related: []

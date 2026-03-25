@@ -1,14 +1,19 @@
 ---
 Album: "[[SAMURAI SESSIONS vol.2]]"
-Creators: ["[[Miyavi (🎙️ 381)]]"]
+Creators:
+  - "[[Miyavi (🎙️ 379)]]"
 Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 7
 SourceFile: "[[Miyavi - Flashback.mp3]]"
 Year: 2017
-aliases: ["Flashback","Kokkoku OP 1","Миг за мигом OP 1"]
+aliases:
+  - Flashback
+  - Kokkoku OP 1
+  - Миг за мигом OP 1
 created: 2023-09-29T16:25:19+03:00
 source: ""
-related: ["[[Flashback (TV Size) (🎧️ 973)]]"]
+related:
+  - "[[Flashback (TV Size) (🎧️ 973)]]"
 ListenInSec: 351
 CoverOf: ""
 ---

@@ -1,11 +1,13 @@
 ---
 Album: ""
-Creators: ["[[Hollywood Undead (🎙️ 332)]]"]
+Creators:
+  - "[[Hollywood Undead (🎙️ 330)]]"
 Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 0
 SourceFile: "[[Hollywood Undead - We Are.mp3]]"
 Year: 2012
-aliases: ["We Are"]
+aliases:
+  - We Are
 created: 2022-04-22T20:52:06+03:00
 source: ""
 related: []

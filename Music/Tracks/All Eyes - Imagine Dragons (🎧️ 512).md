@@ -1,11 +1,13 @@
 ---
 Album: "[[Hell And Silence EP]]"
-Creators: ["[[Imagine Dragons (🎙️ 336)]]"]
+Creators:
+  - "[[Imagine Dragons (🎙️ 334)]]"
 Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[Imagine Dragons - All Eyes.mp3]]"
 Year: 2010
-aliases: ["All Eyes"]
+aliases:
+  - All Eyes
 created: 2022-12-09T06:56:16+03:00
 source: ""
 related: []

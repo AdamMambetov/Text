@@ -1,7 +1,7 @@
 ---
 Album: "[[Umineko no Naku Koro ni OST (📀 30)]]"
 Creators: ["[[Sumiisan (🎙️ 2)]]"]
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 10
 SourceFile: "[[Umineko no Naku Koro ni OST - 010 “Идиллия”.ogg]]"
 Year: 2007

@@ -1,11 +1,13 @@
 ---
 Album: ""
-Creators: ["[[System Of A Down (🎙️ 455)]]"]
+Creators:
+  - "[[System Of A Down (🎙️ 453)]]"
 Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 0
 SourceFile: "[[System Of A Down - Lonely Day.mp3]]"
 Year: 0
-aliases: ["Lonely Day"]
+aliases:
+  - Lonely Day
 created: 2022-12-20T23:27:18+03:00
 source: ""
 related: []

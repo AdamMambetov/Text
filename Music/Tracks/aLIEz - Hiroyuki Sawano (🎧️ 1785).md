@@ -1,14 +1,20 @@
 ---
 created: 2025-10-28T20:46:28+03:00
-aliases: ["aLIEz","Aldnoah.Zero ED 2","Альдноа.Зеро ED 2"]
+aliases:
+  - aLIEz
+  - Aldnoah.Zero ED 2
+  - Альдноа.Зеро ED 2
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
-Creators: ["[[Hiroyuki Sawano (🎙️ 331)]]","[[mizuki (🎙️ 663)]]"]
+Creators:
+  - "[[Hiroyuki Sawano (🎙️ 329)]]"
+  - "[[mizuki (🎙️ 662)]]"
 NumberInAlbum: 0
 source: ""
 SourceFile: "[[SawanoHiroyuki_nZk_mizuki - aLIEz.mp3]]"
-related: ["[[aLIEz (TV Size) - Hiroyuki Sawano]]"]
+related:
+  - "[[aLIEz (TV Size) - Hiroyuki Sawano]]"
 ListenInSec: 1665
 CoverOf: ""
 valid: true

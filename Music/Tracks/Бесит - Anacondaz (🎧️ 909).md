@@ -1,7 +1,7 @@
 ---
 Album: "[[Байки инсайдера]]"
 Creators: ["[[Anacondaz (🎙️ 179)]]"]
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 6
 SourceFile: "[[Anacondaz - Бесит.mp3]]"
 Year: 2015

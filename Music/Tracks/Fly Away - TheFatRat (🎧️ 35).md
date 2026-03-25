@@ -1,11 +1,14 @@
 ---
 Album: ""
-Creators: ["[[TheFatRat (🎙️ 500)]]", "[[Anjulie (🎙️ 501)]]"]
+Creators:
+  - "[[TheFatRat (🎙️ 498)]]"
+  - "[[Anjulie (🎙️ 499)]]"
 Cover: "[[Fly Away.png]]"
 NumberInAlbum: 0
 SourceFile: "[[TheFatRat - Fly Away.mp3]]"
 Year: 2017
-aliases: ["Fly Away"]
+aliases:
+  - Fly Away
 created: 2022-04-21T01:53:58+03:00
 source: ""
 related: []

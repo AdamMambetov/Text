@@ -1,11 +1,13 @@
 ---
 Album: ""
-Creators: ["[[VINXIS (🎙️ 502)]]"]
+Creators:
+  - "[[VINXIS (🎙️ 500)]]"
 Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 0
 SourceFile: "[[VINXIS - Sidetracked Day.mp3]]"
 Year: 0
-aliases: ["Sidetracked Day"]
+aliases:
+  - Sidetracked Day
 created: 2022-10-05T13:54:22+03:00
 source: ""
 related: []

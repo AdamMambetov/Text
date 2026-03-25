@@ -1,11 +1,13 @@
 ---
 Album: ""
-Creators: ["[[sumika (🎙️ 450)]]"]
+Creators:
+  - "[[sumika (🎙️ 448)]]"
 Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 0
 SourceFile: "[[sumika - Fanfare.mp3]]"
 Year: 0
-aliases: ["Fanfare"]
+aliases:
+  - Fanfare
 created: 2022-10-05T13:57:24+03:00
 source: ""
 related: []

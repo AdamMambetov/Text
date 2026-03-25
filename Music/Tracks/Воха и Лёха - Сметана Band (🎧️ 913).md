@@ -1,7 +1,7 @@
 ---
 Album: "[[Всё очень плохо]]"
 Creators: ["[[Сметана Band (🎙️ 133)]]"]
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 8
 SourceFile: "[[Сметана band - Воха и Лёха.mp3]]"
 Year: 2017

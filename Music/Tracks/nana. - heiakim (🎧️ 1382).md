@@ -1,16 +1,19 @@
 ---
 Album: ""
-Creators: ["[[heiakim (🎙️ 623)]]"]
+Creators:
+  - "[[heiakim (🎙️ 621)]]"
 Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 1
+NumberInAlbum: 0
 SourceFile: "[[heiakim - nana.mp3]]"
 Year: 0
-aliases: ["nana."]
+aliases:
+  - nana.
 created: 2025-01-07T19:33:16+03:00
 source: ""
 related: []
 ListenInSec: 1567
 CoverOf: ""
+valid: true
 ---
 
 # heiakim - nana.

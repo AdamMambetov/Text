@@ -1,11 +1,13 @@
 ---
 Album: ""
-Creators: ["[[cYsmix (🎙️ 273)]]"]
+Creators:
+  - "[[cYsmix (🎙️ 272)]]"
 Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[cYsmix - Moonlight Sonata.mp3]]"
 Year: 2015
-aliases: ["Moonlight Sonata"]
+aliases:
+  - Moonlight Sonata
 created: 2022-05-02T03:31:04+03:00
 source: ""
 related: []

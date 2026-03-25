@@ -5,12 +5,12 @@ Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[The Melancholy of Haruhi Suzumiya OST - God Knows....mp3]]"
 Year: 0
-aliases: []
+aliases: ["God Knows..."]
 created: 2025-01-08T23:09:25+03:00
 source: ""
 related: []
 ListenInSec: 555
-CoverOf: ""
+CoverOf: "[[God Knows... - Hirano Aya (🎧️ 1608)]]"
 ---
 
 # The Melancholy of Haruhi Suzumiya OST - God Knows...

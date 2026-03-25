@@ -1,11 +1,17 @@
 ---
 Album: ""
-Creators: ["[[Onsa Media (🎙️ 404)]]"]
+Creators:
+  - "[[Onsa Media (🎙️ 402)]]"
 Cover: "[[Onsa Media - Crossing Field.png]]"
 NumberInAlbum: 0
 SourceFile: "[[Onsa Media - Crossing Field.mp3]]"
 Year: 2021
-aliases: ["Crossing Field","Sword Art Online 1 OP","Мастера меча онлайн 1 OP","SAO 1 OP","САО 1 OP"]
+aliases:
+  - Crossing Field
+  - Sword Art Online 1 OP
+  - Мастера меча онлайн 1 OP
+  - SAO 1 OP
+  - САО 1 OP
 created: 2022-04-28T01:58:48+03:00
 source: ""
 related: []

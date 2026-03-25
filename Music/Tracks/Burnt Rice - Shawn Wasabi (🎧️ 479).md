@@ -1,11 +1,14 @@
 ---
 Album: ""
-Creators: ["[[Shawn Wasabi (🎙️ 614)]]", "[[YUNG GEMMY (🎙️ 615)]]"]
+Creators:
+  - "[[Shawn Wasabi (🎙️ 612)]]"
+  - "[[YUNG GEMMY (🎙️ 613)]]"
 Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 1
 SourceFile: "[[Shawn Wasabi ft. YUNG GEMMY - Burnt Rice.mp3]]"
 Year: 0
-aliases: ["Burnt Rice"]
+aliases:
+  - Burnt Rice
 created: 2022-10-05T13:54:06+03:00
 source: ""
 related: []

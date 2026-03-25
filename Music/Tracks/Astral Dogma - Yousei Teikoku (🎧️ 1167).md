@@ -1,10 +1,12 @@
 ---
 created: 2024-10-10T22:29:30+03:00
-aliases: ["Astral Dogma"]
+aliases:
+  - Astral Dogma
 Cover: ""
 Year: 2013
 Album: "[[Pax Vesania]]"
-Creators: ["[[Yousei Teikoku (🎙️ 278)]]"]
+Creators:
+  - "[[Yousei Teikoku (🎙️ 277)]]"
 NumberInAlbum: 2
 source: ""
 SourceFile: "[[Yousei Teikoku - Astral Dogma.mp3]]"

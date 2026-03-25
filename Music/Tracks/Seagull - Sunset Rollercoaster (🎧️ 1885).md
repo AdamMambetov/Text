@@ -1,10 +1,12 @@
 ---
 created: 2026-03-20T02:34:09+03:00
-aliases: ["Seagull"]
+aliases:
+  - Seagull
 Cover: "[[Sonny Boy OST.jpg]]"
 Year: 2021
 Album: "[[Sonny Boy OST (📀 41)]]"
-Creators: ["[[Sunset Rollercoaster (🎙️ 695)]]"]
+Creators:
+  - "[[Sunset Rollercoaster (🎙️ 694)]]"
 NumberInAlbum: 3
 source: ""
 SourceFile: "[[Sonny Boy OST - Seagull.mp3]]"

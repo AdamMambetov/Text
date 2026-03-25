@@ -1,11 +1,13 @@
 ---
 Album: ""
-Creators: ["[[SPYAIR (🎙️ 446)]]"]
+Creators:
+  - "[[SPYAIR (🎙️ 444)]]"
 Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 0
 SourceFile: "[[SPYAIR - MIDNIGHT.mp3]]"
 Year: 0
-aliases: ["MIDNIGHT"]
+aliases:
+  - MIDNIGHT
 created: 2022-10-05T13:54:40+03:00
 source: ""
 related: []

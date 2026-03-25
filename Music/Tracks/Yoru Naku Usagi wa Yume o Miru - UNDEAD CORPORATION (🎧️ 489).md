@@ -1,11 +1,13 @@
 ---
 Album: ""
-Creators: ["[[UNDEAD CORPORATION (🎙️ 580)]]"]
+Creators:
+  - "[[UNDEAD CORPORATION (🎙️ 578)]]"
 Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 0
 SourceFile: "[[UNDEAD CORPORATION - The Dream Of A Rabbit.mp3]]"
 Year: 0
-aliases: ["Yoru Naku Usagi wa Yume o Miru"]
+aliases:
+  - Yoru Naku Usagi wa Yume o Miru
 created: 2022-10-05T14:01:36+03:00
 source: ""
 related: []

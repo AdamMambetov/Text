@@ -1,11 +1,13 @@
 ---
 Album: ""
-Creators: ["[[RADIO TAPOK (🎙️ 423)]]"]
+Creators:
+  - "[[RADIO TAPOK (🎙️ 421)]]"
 Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[RADIO TAPOK - Du Hast.mp3]]"
 Year: 0
-aliases: ["Du Hast"]
+aliases:
+  - Du Hast
 created: 2025-01-08T20:11:29+03:00
 source: ""
 related: []

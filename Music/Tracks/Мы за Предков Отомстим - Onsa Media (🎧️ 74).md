@@ -1,11 +1,13 @@
 ---
 Album: "[[Sono Chi no Kioku end of THE WORLD [2021] {Coconut Dog, Марк Счётчиков, Seraph}]]"
-Creators: ["[[Onsa Media (🎙️ 404)]]"]
+Creators:
+  - "[[Onsa Media (🎙️ 402)]]"
 Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 0
 SourceFile: "[[Onsa Media - Sono Chi no Kioku end of THE WORLD.mp3]]"
 Year: 0
-aliases: ["Мы за Предков Отомстим"]
+aliases:
+  - Мы за Предков Отомстим
 created: 2022-04-21T04:15:46+03:00
 source: ""
 related: []

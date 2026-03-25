@@ -1,11 +1,13 @@
 ---
 Album: ""
-Creators: ["[[SiM (🎙️ 639)]]"]
+Creators:
+  - "[[SiM (🎙️ 637)]]"
 Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 1
 SourceFile: "[[SiM - The Rumbling (TV Size).mp3]]"
 Year: 0
-aliases: ["The Rumbling (TV Size)"]
+aliases:
+  - The Rumbling (TV Size)
 created: 2025-01-08T00:15:46+03:00
 source: ""
 related: []

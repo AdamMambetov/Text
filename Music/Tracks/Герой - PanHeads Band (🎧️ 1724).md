@@ -4,7 +4,7 @@ aliases: ["Герой","Hero"]
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
-Creators: ["[[PanHeads Band (🎙️ 411)]]"]
+Creators: ["[[PanHeads Band (🎙️ 409)]]"]
 NumberInAlbum: 0
 source: ""
 SourceFile: "[[PANHEADS BAND - Герой.mp3]]"

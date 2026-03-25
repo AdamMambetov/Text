@@ -1,7 +1,7 @@
 ---
 Album: "[[Umineko no Naku Koro ni OST (📀 30)]]"
 Creators: ["[[pre-holder (🎙️ 5)]]"]
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 136
 SourceFile: "[[Umineko no Naku Koro ni OST - 136 Вечные оковы.ogg]]"
 Year: 2007

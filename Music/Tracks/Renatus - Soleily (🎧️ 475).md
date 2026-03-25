@@ -1,11 +1,13 @@
 ---
 Album: ""
-Creators: ["[[Soleily (🎙️ 611)]]"]
+Creators:
+  - "[[Soleily (🎙️ 609)]]"
 Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 0
 SourceFile: "[[Soleily - Renatus.mp3]]"
 Year: 2013
-aliases: ["Renatus"]
+aliases:
+  - Renatus
 created: 2022-10-05T13:49:58+03:00
 source: ""
 related: []

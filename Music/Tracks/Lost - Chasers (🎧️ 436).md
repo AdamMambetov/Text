@@ -1,11 +1,13 @@
 ---
 Album: ""
-Creators: ["[[Chasers (🎙️ 257)]]"]
+Creators:
+  - "[[Chasers (🎙️ 256)]]"
 Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 0
 SourceFile: "[[Chasers - Lost.mp3]]"
 Year: 2013
-aliases: ["Lost"]
+aliases:
+  - Lost
 created: 2022-10-05T13:03:36+03:00
 source: ""
 related: []

@@ -1,7 +1,7 @@
 ---
 Album: "[[All Time Best]]"
-Creators: ["[[UVERworld (🎙️ 477)]]"]
-Cover: ""
+Creators: ["[[UVERworld (🎙️ 475)]]"]
+Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 2
 SourceFile: "[[UVERworld - 7th Trigger.mp3]]"
 Year: 2007

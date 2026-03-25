@@ -1,11 +1,13 @@
 ---
 Album: ""
-Creators: ["[[Imagine Dragons (🎙️ 336)]]"]
+Creators:
+  - "[[Imagine Dragons (🎙️ 334)]]"
 Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 0
 SourceFile: "[[Imagine Dragons - Radioactive.mp3]]"
 Year: 2013
-aliases: ["Radioactive"]
+aliases:
+  - Radioactive
 created: 2022-04-22T20:55:36+03:00
 source: ""
 related: []

@@ -1,8 +1,8 @@
 ---
-Album: "[[Gamer]]"
-Creators: ["[[Plamenev (🎙️ 416)]]"]
-Cover: ""
-NumberInAlbum: 2
+Album: ""
+Creators: ["[[Plamenev (🎙️ 414)]]"]
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
 SourceFile: "[[Plamenev - Геймер.mp3]]"
 Year: 2021
 aliases: ["Геймер"]
@@ -11,6 +11,7 @@ source: ""
 related: []
 ListenInSec: 4
 CoverOf: ""
+valid: true
 ---
 
 # Plamenev - Геймер

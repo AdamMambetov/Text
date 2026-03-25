@@ -1,11 +1,13 @@
 ---
 Album: "[[<I°_°I>]]"
-Creators: ["[[Caravan Palace (🎙️ 250)]]"]
+Creators:
+  - "[[Caravan Palace (🎙️ 249)]]"
 Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[Caravan Palace - Lone Digger.mp3]]"
 Year: 2015
-aliases: ["Lone Digger"]
+aliases:
+  - Lone Digger
 created: 2023-09-29T16:23:27+03:00
 source: ""
 related: []

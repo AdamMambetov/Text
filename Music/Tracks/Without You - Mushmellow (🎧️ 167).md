@@ -1,11 +1,13 @@
 ---
 Album: ""
-Creators: ["[[Mushmellow (🎙️ 524)]]"]
+Creators:
+  - "[[Mushmellow (🎙️ 522)]]"
 Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 0
 SourceFile: "[[Mushmellow - Without You.mp3]]"
 Year: 2008
-aliases: ["Without You"]
+aliases:
+  - Without You
 created: 2022-04-22T21:11:22+03:00
 source: ""
 related: []

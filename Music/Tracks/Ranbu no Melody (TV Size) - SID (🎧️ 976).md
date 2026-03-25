@@ -1,14 +1,17 @@
 ---
 Album: ""
-Creators: ["[[SID (🎙️ 439)]]"]
+Creators:
+  - "[[SID (🎙️ 437)]]"
 Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[SID - Ranbu No Melody (TV Size).mp3]]"
 Year: 0
-aliases: ["Ranbu no Melody (TV Size)"]
+aliases:
+  - Ranbu no Melody (TV Size)
 created: 2024-07-21T15:56:18+03:00
 source: ""
-related: ["[[Ranbu No Melody - SID (🎧️ 227)]]"]
+related:
+  - "[[Ranbu No Melody - SID (🎧️ 227)]]"
 ListenInSec: 272
 CoverOf: ""
 ---

@@ -1,11 +1,13 @@
 ---
 Album: "[[On Top of the World [2015] {Tim McMorris}]]"
-Creators: ["[[Tim McMorris (🎙️ 472)]]"]
+Creators:
+  - "[[Tim McMorris (🎙️ 470)]]"
 Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[Tim McMorris - On Top of the World.mp3]]"
 Year: 2015
-aliases: ["On Top of the World"]
+aliases:
+  - On Top of the World
 created: 2022-04-22T21:48:12+03:00
 source: ""
 related: []

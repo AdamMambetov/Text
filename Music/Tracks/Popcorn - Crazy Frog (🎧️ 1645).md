@@ -3,9 +3,11 @@ source:
 SourceFile: "[[Crazy Frog - Popcorn.mp3]]"
 Year: 2011
 Album: ""
-aliases: ["Popcorn"]
+aliases:
+  - Popcorn
 created: 2025-05-04T02:58:29+03:00
-Creators: ["[[Crazy Frog (🎙️ 269)]]"]
+Creators:
+  - "[[Crazy Frog (🎙️ 268)]]"
 Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 0
 related: []

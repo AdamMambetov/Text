@@ -1,11 +1,13 @@
 ---
 Album: ""
-Creators: ["[[Sati Akura (🎙️ 359)]]"]
+Creators:
+  - "[[Sati Akura (🎙️ 357)]]"
 Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 0
 SourceFile: "[[Sati Akura - Lagtrain.mp3]]"
 Year: 2021
-aliases: ["Lagtrain"]
+aliases:
+  - Lagtrain
 created: 2024-12-06T00:07:20+03:00
 source: ""
 related: []

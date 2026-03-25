@@ -1,11 +1,15 @@
 ---
 Album: ""
-Creators: ["[[Jackie-O (🎙️ 341)]]"]
+Creators:
+  - "[[Jackie-O (🎙️ 339)]]"
 Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 0
 SourceFile: "[[Jackie-O - Stepping Out.mp3]]"
 Year: 0
-aliases: ["Steppin' Out","Durarara!! OP 4","Дюрарара!! OP 4"]
+aliases:
+  - Steppin' Out
+  - Durarara!! OP 4
+  - Дюрарара!! OP 4
 created: 2023-07-09T19:45:24+03:00
 source: ""
 related: []

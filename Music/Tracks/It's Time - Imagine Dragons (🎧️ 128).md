@@ -1,11 +1,13 @@
 ---
 Album: ""
-Creators: ["[[Imagine Dragons (🎙️ 336)]]"]
+Creators:
+  - "[[Imagine Dragons (🎙️ 334)]]"
 Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 0
 SourceFile: "[[Imagine Dragons - It's Time.mp3]]"
 Year: 2013
-aliases: ["It's Time"]
+aliases:
+  - It's Time
 created: 2022-04-22T20:54:58+03:00
 source: ""
 related: []

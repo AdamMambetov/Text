@@ -1,7 +1,7 @@
 ---
 Album: "[[The Great War]]"
-Creators: ["[[Sabaton (🎙️ 434)]]"]
-Cover: ""
+Creators: ["[[Sabaton (🎙️ 432)]]"]
+Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 3
 SourceFile: "[[Sabaton - 82nd All the Way.mp3]]"
 Year: 2019

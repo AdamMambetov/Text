@@ -1,11 +1,13 @@
 ---
 Album: ""
-Creators: ["[[Hamburgaga (🎙️ 581)]]"]
+Creators:
+  - "[[Hamburgaga (🎙️ 579)]]"
 Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 0
 SourceFile: "[[Hamburgaga - Fubuki Guys.mp3]]"
 Year: 0
-aliases: ["Fubuki Guys"]
+aliases:
+  - Fubuki Guys
 created: 2022-10-05T13:26:58+03:00
 source: ""
 related: []

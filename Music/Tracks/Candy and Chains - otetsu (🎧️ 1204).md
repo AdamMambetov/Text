@@ -1,11 +1,13 @@
 ---
 Album: "[[Candy and Chains]]"
-Creators: ["[[otetsu (🎙️ 405)]]"]
+Creators:
+  - "[[otetsu (🎙️ 403)]]"
 Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[otetsu - Ame to Kusari (Short Version).m4a]]"
 Year: 2015
-aliases: ["Candy and Chains"]
+aliases:
+  - Candy and Chains
 created: 2024-10-13T22:43:24+03:00
 source: ""
 related: []

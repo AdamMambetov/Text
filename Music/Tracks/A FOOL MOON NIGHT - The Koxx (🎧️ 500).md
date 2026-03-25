@@ -1,11 +1,13 @@
 ---
 Album: ""
-Creators: ["[[The Koxx (🎙️ 460)]]"]
+Creators:
+  - "[[The Koxx (🎙️ 458)]]"
 Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 0
 SourceFile: "[[The Koxx - A FOOL MOON NIGHT.mp3]]"
 Year: 0
-aliases: ["A FOOL MOON NIGHT"]
+aliases:
+  - A FOOL MOON NIGHT
 created: 2022-10-30T13:21:38+03:00
 source: ""
 related: []

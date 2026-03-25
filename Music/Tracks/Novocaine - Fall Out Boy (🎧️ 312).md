@@ -1,11 +1,13 @@
 ---
 Album: "[[American Beauty/American Psycho [2015] {Fall Out Boy}]]"
-Creators: ["[[Fall Out Boy (🎙️ 308)]]"]
+Creators:
+  - "[[Fall Out Boy (🎙️ 306)]]"
 Cover: ""
 NumberInAlbum: 7
 SourceFile: "[[Fall Out Boy - Novocaine.mp3]]"
 Year: 2015
-aliases: ["Novocaine"]
+aliases:
+  - Novocaine
 created: 2022-04-26T01:13:06+03:00
 source: ""
 related: []

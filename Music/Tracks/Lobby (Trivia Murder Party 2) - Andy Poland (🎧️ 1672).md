@@ -1,0 +1,19 @@
+---
+source: ""
+SourceFile: "[[Trivia Murder Party 2 OST - 01 Lobby.mp3]]"
+Year: 2019
+Album: "[[The Jackbox Party Pack 6 (Original Soundtrack)]]"
+aliases: ["Lobby (Trivia Murder Party 2)","Lobby (Смертельная вечеринка 2)"]
+created: 2025-05-04T14:48:28+03:00
+Creators: ["[[Andy Poland (🎙️ 183)]]"]
+Cover: "[[_No Album Art.jpg]]"
+NumberInAlbum: 0
+related: []
+ListenInSec: 991
+CoverOf: ""
+valid: true
+---
+
+# Trivia Murder Party 2 OST - 01 Lobby
+
+![[Trivia Murder Party 2 OST - 01 Lobby.mp3]]

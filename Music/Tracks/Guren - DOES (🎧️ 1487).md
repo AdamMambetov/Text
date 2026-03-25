@@ -1,7 +1,9 @@
 ---
 created: 2025-01-08T01:14:05+03:00
-aliases: ["Guren"]
-Creators: ["[[DOES (🎙️ 36)]]"]
+aliases:
+  - Guren
+Creators:
+  - "[[DOES (🎙️ 36)]]"
 source: ""
 SourceFile: "[[DOES - Guren.mp3]]"
 Cover: "[[_No Album Art.jpg]]"

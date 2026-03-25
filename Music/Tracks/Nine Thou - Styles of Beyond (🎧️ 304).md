@@ -1,11 +1,13 @@
 ---
 Album: "[[Nine Thou [2008] {Styles of Beyond}]]"
-Creators: ["[[Styles of Beyond (🎙️ 550)]]"]
+Creators:
+  - "[[Styles of Beyond (🎙️ 548)]]"
 Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 1
 SourceFile: "[[Styles of Beyond - Nine Thou.mp3]]"
 Year: 2008
-aliases: ["Nine Thou"]
+aliases:
+  - Nine Thou
 created: 2022-04-23T02:56:48+03:00
 source:
 related: []

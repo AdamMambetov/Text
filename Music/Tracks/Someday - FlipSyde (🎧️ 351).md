@@ -1,11 +1,13 @@
 ---
 Album: "[[We The People]]"
-Creators: ["[[FlipSyde (🎙️ 560)]]"]
+Creators:
+  - "[[FlipSyde (🎙️ 558)]]"
 Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 1
 SourceFile: "[[FlipSyde - Someday.mp3]]"
 Year: 2005
-aliases: ["Someday"]
+aliases:
+  - Someday
 created: 2022-04-28T17:21:56+03:00
 source:
 related: []

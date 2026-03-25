@@ -1,11 +1,20 @@
 ---
 Album: ""
-Creators: ["[[ZUTOMAYO (🎙️ 590)]]", "[[ram seeni (🎙️ 591)]]", "[[Hyakkai Outo (🎙️ 592)]]", "[[Jun Murayama (🎙️ 593)]]", "[[ACANE (🎙️ 594)]]", "[[Yoshihiro Kawamura (🎙️ 595)]]", "[[Ryosuke Nikamoto (🎙️ 596)]]", "[[Takayuki Sasaki (🎙️ 597)]]"]
+Creators:
+  - "[[ZUTOMAYO (🎙️ 588)]]"
+  - "[[ram seeni (🎙️ 589)]]"
+  - "[[Hyakkai Outo (🎙️ 590)]]"
+  - "[[Jun Murayama (🎙️ 591)]]"
+  - "[[ACANE (🎙️ 592)]]"
+  - "[[Yoshihiro Kawamura (🎙️ 593)]]"
+  - "[[Ryosuke Nikamoto (🎙️ 594)]]"
+  - "[[Takayuki Sasaki (🎙️ 595)]]"
 Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 1
 SourceFile: "[[ZUTOMAYO - Kan Saete Kuyashiiwa.mp3]]"
 Year: 2019
-aliases: ["Kan Saete Kuyashiiwa"]
+aliases:
+  - Kan Saete Kuyashiiwa
 created: 2022-10-05T13:34:14+03:00
 source: ""
 related: []

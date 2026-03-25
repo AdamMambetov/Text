@@ -1,11 +1,13 @@
 ---
 Album: ""
-Creators: ["[[Nirvana (🎙️ 394)]]"]
+Creators:
+  - "[[Nirvana (🎙️ 392)]]"
 Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 0
 SourceFile: "[[Nirvana - Smells Like Teen Spirit.mp3]]"
 Year: 2002
-aliases: ["Smells Like Teen Spirit"]
+aliases:
+  - Smells Like Teen Spirit
 created: 2022-04-22T21:14:18+03:00
 source: ""
 related: []

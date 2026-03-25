@@ -1,11 +1,13 @@
 ---
 Album: "[[distance]]"
-Creators: ["[[Long Shot Party (🎙️ 368)]]"]
+Creators:
+  - "[[Long Shot Party (🎙️ 366)]]"
 Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[Long Shot Party - NIGHT SKOOP.mp3]]"
 Year: 2008
-aliases: ["ナイト スクープ"]
+aliases:
+  - ナイト スクープ
 created: 2024-06-14T12:53:21+03:00
 source: ""
 related: []

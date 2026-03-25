@@ -1,11 +1,13 @@
 ---
 Album: ""
-Creators: ["[[Creepy Nuts (🎙️ 270)]]"]
+Creators:
+  - "[[Creepy Nuts (🎙️ 269)]]"
 Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[Creepy Nuts - 阿婆擦れ.mp3]]"
 Year: 2019
-aliases: ["阿婆擦れ"]
+aliases:
+  - 阿婆擦れ
 created: 2024-10-05T15:15:48+03:00
 source: ""
 related: []

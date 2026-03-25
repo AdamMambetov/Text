@@ -1,10 +1,14 @@
 ---
 created: 2025-08-01T15:26:06+03:00
-aliases: ["Bravely You","Charlotte OP 1","Шарлотта OP 1"]
+aliases:
+  - Bravely You
+  - Charlotte OP 1
+  - Шарлотта OP 1
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
-Creators: ["[[Lia (🎙️ 659)]]"]
+Creators:
+  - "[[Lia (🎙️ 658)]]"
 NumberInAlbum: 0
 source: ""
 SourceFile: "[[Lia - Bravely You.mp3]]"

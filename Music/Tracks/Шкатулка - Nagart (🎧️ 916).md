@@ -1,11 +1,13 @@
 ---
 Album: ""
-Creators: ["[[Nagart (🎙️ 388)]]"]
+Creators:
+  - "[[Nagart (🎙️ 386)]]"
 Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 0
 SourceFile: "[[NAGART - Шкатулка.mp3]]"
 Year: 0
-aliases: ["Шкатулка"]
+aliases:
+  - Шкатулка
 created: 2024-01-04T12:15:57+03:00
 source: ""
 related: []

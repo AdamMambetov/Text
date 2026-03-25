@@ -1,11 +1,13 @@
 ---
 Album: ""
-Creators: ["[[DiWilliam (🎙️ 60)]]"]
+Creators:
+  - "[[DiWilliam (🎙️ 60)]]"
 Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 0
 SourceFile: "[[DiWilliam - Insane.mp3]]"
 Year: 0
-aliases: ["Insane"]
+aliases:
+  - Insane
 created: 2024-10-23T13:45:56+03:00
 source: ""
 related: []

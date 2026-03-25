@@ -1,11 +1,13 @@
 ---
 Album: ""
-Creators: ["[[Queen (🎙️ 422)]]"]
+Creators:
+  - "[[Queen (🎙️ 420)]]"
 Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 0
 SourceFile: "[[Queen - Another One Bites The Dust.mp3]]"
 Year: 0
-aliases: ["Another One Bites The Dust"]
+aliases:
+  - Another One Bites The Dust
 created: 2024-10-05T14:49:26+03:00
 source: ""
 related: []

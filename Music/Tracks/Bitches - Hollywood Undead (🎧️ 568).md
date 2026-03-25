@@ -1,11 +1,13 @@
 ---
 Album: "[[Swan Songs]]"
-Creators: ["[[Hollywood Undead (🎙️ 332)]]"]
+Creators:
+  - "[[Hollywood Undead (🎙️ 330)]]"
 Cover: ""
 NumberInAlbum: 19
 SourceFile: "[[Hollywood Undead - Bitches.mp3]]"
 Year: 2008
-aliases: ["Bitches"]
+aliases:
+  - Bitches
 created: 2022-12-20T23:36:58+03:00
 source: ""
 related: []

@@ -1,11 +1,16 @@
 ---
 source: ""
 created: 2022-04-28T13:44:46+03:00
-aliases: ["Не человек","Unravel","tokyo ghoul op 1","Токийский гуль OP 1"]
+aliases:
+  - Не человек
+  - Unravel
+  - tokyo ghoul op 1
+  - Токийский гуль OP 1
 Cover: "[[_No Album Art.jpg]]"
 Year: 2019
 Album: ""
-Creators: ["[[Everblack Melodies (🎙️ 307)]]"]
+Creators:
+  - "[[Everblack Melodies (🎙️ 305)]]"
 SourceFile: "[[Everblack Melodies - Не человек.mp3]]"
 NumberInAlbum: 0
 related: []

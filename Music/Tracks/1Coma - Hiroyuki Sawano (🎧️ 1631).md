@@ -1,7 +1,7 @@
 ---
 Album: "[[Kabaneri of the Iron Fortress OST]]"
-Creators: ["[[Hiroyuki Sawano (🎙️ 331)]]"]
-Cover: ""
+Creators: ["[[Hiroyuki Sawano (🎙️ 329)]]"]
+Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 15
 SourceFile: "[[Kabaneri of the Iron Fortress OST - 1Coma.mp3]]"
 Year: 2016

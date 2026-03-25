@@ -1,11 +1,13 @@
 ---
 Album: "[[Day of the Dead]]"
-Creators: ["[[Hollywood Undead (🎙️ 332)]]"]
+Creators:
+  - "[[Hollywood Undead (🎙️ 330)]]"
 Cover: ""
 NumberInAlbum: 9
 SourceFile: "[[Hollywood Undead - Disease.mp3]]"
 Year: 2015
-aliases: ["Disease"]
+aliases:
+  - Disease
 created: 2024-10-23T13:40:10+03:00
 source: ""
 related: []

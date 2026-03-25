@@ -1,11 +1,13 @@
 ---
 Album: "[[13 Voices [2016] {Sum 41}]]"
-Creators: ["[[Sum 41 (🎙️ 449)]]"]
+Creators:
+  - "[[Sum 41 (🎙️ 447)]]"
 Cover: ""
 NumberInAlbum: 7
 SourceFile: "[[Sum 41 - War.mp3]]"
 Year: 2016
-aliases: ["War"]
+aliases:
+  - War
 created: 2022-04-22T21:38:42+03:00
 source: ""
 related: []

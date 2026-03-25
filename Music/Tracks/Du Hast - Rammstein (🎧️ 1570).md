@@ -1,11 +1,13 @@
 ---
 Album: ""
-Creators: ["[[Rammstein (🎙️ 426)]]"]
+Creators:
+  - "[[Rammstein (🎙️ 424)]]"
 Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[Rammstein - Du Hast.mp3]]"
 Year: 0
-aliases: ["Du Hast"]
+aliases:
+  - Du Hast
 created: 2025-01-08T20:28:32+03:00
 source: ""
 related: []

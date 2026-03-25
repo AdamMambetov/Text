@@ -1,10 +1,14 @@
 ---
 created: 2025-08-01T15:09:54+03:00
-aliases: ["Platinum Disco","Bakemonogatari OP 8","Истории монстров OP 8"]
+aliases:
+  - Platinum Disco
+  - Bakemonogatari OP 8
+  - Истории монстров OP 8
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
-Creators: ["[[Yuka Iguchi (🎙️ 675)]]"]
+Creators:
+  - "[[Yuka Iguchi (🎙️ 674)]]"
 NumberInAlbum: 0
 source: ""
 SourceFile: "[[Yuka Iguchi - Platinum Disco.mp3]]"

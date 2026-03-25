@@ -1,11 +1,13 @@
 ---
 Album: ""
-Creators: ["[[Emil Bulls (🎙️ 505)]]"]
+Creators:
+  - "[[Emil Bulls (🎙️ 503)]]"
 Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 1
 SourceFile: "[[Emil Bulls - Survivor.mp3]]"
 Year: 2019
-aliases: ["Survivor"]
+aliases:
+  - Survivor
 created: 2022-04-22T20:35:32+03:00
 source: ""
 related: []

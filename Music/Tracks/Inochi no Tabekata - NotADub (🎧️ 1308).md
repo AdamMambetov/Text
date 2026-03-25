@@ -1,10 +1,14 @@
 ---
 created: 2024-10-23T15:01:48+03:00
-aliases: ["Inochi no Tabekata","Сособ поедания жизни","How to Eat Life"]
+aliases:
+  - Inochi no Tabekata
+  - Сособ поедания жизни
+  - How to Eat Life
 Cover: "[[_No Album Art.jpg]]"
 Year: 2022
 Album: ""
-Creators: ["[[NotADub (🎙️ 399)]]"]
+Creators:
+  - "[[NotADub (🎙️ 397)]]"
 NumberInAlbum: 0
 source: ""
 SourceFile: "[[NotADub - Inochi no Tabekata.mp3]]"

@@ -10,7 +10,7 @@ source: ""
 SourceFile: "[[mazyaka - Негры все пидорасы.mp3]]"
 related: []
 ListenInSec: 817
-CoverOf: ""
+CoverOf: "[[Bad Piggies (🎧️ 1568)]]"
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

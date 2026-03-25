@@ -1,11 +1,13 @@
 ---
 Album: ""
-Creators: ["[[Motionless In White (🎙️ 523)]]"]
+Creators:
+  - "[[Motionless In White (🎙️ 521)]]"
 Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 0
 SourceFile: "[[Motionless In White - Voices.mp3]]"
 Year: 2017
-aliases: ["Voices"]
+aliases:
+  - Voices
 created: 2022-04-22T21:10:40+03:00
 source: ""
 related: []

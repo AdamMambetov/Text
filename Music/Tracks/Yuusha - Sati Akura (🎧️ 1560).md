@@ -1,11 +1,15 @@
 ---
 Album: ""
-Creators: ["[[Sati Akura (🎙️ 359)]]"]
+Creators:
+  - "[[Sati Akura (🎙️ 357)]]"
 Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 1
 SourceFile: "[[Sati Akura - Yuusha.mp3]]"
 Year: 0
-aliases: ["Yuusha","Frieren OP 1","Фрирен OP 1"]
+aliases:
+  - Yuusha
+  - Frieren OP 1
+  - Фрирен OP 1
 created: 2025-01-08T19:27:30+03:00
 source: ""
 related: []

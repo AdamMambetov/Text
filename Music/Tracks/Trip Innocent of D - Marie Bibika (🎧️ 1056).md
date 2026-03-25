@@ -1,11 +1,13 @@
 ---
 Album: ""
-Creators: ["[[Marie Bibika (🎙️ 376)]]"]
+Creators:
+  - "[[Marie Bibika (🎙️ 374)]]"
 Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 0
 SourceFile: "[[Marie Bibika - Trip Innocent of D.mp3]]"
 Year: 0
-aliases: ["Trip Innocent of D"]
+aliases:
+  - Trip Innocent of D
 created: 2024-06-14T18:43:50+03:00
 source: ""
 related: []

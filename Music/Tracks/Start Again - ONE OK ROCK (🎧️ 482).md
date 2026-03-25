@@ -1,11 +1,13 @@
 ---
 Album: ""
-Creators: ["[[ONE OK ROCK (🎙️ 402)]]"]
+Creators:
+  - "[[ONE OK ROCK (🎙️ 400)]]"
 Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 0
 SourceFile: "[[ONE OK ROCK - Start Again.mp3]]"
 Year: 2017
-aliases: ["Start Again"]
+aliases:
+  - Start Again
 created: 2022-10-05T13:54:56+03:00
 source: ""
 related: []

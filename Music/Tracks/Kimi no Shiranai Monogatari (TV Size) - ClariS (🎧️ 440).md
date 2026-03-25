@@ -1,11 +1,15 @@
 ---
 Album: ""
-Creators: ["[[ClariS (🎙️ 265)]]"]
+Creators:
+  - "[[ClariS (🎙️ 264)]]"
 Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 0
 SourceFile: "[[ClariS - Kimi no Shiranai Monogatari.mp3]]"
 Year: 0
-aliases: ["Kimi no Shiranai Monogatari (TV Size)","Bakemonogatari ED 1","Истории монстров ED 1"]
+aliases:
+  - Kimi no Shiranai Monogatari (TV Size)
+  - Bakemonogatari ED 1
+  - Истории монстров ED 1
 created: 2022-10-05T13:07:48+03:00
 source: ""
 related: []

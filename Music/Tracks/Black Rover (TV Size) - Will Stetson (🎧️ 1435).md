@@ -1,11 +1,15 @@
 ---
 Album: ""
-Creators: ["[[Will Stetson (🎙️ 483)]]"]
+Creators:
+  - "[[Will Stetson (🎙️ 481)]]"
 Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 0
 SourceFile: "[[Will Stetson - Black Rover (Swing Arrangement).mp3]]"
 Year: 0
-aliases: ["Black Rover (TV Size)","Black Clover OP 3","Чёрный клевер OP 3"]
+aliases:
+  - Black Rover (TV Size)
+  - Black Clover OP 3
+  - Чёрный клевер OP 3
 created: 2025-01-07T23:47:46+03:00
 source: ""
 related: []

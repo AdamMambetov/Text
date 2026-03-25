@@ -1,11 +1,13 @@
 ---
 Album: ""
-Creators: ["[[Sheet Music Boss (🎙️ 650)]]"]
+Creators:
+  - "[[Sheet Music Boss (🎙️ 648)]]"
 Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 1
 SourceFile: "[[Sheet Music Boss - RUSH E.mp3]]"
 Year: 0
-aliases: ["RUSH E"]
+aliases:
+  - RUSH E
 created: 2023-07-09T17:59:38+03:00
 source: ""
 related: []

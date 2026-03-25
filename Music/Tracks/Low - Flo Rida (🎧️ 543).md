@@ -1,11 +1,13 @@
 ---
 Album: "[[Low]]"
-Creators: ["[[Flo Rida (🎙️ 312)]]"]
+Creators:
+  - "[[Flo Rida (🎙️ 310)]]"
 Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[Flo Rida - Low.mp3]]"
 Year: 2008
-aliases: ["Low"]
+aliases:
+  - Low
 created: 2022-12-20T23:10:58+03:00
 source: ""
 related: []

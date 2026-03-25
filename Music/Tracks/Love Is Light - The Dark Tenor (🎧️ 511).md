@@ -1,11 +1,13 @@
 ---
 Album: ""
-Creators: ["[[The Dark Tenor (🎙️ 627)]]"]
+Creators:
+  - "[[The Dark Tenor (🎙️ 625)]]"
 Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 0
 SourceFile: "[[The Dark Tenor - Love Is Light.mp3]]"
 Year: 2015
-aliases: ["Love Is Light"]
+aliases:
+  - Love Is Light
 created: 2022-12-09T06:55:36+03:00
 source: ""
 related: []

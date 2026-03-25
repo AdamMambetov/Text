@@ -1,11 +1,13 @@
 ---
 Album: "[[TaKillYa [2017] {Vinnie Maniscalco}]]"
-Creators: ["[[Vinnie Maniscalco (🎙️ 540)]]"]
+Creators:
+  - "[[Vinnie Maniscalco (🎙️ 538)]]"
 Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 1
 SourceFile: "[[Vinnie Maniscalco - TaKillYa.mp3]]"
 Year: 2017
-aliases: ["TaKillYa"]
+aliases:
+  - TaKillYa
 created: 2022-04-22T21:50:44+03:00
 source:
 related: []

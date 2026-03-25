@@ -1,11 +1,13 @@
 ---
 Album: ""
-Creators: ["[[Zutto Mayonaka de Ii no ni (🎙️ 579)]]"]
+Creators:
+  - "[[Zutto Mayonaka de Ii no ni (🎙️ 577)]]"
 Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 0
 SourceFile: "[[Zutto Mayonaka de Ii no ni - Teiketsu Bolt.mp3]]"
 Year: 2020
-aliases: ["Teiketsu Bolt"]
+aliases:
+  - Teiketsu Bolt
 created: 2022-10-05T13:16:20+03:00
 source: ""
 related: []

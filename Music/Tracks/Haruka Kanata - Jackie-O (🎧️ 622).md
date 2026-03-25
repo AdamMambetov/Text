@@ -1,11 +1,15 @@
 ---
 Album: ""
-Creators: ["[[Jackie-O (🎙️ 341)]]"]
+Creators:
+  - "[[Jackie-O (🎙️ 339)]]"
 Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 0
 SourceFile: "[[Jackie-O - Haruka Kanata.mp3]]"
 Year: 2021
-aliases: ["Haruka Kanata","Naruto OP 2","Наруто OP 2"]
+aliases:
+  - Haruka Kanata
+  - Naruto OP 2
+  - Наруто OP 2
 created: 2023-07-09T19:35:56+03:00
 source: ""
 related: []

@@ -1,11 +1,13 @@
 ---
 Album: "[[False Mirror]]"
-Creators: ["[[LIZER (🎙️ 367)]]"]
+Creators:
+  - "[[LIZER (🎙️ 365)]]"
 Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[LIZER & FLESH - False Mirror.mp3]]"
 Year: 2017
-aliases: ["False Mirror"]
+aliases:
+  - False Mirror
 created: 2023-09-29T16:25:05+03:00
 source: ""
 related: []

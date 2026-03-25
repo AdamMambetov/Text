@@ -1,11 +1,14 @@
 ---
 Album: ""
-Creators: ["[[Sabaton (🎙️ 434)]]"]
+Creators:
+  - "[[Sabaton (🎙️ 432)]]"
 Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 0
 SourceFile: "[[Sabaton - The Attack of the Dead Men.mp3]]"
 Year: 2019
-aliases: ["The Attack of the Dead Men","Атака мертвецов"]
+aliases:
+  - The Attack of the Dead Men
+  - Атака мертвецов
 created: 2022-04-22T21:29:42+03:00
 source: ""
 related: []
