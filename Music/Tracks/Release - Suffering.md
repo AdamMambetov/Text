@@ -1,6 +1,7 @@
 ---
 created: 2025-11-19T02:46:24+03:00
-aliases: ["Release - Suffering"]
+aliases:
+  - Release - Suffering
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""

@@ -5,7 +5,8 @@ Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[HoMM V OST - Necropolis Town Theme.mp3]]"
 Year: 0
-aliases: ["Necropolis Town Theme"]
+aliases:
+  - Necropolis Town Theme
 created: 2024-06-14T19:06:34+03:00
 source: ""
 related: []

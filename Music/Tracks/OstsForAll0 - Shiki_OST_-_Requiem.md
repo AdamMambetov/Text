@@ -1,6 +1,7 @@
 ---
 created: 2025-11-14T03:57:52+03:00
-aliases: ["OstsForAll0 - Shiki_OST_-_Requiem"]
+aliases:
+  - OstsForAll0 - Shiki_OST_-_Requiem
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""

@@ -1,6 +1,7 @@
 ---
 created: 2025-12-18T01:43:22+03:00
-aliases: ["mazyaka - Негры все пидорасы"]
+aliases:
+  - mazyaka - Негры все пидорасы
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""

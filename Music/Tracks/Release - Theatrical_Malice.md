@@ -1,6 +1,7 @@
 ---
 created: 2025-11-19T02:40:06+03:00
-aliases: ["Release - Theatrical_Malice"]
+aliases:
+  - Release - Theatrical_Malice
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""

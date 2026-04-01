@@ -1,11 +1,13 @@
 ---
 Album: ""
-Creators: ["[[Avenged Sevenfold (🎙️ 201)]]"]
+Creators:
+  - "[[Avenged Sevenfold (🎙️ 201)]]"
 Cover: "[[Avenged Sevenfold - City of Evil.jpg]]"
 NumberInAlbum: 0
 SourceFile: "[[Avenged Sevenfold - Blinded in Chains.mp3]]"
 Year: 2005
-aliases: ["Blinded In Chains"]
+aliases:
+  - Blinded In Chains
 created: 2024-10-10T23:04:36+03:00
 source: ""
 related: []

@@ -1,6 +1,7 @@
 ---
 created: 2025-06-02T23:17:14+03:00
-aliases: ["Guardian of the Galaxy OST - The Rubberband Man"]
+aliases:
+  - Guardian of the Galaxy OST - The Rubberband Man
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""

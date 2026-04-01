@@ -5,7 +5,8 @@ Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[Heroes Orchestra - Grass Theme From HoMM II.mp3]]"
 Year: 0
-aliases: ["Grass Theme"]
+aliases:
+  - Grass Theme
 created: 2025-01-08T19:31:56+03:00
 source: ""
 related: []

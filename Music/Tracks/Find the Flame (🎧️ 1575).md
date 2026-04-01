@@ -5,7 +5,8 @@ Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[Final Fantasy XVI OST - Find the Flame.mp3]]"
 Year: 0
-aliases: ["Find the Flame"]
+aliases:
+  - Find the Flame
 created: 2025-01-08T19:41:44+03:00
 source: ""
 related: []

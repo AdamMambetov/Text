@@ -1,6 +1,7 @@
 ---
 created: 2025-11-14T03:51:02+03:00
-aliases: ["OstsForAll0 - Shiki_OST_-_Dry_Lake"]
+aliases:
+  - OstsForAll0 - Shiki_OST_-_Dry_Lake
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""

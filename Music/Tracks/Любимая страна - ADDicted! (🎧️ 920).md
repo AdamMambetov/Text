@@ -1,11 +1,13 @@
 ---
 Album: "[[Прозрение]]"
-Creators: ["[[ADDicted! (🎙️ 148)]]"]
+Creators:
+  - "[[ADDicted! (🎙️ 148)]]"
 Cover: ""
 NumberInAlbum: 6
 SourceFile: "[[ADDicted! - Любимая страна.mp3]]"
 Year: 2022
-aliases: ["Любимая страна"]
+aliases:
+  - Любимая страна
 created: 2023-09-29T16:25:07+03:00
 source: ""
 related: []

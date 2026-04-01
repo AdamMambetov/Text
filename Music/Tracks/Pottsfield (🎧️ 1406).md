@@ -5,7 +5,8 @@ Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[Over the Garden Wall OST - 04 Pottsfield C.M. feat. Leah Harmon, Justin Rubenstein, J.R. Kaufman & Brandon Armstrong.mp3]]"
 Year: 0
-aliases: ["Pottsfield"]
+aliases:
+  - Pottsfield
 created: 2025-01-07T19:56:32+03:00
 source: ""
 related: []

@@ -5,7 +5,8 @@ Cover: ""
 NumberInAlbum: 2
 SourceFile: "[[Hush - Fired Up.mp3]]"
 Year: 2005
-aliases: ["Fired Up"]
+aliases:
+  - Fired Up
 created: 2024-10-30T19:16:28+03:00
 source: ""
 related: []

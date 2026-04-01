@@ -1,6 +1,7 @@
 ---
 created: 2025-09-25T13:14:08+03:00
-aliases: ["Toni's Music Library - Feed The Addiction (Game Version)"]
+aliases:
+  - Toni's Music Library - Feed The Addiction (Game Version)
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""

@@ -1,6 +1,7 @@
 ---
 created: 2025-11-14T03:25:02+03:00
-aliases: ["OstsForAll0 - Shiki_OST_-_Eau_de_Vie"]
+aliases:
+  - OstsForAll0 - Shiki_OST_-_Eau_de_Vie
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""

@@ -5,7 +5,8 @@ Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[Danganrnopa OST - 1-01- DANGANRONPA.mp3]]"
 Year: 0
-aliases: ["DANGANRONPA"]
+aliases:
+  - DANGANRONPA
 created: 2025-01-08T16:53:28+03:00
 source: ""
 related: []

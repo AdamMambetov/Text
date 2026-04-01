@@ -1,11 +1,15 @@
 ---
 Album: ""
-Creators: ["[[Jonathan Young (🎙️ 343)]]"]
+Creators:
+  - "[[Jonathan Young (🎙️ 343)]]"
 Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 0
 SourceFile: "[[Jonathan Young - 99.mp3]]"
 Year: 0
-aliases: ["99","Mob Psycho 100 OP 1","Моб Психо 100 OP 1"]
+aliases:
+  - "99"
+  - Mob Psycho 100 OP 1
+  - Моб Психо 100 OP 1
 created: 2022-04-22T20:58:52+03:00
 source: ""
 related: []

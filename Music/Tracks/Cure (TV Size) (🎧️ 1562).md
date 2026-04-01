@@ -8,7 +8,8 @@ Year: 0
 aliases: []
 created: 2025-01-08T19:08:12+03:00
 source: ""
-related: ["[[Cure (🎧️ 1561)]]"]
+related:
+  - "[[Cure (🎧️ 1561)]]"
 ListenInSec: 263
 CoverOf: ""
 ---

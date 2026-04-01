@@ -1,6 +1,7 @@
 ---
 created: 2025-11-14T03:33:30+03:00
-aliases: ["OstsForAll0 - Shiki_OST_-_Dead_Sea"]
+aliases:
+  - OstsForAll0 - Shiki_OST_-_Dead_Sea
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""

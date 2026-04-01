@@ -1,6 +1,7 @@
 ---
 created: 2025-06-02T22:44:57+03:00
-aliases: ["Nikhil Koparkar - The Wheel Of Time"]
+aliases:
+  - Nikhil Koparkar - The Wheel Of Time
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""

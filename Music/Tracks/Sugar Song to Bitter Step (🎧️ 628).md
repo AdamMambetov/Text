@@ -8,7 +8,8 @@ Year: 0
 aliases: []
 created: 2023-07-09T18:51:18+03:00
 source: ""
-related: ["[[Sugar Song to Bitter Step (TV Size) - UNISON SQUARE GARDEN]]"]
+related:
+  - "[[Sugar Song to Bitter Step (TV Size) - UNISON SQUARE GARDEN]]"
 ListenInSec: 250
 CoverOf: ""
 ---

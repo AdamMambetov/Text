@@ -5,7 +5,8 @@ Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[Robin Berrygold - Don't Think I Will Forgive You.mp3]]"
 Year: 2015
-aliases: ["Don't Think I Will Forgive You"]
+aliases:
+  - Don't Think I Will Forgive You
 created: 2024-10-23T14:29:10+03:00
 source: ""
 related: []

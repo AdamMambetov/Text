@@ -5,7 +5,8 @@ Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[Over the Garden Wall OST - 38 Two Old Cat.mp3]]"
 Year: 0
-aliases: ["Two Old Cat"]
+aliases:
+  - Two Old Cat
 created: 2025-01-07T20:10:26+03:00
 source: ""
 related: []

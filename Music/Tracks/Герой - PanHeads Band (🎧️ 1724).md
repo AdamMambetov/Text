@@ -1,10 +1,13 @@
 ---
 created: 2025-06-30T17:58:20+03:00
-aliases: ["Герой","Hero"]
+aliases:
+  - Герой
+  - Hero
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
-Creators: ["[[PanHeads Band (🎙️ 409)]]"]
+Creators:
+  - "[[PanHeads Band (🎙️ 409)]]"
 NumberInAlbum: 0
 source: ""
 SourceFile: "[[PANHEADS BAND - Герой.mp3]]"

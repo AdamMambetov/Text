@@ -5,7 +5,8 @@ Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[The Melancholy of Haruhi Suzumiya OST - God Knows....mp3]]"
 Year: 0
-aliases: ["God Knows..."]
+aliases:
+  - God Knows...
 created: 2025-01-08T23:09:25+03:00
 source: ""
 related: []

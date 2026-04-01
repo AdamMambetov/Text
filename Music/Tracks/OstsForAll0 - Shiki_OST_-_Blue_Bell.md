@@ -1,6 +1,7 @@
 ---
 created: 2025-11-14T03:44:56+03:00
-aliases: ["OstsForAll0 - Shiki_OST_-_Blue_Bell"]
+aliases:
+  - OstsForAll0 - Shiki_OST_-_Blue_Bell
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""

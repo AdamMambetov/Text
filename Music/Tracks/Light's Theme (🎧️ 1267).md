@@ -1,6 +1,7 @@
 ---
 created: 2024-10-13T23:32:30+03:00
-aliases: ["Light's Theme"]
+aliases:
+  - Light's Theme
 Cover: ""
 Year: 0
 Album: "[[Death Note OST]]"

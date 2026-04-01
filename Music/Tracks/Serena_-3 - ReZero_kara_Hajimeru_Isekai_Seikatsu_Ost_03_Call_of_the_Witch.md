@@ -1,6 +1,7 @@
 ---
 created: 2025-11-14T11:57:30+03:00
-aliases: ["ReZero kara Hajimeru Isekai Seikatsu OST 03 Call of the Witch"]
+aliases:
+  - ReZero kara Hajimeru Isekai Seikatsu OST 03 Call of the Witch
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""

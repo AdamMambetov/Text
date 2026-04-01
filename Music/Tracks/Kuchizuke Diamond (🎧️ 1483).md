@@ -8,7 +8,8 @@ Year: 0
 aliases: []
 created: 2025-01-08T01:10:04+03:00
 source: ""
-related: ["[[Kuchizuke Diamond (TV Size) (🎧️ 1484)]]"]
+related:
+  - "[[Kuchizuke Diamond (TV Size) (🎧️ 1484)]]"
 ListenInSec: 239
 CoverOf: ""
 ---

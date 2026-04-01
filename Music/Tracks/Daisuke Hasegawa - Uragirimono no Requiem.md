@@ -1,6 +1,7 @@
 ---
 created: 2025-06-03T00:02:24+03:00
-aliases: ["Daisuke Hasegawa - Uragirimono no Requiem"]
+aliases:
+  - Daisuke Hasegawa - Uragirimono no Requiem
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""

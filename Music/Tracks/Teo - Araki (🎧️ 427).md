@@ -1,11 +1,13 @@
 ---
 Album: ""
-Creators: ["[[Araki (🎙️ 187)]]"]
+Creators:
+  - "[[Araki (🎙️ 187)]]"
 Cover: "[[_No Album Art.jpg]]"
 NumberInAlbum: 0
 SourceFile: "[[Araki - Teo.mp3]]"
 Year: 0
-aliases: ["Teo"]
+aliases:
+  - Teo
 created: 2022-10-05T12:57:30+03:00
 source: ""
 related: []

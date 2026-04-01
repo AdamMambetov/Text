@@ -1,6 +1,7 @@
 ---
 created: 2025-11-19T01:05:12+03:00
-aliases: ["ReZero kara Hajimeru Isekai Seikatsu OST 09 Heartbeat of Determination"]
+aliases:
+  - ReZero kara Hajimeru Isekai Seikatsu OST 09 Heartbeat of Determination
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""

@@ -5,7 +5,8 @@ Cover: ""
 NumberInAlbum: 1
 SourceFile: "[[S3RL,Mixie Moon,MC Offside - Friendzoned.mp3]]"
 Year: 2013
-aliases: ["Friendzoned"]
+aliases:
+  - Friendzoned
 created: 2024-12-06T00:37:18+03:00
 source: ""
 related: []

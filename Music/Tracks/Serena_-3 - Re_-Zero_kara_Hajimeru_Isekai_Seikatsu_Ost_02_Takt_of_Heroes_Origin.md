@@ -1,6 +1,7 @@
 ---
 created: 2025-11-14T20:18:02+03:00
-aliases: ["Serena_-3 - Re_-Zero_kara_Hajimeru_Isekai_Seikatsu_Ost_02_Takt_of_Heroes_Origin"]
+aliases:
+  - Serena_-3 - Re_-Zero_kara_Hajimeru_Isekai_Seikatsu_Ost_02_Takt_of_Heroes_Origin
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""

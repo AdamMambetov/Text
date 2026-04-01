@@ -1,11 +1,13 @@
 ---
 Album: "[[Massive Addictive]]"
-Creators: ["[[Amaranthe (🎙️ 174)]]"]
+Creators:
+  - "[[Amaranthe (🎙️ 174)]]"
 Cover: ""
 NumberInAlbum: 3
 SourceFile: "[[Amaranthe - Trinity.mp3]]"
 Year: 2014
-aliases: ["Trinity"]
+aliases:
+  - Trinity
 created: 2023-09-29T16:24:41+03:00
 source: ""
 related: []
