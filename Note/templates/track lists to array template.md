@@ -15,34 +15,45 @@ for (let i = 0; i < dirs.length; i++) {
 		const regex = /(^[\w]*[^: \[\]]): ?([\w\S\': ]*)$/gm
 		
 		await tp.app.fileManager.processFrontMatter(file, async (fm) => {
+			if (!fm["valid"]) return
+			
 			if (fm["Creators"] == null)
 				fm["Creators"] = []
 			if (fm["aliases"] == null)
 				fm["aliases"] = []
+			if (fm["related"] == null)
+				fm["related"] = []
 			
-			if (fm["Creators"].length == 0 && fm["aliases"].length == 0)
+			if (fm["Creators"].length == 0 && fm["aliases"].length == 0 && fm["related"].length == 0)
 				return
 			
 			let creators = ""
 			for (let k = 0; k < fm["Creators"].length; k++) {
-				creators += `, "${fm["Creators"][k]}"`
+				creators += `,"${fm["Creators"][k]}"`
 			}
-			creators = `[${creators.substring(2, creators.length)}]`
+			creators = `[${creators.substring(1, creators.length)}]`
 			
 			let aliases = ""
 			for (let k = 0; k < fm["aliases"].length; k++) {
-				aliases += `, "${fm["aliases"][k]}"`
+				aliases += `,"${fm["aliases"][k]}"`
 			}
-			aliases = `[${aliases.substring(2, aliases.length)}]`
+			aliases = `[${aliases.substring(1, aliases.length)}]`
 			
+			let related = ""
+			for (let k = 0; k < fm["related"].length; k++) {
+				related += `,"${fm["related"][k]}"`
+			}
+			related = `[${related.substring(1, related.length)}]`
+			
+	
 			await tp.app.vault.process(file, content => {
 				console.log(content)
 				let result = content
 				const matches = [...content.matchAll(regex)]
 				for (let k = 0; k < matches.length; k++) {
 					let match = matches[k]
-					if (match[1] === "aliases" || match[1] === "Creators") {
-						let value = match[1] == "aliases" ? aliases : creators
+					if (match[1] === "aliases" || match[1] === "Creators" || match[1] === "related") {
+						let value = match[1] === "aliases" ? aliases : match[1] === "Creators" ? creators : related
 						result = result.replace(match[0], `${match[1]}: ${value}`)
 						console.log(result)
 						let lines = result
@@ -50,7 +61,7 @@ for (let i = 0; i < dirs.length; i++) {
 							.split(`${match[1]}: `)[1]
 							.split("\n")
 						for (let l = 1; l < lines.length; l++) {
-							let line = lines[l]
+							let liqne = lines[l]
 							if (!line.startsWith("  - "))
 								break
 							result = result.replace(line + "\n", "")

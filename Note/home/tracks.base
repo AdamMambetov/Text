@@ -43,3 +43,8 @@ views:
       and:
         - valid == null
         - file("Text/Music/Playlists/100% Шедевр (💿 6)").hasLink(file)
+  - type: table
+    name: valid
+    filters:
+      and:
+        - valid == true
