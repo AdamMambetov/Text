@@ -3,13 +3,15 @@ created: 2024-11-04T14:18:27+03:00
 aliases:
   - Ангельские ритмы!
   - Angel Beats!
-Status: plan
+Status: complete
 Type: anime
 Rating:
   - "[[®️12|PG-13]]"
   - "[[®️16|16+]]"
 Cover: "[[angel_beats_anime_cover.jpeg]]"
 Year: 2010
+Episode: 13
+Views: 1
 ---
 
 # Ангельские ритмы!
@@ -76,6 +78,11 @@ hidden true
 `button-worldArt` `button-animelib`
 
 `button-senkuro` `button-reyohoho`
+
+## Причина добавления
+
+Увидел опенинг на ютубе, он шедевр. Само аниме полное дерьмо.
+Посмотрел на стриме на твиче у [[@HellYeahPlay|Сергея HellYeah]].
 
 ## Описание
 
