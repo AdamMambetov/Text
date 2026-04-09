@@ -11,15 +11,12 @@
             "id": "bd7b4d123c49b15d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "periodic/2026-04-01.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "files/Pasted Image 20260408145304_525.png"
               },
-              "icon": "lucide-file",
-              "title": "2026-04-01"
+              "icon": "lucide-image",
+              "title": "Pasted Image 20260408145304_525"
             }
           },
           {
@@ -96,9 +93,24 @@
               "icon": "lucide-file",
               "title": "2026-04-08"
             }
+          },
+          {
+            "id": "e5ac15630b9fa2a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "periodic/2026-04-09.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-04-09"
+            }
           }
         ],
-        "currentTab": 5,
+        "currentTab": 6,
         "stacked": true
       }
     ],
@@ -282,9 +294,52 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2f29733d8baf01db",
+  "floating": {
+    "id": "c5c914b7b3326322",
+    "type": "floating",
+    "children": [
+      {
+        "id": "83544f06654010ad",
+        "type": "window",
+        "children": [
+          {
+            "id": "b6cc69686778ef4b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7640ff4944a1f5a7",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Как устроен Gameplay Tag.excalidraw.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "Как устроен Gameplay Tag.excalidraw"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 4173,
+        "y": -577,
+        "width": 700,
+        "height": 2520,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "e5ac15630b9fa2a5",
   "lastOpenFiles": [
     "periodic/2026-04-08.md",
+    "periodic/2026-04-09.md",
+    "Как устроен Gameplay Tag.excalidraw.md",
+    "files/Pasted Image 20260408145304_525.png",
+    "files/Pasted Image 20260408145014_903.png",
+    "files/Pasted Image 20260408143757_787.png",
+    "Как устроен Gameplay Tag.md",
     "periodic/2026-04-07.md",
     "periodic/2026-04-03.md",
     "periodic/2026-04-01.md",
@@ -307,9 +362,6 @@
     "periodic/2026-03-13.md",
     "periodic/2026-03-10.md",
     "periodic/2026-03-30.md",
-    "В каких классах надо исправить тэги.md",
-    "periodic/2026-03-19.md",
-    "Двухэтажные квартиры.excalidraw.md",
     "отчёты/~$чет_о_работе_за_2026_02_Мамбетов_Адам_Муратович.doc",
     "отчёты/~WRL0001.tmp",
     "отчёты/~WRD0000.tmp",
@@ -326,9 +378,6 @@
     "files/Pasted image 20260122181929.png",
     "files/Pasted image 20260122181807.png",
     "files/Pasted image 20260122181748.png",
-    "files/Pasted image 20260122181245.png",
-    "files/Pasted image 20260122181146.png",
-    "files/Pasted image 20260122181030.png",
-    "files/Pasted image 20260122180916.png"
+    "files/Pasted image 20260122181245.png"
   ]
 }
