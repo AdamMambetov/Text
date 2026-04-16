@@ -6,6 +6,9 @@ meta:
   - "[[C++]]"
   - "[[Unreal Engine]]"
 source: https://github.com/Noesis
+aliases:
+  - Noesis
+  - UI
 ---
 
 # Noesis

@@ -278,7 +278,6 @@ protected:
     static const FName PropertyTypePinName;
     static const FName OutPropertyPinName;
 };
-Объяснить с
 ```
 
 Класс помечен как `Abstract` - нельзя создать экземпляр напрямую, только наследников. Он оборачивает функции из `UItemPropertyLibrary`, но с добавлением «умного» поведения пина `OutProperty`, который меняет свой тип в зависимости от выбранного `PropertyType`.
