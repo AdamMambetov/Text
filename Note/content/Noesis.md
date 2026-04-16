@@ -1,14 +1,14 @@
 ---
 created: 2025-04-17T20:09:21+03:00
+aliases:
+  - Noesis
+  - UI
 category:
   - "[[Программирование]]"
 meta:
   - "[[C++]]"
   - "[[Unreal Engine]]"
 source: https://github.com/Noesis
-aliases:
-  - Noesis
-  - UI
 ---
 
 # Noesis
