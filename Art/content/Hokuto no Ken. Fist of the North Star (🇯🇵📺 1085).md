@@ -3,10 +3,11 @@ created: 2025-10-12T12:01:01+03:00
 aliases:
   - Кулак Северной звезды
   - "Hokuto no Ken: Fist of the North Star"
-Status: plan
+Status: watch
 Type: anime
 Cover: "[[hokuto_no_ken_2026_anime_cover.jpg]]"
 Year: 2026
+Episode: 1
 ---
 
 # Кулак Северной звезды
