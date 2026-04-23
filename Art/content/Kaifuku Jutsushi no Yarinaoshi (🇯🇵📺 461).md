@@ -13,7 +13,7 @@ Rating:
 Cover: "[[redo_of_healer_anime_cover.jpeg]]"
 Year: 2021
 Episode: 12
-Views: 1
+Views: 2
 tags:
   - 🔞
 related:
