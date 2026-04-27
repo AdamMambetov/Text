@@ -7,12 +7,13 @@ aliases:
   - Re:ZERO -Starting Life in Another World- 4
   - ReZERO 4
   - резеро 4
-Status: plan
+Status: watch
 Type: anime
 Rating:
   - "[[®️16|R-17]]"
 Cover: "[[re_zero_4_anime_cover.jpg]]"
 Year: 2026
+Episode: 3
 Адаптация: "[[Re.Zero (🇯🇵📘 282)]]"
 Предыстория: "[[Re.Zero 3 (🇯🇵📺 402)]]"
 ---
