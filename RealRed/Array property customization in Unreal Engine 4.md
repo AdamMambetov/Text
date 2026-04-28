@@ -1,6 +1,6 @@
 # Array property customization in Unreal Engine 4
 
-Я выяснил что для отображения массивов используется `FDetailArrayBuilder`, а для мапов - `FDetailMapBuilder`.
+Я выяснил что для отображения массивов используется `FDetailArrayBuilder`, а для мапов такого нет, надо самому всё делать.
 
 ---
 

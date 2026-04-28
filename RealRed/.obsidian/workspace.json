@@ -231,9 +231,54 @@
               "icon": "lucide-file",
               "title": "2026-04-22"
             }
+          },
+          {
+            "id": "7b27021eb3cf2c96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "periodic/2026-04-24.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-04-24"
+            }
+          },
+          {
+            "id": "5b6c6aa56bed086c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "periodic/2026-04-27.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-04-27"
+            }
+          },
+          {
+            "id": "f548bf3a1edb21bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "periodic/2026-04-28.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-04-28"
+            }
           }
         ],
-        "currentTab": 14,
+        "currentTab": 17,
         "stacked": true
       }
     ],
@@ -417,25 +462,68 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ec5872a1dfc87a34",
+  "floating": {
+    "id": "c5c914b7b3326322",
+    "type": "floating",
+    "children": [
+      {
+        "id": "4d33c07197ebbcae",
+        "type": "window",
+        "children": [
+          {
+            "id": "ef845deec441747a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "18453361e3ba2e3b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Array property customization in Unreal Engine 4.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Array property customization in Unreal Engine 4"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 2199,
+        "y": 184,
+        "width": 700,
+        "height": 1348,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "f548bf3a1edb21bd",
   "lastOpenFiles": [
-    "periodic/2026-04-21.md",
-    "periodic/2026-04-22.md",
+    "periodic/2026-04-28.md",
+    "periodic/2026-04-27.md",
+    "periodic/2026-04-08.md",
     "periodic/2026-04-20.md",
-    "periodic/2026-04-06.md",
-    "Array property customization in Unreal Engine 4.md",
     "periodic/2026-04-17.md",
     "periodic/2026-04-16.md",
+    "periodic/2026-04-15.md",
+    "periodic/2026-04-14.md",
+    "periodic/2026-04-13.md",
+    "periodic/2026-04-10.md",
+    "periodic/2026-04-09.md",
+    "periodic/2026-04-22.md",
+    "periodic/2026-04-24.md",
+    "periodic/2026-04-21.md",
+    "Array property customization in Unreal Engine 4.md",
+    "periodic/2026-04-06.md",
     "Как устроен Gameplay Tag.excalidraw.md",
-    "periodic/2026-04-08.md",
     "periodic/2026-04-07.md",
     "periodic/2026-04-02.md",
     "files/Pasted Image 20260408145304_525.png",
-    "periodic/2026-04-15.md",
-    "periodic/2026-04-13.md",
-    "periodic/2026-04-14.md",
-    "periodic/2026-04-10.md",
-    "periodic/2026-04-09.md",
     "files/Pasted Image 20260408145014_903.png",
     "files/Pasted Image 20260408143757_787.png",
     "Как устроен Gameplay Tag.md",
@@ -445,9 +533,6 @@
     "periodic/2026-04.md",
     "periodic/2026-03.md",
     "Custom File Watcher.md",
-    "periodic/2026-03-04.md",
-    "periodic/2026-03-20.md",
-    "periodic/2026-03-18.md",
     "отчёты/~$чет_о_работе_за_2026_02_Мамбетов_Адам_Муратович.doc",
     "отчёты/~WRL0001.tmp",
     "отчёты/~WRD0000.tmp",
