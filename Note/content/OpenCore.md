@@ -1,8 +1,8 @@
 ---
 created: 2025-03-29T12:42:47+03:00
-source: https://dortania.github.io/OpenCore-Install-Guide/
 meta:
   - "[[Windows]]"
+source: https://dortania.github.io/OpenCore-Install-Guide/
 ---
 
 # OpenCore
