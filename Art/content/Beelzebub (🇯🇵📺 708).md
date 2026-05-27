@@ -3,7 +3,7 @@ created: 2024-11-04T14:21:10+03:00
 aliases:
   - Вельзепуз
   - Beelzebub
-Status: watch
+Status: drop
 Type: anime
 Rating:
   - "[[®️12|PG-13]]"

@@ -3,11 +3,12 @@ created: 2026-02-08T19:05:41+03:00
 aliases:
   - Боевой континент
   - Douluo Dalu
-Status: watch
+Status: complete
 Type: anime
 Cover: "[[douluo_dalu_anime_cover.jpg]]"
 Year: 2018
-Episode: 248
+Episode: 263
+Views: 1
 tags:
   - ❤
 ---
@@ -39,7 +40,7 @@ hidden true
 
 ## Причина добавления
 
-Смотрю записи стримов [[@HellYeahPlay|Сергея HellYeah]].
+Посмотрел на бусти у [[@HellYeahPlay|Сергея HellYeah]].
 
 
 ## Описание
