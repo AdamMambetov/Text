@@ -38,7 +38,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -222,10 +221,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f4d77fd87abcb83e",
+  "active": "708ec5c8cb0adcce",
   "lastOpenFiles": [
-    "periodic/2026-06-01.md",
     "periodic/2026-06-02.md",
+    "periodic/2026-06-01.md",
     "periodic/2026-06.md",
     "periodic/2026-05.md",
     "periodic/2026-05-27.md",
