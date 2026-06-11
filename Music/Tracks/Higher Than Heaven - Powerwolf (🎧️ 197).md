@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 312
 CoverOf: ""
-valid: true
 ---
 
 # Powerwolf - Higher Than Heaven

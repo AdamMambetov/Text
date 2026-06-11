@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 174
 CoverOf: "[[Demons - Imagine Dragons (🎧️ 1260)]]"
-valid: true
 ---
 
 # RADIO TAPOK - Demons

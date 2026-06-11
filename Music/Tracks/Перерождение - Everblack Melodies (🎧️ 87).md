@@ -14,7 +14,6 @@ source: ""
 related: []
 ListenInSec: 68
 CoverOf: "[[Rebirthing - Skillet (🎧️ 319)]]"
-valid: true
 ---
 
 # Everblack Melodies - Перерождение

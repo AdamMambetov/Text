@@ -14,7 +14,6 @@ source: ""
 related: []
 ListenInSec: 281
 CoverOf: ""
-valid: true
 ---
 
 # Tristam - Frame of Mind

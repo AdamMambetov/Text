@@ -15,7 +15,6 @@ related:
   - "[[innocent arrogance (TV Size) - BiSH]]"
 ListenInSec: 430
 CoverOf: ""
-valid: true
 ---
 
 # BiSH - innocent arrogance

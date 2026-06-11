@@ -15,7 +15,6 @@ source: ""
 related: []
 ListenInSec: 92
 CoverOf: "[[My Hero (TV Size) - MAN WITH A MISSION]]"
-valid: true
 ---
 
 # Игорь Куликов - My Hero (TV Size)

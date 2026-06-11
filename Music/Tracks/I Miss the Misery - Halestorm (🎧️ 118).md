@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 191
 CoverOf: ""
-valid: true
 ---
 
 #  Halestorm - I Miss the Misery

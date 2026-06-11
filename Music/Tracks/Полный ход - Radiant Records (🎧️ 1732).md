@@ -18,7 +18,6 @@ Album: "[[ПЕРЕПУТЬЕ (📀 33)]]"
 NumberInAlbum: 0
 related: []
 ListenInSec: 1902
-valid: true
 ---
 
 # Radiant Records - Полный ход

@@ -14,7 +14,6 @@ source: ""
 related: []
 ListenInSec: 221
 CoverOf: "[[Through The Fire And Flames - DragonForce (🎧️ 882)]]"
-valid: true
 ---
 
 # RADIO TAPOK - Through The Fire And Flames

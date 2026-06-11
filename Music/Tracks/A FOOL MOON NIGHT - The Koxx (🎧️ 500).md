@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 468
 CoverOf: ""
-valid: true
 ---
 
 # The Koxx - A FOOL MOON NIGHT

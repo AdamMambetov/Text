@@ -18,7 +18,6 @@ related:
   - "[[Courage - Haruka Tomatsu (🎧️ 1697)]]"
 ListenInSec: 89
 CoverOf: ""
-valid: true
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

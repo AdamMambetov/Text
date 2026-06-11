@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 776
 CoverOf: ""
-valid: true
 ---
 
 # Dark Souls 3 OST - 24 Epilogue

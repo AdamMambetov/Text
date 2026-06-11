@@ -14,7 +14,6 @@ SourceFile: "[[Mittsies - Vitality.mp3]]"
 related: []
 ListenInSec: 674
 CoverOf: ""
-valid: true
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 531
 CoverOf: "[[Kaze Ni Naru - Ayano Tsuji (🎧️ 822)]]"
-valid: true
 ---
 
 # Tak Kato - Kaze Ni Naru

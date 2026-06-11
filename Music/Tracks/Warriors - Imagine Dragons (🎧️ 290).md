@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 1006
 CoverOf: ""
-valid: true
 ---
 
 # Imagine Dragons - Warriors

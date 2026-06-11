@@ -16,7 +16,6 @@ related:
   - "[[Ranbu no Melody (TV Size) - SID (🎧️ 976)]]"
 ListenInSec: 457
 CoverOf: ""
-valid: true
 ---
 
 # SID - Ranbu No Melody

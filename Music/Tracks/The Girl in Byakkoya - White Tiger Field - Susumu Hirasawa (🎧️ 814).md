@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 2682
 CoverOf: ""
-valid: true
 ---
 
 # Paprika OST - The Girl in Byakkoya

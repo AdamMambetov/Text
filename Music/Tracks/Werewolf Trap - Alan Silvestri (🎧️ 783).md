@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 116
 CoverOf: ""
-valid: true
 ---
 
 # Van Helsing OST - Werewolf Trap

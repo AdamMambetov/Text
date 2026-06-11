@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 554
 CoverOf: ""
-valid: true
 ---
 
 # Hollywood Undead - No. 5

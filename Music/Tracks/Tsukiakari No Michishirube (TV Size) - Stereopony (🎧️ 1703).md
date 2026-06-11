@@ -16,7 +16,6 @@ related:
   - "[[Tsukiakari No Michishirube - Stereopony (🎧️ 585)]]"
 ListenInSec: 454
 CoverOf: ""
-valid: true
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

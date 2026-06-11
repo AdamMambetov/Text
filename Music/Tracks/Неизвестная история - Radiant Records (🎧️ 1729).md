@@ -18,7 +18,6 @@ Album: "[[ПЕРЕПУТЬЕ (📀 33)]]"
 NumberInAlbum: 3
 related: []
 ListenInSec: 3300
-valid: true
 ---
 
 # Неизвестная история

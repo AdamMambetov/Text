@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 190
 CoverOf: "[[I'll Make A Man Out Of You - Disney (🎧️ 667)]]"
-valid: true
 ---
 
 # Peyton Parrish - I'll Make a Man Out of You

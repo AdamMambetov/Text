@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 1362
 CoverOf: ""
-valid: true
 ---
 
 # Umineko no Naku Koro ni OST - 062 В дали

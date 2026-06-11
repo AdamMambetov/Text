@@ -16,7 +16,6 @@ related:
   - "[[Megumeru - Eufonius (🎧️ 1756)]]"
 ListenInSec: 273
 CoverOf: ""
-valid: true
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

@@ -14,7 +14,6 @@ source: ""
 related: []
 ListenInSec: 111
 CoverOf: ""
-valid: true
 ---
 
 # sweet ARMS - Blade of Hope (TV Size)

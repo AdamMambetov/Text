@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 7
 CoverOf: ""
-valid: true
 ---
 
 # Rock - I Am Rock

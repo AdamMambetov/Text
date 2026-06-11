@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 844
 CoverOf: ""
-valid: true
 ---
 
 # Gorillaz - Clint Eastwood

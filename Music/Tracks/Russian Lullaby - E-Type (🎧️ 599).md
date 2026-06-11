@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 59
 CoverOf: ""
-valid: true
 ---
 
 # E-Type - Russian Lullaby

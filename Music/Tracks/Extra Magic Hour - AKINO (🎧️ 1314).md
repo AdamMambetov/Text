@@ -16,7 +16,6 @@ SourceFile: "[[AKINO with bless4 - Extra Magic Hour.mp3]]"
 related: []
 ListenInSec: 1292
 CoverOf: ""
-valid: true
 ---
 
 # AKINO with bless4 - Extra Magic Hour

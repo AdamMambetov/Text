@@ -17,7 +17,6 @@ source: ""
 related: []
 ListenInSec: 612
 CoverOf: "[[INNOCENCE - Aoi Eir (🎧️ 1444)]]"
-valid: true
 ---
 
 # Marie Bibika - INNOCENCE

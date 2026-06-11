@@ -15,7 +15,6 @@ related:
   - "[[Nirvana (TV Size) - MUCC (🎧️ 1684)]]"
 ListenInSec: 227
 CoverOf: ""
-valid: true
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

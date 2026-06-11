@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 2
 CoverOf: "[[Feel Good Inc. - Gorillaz (🎧️ 423)]]"
-valid: true
 ---
 
 # RADIO TAPOK - Feel Good Inc

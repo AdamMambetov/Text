@@ -15,7 +15,6 @@ source: ""
 related: []
 ListenInSec: 242
 CoverOf: "[[Button - PENGUIN RESEARCH (🎧️ 614)]]"
-valid: true
 ---
 
 # Jackie-O - Button

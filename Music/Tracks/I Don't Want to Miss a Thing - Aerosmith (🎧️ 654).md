@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 2055
 CoverOf: ""
-valid: true
 ---
 
 # Aerosmith - I Don't Want to Miss a Thing

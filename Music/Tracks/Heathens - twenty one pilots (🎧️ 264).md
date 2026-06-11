@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 9
 CoverOf: ""
-valid: true
 ---
 
 # twenty one pilots - Heathens

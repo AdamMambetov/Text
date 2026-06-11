@@ -17,7 +17,6 @@ source: ""
 related: []
 ListenInSec: 50
 CoverOf: "[[Crossing Field - LiSA (🎧️ 1445)]]"
-valid: true
 ---
 
 # Marie Bibika - Crossing Field

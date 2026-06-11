@@ -16,7 +16,6 @@ related:
   - "[[Inferno (TV Size) - Mrs. GREEN APPLE]]"
 ListenInSec: 205
 CoverOf: ""
-valid: true
 ---
 
 # Mrs. GREEN APPLE - Inferno

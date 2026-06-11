@@ -15,7 +15,6 @@ SourceFile: "[[Umineko no Naku Koro ni OST - 241 Когда плачут чай�
 related: []
 ListenInSec: 362
 CoverOf: ""
-valid: true
 ---
 
 # Umineko no Naku Koro ni OST - 241 Когда плачут чайки

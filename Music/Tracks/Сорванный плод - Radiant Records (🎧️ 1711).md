@@ -15,7 +15,6 @@ Album: ""
 NumberInAlbum: 0
 related: []
 ListenInSec: 3814
-valid: true
 ---
 
 # Radiant Records - Сорванный плод

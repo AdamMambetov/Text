@@ -17,7 +17,6 @@ related:
   - "[[Flyers (TV Size) - BRADIO (🎧️ 1688)]]"
 ListenInSec: 212
 CoverOf: ""
-valid: true
 ---
 
 # BRADIO - Flyers

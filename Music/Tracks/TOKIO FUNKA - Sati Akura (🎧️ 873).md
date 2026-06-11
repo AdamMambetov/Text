@@ -13,7 +13,6 @@ SourceFile: "[[Sati Akura - TOKIO FUNKA.mp3]]"
 related: []
 ListenInSec: 1390
 CoverOf: "[[TOKIO FUNKA - Reol (🎧️ 43)]]"
-valid: true
 ---
 
 # Sati Akura - TOKIO FUNKA

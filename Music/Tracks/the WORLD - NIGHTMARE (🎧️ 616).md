@@ -16,7 +16,6 @@ related:
   - "[[the WORLD (TV Size) - NIGHTMARE]]"
 ListenInSec: 1980
 CoverOf: ""
-valid: true
 ---
 
 # NIGHTMARE - the WORLD

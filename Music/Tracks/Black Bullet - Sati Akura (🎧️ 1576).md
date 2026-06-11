@@ -14,7 +14,6 @@ source: ""
 related: []
 ListenInSec: 630
 CoverOf: "[[Black Bullet - fripSide (🎧️ 1577)]]"
-valid: true
 ---
 
 # Sati Akura - Black Bullet

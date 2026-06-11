@@ -14,7 +14,6 @@ source: ""
 related: []
 ListenInSec: 185
 CoverOf: ""
-valid: true
 ---
 
 # BPM OST - 06 Huggin's Shop

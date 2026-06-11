@@ -15,7 +15,6 @@ source: ""
 related: []
 ListenInSec: 241
 CoverOf: ""
-valid: true
 ---
 
 # Kenshi Yonezu - Peace Sign

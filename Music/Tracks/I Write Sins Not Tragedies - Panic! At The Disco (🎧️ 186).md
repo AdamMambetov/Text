@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 2
 CoverOf: ""
-valid: true
 ---
 
 # Panic! At The Disco - I Write Sins Not Tragedies

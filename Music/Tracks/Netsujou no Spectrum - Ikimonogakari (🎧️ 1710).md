@@ -17,7 +17,6 @@ related:
   - "[[Netsujou no Spectrum (TV Size) - Ikimonogakari (🎧️ 1709)]]"
 ListenInSec: 0
 CoverOf: ""
-valid: true
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

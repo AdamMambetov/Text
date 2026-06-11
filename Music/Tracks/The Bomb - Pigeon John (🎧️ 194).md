@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 211
 CoverOf: ""
-valid: true
 ---
 
 # Pigeon John - The Bomb

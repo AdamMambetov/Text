@@ -15,7 +15,6 @@ SourceFile: "[[NotADub - Inochi no Tabekata.mp3]]"
 related: []
 ListenInSec: 726
 CoverOf: "[[Inochi No Tabekata - Eve (🎧️ 1306)]]"
-valid: true
 ---
 
 # NotADub - Inochi no Tabekata

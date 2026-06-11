@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 111
 CoverOf: ""
-valid: true
 ---
 
 # Mikolas Josef - Lalalalalalalalalala

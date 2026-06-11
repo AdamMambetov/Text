@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 190
 CoverOf: "[[Лесник - Король и Шут (🎧️ 534)]]"
-valid: true
 ---
 
 # RADIO TAPOK - Лесник

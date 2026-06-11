@@ -16,7 +16,6 @@ related:
   - "[[Danzai no Hana ~Guilty Sky~ (TV Size) - Kosaka Riyu]]"
 ListenInSec: 1626
 CoverOf: ""
-valid: true
 ---
 
 # Kosaka Riyu - Danzai no Hana ~Guilty Sky~

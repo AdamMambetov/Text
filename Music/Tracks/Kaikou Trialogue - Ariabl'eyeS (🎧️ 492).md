@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 457
 CoverOf: ""
-valid: true
 ---
 
 # Ariabl'eyeS - Kaikou Trialogue

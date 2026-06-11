@@ -15,7 +15,6 @@ source: ""
 related: []
 ListenInSec: 545
 CoverOf: "[[Steppin' Out - FLOW (🎧️ 109)]]"
-valid: true
 ---
 
 # Jackie-O - Stepping Out

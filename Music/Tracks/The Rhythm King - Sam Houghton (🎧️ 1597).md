@@ -14,7 +14,6 @@ source: ""
 related: []
 ListenInSec: 3589
 CoverOf: ""
-valid: true
 ---
 
 # BPM OST - 02 The Rhythm King

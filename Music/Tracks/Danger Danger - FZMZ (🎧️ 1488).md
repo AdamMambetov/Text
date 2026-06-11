@@ -17,7 +17,6 @@ related:
   - "[[Danger Danger (TV Size) - FZMZ]]"
 ListenInSec: 224
 CoverOf: ""
-valid: true
 ---
 
 # FZMZ feat. icy - Danger Danger

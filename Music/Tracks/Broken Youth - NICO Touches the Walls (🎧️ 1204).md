@@ -15,7 +15,6 @@ source: ""
 related: []
 ListenInSec: 1036
 CoverOf: ""
-valid: true
 ---
 
 # Nico Touches the Walls - Broken Youth

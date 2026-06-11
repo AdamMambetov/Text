@@ -18,7 +18,6 @@ related:
   - "[[IGNITE - Aoi Eir]]"
 ListenInSec: 91
 CoverOf: ""
-valid: true
 ---
 
 # Aoi Eir - IGNITE

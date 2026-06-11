@@ -13,7 +13,6 @@ source: https://osu.ppy.sh/beatmapsets/974058#osu/2174699
 related: []
 ListenInSec: 164
 CoverOf: ""
-valid: true
 ---
 
 # Karetus - Full Flavor

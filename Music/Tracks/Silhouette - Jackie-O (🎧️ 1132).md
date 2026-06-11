@@ -15,7 +15,6 @@ source: ""
 related: []
 ListenInSec: 483
 CoverOf: "[[Silhouette - KANA-BOON (🎧️ 140)]]"
-valid: true
 ---
 
 # Jackie-O - Silhouette

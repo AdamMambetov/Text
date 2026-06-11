@@ -15,7 +15,6 @@ source: ""
 related: []
 ListenInSec: 231
 CoverOf: "[[Unravel - TK from Ling tosite sigure (🎧️ 1438)]]"
-valid: true
 ---
 
 # Jackie-O - Unravel

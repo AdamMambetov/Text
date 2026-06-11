@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 245
 CoverOf: ""
-valid: true
 ---
 
 # ROCK PRIVET - На Заре

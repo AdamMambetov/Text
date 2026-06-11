@@ -18,7 +18,6 @@ related:
   - "[[Crossing Field (TV Size) (🎧️ 1463)]]"
 ListenInSec: 245
 CoverOf: "[[Crossing Field - LiSA (🎧️ 1445)]]"
-valid: true
 ---
 
 # Jonathan Young - Crossing Field

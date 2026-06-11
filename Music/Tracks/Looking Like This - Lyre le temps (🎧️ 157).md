@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 70
 CoverOf: ""
-valid: true
 ---
 
 # Lyre le temps - Looking Like This

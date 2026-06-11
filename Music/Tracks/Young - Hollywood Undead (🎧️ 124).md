@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 42
 CoverOf: ""
-valid: true
 ---
 
 # Hollywood Undead - Young

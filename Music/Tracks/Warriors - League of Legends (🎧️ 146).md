@@ -15,7 +15,6 @@ source: ""
 related: []
 ListenInSec: 410
 CoverOf: "[[Warriors - Imagine Dragons (🎧️ 290)]]"
-valid: true
 ---
 
 # League of Legends - Warriors

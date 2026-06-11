@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 4
 CoverOf: "[[VORTEX - JAWS (🎧️ 1548)]]"
-valid: true
 ---
 
 # DiWilliam - VORTEX

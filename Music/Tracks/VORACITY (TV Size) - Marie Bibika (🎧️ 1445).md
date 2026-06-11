@@ -16,7 +16,6 @@ source: ""
 related: []
 ListenInSec: 91
 CoverOf: "[[VORACITY (TV Size) - MYTH & ROID]]"
-valid: true
 ---
 
 # Marie Bibika - VORACITY (TV Size)

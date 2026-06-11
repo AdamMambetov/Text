@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 175
 CoverOf: "[[Dive Back in Time - JAWS]]"
-valid: true
 ---
 
 # Jackie-O - Dive Back in Time

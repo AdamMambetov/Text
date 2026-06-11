@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 734
 CoverOf: ""
-valid: true
 ---
 
 # Dark Souls 3 OST - 06 Vordt of the Boreal Valley

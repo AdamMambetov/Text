@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 173
 CoverOf: ""
-valid: true
 ---
 
 # Get Scared - Sarcasm

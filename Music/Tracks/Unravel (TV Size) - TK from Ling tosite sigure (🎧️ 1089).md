@@ -16,7 +16,6 @@ related:
   - "[[Unravel - TK from Ling tosite sigure (🎧️ 1438)]]"
 ListenInSec: 689
 CoverOf: ""
-valid: true
 ---
 
 # TK from Ling tosite sigure - Unravel (TV Size)

@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 181
 CoverOf: ""
-valid: true
 ---
 
 # Sabaton - Night Witches

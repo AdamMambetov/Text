@@ -17,7 +17,6 @@ related:
   - "[[Netsujou no Spectrum - Ikimonogakari (🎧️ 1710)]]"
 ListenInSec: 90
 CoverOf: ""
-valid: true
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

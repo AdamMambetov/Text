@@ -17,7 +17,6 @@ related:
   - "[[LAY YOUR HANDS ON ME (TV Size) - BOOM BOOM SATELLITES]]"
 ListenInSec: 1607
 CoverOf: ""
-valid: true
 ---
 
 # BOOM BOOM SATELLITES – LAY YOUR HANDS ON ME

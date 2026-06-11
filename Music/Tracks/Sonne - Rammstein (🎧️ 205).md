@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 540
 CoverOf: ""
-valid: true
 ---
 
 # Rammstein - Sonne

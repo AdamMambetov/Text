@@ -15,7 +15,6 @@ source: ""
 related: []
 ListenInSec: 469
 CoverOf: ""
-valid: true
 ---
 
 # Macklemore - Thrift Shop

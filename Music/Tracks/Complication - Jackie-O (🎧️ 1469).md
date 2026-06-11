@@ -15,7 +15,6 @@ source: ""
 related: []
 ListenInSec: 726
 CoverOf: "[[Complication - ROOKiEZ is PUNK'D (🎧️ 1710)]]"
-valid: true
 ---
 
 # Jackie-O - Complication

@@ -16,7 +16,6 @@ related:
   - "[[MUKANJYO (TV Size) - Survive Said the Prophet]]"
 ListenInSec: 758
 CoverOf: ""
-valid: true
 ---
 
 # Survive Said the Prophet - MUKANJYO

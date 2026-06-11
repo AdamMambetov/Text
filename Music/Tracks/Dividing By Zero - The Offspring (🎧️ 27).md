@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 20
 CoverOf: ""
-valid: true
 ---
 
 # The Offspring - Dividing By Zero

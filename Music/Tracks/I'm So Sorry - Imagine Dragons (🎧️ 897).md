@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 231
 CoverOf: ""
-valid: true
 ---
 
 # Imagine Dragons - I’m So Sorry

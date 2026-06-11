@@ -17,7 +17,6 @@ related:
   - "[[Kanashii Ureshii (TV Size) - Frederic]]"
 ListenInSec: 1710
 CoverOf: ""
-valid: true
 ---
 
 # Frederic - Kanashii Ureshii

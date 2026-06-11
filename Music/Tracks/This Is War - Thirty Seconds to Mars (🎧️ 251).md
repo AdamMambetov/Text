@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 545
 CoverOf: ""
-valid: true
 ---
 
 # Thirty Seconds to Mars - This Is War

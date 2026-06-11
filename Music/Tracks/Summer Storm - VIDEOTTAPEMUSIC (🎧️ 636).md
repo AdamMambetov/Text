@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 387
 CoverOf: ""
-valid: true
 ---
 
 # Sonny Boy OST - Summer Storm

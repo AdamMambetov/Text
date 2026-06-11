@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 373
 CoverOf: ""
-valid: true
 ---
 
 # Dark Souls 3 OST - 04 Firelink Shrine

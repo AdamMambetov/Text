@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 759
 CoverOf: ""
-valid: true
 ---
 
 # Queen - We Are The Champions

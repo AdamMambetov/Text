@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 1545
 CoverOf: ""
-valid: true
 ---
 
 # Umineko no Naku Koro ni OST - 139 Взгляд в прошлое

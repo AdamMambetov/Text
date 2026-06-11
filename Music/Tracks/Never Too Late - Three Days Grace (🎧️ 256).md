@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 145
 CoverOf: ""
-valid: true
 ---
 
 # Three Days Grace - Never Too Late

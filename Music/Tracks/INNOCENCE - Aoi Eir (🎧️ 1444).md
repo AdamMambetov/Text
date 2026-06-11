@@ -18,7 +18,6 @@ related:
   - "[[INNOCENCE (TV Size) - Aoi Eir (🎧️ 1443)]]"
 ListenInSec: 850
 CoverOf: ""
-valid: true
 ---
 
 # Aoi Eri - INNOCENCE

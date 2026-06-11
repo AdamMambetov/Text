@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 299
 CoverOf: "[[Trip Innocent of D (🎧️ 643)]]"
-valid: true
 ---
 
 # Mattyyym - Trip Innocent of D

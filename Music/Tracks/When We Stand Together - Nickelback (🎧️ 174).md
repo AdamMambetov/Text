@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 184
 CoverOf: ""
-valid: true
 ---
 
 # Nickelback - When We Stand Together

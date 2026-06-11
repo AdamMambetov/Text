@@ -16,7 +16,6 @@ source: ""
 related: []
 ListenInSec: 177
 CoverOf: "[[LOST IN PARADISE - ALI]]"
-valid: true
 ---
 
 # ALI - LOST IN PARADISE feat. AKLO (TV Size)

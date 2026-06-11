@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 259
 CoverOf: ""
-valid: true
 ---
 
 # Eminem - Not Afraid

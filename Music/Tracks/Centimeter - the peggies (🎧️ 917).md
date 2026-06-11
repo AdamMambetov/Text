@@ -14,7 +14,6 @@ related:
   - "[[Centimeter (TV Size) - the peggies]]"
 ListenInSec: 232
 CoverOf: ""
-valid: true
 ---
 
 # the peggies - Centimeter

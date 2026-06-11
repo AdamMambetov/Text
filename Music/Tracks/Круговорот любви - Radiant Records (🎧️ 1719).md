@@ -17,7 +17,6 @@ Album: "[[Летний сон (📀 37)]]"
 NumberInAlbum: 0
 related: []
 ListenInSec: 2995
-valid: true
 ---
 
 # Круговорот любви

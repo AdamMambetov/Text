@@ -14,7 +14,6 @@ source: ""
 related: []
 ListenInSec: 371
 CoverOf: "[[When We Stand Together - Nickelback (🎧️ 174)]]"
-valid: true
 ---
 
 # Everblack Melodies - Лишь собравшись вместе

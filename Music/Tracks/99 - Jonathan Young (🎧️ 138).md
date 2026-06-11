@@ -15,7 +15,6 @@ source: ""
 related: []
 ListenInSec: 254
 CoverOf: "[[99 - Mob Choir (🎧️ 1452)]]"
-valid: true
 ---
 
 # Jonathan Young - 99

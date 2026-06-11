@@ -16,7 +16,6 @@ related:
   - "[[Goya no Machiawase (TV Size) - Hello Sleepwalkers]]"
 ListenInSec: 380
 CoverOf: ""
-valid: true
 ---
 
 # Hello Sleepwalkers - Goya no Machiawase

@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 98
 CoverOf: ""
-valid: true
 ---
 
 # LeaF - Aleph-0

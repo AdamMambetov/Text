@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 361
 CoverOf: ""
-valid: true
 ---
 
 # Smash Mouth - I'm A Believer

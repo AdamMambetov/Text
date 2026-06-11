@@ -16,7 +16,6 @@ related:
   - "[[Hitorigoto (TV Size) - Sati Akura (🎧️ 448)]]"
 ListenInSec: 922
 CoverOf: "[[Hitorigoto - ClariS (🎧️ 1418)]]"
-valid: true
 ---
 
 # Sati Akura - Hitorigoto

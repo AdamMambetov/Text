@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 153
 CoverOf: ""
-valid: true
 ---
 
 # Baracuda - La Di Da

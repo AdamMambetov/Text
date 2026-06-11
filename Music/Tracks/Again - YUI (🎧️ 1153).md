@@ -15,7 +15,6 @@ SourceFile: "[[YUI - Again.mp3]]"
 related: []
 ListenInSec: 501
 CoverOf: ""
-valid: true
 ---
 
 # YUI - Again

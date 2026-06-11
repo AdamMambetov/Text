@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 40
 CoverOf: ""
-valid: true
 ---
 
 # Naked Raygun - Soldiers Requiem

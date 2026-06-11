@@ -16,7 +16,6 @@ source: ""
 related: []
 ListenInSec: 487
 CoverOf: "[[Again - YUI (🎧️ 1153)]]"
-valid: true
 ---
 
 # Sati Akura - Again

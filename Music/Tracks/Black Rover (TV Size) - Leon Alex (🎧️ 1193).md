@@ -15,7 +15,6 @@ source: ""
 related: []
 ListenInSec: 10
 CoverOf: "[[Black Rover (TV Size) - Vickeblanka (🎧️ 1073)]]"
-valid: true
 ---
 
 # Leon Alex - Black Rover (TV Size)

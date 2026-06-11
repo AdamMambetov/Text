@@ -15,7 +15,6 @@ source: ""
 related: []
 ListenInSec: 18
 CoverOf: "[[Dororo - ASIAN KUNG-FU GENERATION (🎧️ 1596)]]"
-valid: true
 ---
 
 # DiWilliam - Dororo

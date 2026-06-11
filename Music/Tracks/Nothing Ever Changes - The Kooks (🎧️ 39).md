@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 133
 CoverOf: ""
-valid: true
 ---
 
 # The Kooks - Nothing Ever Changes

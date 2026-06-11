@@ -16,7 +16,6 @@ related:
   - "[[Seven Deadly Sins (TV Size) - MAN WITH A MISSION]]"
 ListenInSec: 255
 CoverOf: ""
-valid: true
 ---
 
 # MAN WITH A MISSION - Seven Deadly Sins

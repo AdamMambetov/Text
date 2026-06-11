@@ -17,7 +17,6 @@ related:
   - "[[My Soul, Your Beats! (TV Size) - Lia (🎧️ 1759)]]"
 ListenInSec: 1093
 CoverOf: ""
-valid: true
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

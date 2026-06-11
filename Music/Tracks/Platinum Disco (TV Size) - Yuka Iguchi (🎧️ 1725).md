@@ -15,7 +15,6 @@ SourceFile: "[[Yuka Iguchi - Platinum Disco (TV Size).mp3]]"
 related: []
 ListenInSec: 820
 CoverOf: ""
-valid: true
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

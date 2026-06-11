@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 102
 CoverOf: ""
-valid: true
 ---
 
 # Van Helsing OST - Journey to Transylvania

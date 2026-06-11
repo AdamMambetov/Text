@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 570
 CoverOf: ""
-valid: true
 ---
 
 # Sunset Neon - Tonight

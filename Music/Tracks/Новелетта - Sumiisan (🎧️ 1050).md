@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 1339
 CoverOf: ""
-valid: true
 ---
 
 # Umineko no Naku Koro ni OST - 007 Новелетта

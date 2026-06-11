@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 414
 CoverOf: ""
-valid: true
 ---
 
 # Sonny Boy OST - Jugement

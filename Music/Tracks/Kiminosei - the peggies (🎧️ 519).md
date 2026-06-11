@@ -15,7 +15,6 @@ related:
   - "[[Kiminosei (TV Size) - the peggies]]"
 ListenInSec: 538
 CoverOf: ""
-valid: true
 ---
 
 # the peggies - Kiminosei

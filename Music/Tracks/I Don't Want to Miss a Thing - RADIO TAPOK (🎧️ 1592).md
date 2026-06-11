@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 247
 CoverOf: "[[I Don't Want to Miss a Thing - Aerosmith (🎧️ 654)]]"
-valid: true
 ---
 
 # RADIO TAPOK - I Don't Want to Miss a Thing

@@ -17,7 +17,6 @@ source: ""
 related: []
 ListenInSec: 14
 CoverOf: "[[IGNITE - Aoi Eir]]"
-valid: true
 ---
 
 # Sati Akura - IGNITE

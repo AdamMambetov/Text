@@ -13,7 +13,6 @@ source: https://youtu.be/dgMzfkLTGnI?si=Oh9qFYpyMcfap-hZ
 related: []
 ListenInSec: 457
 CoverOf: "[[Way Back Home - Shaun (🎧️ 225)]]"
-valid: true
 ---
 
 # Leon Alex - Way Back Home

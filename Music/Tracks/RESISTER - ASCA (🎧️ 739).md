@@ -18,7 +18,6 @@ related:
   - "[[RESISTER (TV Size) - ASCA]]"
 ListenInSec: 459
 CoverOf: ""
-valid: true
 ---
 
 # ASCA - RESISTER

@@ -15,7 +15,6 @@ source: ""
 related: []
 ListenInSec: 138
 CoverOf: "[[Kimi no Shiranai Monogatari (TV Size) - supercell (🎧️ 1646)]]"
-valid: true
 ---
 
 # ClariS - Kimi no Shiranai Monogatari

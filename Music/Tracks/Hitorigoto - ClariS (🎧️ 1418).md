@@ -16,7 +16,6 @@ related:
   - "[[Hitorigoto (TV Size) - ClariS (🎧️ 1077)]]"
 ListenInSec: 1039
 CoverOf: ""
-valid: true
 ---
 
 # ClariS - Hitorigoto

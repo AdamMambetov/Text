@@ -15,7 +15,6 @@ source: ""
 related: []
 ListenInSec: 352
 CoverOf: ""
-valid: true
 ---
 
 # ASIAN KUNG-FU GENERATION - Dororo

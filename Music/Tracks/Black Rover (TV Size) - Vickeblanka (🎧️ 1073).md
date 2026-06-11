@@ -16,7 +16,6 @@ related:
   - "[[Black Rover - Vickeblanka]]"
 ListenInSec: 796
 CoverOf: ""
-valid: true
 ---
 
 # Vickeblanka - Black Rover (TV Size)

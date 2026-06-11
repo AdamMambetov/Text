@@ -17,7 +17,6 @@ Album: ""
 NumberInAlbum: 0
 related: []
 ListenInSec: 5177
-valid: true
 ---
 
 # Бесстрашие

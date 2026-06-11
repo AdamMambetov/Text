@@ -15,7 +15,6 @@ source: ""
 related: []
 ListenInSec: 265
 CoverOf: "[[Red Fraction - MELL (🎧️ 1571)]]"
-valid: true
 ---
 
 # Nika Lenina - Red Fraction

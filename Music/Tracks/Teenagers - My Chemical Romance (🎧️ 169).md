@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 162
 CoverOf: ""
-valid: true
 ---
 
 # My Chemical Romance - Teenagers

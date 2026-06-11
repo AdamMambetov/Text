@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 179
 CoverOf: ""
-valid: true
 ---
 
 # Simple Plan - You Suck at Love

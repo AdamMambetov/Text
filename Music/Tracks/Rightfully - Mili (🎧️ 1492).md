@@ -16,7 +16,6 @@ related:
   - "[[Rightfully (TV Size) - Mili]]"
 ListenInSec: 2022
 CoverOf: ""
-valid: true
 ---
 
 # Mili - Rightfully

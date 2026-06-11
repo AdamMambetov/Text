@@ -13,7 +13,6 @@ source: https://youtu.be/r6zIGXun57U?si=TnSgb7ngFH-KWk1n
 related: []
 ListenInSec: 934
 CoverOf: ""
-valid: true
 ---
 
 # League of Legends - Legends Never Die

@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 269
 CoverOf: ""
-valid: true
 ---
 
 # Pharrell Williams - Happy

@@ -14,7 +14,6 @@ SourceFile: "[[Onsa Media - Warriors.mp3]]"
 related: []
 ListenInSec: 335
 CoverOf: "[[Warriors - Imagine Dragons (🎧️ 290)]]"
-valid: true
 ---
 
 # Onsa Media - Warriors

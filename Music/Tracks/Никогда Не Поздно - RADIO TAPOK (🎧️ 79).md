@@ -14,7 +14,6 @@ source: ""
 related: []
 ListenInSec: 624
 CoverOf: "[[Never Too Late - Three Days Grace (🎧️ 256)]]"
-valid: true
 ---
 
 # RADIO TAPOK - Never Too Late

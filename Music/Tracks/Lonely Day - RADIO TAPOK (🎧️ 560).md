@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 157
 CoverOf: "[[Lonely Day - System Of A Down (🎧️ 561)]]"
-valid: true
 ---
 
 # Radio Tapok - Lonely Day

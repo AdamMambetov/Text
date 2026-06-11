@@ -16,7 +16,6 @@ related:
   - "[[Colors of the Heart - UVERworld (🎧️ 1264)]]"
 ListenInSec: 91
 CoverOf: ""
-valid: true
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

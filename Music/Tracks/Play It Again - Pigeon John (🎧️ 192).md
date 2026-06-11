@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 10
 CoverOf: ""
-valid: true
 ---
 
 # Pigeon John - Play It Again

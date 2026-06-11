@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 509
 CoverOf: ""
-valid: true
 ---
 
 # Kano - Daisy Blue

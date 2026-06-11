@@ -15,7 +15,6 @@ source: ""
 related: []
 ListenInSec: 185
 CoverOf: "[[Liar Mask (TV Size) - Rika Mayama (🎧️ 1697)]]"
-valid: true
 ---
 
 # Marie Bibika - Liar Mask

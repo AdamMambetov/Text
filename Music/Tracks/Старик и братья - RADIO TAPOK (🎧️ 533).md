@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 1
 CoverOf: ""
-valid: true
 ---
 
 # Radio Tapok - Старик и братья

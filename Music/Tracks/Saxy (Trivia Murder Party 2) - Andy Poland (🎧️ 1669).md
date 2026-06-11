@@ -14,7 +14,6 @@ NumberInAlbum: 0
 related: []
 ListenInSec: 223
 CoverOf: ""
-valid: true
 ---
 
 # Trivia Murder Party 2 OST - 06 Saxy

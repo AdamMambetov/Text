@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 232
 CoverOf: ""
-valid: true
 ---
 
 # Sonny Boy OST - Let There Be Light Again

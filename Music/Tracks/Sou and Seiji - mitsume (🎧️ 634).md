@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 1715
 CoverOf: ""
-valid: true
 ---
 
 # Sonny Boy OST - Sou and Seiji

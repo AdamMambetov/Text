@@ -14,7 +14,6 @@ SourceFile: "[[CHiCO with HoneyWorks - Kessen Spirit.mp3]]"
 related: []
 ListenInSec: 14
 CoverOf: ""
-valid: true
 ---
 
 # CHiCO with HoneyWorks - Kessen Spirit

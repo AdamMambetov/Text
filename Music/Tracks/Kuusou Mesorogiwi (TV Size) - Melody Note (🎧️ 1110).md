@@ -16,7 +16,6 @@ SourceFile: "[[Melody Note - Kuusou Mesorogiwi.mp3]]"
 related: []
 ListenInSec: 199
 CoverOf: "[[Kuusou Mesorogiwi (TV Size) - Yousei Teikoku (🎧️ 1086)]]"
-valid: true
 ---
 
 # Melody Note - Kuusou Mesorogiwi

@@ -13,7 +13,6 @@ SourceFile: "[[Dark Souls 3 OST - 23 Secret Betrayal.mp3]]"
 related: []
 ListenInSec: 466
 CoverOf: ""
-valid: true
 ---
 
 # Dark Souls 3 OST - 23 Secret Betrayal

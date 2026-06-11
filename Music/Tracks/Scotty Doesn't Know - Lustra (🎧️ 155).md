@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 29
 CoverOf: ""
-valid: true
 ---
 
 # Lustra - Scotty Doesn't Know

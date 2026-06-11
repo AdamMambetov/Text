@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 300
 CoverOf: ""
-valid: true
 ---
 
 # Camellia - Racemization

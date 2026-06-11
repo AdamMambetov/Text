@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 8
 CoverOf: ""
-valid: true
 ---
 
 # Naruto OST - Thunder Break

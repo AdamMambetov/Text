@@ -16,7 +16,6 @@ SourceFile: "[[Kari - Let Me Hear.m4a]]"
 related: []
 ListenInSec: 219
 CoverOf: "[[Let Me Hear - Fear and Loathing in Las Vegas]]"
-valid: true
 ---
 
 # Kari - Let Me Hear

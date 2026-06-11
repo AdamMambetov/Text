@@ -15,7 +15,6 @@ SourceFile: "[[Ellie Goulding - Destiny (TV Size).mp3]]"
 related: []
 ListenInSec: 889
 CoverOf: ""
-valid: true
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

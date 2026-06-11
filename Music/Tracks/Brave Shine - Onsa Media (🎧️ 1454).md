@@ -14,7 +14,6 @@ source: https://youtu.be/_c-tN51-uk0?si=FYkUwVzmf3OHa7D_
 related: []
 ListenInSec: 463
 CoverOf: "[[Brave Shine - Aimer]]"
-valid: true
 ---
 
 # Onsa Media - Brave Shine

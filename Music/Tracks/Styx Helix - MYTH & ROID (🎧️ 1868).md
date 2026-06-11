@@ -16,7 +16,6 @@ related:
   - "[[Styx Helix (TV Size) - MYTH & ROID]]"
 ListenInSec: 378
 CoverOf: ""
-valid: true
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

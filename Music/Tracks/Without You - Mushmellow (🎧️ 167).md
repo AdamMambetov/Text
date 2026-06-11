@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 348
 CoverOf: ""
-valid: true
 ---
 
 # Mushmellow - Without You

@@ -15,7 +15,6 @@ source: ""
 related: []
 ListenInSec: 8
 CoverOf: "[[Rightfully - Mili (🎧️ 1492)]]"
-valid: true
 ---
 
 # Onsa Media - Rightfully

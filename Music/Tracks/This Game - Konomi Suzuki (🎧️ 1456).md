@@ -16,7 +16,6 @@ related:
   - "[[This Game (TV Size) - Konomi Suzuki]]"
 ListenInSec: 276
 CoverOf: ""
-valid: true
 ---
 
 # Konomi Suzuki - This Game

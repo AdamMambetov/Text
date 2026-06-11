@@ -17,7 +17,6 @@ source: ""
 related: []
 ListenInSec: 276
 CoverOf: "[[Driver's High - L'Arc-en-Ciel (🎧️ 594)]]"
-valid: true
 ---
 
 # Jackie-O - Driver's High

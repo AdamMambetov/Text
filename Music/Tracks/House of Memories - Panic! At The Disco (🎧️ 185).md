@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 207
 CoverOf: ""
-valid: true
 ---
 
 # Panic! At The Disco - House of Memories

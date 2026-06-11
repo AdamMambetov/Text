@@ -16,7 +16,6 @@ related:
   - "[[Toki wo Kizamu Uta - Lia (🎧️ 1753)]]"
 ListenInSec: 448
 CoverOf: ""
-valid: true
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

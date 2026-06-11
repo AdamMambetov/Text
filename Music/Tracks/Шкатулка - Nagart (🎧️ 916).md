@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 188
 CoverOf: ""
-valid: true
 ---
 
 # NAGART - Шкатулка

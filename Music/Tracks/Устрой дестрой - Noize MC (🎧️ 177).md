@@ -14,7 +14,6 @@ SourceFile: "[[Noize MC - Устрой дестрой.mp3]]"
 related: []
 ListenInSec: 51
 CoverOf: ""
-valid: true
 ---
 
 # Noize MC - Устрой дестрой

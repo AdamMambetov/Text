@@ -18,7 +18,6 @@ related:
   - "[[Kawaki wo Ameku (TV Size) - Minami]]"
 ListenInSec: 868
 CoverOf: ""
-valid: true
 ---
 
 # Minami - Kawaki wo Ameku

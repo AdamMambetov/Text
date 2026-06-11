@@ -16,7 +16,6 @@ related:
   - "[[EASY GO (TV Size) - Kazuki Kato (🎧️ 1879)]]"
 ListenInSec: 894
 CoverOf: ""
-valid: true
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

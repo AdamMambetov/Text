@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 563
 CoverOf: ""
-valid: true
 ---
 
 # Green Day - Holiday

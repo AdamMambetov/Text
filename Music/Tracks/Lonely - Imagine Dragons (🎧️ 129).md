@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 818
 CoverOf: ""
-valid: true
 ---
 
 # Imagine Dragons - Lonely

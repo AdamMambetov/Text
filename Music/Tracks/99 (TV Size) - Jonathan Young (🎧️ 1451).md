@@ -15,7 +15,6 @@ source: ""
 related: []
 ListenInSec: 277
 CoverOf: "[[99 (TV Size) - Mob Choir]]"
-valid: true
 ---
 
 # Jonathan Young - 99 (TV Size)

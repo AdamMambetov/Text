@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 186
 CoverOf: ""
-valid: true
 ---
 
 # Our Last Night - hot girl bummer

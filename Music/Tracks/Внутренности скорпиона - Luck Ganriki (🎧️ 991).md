@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 948
 CoverOf: ""
-valid: true
 ---
 
 # Umineko no Naku Koro ni OST - 045 Внутренности скорпиона

@@ -17,7 +17,6 @@ related:
   - "[[aLIEz (TV Size) - Hiroyuki Sawano]]"
 ListenInSec: 1665
 CoverOf: ""
-valid: true
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

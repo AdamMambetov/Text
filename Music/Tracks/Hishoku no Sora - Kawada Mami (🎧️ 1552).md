@@ -15,7 +15,6 @@ related:
   - "[[Hishoku no Sora (TV Size) - Kawada Mami]]"
 ListenInSec: 2039
 CoverOf: ""
-valid: true
 ---
 
 # Kawada Mami - Hishoku no Sora

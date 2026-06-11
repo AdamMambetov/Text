@@ -15,7 +15,6 @@ source: ""
 related: []
 ListenInSec: 2
 CoverOf: ""
-valid: true
 ---
 
 # Gorillaz - Feel Good Inc

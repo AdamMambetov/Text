@@ -17,7 +17,6 @@ related:
   - "[[Onegai Muscle - Fairouz Ai (🎧️ 1682)]]"
 ListenInSec: 99
 CoverOf: ""
-valid: true
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

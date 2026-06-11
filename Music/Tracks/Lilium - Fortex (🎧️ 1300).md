@@ -15,7 +15,6 @@ source: ""
 related: []
 ListenInSec: 3
 CoverOf: "[[Lilium - Kumiko Noma (🎧️ 780)]]"
-valid: true
 ---
 
 # Fortex - Lilium

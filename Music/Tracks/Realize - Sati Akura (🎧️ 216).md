@@ -15,7 +15,6 @@ source: ""
 related: []
 ListenInSec: 496
 CoverOf: "[[Realize - Konomi Suzuki (🎧️ 1632)]]"
-valid: true
 ---
 
 # Sati Akura - Realize

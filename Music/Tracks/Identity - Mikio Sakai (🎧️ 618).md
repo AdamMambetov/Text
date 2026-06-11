@@ -15,7 +15,6 @@ related:
   - "[[Identity (TV Size) - Mikio Sakai]]"
 ListenInSec: 1811
 CoverOf: ""
-valid: true
 ---
 
 # Mikio Sakai - Identity

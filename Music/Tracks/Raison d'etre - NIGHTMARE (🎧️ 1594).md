@@ -16,7 +16,6 @@ related:
   - "[[Raison d'etre (TV Size) - NIGHTMARE]]"
 ListenInSec: 379
 CoverOf: ""
-valid: true
 ---
 
 # Nightmare - Raison d'etre

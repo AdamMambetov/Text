@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 349
 CoverOf: "[[The Kids Aren't Alright - The Offspring (🎧️ 31)]]"
-valid: true
 ---
 
 # RADIO TAPOK - The Kids Aren't Alright

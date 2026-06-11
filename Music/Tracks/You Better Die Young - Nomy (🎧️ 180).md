@@ -13,7 +13,6 @@ SourceFile: "[[Nomy - You Better Die Young.mp3]]"
 related: []
 ListenInSec: 451
 CoverOf: ""
-valid: true
 ---
 
 # Nomy - You Better Die Young

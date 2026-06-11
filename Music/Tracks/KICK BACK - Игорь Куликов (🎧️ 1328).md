@@ -16,7 +16,6 @@ related:
   - "[[KICK BACK - Kenshi Yonezu]]"
 ListenInSec: 376
 CoverOf: ""
-valid: true
 ---
 
 # Игорь Куликов - KICK BACK

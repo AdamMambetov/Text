@@ -18,7 +18,6 @@ Album: "[[Магия (📀 35)]]"
 NumberInAlbum: 0
 related: []
 ListenInSec: 2355
-valid: true
 ---
 
 # Приготовься!

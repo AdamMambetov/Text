@@ -16,7 +16,6 @@ related:
   - "[[Lilium (TV Size) - Kumiko Noma]]"
 ListenInSec: 1350
 CoverOf: ""
-valid: true
 ---
 
 # Elfen Lied OST - Lilium

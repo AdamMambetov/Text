@@ -16,7 +16,6 @@ related:
   - "[[Guren no Yumiya - Linked Horizon]]"
 ListenInSec: 185
 CoverOf: ""
-valid: true
 ---
 
 # Linked Horizon - Guren no Yumiya (TV Size)

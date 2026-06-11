@@ -17,7 +17,6 @@ related:
   - "[[Clattanoia (TV Size) - OxT]]"
 ListenInSec: 477
 CoverOf: ""
-valid: true
 ---
 
 # OxT - Clattanoia

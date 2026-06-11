@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 218
 CoverOf: "[[Fuyu No Hanashi - Given]]"
-valid: true
 ---
 
 # Jackie-O - Fuyu No Hanashi

@@ -15,7 +15,6 @@ source: ""
 related: []
 ListenInSec: 282
 CoverOf: "[[Signal - TK from Ling tosite sigure (🎧️ 1467)]]"
-valid: true
 ---
 
 # Jackie-O - Signal

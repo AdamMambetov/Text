@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 474
 CoverOf: ""
-valid: true
 ---
 
 # Van Helsing OST - All Hallow's Eve Ball

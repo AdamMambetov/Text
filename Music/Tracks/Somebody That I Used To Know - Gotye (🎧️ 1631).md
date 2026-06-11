@@ -14,7 +14,6 @@ NumberInAlbum: 0
 related: []
 ListenInSec: 2627
 CoverOf: ""
-valid: true
 ---
 
 # Gotye feat. Kimbra - Somebody That I Used To Know

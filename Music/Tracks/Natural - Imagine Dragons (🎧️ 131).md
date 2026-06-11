@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 377
 CoverOf: ""
-valid: true
 ---
 
 # Imagine Dragons - Natural

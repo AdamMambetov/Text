@@ -16,7 +16,6 @@ related:
   - "[[600 миллионов, струнное трио, фа-диез минор - Luck Ganriki (🎧️ 1044)]]"
 ListenInSec: 546
 CoverOf: ""
-valid: true
 ---
 
 # Umineko no Naku Koro ni OST - 095 599 миллионов крахов

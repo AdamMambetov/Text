@@ -14,7 +14,6 @@ source: ""
 related: []
 ListenInSec: 1834
 CoverOf: ""
-valid: true
 ---
 
 # BPM OST - 01 Judgement

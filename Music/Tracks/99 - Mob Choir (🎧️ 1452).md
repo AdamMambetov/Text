@@ -15,7 +15,6 @@ SourceFile: "[[Mob Choir - 99.mp3]]"
 related: []
 ListenInSec: 482
 CoverOf: ""
-valid: true
 ---
 
 # Mob Choir - 99

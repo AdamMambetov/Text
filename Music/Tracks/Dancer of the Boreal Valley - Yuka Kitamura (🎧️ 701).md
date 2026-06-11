@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 197
 CoverOf: ""
-valid: true
 ---
 
 # Dark Souls 3 OST - 12 Dancer of the Boreal Valley

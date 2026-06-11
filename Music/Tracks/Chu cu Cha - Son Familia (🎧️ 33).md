@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 100
 CoverOf: ""
-valid: true
 ---
 
 # Son Familia - Chu cu Cha

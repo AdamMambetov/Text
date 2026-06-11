@@ -15,7 +15,6 @@ SourceFile: "[[Nika Lenina - Liar Mask (TV Size).mp3]]"
 related: []
 ListenInSec: 122
 CoverOf: "[[Liar Mask (TV Size) - Rika Mayama (🎧️ 1697)]]"
-valid: true
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

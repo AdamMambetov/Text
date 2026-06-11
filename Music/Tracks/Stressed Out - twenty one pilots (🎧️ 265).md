@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 332
 CoverOf: ""
-valid: true
 ---
 
 # twenty one pilots - Stressed Out

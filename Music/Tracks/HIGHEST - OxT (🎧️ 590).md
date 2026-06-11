@@ -15,7 +15,6 @@ related:
   - "[[HIGHEST (TV Size) - OxT (🎧️ 1878)]]"
 ListenInSec: 92
 CoverOf: ""
-valid: true
 ---
 
 # OxT - HIGHEST

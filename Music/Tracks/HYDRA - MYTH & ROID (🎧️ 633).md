@@ -16,7 +16,6 @@ source: ""
 related: []
 ListenInSec: 301
 CoverOf: ""
-valid: true
 ---
 
 # MYTH & ROID - HYDRA

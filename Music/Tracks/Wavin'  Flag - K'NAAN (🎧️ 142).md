@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 214
 CoverOf: ""
-valid: true
 ---
 
 # K'NAAN - Wavin' Flag

@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 280
 CoverOf: ""
-valid: true
 ---
 
 # Sonny Boy OST - Tune From Diamond

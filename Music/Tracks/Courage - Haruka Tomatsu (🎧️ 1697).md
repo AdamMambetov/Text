@@ -18,7 +18,6 @@ related:
   - "[[Courage (TV Size) - Haruka Tomatsu (🎧️ 1698)]]"
 ListenInSec: 1508
 CoverOf: ""
-valid: true
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

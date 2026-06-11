@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 178
 CoverOf: ""
-valid: true
 ---
 
 # Reol - Tokio Funka

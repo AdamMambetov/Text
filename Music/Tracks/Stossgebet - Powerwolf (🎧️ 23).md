@@ -13,7 +13,6 @@ SourceFile: "[[Powerwolf - Stossgebet.mp3]]"
 related: []
 ListenInSec: 234
 CoverOf: ""
-valid: true
 ---
 
 # Powerwolf - Stossgebet

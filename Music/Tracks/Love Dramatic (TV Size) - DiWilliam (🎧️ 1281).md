@@ -16,7 +16,6 @@ SourceFile: "[[DiWilliam - Love Dramatic.mp3]]"
 related: []
 ListenInSec: 55
 CoverOf: "[[Love Dramatic (TV Size) - Masayuki Suzuki (🎧️ 1599)]]"
-valid: true
 ---
 
 # DiWilliam - Love Dramatic

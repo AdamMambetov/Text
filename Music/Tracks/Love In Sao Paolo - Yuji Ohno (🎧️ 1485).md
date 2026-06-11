@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 22
 CoverOf: ""
-valid: true
 ---
 
 # Yuji Ohno - Love In Sao Paolo

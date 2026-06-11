@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 321
 CoverOf: ""
-valid: true
 ---
 
 # BABYMETAL - Road of Resistance

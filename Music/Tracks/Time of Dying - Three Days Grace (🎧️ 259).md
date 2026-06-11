@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 2
 CoverOf: ""
-valid: true
 ---
 
 # Three Days Grace - Time of Dying

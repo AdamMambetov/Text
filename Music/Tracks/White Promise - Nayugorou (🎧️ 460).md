@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 17
 CoverOf: ""
-valid: true
 ---
 
 # Nayugorou - White Promise

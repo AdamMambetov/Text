@@ -14,7 +14,6 @@ source: ""
 related: []
 ListenInSec: 44
 CoverOf: "[[Radio - Rammstein (🎧️ 869)]]"
-valid: true
 ---
 
 # RADIO TAPOK - Radio

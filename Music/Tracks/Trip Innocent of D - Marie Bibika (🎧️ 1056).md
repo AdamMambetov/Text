@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 586
 CoverOf: "[[Trip Innocent of D (🎧️ 643)]]"
-valid: true
 ---
 
 # Marie Bibika - Trip Innocent of D

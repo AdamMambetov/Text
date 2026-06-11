@@ -13,7 +13,6 @@ NumberInAlbum: 16
 related: []
 SourceFile: "[[Dark Souls 3 OST - 20 Aldritch, Devourer of Gods.mp3]]"
 CoverOf: ""
-valid: true
 ---
 
 # Dark Souls 3 OST - 20 Aldritch, Devourer of Gods

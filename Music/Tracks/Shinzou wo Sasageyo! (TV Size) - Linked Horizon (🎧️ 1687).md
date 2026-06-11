@@ -16,7 +16,6 @@ related:
   - "[[Shinzou wo Sasageyo! - Linked Horizon]]"
 ListenInSec: 544
 CoverOf: ""
-valid: true
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

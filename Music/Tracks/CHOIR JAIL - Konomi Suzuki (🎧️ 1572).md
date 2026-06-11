@@ -17,7 +17,6 @@ related:
   - "[[CHOIR JAIL (TV Size) - Konomi Suzuki (🎧️ 1573)]]"
 ListenInSec: 2068
 CoverOf: ""
-valid: true
 ---
 
 # Konomi Suzuki - CHOIR JAIL

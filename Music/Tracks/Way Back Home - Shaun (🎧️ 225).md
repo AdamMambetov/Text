@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 2
 CoverOf: ""
-valid: true
 ---
 
 # Shaun - Way Back Home

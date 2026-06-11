@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 347
 CoverOf: ""
-valid: true
 ---
 
 # Imagine Dragons - Roots

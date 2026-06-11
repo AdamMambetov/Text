@@ -14,7 +14,6 @@ source: ""
 related: []
 ListenInSec: 218
 CoverOf: ""
-valid: true
 ---
 
 # BERSERK OST - Gats

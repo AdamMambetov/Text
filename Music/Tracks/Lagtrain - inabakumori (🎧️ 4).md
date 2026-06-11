@@ -13,7 +13,6 @@ SourceFile: "[[inabakumori - Lagtrain.mp3]]"
 related: []
 ListenInSec: 16
 CoverOf: ""
-valid: true
 ---
 
 # Lagtrain

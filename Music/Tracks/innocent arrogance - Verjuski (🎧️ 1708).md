@@ -15,7 +15,6 @@ SourceFile: "[[Verjuski & Marie Bibika - innocent arrogance.mp3]]"
 related: []
 ListenInSec: 223
 CoverOf: "[[innocent arrogance - BiSH (🎧️ 1189)]]"
-valid: true
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

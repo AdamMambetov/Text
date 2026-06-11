@@ -15,7 +15,6 @@ SourceFile: "[[Rika Mayama - Liar Mask.mp3]]"
 related: []
 ListenInSec: 594
 CoverOf: ""
-valid: true
 ---
 
 # Rika Mayama - Liar Mask

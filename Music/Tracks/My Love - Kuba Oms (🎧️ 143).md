@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 493
 CoverOf: ""
-valid: true
 ---
 
 # Kuba Oms - My Love

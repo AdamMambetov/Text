@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 201
 CoverOf: ""
-valid: true
 ---
 
 # My Chemical Romance - The Sharpest Lives

@@ -14,7 +14,6 @@ source: ""
 related: []
 ListenInSec: 376
 CoverOf: ""
-valid: true
 ---
 
 # fripSide - Black Bullet (TV Size)

@@ -15,7 +15,6 @@ source: ""
 related: []
 ListenInSec: 6
 CoverOf: "[[My War - Shinsei Kamattechan (🎧️ 920)]]"
-valid: true
 ---
 
 # Jackie-O - My War

@@ -16,7 +16,6 @@ related:
   - "[[My Dearest (TV Size) - supercell]]"
 ListenInSec: 1792
 CoverOf: ""
-valid: true
 ---
 
 # supercell - My Dearest

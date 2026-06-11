@@ -13,7 +13,6 @@ SourceFile: "[[Minase Inori, Kana Hanazawa, Iguchi Yuka, Hayami Saori - Koko kar
 related: []
 ListenInSec: 58
 CoverOf: ""
-valid: true
 ---
 
 # Minase Inori, Kana Hanazawa, Iguchi Yuka, Hayami Saori - Koko kara, Koko kara (TV Size)

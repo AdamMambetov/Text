@@ -15,7 +15,6 @@ SourceFile: "[[Champ'd Up OST - Create 1.mp3]]"
 related: []
 ListenInSec: 471
 CoverOf: ""
-valid: true
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

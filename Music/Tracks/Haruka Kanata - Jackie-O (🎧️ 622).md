@@ -15,7 +15,6 @@ source: ""
 related: []
 ListenInSec: 236
 CoverOf: "[[Haruka Kanata - ASIAN KUNG-FU GENERATION (🎧️ 644)]]"
-valid: true
 ---
 
 # Jackie-O - Haruka Kanata

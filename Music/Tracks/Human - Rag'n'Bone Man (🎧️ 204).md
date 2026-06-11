@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 570
 CoverOf: ""
-valid: true
 ---
 
 # Rag'n'Bone Man - Human

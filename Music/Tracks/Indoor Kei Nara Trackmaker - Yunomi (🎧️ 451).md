@@ -14,7 +14,6 @@ source: ""
 related: []
 ListenInSec: 3
 CoverOf: ""
-valid: true
 ---
 
 # Yunomi &  - Indoor Kei Nara Trackmaker (curryrice Remix)

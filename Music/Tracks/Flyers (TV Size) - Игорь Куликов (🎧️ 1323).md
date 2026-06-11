@@ -16,7 +16,6 @@ source: ""
 related: []
 ListenInSec: 8
 CoverOf: "[[Flyers (TV Size) - BRADIO (🎧️ 1688)]]"
-valid: true
 ---
 
 # Игорь Куликов - Flyers (TV Size)

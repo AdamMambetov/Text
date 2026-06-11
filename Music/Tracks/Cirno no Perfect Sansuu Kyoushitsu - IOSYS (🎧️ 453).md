@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 250
 CoverOf: ""
-valid: true
 ---
 
 # IOSYS - Cirno no Perfect Sansuu Kyoushitsu

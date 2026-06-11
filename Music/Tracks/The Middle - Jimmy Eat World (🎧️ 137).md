@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 167
 CoverOf: ""
-valid: true
 ---
 
 # Jimmy Eat World - The Middle

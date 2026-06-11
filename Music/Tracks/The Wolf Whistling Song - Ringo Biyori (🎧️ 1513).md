@@ -16,7 +16,6 @@ related:
   - "[[The Wolf Whistling Song (TV Size) - Ringo Biyori (🎧️ 1512)]]"
 ListenInSec: 280
 CoverOf: ""
-valid: true
 ---
 
 # Ringo Biyori - The Wolf Whistling Song

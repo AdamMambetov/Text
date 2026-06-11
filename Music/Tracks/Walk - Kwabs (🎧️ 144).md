@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 203
 CoverOf: ""
-valid: true
 ---
 
 # Kwabs - Walk

@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 375
 CoverOf: ""
-valid: true
 ---
 
 # Imagine Dragons - Radioactive

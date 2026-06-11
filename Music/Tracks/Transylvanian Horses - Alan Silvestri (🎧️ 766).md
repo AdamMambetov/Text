@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 239
 CoverOf: ""
-valid: true
 ---
 
 # Van Helsing OST - Transylvanian Horses

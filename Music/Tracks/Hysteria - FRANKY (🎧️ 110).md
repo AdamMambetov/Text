@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 231
 CoverOf: ""
-valid: true
 ---
 
 # FRANKY - Hysteria

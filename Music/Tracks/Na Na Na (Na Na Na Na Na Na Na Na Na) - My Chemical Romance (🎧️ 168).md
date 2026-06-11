@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 129
 CoverOf: ""
-valid: true
 ---
 
 # My Chemical Romance - Na Na Na (Na Na Na Na Na Na Na Na Na)

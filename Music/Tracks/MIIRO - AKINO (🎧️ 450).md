@@ -14,7 +14,6 @@ SourceFile: "[[AKINO from bless4 - MIIRO.mp3]]"
 related: []
 ListenInSec: 5
 CoverOf: ""
-valid: true
 ---
 
 # AKINO from bless4 - MIIRO

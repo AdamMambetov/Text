@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 2
 CoverOf: ""
-valid: true
 ---
 
 # Dark Souls 3 OST - 16 Ancient Wyvern

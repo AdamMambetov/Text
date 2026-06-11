@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 296
 CoverOf: ""
-valid: true
 ---
 
 # Cranky - Chandelier - King

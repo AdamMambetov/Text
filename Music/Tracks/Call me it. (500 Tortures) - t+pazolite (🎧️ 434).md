@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 258
 CoverOf: ""
-valid: true
 ---
 
 # t+pazolite - Call me it. (500 Tortures)

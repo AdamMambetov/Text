@@ -14,7 +14,6 @@ source: ""
 related: []
 ListenInSec: 471
 CoverOf: ""
-valid: true
 ---
 
 # Noize MC - чайлдфри

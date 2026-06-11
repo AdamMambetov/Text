@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 974
 CoverOf: ""
-valid: true
 ---
 
 # The Rare Occasions - Notion

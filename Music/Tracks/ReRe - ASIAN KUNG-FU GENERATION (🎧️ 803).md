@@ -18,7 +18,6 @@ related:
   - "[[ReRe (TV Size) - ASIAN KUNG-FU GENERATION]]"
 ListenInSec: 976
 CoverOf: ""
-valid: true
 ---
 
 # ASIAN KUNG-FU GENERATION - Re Re

@@ -15,7 +15,6 @@ related:
   - "[[ODDTAXI - Skirt & PUNPEE (🎧️ 1742)]]"
 ListenInSec: 534
 CoverOf: ""
-valid: true
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 2200
 CoverOf: ""
-valid: true
 ---
 
 # KNOWER - Time Traveler

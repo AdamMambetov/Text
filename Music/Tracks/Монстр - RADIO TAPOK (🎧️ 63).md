@@ -14,7 +14,6 @@ SourceFile: "[[RADIO TAPOK - Monster.mp3]]"
 related: []
 ListenInSec: 3
 CoverOf: "[[Monster - Skillet (🎧️ 320)]]"
-valid: true
 ---
 
 # RADIO TAPOK - Monster

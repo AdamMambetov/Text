@@ -15,7 +15,6 @@ source: ""
 related: []
 ListenInSec: 95
 CoverOf: "[[Black Rover (TV Size) - Vickeblanka (🎧️ 1073)]]"
-valid: true
 ---
 
 # Will Stetson - Black Rover (Swing Arrangement)

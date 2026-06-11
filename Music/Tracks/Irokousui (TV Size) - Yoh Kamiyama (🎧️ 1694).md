@@ -16,7 +16,6 @@ related:
   - "[[Irokousui - Yoh Kamiyama (🎧️ 1693)]]"
 ListenInSec: 91
 CoverOf: ""
-valid: true
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

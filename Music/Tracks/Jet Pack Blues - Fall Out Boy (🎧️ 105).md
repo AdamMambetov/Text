@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 14
 CoverOf: ""
-valid: true
 ---
 
 # Fall Out Boy - Jet Pack Blues

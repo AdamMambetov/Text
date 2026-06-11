@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 643
 CoverOf: ""
-valid: true
 ---
 
 # Red Hot Chili Peppers - Snow (Hey Oh)

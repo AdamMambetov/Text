@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 1311
 CoverOf: ""
-valid: true
 ---
 
 # Bonnie Tyler - Holding Out For A Hero

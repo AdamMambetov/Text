@@ -16,7 +16,6 @@ SourceFile: "[[millennium parade - WORK (TV Size).mp3]]"
 related: []
 ListenInSec: 12
 CoverOf: ""
-valid: true
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

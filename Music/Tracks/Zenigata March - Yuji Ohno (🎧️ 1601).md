@@ -14,7 +14,6 @@ source: ""
 related: []
 ListenInSec: 62
 CoverOf: ""
-valid: true
 ---
 
 # Yuji Ohno & Lupintic Five - Zenigata March

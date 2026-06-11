@@ -16,7 +16,6 @@ related:
   - "[[The Day (TV Size) - Porno Graffitti (🎧️ 1081)]]"
 ListenInSec: 258
 CoverOf: ""
-valid: true
 ---
 
 # Porno Graffitti - The Day

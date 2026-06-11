@@ -13,7 +13,6 @@ SourceFile: "[[The Cat Returns OST - Kaze Ni Naru.mp3]]"
 related: []
 ListenInSec: 468
 CoverOf: ""
-valid: true
 ---
 
 # The Cat Returns OST - Kaze Ni Naru

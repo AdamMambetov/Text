@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 743
 CoverOf: ""
-valid: true
 ---
 
 # Eve - Tokyo Ghetto

@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 12
 CoverOf: ""
-valid: true
 ---
 
 # Imagine Dragons - Walking The Wire

@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 859
 CoverOf: ""
-valid: true
 ---
 
 # Hirano Aya - God Knows...

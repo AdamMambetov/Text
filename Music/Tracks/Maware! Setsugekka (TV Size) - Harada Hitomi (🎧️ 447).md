@@ -16,7 +16,6 @@ source: ""
 related: []
 ListenInSec: 415
 CoverOf: ""
-valid: true
 ---
 
 # Harada Hitomi, Kayano Ai & Ogura Yui - Maware! Setsugekka (TV Size)

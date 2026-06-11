@@ -13,7 +13,6 @@ SourceFile: "[[Sonny Boy OST - Broken Windows.mp3]]"
 related: []
 ListenInSec: 0
 CoverOf: ""
-valid: true
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

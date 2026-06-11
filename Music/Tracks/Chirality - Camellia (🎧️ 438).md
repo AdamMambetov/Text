@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 206
 CoverOf: ""
-valid: true
 ---
 
 # Camellia - Chirality

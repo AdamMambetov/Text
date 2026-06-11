@@ -15,7 +15,6 @@ related:
   - "[[Chitty Chitty Bang Bang (TV Size) - QUEENDOM (🎧️ 1614)]]"
 ListenInSec: 1217
 CoverOf: ""
-valid: true
 ---
 
 # QUEENDOM - Chitty Chitty Bang Bang

@@ -15,7 +15,6 @@ source: ""
 related: []
 ListenInSec: 403
 CoverOf: "[[99 - Mob Choir (🎧️ 1452)]]"
-valid: true
 ---
 
 # HaruWei - 99

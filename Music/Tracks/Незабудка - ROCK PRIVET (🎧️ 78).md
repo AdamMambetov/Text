@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 1
 CoverOf: "[[Незабудка - Тима Белорусских (🎧️ 923)]]"
-valid: true
 ---
 
 # ROCK PRIVET - Незабудка

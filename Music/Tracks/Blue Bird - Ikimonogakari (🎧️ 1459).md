@@ -16,7 +16,6 @@ related:
   - "[[Blue Bird (TV Size) - Ikimonogakari]]"
 ListenInSec: 1373
 CoverOf: ""
-valid: true
 ---
 
 # Blue Bird

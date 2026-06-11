@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 892
 CoverOf: ""
-valid: true
 ---
 
 # PRAVADA - Свети

@@ -14,7 +14,6 @@ source: ""
 related: []
 ListenInSec: 1
 CoverOf: "[[Sonne - Rammstein (🎧️ 205)]]"
-valid: true
 ---
 
 # RADIO TAPOK - Sonne

@@ -15,7 +15,6 @@ source: ""
 related: []
 ListenInSec: 2301
 CoverOf: "[[Let Me Hear - Fear and Loathing in Las Vegas]]"
-valid: true
 ---
 
 # Jackie-O - Let Me Hear

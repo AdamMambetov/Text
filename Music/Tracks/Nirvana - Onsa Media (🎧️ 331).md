@@ -15,7 +15,6 @@ source: ""
 related: []
 ListenInSec: 233
 CoverOf: "[[Nirvana - MUCC (🎧️ 1685)]]"
-valid: true
 ---
 
 # Onsa Media - Nirvana

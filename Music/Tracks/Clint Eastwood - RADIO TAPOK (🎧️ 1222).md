@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 459
 CoverOf: "[[Clint Eastwood - Gorillaz (🎧️ 1221)]]"
-valid: true
 ---
 
 # RADIO TAPOK - Clint Eastwood

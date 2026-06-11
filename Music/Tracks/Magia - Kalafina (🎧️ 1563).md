@@ -16,7 +16,6 @@ related:
   - "[[Magia (TV Size) - Kalafina]]"
 ListenInSec: 399
 CoverOf: ""
-valid: true
 ---
 
 # Kalafina - Magia

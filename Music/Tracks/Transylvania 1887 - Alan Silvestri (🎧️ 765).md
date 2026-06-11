@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 191
 CoverOf: ""
-valid: true
 ---
 
 # Van Helsing OST - Transylvania 1887

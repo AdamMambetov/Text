@@ -17,7 +17,6 @@ source: ""
 related: []
 ListenInSec: 18
 CoverOf: "[[IGNITE (TV Size) - Aoi Eir (🎧️ 1100)]]"
-valid: true
 ---
 
 # Marie Bibika - Ignite (tv size)

@@ -14,7 +14,6 @@ related:
   - "[[АРОМАТ ПОДОЗРЕНИЯ - Luck Ganriki (🎧️ 1099)]]"
 ListenInSec: 1328
 CoverOf: ""
-valid: true
 ---
 
 # Umineko no Naku Koro ni OST - 019 Аромат подозрения

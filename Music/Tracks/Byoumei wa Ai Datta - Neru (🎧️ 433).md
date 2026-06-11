@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 536
 CoverOf: ""
-valid: true
 ---
 
 # Neru - Byoumei wa Ai Datta

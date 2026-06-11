@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 136
 CoverOf: ""
-valid: true
 ---
 
 # nekodex - circles!

@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 5
 CoverOf: ""
-valid: true
 ---
 
 # Powerwolf - Killers with the Cross

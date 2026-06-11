@@ -16,7 +16,6 @@ related:
   - "[[Toki wo Kizamu Uta (TV Size) - Lia (🎧️ 1755)]]"
 ListenInSec: 2024
 CoverOf: ""
-valid: true
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

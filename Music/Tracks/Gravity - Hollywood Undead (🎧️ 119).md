@@ -13,7 +13,6 @@ SourceFile: "[[Hollywood Undead - Gravity.mp3]]"
 related: []
 ListenInSec: 201
 CoverOf: ""
-valid: true
 ---
 
 # Hollywood Undead - Gravity

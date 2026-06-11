@@ -13,7 +13,6 @@ NumberInAlbum: 0
 related: []
 ListenInSec: 1011
 CoverOf: ""
-valid: true
 ---
 
 # Evanescence - Bring Me To Life

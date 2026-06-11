@@ -15,7 +15,6 @@ source: ""
 related: []
 ListenInSec: 860
 CoverOf: ""
-valid: true
 ---
 
 # Sonny Boy OST - Shounen Shoujo

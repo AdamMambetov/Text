@@ -16,7 +16,6 @@ SourceFile: "[[Roro Ai & Ryrynoli - Puzzle.mp3]]"
 related: []
 ListenInSec: 0
 CoverOf: "[[Puzzle - Round Table]]"
-valid: true
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

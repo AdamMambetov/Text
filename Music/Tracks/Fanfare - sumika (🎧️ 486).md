@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 849
 CoverOf: ""
-valid: true
 ---
 
 # sumika - Fanfare

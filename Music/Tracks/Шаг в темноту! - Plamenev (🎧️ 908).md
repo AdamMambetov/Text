@@ -15,7 +15,6 @@ related:
   - "[[Step into the Dark! - Plamenev (🎧️ 905)]]"
 ListenInSec: 259
 CoverOf: "[[Шаг в темноту - Рок-Опера Орфей (🎧️ 940)]]"
-valid: true
 ---
 
 # Plamenev - Шаг в темноту!

@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 478
 CoverOf: "[[Senbonzakura - Hatsune Miku]]"
-valid: true
 ---
 
 # Will Stetson - Senbonzakura

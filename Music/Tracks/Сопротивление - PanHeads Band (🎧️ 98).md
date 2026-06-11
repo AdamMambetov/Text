@@ -14,7 +14,6 @@ source: ""
 related: []
 ListenInSec: 181
 CoverOf: "[[The Resistance - Skillet (🎧️ 318)]]"
-valid: true
 ---
 
 # PanHeads Band - Сопротивление

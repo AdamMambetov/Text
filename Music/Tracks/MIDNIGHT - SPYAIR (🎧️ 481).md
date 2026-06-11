@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 213
 CoverOf: ""
-valid: true
 ---
 
 # SPYAIR - MIDNIGHT

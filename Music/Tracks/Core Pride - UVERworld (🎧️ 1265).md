@@ -16,7 +16,6 @@ source: ""
 related: []
 ListenInSec: 1341
 CoverOf: ""
-valid: true
 ---
 
 # UVERworld - Core Pride

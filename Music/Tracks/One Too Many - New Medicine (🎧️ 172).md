@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 226
 CoverOf: ""
-valid: true
 ---
 
 # New Medicine - One Too Many

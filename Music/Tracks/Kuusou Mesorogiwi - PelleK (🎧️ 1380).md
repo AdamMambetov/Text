@@ -17,7 +17,6 @@ source: ""
 related: []
 ListenInSec: 579
 CoverOf: "[[Kuusou Mesorogiwi - Yousei Teikoku (🎧️ 640)]]"
-valid: true
 ---
 
 # PelleK & Raon Lee - Mirai Nikki

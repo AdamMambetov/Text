@@ -16,7 +16,6 @@ related:
   - "[[Colors of the Heart (TV Size) - UVERworld (🎧️ 1696)]]"
 ListenInSec: 257
 CoverOf: ""
-valid: true
 ---
 
 # UVERworld - Colors of the Heart

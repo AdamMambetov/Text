@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 394
 CoverOf: ""
-valid: true
 ---
 
 # Onsa Media - Uragirimono no Requiem

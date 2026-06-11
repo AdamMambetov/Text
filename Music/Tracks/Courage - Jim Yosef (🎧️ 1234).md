@@ -14,7 +14,6 @@ source: ""
 related: []
 ListenInSec: 228
 CoverOf: ""
-valid: true
 ---
 
 # Jim Yosef - Courage

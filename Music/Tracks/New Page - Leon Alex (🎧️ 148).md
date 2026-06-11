@@ -15,7 +15,6 @@ source: ""
 related: []
 ListenInSec: 201
 CoverOf: ""
-valid: true
 ---
 
 # Leon Alex - New Page

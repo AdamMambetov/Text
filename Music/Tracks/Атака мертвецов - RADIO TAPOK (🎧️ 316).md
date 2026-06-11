@@ -14,7 +14,6 @@ source: ""
 related: []
 ListenInSec: 229
 CoverOf: "[[The Attack of the Dead Men - Sabaton (🎧️ 212)]]"
-valid: true
 ---
 
 # RADIO TAPOK - The Attack of the Dead Men

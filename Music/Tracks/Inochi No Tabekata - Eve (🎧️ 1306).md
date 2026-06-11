@@ -15,7 +15,6 @@ source: https://youtu.be/U7L-3VXAkSA?si=otq7VTvjvojQ033C
 related: []
 ListenInSec: 229
 CoverOf: ""
-valid: true
 ---
 
 # Eve - Inochi no Tabekata

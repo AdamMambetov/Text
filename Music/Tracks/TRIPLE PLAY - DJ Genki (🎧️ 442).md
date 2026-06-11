@@ -15,7 +15,6 @@ SourceFile: "[[DJ Genki, C-Show and Camellia - TRIPLE PLAY.mp3]]"
 related: []
 ListenInSec: 510
 CoverOf: ""
-valid: true
 ---
 
 # DJ Genki, C-Show and Camellia - TRIPLE PLAY

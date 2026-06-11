@@ -13,7 +13,6 @@ SourceFile: "[[Escape The Fate - One For the Money.mp3]]"
 related: []
 ListenInSec: 71
 CoverOf: ""
-valid: true
 ---
 
 # Escape The Fate - One For the Money

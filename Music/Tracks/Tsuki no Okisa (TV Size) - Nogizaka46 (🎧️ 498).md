@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 106
 CoverOf: ""
-valid: true
 ---
 
 # Nogizaka46 - Tsuki no Ookisa (TV Size)

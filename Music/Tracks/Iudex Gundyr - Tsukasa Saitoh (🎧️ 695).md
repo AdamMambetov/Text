@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 555
 CoverOf: ""
-valid: true
 ---
 
 # Dark Souls 3 OST - 05 Iudex Gundyr

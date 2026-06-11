@@ -14,7 +14,6 @@ SourceFile: "[[Camellia feat Nanahira - Bassdrop Freaks.mp3]]"
 related: []
 ListenInSec: 15
 CoverOf: ""
-valid: true
 ---
 
 # Camellia feat Nanahira - Bassdrop Freaks

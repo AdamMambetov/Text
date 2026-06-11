@@ -15,7 +15,6 @@ SourceFile: "[[Yuka Iguchi - Platinum Disco.mp3]]"
 related: []
 ListenInSec: 1402
 CoverOf: ""
-valid: true
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

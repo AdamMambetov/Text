@@ -14,7 +14,6 @@ source: ""
 related: []
 ListenInSec: 3
 CoverOf: ""
-valid: true
 ---
 
 # Eminem - The Monster

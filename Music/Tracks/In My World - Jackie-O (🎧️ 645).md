@@ -15,7 +15,6 @@ source: ""
 related: []
 ListenInSec: 604
 CoverOf: "[[In My World - ROOKiEZ is PUNK'D (🎧️ 209)]]"
-valid: true
 ---
 
 # Jackie-O - In My World

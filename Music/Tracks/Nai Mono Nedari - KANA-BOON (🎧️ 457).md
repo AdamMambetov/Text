@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 6
 CoverOf: ""
-valid: true
 ---
 
 # KANA-BOON - Nai Mono Nedari

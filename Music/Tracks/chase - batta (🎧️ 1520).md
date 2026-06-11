@@ -16,7 +16,6 @@ related:
   - "[[chase (TV Size) - batta (🎧️ 1519)]]"
 ListenInSec: 744
 CoverOf: ""
-valid: true
 ---
 
 # batta - chase

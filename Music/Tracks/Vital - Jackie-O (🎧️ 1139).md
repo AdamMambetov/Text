@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 250
 CoverOf: "[[Vital - Endoh Masaaki]]"
-valid: true
 ---
 
 # Jackie-O - Vital

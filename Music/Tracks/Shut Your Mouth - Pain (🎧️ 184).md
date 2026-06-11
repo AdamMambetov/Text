@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 371
 CoverOf: ""
-valid: true
 ---
 
 # Pain - Shut Your Mouth

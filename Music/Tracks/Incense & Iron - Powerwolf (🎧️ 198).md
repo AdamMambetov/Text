@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 498
 CoverOf: ""
-valid: true
 ---
 
 # Powerwolf - Incense & Iron

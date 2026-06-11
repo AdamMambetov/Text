@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 854
 CoverOf: "[[This Is War - Thirty Seconds to Mars (🎧️ 251)]]"
-valid: true
 ---
 
 # RADIO TAPOK - This Is War

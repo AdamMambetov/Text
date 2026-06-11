@@ -16,7 +16,6 @@ related:
   - "[[Stay Alive (TV Size) - Rie Takahashi]]"
 ListenInSec: 19
 CoverOf: ""
-valid: true
 ---
 
 # Stay Alive - Stay Alive

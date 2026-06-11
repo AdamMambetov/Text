@@ -16,7 +16,6 @@ related:
   - "[[Connect - ClariS (🎧️ 1230)]]"
 ListenInSec: 96
 CoverOf: ""
-valid: true
 ---
 
 # ClariS - Connect (TV Size)

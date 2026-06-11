@@ -15,7 +15,6 @@ SourceFile: "[[21st Century Orchestra Tokyo - Guren no Yumiya.mp3]]"
 related: []
 ListenInSec: 332
 CoverOf: "[[Guren no Yumiya (TV Size) - Linked Horizon (🎧️ 1084)]]"
-valid: true
 ---
 
 # 21st Century Orchestra Tokyo - Guren no Yumiya

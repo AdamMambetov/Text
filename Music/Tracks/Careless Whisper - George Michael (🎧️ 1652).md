@@ -13,7 +13,6 @@ NumberInAlbum: 0
 related: []
 ListenInSec: 2093
 CoverOf: ""
-valid: true
 ---
 
 # George Michael - Careless Whisper

@@ -15,7 +15,6 @@ source: ""
 related: []
 ListenInSec: 18
 CoverOf: "[[Stay Alive - Rie Takahashi (🎧️ 1517)]]"
-valid: true
 ---
 
 # Sati Akura - Stay Alive

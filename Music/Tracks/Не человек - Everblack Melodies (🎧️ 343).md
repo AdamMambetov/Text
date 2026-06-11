@@ -16,7 +16,6 @@ NumberInAlbum: 0
 related: []
 ListenInSec: 225
 CoverOf: "[[Unravel - TK from Ling tosite sigure (🎧️ 1438)]]"
-valid: true
 ---
 
 # Everblack Melodies - Не человек

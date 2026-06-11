@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 5
 CoverOf: ""
-valid: true
 ---
 
 # Nomy - I Have a Problem

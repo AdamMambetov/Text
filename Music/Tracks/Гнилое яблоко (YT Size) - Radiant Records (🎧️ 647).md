@@ -16,7 +16,6 @@ NumberInAlbum: 0
 related:
   - "[[Гнилое яблоко - Radiant Records (🎧️ 1336)]]"
 ListenInSec: 459
-valid: true
 ---
 
 # Гнилое яблоко

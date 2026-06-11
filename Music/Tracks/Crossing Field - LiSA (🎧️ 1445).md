@@ -18,7 +18,6 @@ related:
   - "[[Crossing Field (TV Size) (🎧️ 1459)]]"
 ListenInSec: 1550
 CoverOf: ""
-valid: true
 ---
 
 # LiSA - Crossing Field

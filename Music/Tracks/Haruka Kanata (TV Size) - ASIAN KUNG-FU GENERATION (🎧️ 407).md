@@ -16,7 +16,6 @@ related:
   - "[[Haruka Kanata - ASIAN KUNG-FU GENERATION (🎧️ 644)]]"
 ListenInSec: 111
 CoverOf: ""
-valid: true
 ---
 
 # ASIAN KUNG-FU GENERATION - Haruka Kanata (TV Size)

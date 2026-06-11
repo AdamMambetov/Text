@@ -15,7 +15,6 @@ source: ""
 related: []
 ListenInSec: 17
 CoverOf: ""
-valid: true
 ---
 
 # PENGUIN RESEARCH - Button

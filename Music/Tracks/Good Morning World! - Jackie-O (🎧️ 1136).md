@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 495
 CoverOf: "[[Good Morning World! - BURNOUT SYNDROMES]]"
-valid: true
 ---
 
 # Jackie-O - Good Morning World!

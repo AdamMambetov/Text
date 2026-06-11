@@ -15,7 +15,6 @@ SourceFile: "[[ROOKiEZ is PUNK'D - Complication (TV Size).mp3]]"
 related: []
 ListenInSec: 9
 CoverOf: ""
-valid: true
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

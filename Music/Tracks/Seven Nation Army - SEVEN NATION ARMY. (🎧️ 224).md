@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 182
 CoverOf: ""
-valid: true
 ---
 
 # SEVEN NATION ARMY. - Seven Nation Army

@@ -16,7 +16,6 @@ related:
   - "[[TIT FOR TAT (TV Size) - MYTH & ROID]]"
 ListenInSec: 1040
 CoverOf: ""
-valid: true
 ---
 
 # MYTH & ROID - TIT FOR TAT

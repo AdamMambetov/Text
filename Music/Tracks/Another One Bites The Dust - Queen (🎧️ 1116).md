@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 1702
 CoverOf: ""
-valid: true
 ---
 
 # Queen - Another One Bites The Dust

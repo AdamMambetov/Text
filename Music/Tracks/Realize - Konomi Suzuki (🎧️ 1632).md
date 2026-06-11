@@ -16,7 +16,6 @@ related:
   - "[[Realize (TV Size) - Konomi Suzuki]]"
 ListenInSec: 734
 CoverOf: ""
-valid: true
 ---
 
 # Konomi Suzuki - Realize

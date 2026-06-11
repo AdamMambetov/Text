@@ -15,7 +15,6 @@ related:
   - "[[HIGHEST - OxT (🎧️ 590)]]"
 ListenInSec: 360
 CoverOf: ""
-valid: true
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

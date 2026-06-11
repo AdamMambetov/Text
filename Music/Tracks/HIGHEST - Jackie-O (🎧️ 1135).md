@@ -14,7 +14,6 @@ source: ""
 related: []
 ListenInSec: 423
 CoverOf: "[[HIGHEST - OxT (🎧️ 590)]]"
-valid: true
 ---
 
 # Jackie-O - HIGHEST

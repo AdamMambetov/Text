@@ -15,7 +15,6 @@ SourceFile: "[[LeeandLie_AmaLee - Styx_Helix.mp3]]"
 related: []
 ListenInSec: 1192
 CoverOf: "[[Styx Helix - MYTH & ROID (🎧️ 1868)]]"
-valid: true
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

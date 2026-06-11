@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 430
 CoverOf: ""
-valid: true
 ---
 
 # LOUNA - Начало нового круга

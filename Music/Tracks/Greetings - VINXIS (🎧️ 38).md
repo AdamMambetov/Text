@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 172
 CoverOf: ""
-valid: true
 ---
 
 # VINXIS - Greetings

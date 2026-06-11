@@ -16,7 +16,6 @@ related:
   - "[[Kaikai Kitan (TV Size) - Eve]]"
 ListenInSec: 1298
 CoverOf: ""
-valid: true
 ---
 
 # Eve - Kaikai Kitan

@@ -16,7 +16,6 @@ source: ""
 related: []
 ListenInSec: 458
 CoverOf: "[[Clattanoia - OxT (🎧️ 1477)]]"
-valid: true
 ---
 
 # Jackie-O - Clattanoia

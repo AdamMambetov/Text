@@ -15,7 +15,6 @@ source: ""
 related: []
 ListenInSec: 571
 CoverOf: ""
-valid: true
 ---
 
 # Co shu Nie - asphyxia (TV Size)

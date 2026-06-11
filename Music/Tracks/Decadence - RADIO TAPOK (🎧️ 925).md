@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 3
 CoverOf: "[[Decadence - Disturbed (🎧️ 864)]]"
-valid: true
 ---
 
 # RADIO TAPOK - Decadence

@@ -13,7 +13,6 @@ source: https://youtu.be/BEnZ0VgQAXw?si=TMjxl_MWg7yteCs9
 related: []
 ListenInSec: 7
 CoverOf: "[[Lagtrain - inabakumori (🎧️ 4)]]"
-valid: true
 ---
 
 # Will Stetson - Lagtrain

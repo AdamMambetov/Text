@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 395
 CoverOf: ""
-valid: true
 ---
 
 # The Score - Stronger

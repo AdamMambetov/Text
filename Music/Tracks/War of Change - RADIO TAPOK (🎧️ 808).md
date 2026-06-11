@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 417
 CoverOf: "[[War of Change - Thousand Foot Krutch (🎧️ 255)]]"
-valid: true
 ---
 
 # RADIO TAPOK - War of Change

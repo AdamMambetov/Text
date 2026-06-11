@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 384
 CoverOf: "[[Shut Your Mouth - Pain (🎧️ 184)]]"
-valid: true
 ---
 
 # RADIO TAPOK - Shut your mouth

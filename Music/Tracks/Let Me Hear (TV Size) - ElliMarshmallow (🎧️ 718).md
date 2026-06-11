@@ -15,7 +15,6 @@ source: ""
 related: []
 ListenInSec: 89
 CoverOf: "[[Let Me Hear (TV Size) - Fear and Loathing in Las Vegas (🎧️ 1075)]]"
-valid: true
 ---
 
 # ElliMarshmallow - Let Me Hear

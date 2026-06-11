@@ -17,7 +17,6 @@ related:
   - "[[Bling-Bang-Bang-Born (TV Size) - Creepy Nuts (🎧️ 1117)]]"
 ListenInSec: 411
 CoverOf: ""
-valid: true
 ---
 
 # Creepy Nuts - Bling-Bang-Bang-Born

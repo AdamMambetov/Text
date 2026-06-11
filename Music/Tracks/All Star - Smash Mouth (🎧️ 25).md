@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 284
 CoverOf: ""
-valid: true
 ---
 
 # Smash Mouth - All Star

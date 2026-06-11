@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 271
 CoverOf: ""
-valid: true
 ---
 
 # Louis Armstrong - What A Wonderful World

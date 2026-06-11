@@ -16,7 +16,6 @@ related:
   - "[[Ready Steady Go (TV Size) - L'Arc-en-Ciel]]"
 ListenInSec: 1321
 CoverOf: ""
-valid: true
 ---
 
 # L'Arc-en-Ciel - Ready Steady Go

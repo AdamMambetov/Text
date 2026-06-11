@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 138
 CoverOf: ""
-valid: true
 ---
 
 # Lulu - You And I

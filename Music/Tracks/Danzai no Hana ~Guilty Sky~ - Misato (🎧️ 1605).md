@@ -15,7 +15,6 @@ source: ""
 related: []
 ListenInSec: 262
 CoverOf: "[[Danzai no Hana ~Guilty Sky~ - Kosaka Riyu (🎧️ 1592)]]"
-valid: true
 ---
 
 # Misato - Danzai no Hana

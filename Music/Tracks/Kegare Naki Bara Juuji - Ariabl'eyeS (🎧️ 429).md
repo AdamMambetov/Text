@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 5
 CoverOf: ""
-valid: true
 ---
 
 # Ariabl'eyeS - Kegare Naki Bara Juuji (Short ver)

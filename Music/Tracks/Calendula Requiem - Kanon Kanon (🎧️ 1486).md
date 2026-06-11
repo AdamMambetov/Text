@@ -16,7 +16,6 @@ related:
   - "[[Calendula Requiem (TV Size) - Kanon Kanon]]"
 ListenInSec: 613
 CoverOf: ""
-valid: true
 ---
 
 # Kanon Kanon - Calendula Requiem

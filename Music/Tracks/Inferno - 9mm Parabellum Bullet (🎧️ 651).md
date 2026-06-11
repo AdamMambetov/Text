@@ -15,7 +15,6 @@ SourceFile: "[[9mm Parabellum Bullet - Inferno.mp3]]"
 related: []
 ListenInSec: 5
 CoverOf: ""
-valid: true
 ---
 
 # 9mm Parabellum Bullet - Inferno

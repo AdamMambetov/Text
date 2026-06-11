@@ -17,7 +17,6 @@ related:
   - "[[CHOIR JAIL - Nika Lenina (🎧️ 1570)]]"
 ListenInSec: 767
 CoverOf: "[[CHOIR JAIL (TV Size) - Konomi Suzuki (🎧️ 1573)]]"
-valid: true
 ---
 
 # Nika Lenina - CHOIR JAIL (TV Size)

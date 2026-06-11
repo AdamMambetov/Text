@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 426
 CoverOf: ""
-valid: true
 ---
 
 # Eve - Outsider

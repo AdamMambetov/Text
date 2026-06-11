@@ -14,7 +14,6 @@ SourceFile: "[[PANHEADS BAND - Герой.mp3]]"
 related: []
 ListenInSec: 189
 CoverOf: "[[Hero - Skillet (🎧️ 321)]]"
-valid: true
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

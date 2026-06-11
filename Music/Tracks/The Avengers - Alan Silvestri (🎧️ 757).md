@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 125
 CoverOf: ""
-valid: true
 ---
 
 # The Avengers OST - Main Theme

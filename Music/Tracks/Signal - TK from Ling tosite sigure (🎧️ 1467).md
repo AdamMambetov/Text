@@ -15,7 +15,6 @@ source: ""
 related: []
 ListenInSec: 642
 CoverOf: ""
-valid: true
 ---
 
 # TK from Ling tosite sigure - Signal

@@ -14,7 +14,6 @@ source: ""
 related: []
 ListenInSec: 308
 CoverOf: ""
-valid: true
 ---
 
 # Camellia - PAPAYAPA BASS

@@ -17,7 +17,6 @@ Album: ""
 NumberInAlbum: 0
 related: []
 ListenInSec: 3830
-valid: true
 ---
 
 # Ритм души

@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 566
 CoverOf: "[[A Reason to Fight - Disturbed (🎧️ 1586)]]"
-valid: true
 ---
 
 # RADIO TAPOK - A Reason To Fight

@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 549
 CoverOf: ""
-valid: true
 ---
 
 # Three Days Grace - Fallen Angel

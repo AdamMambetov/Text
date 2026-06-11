@@ -15,7 +15,6 @@ source: ""
 related: []
 ListenInSec: 564
 CoverOf: "[[TOP - Stray Kids]]"
-valid: true
 ---
 
 # Jackie-O - TOP

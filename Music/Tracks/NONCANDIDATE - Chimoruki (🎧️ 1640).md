@@ -14,7 +14,6 @@ related:
   - "[[Day of Tragedy (🎧️ 1624)]]"
 ListenInSec: 1324
 CoverOf: ""
-valid: true
 ---
 
 # Chimoruki - NONCANDIDATE (Clowns Song, Kaisou, Day of Tragedy OST Mashup)

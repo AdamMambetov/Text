@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 131
 CoverOf: ""
-valid: true
 ---
 
 # RADIO TAPOK - To Hell And Back

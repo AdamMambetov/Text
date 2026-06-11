@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 506
 CoverOf: ""
-valid: true
 ---
 
 # Sonny Boy OST - Soft Oversight

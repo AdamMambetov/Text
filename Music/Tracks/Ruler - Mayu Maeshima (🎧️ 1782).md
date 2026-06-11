@@ -15,7 +15,6 @@ SourceFile: "[[Mayu Maeshima - Ruler.mp3]]"
 related: []
 ListenInSec: 687
 CoverOf: ""
-valid: true
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

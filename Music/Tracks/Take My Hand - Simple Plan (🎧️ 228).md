@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 451
 CoverOf: ""
-valid: true
 ---
 
 # Simple Plan - Take My Hand

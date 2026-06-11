@@ -17,7 +17,6 @@ related:
   - "[[Flyers - BRADIO (🎧️ 1198)]]"
 ListenInSec: 6
 CoverOf: ""
-valid: true
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

@@ -18,7 +18,6 @@ NumberInAlbum: 0
 related:
   - "[[Pre-Parade (TV Size) - Kugimiya Rie]]"
 ListenInSec: 2859
-valid: true
 ---
 
 # Pre-Parade

@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 782
 CoverOf: ""
-valid: true
 ---
 
 # t+pazolite - Pumpin' Junkies

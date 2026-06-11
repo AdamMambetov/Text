@@ -14,7 +14,6 @@ source: ""
 related: []
 ListenInSec: 433
 CoverOf: "[[War of Change - Thousand Foot Krutch (🎧️ 255)]]"
-valid: true
 ---
 
 # Everblack Melodies - Война перемен

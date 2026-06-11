@@ -16,7 +16,6 @@ related:
   - "[[Megumeru (TV Size) - Eufonius (🎧️ 1754)]]"
 ListenInSec: 2240
 CoverOf: ""
-valid: true
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

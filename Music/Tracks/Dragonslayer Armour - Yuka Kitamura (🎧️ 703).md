@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 21
 CoverOf: ""
-valid: true
 ---
 
 # Dark Souls 3 OST - 13 Dragonslayer Armour

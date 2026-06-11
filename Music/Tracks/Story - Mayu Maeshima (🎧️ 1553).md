@@ -14,7 +14,6 @@ source: ""
 related: []
 ListenInSec: 720
 CoverOf: ""
-valid: true
 ---
 
 # Mayu Maeshima - Story

@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 268
 CoverOf: ""
-valid: true
 ---
 
 # Hozier - Take Me To Church

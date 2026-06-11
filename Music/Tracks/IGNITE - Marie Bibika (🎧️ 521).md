@@ -17,7 +17,6 @@ source: ""
 related: []
 ListenInSec: 31
 CoverOf: "[[IGNITE - Aoi Eir]]"
-valid: true
 ---
 
 # Marie Bibika - Ignite

@@ -15,7 +15,6 @@ source: ""
 related: []
 ListenInSec: 1
 CoverOf: ""
-valid: true
 ---
 
 # Leon Alex - TOP

@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 5
 CoverOf: "[[Dramaturgy - Eve (🎧️ 531)]]"
-valid: true
 ---
 
 # Jackie-O - Dramaturgy

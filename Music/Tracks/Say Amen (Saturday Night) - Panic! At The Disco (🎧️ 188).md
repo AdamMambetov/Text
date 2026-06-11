@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 197
 CoverOf: ""
-valid: true
 ---
 
 # Panic! At The Disco - Say Amen (Saturday Night)

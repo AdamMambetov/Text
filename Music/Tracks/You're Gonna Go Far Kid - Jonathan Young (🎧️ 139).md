@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 285
 CoverOf: "[[You're Gonna Go Far, Kid - The Offspring (🎧️ 245)]]"
-valid: true
 ---
 
 # Jonathan Young - You're Gonna Go Far Kid

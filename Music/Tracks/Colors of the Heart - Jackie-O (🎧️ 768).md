@@ -15,7 +15,6 @@ SourceFile: "[[Jackie-O - Colors of the Heart.mp3]]"
 related: []
 ListenInSec: 1
 CoverOf: "[[Colors of the Heart - UVERworld (🎧️ 1264)]]"
-valid: true
 ---
 
 # Jackie-O - Colors of the Heart

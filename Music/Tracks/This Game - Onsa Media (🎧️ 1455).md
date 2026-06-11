@@ -16,7 +16,6 @@ source: ""
 related: []
 ListenInSec: 844
 CoverOf: "[[This Game - Konomi Suzuki (🎧️ 1456)]]"
-valid: true
 ---
 
 # Onsa Media - This Game

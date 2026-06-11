@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 1228
 CoverOf: ""
-valid: true
 ---
 
 # Dark Souls 3 OST - 19 Yhorm The Giant

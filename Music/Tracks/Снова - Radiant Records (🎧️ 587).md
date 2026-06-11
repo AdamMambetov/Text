@@ -19,7 +19,6 @@ Album: ""
 NumberInAlbum: 0
 related: []
 ListenInSec: 3
-valid: true
 ---
 
 # Снова

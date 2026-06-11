@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 1256
 CoverOf: ""
-valid: true
 ---
 
 # Reach - Higher Ground

@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 1265
 CoverOf: "[[Warriors Of The World - Manowar (🎧️ 1581)]]"
-valid: true
 ---
 
 # RADIO TAPOK - Warriors of the World

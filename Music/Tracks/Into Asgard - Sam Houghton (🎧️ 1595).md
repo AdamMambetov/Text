@@ -14,7 +14,6 @@ source: ""
 related: []
 ListenInSec: 2660
 CoverOf: ""
-valid: true
 ---
 
 # BPM OST - 08 Into Asgard

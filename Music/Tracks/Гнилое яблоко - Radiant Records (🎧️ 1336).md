@@ -16,7 +16,6 @@ NumberInAlbum: 0
 related:
   - "[[Гнилое яблоко (YT Size) - Radiant Records (🎧️ 647)]]"
 ListenInSec: 320
-valid: true
 ---
 
 # Гнилое яблоко

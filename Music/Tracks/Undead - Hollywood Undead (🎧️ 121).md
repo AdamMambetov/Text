@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 519
 CoverOf: ""
-valid: true
 ---
 
 # Hollywood Undead - Undead

@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 220
 CoverOf: ""
-valid: true
 ---
 
 # Powerwolf - Demons Are a Girl's Best Friend

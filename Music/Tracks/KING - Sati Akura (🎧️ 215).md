@@ -13,7 +13,6 @@ source: https://www.youtube.com/watch?v=mo3oFeaBi5o
 related: []
 ListenInSec: 25
 CoverOf: "[[KING - Kanaria]]"
-valid: true
 ---
 
 # Sati Akura - KING

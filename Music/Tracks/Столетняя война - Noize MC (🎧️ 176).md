@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 11
 CoverOf: ""
-valid: true
 ---
 
 # Noize MC - Столетняя война

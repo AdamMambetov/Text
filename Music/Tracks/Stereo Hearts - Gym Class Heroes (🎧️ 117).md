@@ -14,7 +14,6 @@ source: ""
 related: []
 ListenInSec: 31
 CoverOf: ""
-valid: true
 ---
 
 # Gym Class Heroes - Stereo Hearts

@@ -14,7 +14,6 @@ source: ""
 related: []
 ListenInSec: 2
 CoverOf: ""
-valid: true
 ---
 
 # S3RL - Music Is My Saviour

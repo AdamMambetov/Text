@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 441
 CoverOf: ""
-valid: true
 ---
 
 # Dark Souls 3 OST - 25 E3 2015 Debut Trailer

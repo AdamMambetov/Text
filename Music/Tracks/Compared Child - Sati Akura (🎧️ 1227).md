@@ -14,7 +14,6 @@ source: https://www.youtube.com/watch?v=vr6ipsV4rMk
 related: []
 ListenInSec: 218
 CoverOf: "[[Compared Child - TUYU]]"
-valid: true
 ---
 
 # Sati Akura - Compared Child

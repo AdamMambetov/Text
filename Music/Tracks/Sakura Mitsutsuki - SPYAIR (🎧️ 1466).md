@@ -16,7 +16,6 @@ related:
   - "[[Sakura Mitsutsuki (TV Size) - SPYAIR]]"
 ListenInSec: 1967
 CoverOf: ""
-valid: true
 ---
 
 # SPYAIR - Sakura Mitsutsuki

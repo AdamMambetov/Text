@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 278
 CoverOf: ""
-valid: true
 ---
 
 # Jackie-O - Drawing Days

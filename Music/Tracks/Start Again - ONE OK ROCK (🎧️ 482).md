@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 45
 CoverOf: ""
-valid: true
 ---
 
 # ONE OK ROCK - Start Again

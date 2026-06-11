@@ -13,7 +13,6 @@ source: https://youtu.be/jJzw1h5CR-I?si=TK1e8UZNbf54U7sE
 related: []
 ListenInSec: 474
 CoverOf: ""
-valid: true
 ---
 
 # Eve - Dramaturgy

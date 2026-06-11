@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 191
 CoverOf: ""
-valid: true
 ---
 
 # Set It Off - I'll Sleep When I'm Dead

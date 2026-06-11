@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 1631
 CoverOf: ""
-valid: true
 ---
 
 # Scatman John - Let It Go

@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 260
 CoverOf: ""
-valid: true
 ---
 
 # Andromedik - Invasion

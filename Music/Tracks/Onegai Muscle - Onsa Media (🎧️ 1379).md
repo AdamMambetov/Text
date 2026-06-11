@@ -17,7 +17,6 @@ source: https://youtu.be/ngJXw214QQw?si=BTMIUXax3Bk9-ejR
 related: []
 ListenInSec: 702
 CoverOf: "[[Onegai Muscle - Fairouz Ai (🎧️ 1682)]]"
-valid: true
 ---
 
 # Onsa Media - Onegai Muscle

@@ -16,7 +16,6 @@ related:
   - "[[Redo - Konomi Suzuki (🎧️ 1469)]]"
 ListenInSec: 802
 CoverOf: ""
-valid: true
 ---
 
 # Konomi Suzuki - Redo (TV Size)

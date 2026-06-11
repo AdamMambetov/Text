@@ -15,7 +15,6 @@ SourceFile: "[[Lia - Bravely You.mp3]]"
 related: []
 ListenInSec: 1629
 CoverOf: "[[Bravely You (TV Size) - Lia (🎧️ 1079)]]"
-valid: true
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

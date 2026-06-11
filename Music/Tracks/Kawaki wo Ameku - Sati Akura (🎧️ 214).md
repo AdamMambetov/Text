@@ -17,7 +17,6 @@ source: ""
 related: []
 ListenInSec: 241
 CoverOf: "[[Kawaki wo Ameku - Minami (🎧️ 8)]]"
-valid: true
 ---
 
 # Sati Akura - Kawaki wo Ameku

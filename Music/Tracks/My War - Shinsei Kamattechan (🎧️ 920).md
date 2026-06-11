@@ -15,7 +15,6 @@ source: ""
 related: []
 ListenInSec: 551
 CoverOf: ""
-valid: true
 ---
 
 # Shinsei Kamattechan - My War

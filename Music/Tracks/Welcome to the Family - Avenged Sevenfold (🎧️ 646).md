@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 474
 CoverOf: ""
-valid: true
 ---
 
 # Avenged Sevenfold - Welcome to the Family

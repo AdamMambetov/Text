@@ -17,7 +17,6 @@ source: ""
 related: []
 ListenInSec: 505
 CoverOf: "[[Crossing Field - LiSA (🎧️ 1445)]]"
-valid: true
 ---
 
 # Onsa Media - Crossing Field

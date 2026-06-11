@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 373
 CoverOf: ""
-valid: true
 ---
 
 # Sonny Boy OST - Night Fishing

@@ -14,7 +14,6 @@ source: https://osu.ppy.sh/beatmapsets/332532#osu/760034
 related: []
 ListenInSec: 513
 CoverOf: ""
-valid: true
 ---
 
 # Panda Eyes - Highscore

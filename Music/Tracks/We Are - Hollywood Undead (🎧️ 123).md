@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 4
 CoverOf: ""
-valid: true
 ---
 
 # Hollywood Undead - We Are

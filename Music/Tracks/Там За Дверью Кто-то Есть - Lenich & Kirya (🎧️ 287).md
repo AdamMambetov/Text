@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 161
 CoverOf: ""
-valid: true
 ---
 
 # Lenich & Kirya - Там За Дверью Кто-то Есть

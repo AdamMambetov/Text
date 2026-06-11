@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 603
 CoverOf: ""
-valid: true
 ---
 
 # Nirvana - Smells Like Teen Spirit

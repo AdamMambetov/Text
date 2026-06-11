@@ -16,7 +16,6 @@ source: ""
 related: []
 ListenInSec: 892
 CoverOf: "[[Irokousui - Yoh Kamiyama (🎧️ 1693)]]"
-valid: true
 ---
 
 # Jackie-O - Irokousui

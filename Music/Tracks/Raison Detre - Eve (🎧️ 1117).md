@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 652
 CoverOf: ""
-valid: true
 ---
 
 # Eve - Raison Detre

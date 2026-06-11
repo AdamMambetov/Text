@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 508
 CoverOf: ""
-valid: true
 ---
 
 # Three Days Grace - Pain

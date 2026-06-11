@@ -16,7 +16,6 @@ related:
   - "[[Kimi no Shiranai Monogatari - supercell (🎧️ 1653)]]"
 ListenInSec: 1350
 CoverOf: ""
-valid: true
 ---
 
 # supercell - Kimi no Shiranai (TV Size)

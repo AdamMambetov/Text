@@ -15,7 +15,6 @@ source: ""
 related: []
 ListenInSec: 109
 CoverOf: "[[Lilium (TV Size) - Kumiko Noma]]"
-valid: true
 ---
 
 # Dom1no - Lilium

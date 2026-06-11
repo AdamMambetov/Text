@@ -14,7 +14,6 @@ SourceFile: "[[Roro Ai & Marie Bibika - Happy! Lucky! Dochy!.mp3]]"
 related: []
 ListenInSec: 360
 CoverOf: ""
-valid: true
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

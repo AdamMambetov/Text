@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 241
 CoverOf: "[[88 - LM.C]]"
-valid: true
 ---
 
 # Jackie-O - 88

@@ -14,7 +14,6 @@ source: ""
 related: []
 ListenInSec: 2555
 CoverOf: ""
-valid: true
 ---
 
 # GYZE - HONESTY

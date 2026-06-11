@@ -15,7 +15,6 @@ source: ""
 related: []
 ListenInSec: 2023
 CoverOf: ""
-valid: true
 ---
 
 # JAWS - VORTEX

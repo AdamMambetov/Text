@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 148
 CoverOf: ""
-valid: true
 ---
 
 # Ariabl'eyeS - Arcadia

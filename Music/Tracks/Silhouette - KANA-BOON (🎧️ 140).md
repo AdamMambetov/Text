@@ -16,7 +16,6 @@ related:
   - "[[Silhouette (TV Size) - KANA-BOON (🎧️ 1090)]]"
 ListenInSec: 6
 CoverOf: ""
-valid: true
 ---
 
 # KANA-BOON - Silhouette

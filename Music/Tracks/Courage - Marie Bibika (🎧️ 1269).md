@@ -17,7 +17,6 @@ source: ""
 related: []
 ListenInSec: 249
 CoverOf: "[[Courage - Haruka Tomatsu (🎧️ 1697)]]"
-valid: true
 ---
 
 # Marie Bibika - Courage

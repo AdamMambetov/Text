@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 427
 CoverOf: ""
-valid: true
 ---
 
 # Sonny Boy OST - Spare

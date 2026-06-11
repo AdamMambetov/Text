@@ -14,7 +14,6 @@ source: ""
 related: []
 ListenInSec: 2619
 CoverOf: ""
-valid: true
 ---
 
 # BPM OST - 09 Paradox

@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 654
 CoverOf: ""
-valid: true
 ---
 
 # Powerwolf - Sanctified with Dynamite

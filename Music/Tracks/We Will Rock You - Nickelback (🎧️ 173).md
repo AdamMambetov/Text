@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 163
 CoverOf: ""
-valid: true
 ---
 
 # Nickelback - We Will Rock You

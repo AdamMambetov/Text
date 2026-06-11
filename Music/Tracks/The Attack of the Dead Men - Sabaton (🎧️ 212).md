@@ -14,7 +14,6 @@ source: ""
 related: []
 ListenInSec: 241
 CoverOf: ""
-valid: true
 ---
 
 # Sabaton - The Attack of the Dead Men

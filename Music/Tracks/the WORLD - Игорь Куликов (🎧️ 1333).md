@@ -15,7 +15,6 @@ source: ""
 related: []
 ListenInSec: 878
 CoverOf: "[[the WORLD - NIGHTMARE (🎧️ 616)]]"
-valid: true
 ---
 
 # Игорь Куликов - the WORLD

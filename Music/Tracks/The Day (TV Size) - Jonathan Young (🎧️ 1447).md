@@ -16,7 +16,6 @@ related:
   - "[[The Day - Jonathan Young (🎧️ 1446)]]"
 ListenInSec: 99
 CoverOf: "[[The Day (TV Size) - Porno Graffitti (🎧️ 1081)]]"
-valid: true
 ---
 
 # Jonathan Young - The Day (TV Size)

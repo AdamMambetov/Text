@@ -18,7 +18,6 @@ related:
   - "[[Driver's High (TV Size) - L'Arc-en-Ciel]]"
 ListenInSec: 772
 CoverOf: ""
-valid: true
 ---
 
 # L'Arc-en-Ciel - Driver's High

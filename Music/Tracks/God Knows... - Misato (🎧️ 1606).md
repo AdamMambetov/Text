@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 276
 CoverOf: "[[God Knows... - Hirano Aya (🎧️ 1608)]]"
-valid: true
 ---
 
 # Misato - God knows...

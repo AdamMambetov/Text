@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 258
 CoverOf: ""
-valid: true
 ---
 
 # Hamburgaga - Fubuki Guys

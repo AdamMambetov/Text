@@ -15,7 +15,6 @@ source: ""
 related: []
 ListenInSec: 1199
 CoverOf: "[[Yuusha - YOASOBI (🎧️ 1559)]]"
-valid: true
 ---
 
 # Sati Akura - Yuusha

@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 343
 CoverOf: ""
-valid: true
 ---
 
 # Araki - Teo

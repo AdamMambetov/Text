@@ -15,7 +15,6 @@ source: ""
 related: []
 ListenInSec: 381
 CoverOf: "[[Shinzou wo Sasageyo! - Linked Horizon]]"
-valid: true
 ---
 
 # Jackie-O - Shinzou wo Sasageyo!

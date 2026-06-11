@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 546
 CoverOf: ""
-valid: true
 ---
 
 # Amatsuki - Chiisana Koi no Uta

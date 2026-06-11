@@ -16,7 +16,6 @@ related:
   - "[[Tsukiakari No Michishirube (TV Size) - Stereopony (🎧️ 1703)]]"
 ListenInSec: 65
 CoverOf: ""
-valid: true
 ---
 
 # Tsukiakari No Michishirube

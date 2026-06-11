@@ -15,7 +15,6 @@ source: ""
 related: []
 ListenInSec: 7
 CoverOf: ""
-valid: true
 ---
 
 # Leon Alex - Kyouran Hey Kids!!

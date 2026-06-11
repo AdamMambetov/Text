@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 3
 CoverOf: ""
-valid: true
 ---
 
 # Imagine Dragons - Demons

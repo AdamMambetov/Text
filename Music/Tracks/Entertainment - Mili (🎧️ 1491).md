@@ -16,7 +16,6 @@ related:
   - "[[Entertainment (TV Size) - Mili]]"
 ListenInSec: 583
 CoverOf: ""
-valid: true
 ---
 
 # Mili - Entertainment

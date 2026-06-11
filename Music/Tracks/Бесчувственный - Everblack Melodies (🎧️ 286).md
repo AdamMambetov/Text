@@ -16,7 +16,6 @@ source: ""
 related: []
 ListenInSec: 368
 CoverOf: "[[MUKANJYO - Survive Said the Prophet (🎧️ 338)]]"
-valid: true
 ---
 
 # Everblack Melodies - Бесчувственный

@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 21
 CoverOf: ""
-valid: true
 ---
 
 # OK Go - Here It Goes Again

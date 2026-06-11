@@ -14,7 +14,6 @@ related:
   - "[[IDOL (TV Size) - YOASOBI]]"
 ListenInSec: 478
 CoverOf: ""
-valid: true
 ---
 
 # YOASOBI - IDOL

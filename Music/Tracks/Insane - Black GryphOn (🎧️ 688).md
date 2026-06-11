@@ -14,7 +14,6 @@ source: ""
 related: []
 ListenInSec: 472
 CoverOf: ""
-valid: true
 ---
 
 # Black Gryph0n - Insane

@@ -14,7 +14,6 @@ source: ""
 related: []
 ListenInSec: 3171
 CoverOf: ""
-valid: true
 ---
 
 # fripSide - Black Bullet

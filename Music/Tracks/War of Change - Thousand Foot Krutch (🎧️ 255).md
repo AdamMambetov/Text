@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 694
 CoverOf: ""
-valid: true
 ---
 
 # Thousand Foot Krutch - War of Change

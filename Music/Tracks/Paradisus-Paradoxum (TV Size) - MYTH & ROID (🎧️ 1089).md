@@ -16,7 +16,6 @@ related:
   - "[[Paradisus-Paradoxum - MYTH & ROID (🎧️ 1629)]]"
 ListenInSec: 180
 CoverOf: ""
-valid: true
 ---
 
 # MYTH & ROID - Paradisus-Paradoxum (TV Size)

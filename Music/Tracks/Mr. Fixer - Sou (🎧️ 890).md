@@ -17,7 +17,6 @@ related:
   - "[[Mr. Fixer (TV Size) - Sou]]"
 ListenInSec: 8
 CoverOf: ""
-valid: true
 ---
 
 # Sou - Mr. Fixer

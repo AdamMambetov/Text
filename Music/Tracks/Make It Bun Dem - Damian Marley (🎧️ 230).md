@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 504
 CoverOf: ""
-valid: true
 ---
 
 # Skrillex - Make It Bun Dem

@@ -15,7 +15,6 @@ source: ""
 related: []
 ListenInSec: 98
 CoverOf: ""
-valid: true
 ---
 
 # Harmony Team - Perfect World

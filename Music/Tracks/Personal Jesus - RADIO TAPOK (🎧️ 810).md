@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 2
 CoverOf: "[[Personal Jesus - Depeche Mode (🎧️ 731)]]"
-valid: true
 ---
 
 # RADIO TAPOK - Personal Jesus

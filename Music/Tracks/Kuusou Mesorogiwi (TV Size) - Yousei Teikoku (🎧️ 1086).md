@@ -17,7 +17,6 @@ related:
   - "[[Kuusou Mesorogiwi - Yousei Teikoku (🎧️ 640)]]"
 ListenInSec: 191
 CoverOf: ""
-valid: true
 ---
 
 # Yousei Teikoku - Kuusou Mesorogiwi (TV Size)

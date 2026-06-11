@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 773
 CoverOf: ""
-valid: true
 ---
 
 # E-Type - Here I Go Again

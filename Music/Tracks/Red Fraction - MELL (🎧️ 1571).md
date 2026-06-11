@@ -16,7 +16,6 @@ related:
   - "[[Red Fraction (TV Size) - MELL]]"
 ListenInSec: 2359
 CoverOf: ""
-valid: true
 ---
 
 # MELL - Red Fraction

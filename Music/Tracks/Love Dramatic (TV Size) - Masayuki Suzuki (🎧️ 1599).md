@@ -17,7 +17,6 @@ related:
   - "[[Love Dramatic - Masayuki Suzuki (🎧️ 1598)]]"
 ListenInSec: 288
 CoverOf: ""
-valid: true
 ---
 
 # Masayuki Suzuki feat. Ihara Rikka - Love Dramatic (TV Size)

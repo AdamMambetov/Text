@@ -16,7 +16,6 @@ related:
   - "[[Hyper (TV Size) - Kroi]]"
 ListenInSec: 1235
 CoverOf: ""
-valid: true
 ---
 
 # Kroi - Hyper

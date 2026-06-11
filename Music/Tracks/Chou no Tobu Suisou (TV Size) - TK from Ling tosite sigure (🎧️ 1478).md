@@ -15,7 +15,6 @@ source: ""
 related: []
 ListenInSec: 89
 CoverOf: ""
-valid: true
 ---
 
 # TK from Ling tosite sigure - Chou no Tobu Suisou (TV Size)

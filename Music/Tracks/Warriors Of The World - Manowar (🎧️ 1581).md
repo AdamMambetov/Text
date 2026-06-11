@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 730
 CoverOf: ""
-valid: true
 ---
 
 # Manowar - Warriors Of The World

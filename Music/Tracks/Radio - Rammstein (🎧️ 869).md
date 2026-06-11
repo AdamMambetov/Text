@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 541
 CoverOf: ""
-valid: true
 ---
 
 # Rammstein - Radio

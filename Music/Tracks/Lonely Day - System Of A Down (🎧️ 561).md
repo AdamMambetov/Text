@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 330
 CoverOf: ""
-valid: true
 ---
 
 # System Of A Down - Lonely Day

@@ -15,7 +15,6 @@ source: ""
 related: []
 ListenInSec: 506
 CoverOf: ""
-valid: true
 ---
 
 # Goose House - Hikarunara

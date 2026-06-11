@@ -17,7 +17,6 @@ source: ""
 related: []
 ListenInSec: 658
 CoverOf: ""
-valid: true
 ---
 
 # Yura Yura - MUSEN

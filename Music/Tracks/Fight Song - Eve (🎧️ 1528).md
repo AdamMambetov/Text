@@ -16,7 +16,6 @@ related:
   - "[[Fight Song (TV Size) - Eve]]"
 ListenInSec: 268
 CoverOf: ""
-valid: true
 ---
 
 # Eve - Fight Song

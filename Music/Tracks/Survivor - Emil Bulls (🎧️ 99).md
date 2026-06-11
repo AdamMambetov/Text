@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 249
 CoverOf: ""
-valid: true
 ---
 
 # Emil Bulls - Survivor

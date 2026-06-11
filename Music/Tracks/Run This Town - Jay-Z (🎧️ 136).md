@@ -15,7 +15,6 @@ source: ""
 related: []
 ListenInSec: 276
 CoverOf: ""
-valid: true
 ---
 
 # Jay-Z - Run This Town

@@ -14,7 +14,6 @@ source: ""
 related: []
 ListenInSec: 1
 CoverOf: "[[Night Witches - Sabaton (🎧️ 211)]]"
-valid: true
 ---
 
 # RADIO TAPOK - Night Witches

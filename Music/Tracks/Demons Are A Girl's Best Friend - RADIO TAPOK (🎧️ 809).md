@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 19
 CoverOf: "[[Demons Are a Girl's Best Friend - Powerwolf (🎧️ 1261)]]"
-valid: true
 ---
 
 # RADIO TAPOK - Demons Are A Girl's Best Friend

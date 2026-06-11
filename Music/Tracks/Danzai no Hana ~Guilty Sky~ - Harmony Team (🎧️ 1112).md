@@ -17,7 +17,6 @@ related:
   - "[[Danzai no Hana ~Guilty Sky~ (TV Size) - Harmony Team (🎧️ 1113)]]"
 ListenInSec: 1319
 CoverOf: "[[Danzai no Hana ~Guilty Sky~ - Kosaka Riyu (🎧️ 1592)]]"
-valid: true
 ---
 
 # Harmony Team - [Len] - Danzai no Hana [RUS]

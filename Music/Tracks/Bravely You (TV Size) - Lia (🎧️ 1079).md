@@ -16,7 +16,6 @@ related:
   - "[[Bravely You - Lia (🎧️ 1753)]]"
 ListenInSec: 95
 CoverOf: ""
-valid: true
 ---
 
 # Lia - Bravely You (TV Size)

@@ -15,7 +15,6 @@ related:
   - "[[Nirvana - MUCC (🎧️ 1685)]]"
 ListenInSec: 94
 CoverOf: ""
-valid: true
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

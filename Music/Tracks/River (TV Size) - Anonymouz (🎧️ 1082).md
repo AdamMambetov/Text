@@ -16,7 +16,6 @@ related:
   - "[[River - Anonymouz]]"
 ListenInSec: 94
 CoverOf: ""
-valid: true
 ---
 
 # Anonymouz - River (TV Size)

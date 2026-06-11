@@ -17,7 +17,6 @@ Album: "[[ПЕРЕПУТЬЕ (📀 33)]]"
 NumberInAlbum: 0
 related: []
 ListenInSec: 9977
-valid: true
 ---
 
 # Птичья песнь

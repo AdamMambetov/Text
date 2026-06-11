@@ -16,7 +16,6 @@ related:
   - "[[Imagination (TV Size) - SPYAIR]]"
 ListenInSec: 438
 CoverOf: ""
-valid: true
 ---
 
 # SPYAIR - Imagination

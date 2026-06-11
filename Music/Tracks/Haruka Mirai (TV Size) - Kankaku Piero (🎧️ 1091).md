@@ -16,7 +16,6 @@ related:
   - "[[Haruka Mirai - Kankaku Piero]]"
 ListenInSec: 5
 CoverOf: ""
-valid: true
 ---
 
 # Kankaku Piero - Haruka Mirai (TV Size)

@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 13
 CoverOf: ""
-valid: true
 ---
 
 # Lindsey Stirling - Roundtable Rival

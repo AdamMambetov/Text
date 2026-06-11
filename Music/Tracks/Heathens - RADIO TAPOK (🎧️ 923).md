@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 387
 CoverOf: "[[Heathens - twenty one pilots (🎧️ 264)]]"
-valid: true
 ---
 
 # RADIO TAPOK - Heathens

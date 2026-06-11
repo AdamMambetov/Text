@@ -16,7 +16,6 @@ related:
   - "[[Let Me Hear - Fear and Loathing in Las Vegas]]"
 ListenInSec: 176
 CoverOf: ""
-valid: true
 ---
 
 # Fear, and Loathing in Las Vegas - Let Me Hear (TV Size)

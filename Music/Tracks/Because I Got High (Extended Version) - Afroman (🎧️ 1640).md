@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 1618
 CoverOf: ""
-valid: true
 ---
 
 # Afroman - Because I Got High Extended Version

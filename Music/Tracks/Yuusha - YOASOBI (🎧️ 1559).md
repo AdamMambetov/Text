@@ -16,7 +16,6 @@ related:
   - "[[Yuusha (TV Size) - YOASOBI]]"
 ListenInSec: 1532
 CoverOf: ""
-valid: true
 ---
 
 # YOASOBI - Yuusha

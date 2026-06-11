@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 1127
 CoverOf: ""
-valid: true
 ---
 
 # Skillet - Hero

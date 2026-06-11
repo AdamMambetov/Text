@@ -16,7 +16,6 @@ related:
   - "[[EASY GO - Kazuki Kato (🎧️ 1878)]]"
 ListenInSec: 566
 CoverOf: ""
-valid: true
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 3
 CoverOf: ""
-valid: true
 ---
 
 # Rixton - Me and My Broken Heart

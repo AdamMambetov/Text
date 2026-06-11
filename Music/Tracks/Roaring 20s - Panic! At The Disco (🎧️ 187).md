@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 187
 CoverOf: ""
-valid: true
 ---
 
 # Panic! At The Disco - Roaring 20s

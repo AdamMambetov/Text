@@ -15,7 +15,6 @@ related:
   - "[[Вне смерти - Plamenev (🎧️ 547)]]"
 ListenInSec: 221
 CoverOf: ""
-valid: true
 ---
 
 # Plamenev - Out of Death

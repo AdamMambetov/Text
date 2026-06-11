@@ -15,7 +15,6 @@ source: ""
 related: []
 ListenInSec: 351
 CoverOf: ""
-valid: true
 ---
 
 # TK from Ling tosite sigure - Chou no Tobu Suisou

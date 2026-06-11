@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 50
 CoverOf: ""
-valid: true
 ---
 
 # Brad Breeck - Gravity Falls Theme Song

@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 1061
 CoverOf: ""
-valid: true
 ---
 
 # Mark Ronson - Uptown Funk

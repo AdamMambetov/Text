@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 304
 CoverOf: ""
-valid: true
 ---
 
 # Three Days Grace - Get Out Alive

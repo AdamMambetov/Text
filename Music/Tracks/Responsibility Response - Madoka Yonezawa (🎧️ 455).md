@@ -13,7 +13,6 @@ SourceFile: "[[Izumi Akazawa - Responsibility Response.mp3]]"
 related: []
 ListenInSec: 169
 CoverOf: ""
-valid: true
 ---
 
 # Izumi Akazawa - Responsibility Response

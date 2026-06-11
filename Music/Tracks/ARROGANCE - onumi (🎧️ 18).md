@@ -13,7 +13,6 @@ source: https://osu.ppy.sh/beatmapsets/940377#osu/2165190
 related: []
 ListenInSec: 10
 CoverOf: ""
-valid: true
 ---
 
 # onumi - ARROGANCE

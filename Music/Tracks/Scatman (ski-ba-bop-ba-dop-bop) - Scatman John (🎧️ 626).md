@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 1663
 CoverOf: ""
-valid: true
 ---
 
 # Scatman John - Scatman (ski-ba-bop-ba-dop-bop)

@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 400
 CoverOf: ""
-valid: true
 ---
 
 # Dark Souls 3 OST - 22 Soul of Cinder

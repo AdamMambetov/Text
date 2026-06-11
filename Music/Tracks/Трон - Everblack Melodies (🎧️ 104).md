@@ -14,7 +14,6 @@ source: ""
 related: []
 ListenInSec: 391
 CoverOf: "[[Throne - Bring Me The Horizon]]"
-valid: true
 ---
 
 # Everblack Melodies - Трон

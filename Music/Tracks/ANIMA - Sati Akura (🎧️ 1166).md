@@ -17,7 +17,6 @@ source: https://www.youtube.com/watch?v=zjSoEFD20LU
 related: []
 ListenInSec: 13
 CoverOf: "[[ANIMA - ReoNa]]"
-valid: true
 ---
 
 # Sati Akura - ANIMA

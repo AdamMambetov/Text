@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 280
 CoverOf: ""
-valid: true
 ---
 
 # Imagine Dragons - My Fault

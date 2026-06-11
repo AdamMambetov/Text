@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 229
 CoverOf: "[[Blinded In Chains - Avenged Sevenfold (🎧️ 1195)]]"
-valid: true
 ---
 
 # Игорь Куликов - Blinded in Chains

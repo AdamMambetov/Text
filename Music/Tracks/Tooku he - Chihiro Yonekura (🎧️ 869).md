@@ -16,7 +16,6 @@ related:
   - "[[Tooku he (TV Size) - Chihiro Yonekura]]"
 ListenInSec: 1966
 CoverOf: ""
-valid: true
 ---
 
 # Chihiro Yonekura - Tooku he

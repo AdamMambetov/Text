@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 292
 CoverOf: ""
-valid: true
 ---
 
 # Dark Souls 3 OST - 01 Premonition

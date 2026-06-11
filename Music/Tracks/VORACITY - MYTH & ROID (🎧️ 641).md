@@ -17,7 +17,6 @@ related:
   - "[[VORACITY (TV Size) - MYTH & ROID]]"
 ListenInSec: 8
 CoverOf: ""
-valid: true
 ---
 
 # MYTH & ROID - VORACITY

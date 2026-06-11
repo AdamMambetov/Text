@@ -15,7 +15,6 @@ source: ""
 related: []
 ListenInSec: 517
 CoverOf: "[[Lilium - Kumiko Noma (🎧️ 780)]]"
-valid: true
 ---
 
 # Nerissa Ravencroft - Lilium

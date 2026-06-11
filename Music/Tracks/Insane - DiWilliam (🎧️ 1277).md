@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 159
 CoverOf: "[[Insane - Black GryphOn (🎧️ 688)]]"
-valid: true
 ---
 
 # DiWilliam - Insane

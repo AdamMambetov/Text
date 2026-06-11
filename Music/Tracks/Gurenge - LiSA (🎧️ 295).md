@@ -18,7 +18,6 @@ related:
   - "[[Gurenge (TV Size) - LiSA]]"
 ListenInSec: 673
 CoverOf: ""
-valid: true
 ---
 
 # LiSA - Gurenge

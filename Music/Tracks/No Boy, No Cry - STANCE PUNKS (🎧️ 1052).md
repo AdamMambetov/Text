@@ -16,7 +16,6 @@ related:
   - "[[No Boy, No Cry (TV Size) - STANCE PUNKS]]"
 ListenInSec: 1018
 CoverOf: ""
-valid: true
 ---
 
 # STANCE PUNKS - No Boy, No Cry

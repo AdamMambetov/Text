@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 756
 CoverOf: ""
-valid: true
 ---
 
 # Panic! At The Disco - High Hopes

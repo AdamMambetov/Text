@@ -14,7 +14,6 @@ SourceFile: "[[Sati Akura ft. Kun-Kun - Kina no Kaori ~Ai no Shiren!~.mp3]]"
 related: []
 ListenInSec: 659
 CoverOf: "[[Kina No Kaori ~Ai No Shiren!~ (🎧️ 1564)]]"
-valid: true
 ---
 
 # Sati Akura ft. Kun-Kun - Kina no Kaori ~Ai no Shiren!~

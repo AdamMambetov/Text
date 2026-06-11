@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 411
 CoverOf: ""
-valid: true
 ---
 
 # Chasers - Lost

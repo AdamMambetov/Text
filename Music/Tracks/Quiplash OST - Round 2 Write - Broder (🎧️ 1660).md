@@ -14,7 +14,6 @@ NumberInAlbum: 0
 related: []
 ListenInSec: 712
 CoverOf: ""
-valid: true
 ---
 
 # Quiplash OST - 05 Round 2 Write

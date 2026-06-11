@@ -17,7 +17,6 @@ SourceFile: "[[Marie Bibika - RESISTER.mp3]]"
 related: []
 ListenInSec: 242
 CoverOf: "[[RESISTER - ASCA (🎧️ 739)]]"
-valid: true
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

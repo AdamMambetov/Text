@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 5
 CoverOf: "[[My Demons - STARSET (🎧️ 30)]]"
-valid: true
 ---
 
 # RADIO TAPOK - My Demons

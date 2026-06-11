@@ -14,7 +14,6 @@ source: ""
 related: []
 ListenInSec: 795
 CoverOf: "[[WORK - millennium parade (🎧️ 1716)]]"
-valid: true
 ---
 
 # Jackie-O - Work

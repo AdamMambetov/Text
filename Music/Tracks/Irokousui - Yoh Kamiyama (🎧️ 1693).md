@@ -16,7 +16,6 @@ related:
   - "[[Irokousui (TV Size) - Yoh Kamiyama (🎧️ 1694)]]"
 ListenInSec: 193
 CoverOf: ""
-valid: true
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

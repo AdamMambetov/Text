@@ -15,7 +15,6 @@ SourceFile: "[[Mayu Maeshima - Ruler (TV Size).mp3]]"
 related: []
 ListenInSec: 197
 CoverOf: ""
-valid: true
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

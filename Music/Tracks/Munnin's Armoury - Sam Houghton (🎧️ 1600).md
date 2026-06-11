@@ -14,7 +14,6 @@ source: ""
 related: []
 ListenInSec: 216
 CoverOf: ""
-valid: true
 ---
 
 # BPM OST - 11 Muninn's Armoury

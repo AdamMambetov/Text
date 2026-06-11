@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 224
 CoverOf: ""
-valid: true
 ---
 
 # Motionless In White - Voices

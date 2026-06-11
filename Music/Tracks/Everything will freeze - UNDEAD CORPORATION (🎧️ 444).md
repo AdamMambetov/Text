@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 425
 CoverOf: ""
-valid: true
 ---
 
 # UNDEAD CORPORATION - Everything will freeze

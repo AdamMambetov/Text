@@ -14,7 +14,6 @@ source: ""
 related: []
 ListenInSec: 2
 CoverOf: "[[We Drink Your Blood - Powerwolf (🎧️ 202)]]"
-valid: true
 ---
 
 # RADIO TAPOK - We Drink Your Blood

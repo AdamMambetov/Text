@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 120
 CoverOf: "[[Дурак и молния - Король и Шут (🎧️ 50)]]"
-valid: true
 ---
 
 # RADIO TAPOK - Дурак и Молния

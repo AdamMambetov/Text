@@ -18,7 +18,6 @@ NumberInAlbum: 0
 related:
   - "[[Синяя птица - Radiant Records (🎧️ 1059)]]"
 ListenInSec: 275
-valid: true
 ---
 
 # Синяя птица

@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 406
 CoverOf: ""
-valid: true
 ---
 
 # Disturbed - Decadence

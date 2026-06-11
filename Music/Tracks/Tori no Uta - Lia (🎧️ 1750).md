@@ -18,7 +18,6 @@ related:
   - "[[Tori no Uta (YT Size) - Lia (🎧️ 1741)]]"
 ListenInSec: 2921
 CoverOf: ""
-valid: true
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

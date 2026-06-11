@@ -14,7 +14,6 @@ related:
   - "[[Silhouette - KANA-BOON (🎧️ 140)]]"
 ListenInSec: 182
 CoverOf: ""
-valid: true
 ---
 
 # KANA-BOON - Silhouette (TV Size)

@@ -15,7 +15,6 @@ source: ""
 related: []
 ListenInSec: 1913
 CoverOf: "[[Raison d'etre - NIGHTMARE (🎧️ 1594)]]"
-valid: true
 ---
 
 # Игорь Куликов - Raison d'etre

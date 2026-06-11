@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 220
 CoverOf: ""
-valid: true
 ---
 
 # Santiano - Ihr sollt nicht trauern

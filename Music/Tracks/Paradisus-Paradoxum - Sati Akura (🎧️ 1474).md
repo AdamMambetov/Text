@@ -15,7 +15,6 @@ source: ""
 related: []
 ListenInSec: 241
 CoverOf: "[[Paradisus-Paradoxum - MYTH & ROID (🎧️ 1629)]]"
-valid: true
 ---
 
 # Sati Akura - Paradisus-Paradoxum

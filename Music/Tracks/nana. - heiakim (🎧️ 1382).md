@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 1567
 CoverOf: ""
-valid: true
 ---
 
 # heiakim - nana.

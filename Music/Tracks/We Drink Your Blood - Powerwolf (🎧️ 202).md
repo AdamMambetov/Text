@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 440
 CoverOf: ""
-valid: true
 ---
 
 # Powerwolf - We Drink Your Blood

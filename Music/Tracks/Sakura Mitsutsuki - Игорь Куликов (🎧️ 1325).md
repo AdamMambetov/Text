@@ -15,7 +15,6 @@ source: ""
 related: []
 ListenInSec: 1734
 CoverOf: "[[Sakura Mitsutsuki - SPYAIR (🎧️ 1466)]]"
-valid: true
 ---
 
 # Игорь Куликов - Sakura Mitsutsuki

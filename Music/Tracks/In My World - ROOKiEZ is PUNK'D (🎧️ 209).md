@@ -15,7 +15,6 @@ source: ""
 related: []
 ListenInSec: 399
 CoverOf: ""
-valid: true
 ---
 
 # ROOKiEZ is PUNK'D - In My World

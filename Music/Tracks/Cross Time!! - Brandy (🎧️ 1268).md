@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 125
 CoverOf: ""
-valid: true
 ---
 
 # Brandy - Cross Time!!

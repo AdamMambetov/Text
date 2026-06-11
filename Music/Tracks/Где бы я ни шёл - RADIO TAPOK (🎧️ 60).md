@@ -14,7 +14,6 @@ source: ""
 related: []
 ListenInSec: 16
 CoverOf: "[[Everywhere I Go - Hollywood Undead (🎧️ 1306)]]"
-valid: true
 ---
 
 # RADIO TAPOK - Everywhere I Go

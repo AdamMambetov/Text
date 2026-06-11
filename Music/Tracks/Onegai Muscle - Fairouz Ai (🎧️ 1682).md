@@ -17,7 +17,6 @@ related:
   - "[[Onegai Muscle (TV Size) - Fairouz Ai (🎧️ 1712)]]"
 ListenInSec: 1893
 CoverOf: ""
-valid: true
 ---
 
 # Onegai Muscle

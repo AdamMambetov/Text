@@ -19,7 +19,6 @@ Album: "[[ПЕРЕПУТЬЕ (📀 33)]]"
 NumberInAlbum: 1
 related: []
 ListenInSec: 3268
-valid: true
 ---
 
 # Перепутье

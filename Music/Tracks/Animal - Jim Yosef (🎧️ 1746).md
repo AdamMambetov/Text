@@ -14,7 +14,6 @@ SourceFile: "[[Jim Yosef x RIELL - Animal.mp3]]"
 related: []
 ListenInSec: 699
 CoverOf: ""
-valid: true
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

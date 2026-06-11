@@ -13,7 +13,6 @@ source: ""
 related: []
 ListenInSec: 297
 CoverOf: ""
-valid: true
 ---
 
 # Green Day - Wake Me up When September Ends
