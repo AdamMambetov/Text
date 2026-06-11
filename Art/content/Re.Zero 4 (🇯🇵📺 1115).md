@@ -13,7 +13,7 @@ Rating:
   - "[[®️16|R-17]]"
 Cover: "[[re_zero_4_anime_cover.jpg]]"
 Year: 2026
-Episode: 6
+Episode: 10
 Адаптация: "[[Re.Zero (🇯🇵📘 282)]]"
 Предыстория: "[[Re.Zero 3 (🇯🇵📺 402)]]"
 ---
