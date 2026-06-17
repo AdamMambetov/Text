@@ -1,0 +1,343 @@
+{
+  "main": {
+    "id": "cf2267ecd70581b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "db8ab5855d9c1024",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b71145140fa91c4",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6950bc5deb19e2a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c82957975551721",
+        "type": "tabs",
+        "dimension": 29.98996990972919,
+        "children": [
+          {
+            "id": "9c544f672998523a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "09f47be955db2cd0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "b93a29a2df3a3391",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Text/Music/templates/rename all in music capture.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "rename all in music capture"
+            }
+          }
+        ]
+      },
+      {
+        "id": "5c3c453a77f44819",
+        "type": "tabs",
+        "dimension": 35.10531594784353,
+        "children": [
+          {
+            "id": "00d3efa879a91a09",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": -1.4,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.46822130772748016,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ae9f94fc00f8790e",
+        "type": "tabs",
+        "dimension": 34.90471414242728,
+        "children": [
+          {
+            "id": "c53e1b3c4d426925",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 336.5
+  },
+  "right": {
+    "id": "fa85d1514c56552d",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a8f43a41bcf3663",
+        "type": "tabs",
+        "dimension": 25.199203187250998,
+        "children": [
+          {
+            "id": "23edba1bc6bd8c75",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "6288a4b67d726840",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Text/Music/Tracks/Love In Sao Paolo - Yuji Ohno (🎧️ 1485).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Love In Sao Paolo - Yuji Ohno (🎧️ 1485)"
+            }
+          },
+          {
+            "id": "84a8f2be316ef40b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Text/Music/Tracks/Love In Sao Paolo - Yuji Ohno (🎧️ 1485).md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Love In Sao Paolo - Yuji Ohno (🎧️ 1485)"
+            }
+          },
+          {
+            "id": "fd743b097c548ff2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Text/Personal/Данные для VPN.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Данные для VPN"
+            }
+          },
+          {
+            "id": "91c91d83c23de9cd",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
+            }
+          }
+        ]
+      },
+      {
+        "id": "3185b9fecf878a15",
+        "type": "tabs",
+        "dimension": 74.800796812749,
+        "children": [
+          {
+            "id": "85cdd56987990db9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "abb7c97cf6ca419d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": true,
+                "searchQuery": "related"
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "ce567fd2d34a9325",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 449.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": true,
+      "daily-notes:Open today's daily note": true,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": true,
+      "table-editor-obsidian:Advanced Tables Toolbar": true,
+      "cmdr:QuickAdd: смотреть позже": false,
+      "cmdr:Track Edit": false,
+      "obsidian-git:Open Git source control": true,
+      "homepage:Open homepage": false,
+      "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": true,
+      "modalforms:Edit forms": true,
+      "omnisearch:Omnisearch": true,
+      "quickadd:QuickAdd": true,
+      "templater-obsidian:Templater": true,
+      "3d-graph-new:Global 3D Graph": true,
+      "obsidian-excalidraw-plugin:New drawing": true
+    }
+  },
+  "active": "9b71145140fa91c4",
+  "lastOpenFiles": [
+    "Text/RealRed/periodic/2026-05-15.md",
+    "Text/RealRed/periodic/2026-05-13.md",
+    "Text/RealRed/periodic/2026-05-08.md",
+    "Text/RealRed/periodic/2026-05-06.md",
+    "Video/18+/Hentai/2101_video_voice_HentaiZ_720.mp4.mp4",
+    "Audio/Music/Your Turn To Die OST - 08 Even in Tragedy [EXTENDED].mp3",
+    "Audio/Music/Your Turn To Die OST - 09 Kind Moment [EXTENDED].mp3",
+    "Audio/Music/Your Turn To Die OST - 07 Day of Tragedy [EXTENDED].mp3",
+    "Audio/Music/Your Turn To Die OST - 03 Into The Incident [EXTENDED].mp3",
+    "Audio/Music/Your Turn To Die OST - 04 Major Panic [EXTENDED].mp3",
+    "Audio/Music/Your Turn To Die OST - 02 Aren't You Cheerful [EXTENDED].mp3",
+    "Audio/Music/Your Turn To Die OST - 11 Cardiogram Prelude [EXTENDED].mp3",
+    "Audio/Music/Your Turn To Die OST - 12 Cardiogram Peak [EXTENDED].mp3",
+    "Audio/Music/Your Turn To Die OST - 20 Not So, Sou B [EXTENDED].mp3",
+    "Text/RealRed/periodic/2026-05.md",
+    "Text/RealRed/periodic/2026-05-05.md",
+    "Text/RealRed/periodic/2026-05-04.md",
+    "Text/Art/content/Re.Zero 4 (🇯🇵📺 1115).md",
+    "Text/RealRed/periodic/2026-04-29.md",
+    "Text/RealRed/periodic/2026-04-28.md",
+    "Text/RealRed/periodic/2026-04-27.md",
+    "Text/RealRed/periodic/2026-04-24.md",
+    "Text/Art/content/Невероятное приключение ДжоДжо 7 (🇯🇵📺 1128).md",
+    "Text/Music/Tracks/Great Days - Karen Aoki (🎧️ 588).md",
+    "Text/Art/covers/incredibox_game_cover.png",
+    "Text/Art/content/Incredibox (🇺🇸🎮 1215).md",
+    "Text/Music/Tracks/Love In Sao Paolo - Yuji Ohno (🎧️ 1485).md",
+    "Image/Wallpapers/Mobile/IMG_20260330_232429.jpg",
+    "Text/RealRed/Как устроен Gameplay Tag.excalidraw.md",
+    "Text/RealRed/В каких классах надо исправить тэги.md",
+    "Text/RealRed/periodic/2026-04.md",
+    "Text/RealRed/periodic/2026-04-22.md",
+    "Text/RealRed/periodic/2026-04-21.md",
+    "Text/RealRed/periodic/2026-04-20.md",
+    "Text/RealRed/periodic/2026-04-17.md",
+    "Text/RealRed/periodic/2026-04-16.md",
+    "Text/RealRed/periodic/2026-04-15.md",
+    "Text/RealRed/periodic/2026-04-14.md",
+    "Text/RealRed/files/Pasted Image 20260408145304_525.png",
+    "Text/RealRed/files/Pasted Image 20260408145014_903.png",
+    "Text/RealRed/files/Pasted Image 20260408143757_787.png",
+    "Text/Music/Covers/Sonny Boy OST.jpg",
+    "Text/Music/Covers/Amaranthe - Army Of The Night.jpg",
+    "Text/Music/Covers/BPM OST.jpg",
+    "Image/Album Art Changer/Jackie-O - Clattanoia.jpg",
+    "Text/Art/covers/zombeavers_film_cover.jpg"
+  ]
+}

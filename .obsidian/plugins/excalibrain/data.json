@@ -1,0 +1,262 @@
+{
+  "compactView": false,
+  "compactingFactor": 1.5,
+  "minLinkLength": 18,
+  "excalibrainFilepath": "Text/Note/home/excalibrain.md",
+  "indexUpdateInterval": 5000,
+  "hierarchy": {
+    "exclusions": [
+      "excalidraw-border-color",
+      "excalidraw-css",
+      "excalidraw-default-mode",
+      "excalidraw-export-dark",
+      "excalidraw-export-pngscale",
+      "excalidraw-export-svgpadding",
+      "excalidraw-export-transparent",
+      "excalidraw-font",
+      "excalidraw-font-color",
+      "excalidraw-link-brackets",
+      "excalidraw-link-prefix",
+      "excalidraw-linkbutton-opacity",
+      "excalidraw-onload-script",
+      "excalidraw-plugin",
+      "excalidraw-url-prefix",
+      "kanban-plugin"
+    ],
+    "parents": [
+      "author",
+      "Parent",
+      "Parents",
+      "source"
+    ],
+    "children": [
+      "Child",
+      "Children",
+      "contributes to"
+    ],
+    "leftFriends": [
+      "advantages",
+      "alternatives",
+      "Friend",
+      "Friends",
+      "related to",
+      "similar",
+      "supports"
+    ],
+    "rightFriends": [
+      "cons",
+      "disadvantages",
+      "missing",
+      "opposes"
+    ],
+    "previous": [
+      "Before",
+      "Prev",
+      "Previous"
+    ],
+    "next": [
+      "After",
+      "Next"
+    ],
+    "hidden": [
+      "hidden"
+    ]
+  },
+  "inferAllLinksAsFriends": false,
+  "inverseInfer": false,
+  "inverseArrowDirection": true,
+  "renderAlias": true,
+  "nodeTitleScript": "",
+  "backgroundColor": "#0c3e6aff",
+  "excludeFilepaths": [],
+  "autoOpenCentralDocument": true,
+  "toggleEmbedTogglesAutoOpen": true,
+  "showInferredNodes": true,
+  "showAttachments": false,
+  "showURLNodes": false,
+  "showVirtualNodes": false,
+  "showFolderNodes": false,
+  "showTagNodes": true,
+  "showPageNodes": true,
+  "showNeighborCount": true,
+  "showFullTagName": false,
+  "maxItemCount": 40,
+  "renderSiblings": false,
+  "applyPowerFilter": false,
+  "baseNodeStyle": {
+    "prefix": "",
+    "backgroundColor": "#00000066",
+    "fillStyle": "solid",
+    "textColor": "#ffffffff",
+    "borderColor": "#00000000",
+    "fontSize": 20,
+    "fontFamily": 3,
+    "maxLabelLength": 40,
+    "roughness": 0,
+    "strokeShaprness": "round",
+    "strokeWidth": 1,
+    "strokeStyle": "solid",
+    "padding": 10,
+    "gateRadius": 5,
+    "gateOffset": 15,
+    "gateStrokeColor": "#ffffffff",
+    "gateBackgroundColor": "#ffffffff",
+    "gateFillStyle": "solid"
+  },
+  "centralNodeStyle": {
+    "fontSize": 30,
+    "backgroundColor": "#B5B5B5",
+    "textColor": "#000000ff"
+  },
+  "inferredNodeStyle": {
+    "backgroundColor": "#000005b3",
+    "textColor": "#95c7f3ff"
+  },
+  "urlNodeStyle": {
+    "prefix": "🌐 "
+  },
+  "virtualNodeStyle": {
+    "backgroundColor": "#ff000066",
+    "fillStyle": "hachure",
+    "textColor": "#ffffffff"
+  },
+  "siblingNodeStyle": {
+    "fontSize": 15
+  },
+  "attachmentNodeStyle": {
+    "prefix": "📎 "
+  },
+  "folderNodeStyle": {
+    "prefix": "📂 ",
+    "strokeShaprness": "sharp",
+    "borderColor": "#ffd700ff",
+    "textColor": "#ffd700ff"
+  },
+  "tagNodeStyle": {
+    "prefix": "#",
+    "strokeShaprness": "sharp",
+    "borderColor": "#4682b4ff",
+    "textColor": "#4682b4ff"
+  },
+  "tagNodeStyles": {},
+  "tagStyleList": [],
+  "primaryTagField": "Note type",
+  "primaryTagFieldLowerCase": "note-type",
+  "displayAllStylePrefixes": true,
+  "baseLinkStyle": {
+    "strokeColor": "#696969FF",
+    "strokeWidth": 1,
+    "strokeStyle": "solid",
+    "roughness": 0,
+    "startArrowHead": "none",
+    "endArrowHead": "none",
+    "showLabel": false,
+    "fontSize": 10,
+    "fontFamily": 3,
+    "textColor": "#ffffffff"
+  },
+  "inferredLinkStyle": {
+    "strokeStyle": "dashed"
+  },
+  "folderLinkStyle": {
+    "strokeColor": "#ffd700ff"
+  },
+  "tagLinkStyle": {
+    "strokeColor": "#4682b4ff"
+  },
+  "hierarchyLinkStyles": {
+    "hidden": {},
+    "Parent": {},
+    "Parents": {},
+    "source": {},
+    "Child": {},
+    "Children": {},
+    "advantages": {},
+    "alternatives": {},
+    "Friend": {},
+    "similar": {},
+    "cons": {},
+    "disadvantages": {},
+    "missing": {},
+    "opposes": {},
+    "Before": {},
+    "Prev": {},
+    "Previous": {},
+    "After": {},
+    "author": {},
+    "contributes to": {},
+    "Friends": {},
+    "Next": {},
+    "supports": {},
+    "related to": {}
+  },
+  "navigationHistory": [
+    "Unreal Engine 5 RPG Tutorial Series - 9 Combat.md",
+    "Unreal Engine 5 Easy Cinematic Realistic Environment Tutorial.md",
+    "Unreal Engine 5 Blueprints Develop Your First Two Games.md",
+    "Unreal Engine 5 с Vim или Emacs в Linux.md",
+    "Unreal Engine 5 Многопользовательский шутер на C++.md",
+    "Unreal Engine 5 быстрый старт.md",
+    "Unreal Engine 4 Mobile. Сборка Android проекта + DLC.md",
+    "Unreal Engine - полное руководство по разработке на С++.md",
+    "Unreal Engine — полное руководство по разработке на С++.md",
+    "Unreal Engine - базовый курс. С нуля до первого проекта.md",
+    "Timus Online Judge.md",
+    "this land is mine.md",
+    "The Crust.md",
+    "projects/database/300 МДшников (фильм).md",
+    "projects/database/Терапия настроения. Клинически доказанный способ победить депрессию без таблеток (книга).md",
+    "теория инфернальности.md",
+    "@Антон Сорвачёв.md",
+    "Я одна с ребёнком... Но у тебя есть шанс!.md",
+    "130 партнеров за 2 недели.md",
+    "Александр Бучкури - Вывод.md",
+    "12-летняя девочка сообщила о попытке её изнасилования во время выступления Стаса Костюшкина.md",
+    "алименты будущего - мысли вслух.md",
+    "00. Маносфера.md",
+    "projects/database/Психологическое айкидо (книга).md",
+    "projects/database/Тëмные боги. Шëпот смерти (книга).md",
+    "projects/database/Темные боги. Отблеск величия (книга).md",
+    "projects/database/Тëмные боги. Проводник душ (книга).md",
+    "projects/database/Когда плачут чайки (аниме).md",
+    "projects/database/Когда плачут цикады. Разгадки (аниме).md",
+    "projects/database/Когда плачут цикады Благодарность (аниме).md",
+    "projects/database/Когда плачут цикады. Карма (аниме).md",
+    "projects/database/Когда плачут цикады. Выпускной (аниме).md",
+    "projects/database/Лучше звоните Солу (сериал).md",
+    "projects/database/Во все тяжкие (сериал).md",
+    "projects/database/Когда плачут цикады (аниме).md",
+    "projects/database/_database.md",
+    "home/homepage.md",
+    "projects/database/C++ на примерах. Практика, практика и только практика (книга).md",
+    "projects/unreal engine/disable android permission in UE5.md",
+    "projects/unreal engine/loading gameplay tags from plugin .ini files.md",
+    "Вышел достаточно шустрый минималистичный редактор кода 10X.md",
+    "unreal.md",
+    "find nearest actor.md",
+    "advanced-unreal-engine-5-multiplayer-gameplay-programming.md",
+    "программирование.md",
+    "projects/unreal engine/advanced-unreal-engine-5-multiplayer-gameplay-programming.md",
+    "projects/unreal engine/pixel material in UE5.md",
+    "Unreal Engine 5 - Realistic Environment Design for Beginners.md",
+    "projects/unreal engine/00. Unreal Engine.md",
+    "📜Как добавить собственный шрифт в Obsidian Mobile.md"
+  ],
+  "allowOntologySuggester": true,
+  "ontologySuggesterParentTrigger": "::p",
+  "ontologySuggesterChildTrigger": "::c",
+  "ontologySuggesterLeftFriendTrigger": "::l",
+  "ontologySuggesterRightFriendTrigger": "::r",
+  "ontologySuggesterPreviousTrigger": "::e",
+  "ontologySuggesterNextTrigger": "::n",
+  "ontologySuggesterTrigger": ":::",
+  "ontologySuggesterMidSentenceTrigger": "(",
+  "boldFields": false,
+  "allowAutozoom": true,
+  "maxZoom": 1,
+  "allowAutofocuOnSearch": true,
+  "defaultAlwaysOnTop": false,
+  "embedCentralNode": false,
+  "centerEmbedWidth": 550,
+  "centerEmbedHeight": 700
+}

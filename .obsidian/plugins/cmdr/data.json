@@ -1,0 +1,47 @@
+{
+  "confirmDeletion": true,
+  "showAddCommand": false,
+  "debug": false,
+  "editorMenu": [],
+  "fileMenu": [],
+  "leftRibbon": [
+    {
+      "id": "quickadd:choice:709f02fa-1258-42b8-8449-626bb7806912",
+      "icon": "lucide-ampersand",
+      "name": "QuickAdd: смотреть позже",
+      "mode": "any"
+    },
+    {
+      "id": "quickadd:choice:295359ac-a7ca-4e46-b72c-eaec0f0e1745",
+      "icon": "lucide-edit",
+      "name": "Track Edit",
+      "mode": "any"
+    }
+  ],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [],
+  "macros": [],
+  "explorer": [],
+  "hide": {
+    "statusbar": [
+      "backlink",
+      "obsidian-spaced-repetition"
+    ],
+    "leftRibbon": [
+      "Create new drawing"
+    ]
+  },
+  "spacing": 8,
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}

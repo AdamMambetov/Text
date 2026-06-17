@@ -1,0 +1,18 @@
+{
+  "accentColor": "#ff0000",
+  "cssTheme": "AnuPpuccin",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "dashboard",
+    "dashboard-read_line_length",
+    "hide-metadata",
+    "dashboard-readlinelength",
+    "buttons-custom"
+  ],
+  "baseFontSize": 16,
+  "baseFontSizeAction": false,
+  "interfaceFontFamily": "JetBrains Mono",
+  "textFontFamily": "JetBrains Mono",
+  "monospaceFontFamily": "JetBrains Mono",
+  "showViewHeader": true
+}

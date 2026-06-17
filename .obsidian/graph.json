@@ -1,0 +1,44 @@
+{
+  "collapse-filter": false,
+  "search": "path:Text/Music -path:Text/Music/Playlists  -file:tracklist.base  -file:\"related tracks.base\"  ",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:Text/Music/Tracks  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:Text/Music/Creators  ",
+      "color": {
+        "a": 1,
+        "rgb": 6021202
+      }
+    },
+    {
+      "query": "path:Text/Music/Albums  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": -2.5,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.393229166666667,
+  "repelStrength": 20,
+  "linkStrength": 1,
+  "linkDistance": 500,
+  "scale": 0.45050811767578125,
+  "close": true
+}

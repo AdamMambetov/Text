@@ -1,0 +1,553 @@
+{
+  "choices": [
+    {
+      "id": "763fc34c-d162-403d-8a9f-d2aca91b38c5",
+      "name": "inbox",
+      "type": "Template",
+      "command": false,
+      "templatePath": "Note/templates/_inbox template.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "Note/_inbox"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Nothing",
+      "setFileExistsBehavior": true,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "focus": true,
+        "mode": "default"
+      }
+    },
+    {
+      "id": "29b08f14-2088-4d8d-b821-ea672bc25e78",
+      "name": "art",
+      "type": "Template",
+      "command": false,
+      "templatePath": "Note/templates/art template.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "Art/content"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Nothing",
+      "setFileExistsBehavior": true,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "focus": true,
+        "mode": "default"
+      }
+    },
+    {
+      "id": "89aec1d1-eb26-4be3-927b-db345f69cb6d",
+      "name": "creator",
+      "type": "Template",
+      "command": false,
+      "templatePath": "Note/templates/creator template.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "Music/Creators"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Nothing",
+      "setFileExistsBehavior": true,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "focus": true,
+        "mode": "default"
+      }
+    },
+    {
+      "id": "d6775a35-1cbe-4d0f-9dfb-eb2632a8bde9",
+      "name": "track",
+      "type": "Template",
+      "command": false,
+      "templatePath": "Note/templates/track template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{value}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "Music/Tracks"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Nothing",
+      "setFileExistsBehavior": true,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "focus": true,
+        "mode": "default"
+      }
+    },
+    {
+      "id": "7b7f5b23-ac37-4cfb-92a2-723631c77bdb",
+      "name": "album",
+      "type": "Template",
+      "command": false,
+      "templatePath": "Note/templates/album template.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "Music/Albums"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Nothing",
+      "setFileExistsBehavior": true,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "focus": true,
+        "mode": "default"
+      }
+    },
+    {
+      "id": "a7a3c42f-ad78-421c-8f7f-30cf803ccaef",
+      "name": "button",
+      "type": "Capture",
+      "command": false,
+      "appendLink": false,
+      "captureTo": "",
+      "captureToActiveFile": true,
+      "createFileIfItDoesntExist": {
+        "enabled": false,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": true,
+        "format": "```js quickadd\nfunction createBtn(name, id, link) {\n    let result = \"\"\n    result += \"\\`\\`\\`button\\n\"\n    result += `name ${name}\\n`\n    result += \"type link\\n\"\n    result += `action ${link}\\n`\n    result += `class button-${id}\\n`\n    result += \"hidden true\\n\"\n    result += \"\\`\\`\\`\\n\"\n    result += `^button-${id}\\n`\n    return result\n}\n\nconst linkInfo = {\n\tlinks: [\"shikimori.one\", \"tvtime.com\", \"world-art.ru\", \"onikes.ru\", \"yo8z6gv.github.io\", \"animefillerlist.com\", \"mangalib.me\", \"ranobelib.me\", \"anilib.me\", \"senkuro.com\", \"reyohoho.github.io/reyohoho\", \"freetp.org\", \"store.steampowered.com\", \"store.epicgames.com\", \"gog.com\", \"author.today\"],\n\tnames: [\"shikimori\", \"tvTime\", \"worldArt\", \"onikes\", \"kesidatokioVods\", \"animeFillerList\", \"mangalib\", \"ranobelib\", \"animelib\", \"senkuro\", \"reyohoho\", \"freetp\", \"steam\", \"epicGames\", \"gog\", \"authorToday\"],\n\tbuttons: [\"Shikimori\", \"TV Time\", \"World Art\", \"ONIKES\", \"KESIDATOKIO VOD'S\", \"Anime Filler List\", \"MangaLib\", \"RanobeLib\", \"AnimeLib\", \"Senkuro\", \"ReYohoho\", \"FreeTP\", \"Steam\", \"Epic Games\", \"GOG\", \"AuthorToday\"],\n}\n\nconst modalForm = app.plugins.plugins.modalforms.api;\nconst result = await modalForm.openForm('button-form');\nlet links = result.asString(\"{{Links}}\")\nlet returnValue = \"\"\n\nif (links !== \"{{Links}}\") {\n\tlinks = links.split(\",\")\n\tfor (let i = 0; i < links.length; i++) {\n\t\tlet index = linkInfo.links.findIndex(link => links[i].includes(link))\n\t\tif (index == -1)\n\t\t\treturnValue += createBtn(`Button ${i}`, `${i}`, links[i])\n\t\telse\n\t\t\treturnValue += createBtn(linkInfo.buttons[index], linkInfo.names[index], links[i])\n\t}\n}\n\nif (links !== \"{{Links}}\") {\n\tfor (let i = 0; i < links.length; i++) {\n\t\tlet index = linkInfo.links.findIndex(link => links[i].includes(link))\n\t\tlet btnId = \"\"\n\t\tif (index == -1)\n\t\t\tbtnId = `${i}`\n\t\telse\n\t\t\tbtnId = linkInfo.names[index]\n\t\t\n\t\tif (i % 2 == 0)\n\t\t\treturnValue += `\\n\\n\\`button-${btnId}\\``\n\t\telse\n\t\t\treturnValue += ` \\`button-${btnId}\\``\n\t}\n}\n\nreturn returnValue\n```"
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "",
+        "insertAtEnd": false,
+        "considerSubsections": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": false,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default",
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "focus": true,
+        "mode": "default"
+      },
+      "activeFileWritePosition": "cursor"
+    },
+    {
+      "id": "9418f3d3-19d8-474a-9d24-518edaa5ddcd",
+      "name": "auto link title смотреть позже",
+      "type": "Macro",
+      "command": false,
+      "macro": {
+        "id": "716e22b8-e949-4668-ba6c-b7e199197c9b",
+        "name": "auto link title смотреть позже",
+        "commands": [
+          {
+            "name": "Untitled Capture Choice",
+            "type": "NestedChoice",
+            "id": "31b5b80a-382d-446a-8ee5-f804c5d1627b",
+            "choice": {
+              "id": "275516d9-0c17-4554-9f46-31149d56d240",
+              "name": "Untitled Capture Choice",
+              "type": "Capture",
+              "command": false,
+              "appendLink": false,
+              "captureTo": "Text/Note/Смотреть позже.md",
+              "captureToActiveFile": false,
+              "createFileIfItDoesntExist": {
+                "enabled": false,
+                "createWithTemplate": false,
+                "template": ""
+              },
+              "format": {
+                "enabled": true,
+                "format": " - <% tp.file.cursor(1) %>"
+              },
+              "insertAfter": {
+                "enabled": false,
+                "after": "",
+                "insertAtEnd": false,
+                "considerSubsections": false,
+                "createIfNotFound": false,
+                "createIfNotFoundLocation": "top"
+              },
+              "prepend": true,
+              "task": false,
+              "openFileInNewTab": {
+                "enabled": false,
+                "direction": "vertical",
+                "focus": true
+              },
+              "openFile": false,
+              "openFileInMode": "default"
+            }
+          },
+          {
+            "name": "Templater: Jump to next cursor location",
+            "type": "Obsidian",
+            "id": "cd5d8585-dcc8-4df6-a16d-75258e2c516a",
+            "commandId": "templater-obsidian:jump-to-next-cursor-location"
+          },
+          {
+            "name": "Wait",
+            "type": "Wait",
+            "id": "0b4e4d7f-c462-40a8-9151-c1572f658570",
+            "time": 100
+          },
+          {
+            "name": "Auto Link Title: Paste URL and auto fetch title",
+            "type": "Obsidian",
+            "id": "87fb1341-071b-4b5c-9eea-997f8f38d21b",
+            "commandId": "obsidian-auto-link-title:auto-link-title-paste"
+          }
+        ]
+      },
+      "runOnStartup": false
+    },
+    {
+      "id": "709f02fa-1258-42b8-8449-626bb7806912",
+      "name": "смотреть позже",
+      "type": "Macro",
+      "command": true,
+      "macro": {
+        "id": "75fe6531-7eb1-4fb4-a7fc-c910124539de",
+        "name": "смотреть позже",
+        "commands": [
+          {
+            "name": "Untitled Capture Choice",
+            "type": "NestedChoice",
+            "id": "0cb5c499-5515-4b91-a059-d8d040b1bf1c",
+            "choice": {
+              "id": "cfc5a164-f980-4afc-bdde-6678c9716b9a",
+              "name": "Untitled Capture Choice",
+              "type": "Capture",
+              "command": false,
+              "appendLink": false,
+              "captureTo": "Text/Note/Смотреть позже.md",
+              "captureToActiveFile": false,
+              "createFileIfItDoesntExist": {
+                "enabled": false,
+                "createWithTemplate": false,
+                "template": ""
+              },
+              "format": {
+                "enabled": true,
+                "format": "\n<% tp.file.cursor(1) %>"
+              },
+              "insertAfter": {
+                "enabled": false,
+                "after": "",
+                "insertAtEnd": false,
+                "considerSubsections": false,
+                "createIfNotFound": false,
+                "createIfNotFoundLocation": "top"
+              },
+              "prepend": true,
+              "task": false,
+              "openFileInNewTab": {
+                "enabled": false,
+                "direction": "vertical",
+                "focus": true
+              },
+              "openFile": false,
+              "openFileInMode": "default"
+            }
+          },
+          {
+            "name": "Wait",
+            "type": "Wait",
+            "id": "cc3eb99e-8b18-4f68-95cd-1ca5967710bf",
+            "time": 50
+          },
+          {
+            "name": "Templater: Jump to next cursor location",
+            "type": "Obsidian",
+            "id": "f7b10582-19a0-4f7d-a69a-06c00f894ee9",
+            "commandId": "templater-obsidian:jump-to-next-cursor-location"
+          },
+          {
+            "name": "Wait",
+            "type": "Wait",
+            "id": "4203616e-4d9d-4932-9a41-bb096f356cc0",
+            "time": 50
+          },
+          {
+            "name": "Paste",
+            "type": "EditorCommand",
+            "id": "0bfe746d-8738-4f1d-bcdc-b44daa8e7ddb",
+            "editorCommandType": "Paste"
+          },
+          {
+            "name": "Wait",
+            "type": "Wait",
+            "id": "59b21b33-2030-46cf-9916-6b17080e402a",
+            "time": 50
+          },
+          {
+            "name": "Select active line",
+            "type": "EditorCommand",
+            "id": "b6454b86-d47c-45a2-ae29-73c9ecb7a40e",
+            "editorCommandType": "Select active line"
+          },
+          {
+            "name": "Wait",
+            "type": "Wait",
+            "id": "d8c5eb4f-664e-4a3d-b8bf-ca634bf9edc5",
+            "time": 50
+          },
+          {
+            "name": "Enhance YouTube Links: Process Text",
+            "type": "Obsidian",
+            "id": "4ce18258-dfd3-453f-bd8a-0e04910e1ad4",
+            "commandId": "enhance-youtube-links:enhance-youtube-links-process-text"
+          }
+        ]
+      },
+      "runOnStartup": false
+    },
+    {
+      "id": "33a78436-4071-4407-84f9-bc95e5de68f2",
+      "name": "rename art",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "",
+      "captureToActiveFile": true,
+      "createFileIfItDoesntExist": {
+        "enabled": false,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": true,
+        "format": "<% await tp.file.include(\"[[Note/templates/rename art capture]]\") %>"
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "",
+        "insertAtEnd": false,
+        "considerSubsections": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "newLineCapture": {
+        "enabled": false,
+        "direction": "below"
+      },
+      "prepend": false,
+      "task": false,
+      "openFile": false,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "activeFileWritePosition": "cursor"
+    },
+    {
+      "id": "295359ac-a7ca-4e46-b72c-eaec0f0e1745",
+      "name": "track edit",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "",
+      "captureToActiveFile": true,
+      "createFileIfItDoesntExist": {
+        "enabled": false,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": true,
+        "format": "<% await tp.file.include(\"[[Note/templates/track edit capture]]\") %>"
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "",
+        "insertAtEnd": false,
+        "considerSubsections": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "newLineCapture": {
+        "enabled": false,
+        "direction": "below"
+      },
+      "prepend": false,
+      "task": false,
+      "openFile": false,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "activeFileWritePosition": "cursor"
+    }
+  ],
+  "inputPrompt": "single-line",
+  "devMode": false,
+  "templateFolderPath": "Note/templates",
+  "announceUpdates": "none",
+  "version": "2.9.4",
+  "globalVariables": {},
+  "onePageInputEnabled": false,
+  "disableOnlineFeatures": true,
+  "enableRibbonIcon": true,
+  "showCaptureNotification": true,
+  "showInputCancellationNotification": false,
+  "enableTemplatePropertyTypes": false,
+  "ai": {
+    "defaultModel": "Ask me",
+    "defaultSystemPrompt": "As an AI assistant within Obsidian, your primary goal is to help users manage their ideas and knowledge more effectively. Format your responses using Markdown syntax. Please use the [[Obsidian]] link format. You can write aliases for the links by writing [[Obsidian|the alias after the pipe symbol]]. To use mathematical notation, use LaTeX syntax. LaTeX syntax for larger equations should be on separate lines, surrounded with double dollar signs ($$). You can also inline math expressions by wrapping it in $ symbols. For example, use $$w_{ij}^{\text{new}}:=w_{ij}^{\text{current}}+etacdotdelta_jcdot x_{ij}$$ on a separate line, but you can write \"($eta$ = learning rate, $delta_j$ = error term, $x_{ij}$ = input)\" inline.",
+    "promptTemplatesFolderPath": "",
+    "showAssistant": true,
+    "providers": [
+      {
+        "name": "OpenAI",
+        "endpoint": "https://api.openai.com/v1",
+        "apiKey": "",
+        "models": [
+          {
+            "name": "text-davinci-003",
+            "maxTokens": 4096
+          },
+          {
+            "name": "gpt-3.5-turbo",
+            "maxTokens": 4096
+          },
+          {
+            "name": "gpt-3.5-turbo-16k",
+            "maxTokens": 16384
+          },
+          {
+            "name": "gpt-3.5-turbo-1106",
+            "maxTokens": 16385
+          },
+          {
+            "name": "gpt-4",
+            "maxTokens": 8192
+          },
+          {
+            "name": "gpt-4-32k",
+            "maxTokens": 32768
+          },
+          {
+            "name": "gpt-4-1106-preview",
+            "maxTokens": 128000
+          },
+          {
+            "name": "gpt-4-turbo",
+            "maxTokens": 128000
+          },
+          {
+            "name": "gpt-4o",
+            "maxTokens": 128000
+          }
+        ],
+        "modelSource": "auto"
+      }
+    ]
+  },
+  "migrations": {
+    "migrateToMacroIDFromEmbeddedMacro": true,
+    "useQuickAddTemplateFolder": true,
+    "incrementFileNameSettingMoveToDefaultBehavior": true,
+    "mutualExclusionInsertAfterAndWriteToBottomOfFile": true,
+    "setVersionAfterUpdateModalRelease": true,
+    "addDefaultAIProviders": true,
+    "removeMacroIndirection": true,
+    "migrateFileOpeningSettings": true,
+    "setProviderModelDiscoveryMode": true
+  }
+}

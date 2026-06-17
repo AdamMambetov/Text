@@ -1,0 +1,36 @@
+{
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Text/Note",
+  "showInlineTitle": false,
+  "alwaysUpdateLinks": true,
+  "livePreview": false,
+  "strictLineBreaks": true,
+  "showUnsupportedFiles": true,
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "attachmentFolderPath": "Text/Note/files",
+  "userIgnoreFilters": [
+    "Other/"
+  ],
+  "defaultViewMode": "source",
+  "readableLineLength": true,
+  "propertiesInDocument": "visible",
+  "showIndentGuide": true,
+  "trashOption": "none",
+  "mobileToolbarCommands": [
+    "editor:undo",
+    "editor:redo",
+    "editor:set-heading",
+    "editor:indent-list",
+    "editor:unindent-list",
+    "editor:swap-line-up",
+    "editor:swap-line-down",
+    "editor:configure-toolbar"
+  ],
+  "showLineNumber": false
+}

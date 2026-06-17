@@ -1,0 +1,141 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "ctime": 1701631655543,
+      "path": "Text/Note/_Telegram.md"
+    },
+    {
+      "type": "graph",
+      "ctime": 1725146659586,
+      "title": "Default",
+      "options": {
+        "collapse-filter": false,
+        "search": "-path:Text/Note/templates  ",
+        "showTags": false,
+        "showAttachments": false,
+        "hideUnresolved": false,
+        "showOrphans": false,
+        "collapse-color-groups": true,
+        "colorGroups": [
+          {
+            "query": "tag:#📥",
+            "color": {
+              "a": 1,
+              "rgb": 14701138
+            }
+          },
+          {
+            "query": "path:projects/database  ",
+            "color": {
+              "a": 1,
+              "rgb": 14725458
+            }
+          },
+          {
+            "query": "file:00. OR tag:#🌲 OR tag:#🗺️",
+            "color": {
+              "a": 1,
+              "rgb": 5431378
+            }
+          },
+          {
+            "query": "file:@",
+            "color": {
+              "a": 1,
+              "rgb": 5431473
+            }
+          },
+          {
+            "query": "tag:#📆",
+            "color": {
+              "a": 1,
+              "rgb": 5419488
+            }
+          }
+        ],
+        "collapse-display": true,
+        "showArrow": false,
+        "textFadeMultiplier": 0,
+        "nodeSizeMultiplier": 1.00598958333333,
+        "lineSizeMultiplier": 1.00598958333333,
+        "collapse-forces": true,
+        "centerStrength": 0.247395833333333,
+        "repelStrength": 10.2604166666667,
+        "linkStrength": 0.559895833333333,
+        "linkDistance": 500,
+        "scale": 0.07058167567046575,
+        "close": false
+      }
+    },
+    {
+      "type": "file",
+      "ctime": 1754903811079,
+      "path": "Text/Note/Смотреть позже.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1772491234579,
+      "path": "playlist.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1772491256747,
+      "path": "Text/Note/content/цели в жизни.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1772491305392,
+      "path": "Text/Note/content/Смотреть позже.md"
+    },
+    {
+      "type": "graph",
+      "ctime": 1774132863153,
+      "title": "Tracks-Creators-Albums",
+      "options": {
+        "collapse-filter": false,
+        "search": "path:Text/Music -path:Text/Music/Playlists  -file:tracklist.base  -file:\"related tracks.base\"  ",
+        "showTags": false,
+        "showAttachments": false,
+        "hideUnresolved": false,
+        "showOrphans": true,
+        "collapse-color-groups": true,
+        "colorGroups": [
+          {
+            "query": "path:Text/Music/Tracks  ",
+            "color": {
+              "a": 1,
+              "rgb": 14701138
+            }
+          },
+          {
+            "query": "path:Text/Music/Creators  ",
+            "color": {
+              "a": 1,
+              "rgb": 6021202
+            }
+          },
+          {
+            "query": "path:Text/Music/Albums  ",
+            "color": {
+              "a": 1,
+              "rgb": 11657298
+            }
+          }
+        ],
+        "collapse-display": true,
+        "showArrow": true,
+        "textFadeMultiplier": -2.5,
+        "nodeSizeMultiplier": 1,
+        "lineSizeMultiplier": 1,
+        "collapse-forces": true,
+        "centerStrength": 0.393229166666667,
+        "repelStrength": 20,
+        "linkStrength": 1,
+        "linkDistance": 500,
+        "scale": 0.02152871844242928,
+        "close": false
+      }
+    }
+  ]
+}
