@@ -13,7 +13,7 @@ cssclasses:
 - [[Антон Виноградов (🎙️ 84)]]
 - [[Дочери Мнемозины (🇯🇵📺 287)]]
 # Главное
- - [[Text/Note/home/_art base.base|_art base]]
+ - [[art.base]]
  - [[инструкция]]
  - [[цели в жизни]]
  - [[excalibrain]]
