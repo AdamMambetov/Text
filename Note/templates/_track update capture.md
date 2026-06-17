@@ -1,7 +1,7 @@
 <%*
 dv = app.plugins.plugins.dataview.api
 
-let arr = dv.pages('"Text/Music/Tracks"')
+let arr = dv.pages('"Music/Tracks"')
 	.sort(p => p.created, "asc")
 let current = dv.page(tp.file.path(true))
 let creator = dv.page(current.Creators[0])

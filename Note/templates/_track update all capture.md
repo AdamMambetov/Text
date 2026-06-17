@@ -1,7 +1,7 @@
 <%*
 dv = app.plugins.plugins.dataview.api
 
-let arr = dv.pages('"Text/Music/Tracks"')
+let arr = dv.pages('"Music/Tracks"')
 	.sort(p => p.created, "asc")
 let bExit = false
 arr.forEach(async (p, i) => {
