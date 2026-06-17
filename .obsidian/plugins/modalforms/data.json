@@ -407,7 +407,7 @@
           "isRequired": true,
           "input": {
             "type": "dataview",
-            "query": "app.vault.getFiles()\n.filter(f => f.path.includes(\"Text/Music/Covers\"))\n.map(f => f.name)"
+            "query": "app.vault.getFiles()\n.filter(f => f.path.includes(\"Music/Covers\"))\n.map(f => f.name)"
           }
         },
         {
@@ -427,7 +427,7 @@
           "isRequired": false,
           "input": {
             "type": "note",
-            "folder": "Text/Music/Albums"
+            "folder": "Music/Albums"
           }
         },
         {
@@ -438,7 +438,10 @@
           "input": {
             "type": "multiselect",
             "source": "notes",
-            "folder": "Text/Music/Creators"
+            "folder": "Music/Creators",
+            "allowUnknownValues": false,
+            "query": "",
+            "multi_select_options": []
           }
         },
         {
@@ -479,7 +482,10 @@
           "input": {
             "type": "multiselect",
             "source": "notes",
-            "folder": "Text/Music/Tracks"
+            "folder": "Music/Tracks",
+            "allowUnknownValues": false,
+            "query": "",
+            "multi_select_options": []
           }
         },
         {
@@ -499,7 +505,7 @@
           "isRequired": false,
           "input": {
             "type": "note",
-            "folder": "Text/Music/Tracks"
+            "folder": "Music/Tracks"
           }
         }
       ],

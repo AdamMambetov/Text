@@ -40,12 +40,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Music/Tracks/阿婆擦れ - Creepy Nuts (🎧️ 1119).md",
-                "mode": "preview",
+                "file": "Music/Tracks/Карты, деньги, два хвоста - Rotten Toten (🎧️ 617).md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "阿婆擦れ - Creepy Nuts (🎧️ 1119)"
+              "title": "Карты, деньги, два хвоста - Rotten Toten (🎧️ 617)"
             }
           }
         ],
@@ -140,7 +140,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Music/Tracks/阿婆擦れ - Creepy Nuts (🎧️ 1119).md",
+            "file": "Music/Tracks/Карты, деньги, два хвоста - Rotten Toten (🎧️ 617).md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -213,8 +213,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "415aee981e22ab8a",
+  "active": "3423304d0f1831b9",
   "lastOpenFiles": [
+    "Music/Tracks/RISE - Jackie-O (🎧️ 592).md",
+    "Music/Tracks/Kibou no Uta - Jackie-O (🎧️ 591).md",
+    "Note/templates/_track update all capture.md",
+    "Note/templates/_track update capture.md",
+    "Music/Tracks/阿婆擦れ - Creepy Nuts (🎧️ 1119).md",
     "RealRed/periodic/2026-06-16.md",
     "RealRed/periodic/2026-06-15.md",
     "RealRed/periodic/2026-06-11.md",
@@ -236,11 +241,6 @@
     "Music/Tracks/You're Going Down - Sick Puppies (🎧️ 226).md",
     "Music/Tracks/You'll Be Under My Wheels - The Prodigy (🎧️ 305).md",
     "Music/Tracks/You Suck at Love - Simple Plan (🎧️ 229).md",
-    "Music/Tracks/You Spin Me Round (Genshin Edition) - Onsa Media (🎧️ 1602).md",
-    "Music/Tracks/You Say Run (🎧️ 638).md",
-    "Music/Tracks/You Must Follow - Stratus (🎧️ 683).md",
-    "Music/Tracks/You Have Beautiful Eyes (🎧️ 1405).md",
-    "Music/Tracks/You Better Die Young - Nomy (🎧️ 180).md",
     "Music/files/Pasted image 20251119232251.png",
     "Music/tracks.base",
     "Art/art.base",

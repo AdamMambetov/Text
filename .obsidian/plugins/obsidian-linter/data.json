@@ -277,7 +277,10 @@
   "displayLintOnFileChangeNotice": true,
   "settingsConvertedToConfigKeyValues": true,
   "foldersToIgnore": [
-    "Note/templates"
+    "Note/templates",
+    "Art/templates",
+    "Music/templates",
+    "RealRed/templates"
   ],
   "filesToIgnore": [],
   "linterLocale": "system-default",
