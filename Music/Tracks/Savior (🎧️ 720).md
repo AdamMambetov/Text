@@ -1,16 +1,16 @@
 ---
-Album: ""
-Creators: []
-Cover: ""
-NumberInAlbum: 1
-SourceFile: "[[Rise Against - Savior.mp3]]"
-Year: 0
-aliases: []
 created: 2024-01-04T12:14:20+03:00
-source: ""
-related: []
-ListenInSec: 2
+aliases: []
+Cover: ""
+Year: 0
+Album: ""
 CoverOf: ""
+Creators: []
+ListenInSec: 2
+NumberInAlbum: 1
+related: []
+source: ""
+SourceFile: "[[Rise Against - Savior.mp3]]"
 ---
 
 # Rise Against - Savior

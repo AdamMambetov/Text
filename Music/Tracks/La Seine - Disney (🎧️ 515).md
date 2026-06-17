@@ -1,18 +1,16 @@
 ---
-Album: ""
-Creators:
-  - "[[Disney (🎙️ 286)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 0
-SourceFile: "[[Hits Variété Pop - La Seine.mp3]]"
-Year: 2017
-aliases:
-  - La Seine
 created: 2022-12-09T06:57:32+03:00
-source: ""
-related: []
-ListenInSec: 330
+aliases: [La Seine]
+Cover: "[[_No Album Art.jpg]]"
+Year: 2017
+Album: ""
 CoverOf: ""
+Creators: ["[[Disney (🎙️ 286)]]"]
+ListenInSec: 330
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[Hits Variété Pop - La Seine.mp3]]"
 ---
 
 # Hits Variété Pop - La Seine

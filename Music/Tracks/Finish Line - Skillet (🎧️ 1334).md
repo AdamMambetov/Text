@@ -1,18 +1,16 @@
 ---
-Album: "[[Victorious]]"
-Creators:
-  - "[[Skillet (🎙️ 440)]]"
-Cover: ""
-NumberInAlbum: 11
-SourceFile: "[[Skillet - Finish Line.mp3]]"
-Year: 2019
-aliases:
-  - Finish Line
 created: 2024-10-30T19:12:28+03:00
-source: ""
-related: []
-ListenInSec: 7
+aliases: [Finish Line]
+Cover: ""
+Year: 2019
+Album: "[[Victorious]]"
 CoverOf: ""
+Creators: ["[[Skillet (🎙️ 440)]]"]
+ListenInSec: 7
+NumberInAlbum: 11
+related: []
+source: ""
+SourceFile: "[[Skillet - Finish Line.mp3]]"
 ---
 
 # Skillet - Finish Line

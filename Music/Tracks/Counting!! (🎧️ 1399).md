@@ -1,18 +1,16 @@
 ---
-Album: ""
-Creators:
-  - "[[heiakim (🎙️ 621)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 1
-SourceFile: "[[heiakim - Counting!!.mp3]]"
-Year: 0
-aliases:
-  - Counting!!
 created: 2025-01-07T19:34:30+03:00
-source: ""
-related: []
-ListenInSec: 503
+aliases: [Counting!!]
+Cover: "[[_No Album Art.jpg]]"
+Year: 0
+Album: ""
 CoverOf: ""
+Creators: ["[[heiakim (🎙️ 621)]]"]
+ListenInSec: 503
+NumberInAlbum: 1
+related: []
+source: ""
+SourceFile: "[[heiakim - Counting!!.mp3]]"
 ---
 
 # heiakim - Counting!!

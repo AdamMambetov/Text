@@ -1,17 +1,15 @@
 ---
-SourceFile: "[[Shrek 2 OST - 03 Changes.mp3]]"
+created: 2025-05-04T01:28:49+03:00
+aliases: [Changes]
+Cover: ""
 Year: 2018
 Album: "[[Shrek 2]]"
-aliases:
-  - Changes
-created: 2025-05-04T01:28:49+03:00
-Creators:
-  - "[[Butterfly Boucher, David Bowie (🎙️ 245)]]"
-Cover: ""
+CoverOf: ""
+Creators: ["[[Butterfly Boucher, David Bowie (🎙️ 245)]]"]
+ListenInSec: 2064
 NumberInAlbum: 0
 related: []
-ListenInSec: 2064
-CoverOf: ""
+SourceFile: "[[Shrek 2 OST - 03 Changes.mp3]]"
 ---
 
 # Shrek 2 OST - 03 Changes

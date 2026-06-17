@@ -1,18 +1,16 @@
 ---
-Album: "[[The Sacrament of Sin (📀 39)]]"
-Creators:
-  - "[[Powerwolf (🎙️ 418)]]"
-Cover: "[[Powerwolf - The Sacrament of Sin.jpg]]"
-NumberInAlbum: 3
-SourceFile: "[[Powerwolf - Killers with the Cross.mp3]]"
-Year: 2018
-aliases:
-  - Killers with the Cross
 created: 2022-04-21T01:53:00+03:00
-source: ""
-related: []
-ListenInSec: 5
+aliases: [Killers with the Cross]
+Cover: "[[Powerwolf - The Sacrament of Sin.jpg]]"
+Year: 2018
+Album: "[[The Sacrament of Sin (📀 39)]]"
 CoverOf: ""
+Creators: ["[[Powerwolf (🎙️ 418)]]"]
+ListenInSec: 5
+NumberInAlbum: 3
+related: []
+source: ""
+SourceFile: "[[Powerwolf - Killers with the Cross.mp3]]"
 ---
 
 # Powerwolf - Killers with the Cross

@@ -1,16 +1,16 @@
 ---
-Album: ""
-Creators: []
-Cover: ""
-NumberInAlbum: 1
-SourceFile: "[[Sati Akura - God Only Knows.mp3]]"
-Year: 0
-aliases: []
 created: 2024-03-24T22:21:42+03:00
-source: ""
-related: []
-ListenInSec: 104
+aliases: []
+Cover: ""
+Year: 0
+Album: ""
 CoverOf: ""
+Creators: []
+ListenInSec: 104
+NumberInAlbum: 1
+related: []
+source: ""
+SourceFile: "[[Sati Akura - God Only Knows.mp3]]"
 ---
 
 # Sati Akura - God Only Knows

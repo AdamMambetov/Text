@@ -1,18 +1,16 @@
 ---
-Album: "[[Era]]"
-Creators:
-  - "[[Era (🎙️ 302)]]"
-Cover: ""
-NumberInAlbum: 1
-SourceFile: "[[Era - Ameno.mp3]]"
-Year: 1996
-aliases:
-  - Ameno
 created: 2024-10-08T15:48:12+03:00
-source: ""
-related: []
-ListenInSec: 1
+aliases: [Ameno]
+Cover: ""
+Year: 1996
+Album: "[[Era]]"
 CoverOf: ""
+Creators: ["[[Era (🎙️ 302)]]"]
+ListenInSec: 1
+NumberInAlbum: 1
+related: []
+source: ""
+SourceFile: "[[Era - Ameno.mp3]]"
 ---
 
 # Era - Ameno

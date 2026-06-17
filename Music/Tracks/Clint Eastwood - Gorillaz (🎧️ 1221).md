@@ -1,18 +1,16 @@
 ---
-Album: ""
-Creators:
-  - "[[Gorillaz (🎙️ 319)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 0
-SourceFile: "[[Gorillaz - Clint Eastwood.mp3]]"
-Year: 2001
-aliases:
-  - Clint Eastwood
 created: 2024-10-13T22:51:24+03:00
-source: ""
-related: []
-ListenInSec: 844
+aliases: [Clint Eastwood]
+Cover: "[[_No Album Art.jpg]]"
+Year: 2001
+Album: ""
 CoverOf: ""
+Creators: ["[[Gorillaz (🎙️ 319)]]"]
+ListenInSec: 844
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[Gorillaz - Clint Eastwood.mp3]]"
 ---
 
 # Gorillaz - Clint Eastwood

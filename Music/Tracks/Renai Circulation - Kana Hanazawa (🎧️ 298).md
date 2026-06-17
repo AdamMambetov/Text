@@ -1,19 +1,16 @@
 ---
 created: 2022-04-23T02:28:42+03:00
-aliases:
-  - Renai Circulation
-Creators:
-  - "[[Kana Hanazawa (🎙️ 186)]]"
-source: ""
-SourceFile: "[[Kana Hanazawa - Renai Circulation.mp3]]"
+aliases: [Renai Circulation]
 Cover: ""
 Year: 0
 Album: ""
-NumberInAlbum: 0
-related:
-  - "[[Renai Circulation (TV Size) - Kana Hanazawa (🎧️ 1421)]]"
-ListenInSec: 515
 CoverOf: ""
+Creators: ["[[Kana Hanazawa (🎙️ 186)]]"]
+ListenInSec: 515
+NumberInAlbum: 0
+related: ["[[Renai Circulation (TV Size) - Kana Hanazawa (🎧️ 1421)]]"]
+source: ""
+SourceFile: "[[Kana Hanazawa - Renai Circulation.mp3]]"
 ---
 
 # Renai Circulation

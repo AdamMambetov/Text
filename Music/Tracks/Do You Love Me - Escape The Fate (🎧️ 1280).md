@@ -1,18 +1,16 @@
 ---
-Album: "[[I Am Human]]"
-Creators:
-  - "[[Escape The Fate (🎙️ 303)]]"
-Cover: ""
-NumberInAlbum: 7
-SourceFile: "[[Escape The Fate - Do You Love Me.mp3]]"
-Year: 2017
-aliases:
-  - Do You Love Me?
 created: 2024-10-23T14:27:00+03:00
-source: ""
-related: []
-ListenInSec: 313
+aliases: [Do You Love Me?]
+Cover: ""
+Year: 2017
+Album: "[[I Am Human]]"
 CoverOf: ""
+Creators: ["[[Escape The Fate (🎙️ 303)]]"]
+ListenInSec: 313
+NumberInAlbum: 7
+related: []
+source: ""
+SourceFile: "[[Escape The Fate - Do You Love Me.mp3]]"
 ---
 
 # Escape The Fate - Do You Love Me

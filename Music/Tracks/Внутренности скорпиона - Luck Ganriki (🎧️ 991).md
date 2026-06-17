@@ -1,18 +1,16 @@
 ---
-Album: "[[Umineko no Naku Koro ni OST (📀 30)]]"
-Creators:
-  - "[[Luck Ganriki (🎙️ 4)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 45
-SourceFile: "[[Umineko no Naku Koro ni OST - 045 Внутренности скорпиона.ogg]]"
-Year: 2007
-aliases:
-  - Внутренности скорпиона
 created: 2024-04-12T15:02:04+03:00
-source: ""
-related: []
-ListenInSec: 948
+aliases: [Внутренности скорпиона]
+Cover: "[[_No Album Art.jpg]]"
+Year: 2007
+Album: "[[Umineko no Naku Koro ni OST (📀 30)]]"
 CoverOf: ""
+Creators: ["[[Luck Ganriki (🎙️ 4)]]"]
+ListenInSec: 948
+NumberInAlbum: 45
+related: []
+source: ""
+SourceFile: "[[Umineko no Naku Koro ni OST - 045 Внутренности скорпиона.ogg]]"
 ---
 
 # Umineko no Naku Koro ni OST - 045 Внутренности скорпиона

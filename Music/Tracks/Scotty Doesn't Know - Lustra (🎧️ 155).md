@@ -1,18 +1,16 @@
 ---
-Album: ""
-Creators:
-  - "[[Lustra (🎙️ 370)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 0
-SourceFile: "[[Lustra - Scotty Doesn't Know.mp3]]"
-Year: 2005
-aliases:
-  - Scotty Doesn't Know
 created: 2022-04-22T21:06:22+03:00
-source: ""
-related: []
-ListenInSec: 29
+aliases: ["Scotty Doesn't Know"]
+Cover: "[[_No Album Art.jpg]]"
+Year: 2005
+Album: ""
 CoverOf: ""
+Creators: ["[[Lustra (🎙️ 370)]]"]
+ListenInSec: 29
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[Lustra - Scotty Doesn't Know.mp3]]"
 ---
 
 # Lustra - Scotty Doesn't Know

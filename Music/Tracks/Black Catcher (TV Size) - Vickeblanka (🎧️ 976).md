@@ -1,19 +1,16 @@
 ---
-Album: ""
-Creators:
-  - "[[Vickeblanka (🎙️ 478)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 1
-SourceFile: "[[Vickeblanka - Black Catcher (TV Size).mp3]]"
-Year: 0
-aliases:
-  - Black Catcher (TV Size)
 created: 2024-07-21T15:50:18+03:00
-source: ""
-related:
-  - "[[Black Catcher - Vickeblanka (🎧️ 1184)]]"
-ListenInSec: 213
+aliases: [Black Catcher (TV Size)]
+Cover: "[[_No Album Art.jpg]]"
+Year: 0
+Album: ""
 CoverOf: ""
+Creators: ["[[Vickeblanka (🎙️ 478)]]"]
+ListenInSec: 213
+NumberInAlbum: 1
+related: ["[[Black Catcher - Vickeblanka (🎧️ 1184)]]"]
+source: ""
+SourceFile: "[[Vickeblanka - Black Catcher (TV Size).mp3]]"
 ---
 
 # Vickeblanka - Black Catcher (TV Size)

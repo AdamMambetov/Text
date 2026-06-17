@@ -1,18 +1,16 @@
 ---
-Album: "[[Umineko no Naku Koro ni OST (📀 30)]]"
-Creators:
-  - "[[Luck Ganriki (🎙️ 4)]]"
-Cover: ""
-NumberInAlbum: 114
-SourceFile: "[[Umineko no Naku Koro ni OST - 114 Угрюмый вечер.ogg]]"
-Year: 2007
-aliases:
-  - Угрюмый вечер
 created: 2024-04-12T15:04:12+03:00
-source: ""
-related: []
-ListenInSec: 316
+aliases: [Угрюмый вечер]
+Cover: ""
+Year: 2007
+Album: "[[Umineko no Naku Koro ni OST (📀 30)]]"
 CoverOf: ""
+Creators: ["[[Luck Ganriki (🎙️ 4)]]"]
+ListenInSec: 316
+NumberInAlbum: 114
+related: []
+source: ""
+SourceFile: "[[Umineko no Naku Koro ni OST - 114 Угрюмый вечер.ogg]]"
 ---
 
 # Umineko no Naku Koro ni OST - 114 Угрюмый вечер

@@ -1,17 +1,16 @@
 ---
 created: 2025-10-28T22:54:32+03:00
-aliases:
-  - lomb_TV_LombTV - Rhythm_Tengoku_-_The_Bon_Odori
+aliases: [lomb_TV_LombTV - Rhythm_Tengoku_-_The_Bon_Odori]
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
+CoverOf: ""
 Creators: []
+ListenInSec: 1284
 NumberInAlbum: 0
+related: []
 source: ""
 SourceFile: "[[lomb_TV_LombTV - Rhythm_Tengoku_-_The_Bon_Odori.mp3]]"
-related: []
-ListenInSec: 1284
-CoverOf: ""
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

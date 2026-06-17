@@ -1,16 +1,16 @@
 ---
-Album: ""
-Creators: []
-Cover: ""
-NumberInAlbum: 1
-SourceFile: "[[The Ventures - Hawaii Five-O.mp3]]"
-Year: 0
-aliases: []
 created: 2025-01-07T20:26:24+03:00
-source: ""
-related: []
-ListenInSec: 223
+aliases: []
+Cover: ""
+Year: 0
+Album: ""
 CoverOf: ""
+Creators: []
+ListenInSec: 223
+NumberInAlbum: 1
+related: []
+source: ""
+SourceFile: "[[The Ventures - Hawaii Five-O.mp3]]"
 ---
 
 # The Ventures - Hawaii Five-O

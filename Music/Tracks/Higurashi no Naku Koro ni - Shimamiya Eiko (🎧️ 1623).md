@@ -1,18 +1,16 @@
 ---
 created: 2025-01-19T21:51:30+03:00
-aliases:
-  - Higurashi no Naku Koro ni
-Creators:
-  - "[[Shimamiya Eiko (🎙️ 50)]]"
-source: ""
-SourceFile: "[[Shimamiya Eiko - Higurashi no Naku Koro ni.mp3]]"
+aliases: [Higurashi no Naku Koro ni]
 Cover: ""
 Year: 0
 Album: ""
+CoverOf: ""
+Creators: ["[[Shimamiya Eiko (🎙️ 50)]]"]
+ListenInSec: 1204
 NumberInAlbum: 0
 related: []
-ListenInSec: 1204
-CoverOf: ""
+source: ""
+SourceFile: "[[Shimamiya Eiko - Higurashi no Naku Koro ni.mp3]]"
 ---
 
 # Higurashi no Naku Koro ni

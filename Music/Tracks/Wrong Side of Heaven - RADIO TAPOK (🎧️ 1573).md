@@ -1,18 +1,16 @@
 ---
-Album: ""
-Creators:
-  - "[[RADIO TAPOK (🎙️ 421)]]"
-Cover: ""
-NumberInAlbum: 1
-SourceFile: "[[RADIO TAPOK - Wrong Side of Heaven.mp3]]"
-Year: 0
-aliases:
-  - Wrong Side of Heaven
 created: 2025-01-08T20:33:48+03:00
-source: ""
-related: []
-ListenInSec: 599
+aliases: [Wrong Side of Heaven]
+Cover: ""
+Year: 0
+Album: ""
 CoverOf: "[[Wrong Side of Heaven - Five Finger Death Punch (🎧️ 1574)]]"
+Creators: ["[[RADIO TAPOK (🎙️ 421)]]"]
+ListenInSec: 599
+NumberInAlbum: 1
+related: []
+source: ""
+SourceFile: "[[RADIO TAPOK - Wrong Side of Heaven.mp3]]"
 ---
 
 # RADIO TAPOK - Wrong Side of Heaven

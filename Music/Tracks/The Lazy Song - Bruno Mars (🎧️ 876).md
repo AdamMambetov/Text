@@ -1,18 +1,16 @@
 ---
-Album: "[[Doo-Wops & Hooligans]]"
-Creators:
-  - "[[Bruno Mars (🎙️ 240)]]"
-Cover: ""
-NumberInAlbum: 5
-SourceFile: "[[Bruno Mars - The Lazy Song.mp3]]"
-Year: 2010
-aliases:
-  - The Lazy Song
 created: 2023-09-29T16:24:32+03:00
-source: ""
-related: []
-ListenInSec: 190
+aliases: [The Lazy Song]
+Cover: ""
+Year: 2010
+Album: "[[Doo-Wops & Hooligans]]"
 CoverOf: ""
+Creators: ["[[Bruno Mars (🎙️ 240)]]"]
+ListenInSec: 190
+NumberInAlbum: 5
+related: []
+source: ""
+SourceFile: "[[Bruno Mars - The Lazy Song.mp3]]"
 ---
 
 # Bruno Mars - The Lazy Song

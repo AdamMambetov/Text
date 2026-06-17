@@ -1,18 +1,16 @@
 ---
-Album: "[[The Great War]]"
-Creators:
-  - "[[Sabaton (🎙️ 432)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 3
-SourceFile: "[[Sabaton - 82nd All the Way.mp3]]"
-Year: 2019
-aliases:
-  - 82nd All the Way
 created: 2024-10-08T15:32:10+03:00
-source: ""
-related: []
-ListenInSec: 580
+aliases: [82nd All the Way]
+Cover: "[[_No Album Art.jpg]]"
+Year: 2019
+Album: "[[The Great War]]"
 CoverOf: ""
+Creators: ["[[Sabaton (🎙️ 432)]]"]
+ListenInSec: 580
+NumberInAlbum: 3
+related: []
+source: ""
+SourceFile: "[[Sabaton - 82nd All the Way.mp3]]"
 ---
 
 # Sabaton - 82nd All the Way

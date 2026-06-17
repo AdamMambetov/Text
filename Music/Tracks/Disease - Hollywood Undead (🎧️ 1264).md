@@ -1,18 +1,16 @@
 ---
-Album: "[[Day of the Dead]]"
-Creators:
-  - "[[Hollywood Undead (🎙️ 330)]]"
-Cover: ""
-NumberInAlbum: 9
-SourceFile: "[[Hollywood Undead - Disease.mp3]]"
-Year: 2015
-aliases:
-  - Disease
 created: 2024-10-23T13:40:10+03:00
-source: ""
-related: []
-ListenInSec: 3
+aliases: [Disease]
+Cover: ""
+Year: 2015
+Album: "[[Day of the Dead]]"
 CoverOf: ""
+Creators: ["[[Hollywood Undead (🎙️ 330)]]"]
+ListenInSec: 3
+NumberInAlbum: 9
+related: []
+source: ""
+SourceFile: "[[Hollywood Undead - Disease.mp3]]"
 ---
 
 # Hollywood Undead - Disease

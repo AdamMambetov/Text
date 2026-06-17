@@ -1,18 +1,16 @@
 ---
-Album: ""
-Creators:
-  - "[[Lyre le temps (🎙️ 514)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 0
-SourceFile: "[[Lyre le temps - Looking Like This.mp3]]"
-Year: 2013
-aliases:
-  - Looking Like This
 created: 2022-04-22T21:06:42+03:00
-source: ""
-related: []
-ListenInSec: 70
+aliases: [Looking Like This]
+Cover: "[[_No Album Art.jpg]]"
+Year: 2013
+Album: ""
 CoverOf: ""
+Creators: ["[[Lyre le temps (🎙️ 514)]]"]
+ListenInSec: 70
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[Lyre le temps - Looking Like This.mp3]]"
 ---
 
 # Lyre le temps - Looking Like This

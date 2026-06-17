@@ -1,18 +1,16 @@
 ---
-Album: ""
-Creators:
-  - "[[M83 (🎙️ 371)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 0
-SourceFile: "[[M83 - Midnight City.mp3]]"
-Year: 2011
-aliases:
-  - Midnight City
 created: 2022-04-22T21:06:56+03:00
-source: ""
-related: []
-ListenInSec: 242
+aliases: [Midnight City]
+Cover: "[[_No Album Art.jpg]]"
+Year: 2011
+Album: ""
 CoverOf: ""
+Creators: ["[[M83 (🎙️ 371)]]"]
+ListenInSec: 242
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[M83 - Midnight City.mp3]]"
 ---
 
 # M83 - Midnight City

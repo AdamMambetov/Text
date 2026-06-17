@@ -1,18 +1,16 @@
 ---
-Album: "[[Answer from X Girlz]]"
-Creators:
-  - "[[t+pazolite (🎙️ 454)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 0
-SourceFile: "[[t+pazolite - Intro - from the X.mp3]]"
-Year: 2011
-aliases:
-  - Intro - from the X
 created: 2022-04-21T01:53:57+03:00
-source: ""
-related: []
-ListenInSec: 11
+aliases: [Intro - from the X]
+Cover: "[[_No Album Art.jpg]]"
+Year: 2011
+Album: "[[Answer from X Girlz]]"
 CoverOf: ""
+Creators: ["[[t+pazolite (🎙️ 454)]]"]
+ListenInSec: 11
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[t+pazolite - Intro - from the X.mp3]]"
 ---
 
 # t+pazolite - Intro - from the X

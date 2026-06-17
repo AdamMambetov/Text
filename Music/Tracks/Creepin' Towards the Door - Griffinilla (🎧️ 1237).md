@@ -1,18 +1,16 @@
 ---
-Album: "[[Creepin' Towards the Door (📀 9)]]"
-Creators:
-  - "[[Griffinilla (🎙️ 323)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 2
-SourceFile: "[[Griffinilla - Creepin' Towards the Door.mp3]]"
-Year: 2015
-aliases:
-  - Creepin' Towards the Door
 created: 2024-10-13T23:08:56+03:00
-source: ""
-related: []
-ListenInSec: 312
+aliases: ["Creepin' Towards the Door"]
+Cover: "[[_No Album Art.jpg]]"
+Year: 2015
+Album: "[[Creepin' Towards the Door (📀 9)]]"
 CoverOf: ""
+Creators: ["[[Griffinilla (🎙️ 323)]]"]
+ListenInSec: 312
+NumberInAlbum: 2
+related: []
+source: ""
+SourceFile: "[[Griffinilla - Creepin' Towards the Door.mp3]]"
 ---
 
 # Griffinilla - Creepin' Towards the Door

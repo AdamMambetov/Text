@@ -1,18 +1,16 @@
 ---
-Album: ""
-Creators:
-  - "[[fem.love (🎙️ 308)]]"
-Cover: "[[fem.love - Разбитые сердца.jpg]]"
-NumberInAlbum: 0
-SourceFile: "[[fem.love - Фотографирую закат.mp3]]"
-Year: 2020
-aliases:
-  - Фотографирую закат
 created: 2022-04-22T20:44:54+03:00
-source: ""
-related: []
-ListenInSec: 2
+aliases: [Фотографирую закат]
+Cover: "[[fem.love - Разбитые сердца.jpg]]"
+Year: 2020
+Album: ""
 CoverOf: ""
+Creators: ["[[fem.love (🎙️ 308)]]"]
+ListenInSec: 2
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[fem.love - Фотографирую закат.mp3]]"
 ---
 
 # fem.love - Фотографирую закат

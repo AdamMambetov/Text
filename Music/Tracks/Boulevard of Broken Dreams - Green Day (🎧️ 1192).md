@@ -1,18 +1,16 @@
 ---
-Album: "[[American Idiot]]"
-Creators:
-  - "[[Green Day (🎙️ 322)]]"
-Cover: ""
-NumberInAlbum: 1
-SourceFile: "[[Green Day - Boulevard of Broken Dreams.mp3]]"
-Year: 2004
-aliases:
-  - Boulevard of Broken Dreams
 created: 2024-10-13T22:29:42+03:00
-source: ""
-related: []
-ListenInSec: 2
+aliases: [Boulevard of Broken Dreams]
+Cover: ""
+Year: 2004
+Album: "[[American Idiot]]"
 CoverOf: ""
+Creators: ["[[Green Day (🎙️ 322)]]"]
+ListenInSec: 2
+NumberInAlbum: 1
+related: []
+source: ""
+SourceFile: "[[Green Day - Boulevard of Broken Dreams.mp3]]"
 ---
 
 # Green Day - Boulevard of Broken Dreams

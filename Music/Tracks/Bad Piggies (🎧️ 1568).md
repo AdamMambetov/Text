@@ -1,17 +1,16 @@
 ---
-Album: ""
-Creators: []
-Cover: ""
-NumberInAlbum: 1
-SourceFile: "[[Rovio - Bad Piggies.mp3]]"
-Year: 0
-aliases:
-  - Bad Piggies
 created: 2025-01-08T19:23:19+03:00
-source: ""
-related: []
-ListenInSec: 887
+aliases: [Bad Piggies]
+Cover: ""
+Year: 0
+Album: ""
 CoverOf: ""
+Creators: []
+ListenInSec: 887
+NumberInAlbum: 1
+related: []
+source: ""
+SourceFile: "[[Rovio - Bad Piggies.mp3]]"
 ---
 
 # Rovio - Bad Piggies

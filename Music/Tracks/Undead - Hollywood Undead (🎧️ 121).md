@@ -1,18 +1,16 @@
 ---
-Album: ""
-Creators:
-  - "[[Hollywood Undead (🎙️ 330)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 0
-SourceFile: "[[Hollywood Undead - Undead.mp3]]"
-Year: 2008
-aliases:
-  - Undead
 created: 2022-04-22T20:51:48+03:00
-source: ""
-related: []
-ListenInSec: 519
+aliases: [Undead]
+Cover: "[[_No Album Art.jpg]]"
+Year: 2008
+Album: ""
 CoverOf: ""
+Creators: ["[[Hollywood Undead (🎙️ 330)]]"]
+ListenInSec: 519
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[Hollywood Undead - Undead.mp3]]"
 ---
 
 # Hollywood Undead - Undead

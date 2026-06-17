@@ -1,17 +1,15 @@
 ---
-SourceFile: "[[The Weeknd - Blinding Lights.mp3]]"
+created: 2025-05-04T14:48:43+03:00
+aliases: [The Weeknd - Blinding Lights (Official Audio)]
+Cover: ""
 Year: 2019
 Album: ""
-aliases:
-  - The Weeknd - Blinding Lights (Official Audio)
-created: 2025-05-04T14:48:43+03:00
-Creators:
-  - "[[The Weeknd (🎙️ 465)]]"
-Cover: ""
+CoverOf: ""
+Creators: ["[[The Weeknd (🎙️ 465)]]"]
+ListenInSec: 993
 NumberInAlbum: 0
 related: []
-ListenInSec: 993
-CoverOf: ""
+SourceFile: "[[The Weeknd - Blinding Lights.mp3]]"
 ---
 
 # The Weeknd - Blinding Lights

@@ -1,18 +1,16 @@
 ---
-source: ""
-SourceFile: "[[George Michael - Careless Whisper.mp3]]"
+created: 2025-05-04T01:53:58+03:00
+aliases: [Careless Whisper]
+Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
-aliases:
-  - Careless Whisper
-created: 2025-05-04T01:53:58+03:00
-Creators:
-  - "[[George Michael (🎙️ 746)]]"
-Cover: "[[_No Album Art.jpg]]"
+CoverOf: ""
+Creators: ["[[George Michael (🎙️ 746)]]"]
+ListenInSec: 2093
 NumberInAlbum: 0
 related: []
-ListenInSec: 2093
-CoverOf: ""
+source: ""
+SourceFile: "[[George Michael - Careless Whisper.mp3]]"
 ---
 
 # George Michael - Careless Whisper

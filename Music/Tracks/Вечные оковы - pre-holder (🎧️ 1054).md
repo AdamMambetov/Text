@@ -1,18 +1,16 @@
 ---
-Album: "[[Umineko no Naku Koro ni OST (📀 30)]]"
-Creators:
-  - "[[pre-holder (🎙️ 5)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 136
-SourceFile: "[[Umineko no Naku Koro ni OST - 136 Вечные оковы.ogg]]"
-Year: 2007
-aliases:
-  - Вечные оковы
 created: 2024-04-12T15:00:04+03:00
-source: ""
-related: []
-ListenInSec: 279
+aliases: [Вечные оковы]
+Cover: "[[_No Album Art.jpg]]"
+Year: 2007
+Album: "[[Umineko no Naku Koro ni OST (📀 30)]]"
 CoverOf: ""
+Creators: ["[[pre-holder (🎙️ 5)]]"]
+ListenInSec: 279
+NumberInAlbum: 136
+related: []
+source: ""
+SourceFile: "[[Umineko no Naku Koro ni OST - 136 Вечные оковы.ogg]]"
 ---
 
 # Umineko no Naku Koro ni OST - 136 Вечные оковы

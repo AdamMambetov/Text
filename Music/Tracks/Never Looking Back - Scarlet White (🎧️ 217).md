@@ -1,18 +1,16 @@
 ---
-Album: ""
-Creators:
-  - "[[Scarlet White (🎙️ 530)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 0
-SourceFile: "[[Scarlet White - Never Looking Back.mp3]]"
-Year: 2012
-aliases:
-  - Never Looking Back
 created: 2022-04-22T21:31:24+03:00
-source: ""
-related: []
-ListenInSec: 9
+aliases: [Never Looking Back]
+Cover: "[[_No Album Art.jpg]]"
+Year: 2012
+Album: ""
 CoverOf: ""
+Creators: ["[[Scarlet White (🎙️ 530)]]"]
+ListenInSec: 9
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[Scarlet White - Never Looking Back.mp3]]"
 ---
 
 # Scarlet White - Never Looking Back

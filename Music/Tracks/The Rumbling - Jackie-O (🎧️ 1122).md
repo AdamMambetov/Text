@@ -1,18 +1,16 @@
 ---
-Album: "[[The Rumbling]]"
-Creators:
-  - "[[Jackie-O (🎙️ 339)]]"
-Cover: ""
-NumberInAlbum: 1
-SourceFile: "[[Jackie-O - The Rumbling.mp3]]"
-Year: 2022
-aliases:
-  - The Rumbling
 created: 2024-10-05T15:26:50+03:00
-source: ""
-related: []
-ListenInSec: 187
+aliases: [The Rumbling]
+Cover: ""
+Year: 2022
+Album: "[[The Rumbling]]"
 CoverOf: ""
+Creators: ["[[Jackie-O (🎙️ 339)]]"]
+ListenInSec: 187
+NumberInAlbum: 1
+related: []
+source: ""
+SourceFile: "[[Jackie-O - The Rumbling.mp3]]"
 ---
 
 # Jackie-O - The Rumbling

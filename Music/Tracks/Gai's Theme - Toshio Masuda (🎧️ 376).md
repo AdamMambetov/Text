@@ -1,18 +1,16 @@
 ---
-Album: "[[Naruto OST 2 (📀 16)]]"
-Creators:
-  - "[[Toshio Masuda (🎙️ 559)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 11
-SourceFile: "[[Naruto OST - Gai's Theme.mp3]]"
-Year: 2004
-aliases:
-  - Gai's Theme
 created: 2022-04-28T17:50:42+03:00
-source:
-related: []
-ListenInSec: 402
+aliases: ["Gai's Theme"]
+Cover: "[[_No Album Art.jpg]]"
+Year: 2004
+Album: "[[Naruto OST 2 (📀 16)]]"
 CoverOf: ""
+Creators: ["[[Toshio Masuda (🎙️ 559)]]"]
+ListenInSec: 402
+NumberInAlbum: 11
+related: []
+source:
+SourceFile: "[[Naruto OST - Gai's Theme.mp3]]"
 ---
 
 # Naruto OST - Gai's Theme

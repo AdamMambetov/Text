@@ -1,18 +1,16 @@
 ---
-Album: ""
-Creators:
-  - "[[sumika (🎙️ 448)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 0
-SourceFile: "[[sumika - Fanfare.mp3]]"
-Year: 0
-aliases:
-  - Fanfare
 created: 2022-10-05T13:57:24+03:00
-source: ""
-related: []
-ListenInSec: 849
+aliases: [Fanfare]
+Cover: "[[_No Album Art.jpg]]"
+Year: 0
+Album: ""
 CoverOf: ""
+Creators: ["[[sumika (🎙️ 448)]]"]
+ListenInSec: 849
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[sumika - Fanfare.mp3]]"
 ---
 
 # sumika - Fanfare

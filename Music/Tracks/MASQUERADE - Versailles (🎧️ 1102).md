@@ -1,18 +1,16 @@
 ---
-Album: "[[The Greatest Hits 2007-2016]]"
-Creators:
-  - "[[Versailles (🎙️ 33)]]"
-Cover: ""
-NumberInAlbum: 10
-SourceFile: "[[Versailles - MASQUERADE.mp3]]"
-Year: 2016
-aliases:
-  - MASQUERADE
 created: 2024-10-05T14:17:26+03:00
-source: ""
-related: []
-ListenInSec: 264
+aliases: [MASQUERADE]
+Cover: ""
+Year: 2016
+Album: "[[The Greatest Hits 2007-2016]]"
 CoverOf: ""
+Creators: ["[[Versailles (🎙️ 33)]]"]
+ListenInSec: 264
+NumberInAlbum: 10
+related: []
+source: ""
+SourceFile: "[[Versailles - MASQUERADE.mp3]]"
 ---
 
 # Versailles - MASQUERADE

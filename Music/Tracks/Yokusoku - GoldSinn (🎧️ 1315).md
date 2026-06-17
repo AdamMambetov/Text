@@ -1,17 +1,16 @@
 ---
-Album: "[[Elfen Lied OST]]"
-Creators: []
-Cover: ""
-NumberInAlbum: 1
-SourceFile: "[[Elfen Lied OST - Yokusoku.mp3]]"
-Year: 0
-aliases:
-  - Yokusoku
 created: 2024-10-23T14:54:58+03:00
-source: ""
-related: []
-ListenInSec: 259
+aliases: [Yokusoku]
+Cover: ""
+Year: 0
+Album: "[[Elfen Lied OST]]"
 CoverOf: ""
+Creators: []
+ListenInSec: 259
+NumberInAlbum: 1
+related: []
+source: ""
+SourceFile: "[[Elfen Lied OST - Yokusoku.mp3]]"
 ---
 
 # Elfen Lied OST - Yokusoku

@@ -1,18 +1,16 @@
 ---
-Album: "[[Sonny Boy OST (📀 41)]]"
-Creators:
-  - "[[Sunset Rollercoaster (🎙️ 694)]]"
-Cover: "[[Sonny Boy OST.jpg]]"
-NumberInAlbum: 7
-SourceFile: "[[Sonny Boy OST - Let There Be Light Again.mp3]]"
-Year: 2021
-aliases:
-  - Let There Be Light Again
 created: 2023-08-23T13:18:12+03:00
-source: ""
-related: []
-ListenInSec: 232
+aliases: [Let There Be Light Again]
+Cover: "[[Sonny Boy OST.jpg]]"
+Year: 2021
+Album: "[[Sonny Boy OST (📀 41)]]"
 CoverOf: ""
+Creators: ["[[Sunset Rollercoaster (🎙️ 694)]]"]
+ListenInSec: 232
+NumberInAlbum: 7
+related: []
+source: ""
+SourceFile: "[[Sonny Boy OST - Let There Be Light Again.mp3]]"
 ---
 
 # Sonny Boy OST - Let There Be Light Again

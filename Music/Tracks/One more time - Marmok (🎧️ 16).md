@@ -1,19 +1,16 @@
 ---
-Album: ""
-Creators:
-  - "[[Marmok (🎙️ 375)]]"
-Cover: "[[Marmok - One more time.jpg]]"
-NumberInAlbum: 0
-SourceFile: "[[Marmok - One more time.mp3]]"
-Year: 2017
-aliases:
-  - One more time
-  - Музыка из ничего
 created: 2022-04-21T01:52:54+03:00
-source: https://youtu.be/vMU7zJLx1CI?si=NvB1hwu6xrOoY4_Q
-related: []
-ListenInSec: 221
+aliases: [One more time, Музыка из ничего]
+Cover: "[[Marmok - One more time.jpg]]"
+Year: 2017
+Album: ""
 CoverOf: ""
+Creators: ["[[Marmok (🎙️ 375)]]"]
+ListenInSec: 221
+NumberInAlbum: 0
+related: []
+source: https://youtu.be/vMU7zJLx1CI?si=NvB1hwu6xrOoY4_Q
+SourceFile: "[[Marmok - One more time.mp3]]"
 ---
 
 # Marmok - One more time

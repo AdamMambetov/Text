@@ -1,17 +1,16 @@
 ---
-Album: "[[Kirby Super Star]]"
-Creators: []
-Cover: ""
-NumberInAlbum: 1
-SourceFile: "[[Kirby Super Star - Gourmet Race Theme 1.mp3]]"
-Year: 0
-aliases:
-  - Gourmet Race Theme 1
 created: 2025-01-08T19:45:12+03:00
-source: ""
-related: []
-ListenInSec: 1106
+aliases: [Gourmet Race Theme 1]
+Cover: ""
+Year: 0
+Album: "[[Kirby Super Star]]"
 CoverOf: ""
+Creators: []
+ListenInSec: 1106
+NumberInAlbum: 1
+related: []
+source: ""
+SourceFile: "[[Kirby Super Star - Gourmet Race Theme 1.mp3]]"
 ---
 
 # Kirby Super Star - Gourmet Race Theme 1

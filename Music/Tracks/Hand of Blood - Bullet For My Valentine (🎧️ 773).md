@@ -1,18 +1,16 @@
 ---
-Album: "[[Hand of Blood]]"
-Creators:
-  - "[[Bullet For My Valentine (🎙️ 242)]]"
-Cover: ""
-NumberInAlbum: 2
-SourceFile: "[[Bullet For My Valentine - Hand of Blood.mp3]]"
-Year: 2005
-aliases:
-  - Hand of Blood
 created: 2023-09-29T16:23:21+03:00
-source: ""
-related: []
-ListenInSec: 219
+aliases: [Hand of Blood]
+Cover: ""
+Year: 2005
+Album: "[[Hand of Blood]]"
 CoverOf: ""
+Creators: ["[[Bullet For My Valentine (🎙️ 242)]]"]
+ListenInSec: 219
+NumberInAlbum: 2
+related: []
+source: ""
+SourceFile: "[[Bullet For My Valentine - Hand of Blood.mp3]]"
 ---
 
 # Bullet For My Valentine - Hand of Blood

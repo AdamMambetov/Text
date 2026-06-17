@@ -1,17 +1,16 @@
 ---
-Album: "[[Jay Smith]]"
-Creators: []
-Cover: ""
-NumberInAlbum: 15
-SourceFile: "[[Jay Smith - Bad Romance.mp3]]"
-Year: 2010
-aliases:
-  - Bad Romance
 created: 2024-10-10T22:49:58+03:00
-source: ""
-related: []
-ListenInSec: 35
+aliases: [Bad Romance]
+Cover: ""
+Year: 2010
+Album: "[[Jay Smith]]"
 CoverOf: ""
+Creators: []
+ListenInSec: 35
+NumberInAlbum: 15
+related: []
+source: ""
+SourceFile: "[[Jay Smith - Bad Romance.mp3]]"
 ---
 
 # Jay Smith - Bad Romance

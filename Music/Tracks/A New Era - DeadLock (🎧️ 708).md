@@ -1,18 +1,16 @@
 ---
-Album: ""
-Creators:
-  - "[[DeadLock (🎙️ 282)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 0
-SourceFile: "[[DeadLock - A New Era.mp3]]"
-Year: 2014
-aliases:
-  - A New Era
 created: 2023-09-29T16:23:43+03:00
-source: ""
-related: []
-ListenInSec: 1732
+aliases: [A New Era]
+Cover: "[[_No Album Art.jpg]]"
+Year: 2014
+Album: ""
 CoverOf: ""
+Creators: ["[[DeadLock (🎙️ 282)]]"]
+ListenInSec: 1732
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[DeadLock - A New Era.mp3]]"
 ---
 
 # DeadLock - A New Era

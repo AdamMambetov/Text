@@ -1,18 +1,16 @@
 ---
-Album: "[[Sora ni Utaeba]]"
-Creators:
-  - "[[DiWilliam (🎙️ 60)]]"
-Cover: ""
-NumberInAlbum: 1
-SourceFile: "[[DiWilliam - Sora ni Utaeba.mp3]]"
-Year: 2019
-aliases:
-  - Sora ni Utaeba
 created: 2024-10-23T13:48:10+03:00
-source: ""
-related: []
-ListenInSec: 94
+aliases: [Sora ni Utaeba]
+Cover: ""
+Year: 2019
+Album: "[[Sora ni Utaeba]]"
 CoverOf: ""
+Creators: ["[[DiWilliam (🎙️ 60)]]"]
+ListenInSec: 94
+NumberInAlbum: 1
+related: []
+source: ""
+SourceFile: "[[DiWilliam - Sora ni Utaeba.mp3]]"
 ---
 
 # DiWilliam - Sora ni Utaeba

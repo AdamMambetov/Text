@@ -1,18 +1,16 @@
 ---
-Album: "[[Days Go By [2012] {The Offspring}]]"
-Creators:
-  - "[[The Offspring (🎙️ 459)]]"
-Cover: ""
-NumberInAlbum: 1
-SourceFile: "[[The Offspring - The Future Is Now.mp3]]"
-Year: 2012
-aliases:
-  - The Future Is Now
 created: 2022-04-22T21:40:56+03:00
-source: ""
-related: []
-ListenInSec: 249
+aliases: [The Future Is Now]
+Cover: ""
+Year: 2012
+Album: "[[Days Go By [2012] {The Offspring}]]"
 CoverOf: ""
+Creators: ["[[The Offspring (🎙️ 459)]]"]
+ListenInSec: 249
+NumberInAlbum: 1
+related: []
+source: ""
+SourceFile: "[[The Offspring - The Future Is Now.mp3]]"
 ---
 
 # The Offspring - The Future Is Now

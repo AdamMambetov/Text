@@ -1,18 +1,16 @@
 ---
-Album: ""
-Creators:
-  - "[[Village People (🎙️ 634)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 0
-SourceFile: "[[Village People - YMCA.mp3]]"
-Year: 1978
-aliases:
-  - YMCA
 created: 2022-12-20T23:24:24+03:00
-source: ""
-related: []
-ListenInSec: 3
+aliases: [YMCA]
+Cover: "[[_No Album Art.jpg]]"
+Year: 1978
+Album: ""
 CoverOf: ""
+Creators: ["[[Village People (🎙️ 634)]]"]
+ListenInSec: 3
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[Village People - YMCA.mp3]]"
 ---
 
 # Village People - YMCA

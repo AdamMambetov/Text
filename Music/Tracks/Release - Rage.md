@@ -1,17 +1,16 @@
 ---
 created: 2025-11-19T02:40:30+03:00
-aliases:
-  - Release - Rage
+aliases: [Release - Rage]
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
+CoverOf: ""
 Creators: []
+ListenInSec: 279
 NumberInAlbum: 0
+related: []
 source: ""
 SourceFile: "[[Release - Rage.mp3]]"
-related: []
-ListenInSec: 279
-CoverOf: ""
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

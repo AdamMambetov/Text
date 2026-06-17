@@ -1,18 +1,16 @@
 ---
-Album: "[[Save Rock and Roll [2013] {Fall Out Boy}]]"
-Creators:
-  - "[[Fall Out Boy (🎙️ 306)]]"
-Cover: ""
-NumberInAlbum: 2
-SourceFile: "[[Fall Out Boy - My Songs Know What You Did In The Dark (Light Em Up).mp3]]"
-Year: 2013
-aliases:
-  - My Songs Know What You Did In The Dark (Light Em Up)
 created: 2022-04-26T19:55:28+03:00
-source: ""
-related: []
-ListenInSec: 160
+aliases: [My Songs Know What You Did In The Dark (Light Em Up)]
+Cover: ""
+Year: 2013
+Album: "[[Save Rock and Roll [2013] {Fall Out Boy}]]"
 CoverOf: ""
+Creators: ["[[Fall Out Boy (🎙️ 306)]]"]
+ListenInSec: 160
+NumberInAlbum: 2
+related: []
+source: ""
+SourceFile: "[[Fall Out Boy - My Songs Know What You Did In The Dark (Light Em Up).mp3]]"
 ---
 
 # Fall Out Boy - My Songs Know What You Did In The Dark (Light Em Up)

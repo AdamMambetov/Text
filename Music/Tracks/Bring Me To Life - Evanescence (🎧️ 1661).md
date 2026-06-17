@@ -1,18 +1,16 @@
 ---
-source: ""
-SourceFile: "[[Evanescence - Bring Me To Life.mp3]]"
+created: 2025-05-04T02:21:33+03:00
+aliases: [Bring Me To Life]
+Cover: "[[_No Album Art.jpg]]"
 Year: 2009
 Album: ""
-aliases:
-  - Bring Me To Life
-created: 2025-05-04T02:21:33+03:00
-Creators:
-  - "[[Evanescence (🎙️ 719)]]"
-Cover: "[[_No Album Art.jpg]]"
+CoverOf: ""
+Creators: ["[[Evanescence (🎙️ 719)]]"]
+ListenInSec: 1011
 NumberInAlbum: 0
 related: []
-ListenInSec: 1011
-CoverOf: ""
+source: ""
+SourceFile: "[[Evanescence - Bring Me To Life.mp3]]"
 ---
 
 # Evanescence - Bring Me To Life

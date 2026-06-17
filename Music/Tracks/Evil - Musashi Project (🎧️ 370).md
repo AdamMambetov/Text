@@ -1,18 +1,16 @@
 ---
-Album: "[[Naruto OST 2 (📀 16)]]"
-Creators:
-  - "[[Musashi Project (🎙️ 560)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 4
-SourceFile: "[[Naruto OST - Evil.mp3]]"
-Year: 2004
-aliases:
-  - Evil
 created: 2022-04-28T17:50:24+03:00
-source:
-related: []
-ListenInSec: 313
+aliases: [Evil]
+Cover: "[[_No Album Art.jpg]]"
+Year: 2004
+Album: "[[Naruto OST 2 (📀 16)]]"
 CoverOf: ""
+Creators: ["[[Musashi Project (🎙️ 560)]]"]
+ListenInSec: 313
+NumberInAlbum: 4
+related: []
+source:
+SourceFile: "[[Naruto OST - Evil.mp3]]"
 ---
 
 # Naruto OST - Evil

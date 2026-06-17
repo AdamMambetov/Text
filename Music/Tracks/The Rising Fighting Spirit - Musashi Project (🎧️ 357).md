@@ -1,18 +1,16 @@
 ---
-Album: "[[Naruto OST 1 (📀 15)]]"
-Creators:
-  - "[[Musashi Project (🎙️ 560)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 7
-SourceFile: "[[Naruto OST - The Rising Fighting Spirit.mp3]]"
-Year: 2003
-aliases:
-  - The Rising Fighting Spirit
 created: 2022-04-28T17:39:06+03:00
-source:
-related: []
-ListenInSec: 287
+aliases: [The Rising Fighting Spirit]
+Cover: "[[_No Album Art.jpg]]"
+Year: 2003
+Album: "[[Naruto OST 1 (📀 15)]]"
 CoverOf: ""
+Creators: ["[[Musashi Project (🎙️ 560)]]"]
+ListenInSec: 287
+NumberInAlbum: 7
+related: []
+source:
+SourceFile: "[[Naruto OST - The Rising Fighting Spirit.mp3]]"
 ---
 
 # Naruto OST - The Rising Fighting Spirit

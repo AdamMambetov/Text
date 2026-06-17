@@ -1,18 +1,16 @@
 ---
-Album: "[[No More [2017] {Milkdrop}]]"
-Creators:
-  - "[[Milkdrop (🎙️ 544)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 1
-SourceFile: "[[Milkdrop - No More.mp3]]"
-Year: 2017
-aliases:
-  - No More
 created: 2022-04-23T02:25:52+03:00
-source:
-related: []
-ListenInSec: 2
+aliases: [No More]
+Cover: "[[_No Album Art.jpg]]"
+Year: 2017
+Album: "[[No More [2017] {Milkdrop}]]"
 CoverOf: ""
+Creators: ["[[Milkdrop (🎙️ 544)]]"]
+ListenInSec: 2
+NumberInAlbum: 1
+related: []
+source:
+SourceFile: "[[Milkdrop - No More.mp3]]"
 ---
 
 # Milkdrop - No More

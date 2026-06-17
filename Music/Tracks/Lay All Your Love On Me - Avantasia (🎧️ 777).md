@@ -1,18 +1,16 @@
 ---
-Album: "[[Lost In Space]]"
-Creators:
-  - "[[Avantasia (🎙️ 200)]]"
-Cover: ""
-NumberInAlbum: 2
-SourceFile: "[[Avantasia - Lay All Your Love On Me.mp3]]"
-Year: 2007
-aliases:
-  - Lay All Your Love On Me
 created: 2023-09-29T16:23:10+03:00
-source: ""
-related: []
-ListenInSec: 296
+aliases: [Lay All Your Love On Me]
+Cover: ""
+Year: 2007
+Album: "[[Lost In Space]]"
 CoverOf: ""
+Creators: ["[[Avantasia (🎙️ 200)]]"]
+ListenInSec: 296
+NumberInAlbum: 2
+related: []
+source: ""
+SourceFile: "[[Avantasia - Lay All Your Love On Me.mp3]]"
 ---
 
 # Avantasia - Lay All Your Love On Me

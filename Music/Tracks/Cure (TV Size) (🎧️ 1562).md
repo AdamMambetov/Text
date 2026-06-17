@@ -1,17 +1,16 @@
 ---
-Album: ""
-Creators: []
-Cover: ""
-NumberInAlbum: 1
-SourceFile: "[[waterweed - Cure (TV Size).mp3]]"
-Year: 0
-aliases: []
 created: 2025-01-08T19:08:12+03:00
-source: ""
-related:
-  - "[[Cure (🎧️ 1561)]]"
-ListenInSec: 263
+aliases: []
+Cover: ""
+Year: 0
+Album: ""
 CoverOf: ""
+Creators: []
+ListenInSec: 263
+NumberInAlbum: 1
+related: ["[[Cure (🎧️ 1561)]]"]
+source: ""
+SourceFile: "[[waterweed - Cure (TV Size).mp3]]"
 ---
 
 # waterweed - Cure (TV Size)

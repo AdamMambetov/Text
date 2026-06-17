@@ -1,18 +1,16 @@
 ---
-Album: "[[Van Helsing OST (📀 26)]]"
-Creators:
-  - "[[Alan Silvestri (🎙️ 162)]]"
-Cover: "[[Van Helsing.jpg]]"
-NumberInAlbum: 8
-SourceFile: "[[Van Helsing OST - Transylvanian Horses.mp3]]"
-Year: 2004
-aliases:
-  - Transylvanian Horses
 created: 2023-09-29T16:24:40+03:00
-source: ""
-related: []
-ListenInSec: 239
+aliases: [Transylvanian Horses]
+Cover: "[[Van Helsing.jpg]]"
+Year: 2004
+Album: "[[Van Helsing OST (📀 26)]]"
 CoverOf: ""
+Creators: ["[[Alan Silvestri (🎙️ 162)]]"]
+ListenInSec: 239
+NumberInAlbum: 8
+related: []
+source: ""
+SourceFile: "[[Van Helsing OST - Transylvanian Horses.mp3]]"
 ---
 
 # Van Helsing OST - Transylvanian Horses

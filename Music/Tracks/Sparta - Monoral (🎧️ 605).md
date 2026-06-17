@@ -1,18 +1,16 @@
 ---
 created: 2023-07-09T18:50:24+03:00
-aliases:
-  - Sparta
+aliases: [Sparta]
 Cover: ""
 Year: 2007
 Album: "[[Turbulence (International)]]"
-Creators:
-  - "[[Monoral (🎙️ 164)]]"
+CoverOf: ""
+Creators: ["[[Monoral (🎙️ 164)]]"]
+ListenInSec: 2
 NumberInAlbum: 1
+related: []
 source: ""
 SourceFile: "[[Monoral - Sparta.mp3]]"
-related: []
-ListenInSec: 2
-CoverOf: ""
 ---
 
 # Monoral - Sparta

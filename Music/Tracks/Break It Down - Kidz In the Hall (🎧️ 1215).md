@@ -1,17 +1,16 @@
 ---
-Album: "[[Occasion]]"
-Creators: []
-Cover: ""
-NumberInAlbum: 3
-SourceFile: "[[Kidz In The Hall - Break It Down.mp3]]"
-Year: 2011
-aliases:
-  - Break It Down
 created: 2024-10-13T22:31:52+03:00
-source: ""
-related: []
-ListenInSec: 553
+aliases: [Break It Down]
+Cover: ""
+Year: 2011
+Album: "[[Occasion]]"
 CoverOf: ""
+Creators: []
+ListenInSec: 553
+NumberInAlbum: 3
+related: []
+source: ""
+SourceFile: "[[Kidz In The Hall - Break It Down.mp3]]"
 ---
 
 # Kidz In The Hall - Break It Down

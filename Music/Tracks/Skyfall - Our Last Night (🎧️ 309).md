@@ -1,18 +1,16 @@
 ---
-Album: "[[Age Of Ignorance [2012] {Our Last Night}]]"
-Creators:
-  - "[[Our Last Night (🎙️ 493)]]"
-Cover: ""
-NumberInAlbum: 13
-SourceFile: "[[Our Last Night - Skyfall.mp3]]"
-Year: 2012
-aliases:
-  - Skyfall
 created: 2022-04-26T00:59:04+03:00
-source: ""
-related: []
-ListenInSec: 2
+aliases: [Skyfall]
+Cover: ""
+Year: 2012
+Album: "[[Age Of Ignorance [2012] {Our Last Night}]]"
 CoverOf: ""
+Creators: ["[[Our Last Night (🎙️ 493)]]"]
+ListenInSec: 2
+NumberInAlbum: 13
+related: []
+source: ""
+SourceFile: "[[Our Last Night - Skyfall.mp3]]"
 ---
 
 # Our Last Night - Skyfall

@@ -1,18 +1,16 @@
 ---
-Album: "[[Новый альбом]]"
-Creators:
-  - "[[Noize MC (🎙️ 78)]]"
-Cover: ""
-NumberInAlbum: 8
-SourceFile: "[[Noize MC - Сам.mp3]]"
-Year: 2012
-aliases:
-  - Сам
 created: 2022-04-28T01:59:38+03:00
-source: ""
-related: []
-ListenInSec: 244
+aliases: [Сам]
+Cover: ""
+Year: 2012
+Album: "[[Новый альбом]]"
 CoverOf: ""
+Creators: ["[[Noize MC (🎙️ 78)]]"]
+ListenInSec: 244
+NumberInAlbum: 8
+related: []
+source: ""
+SourceFile: "[[Noize MC - Сам.mp3]]"
 ---
 
 # Noize MC - Сам

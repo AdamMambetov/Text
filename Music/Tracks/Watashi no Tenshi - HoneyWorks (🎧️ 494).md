@@ -1,18 +1,16 @@
 ---
-Album: ""
-Creators:
-  - "[[HoneyWorks (🎙️ 259)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 0
-SourceFile: "[[HoneyWorks - Watashi no Tenshi.mp3]]"
-Year: 0
-aliases:
-  - Watashi no Tenshi
 created: 2022-10-05T14:07:26+03:00
-source: ""
-related: []
-ListenInSec: 45
+aliases: [Watashi no Tenshi]
+Cover: "[[_No Album Art.jpg]]"
+Year: 0
+Album: ""
 CoverOf: ""
+Creators: ["[[HoneyWorks (🎙️ 259)]]"]
+ListenInSec: 45
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[HoneyWorks - Watashi no Tenshi.mp3]]"
 ---
 
 # Watashi no Tenshi

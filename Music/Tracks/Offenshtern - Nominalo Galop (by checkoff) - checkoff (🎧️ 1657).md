@@ -1,17 +1,15 @@
 ---
-SourceFile: "[[checkoff - Nominalo Galop (INFERNAL GALOP, NOMINALO Mashup).mp3]]"
+created: 2025-05-04T02:12:54+03:00
+aliases: [Offenshtern - Nominalo Galop (by checkoff)]
+Cover: ""
 Year: 2021
 Album: ""
-aliases:
-  - Offenshtern - Nominalo Galop (by checkoff)
-created: 2025-05-04T02:12:54+03:00
-Creators:
-  - "[[checkoff (🎙️ 257)]]"
-Cover: ""
+CoverOf: ""
+Creators: ["[[checkoff (🎙️ 257)]]"]
+ListenInSec: 707
 NumberInAlbum: 0
 related: []
-ListenInSec: 707
-CoverOf: ""
+SourceFile: "[[checkoff - Nominalo Galop (INFERNAL GALOP, NOMINALO Mashup).mp3]]"
 ---
 
 # checkoff - Nominalo Galop (INFERNAL GALOP, NOMINALO Mashup)

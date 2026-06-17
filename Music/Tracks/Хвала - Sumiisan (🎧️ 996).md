@@ -1,18 +1,16 @@
 ---
-Album: "[[Umineko no Naku Koro ni OST (📀 30)]]"
-Creators:
-  - "[[Sumiisan (🎙️ 2)]]"
-Cover: ""
-NumberInAlbum: 21
-SourceFile: "[[Umineko no Naku Koro ni OST - 021 Хвала.ogg]]"
-Year: 2007
-aliases:
-  - Хвала
 created: 2024-04-12T15:04:06+03:00
-source: ""
-related: []
-ListenInSec: 301
+aliases: [Хвала]
+Cover: ""
+Year: 2007
+Album: "[[Umineko no Naku Koro ni OST (📀 30)]]"
 CoverOf: ""
+Creators: ["[[Sumiisan (🎙️ 2)]]"]
+ListenInSec: 301
+NumberInAlbum: 21
+related: []
+source: ""
+SourceFile: "[[Umineko no Naku Koro ni OST - 021 Хвала.ogg]]"
 ---
 
 # Umineko no Naku Koro ni OST - 021 Хвала

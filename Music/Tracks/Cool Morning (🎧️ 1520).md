@@ -1,17 +1,16 @@
 ---
-Album: ""
-Creators: []
-Cover: ""
-NumberInAlbum: 1
-SourceFile: "[[Danganrnopa V3 OST White - 18 Cool Morning.mp3]]"
-Year: 0
-aliases:
-  - Cool Morning
 created: 2025-01-08T17:21:37+03:00
-source: ""
-related: []
-ListenInSec: 406
+aliases: [Cool Morning]
+Cover: ""
+Year: 0
+Album: ""
 CoverOf: ""
+Creators: []
+ListenInSec: 406
+NumberInAlbum: 1
+related: []
+source: ""
+SourceFile: "[[Danganrnopa V3 OST White - 18 Cool Morning.mp3]]"
 ---
 
 # Danganrnopa V3 OST White - 18 Cool Morning

@@ -1,18 +1,16 @@
 ---
-Album: "[[The Truth Is...]]"
-Creators:
-  - "[[Theory Of A Deadman (🎙️ 466)]]"
-Cover: ""
-NumberInAlbum: 2
-SourceFile: "[[Theory Of A Deadman - Bitch Came Back.mp3]]"
-Year: 2011
-aliases:
-  - Bitch Came Back
 created: 2024-10-10T23:00:22+03:00
-source: ""
-related: []
-ListenInSec: 221
+aliases: [Bitch Came Back]
+Cover: ""
+Year: 2011
+Album: "[[The Truth Is...]]"
 CoverOf: ""
+Creators: ["[[Theory Of A Deadman (🎙️ 466)]]"]
+ListenInSec: 221
+NumberInAlbum: 2
+related: []
+source: ""
+SourceFile: "[[Theory Of A Deadman - Bitch Came Back.mp3]]"
 ---
 
 # Theory Of A Deadman - Bitch Came Back

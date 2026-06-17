@@ -1,18 +1,16 @@
 ---
-Album: ""
-Creators:
-  - "[[Will Stetson (🎙️ 481)]]"
-Cover: ""
-NumberInAlbum: 1
-SourceFile: "[[Will Stetson - Sacrifice.mp3]]"
-Year: 2017
-aliases:
-  - Sacrifice
 created: 2024-01-03T00:07:28+03:00
-source: ""
-related: []
-ListenInSec: 500
+aliases: [Sacrifice]
+Cover: ""
+Year: 2017
+Album: ""
 CoverOf: "[[Sacrifice - 9mm Parabellum Bullet (🎧️ 861)]]"
+Creators: ["[[Will Stetson (🎙️ 481)]]"]
+ListenInSec: 500
+NumberInAlbum: 1
+related: []
+source: ""
+SourceFile: "[[Will Stetson - Sacrifice.mp3]]"
 ---
 
 # Will Stetson - Sacrifice

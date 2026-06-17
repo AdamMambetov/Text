@@ -1,18 +1,16 @@
 ---
-Album: "[[Scarecrow]]"
-Creators:
-  - "[[Citizen Soldier (🎙️ 262)]]"
-Cover: ""
-NumberInAlbum: 1
-SourceFile: "[[Citizen Soldier - Monster Made of Memories.mp3]]"
-Year: 2022
-aliases:
-  - Monster Made of Memories
 created: 2024-10-23T13:20:48+03:00
-source: ""
-related: []
-ListenInSec: 42
+aliases: [Monster Made of Memories]
+Cover: ""
+Year: 2022
+Album: "[[Scarecrow]]"
 CoverOf: ""
+Creators: ["[[Citizen Soldier (🎙️ 262)]]"]
+ListenInSec: 42
+NumberInAlbum: 1
+related: []
+source: ""
+SourceFile: "[[Citizen Soldier - Monster Made of Memories.mp3]]"
 ---
 
 # Citizen Soldier - Monster Made of Memories

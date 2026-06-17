@@ -1,18 +1,16 @@
 ---
-Album: "[[Van Helsing OST (📀 26)]]"
-Creators:
-  - "[[Alan Silvestri (🎙️ 162)]]"
-Cover: "[[Van Helsing.jpg]]"
-NumberInAlbum: 3
-SourceFile: "[[Van Helsing OST - Werewolf Trap.mp3]]"
-Year: 2004
-aliases:
-  - Werewolf Trap
 created: 2023-09-29T16:24:57+03:00
-source: ""
-related: []
-ListenInSec: 116
+aliases: [Werewolf Trap]
+Cover: "[[Van Helsing.jpg]]"
+Year: 2004
+Album: "[[Van Helsing OST (📀 26)]]"
 CoverOf: ""
+Creators: ["[[Alan Silvestri (🎙️ 162)]]"]
+ListenInSec: 116
+NumberInAlbum: 3
+related: []
+source: ""
+SourceFile: "[[Van Helsing OST - Werewolf Trap.mp3]]"
 ---
 
 # Van Helsing OST - Werewolf Trap

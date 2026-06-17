@@ -1,18 +1,16 @@
 ---
-Album: "[[Vale]]"
-Creators:
-  - "[[Black Veil Brides (🎙️ 224)]]"
-Cover: ""
-NumberInAlbum: 3
-SourceFile: "[[Black Veil Brides - Wake Up.mp3]]"
-Year: 2018
-aliases:
-  - Wake Up
 created: 2023-09-29T16:24:49+03:00
-source: ""
-related: []
-ListenInSec: 160
+aliases: [Wake Up]
+Cover: ""
+Year: 2018
+Album: "[[Vale]]"
 CoverOf: ""
+Creators: ["[[Black Veil Brides (🎙️ 224)]]"]
+ListenInSec: 160
+NumberInAlbum: 3
+related: []
+source: ""
+SourceFile: "[[Black Veil Brides - Wake Up.mp3]]"
 ---
 
 # Black Veil Brides - Wake Up

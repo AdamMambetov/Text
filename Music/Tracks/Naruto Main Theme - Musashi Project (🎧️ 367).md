@@ -1,18 +1,16 @@
 ---
-Album: "[[Naruto OST 1 (📀 15)]]"
-Creators:
-  - "[[Musashi Project (🎙️ 560)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 21
-SourceFile: "[[Naruto OST - Naruto Main Theme.mp3]]"
-Year: 2003
-aliases:
-  - Naruto Main Theme
 created: 2022-04-28T17:39:42+03:00
-source:
-related: []
-ListenInSec: 263
+aliases: [Naruto Main Theme]
+Cover: "[[_No Album Art.jpg]]"
+Year: 2003
+Album: "[[Naruto OST 1 (📀 15)]]"
 CoverOf: ""
+Creators: ["[[Musashi Project (🎙️ 560)]]"]
+ListenInSec: 263
+NumberInAlbum: 21
+related: []
+source:
+SourceFile: "[[Naruto OST - Naruto Main Theme.mp3]]"
 ---
 
 # Naruto OST - Naruto Main Theme

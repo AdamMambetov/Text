@@ -1,18 +1,16 @@
 ---
-Album: "[[American Beauty/American Psycho [2015] {Fall Out Boy}]]"
-Creators:
-  - "[[Fall Out Boy (🎙️ 306)]]"
-Cover: ""
-NumberInAlbum: 11
-SourceFile: "[[Fall Out Boy - Twin Skeleton's (Hotel In NYC).mp3]]"
-Year: 2015
-aliases:
-  - Twin Skeleton's (Hotel In NYC)
 created: 2022-04-26T01:13:30+03:00
-source: ""
-related: []
-ListenInSec: 431
+aliases: ["Twin Skeleton's (Hotel In NYC)"]
+Cover: ""
+Year: 2015
+Album: "[[American Beauty/American Psycho [2015] {Fall Out Boy}]]"
 CoverOf: ""
+Creators: ["[[Fall Out Boy (🎙️ 306)]]"]
+ListenInSec: 431
+NumberInAlbum: 11
+related: []
+source: ""
+SourceFile: "[[Fall Out Boy - Twin Skeleton's (Hotel In NYC).mp3]]"
 ---
 
 # Fall Out Boy - Twin Skeleton's (Hotel In NYC)

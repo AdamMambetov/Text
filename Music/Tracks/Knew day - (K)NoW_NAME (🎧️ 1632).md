@@ -1,18 +1,16 @@
 ---
 created: 2025-02-03T08:18:16+03:00
-aliases:
-  - Knew day
+aliases: [Knew day]
 Cover: ""
 Year: 2016
-Creators:
-  - "[[(K)NoW_NAME (🎙️ 35)]]"
+Album: ""
+CoverOf: ""
+Creators: ["[[(K)NoW_NAME (🎙️ 35)]]"]
 ListenInSec: 682
+NumberInAlbum: 0
+related: []
 source: ""
 SourceFile: "[[(K)NoW_NAME - Knew day.mp3]]"
-related: []
-Album: ""
-NumberInAlbum: 0
-CoverOf: ""
 ---
 
 # (K)NoW_NAME - Knew day

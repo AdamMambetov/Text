@@ -1,18 +1,16 @@
 ---
-Album: "[[Naruto OST 1 (📀 15)]]"
-Creators:
-  - "[[Musashi Project (🎙️ 560)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 6
-SourceFile: "[[Naruto OST - Nervous.mp3]]"
-Year: 2003
-aliases:
-  - Nervous
 created: 2022-04-28T17:39:04+03:00
-source:
-related: []
-ListenInSec: 7
+aliases: [Nervous]
+Cover: "[[_No Album Art.jpg]]"
+Year: 2003
+Album: "[[Naruto OST 1 (📀 15)]]"
 CoverOf: ""
+Creators: ["[[Musashi Project (🎙️ 560)]]"]
+ListenInSec: 7
+NumberInAlbum: 6
+related: []
+source:
+SourceFile: "[[Naruto OST - Nervous.mp3]]"
 ---
 
 # Naruto OST - Nervous

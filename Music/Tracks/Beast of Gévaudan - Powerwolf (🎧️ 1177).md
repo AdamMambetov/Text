@@ -1,18 +1,16 @@
 ---
-Album: "[[Call of the Wild]]"
-Creators:
-  - "[[Powerwolf (🎙️ 418)]]"
-Cover: ""
-NumberInAlbum: 2
-SourceFile: "[[Powerwolf - Beast of Gevaudan.mp3]]"
-Year: 2021
-aliases:
-  - Beast of Gévaudan
 created: 2024-10-10T22:54:36+03:00
-source: ""
-related: []
-ListenInSec: 206
+aliases: [Beast of Gévaudan]
+Cover: ""
+Year: 2021
+Album: "[[Call of the Wild]]"
 CoverOf: ""
+Creators: ["[[Powerwolf (🎙️ 418)]]"]
+ListenInSec: 206
+NumberInAlbum: 2
+related: []
+source: ""
+SourceFile: "[[Powerwolf - Beast of Gevaudan.mp3]]"
 ---
 
 # Powerwolf - Beast of Gevaudan

@@ -1,18 +1,16 @@
 ---
-Album: "[[Dystopia Lane]]"
-Creators:
-  - "[[Blowsight (🎙️ 230)]]"
-Cover: ""
-NumberInAlbum: 13
-SourceFile: "[[Blowsight - Poker Face.mp3]]"
-Year: 2010
-aliases:
-  - Poker Face
 created: 2023-09-29T16:24:06+03:00
-source: ""
-related: []
-ListenInSec: 393
+aliases: [Poker Face]
+Cover: ""
+Year: 2010
+Album: "[[Dystopia Lane]]"
 CoverOf: ""
+Creators: ["[[Blowsight (🎙️ 230)]]"]
+ListenInSec: 393
+NumberInAlbum: 13
+related: []
+source: ""
+SourceFile: "[[Blowsight - Poker Face.mp3]]"
 ---
 
 # Blowsight - Poker Face

@@ -1,18 +1,16 @@
 ---
-Album: "[[Rise]]"
-Creators:
-  - "[[Skillet (🎙️ 440)]]"
-Cover: ""
-NumberInAlbum: 5
-SourceFile: "[[Skillet - Circus for a Psycho.mp3]]"
-Year: 2013
-aliases:
-  - Circus for a Psycho
 created: 2024-10-13T22:50:12+03:00
-source: ""
-related: []
-ListenInSec: 3
+aliases: [Circus for a Psycho]
+Cover: ""
+Year: 2013
+Album: "[[Rise]]"
 CoverOf: ""
+Creators: ["[[Skillet (🎙️ 440)]]"]
+ListenInSec: 3
+NumberInAlbum: 5
+related: []
+source: ""
+SourceFile: "[[Skillet - Circus for a Psycho.mp3]]"
 ---
 
 # Skillet - Circus for a Psycho

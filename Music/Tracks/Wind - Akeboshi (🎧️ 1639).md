@@ -1,18 +1,16 @@
 ---
-Album: "[[Akeboshi]]"
-Creators:
-  - "[[Akeboshi (🎙️ 152)]]"
-Cover: ""
-NumberInAlbum: 1
-SourceFile: "[[Akeboshi - Wind.mp3]]"
-Year: 2005
-aliases:
-  - Wind
 created: 2025-02-03T08:28:50+03:00
-source: ""
-related: []
-ListenInSec: 911
+aliases: [Wind]
+Cover: ""
+Year: 2005
+Album: "[[Akeboshi]]"
 CoverOf: ""
+Creators: ["[[Akeboshi (🎙️ 152)]]"]
+ListenInSec: 911
+NumberInAlbum: 1
+related: []
+source: ""
+SourceFile: "[[Akeboshi - Wind.mp3]]"
 ---
 
 # Akeboshi - Wind

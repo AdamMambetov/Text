@@ -1,18 +1,16 @@
 ---
-Album: "[[We Are The '80s [2006] {The Bangles}]]"
-Creators:
-  - "[[The Bangles (🎙️ 534)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 3
-SourceFile: "[[The Bangles - Walk Like an Egyptian.mp3]]"
-Year: 2006
-aliases:
-  - Walk Like an Egyptian
 created: 2022-04-22T21:39:10+03:00
-source:
-related: []
-ListenInSec: 512
+aliases: [Walk Like an Egyptian]
+Cover: "[[_No Album Art.jpg]]"
+Year: 2006
+Album: "[[We Are The '80s [2006] {The Bangles}]]"
 CoverOf: ""
+Creators: ["[[The Bangles (🎙️ 534)]]"]
+ListenInSec: 512
+NumberInAlbum: 3
+related: []
+source:
+SourceFile: "[[The Bangles - Walk Like an Egyptian.mp3]]"
 ---
 
 # The Bangles - Walk Like an Egyptian

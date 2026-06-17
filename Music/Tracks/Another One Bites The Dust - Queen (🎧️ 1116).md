@@ -1,18 +1,16 @@
 ---
-Album: ""
-Creators:
-  - "[[Queen (🎙️ 420)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 0
-SourceFile: "[[Queen - Another One Bites The Dust.mp3]]"
-Year: 0
-aliases:
-  - Another One Bites The Dust
 created: 2024-10-05T14:49:26+03:00
-source: ""
-related: []
-ListenInSec: 1702
+aliases: [Another One Bites The Dust]
+Cover: "[[_No Album Art.jpg]]"
+Year: 0
+Album: ""
 CoverOf: ""
+Creators: ["[[Queen (🎙️ 420)]]"]
+ListenInSec: 1702
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[Queen - Another One Bites The Dust.mp3]]"
 ---
 
 # Queen - Another One Bites The Dust

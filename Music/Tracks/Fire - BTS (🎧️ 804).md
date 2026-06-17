@@ -1,18 +1,16 @@
 ---
-Album: "[[The Most Beautiful Moment in Life: Young Forever]]"
-Creators:
-  - "[[BTS (🎙️ 241)]]"
-Cover: ""
-NumberInAlbum: 10
-SourceFile: "[[BTS - Fire.mp3]]"
-Year: 2016
-aliases:
-  - Fire
 created: 2023-09-29T16:23:20+03:00
-source: ""
-related: []
-ListenInSec: 409
+aliases: [Fire]
+Cover: ""
+Year: 2016
+Album: "[[The Most Beautiful Moment in Life: Young Forever]]"
 CoverOf: ""
+Creators: ["[[BTS (🎙️ 241)]]"]
+ListenInSec: 409
+NumberInAlbum: 10
+related: []
+source: ""
+SourceFile: "[[BTS - Fire.mp3]]"
 ---
 
 # BTS - Fire

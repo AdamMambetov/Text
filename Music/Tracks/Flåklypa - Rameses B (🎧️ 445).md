@@ -1,19 +1,16 @@
 ---
-Album: ""
-Creators:
-  - "[[Rameses B (🎙️ 423)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 0
-SourceFile: "[[Rameses B - Flaklypa.mp3]]"
-Year: 2013
-aliases:
-  - Flåklypa
-  - Flaklypa
 created: 2022-10-05T13:24:34+03:00
-source: ""
-related: []
-ListenInSec: 1567
+aliases: [Flåklypa, Flaklypa]
+Cover: "[[_No Album Art.jpg]]"
+Year: 2013
+Album: ""
 CoverOf: ""
+Creators: ["[[Rameses B (🎙️ 423)]]"]
+ListenInSec: 1567
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[Rameses B - Flaklypa.mp3]]"
 ---
 
 # Rameses B - Flaklypa

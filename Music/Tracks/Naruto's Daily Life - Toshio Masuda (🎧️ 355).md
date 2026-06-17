@@ -1,18 +1,16 @@
 ---
-Album: "[[Naruto OST 1 (📀 15)]]"
-Creators:
-  - "[[Toshio Masuda (🎙️ 559)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 5
-SourceFile: "[[Naruto OST - Naruto's Daily Life.mp3]]"
-Year: 2003
-aliases:
-  - Naruto's Daily Life
 created: 2022-04-28T17:39:02+03:00
-source:
-related: []
-ListenInSec: 414
+aliases: ["Naruto's Daily Life"]
+Cover: "[[_No Album Art.jpg]]"
+Year: 2003
+Album: "[[Naruto OST 1 (📀 15)]]"
 CoverOf: ""
+Creators: ["[[Toshio Masuda (🎙️ 559)]]"]
+ListenInSec: 414
+NumberInAlbum: 5
+related: []
+source:
+SourceFile: "[[Naruto OST - Naruto's Daily Life.mp3]]"
 ---
 
 # Naruto OST - Naruto's Daily Life

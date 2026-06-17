@@ -1,18 +1,16 @@
 ---
-Album: "[[UNDERTALE Soundtrack]]"
-Creators:
-  - "[[Toby Fox (🎙️ 565)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 100
-SourceFile: "[[Toby Fox - MEGALOVANIA.mp3]]"
-Year: 2015
-aliases:
-  - MEGALOVANIA
 created: 2022-05-02T03:29:18+03:00
-source:
-related: []
-ListenInSec: 147
+aliases: [MEGALOVANIA]
+Cover: "[[_No Album Art.jpg]]"
+Year: 2015
+Album: "[[UNDERTALE Soundtrack]]"
 CoverOf: ""
+Creators: ["[[Toby Fox (🎙️ 565)]]"]
+ListenInSec: 147
+NumberInAlbum: 100
+related: []
+source:
+SourceFile: "[[Toby Fox - MEGALOVANIA.mp3]]"
 ---
 
 # Toby Fox - MEGALOVANIA

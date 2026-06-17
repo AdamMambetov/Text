@@ -1,18 +1,16 @@
 ---
-Album: ""
-Creators:
-  - "[[Ryan Star (🎙️ 528)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 0
-SourceFile: "[[Ryan Star - Start a Fire.mp3]]"
-Year: 2010
-aliases:
-  - Start a Fire
 created: 2022-04-22T21:29:04+03:00
-source: ""
-related: []
-ListenInSec: 1
+aliases: [Start a Fire]
+Cover: "[[_No Album Art.jpg]]"
+Year: 2010
+Album: ""
 CoverOf: ""
+Creators: ["[[Ryan Star (🎙️ 528)]]"]
+ListenInSec: 1
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[Ryan Star - Start a Fire.mp3]]"
 ---
 
 # Ryan Star - Start a Fire

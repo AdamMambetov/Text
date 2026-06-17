@@ -1,16 +1,16 @@
 ---
-Album: ""
-Creators: []
-Cover: ""
-NumberInAlbum: 1
-SourceFile: "[[ULTRA TOWER - Kibou no Uta.mp3]]"
-Year: 0
-aliases: []
 created: 2025-01-08T18:09:51+03:00
-source: ""
-related: []
-ListenInSec: 5
+aliases: []
+Cover: ""
+Year: 0
+Album: ""
 CoverOf: ""
+Creators: []
+ListenInSec: 5
+NumberInAlbum: 1
+related: []
+source: ""
+SourceFile: "[[ULTRA TOWER - Kibou no Uta.mp3]]"
 ---
 
 # ULTRA TOWER - Kibou no Uta

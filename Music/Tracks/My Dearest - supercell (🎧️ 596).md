@@ -1,21 +1,16 @@
 ---
-Album: ""
-Creators:
-  - "[[supercell (🎙️ 59)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 0
-SourceFile: "[[supercell - My Dearest.mp3]]"
-Year: 0
-aliases:
-  - My Dearest
-  - Guilty Crown OP 1
-  - Корона грешника OP 1
 created: 2023-07-09T18:39:36+03:00
-source: ""
-related:
-  - "[[My Dearest (TV Size) - supercell]]"
-ListenInSec: 1792
+aliases: [My Dearest, Guilty Crown OP 1, Корона грешника OP 1]
+Cover: "[[_No Album Art.jpg]]"
+Year: 0
+Album: ""
 CoverOf: ""
+Creators: ["[[supercell (🎙️ 59)]]"]
+ListenInSec: 1792
+NumberInAlbum: 0
+related: ["[[My Dearest (TV Size) - supercell]]"]
+source: ""
+SourceFile: "[[supercell - My Dearest.mp3]]"
 ---
 
 # supercell - My Dearest

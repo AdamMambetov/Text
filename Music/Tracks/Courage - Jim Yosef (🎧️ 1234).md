@@ -1,19 +1,16 @@
 ---
-Album: ""
-Creators:
-  - "[[Jim Yosef (🎙️ 685)]]"
-  - "[[Anna Yvette (🎙️ 184)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 0
-SourceFile: "[[Jim Yosef - Courage.mp3]]"
-Year: 2017
-aliases:
-  - Courage
 created: 2024-10-13T23:05:14+03:00
-source: ""
-related: []
-ListenInSec: 228
+aliases: [Courage]
+Cover: "[[_No Album Art.jpg]]"
+Year: 2017
+Album: ""
 CoverOf: ""
+Creators: ["[[Jim Yosef (🎙️ 685)]]", "[[Anna Yvette (🎙️ 184)]]"]
+ListenInSec: 228
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[Jim Yosef - Courage.mp3]]"
 ---
 
 # Jim Yosef - Courage

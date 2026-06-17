@@ -1,19 +1,16 @@
 ---
-Album: ""
-Creators:
-  - "[[Tristam (🎙️ 715)]]"
-  - "[[Braken (🎙️ 237)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 0
-SourceFile: "[[Tristam - Frame of Mind.mp3]]"
-Year: 2014
-aliases:
-  - Frame of Mind
 created: 2022-04-22T21:49:34+03:00
-source: ""
-related: []
-ListenInSec: 281
+aliases: [Frame of Mind]
+Cover: "[[_No Album Art.jpg]]"
+Year: 2014
+Album: ""
 CoverOf: ""
+Creators: ["[[Tristam (🎙️ 715)]]", "[[Braken (🎙️ 237)]]"]
+ListenInSec: 281
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[Tristam - Frame of Mind.mp3]]"
 ---
 
 # Tristam - Frame of Mind

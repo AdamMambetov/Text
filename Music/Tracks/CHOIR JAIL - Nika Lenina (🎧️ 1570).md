@@ -1,22 +1,16 @@
 ---
-Album: ""
-Creators:
-  - "[[Nika Lenina (🎙️ 45)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 0
-SourceFile: "[[Nika Lenina - CHOIR JAIL.mp3]]"
-Year: 0
-aliases:
-  - CHOIR JAIL
-  - Tasogare Otome x Amnesia OP 1
-  - Сумеречная дева и амнезия OP 1
-  - Амнезия сумеречной девы OP 1
 created: 2025-01-08T19:54:10+03:00
-source: ""
-related:
-  - "[[CHOIR JAIL (TV Size) - Nika Lenina (🎧️ 1571)]]"
-ListenInSec: 1394
+aliases: [CHOIR JAIL, Tasogare Otome x Amnesia OP 1, Сумеречная дева и амнезия OP 1, Амнезия сумеречной девы OP 1]
+Cover: "[[_No Album Art.jpg]]"
+Year: 0
+Album: ""
 CoverOf: "[[CHOIR JAIL - Konomi Suzuki (🎧️ 1572)]]"
+Creators: ["[[Nika Lenina (🎙️ 45)]]"]
+ListenInSec: 1394
+NumberInAlbum: 0
+related: ["[[CHOIR JAIL (TV Size) - Nika Lenina (🎧️ 1571)]]"]
+source: ""
+SourceFile: "[[Nika Lenina - CHOIR JAIL.mp3]]"
 ---
 
 # Nika Lenina - CHOIR JAIL

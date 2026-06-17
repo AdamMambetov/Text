@@ -1,17 +1,16 @@
 ---
-Album: ""
-Creators: []
-Cover: ""
-NumberInAlbum: 1
-SourceFile: "[[Over the Garden Wall OST - 38 Two Old Cat.mp3]]"
-Year: 0
-aliases:
-  - Two Old Cat
 created: 2025-01-07T20:10:26+03:00
-source: ""
-related: []
-ListenInSec: 435
+aliases: [Two Old Cat]
+Cover: ""
+Year: 0
+Album: ""
 CoverOf: ""
+Creators: []
+ListenInSec: 435
+NumberInAlbum: 1
+related: []
+source: ""
+SourceFile: "[[Over the Garden Wall OST - 38 Two Old Cat.mp3]]"
 ---
 
 # Over the Garden Wall OST - 38 Two Old Cat

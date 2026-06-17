@@ -1,18 +1,16 @@
 ---
-Album: "[[Naruto OST 1 (📀 15)]]"
-Creators:
-  - "[[Musashi Project (🎙️ 560)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 14
-SourceFile: "[[Naruto OST - Evening.mp3]]"
-Year: 2003
-aliases:
-  - Evening
 created: 2022-04-28T17:39:20+03:00
-source:
-related: []
-ListenInSec: 112
+aliases: [Evening]
+Cover: "[[_No Album Art.jpg]]"
+Year: 2003
+Album: "[[Naruto OST 1 (📀 15)]]"
 CoverOf: ""
+Creators: ["[[Musashi Project (🎙️ 560)]]"]
+ListenInSec: 112
+NumberInAlbum: 14
+related: []
+source:
+SourceFile: "[[Naruto OST - Evening.mp3]]"
 ---
 
 # Naruto OST - Evening

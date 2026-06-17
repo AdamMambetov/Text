@@ -1,17 +1,16 @@
 ---
-Album: ""
-Creators: []
-Cover: ""
-NumberInAlbum: 1
-SourceFile: "[[Danganrnopa OST - 1-26- Beautiful Morning.mp3]]"
-Year: 0
-aliases:
-  - Beautiful Morning
 created: 2025-01-08T16:55:29+03:00
-source: ""
-related: []
-ListenInSec: 468
+aliases: [Beautiful Morning]
+Cover: ""
+Year: 0
+Album: ""
 CoverOf: ""
+Creators: []
+ListenInSec: 468
+NumberInAlbum: 1
+related: []
+source: ""
+SourceFile: "[[Danganrnopa OST - 1-26- Beautiful Morning.mp3]]"
 ---
 
 # Danganrnopa OST - 1-26- Beautiful Morning

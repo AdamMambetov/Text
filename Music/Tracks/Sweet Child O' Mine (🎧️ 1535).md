@@ -1,16 +1,16 @@
 ---
-Album: ""
-Creators: []
-Cover: ""
-NumberInAlbum: 1
-SourceFile: "[[Dan Vasc - Sweet Child O' Mine.mp3]]"
-Year: 0
-aliases: []
 created: 2025-01-08T18:07:48+03:00
-source: ""
-related: []
-ListenInSec: 7
+aliases: []
+Cover: ""
+Year: 0
+Album: ""
 CoverOf: ""
+Creators: []
+ListenInSec: 7
+NumberInAlbum: 1
+related: []
+source: ""
+SourceFile: "[[Dan Vasc - Sweet Child O' Mine.mp3]]"
 ---
 
 # Dan Vasc - Sweet Child O' Mine

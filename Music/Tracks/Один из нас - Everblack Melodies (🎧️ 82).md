@@ -1,19 +1,16 @@
 ---
-Album: ""
-Creators:
-  - "[[Everblack Melodies (🎙️ 305)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 1
-SourceFile: "[[Everblack Melodies - Один из нас.mp3]]"
-Year: 2021
-aliases:
-  - Один из нас
-  - You're Going Down
 created: 2022-04-21T04:27:18+03:00
-source: ""
-related: []
-ListenInSec: 411
+aliases: [Один из нас, "You're Going Down"]
+Cover: "[[_No Album Art.jpg]]"
+Year: 2021
+Album: ""
 CoverOf: "[[You're Going Down - Sick Puppies (🎧️ 226)]]"
+Creators: ["[[Everblack Melodies (🎙️ 305)]]"]
+ListenInSec: 411
+NumberInAlbum: 1
+related: []
+source: ""
+SourceFile: "[[Everblack Melodies - Один из нас.mp3]]"
 ---
 
 # Everblack Melodies - Один из нас

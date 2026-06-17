@@ -1,18 +1,16 @@
 ---
-Album: "[[Waking Up]]"
-Creators:
-  - "[[OneRepublic (🎙️ 401)]]"
-Cover: ""
-NumberInAlbum: 4
-SourceFile: "[[OneRepublic - Everybody Loves Me.mp3]]"
-Year: 2009
-aliases:
-  - Everybody Loves Me
 created: 2024-10-23T15:02:34+03:00
-source: ""
-related: []
-ListenInSec: 215
+aliases: [Everybody Loves Me]
+Cover: ""
+Year: 2009
+Album: "[[Waking Up]]"
 CoverOf: ""
+Creators: ["[[OneRepublic (🎙️ 401)]]"]
+ListenInSec: 215
+NumberInAlbum: 4
+related: []
+source: ""
+SourceFile: "[[OneRepublic - Everybody Loves Me.mp3]]"
 ---
 
 # OneRepublic - Everybody Loves Me

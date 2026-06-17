@@ -1,20 +1,16 @@
 ---
 created: 2025-06-02T22:52:09+03:00
-aliases:
-  - Create 1 (Champ'd Up)
-  - Jackbox 7
-  - Create 1 (ГладиАРТоры)
+aliases: ["Create 1 (Champ'd Up)", Jackbox 7, Create 1 (ГладиАРТоры)]
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
-Creators:
-  - "[[Andy Poland (🎙️ 183)]]"
+CoverOf: ""
+Creators: ["[[Andy Poland (🎙️ 183)]]"]
+ListenInSec: 471
 NumberInAlbum: 0
+related: []
 source: ""
 SourceFile: "[[Champ'd Up OST - Create 1.mp3]]"
-related: []
-ListenInSec: 471
-CoverOf: ""
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

@@ -1,18 +1,16 @@
 ---
-Album: "[[Always Outnumbered, Never Outgunned [2004] {The Prodiigy}]]"
-Creators:
-  - "[[The Prodigy (🎙️ 461)]]"
-Cover: ""
-NumberInAlbum: 10
-SourceFile: "[[The Prodigy - You'll Be Under My Wheels.mp3]]"
-Year: 2004
-aliases:
-  - You'll Be Under My Wheels
 created: 2022-04-23T03:00:38+03:00
-source: ""
-related: []
-ListenInSec: 5
+aliases: ["You'll Be Under My Wheels"]
+Cover: ""
+Year: 2004
+Album: "[[Always Outnumbered, Never Outgunned [2004] {The Prodiigy}]]"
 CoverOf: ""
+Creators: ["[[The Prodigy (🎙️ 461)]]"]
+ListenInSec: 5
+NumberInAlbum: 10
+related: []
+source: ""
+SourceFile: "[[The Prodigy - You'll Be Under My Wheels.mp3]]"
 ---
 
 # The Prodigy - You'll Be Under My Wheels

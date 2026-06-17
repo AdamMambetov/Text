@@ -1,16 +1,15 @@
 ---
-SourceFile: "[[Metronome Senpai - Slipknot's Bizarre Adventure.mp3]]"
+created: 2025-05-04T02:29:30+03:00
+aliases: ["Slipknot's Bizarre Adventure"]
+Cover: ""
 Year: 2019
 Album: ""
-aliases:
-  - Slipknot's Bizarre Adventure
-created: 2025-05-04T02:29:30+03:00
+CoverOf: ""
 Creators: []
-Cover: ""
+ListenInSec: 297
 NumberInAlbum: 0
 related: []
-ListenInSec: 297
-CoverOf: ""
+SourceFile: "[[Metronome Senpai - Slipknot's Bizarre Adventure.mp3]]"
 ---
 
 # Metronome Senpai - Slipknot's Bizarre Adventure

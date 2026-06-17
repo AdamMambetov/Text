@@ -1,18 +1,16 @@
 ---
-Album: "[[Savages [2014] {Theory Of A Deadman}]]"
-Creators:
-  - "[[Theory Of A Deadman (🎙️ 466)]]"
-Cover: ""
-NumberInAlbum: 11
-SourceFile: "[[Theory Of A Deadman - World War Me.mp3]]"
-Year: 2014
-aliases:
-  - World War Me
 created: 2022-04-22T21:44:12+03:00
-source: ""
-related: []
-ListenInSec: 207
+aliases: [World War Me]
+Cover: ""
+Year: 2014
+Album: "[[Savages [2014] {Theory Of A Deadman}]]"
 CoverOf: ""
+Creators: ["[[Theory Of A Deadman (🎙️ 466)]]"]
+ListenInSec: 207
+NumberInAlbum: 11
+related: []
+source: ""
+SourceFile: "[[Theory Of A Deadman - World War Me.mp3]]"
 ---
 
 # Theory Of A Deadman - World War Me

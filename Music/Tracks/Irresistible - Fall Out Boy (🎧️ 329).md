@@ -1,18 +1,16 @@
 ---
-Album: "[[American Beauty/American Psycho [2015] {Fall Out Boy}]]"
-Creators:
-  - "[[Fall Out Boy (🎙️ 306)]]"
-Cover: ""
-NumberInAlbum: 1
-SourceFile: "[[Fall Out Boy - Irresistible.mp3]]"
-Year: 2015
-aliases:
-  - Irresistible
 created: 2022-04-26T19:57:32+03:00
-source: ""
-related: []
-ListenInSec: 6
+aliases: [Irresistible]
+Cover: ""
+Year: 2015
+Album: "[[American Beauty/American Psycho [2015] {Fall Out Boy}]]"
 CoverOf: ""
+Creators: ["[[Fall Out Boy (🎙️ 306)]]"]
+ListenInSec: 6
+NumberInAlbum: 1
+related: []
+source: ""
+SourceFile: "[[Fall Out Boy - Irresistible.mp3]]"
 ---
 
 # Fall Out Boy - Irresistible

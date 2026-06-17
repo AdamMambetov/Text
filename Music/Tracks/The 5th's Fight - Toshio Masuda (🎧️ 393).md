@@ -1,18 +1,16 @@
 ---
-Album: "[[Naruto OST 3 (📀 17)]]"
-Creators:
-  - "[[Toshio Masuda (🎙️ 559)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 21
-SourceFile: "[[Naruto OST - The 5th's Fight.mp3]]"
-Year: 2005
-aliases:
-  - The 5th's Fight
 created: 2022-04-28T17:53:42+03:00
-source: ""
-related: []
-ListenInSec: 35
+aliases: ["The 5th's Fight"]
+Cover: "[[_No Album Art.jpg]]"
+Year: 2005
+Album: "[[Naruto OST 3 (📀 17)]]"
 CoverOf: ""
+Creators: ["[[Toshio Masuda (🎙️ 559)]]"]
+ListenInSec: 35
+NumberInAlbum: 21
+related: []
+source: ""
+SourceFile: "[[Naruto OST - The 5th's Fight.mp3]]"
 ---
 
 # Naruto OST - The 5th's Fight

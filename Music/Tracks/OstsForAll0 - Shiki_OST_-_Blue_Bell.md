@@ -1,17 +1,16 @@
 ---
 created: 2025-11-14T03:44:56+03:00
-aliases:
-  - OstsForAll0 - Shiki_OST_-_Blue_Bell
+aliases: [OstsForAll0 - Shiki_OST_-_Blue_Bell]
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
+CoverOf: ""
 Creators: []
+ListenInSec: 625
 NumberInAlbum: 0
+related: []
 source: ""
 SourceFile: "[[OstsForAll0 - Shiki_OST_-_Blue_Bell.mp3]]"
-related: []
-ListenInSec: 625
-CoverOf: ""
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

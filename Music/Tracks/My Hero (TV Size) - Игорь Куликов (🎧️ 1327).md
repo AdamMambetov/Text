@@ -1,20 +1,16 @@
 ---
-Album: ""
-Creators:
-  - "[[Игорь Куликов (🎙️ 71)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 0
-SourceFile: "[[Игорь Куликов - My Hero (TV Size).mp3]]"
-Year: 2022
-aliases:
-  - My Hero (TV Size)
-  - Inuyashiki OP 1
-  - Инуяшики OP 1
 created: 2024-10-23T15:23:00+03:00
-source: ""
-related: []
-ListenInSec: 92
+aliases: [My Hero (TV Size), Inuyashiki OP 1, Инуяшики OP 1]
+Cover: "[[_No Album Art.jpg]]"
+Year: 2022
+Album: ""
 CoverOf: "[[My Hero (TV Size) - MAN WITH A MISSION]]"
+Creators: ["[[Игорь Куликов (🎙️ 71)]]"]
+ListenInSec: 92
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[Игорь Куликов - My Hero (TV Size).mp3]]"
 ---
 
 # Игорь Куликов - My Hero (TV Size)

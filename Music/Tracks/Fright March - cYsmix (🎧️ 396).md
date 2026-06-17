@@ -1,18 +1,16 @@
 ---
-Album: ""
-Creators:
-  - "[[cYsmix (🎙️ 272)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 0
-SourceFile: "[[cYsmix - Fright March.mp3]]"
-Year: 2015
-aliases:
-  - Fright March
 created: 2022-05-02T03:12:08+03:00
-source: ""
-related: []
-ListenInSec: 1773
+aliases: [Fright March]
+Cover: "[[_No Album Art.jpg]]"
+Year: 2015
+Album: ""
 CoverOf: ""
+Creators: ["[[cYsmix (🎙️ 272)]]"]
+ListenInSec: 1773
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[cYsmix - Fright March.mp3]]"
 ---
 
 # cYsmix - Fright March

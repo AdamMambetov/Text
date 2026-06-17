@@ -1,17 +1,16 @@
 ---
-Album: ""
-Creators: []
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 0
-SourceFile: "[[Elfen Lied OST - Lilium (Saint_version).mp3]]"
-Year: 2004
-aliases:
-  - Lilium - Saint version
 created: 2024-10-23T14:48:50+03:00
-source: ""
-related: []
-ListenInSec: 169
+aliases: [Lilium - Saint version]
+Cover: "[[_No Album Art.jpg]]"
+Year: 2004
+Album: ""
 CoverOf: ""
+Creators: []
+ListenInSec: 169
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[Elfen Lied OST - Lilium (Saint_version).mp3]]"
 ---
 
 # Elfen Lied OST - Lilium (Saint_version)

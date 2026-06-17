@@ -1,20 +1,16 @@
 ---
 created: 2025-12-13T16:27:09+03:00
-aliases:
-  - HIGHEST (TV Size)
-  - Восхождение в тени OP 1
+aliases: [HIGHEST (TV Size), Восхождение в тени OP 1]
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
-Creators:
-  - "[[OxT (🎙️ 651)]]"
+CoverOf: ""
+Creators: ["[[OxT (🎙️ 651)]]"]
+ListenInSec: 360
 NumberInAlbum: 0
+related: ["[[HIGHEST - OxT (🎧️ 590)]]"]
 source: ""
 SourceFile: "[[OxT - HIGHEST (TV Size).mp3]]"
-related:
-  - "[[HIGHEST - OxT (🎧️ 590)]]"
-ListenInSec: 360
-CoverOf: ""
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

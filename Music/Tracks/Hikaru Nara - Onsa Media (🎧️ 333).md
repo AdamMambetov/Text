@@ -1,18 +1,16 @@
 ---
-Album: "[[Hikaru Nara]]"
-Creators:
-  - "[[Onsa Media (🎙️ 402)]]"
-Cover: ""
-NumberInAlbum: 1
-SourceFile: "[[Onsa Media - Hikaru Nara.mp3]]"
-Year: 2022
-aliases:
-  - Hikaru Nara
 created: 2022-04-28T01:59:06+03:00
-source: ""
-related: []
-ListenInSec: 505
+aliases: [Hikaru Nara]
+Cover: ""
+Year: 2022
+Album: "[[Hikaru Nara]]"
 CoverOf: ""
+Creators: ["[[Onsa Media (🎙️ 402)]]"]
+ListenInSec: 505
+NumberInAlbum: 1
+related: []
+source: ""
+SourceFile: "[[Onsa Media - Hikaru Nara.mp3]]"
 ---
 
 # Onsa Media - Hikaru Nara

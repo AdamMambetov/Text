@@ -1,20 +1,16 @@
 ---
-Album: ""
-Creators:
-  - "[[Kawada Mami (🎙️ 745)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 0
-SourceFile: "[[Kawada Mami - Hishoku no Sora.mp3]]"
-Year: 0
-aliases:
-  - Hishoku no Sora
-  - Пламенный взор Шаны OP 1
 created: 2025-01-08T19:20:30+03:00
-source: ""
-related:
-  - "[[Hishoku no Sora (TV Size) - Kawada Mami]]"
-ListenInSec: 2039
+aliases: [Hishoku no Sora, Пламенный взор Шаны OP 1]
+Cover: "[[_No Album Art.jpg]]"
+Year: 0
+Album: ""
 CoverOf: ""
+Creators: ["[[Kawada Mami (🎙️ 745)]]"]
+ListenInSec: 2039
+NumberInAlbum: 0
+related: ["[[Hishoku no Sora (TV Size) - Kawada Mami]]"]
+source: ""
+SourceFile: "[[Kawada Mami - Hishoku no Sora.mp3]]"
 ---
 
 # Kawada Mami - Hishoku no Sora

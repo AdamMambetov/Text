@@ -1,16 +1,16 @@
 ---
-Album: ""
-Creators: []
-Cover: ""
-NumberInAlbum: 1
-SourceFile: "[[STURMMANN - Soldat.mp3]]"
-Year: 0
-aliases: []
 created: 2025-01-08T16:50:30+03:00
-source: ""
-related: []
-ListenInSec: 432
+aliases: []
+Cover: ""
+Year: 0
+Album: ""
 CoverOf: ""
+Creators: []
+ListenInSec: 432
+NumberInAlbum: 1
+related: []
+source: ""
+SourceFile: "[[STURMMANN - Soldat.mp3]]"
 ---
 
 # STURMMANN - Soldat

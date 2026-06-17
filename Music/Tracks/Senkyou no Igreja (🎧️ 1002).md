@@ -1,17 +1,16 @@
 ---
-Album: "[[Umineko no Naku Koro ni OST (📀 30)]]"
-Creators: []
-Cover: ""
-NumberInAlbum: 1
-SourceFile: "[[Umineko no Naku Koro ni OST - Senkyou no Igreja.ogg]]"
-Year: 2007
-aliases:
-  - Senkyou no Igreja
 created: 2024-08-03T18:05:43+03:00
-source: ""
-related: []
-ListenInSec: 330
+aliases: [Senkyou no Igreja]
+Cover: ""
+Year: 2007
+Album: "[[Umineko no Naku Koro ni OST (📀 30)]]"
 CoverOf: ""
+Creators: []
+ListenInSec: 330
+NumberInAlbum: 1
+related: []
+source: ""
+SourceFile: "[[Umineko no Naku Koro ni OST - Senkyou no Igreja.ogg]]"
 ---
 
 # Umineko no Naku Koro ni OST - Senkyou no Igreja

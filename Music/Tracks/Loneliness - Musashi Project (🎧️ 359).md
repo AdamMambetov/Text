@@ -1,18 +1,16 @@
 ---
-Album: "[[Naruto OST 1 (📀 15)]]"
-Creators:
-  - "[[Musashi Project (🎙️ 560)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 9
-SourceFile: "[[Naruto OST - Loneliness.mp3]]"
-Year: 2003
-aliases:
-  - Loneliness
 created: 2022-04-28T17:39:12+03:00
-source:
-related: []
-ListenInSec: 136
+aliases: [Loneliness]
+Cover: "[[_No Album Art.jpg]]"
+Year: 2003
+Album: "[[Naruto OST 1 (📀 15)]]"
 CoverOf: ""
+Creators: ["[[Musashi Project (🎙️ 560)]]"]
+ListenInSec: 136
+NumberInAlbum: 9
+related: []
+source:
+SourceFile: "[[Naruto OST - Loneliness.mp3]]"
 ---
 
 # Naruto OST - Loneliness

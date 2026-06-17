@@ -1,18 +1,16 @@
 ---
-Album: ""
-Creators:
-  - "[[SiM (🎙️ 637)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 1
-SourceFile: "[[SiM - The Rumbling.mp3]]"
-Year: 0
-aliases:
-  - The Rumbling
 created: 2025-01-08T00:15:47+03:00
-source: ""
-related: []
-ListenInSec: 411
+aliases: [The Rumbling]
+Cover: "[[_No Album Art.jpg]]"
+Year: 0
+Album: ""
 CoverOf: ""
+Creators: ["[[SiM (🎙️ 637)]]"]
+ListenInSec: 411
+NumberInAlbum: 1
+related: []
+source: ""
+SourceFile: "[[SiM - The Rumbling.mp3]]"
 ---
 
 # SiM - The Rumbling

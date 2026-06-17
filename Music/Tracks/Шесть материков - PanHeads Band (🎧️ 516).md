@@ -1,18 +1,16 @@
 ---
-Album: "[[Шесть материков]]"
-Creators:
-  - "[[PanHeads Band (🎙️ 409)]]"
-Cover: ""
-NumberInAlbum: 1
-SourceFile: "[[PANHEADS BAND - Шесть материков.mp3]]"
-Year: 2018
-aliases:
-  - Шесть материков
 created: 2022-12-09T06:57:48+03:00
-source: ""
-related: []
-ListenInSec: 212
+aliases: [Шесть материков]
+Cover: ""
+Year: 2018
+Album: "[[Шесть материков]]"
 CoverOf: ""
+Creators: ["[[PanHeads Band (🎙️ 409)]]"]
+ListenInSec: 212
+NumberInAlbum: 1
+related: []
+source: ""
+SourceFile: "[[PANHEADS BAND - Шесть материков.mp3]]"
 ---
 
 # PanHeads Band - Шесть материков

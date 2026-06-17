@@ -1,17 +1,16 @@
 ---
 created: 2025-11-14T03:29:52+03:00
-aliases:
-  - OstsForAll0 - Shiki_OST_-_Mosaic
+aliases: [OstsForAll0 - Shiki_OST_-_Mosaic]
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
+CoverOf: ""
 Creators: []
+ListenInSec: 288
 NumberInAlbum: 0
+related: []
 source: ""
 SourceFile: "[[OstsForAll0 - Shiki_OST_-_Mosaic.mp3]]"
-related: []
-ListenInSec: 288
-CoverOf: ""
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

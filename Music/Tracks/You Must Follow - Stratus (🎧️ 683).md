@@ -1,17 +1,16 @@
 ---
-Album: "[[The Dungeonmaster's Guide]]"
-Creators: []
-Cover: ""
-NumberInAlbum: 4
-SourceFile: "[[Stratus - You Must Follow.mp3]]"
-Year: 2008
-aliases:
-  - You Must Follow
 created: 2023-09-30T15:55:23+03:00
-source: ""
-related: []
-ListenInSec: 15
+aliases: [You Must Follow]
+Cover: ""
+Year: 2008
+Album: "[[The Dungeonmaster's Guide]]"
 CoverOf: ""
+Creators: []
+ListenInSec: 15
+NumberInAlbum: 4
+related: []
+source: ""
+SourceFile: "[[Stratus - You Must Follow.mp3]]"
 ---
 
 # Stratus - You Must Follow

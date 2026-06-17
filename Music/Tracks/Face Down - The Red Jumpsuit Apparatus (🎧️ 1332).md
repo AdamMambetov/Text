@@ -1,17 +1,16 @@
 ---
-Album: "[[Don't You Fake It]]"
-Creators: []
-Cover: ""
-NumberInAlbum: 4
-SourceFile: "[[The Red Jumpsuit Apparatus - Face Down.mp3]]"
-Year: 2006
-aliases:
-  - Face Down
 created: 2024-10-23T15:12:10+03:00
-source: ""
-related: []
-ListenInSec: 2
+aliases: [Face Down]
+Cover: ""
+Year: 2006
+Album: "[[Don't You Fake It]]"
 CoverOf: ""
+Creators: []
+ListenInSec: 2
+NumberInAlbum: 4
+related: []
+source: ""
+SourceFile: "[[The Red Jumpsuit Apparatus - Face Down.mp3]]"
 ---
 
 # The Red Jumpsuit Apparatus - Face Down

@@ -1,18 +1,16 @@
 ---
-Album: "[[Naruto OST 2 (📀 16)]]"
-Creators:
-  - "[[Musashi Project (🎙️ 560)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 12
-SourceFile: "[[Naruto OST - Hinata vs Neji.mp3]]"
-Year: 2004
-aliases:
-  - Hinata vs Neji
 created: 2022-04-28T17:50:46+03:00
-source:
-related: []
-ListenInSec: 28
+aliases: [Hinata vs Neji]
+Cover: "[[_No Album Art.jpg]]"
+Year: 2004
+Album: "[[Naruto OST 2 (📀 16)]]"
 CoverOf: ""
+Creators: ["[[Musashi Project (🎙️ 560)]]"]
+ListenInSec: 28
+NumberInAlbum: 12
+related: []
+source:
+SourceFile: "[[Naruto OST - Hinata vs Neji.mp3]]"
 ---
 
 # Naruto OST - Hinata vs Neji

@@ -1,18 +1,16 @@
 ---
-Album: ""
-Creators:
-  - "[[Simple Plan (🎙️ 439)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 0
-SourceFile: "[[Simple Plan - You Suck at Love.mp3]]"
-Year: 2011
-aliases:
-  - You Suck at Love
 created: 2022-04-22T21:34:30+03:00
-source: ""
-related: []
-ListenInSec: 179
+aliases: [You Suck at Love]
+Cover: "[[_No Album Art.jpg]]"
+Year: 2011
+Album: ""
 CoverOf: ""
+Creators: ["[[Simple Plan (🎙️ 439)]]"]
+ListenInSec: 179
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[Simple Plan - You Suck at Love.mp3]]"
 ---
 
 # Simple Plan - You Suck at Love

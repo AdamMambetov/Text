@@ -1,17 +1,16 @@
 ---
 created: 2025-10-28T21:51:43+03:00
-aliases:
-  - lomb_TV_LombTV - Rhythm_Tengoku_-_Spaceball_Game
+aliases: [lomb_TV_LombTV - Rhythm_Tengoku_-_Spaceball_Game]
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
+CoverOf: ""
 Creators: []
+ListenInSec: 1100
 NumberInAlbum: 0
+related: []
 source: ""
 SourceFile: "[[lomb_TV_LombTV - Rhythm_Tengoku_-_Spaceball_Game.mp3]]"
-related: []
-ListenInSec: 1100
-CoverOf: ""
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

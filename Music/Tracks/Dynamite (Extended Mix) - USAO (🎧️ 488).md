@@ -1,18 +1,16 @@
 ---
-Album: ""
-Creators:
-  - "[[USAO (🎙️ 618)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 1
-SourceFile: "[[USAO - Dynamite (Extended Mix).mp3]]"
-Year: 0
-aliases:
-  - Dynamite (Extended Mix)
 created: 2022-10-05T14:00:22+03:00
-source: ""
-related: []
-ListenInSec: 369
+aliases: [Dynamite (Extended Mix)]
+Cover: "[[_No Album Art.jpg]]"
+Year: 0
+Album: ""
 CoverOf: ""
+Creators: ["[[USAO (🎙️ 618)]]"]
+ListenInSec: 369
+NumberInAlbum: 1
+related: []
+source: ""
+SourceFile: "[[USAO - Dynamite (Extended Mix).mp3]]"
 ---
 
 # USAO - Dynamite (Extended Mix)

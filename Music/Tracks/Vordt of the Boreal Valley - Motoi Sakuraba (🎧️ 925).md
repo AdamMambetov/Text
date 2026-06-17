@@ -1,18 +1,16 @@
 ---
-Album: "[[Dark Souls 3 OST (📀 10)]]"
-Creators:
-  - "[[Motoi Sakuraba (🎙️ 31)]]"
-Cover: "[[Dark Souls 3.png]]"
-NumberInAlbum: 7
-SourceFile: "[[Dark Souls 3 OST - 06 Vordt of the Boreal Valley.mp3]]"
-Year: 2019
-aliases:
-  - Vordt of the Boreal Valley
 created: 2024-01-04T15:27:02+03:00
-source: ""
-related: []
-ListenInSec: 734
+aliases: [Vordt of the Boreal Valley]
+Cover: "[[Dark Souls 3.png]]"
+Year: 2019
+Album: "[[Dark Souls 3 OST (📀 10)]]"
 CoverOf: ""
+Creators: ["[[Motoi Sakuraba (🎙️ 31)]]"]
+ListenInSec: 734
+NumberInAlbum: 7
+related: []
+source: ""
+SourceFile: "[[Dark Souls 3 OST - 06 Vordt of the Boreal Valley.mp3]]"
 ---
 
 # Dark Souls 3 OST - 06 Vordt of the Boreal Valley

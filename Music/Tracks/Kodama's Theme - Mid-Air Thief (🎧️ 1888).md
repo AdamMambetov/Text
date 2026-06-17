@@ -1,18 +1,16 @@
 ---
 created: 2026-03-20T02:35:54+03:00
-aliases:
-  - Kodama's Theme
+aliases: ["Kodama's Theme"]
 Cover: "[[Sonny Boy OST.jpg]]"
 Year: 2021
 Album: "[[Sonny Boy OST (📀 41)]]"
-Creators:
-  - "[[Mid-Air Thief (🎙️ 698)]]"
+CoverOf: ""
+Creators: ["[[Mid-Air Thief (🎙️ 698)]]"]
+ListenInSec: 0
 NumberInAlbum: 10
+related: []
 source: ""
 SourceFile: "[[Sonny Boy OST - Kodama's Theme.mp3]]"
-related: []
-ListenInSec: 0
-CoverOf: ""
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

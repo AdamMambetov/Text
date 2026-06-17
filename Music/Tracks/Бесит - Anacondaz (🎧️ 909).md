@@ -1,18 +1,16 @@
 ---
-Album: "[[Байки инсайдера]]"
-Creators:
-  - "[[Anacondaz (🎙️ 179)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 6
-SourceFile: "[[Anacondaz - Бесит.mp3]]"
-Year: 2015
-aliases:
-  - Бесит
 created: 2023-09-29T16:25:03+03:00
-source: ""
-related: []
-ListenInSec: 2
+aliases: [Бесит]
+Cover: "[[_No Album Art.jpg]]"
+Year: 2015
+Album: "[[Байки инсайдера]]"
 CoverOf: ""
+Creators: ["[[Anacondaz (🎙️ 179)]]"]
+ListenInSec: 2
+NumberInAlbum: 6
+related: []
+source: ""
+SourceFile: "[[Anacondaz - Бесит.mp3]]"
 ---
 
 # Anacondaz - Бесит

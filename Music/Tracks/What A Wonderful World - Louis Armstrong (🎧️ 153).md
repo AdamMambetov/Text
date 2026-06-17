@@ -1,18 +1,16 @@
 ---
-Album: ""
-Creators:
-  - "[[Louis Armstrong (🎙️ 367)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 0
-SourceFile: "[[Louis Armstrong - What A Wonderful World.mp3]]"
-Year: 0
-aliases:
-  - What A Wonderful World
 created: 2022-04-22T21:05:36+03:00
-source: ""
-related: []
-ListenInSec: 271
+aliases: [What A Wonderful World]
+Cover: "[[_No Album Art.jpg]]"
+Year: 0
+Album: ""
 CoverOf: ""
+Creators: ["[[Louis Armstrong (🎙️ 367)]]"]
+ListenInSec: 271
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[Louis Armstrong - What A Wonderful World.mp3]]"
 ---
 
 # Louis Armstrong - What A Wonderful World

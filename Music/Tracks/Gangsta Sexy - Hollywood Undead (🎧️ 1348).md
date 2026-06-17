@@ -1,18 +1,16 @@
 ---
-Album: "[[American Tragedy]]"
-Creators:
-  - "[[Hollywood Undead (🎙️ 330)]]"
-Cover: ""
-NumberInAlbum: 7
-SourceFile: "[[Hollywood Undead - Gangsta Sexy.mp3]]"
-Year: 2011
-aliases:
-  - Gangsta Sexy
 created: 2024-10-30T19:24:38+03:00
-source: ""
-related: []
-ListenInSec: 294
+aliases: [Gangsta Sexy]
+Cover: ""
+Year: 2011
+Album: "[[American Tragedy]]"
 CoverOf: ""
+Creators: ["[[Hollywood Undead (🎙️ 330)]]"]
+ListenInSec: 294
+NumberInAlbum: 7
+related: []
+source: ""
+SourceFile: "[[Hollywood Undead - Gangsta Sexy.mp3]]"
 ---
 
 # Hollywood Undead - Gangsta Sexy

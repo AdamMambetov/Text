@@ -1,21 +1,16 @@
 ---
-Album: ""
-Creators:
-  - "[[Mrs. GREEN APPLE (🎙️ 382)]]"
-Cover: "[[Mrs. GREEN APPLE - Attitude.jpg]]"
-NumberInAlbum: 0
-SourceFile: "[[Mrs. GREEN APPLE - Inferno.mp3]]"
-Year: 2019
-aliases:
-  - Inferno
-  - Fire Force OP 1
-  - Пламенная бригада пожарных OP 1
 created: 2022-04-22T21:11:00+03:00
-source: ""
-related:
-  - "[[Inferno (TV Size) - Mrs. GREEN APPLE]]"
-ListenInSec: 205
+aliases: [Inferno, Fire Force OP 1, Пламенная бригада пожарных OP 1]
+Cover: "[[Mrs. GREEN APPLE - Attitude.jpg]]"
+Year: 2019
+Album: ""
 CoverOf: ""
+Creators: ["[[Mrs. GREEN APPLE (🎙️ 382)]]"]
+ListenInSec: 205
+NumberInAlbum: 0
+related: ["[[Inferno (TV Size) - Mrs. GREEN APPLE]]"]
+source: ""
+SourceFile: "[[Mrs. GREEN APPLE - Inferno.mp3]]"
 ---
 
 # Mrs. GREEN APPLE - Inferno

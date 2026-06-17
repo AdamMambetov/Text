@@ -1,21 +1,16 @@
 ---
-Album: ""
-Creators:
-  - "[[MYTH & ROID (🎙️ 384)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 0
-SourceFile: "[[MYTH & ROID - Paradisus-Paradoxum (TV Size).mp3]]"
-Year: 0
-aliases:
-  - Paradisus-Paradoxum (TV Size)
-  - ReZero OP 2
-  - РеЗеро OP 2
 created: 2024-07-21T15:27:18+03:00
-source: ""
-related:
-  - "[[Paradisus-Paradoxum - MYTH & ROID (🎧️ 1629)]]"
-ListenInSec: 180
+aliases: [Paradisus-Paradoxum (TV Size), ReZero OP 2, РеЗеро OP 2]
+Cover: "[[_No Album Art.jpg]]"
+Year: 0
+Album: ""
 CoverOf: ""
+Creators: ["[[MYTH & ROID (🎙️ 384)]]"]
+ListenInSec: 180
+NumberInAlbum: 0
+related: ["[[Paradisus-Paradoxum - MYTH & ROID (🎧️ 1629)]]"]
+source: ""
+SourceFile: "[[MYTH & ROID - Paradisus-Paradoxum (TV Size).mp3]]"
 ---
 
 # MYTH & ROID - Paradisus-Paradoxum (TV Size)

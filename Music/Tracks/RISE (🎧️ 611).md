@@ -1,16 +1,16 @@
 ---
-Album: ""
-Creators: []
-Cover: ""
-NumberInAlbum: 1
-SourceFile: "[[Jackie-O - RISE.mp3]]"
-Year: 0
-aliases: []
 created: 2023-07-09T18:23:40+03:00
-source: ""
-related: []
-ListenInSec: 231
+aliases: []
+Cover: ""
+Year: 0
+Album: ""
 CoverOf: ""
+Creators: []
+ListenInSec: 231
+NumberInAlbum: 1
+related: []
+source: ""
+SourceFile: "[[Jackie-O - RISE.mp3]]"
 ---
 
 # Jackie-O - RISE

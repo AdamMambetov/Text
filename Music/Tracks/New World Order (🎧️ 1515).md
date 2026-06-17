@@ -1,17 +1,16 @@
 ---
-Album: ""
-Creators: []
-Cover: ""
-NumberInAlbum: 1
-SourceFile: "[[Danganrnopa OST - 2-17- New World Order.mp3]]"
-Year: 0
-aliases:
-  - New World Order
 created: 2025-01-08T17:11:01+03:00
-source: ""
-related: []
-ListenInSec: 12
+aliases: [New World Order]
+Cover: ""
+Year: 0
+Album: ""
 CoverOf: ""
+Creators: []
+ListenInSec: 12
+NumberInAlbum: 1
+related: []
+source: ""
+SourceFile: "[[Danganrnopa OST - 2-17- New World Order.mp3]]"
 ---
 
 # Danganrnopa OST - 2-17- New World Order

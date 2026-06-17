@@ -1,18 +1,16 @@
 ---
-Album: ""
-Creators:
-  - "[[The Tornados (🎙️ 635)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 0
-SourceFile: "[[The Tornados - Telstar.mp3]]"
-Year: 2002
-aliases:
-  - Telstar
 created: 2022-12-20T23:24:44+03:00
-source: ""
-related: []
-ListenInSec: 7
+aliases: [Telstar]
+Cover: "[[_No Album Art.jpg]]"
+Year: 2002
+Album: ""
 CoverOf: ""
+Creators: ["[[The Tornados (🎙️ 635)]]"]
+ListenInSec: 7
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[The Tornados - Telstar.mp3]]"
 ---
 
 # The Tornados - Telstar

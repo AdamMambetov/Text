@@ -1,18 +1,16 @@
 ---
-Album: ""
-Creators:
-  - "[[Pigeon John (🎙️ 413)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 0
-SourceFile: "[[Pigeon John - She's Loud.mp3]]"
-Year: 2016
-aliases:
-  - She's Loud
 created: 2022-04-22T21:20:10+03:00
-source: ""
-related: []
-ListenInSec: 1
+aliases: ["She's Loud"]
+Cover: "[[_No Album Art.jpg]]"
+Year: 2016
+Album: ""
 CoverOf: ""
+Creators: ["[[Pigeon John (🎙️ 413)]]"]
+ListenInSec: 1
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[Pigeon John - She's Loud.mp3]]"
 ---
 
 # Pigeon John - She's Loud

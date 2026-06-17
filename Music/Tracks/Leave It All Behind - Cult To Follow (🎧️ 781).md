@@ -1,18 +1,16 @@
 ---
-Album: "[[Leave It All Behind - Elements]]"
-Creators:
-  - "[[Cult To Follow (🎙️ 270)]]"
-Cover: ""
-NumberInAlbum: 1
-SourceFile: "[[Cult To Follow - Leave It All Behind.mp3]]"
-Year: 2011
-aliases:
-  - Leave It All Behind
 created: 2023-09-29T16:23:26+03:00
-source: ""
-related: []
-ListenInSec: 6
+aliases: [Leave It All Behind]
+Cover: ""
+Year: 2011
+Album: "[[Leave It All Behind - Elements]]"
 CoverOf: ""
+Creators: ["[[Cult To Follow (🎙️ 270)]]"]
+ListenInSec: 6
+NumberInAlbum: 1
+related: []
+source: ""
+SourceFile: "[[Cult To Follow - Leave It All Behind.mp3]]"
 ---
 
 # Cult To Follow - Leave It All Behind

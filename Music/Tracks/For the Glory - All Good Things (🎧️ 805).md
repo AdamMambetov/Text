@@ -1,18 +1,16 @@
 ---
-Album: "[[Machines]]"
-Creators:
-  - "[[All Good Things (🎙️ 168)]]"
-Cover: ""
-NumberInAlbum: 7
-SourceFile: "[[All Good Things - For the Glory.mp3]]"
-Year: 2017
-aliases:
-  - For the Glory
 created: 2023-09-29T16:22:57+03:00
-source: ""
-related: []
-ListenInSec: 274
+aliases: [For the Glory]
+Cover: ""
+Year: 2017
+Album: "[[Machines]]"
 CoverOf: ""
+Creators: ["[[All Good Things (🎙️ 168)]]"]
+ListenInSec: 274
+NumberInAlbum: 7
+related: []
+source: ""
+SourceFile: "[[All Good Things - For the Glory.mp3]]"
 ---
 
 # All Good Things - For the Glory

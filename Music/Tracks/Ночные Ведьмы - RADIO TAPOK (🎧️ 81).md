@@ -1,19 +1,16 @@
 ---
-Album: ""
-Creators:
-  - "[[RADIO TAPOK (🎙️ 421)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 1
-SourceFile: "[[RADIO TAPOK - Night Witches.mp3]]"
-Year: 2018
-aliases:
-  - Ночные Ведьмы
-  - Night Witches
 created: 2022-04-21T04:23:54+03:00
-source: ""
-related: []
-ListenInSec: 1
+aliases: [Ночные Ведьмы, Night Witches]
+Cover: "[[_No Album Art.jpg]]"
+Year: 2018
+Album: ""
 CoverOf: "[[Night Witches - Sabaton (🎧️ 211)]]"
+Creators: ["[[RADIO TAPOK (🎙️ 421)]]"]
+ListenInSec: 1
+NumberInAlbum: 1
+related: []
+source: ""
+SourceFile: "[[RADIO TAPOK - Night Witches.mp3]]"
 ---
 
 # RADIO TAPOK - Night Witches

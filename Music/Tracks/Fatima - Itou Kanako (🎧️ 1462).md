@@ -1,21 +1,16 @@
 ---
-Album: ""
-Creators:
-  - "[[Itou Kanako (🎙️ 52)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 1
-SourceFile: "[[Itou Kanako - Fatima.mp3]]"
-Year: 0
-aliases:
-  - Fatima
-  - Steins Gate 0 OP
-  - Врата Штейна 0 OP
 created: 2025-01-08T00:51:38+03:00
-source: ""
-related:
-  - "[[Fatima (TV Size) - Itou Kanako (🎧️ 1082)]]"
-ListenInSec: 488
+aliases: [Fatima, Steins Gate 0 OP, Врата Штейна 0 OP]
+Cover: "[[_No Album Art.jpg]]"
+Year: 0
+Album: ""
 CoverOf: ""
+Creators: ["[[Itou Kanako (🎙️ 52)]]"]
+ListenInSec: 488
+NumberInAlbum: 1
+related: ["[[Fatima (TV Size) - Itou Kanako (🎧️ 1082)]]"]
+source: ""
+SourceFile: "[[Itou Kanako - Fatima.mp3]]"
 ---
 
 # Itou Kanako - Fatima

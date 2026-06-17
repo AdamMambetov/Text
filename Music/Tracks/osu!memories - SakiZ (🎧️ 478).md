@@ -1,18 +1,16 @@
 ---
-Album: ""
-Creators:
-  - "[[SakiZ (🎙️ 611)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 1
-SourceFile: "[[SakiZ - osu!memories.mp3]]"
-Year: 0
-aliases:
-  - osu!memories
 created: 2022-10-05T13:53:02+03:00
-source: ""
-related: []
-ListenInSec: 475
+aliases: [osu!memories]
+Cover: "[[_No Album Art.jpg]]"
+Year: 0
+Album: ""
 CoverOf: ""
+Creators: ["[[SakiZ (🎙️ 611)]]"]
+ListenInSec: 475
+NumberInAlbum: 1
+related: []
+source: ""
+SourceFile: "[[SakiZ - osu!memories.mp3]]"
 ---
 
 # SakiZ - osu!memories

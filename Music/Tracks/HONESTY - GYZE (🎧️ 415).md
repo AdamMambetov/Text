@@ -1,19 +1,16 @@
 ---
-Album: ""
-Creators:
-  - "[[GYZE (🎙️ 325)]]"
-  - "[[Ettore Rigotti (🎙️ 742)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 0
-SourceFile: "[[GYZE - HONESTY.mp3]]"
-Year: 2015
-aliases:
-  - HONESTY
 created: 2022-05-11T18:16:52+03:00
-source: ""
-related: []
-ListenInSec: 2555
+aliases: [HONESTY]
+Cover: "[[_No Album Art.jpg]]"
+Year: 2015
+Album: ""
 CoverOf: ""
+Creators: ["[[GYZE (🎙️ 325)]]", "[[Ettore Rigotti (🎙️ 742)]]"]
+ListenInSec: 2555
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[GYZE - HONESTY.mp3]]"
 ---
 
 # GYZE - HONESTY

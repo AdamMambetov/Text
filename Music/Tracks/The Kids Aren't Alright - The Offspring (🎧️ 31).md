@@ -1,18 +1,16 @@
 ---
-Album: ""
-Creators:
-  - "[[The Offspring (🎙️ 459)]]"
-Cover: "[[The Offspring - Americana.jpg]]"
-NumberInAlbum: 0
-SourceFile: "[[The Offspring - The Kids Aren't Alright.mp3]]"
-Year: 1998
-aliases:
-  - The Kids Aren't Alright
 created: 2022-04-21T01:53:41+03:00
-source: ""
-related: []
-ListenInSec: 2
+aliases: ["The Kids Aren't Alright"]
+Cover: "[[The Offspring - Americana.jpg]]"
+Year: 1998
+Album: ""
 CoverOf: ""
+Creators: ["[[The Offspring (🎙️ 459)]]"]
+ListenInSec: 2
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[The Offspring - The Kids Aren't Alright.mp3]]"
 ---
 
 # The Offspring - The Kids Aren't Alright

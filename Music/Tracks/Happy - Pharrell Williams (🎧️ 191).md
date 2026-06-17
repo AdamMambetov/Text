@@ -1,18 +1,16 @@
 ---
-Album: ""
-Creators:
-  - "[[Pharrell Williams (🎙️ 524)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 0
-SourceFile: "[[Pharrell Williams - Happy.mp3]]"
-Year: 2014
-aliases:
-  - Happy
 created: 2022-04-22T21:19:50+03:00
-source: ""
-related: []
-ListenInSec: 269
+aliases: [Happy]
+Cover: "[[_No Album Art.jpg]]"
+Year: 2014
+Album: ""
 CoverOf: ""
+Creators: ["[[Pharrell Williams (🎙️ 524)]]"]
+ListenInSec: 269
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[Pharrell Williams - Happy.mp3]]"
 ---
 
 # Pharrell Williams - Happy

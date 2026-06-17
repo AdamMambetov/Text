@@ -1,18 +1,16 @@
 ---
-Album: "[[Disguise]]"
-Creators:
-  - "[[Motionless In White (🎙️ 521)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 8
-SourceFile: "[[Motionless In White - Another Life.mp3]]"
-Year: 2019
-aliases:
-  - Another Life
 created: 2024-10-10T22:23:10+03:00
-source:
-related: []
-ListenInSec: 112
+aliases: [Another Life]
+Cover: "[[_No Album Art.jpg]]"
+Year: 2019
+Album: "[[Disguise]]"
 CoverOf: ""
+Creators: ["[[Motionless In White (🎙️ 521)]]"]
+ListenInSec: 112
+NumberInAlbum: 8
+related: []
+source:
+SourceFile: "[[Motionless In White - Another Life.mp3]]"
 ---
 
 # Motionless In White - Another Life

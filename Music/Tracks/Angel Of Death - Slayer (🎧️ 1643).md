@@ -1,17 +1,15 @@
 ---
-SourceFile: "[[Slayer - Angel Of Death.mp3]]"
+created: 2025-05-04T02:24:00+03:00
+aliases: [Angel Of Death]
+Cover: ""
 Year: 2018
 Album: "[[Reign In Blood]]"
-aliases:
-  - Angel Of Death
-created: 2025-05-04T02:24:00+03:00
-Creators:
-  - "[[Slayer (🎙️ 441)]]"
-Cover: ""
+CoverOf: ""
+Creators: ["[[Slayer (🎙️ 441)]]"]
+ListenInSec: 917
 NumberInAlbum: 0
 related: []
-ListenInSec: 917
-CoverOf: ""
+SourceFile: "[[Slayer - Angel Of Death.mp3]]"
 ---
 
 # Slayer - Angel Of Death

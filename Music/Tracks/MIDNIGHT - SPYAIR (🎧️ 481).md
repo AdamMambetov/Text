@@ -1,18 +1,16 @@
 ---
-Album: ""
-Creators:
-  - "[[SPYAIR (🎙️ 444)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 0
-SourceFile: "[[SPYAIR - MIDNIGHT.mp3]]"
-Year: 0
-aliases:
-  - MIDNIGHT
 created: 2022-10-05T13:54:40+03:00
-source: ""
-related: []
-ListenInSec: 213
+aliases: [MIDNIGHT]
+Cover: "[[_No Album Art.jpg]]"
+Year: 0
+Album: ""
 CoverOf: ""
+Creators: ["[[SPYAIR (🎙️ 444)]]"]
+ListenInSec: 213
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[SPYAIR - MIDNIGHT.mp3]]"
 ---
 
 # SPYAIR - MIDNIGHT

@@ -1,18 +1,16 @@
 ---
-Album: "[[Celldweller]]"
-Creators:
-  - "[[Celldweller (🎙️ 252)]]"
-Cover: ""
-NumberInAlbum: 4
-SourceFile: "[[Celldweller - Shapeshifter.mp3]]"
-Year: 2003
-aliases:
-  - Shapeshifter
 created: 2023-09-29T16:24:20+03:00
-source: ""
-related: []
-ListenInSec: 267
+aliases: [Shapeshifter]
+Cover: ""
+Year: 2003
+Album: "[[Celldweller]]"
 CoverOf: ""
+Creators: ["[[Celldweller (🎙️ 252)]]"]
+ListenInSec: 267
+NumberInAlbum: 4
+related: []
+source: ""
+SourceFile: "[[Celldweller - Shapeshifter.mp3]]"
 ---
 
 # Celldweller - Shapeshifter

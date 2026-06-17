@@ -1,20 +1,16 @@
 ---
 created: 2023-09-29T16:24:42+03:00
-aliases:
-  - Colors of the Heart
-  - Blood+ OP 3
-  - Кровь+ OP 3
+aliases: [Colors of the Heart, Blood+ OP 3, Кровь+ OP 3]
 Cover: "[[_No Album Art.jpg]]"
 Year: 2020
 Album: ""
-Creators:
-  - "[[Jackie-O (🎙️ 339)]]"
+CoverOf: "[[Colors of the Heart - UVERworld (🎧️ 1264)]]"
+Creators: ["[[Jackie-O (🎙️ 339)]]"]
+ListenInSec: 1
 NumberInAlbum: 0
+related: []
 source: ""
 SourceFile: "[[Jackie-O - Colors of the Heart.mp3]]"
-related: []
-ListenInSec: 1
-CoverOf: "[[Colors of the Heart - UVERworld (🎧️ 1264)]]"
 ---
 
 # Jackie-O - Colors of the Heart

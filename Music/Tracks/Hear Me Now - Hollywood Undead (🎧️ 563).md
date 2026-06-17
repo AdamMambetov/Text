@@ -1,18 +1,16 @@
 ---
-Album: "[[American Tragedy]]"
-Creators:
-  - "[[Hollywood Undead (🎙️ 330)]]"
-Cover: ""
-NumberInAlbum: 6
-SourceFile: "[[Hollywood Undead - Hear Me Now.mp3]]"
-Year: 2011
-aliases:
-  - Hear Me Now
 created: 2022-12-20T23:29:46+03:00
-source: ""
-related: []
-ListenInSec: 215
+aliases: [Hear Me Now]
+Cover: ""
+Year: 2011
+Album: "[[American Tragedy]]"
 CoverOf: ""
+Creators: ["[[Hollywood Undead (🎙️ 330)]]"]
+ListenInSec: 215
+NumberInAlbum: 6
+related: []
+source: ""
+SourceFile: "[[Hollywood Undead - Hear Me Now.mp3]]"
 ---
 
 # Hollywood Undead - Hear Me Now

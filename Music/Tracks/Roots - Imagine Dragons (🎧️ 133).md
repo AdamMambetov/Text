@@ -1,18 +1,16 @@
 ---
-Album: ""
-Creators:
-  - "[[Imagine Dragons (🎙️ 334)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 0
-SourceFile: "[[Imagine Dragons - Roots.mp3]]"
-Year: 2015
-aliases:
-  - Roots
 created: 2022-04-22T20:55:44+03:00
-source: ""
-related: []
-ListenInSec: 347
+aliases: [Roots]
+Cover: "[[_No Album Art.jpg]]"
+Year: 2015
+Album: ""
 CoverOf: ""
+Creators: ["[[Imagine Dragons (🎙️ 334)]]"]
+ListenInSec: 347
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[Imagine Dragons - Roots.mp3]]"
 ---
 
 # Imagine Dragons - Roots

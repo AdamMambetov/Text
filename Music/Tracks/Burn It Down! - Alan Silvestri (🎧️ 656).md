@@ -1,18 +1,16 @@
 ---
-Album: "[[Van Helsing OST (📀 26)]]"
-Creators:
-  - "[[Alan Silvestri (🎙️ 162)]]"
-Cover: "[[Van Helsing.jpg]]"
-NumberInAlbum: 2
-SourceFile: "[[Van Helsing OST - Burn It Down!.mp3]]"
-Year: 2004
-aliases:
-  - Burn It Down!
 created: 2023-09-29T16:22:50+03:00
-source: ""
-related: []
-ListenInSec: 5
+aliases: [Burn It Down!]
+Cover: "[[Van Helsing.jpg]]"
+Year: 2004
+Album: "[[Van Helsing OST (📀 26)]]"
 CoverOf: ""
+Creators: ["[[Alan Silvestri (🎙️ 162)]]"]
+ListenInSec: 5
+NumberInAlbum: 2
+related: []
+source: ""
+SourceFile: "[[Van Helsing OST - Burn It Down!.mp3]]"
 ---
 
 # Van Helsing OST - Burn It Down!

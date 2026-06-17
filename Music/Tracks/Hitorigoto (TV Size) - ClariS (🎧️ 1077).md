@@ -1,21 +1,16 @@
 ---
-Album: ""
-Creators:
-  - "[[ClariS (🎙️ 264)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 0
-SourceFile: "[[ClariS - Hitorigoto (TV Size).mp3]]"
-Year: 0
-aliases:
-  - Hitorigoto (TV Size)
-  - Eromanga-sensei OP 1
-  - Эроманга-сэнсей OP 1
 created: 2024-07-21T15:24:02+03:00
-source: ""
-related:
-  - "[[Hitorigoto - ClariS (🎧️ 1418)]]"
-ListenInSec: 268
+aliases: [Hitorigoto (TV Size), Eromanga-sensei OP 1, Эроманга-сэнсей OP 1]
+Cover: "[[_No Album Art.jpg]]"
+Year: 0
+Album: ""
 CoverOf: ""
+Creators: ["[[ClariS (🎙️ 264)]]"]
+ListenInSec: 268
+NumberInAlbum: 0
+related: ["[[Hitorigoto - ClariS (🎧️ 1418)]]"]
+source: ""
+SourceFile: "[[ClariS - Hitorigoto (TV Size).mp3]]"
 ---
 
 # ClariS - Hitorigoto (TV Size)

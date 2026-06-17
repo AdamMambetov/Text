@@ -1,19 +1,16 @@
 ---
 created: 2025-07-31T18:18:10+03:00
-aliases:
-  - Animal
+aliases: [Animal]
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
-Creators:
-  - "[[Jim Yosef (🎙️ 685)]]"
-  - "[[RIELL (🎙️ 686)]]"
+CoverOf: ""
+Creators: ["[[Jim Yosef (🎙️ 685)]]", "[[RIELL (🎙️ 686)]]"]
+ListenInSec: 699
 NumberInAlbum: 0
+related: []
 source: ""
 SourceFile: "[[Jim Yosef x RIELL - Animal.mp3]]"
-related: []
-ListenInSec: 699
-CoverOf: ""
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

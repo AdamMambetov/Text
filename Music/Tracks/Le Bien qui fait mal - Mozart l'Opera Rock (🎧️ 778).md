@@ -1,18 +1,16 @@
 ---
-Album: "[[Mozart l'Opera Rock]]"
-Creators:
-  - "[[Mozart l'Opera Rock (🎙️ 381)]]"
-Cover: ""
-NumberInAlbum: 3
-SourceFile: "[[Mozart l'Opera Rock - Le Bien qui fait mal.mp3]]"
-Year: 2009
-aliases:
-  - Le Bien qui fait mal
 created: 2023-09-29T16:25:20+03:00
-source: ""
-related: []
-ListenInSec: 505
+aliases: [Le Bien qui fait mal]
+Cover: ""
+Year: 2009
+Album: "[[Mozart l'Opera Rock]]"
 CoverOf: ""
+Creators: ["[[Mozart l'Opera Rock (🎙️ 381)]]"]
+ListenInSec: 505
+NumberInAlbum: 3
+related: []
+source: ""
+SourceFile: "[[Mozart l'Opera Rock - Le Bien qui fait mal.mp3]]"
 ---
 
 # Mozart l'Opera Rock - Le Bien qui fait mal

@@ -1,16 +1,16 @@
 ---
-Album: ""
-Creators: []
-Cover: ""
-NumberInAlbum: 1
-SourceFile: "[[Jackie-O - Goya no Machiawase.mp3]]"
-Year: 0
-aliases: []
 created: 2023-07-09T18:53:00+03:00
-source: ""
-related: []
-ListenInSec: 18
+aliases: []
+Cover: ""
+Year: 0
+Album: ""
 CoverOf: "[[Goya no Machiawase - Hello Sleepwalkers (🎧️ 14)]]"
+Creators: []
+ListenInSec: 18
+NumberInAlbum: 1
+related: []
+source: ""
+SourceFile: "[[Jackie-O - Goya no Machiawase.mp3]]"
 ---
 
 # Jackie-O - Goya no Machiawase

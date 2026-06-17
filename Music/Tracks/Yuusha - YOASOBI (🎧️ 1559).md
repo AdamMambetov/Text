@@ -1,21 +1,16 @@
 ---
-Album: ""
-Creators:
-  - "[[YOASOBI (🎙️ 659)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 1
-SourceFile: "[[YOASOBI - Yuusha.mp3]]"
-Year: 0
-aliases:
-  - Yuusha
-  - Frieren OP 1
-  - Фрирен OP 1
 created: 2025-01-08T19:26:05+03:00
-source: ""
-related:
-  - "[[Yuusha (TV Size) - YOASOBI]]"
-ListenInSec: 1532
+aliases: [Yuusha, Frieren OP 1, Фрирен OP 1]
+Cover: "[[_No Album Art.jpg]]"
+Year: 0
+Album: ""
 CoverOf: ""
+Creators: ["[[YOASOBI (🎙️ 659)]]"]
+ListenInSec: 1532
+NumberInAlbum: 1
+related: ["[[Yuusha (TV Size) - YOASOBI]]"]
+source: ""
+SourceFile: "[[YOASOBI - Yuusha.mp3]]"
 ---
 
 # YOASOBI - Yuusha

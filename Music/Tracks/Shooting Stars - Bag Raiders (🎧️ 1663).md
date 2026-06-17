@@ -1,17 +1,15 @@
 ---
-SourceFile: "[[Bag Raiders - Shooting Stars.mp3]]"
+created: 2025-05-04T02:08:34+03:00
+aliases: [Shooting Stars]
+Cover: ""
 Year: 2018
 Album: "[[Shooting Stars]]"
-aliases:
-  - Shooting Stars
-created: 2025-05-04T02:08:34+03:00
-Creators:
-  - "[[Bag Raiders (🎙️ 208)]]"
-Cover: ""
+CoverOf: ""
+Creators: ["[[Bag Raiders (🎙️ 208)]]"]
+ListenInSec: 492
 NumberInAlbum: 0
 related: []
-ListenInSec: 492
-CoverOf: ""
+SourceFile: "[[Bag Raiders - Shooting Stars.mp3]]"
 ---
 
 # Bag Raiders - Shooting Stars

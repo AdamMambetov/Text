@@ -1,18 +1,16 @@
 ---
-Album: "[[Lonely Hearts' Boulevard]]"
-Creators:
-  - "[[Paddy And The Rats (🎙️ 407)]]"
-Cover: ""
-NumberInAlbum: 4
-SourceFile: "[[Paddy And The Rats - Rogue.mp3]]"
-Year: 2015
-aliases:
-  - Rogue
 created: 2022-12-20T23:21:24+03:00
-source: ""
-related: []
-ListenInSec: 147
+aliases: [Rogue]
+Cover: ""
+Year: 2015
+Album: "[[Lonely Hearts' Boulevard]]"
 CoverOf: ""
+Creators: ["[[Paddy And The Rats (🎙️ 407)]]"]
+ListenInSec: 147
+NumberInAlbum: 4
+related: []
+source: ""
+SourceFile: "[[Paddy And The Rats - Rogue.mp3]]"
 ---
 
 # Paddy And The Rats - Rogue

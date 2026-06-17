@@ -1,18 +1,16 @@
 ---
-Album: "[[Moana]]"
-Creators:
-  - "[[Disney (🎙️ 286)]]"
-Cover: ""
-NumberInAlbum: 7
-SourceFile: "[[Moana OST - You're Welcome.mp3]]"
-Year: 2016
-aliases:
-  - You're Welcome
 created: 2023-09-29T16:29:24+03:00
-source: ""
-related: []
-ListenInSec: 8
+aliases: ["You're Welcome"]
+Cover: ""
+Year: 2016
+Album: "[[Moana]]"
 CoverOf: ""
+Creators: ["[[Disney (🎙️ 286)]]"]
+ListenInSec: 8
+NumberInAlbum: 7
+related: []
+source: ""
+SourceFile: "[[Moana OST - You're Welcome.mp3]]"
 ---
 
 # Moana OST - You're Welcome

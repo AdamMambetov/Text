@@ -1,18 +1,16 @@
 ---
-Album: ""
-Creators: []
-Cover: ""
-NumberInAlbum: 1
-SourceFile: "[[BUCK-TICK - Kuchizuke.mp3]]"
-Year: 0
-aliases:
-  - Kuchizuke
 created: 2025-01-08T01:53:00+03:00
-source: ""
-related:
-  - "[[Kuchizuke (TV Size) (🎧️ 1500)]]"
-ListenInSec: 501
+aliases: [Kuchizuke]
+Cover: ""
+Year: 0
+Album: ""
 CoverOf: ""
+Creators: []
+ListenInSec: 501
+NumberInAlbum: 1
+related: ["[[Kuchizuke (TV Size) (🎧️ 1500)]]"]
+source: ""
+SourceFile: "[[BUCK-TICK - Kuchizuke.mp3]]"
 ---
 
 # BUCK-TICK - Kuchizuke

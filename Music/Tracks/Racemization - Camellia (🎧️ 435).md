@@ -1,18 +1,16 @@
 ---
-Album: ""
-Creators:
-  - "[[Camellia (🎙️ 53)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 0
-SourceFile: "[[Camellia - Racemization.mp3]]"
-Year: 2015
-aliases:
-  - Racemization
 created: 2022-10-05T13:03:02+03:00
-source: ""
-related: []
-ListenInSec: 300
+aliases: [Racemization]
+Cover: "[[_No Album Art.jpg]]"
+Year: 2015
+Album: ""
 CoverOf: ""
+Creators: ["[[Camellia (🎙️ 53)]]"]
+ListenInSec: 300
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[Camellia - Racemization.mp3]]"
 ---
 
 # Camellia - Racemization

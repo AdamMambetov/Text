@@ -1,19 +1,16 @@
 ---
-Album: "[[Music Is My Savior]]"
-Creators:
-  - "[[S3RL (🎙️ 501)]]"
-  - "[[Mixie Moon (🎙️ 502)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 0
-SourceFile: "[[S3RL - Music Is My Saviour.mp3]]"
-Year: 0
-aliases:
-  - Music Is My Saviour
 created: 2022-04-21T01:56:10+03:00
-source: ""
-related: []
-ListenInSec: 2
+aliases: [Music Is My Saviour]
+Cover: "[[_No Album Art.jpg]]"
+Year: 0
+Album: "[[Music Is My Savior]]"
 CoverOf: ""
+Creators: ["[[S3RL (🎙️ 501)]]", "[[Mixie Moon (🎙️ 502)]]"]
+ListenInSec: 2
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[S3RL - Music Is My Saviour.mp3]]"
 ---
 
 # S3RL - Music Is My Saviour

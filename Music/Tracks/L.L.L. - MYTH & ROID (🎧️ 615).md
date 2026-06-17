@@ -1,18 +1,16 @@
 ---
-Album: ""
-Creators:
-  - "[[MYTH & ROID (🎙️ 384)]]"
-Cover: ""
-NumberInAlbum: 1
-SourceFile: "[[MYTH & ROID - L.L.L.mp3]]"
-Year: 0
-aliases:
-  - L.L.L.
 created: 2023-07-09T19:27:08+03:00
-source: ""
-related: []
-ListenInSec: 527
+aliases: [L.L.L.]
+Cover: ""
+Year: 0
+Album: ""
 CoverOf: ""
+Creators: ["[[MYTH & ROID (🎙️ 384)]]"]
+ListenInSec: 527
+NumberInAlbum: 1
+related: []
+source: ""
+SourceFile: "[[MYTH & ROID - L.L.L.mp3]]"
 ---
 
 # MYTH & ROID - L.L.L

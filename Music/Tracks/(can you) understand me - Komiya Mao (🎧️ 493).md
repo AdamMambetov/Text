@@ -1,18 +1,16 @@
 ---
-Album: ""
-Creators:
-  - "[[Komiya Mao (🎙️ 620)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 0
-SourceFile: "[[Komiya Mao - (can you) understand me.mp3]]"
-Year: 2015
-aliases:
-  - (can you) understand me?
 created: 2022-10-05T14:04:48+03:00
-source: ""
-related: []
-ListenInSec: 164
+aliases: [(can you) understand me?]
+Cover: "[[_No Album Art.jpg]]"
+Year: 2015
+Album: ""
 CoverOf: ""
+Creators: ["[[Komiya Mao (🎙️ 620)]]"]
+ListenInSec: 164
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[Komiya Mao - (can you) understand me.mp3]]"
 ---
 
 # Komiya Mao - (can you) understand me?

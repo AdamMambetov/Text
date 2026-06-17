@@ -1,18 +1,16 @@
 ---
-Album: ""
-Creators:
-  - "[[ONE OK ROCK (🎙️ 400)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 0
-SourceFile: "[[ONE OK ROCK - Answer is Near.mp3]]"
-Year: 0
-aliases:
-  - Answer is Near
 created: 2022-10-05T13:43:34+03:00
-source: ""
-related: []
-ListenInSec: 3
+aliases: [Answer is Near]
+Cover: "[[_No Album Art.jpg]]"
+Year: 0
+Album: ""
 CoverOf: ""
+Creators: ["[[ONE OK ROCK (🎙️ 400)]]"]
+ListenInSec: 3
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[ONE OK ROCK - Answer is Near.mp3]]"
 ---
 
 # ONE OK ROCK - Answer is Near

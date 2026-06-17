@@ -1,18 +1,16 @@
 ---
-Album: "[[Tales from the Kingdom of Fife]]"
-Creators:
-  - "[[Gloryhammer (🎙️ 316)]]"
-Cover: ""
-NumberInAlbum: 3
-SourceFile: "[[Gloryhammer - Angus Mcfife.mp3]]"
-Year: 2013
-aliases:
-  - Angus Mcfife
 created: 2024-10-08T15:53:58+03:00
-source: ""
-related: []
-ListenInSec: 3
+aliases: [Angus Mcfife]
+Cover: ""
+Year: 2013
+Album: "[[Tales from the Kingdom of Fife]]"
 CoverOf: ""
+Creators: ["[[Gloryhammer (🎙️ 316)]]"]
+ListenInSec: 3
+NumberInAlbum: 3
+related: []
+source: ""
+SourceFile: "[[Gloryhammer - Angus Mcfife.mp3]]"
 ---
 
 # Gloryhammer - Angus Mcfife

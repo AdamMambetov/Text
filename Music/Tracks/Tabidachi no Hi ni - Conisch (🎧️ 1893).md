@@ -1,18 +1,16 @@
 ---
 created: 2026-03-20T02:35:59+03:00
-aliases:
-  - Tabidachi no Hi ni
+aliases: [Tabidachi no Hi ni]
 Cover: "[[Sonny Boy OST.jpg]]"
 Year: 2021
 Album: "[[Sonny Boy OST (📀 41)]]"
-Creators:
-  - "[[Conisch (🎙️ 697)]]"
+CoverOf: ""
+Creators: ["[[Conisch (🎙️ 697)]]"]
+ListenInSec: 0
 NumberInAlbum: 21
+related: []
 source: ""
 SourceFile: "[[Sonny Boy OST - Tabidachi no Hi ni.mp3]]"
-related: []
-ListenInSec: 0
-CoverOf: ""
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

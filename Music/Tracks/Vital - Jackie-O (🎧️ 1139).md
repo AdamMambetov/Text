@@ -1,18 +1,16 @@
 ---
-Album: ""
-Creators:
-  - "[[Jackie-O (🎙️ 339)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 0
-SourceFile: "[[Jackie-O - Vital.mp3]]"
-Year: 2019
-aliases:
-  - Vital
 created: 2024-10-05T15:53:04+03:00
-source: ""
-related: []
-ListenInSec: 250
+aliases: [Vital]
+Cover: "[[_No Album Art.jpg]]"
+Year: 2019
+Album: ""
 CoverOf: "[[Vital - Endoh Masaaki]]"
+Creators: ["[[Jackie-O (🎙️ 339)]]"]
+ListenInSec: 250
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[Jackie-O - Vital.mp3]]"
 ---
 
 # Jackie-O - Vital

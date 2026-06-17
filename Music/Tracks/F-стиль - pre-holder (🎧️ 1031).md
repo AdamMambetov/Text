@@ -1,18 +1,16 @@
 ---
-Album: "[[Umineko no Naku Koro ni OST (📀 30)]]"
-Creators:
-  - "[[pre-holder (🎙️ 5)]]"
-Cover: ""
-NumberInAlbum: 88
-SourceFile: "[[Umineko no Naku Koro ni OST - 088 F-стиль.ogg]]"
-Year: 2007
-aliases:
-  - F-стиль
 created: 2024-04-12T15:04:20+03:00
-source: ""
-related: []
-ListenInSec: 708
+aliases: [F-стиль]
+Cover: ""
+Year: 2007
+Album: "[[Umineko no Naku Koro ni OST (📀 30)]]"
 CoverOf: ""
+Creators: ["[[pre-holder (🎙️ 5)]]"]
+ListenInSec: 708
+NumberInAlbum: 88
+related: []
+source: ""
+SourceFile: "[[Umineko no Naku Koro ni OST - 088 F-стиль.ogg]]"
 ---
 
 # Umineko no Naku Koro ni OST - 088 F-стиль

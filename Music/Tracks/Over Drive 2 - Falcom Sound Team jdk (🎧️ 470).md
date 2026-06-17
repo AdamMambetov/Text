@@ -1,18 +1,16 @@
 ---
-Album: ""
-Creators:
-  - "[[Falcom Sound Team jdk (🎙️ 601)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 1
-SourceFile: "[[Falcom Sound Team jdk - OVER DRIVE2.mp3]]"
-Year: 0
-aliases:
-  - Over Drive 2
 created: 2022-10-05T13:45:50+03:00
-source: ""
-related: []
-ListenInSec: 444
+aliases: [Over Drive 2]
+Cover: "[[_No Album Art.jpg]]"
+Year: 0
+Album: ""
 CoverOf: ""
+Creators: ["[[Falcom Sound Team jdk (🎙️ 601)]]"]
+ListenInSec: 444
+NumberInAlbum: 1
+related: []
+source: ""
+SourceFile: "[[Falcom Sound Team jdk - OVER DRIVE2.mp3]]"
 ---
 
 # Falcom Sound Team jdk - OVER DRIVE2

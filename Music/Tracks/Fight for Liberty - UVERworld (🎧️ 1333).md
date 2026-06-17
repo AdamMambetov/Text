@@ -1,18 +1,16 @@
 ---
-Album: "[[All Time Best]]"
-Creators:
-  - "[[UVERworld (🎙️ 475)]]"
-Cover: ""
-NumberInAlbum: 2
-SourceFile: "[[UVERworld - Fight for Liberty.mp3]]"
-Year: 2013
-aliases:
-  - Fight for Liberty
 created: 2024-10-30T19:11:56+03:00
-source: ""
-related: []
-ListenInSec: 8
+aliases: [Fight for Liberty]
+Cover: ""
+Year: 2013
+Album: "[[All Time Best]]"
 CoverOf: ""
+Creators: ["[[UVERworld (🎙️ 475)]]"]
+ListenInSec: 8
+NumberInAlbum: 2
+related: []
+source: ""
+SourceFile: "[[UVERworld - Fight for Liberty.mp3]]"
 ---
 
 # UVERworld - Fight for Liberty

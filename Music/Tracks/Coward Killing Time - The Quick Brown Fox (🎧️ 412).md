@@ -1,18 +1,16 @@
 ---
-Album: "[[The Quick Brown Fox]]"
-Creators:
-  - "[[The Quick Brown Fox (🎙️ 462)]]"
-Cover: ""
-NumberInAlbum: 10
-SourceFile: "[[The Quick Brown Fox - Coward Killing Time.mp3]]"
-Year: 2008
-aliases:
-  - Coward Killing Time
 created: 2022-05-02T04:00:48+03:00
-source: ""
-related: []
-ListenInSec: 61
+aliases: [Coward Killing Time]
+Cover: ""
+Year: 2008
+Album: "[[The Quick Brown Fox]]"
 CoverOf: ""
+Creators: ["[[The Quick Brown Fox (🎙️ 462)]]"]
+ListenInSec: 61
+NumberInAlbum: 10
+related: []
+source: ""
+SourceFile: "[[The Quick Brown Fox - Coward Killing Time.mp3]]"
 ---
 
 # The Quick Brown Fox - Coward Killing Time

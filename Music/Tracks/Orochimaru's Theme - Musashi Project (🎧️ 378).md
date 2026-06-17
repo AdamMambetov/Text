@@ -1,18 +1,16 @@
 ---
-Album: "[[Naruto OST 2 (📀 16)]]"
-Creators:
-  - "[[Musashi Project (🎙️ 560)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 13
-SourceFile: "[[Naruto OST - Orochimaru's Theme.mp3]]"
-Year: 2004
-aliases:
-  - Orochimaru's Theme
 created: 2022-04-28T17:50:48+03:00
-source:
-related: []
-ListenInSec: 22
+aliases: ["Orochimaru's Theme"]
+Cover: "[[_No Album Art.jpg]]"
+Year: 2004
+Album: "[[Naruto OST 2 (📀 16)]]"
 CoverOf: ""
+Creators: ["[[Musashi Project (🎙️ 560)]]"]
+ListenInSec: 22
+NumberInAlbum: 13
+related: []
+source:
+SourceFile: "[[Naruto OST - Orochimaru's Theme.mp3]]"
 ---
 
 # Naruto OST - Orochimaru's Theme

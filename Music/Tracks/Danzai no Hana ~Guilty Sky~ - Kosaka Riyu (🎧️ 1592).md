@@ -1,21 +1,16 @@
 ---
-Album: ""
-Creators:
-  - "[[Kosaka Riyu (🎙️ 703)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 0
-SourceFile: "[[Kosaka Riyu - Danzai no Hana ~Guilty Sky~.mp3]]"
-Year: 0
-aliases:
-  - Danzai no Hana ~Guilty Sky~
-  - Claymore ED 1
-  - Клеймор ED 1
 created: 2025-01-08T20:49:07+03:00
-source: ""
-related:
-  - "[[Danzai no Hana ~Guilty Sky~ (TV Size) - Kosaka Riyu]]"
-ListenInSec: 1626
+aliases: [Danzai no Hana ~Guilty Sky~, Claymore ED 1, Клеймор ED 1]
+Cover: "[[_No Album Art.jpg]]"
+Year: 0
+Album: ""
 CoverOf: ""
+Creators: ["[[Kosaka Riyu (🎙️ 703)]]"]
+ListenInSec: 1626
+NumberInAlbum: 0
+related: ["[[Danzai no Hana ~Guilty Sky~ (TV Size) - Kosaka Riyu]]"]
+source: ""
+SourceFile: "[[Kosaka Riyu - Danzai no Hana ~Guilty Sky~.mp3]]"
 ---
 
 # Kosaka Riyu - Danzai no Hana ~Guilty Sky~

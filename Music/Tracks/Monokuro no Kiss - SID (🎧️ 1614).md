@@ -1,17 +1,16 @@
 ---
-Album: ""
-Creators: []
-Cover: ""
-NumberInAlbum: 1
-SourceFile: "[[SID -Monokuro no Kiss.mp3]]"
-Year: 0
-aliases:
-  - Monokuro no Kiss
 created: 2025-01-08T22:47:30+03:00
-source: ""
-related: []
-ListenInSec: 926
+aliases: [Monokuro no Kiss]
+Cover: ""
+Year: 0
+Album: ""
 CoverOf: ""
+Creators: []
+ListenInSec: 926
+NumberInAlbum: 1
+related: []
+source: ""
+SourceFile: "[[SID -Monokuro no Kiss.mp3]]"
 ---
 
 # SID - Monokuro no Kiss

@@ -1,18 +1,16 @@
 ---
-Album: ""
-Creators:
-  - "[[IOWA (🎙️ 337)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 1
-SourceFile: "[[IOWA - Улыбайся.mp3]]"
-Year: 0
-aliases:
-  - Улыбайся
 created: 2022-04-21T01:54:03+03:00
-source: ""
-related: []
-ListenInSec: 218
+aliases: [Улыбайся]
+Cover: "[[_No Album Art.jpg]]"
+Year: 0
+Album: ""
 CoverOf: ""
+Creators: ["[[IOWA (🎙️ 337)]]"]
+ListenInSec: 218
+NumberInAlbum: 1
+related: []
+source: ""
+SourceFile: "[[IOWA - Улыбайся.mp3]]"
 ---
 
 # IOWA - Улыбайся

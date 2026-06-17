@@ -1,18 +1,16 @@
 ---
-Album: "[[Silver Screens]]"
-Creators:
-  - "[[Autumn Kings (🎙️ 198)]]"
-Cover: ""
-NumberInAlbum: 11
-SourceFile: "[[Autumn Kings - Livin' La Vida Loca.mp3]]"
-Year: 2017
-aliases:
-  - Livin' La Vida Loca
 created: 2023-09-29T16:23:11+03:00
-source: ""
-related: []
-ListenInSec: 3
+aliases: ["Livin' La Vida Loca"]
+Cover: ""
+Year: 2017
+Album: "[[Silver Screens]]"
 CoverOf: ""
+Creators: ["[[Autumn Kings (🎙️ 198)]]"]
+ListenInSec: 3
+NumberInAlbum: 11
+related: []
+source: ""
+SourceFile: "[[Autumn Kings - Livin' La Vida Loca.mp3]]"
 ---
 
 # Autumn Kings - Livin' La Vida Loca

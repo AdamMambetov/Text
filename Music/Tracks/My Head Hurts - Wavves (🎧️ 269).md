@@ -1,18 +1,16 @@
 ---
-Album: "[[V [2015] {Wavves}]]"
-Creators:
-  - "[[Wavves (🎙️ 480)]]"
-Cover: ""
-NumberInAlbum: 5
-SourceFile: "[[Wavves - My Head Hurts.mp3]]"
-Year: 2015
-aliases:
-  - My Head Hurts
 created: 2022-04-22T21:51:06+03:00
-source: ""
-related: []
-ListenInSec: 3
+aliases: [My Head Hurts]
+Cover: ""
+Year: 2015
+Album: "[[V [2015] {Wavves}]]"
 CoverOf: ""
+Creators: ["[[Wavves (🎙️ 480)]]"]
+ListenInSec: 3
+NumberInAlbum: 5
+related: []
+source: ""
+SourceFile: "[[Wavves - My Head Hurts.mp3]]"
 ---
 
 # Wavves - My Head Hurts

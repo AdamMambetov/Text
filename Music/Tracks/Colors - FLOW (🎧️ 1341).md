@@ -1,18 +1,16 @@
 ---
-Album: "[[FLOW ANIME BEST]]"
-Creators:
-  - "[[FLOW (🎙️ 311)]]"
-Cover: ""
-NumberInAlbum: 1
-SourceFile: "[[FLOW - Colors.mp3]]"
-Year: 2011
-aliases:
-  - Colors
 created: 2024-10-30T19:18:46+03:00
-source: ""
-related: []
-ListenInSec: 236
+aliases: [Colors]
+Cover: ""
+Year: 2011
+Album: "[[FLOW ANIME BEST]]"
 CoverOf: ""
+Creators: ["[[FLOW (🎙️ 311)]]"]
+ListenInSec: 236
+NumberInAlbum: 1
+related: []
+source: ""
+SourceFile: "[[FLOW - Colors.mp3]]"
 ---
 
 # FLOW - Colors

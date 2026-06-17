@@ -1,17 +1,16 @@
 ---
-Album: "[[Bills]]"
-Creators: []
-Cover: ""
-NumberInAlbum: 1
-SourceFile: "[[LunchMoney Lewis - Bills.mp3]]"
-Year: 2015
-aliases:
-  - Bills
 created: 2024-10-10T22:58:20+03:00
-source: ""
-related: []
-ListenInSec: 616
+aliases: [Bills]
+Cover: ""
+Year: 2015
+Album: "[[Bills]]"
 CoverOf: ""
+Creators: []
+ListenInSec: 616
+NumberInAlbum: 1
+related: []
+source: ""
+SourceFile: "[[LunchMoney Lewis - Bills.mp3]]"
 ---
 
 # LunchMoney Lewis - Bills

@@ -1,20 +1,16 @@
 ---
-Album: ""
-Creators:
-  - "[[Harmony Team (🎙️ 704)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 0
-SourceFile: "[[Harmony Team - Perfect World.mp3]]"
-Year: 0
-aliases:
-  - Perfect World
-  - Spice and Wolf ED 2
-  - Волчица и пряности ED 2
 created: 2024-06-14T18:41:55+03:00
-source: ""
-related: []
-ListenInSec: 98
+aliases: [Perfect World, Spice and Wolf ED 2, Волчица и пряности ED 2]
+Cover: "[[_No Album Art.jpg]]"
+Year: 0
+Album: ""
 CoverOf: ""
+Creators: ["[[Harmony Team (🎙️ 704)]]"]
+ListenInSec: 98
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[Harmony Team - Perfect World.mp3]]"
 ---
 
 # Harmony Team - Perfect World

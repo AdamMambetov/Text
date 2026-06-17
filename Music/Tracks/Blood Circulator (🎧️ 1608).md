@@ -1,17 +1,16 @@
 ---
-Album: ""
-Creators: []
-Cover: ""
-NumberInAlbum: 1
-SourceFile: "[[ASIAN KUNG-FU GENERATION - Blood Circulator.mp3]]"
-Year: 0
-aliases:
-  - Blood Circulator
 created: 2025-01-08T22:27:48+03:00
-source: ""
-related: []
-ListenInSec: 219
+aliases: [Blood Circulator]
+Cover: ""
+Year: 0
+Album: ""
 CoverOf: ""
+Creators: []
+ListenInSec: 219
+NumberInAlbum: 1
+related: []
+source: ""
+SourceFile: "[[ASIAN KUNG-FU GENERATION - Blood Circulator.mp3]]"
 ---
 
 # ASIAN KUNG-FU GENERATION - Blood Circulator

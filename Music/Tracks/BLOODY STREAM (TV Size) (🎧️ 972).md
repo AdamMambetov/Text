@@ -1,18 +1,16 @@
 ---
-Album: ""
-Creators: []
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 1
-SourceFile: "[[Coda - BLOODY STREAM (TV Size).mp3]]"
-Year: 2013
-aliases:
-  - BLOODY STREAM (TV Size)
 created: 2024-07-21T15:01:24+03:00
-source: ""
-related:
-  - "[[BLOODY STREAM - Coda (🎧️ 409)]]"
-ListenInSec: 268
+aliases: [BLOODY STREAM (TV Size)]
+Cover: "[[_No Album Art.jpg]]"
+Year: 2013
+Album: ""
 CoverOf: ""
+Creators: []
+ListenInSec: 268
+NumberInAlbum: 1
+related: ["[[BLOODY STREAM - Coda (🎧️ 409)]]"]
+source: ""
+SourceFile: "[[Coda - BLOODY STREAM (TV Size).mp3]]"
 ---
 
 # Coda - BLOODY STREAM (TV Size)

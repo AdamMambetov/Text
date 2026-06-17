@@ -1,18 +1,16 @@
 ---
-Album: ""
-Creators:
-  - "[[O-Zone (🎙️ 398)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 0
-SourceFile: "[[O-Zone - Dragostea Din Tei.mp3]]"
-Year: 2003
-aliases:
-  - Dragostea Din Tei
 created: 2022-04-21T01:52:36+03:00
-source: ""
-related: []
-ListenInSec: 1189
+aliases: [Dragostea Din Tei]
+Cover: "[[_No Album Art.jpg]]"
+Year: 2003
+Album: ""
 CoverOf: ""
+Creators: ["[[O-Zone (🎙️ 398)]]"]
+ListenInSec: 1189
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[O-Zone - Dragostea Din Tei.mp3]]"
 valid: true
 ---
 

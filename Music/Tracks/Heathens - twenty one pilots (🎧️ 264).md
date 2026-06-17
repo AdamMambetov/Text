@@ -1,18 +1,16 @@
 ---
-Album: ""
-Creators:
-  - "[[twenty one pilots (🎙️ 473)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 0
-SourceFile: "[[twenty one pilots - Heathens.mp3]]"
-Year: 2016
-aliases:
-  - Heathens
 created: 2022-04-22T21:49:44+03:00
-source: ""
-related: []
-ListenInSec: 9
+aliases: [Heathens]
+Cover: "[[_No Album Art.jpg]]"
+Year: 2016
+Album: ""
 CoverOf: ""
+Creators: ["[[twenty one pilots (🎙️ 473)]]"]
+ListenInSec: 9
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[twenty one pilots - Heathens.mp3]]"
 ---
 
 # twenty one pilots - Heathens

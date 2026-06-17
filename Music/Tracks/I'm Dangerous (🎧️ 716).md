@@ -1,17 +1,16 @@
 ---
-Album: ""
-Creators: []
-Cover: ""
-NumberInAlbum: 1
-SourceFile: "[[The EverLove - I'm Dangerous.mp3]]"
-Year: 0
-aliases:
-  - I'm Dangerous
 created: 2024-01-04T12:14:07+03:00
-source: ""
-related: []
-ListenInSec: 518
+aliases: ["I'm Dangerous"]
+Cover: ""
+Year: 0
+Album: ""
 CoverOf: ""
+Creators: []
+ListenInSec: 518
+NumberInAlbum: 1
+related: []
+source: ""
+SourceFile: "[[The EverLove - I'm Dangerous.mp3]]"
 ---
 
 # The EverLove - I'm Dangerous

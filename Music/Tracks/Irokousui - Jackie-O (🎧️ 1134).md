@@ -1,21 +1,16 @@
 ---
-Album: ""
-Creators:
-  - "[[Jackie-O (🎙️ 339)]]"
-  - "[[B-Lion (🎙️ 205)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 0
-SourceFile: "[[Jackie-O - Irokousui.mp3]]"
-Year: 2022
-aliases:
-  - Irokousui
-  - Horimiya OP 1
-  - Хоримия OP 1
 created: 2024-10-05T15:42:48+03:00
-source: ""
-related: []
-ListenInSec: 892
+aliases: [Irokousui, Horimiya OP 1, Хоримия OP 1]
+Cover: "[[_No Album Art.jpg]]"
+Year: 2022
+Album: ""
 CoverOf: "[[Irokousui - Yoh Kamiyama (🎧️ 1693)]]"
+Creators: ["[[Jackie-O (🎙️ 339)]]", "[[B-Lion (🎙️ 205)]]"]
+ListenInSec: 892
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[Jackie-O - Irokousui.mp3]]"
 ---
 
 # Jackie-O - Irokousui

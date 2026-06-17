@@ -1,18 +1,16 @@
 ---
-Album: ""
-Creators:
-  - "[[Goose House (🎙️ 318)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 1
-SourceFile: "[[Goose House - Hikarunara (TV Size).mp3]]"
-Year: 0
-aliases:
-  - Hikarunara (TV Size)
 created: 2022-06-02T18:00:06+03:00
-source:
-related: []
-ListenInSec: 170
+aliases: [Hikarunara (TV Size)]
+Cover: "[[_No Album Art.jpg]]"
+Year: 0
+Album: ""
 CoverOf: ""
+Creators: ["[[Goose House (🎙️ 318)]]"]
+ListenInSec: 170
+NumberInAlbum: 1
+related: []
+source:
+SourceFile: "[[Goose House - Hikarunara (TV Size).mp3]]"
 ---
 
 # Goose House - Hikarunara (TV Size)

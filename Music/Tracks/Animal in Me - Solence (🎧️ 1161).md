@@ -1,18 +1,16 @@
 ---
-Album: "[[Direction]]"
-Creators:
-  - "[[Solence (🎙️ 443)]]"
-Cover: ""
-NumberInAlbum: 2
-SourceFile: "[[Solence - Animal In Me.mp3]]"
-Year: 2020
-aliases:
-  - Animal in Me
 created: 2024-10-10T22:22:34+03:00
-source: ""
-related: []
-ListenInSec: 13
+aliases: [Animal in Me]
+Cover: ""
+Year: 2020
+Album: "[[Direction]]"
 CoverOf: ""
+Creators: ["[[Solence (🎙️ 443)]]"]
+ListenInSec: 13
+NumberInAlbum: 2
+related: []
+source: ""
+SourceFile: "[[Solence - Animal In Me.mp3]]"
 ---
 
 # Solence - Animal In Me

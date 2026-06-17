@@ -1,17 +1,16 @@
 ---
-Album: "[[Everything Black]]"
-Creators: []
-Cover: ""
-NumberInAlbum: 1
-SourceFile: "[[Unlike Pluto - Everything Black.mp3]]"
-Year: 2017
-aliases:
-  - Everything Black
 created: 2024-10-23T15:05:20+03:00
-source: ""
-related: []
-ListenInSec: 88
+aliases: [Everything Black]
+Cover: ""
+Year: 2017
+Album: "[[Everything Black]]"
 CoverOf: ""
+Creators: []
+ListenInSec: 88
+NumberInAlbum: 1
+related: []
+source: ""
+SourceFile: "[[Unlike Pluto - Everything Black.mp3]]"
 ---
 
 # Unlike Pluto - Everything Black

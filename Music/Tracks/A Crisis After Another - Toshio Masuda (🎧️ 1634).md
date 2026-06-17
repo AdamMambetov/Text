@@ -1,18 +1,16 @@
 ---
-Album: "[[Naruto OST 3 (📀 17)]]"
-Creators:
-  - "[[Toshio Masuda (🎙️ 559)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 4
-SourceFile: "[[Naruto OST - A Crisis After Another.mp3]]"
-Year: 2005
-aliases:
-  - A Crisis After Another
 created: 2025-02-03T08:21:14+03:00
-source:
-related: []
-ListenInSec: 126
+aliases: [A Crisis After Another]
+Cover: "[[_No Album Art.jpg]]"
+Year: 2005
+Album: "[[Naruto OST 3 (📀 17)]]"
 CoverOf: ""
+Creators: ["[[Toshio Masuda (🎙️ 559)]]"]
+ListenInSec: 126
+NumberInAlbum: 4
+related: []
+source:
+SourceFile: "[[Naruto OST - A Crisis After Another.mp3]]"
 ---
 
 # Naruto OST - A Crisis After Another

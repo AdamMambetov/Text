@@ -1,17 +1,16 @@
 ---
-Album: "[[Siren Song of the Counter Culture]]"
-Creators: []
-Cover: ""
-NumberInAlbum: 17
-SourceFile: "[[Rise Against - Give It All.mp3]]"
-Year: 2004
-aliases:
-  - Give It All
 created: 2024-10-30T19:28:34+03:00
-source: ""
-related: []
-ListenInSec: 170
+aliases: [Give It All]
+Cover: ""
+Year: 2004
+Album: "[[Siren Song of the Counter Culture]]"
 CoverOf: ""
+Creators: []
+ListenInSec: 170
+NumberInAlbum: 17
+related: []
+source: ""
+SourceFile: "[[Rise Against - Give It All.mp3]]"
 ---
 
 # Rise Against - Give It All

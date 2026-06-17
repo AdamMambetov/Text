@@ -1,18 +1,16 @@
 ---
-Album: "[[War & Peace]]"
-Creators:
-  - "[[Edwin Starr (🎙️ 299)]]"
-Cover: ""
-NumberInAlbum: 1
-SourceFile: "[[Edwin Starr - War.mp3]]"
-Year: 1970
-aliases:
-  - War
 created: 2023-09-29T16:24:50+03:00
-source: ""
-related: []
-ListenInSec: 5
+aliases: [War]
+Cover: ""
+Year: 1970
+Album: "[[War & Peace]]"
 CoverOf: ""
+Creators: ["[[Edwin Starr (🎙️ 299)]]"]
+ListenInSec: 5
+NumberInAlbum: 1
+related: []
+source: ""
+SourceFile: "[[Edwin Starr - War.mp3]]"
 ---
 
 # Edwin Starr - War

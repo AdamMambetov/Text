@@ -5,7 +5,7 @@ views:
     name: Table
     filters:
       and:
-        - file.path.contains("Tracks")
+        - file.folder.endsWith("Tracks")
         - or:
             - this.related.contains(file)
             - file.properties.related.contains(this.file)

@@ -1,18 +1,16 @@
 ---
-Album: ""
-Creators:
-  - "[[Neru (🎙️ 576)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 0
-SourceFile: "[[Neru - Byoumei wa Ai Datta.mp3]]"
-Year: 0
-aliases:
-  - Byoumei wa Ai Datta
 created: 2022-10-05T13:02:22+03:00
-source: ""
-related: []
-ListenInSec: 536
+aliases: [Byoumei wa Ai Datta]
+Cover: "[[_No Album Art.jpg]]"
+Year: 0
+Album: ""
 CoverOf: ""
+Creators: ["[[Neru (🎙️ 576)]]"]
+ListenInSec: 536
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[Neru - Byoumei wa Ai Datta.mp3]]"
 ---
 
 # Neru - Byoumei wa Ai Datta

@@ -1,18 +1,16 @@
 ---
-Album: "[[Hallelujah]]"
-Creators:
-  - "[[Theory Of A Deadman (🎙️ 466)]]"
-Cover: ""
-NumberInAlbum: 1
-SourceFile: "[[Theory Of A Deadman - Hallelujah.mp3]]"
-Year: 2016
-aliases:
-  - Hallelujah
 created: 2023-09-29T16:27:04+03:00
-source: ""
-related: []
-ListenInSec: 96
+aliases: [Hallelujah]
+Cover: ""
+Year: 2016
+Album: "[[Hallelujah]]"
 CoverOf: ""
+Creators: ["[[Theory Of A Deadman (🎙️ 466)]]"]
+ListenInSec: 96
+NumberInAlbum: 1
+related: []
+source: ""
+SourceFile: "[[Theory Of A Deadman - Hallelujah.mp3]]"
 ---
 
 # Theory Of A Deadman - Hallelujah

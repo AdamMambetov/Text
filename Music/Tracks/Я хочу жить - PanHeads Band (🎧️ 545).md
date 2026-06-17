@@ -1,18 +1,16 @@
 ---
 created: 2022-12-20T23:15:30+03:00
-aliases:
-  - Я хочу жить
+aliases: [Я хочу жить]
 Cover: ""
 Year: 2021
 Album: ""
-Creators:
-  - "[[PanHeads Band (🎙️ 409)]]"
+CoverOf: "[[I Want to Live - Skillet (🎧️ 317)]]"
+Creators: ["[[PanHeads Band (🎙️ 409)]]"]
+ListenInSec: 218
 NumberInAlbum: 1
+related: []
 source: ""
 SourceFile: "[[PANHEADS BAND - Я хочу жить.mp3]]"
-related: []
-ListenInSec: 218
-CoverOf: "[[I Want to Live - Skillet (🎧️ 317)]]"
 ---
 
 # PanHeads Band - Я хочу жить

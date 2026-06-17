@@ -1,18 +1,16 @@
 ---
-Album: ""
-Creators:
-  - "[[Noize MC (🎙️ 78)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 0
-SourceFile: "[[Noize MC - Столетняя война.mp3]]"
-Year: 2021
-aliases:
-  - Столетняя война
 created: 2022-04-22T21:15:10+03:00
-source: ""
-related: []
-ListenInSec: 11
+aliases: [Столетняя война]
+Cover: "[[_No Album Art.jpg]]"
+Year: 2021
+Album: ""
 CoverOf: ""
+Creators: ["[[Noize MC (🎙️ 78)]]"]
+ListenInSec: 11
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[Noize MC - Столетняя война.mp3]]"
 ---
 
 # Noize MC - Столетняя война

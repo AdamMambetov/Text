@@ -1,22 +1,16 @@
 ---
-Album: ""
-Creators:
-  - "[[PelleK (🎙️ 713)]]"
-  - "[[Raon Lee (🎙️ 714)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 0
-SourceFile: "[[PelleK & Raon Lee - Mirai Nikki.mp3]]"
-Year: 2015
-aliases:
-  - Kuusou Mesorogiwi
-  - Mirai Nikki OP 1
-  - Futute Diary OP 1
-  - Дневник будущего OP 1
 created: 2025-01-07T18:46:55+03:00
-source: ""
-related: []
-ListenInSec: 579
+aliases: [Kuusou Mesorogiwi, Mirai Nikki OP 1, Futute Diary OP 1, Дневник будущего OP 1]
+Cover: "[[_No Album Art.jpg]]"
+Year: 2015
+Album: ""
 CoverOf: "[[Kuusou Mesorogiwi - Yousei Teikoku (🎧️ 640)]]"
+Creators: ["[[PelleK (🎙️ 713)]]", "[[Raon Lee (🎙️ 714)]]"]
+ListenInSec: 579
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[PelleK & Raon Lee - Mirai Nikki.mp3]]"
 ---
 
 # PelleK & Raon Lee - Mirai Nikki

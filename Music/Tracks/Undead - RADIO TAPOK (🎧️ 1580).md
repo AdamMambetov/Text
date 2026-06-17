@@ -1,18 +1,16 @@
 ---
-Album: ""
-Creators:
-  - "[[RADIO TAPOK (🎙️ 421)]]"
-Cover: ""
-NumberInAlbum: 1
-SourceFile: "[[RADIO TAPOK - Undead.mp3]]"
-Year: 0
-aliases:
-  - Undead
 created: 2025-01-08T20:41:29+03:00
-source: ""
-related: []
-ListenInSec: 743
+aliases: [Undead]
+Cover: ""
+Year: 0
+Album: ""
 CoverOf: "[[Undead - Hollywood Undead (🎧️ 121)]]"
+Creators: ["[[RADIO TAPOK (🎙️ 421)]]"]
+ListenInSec: 743
+NumberInAlbum: 1
+related: []
+source: ""
+SourceFile: "[[RADIO TAPOK - Undead.mp3]]"
 ---
 
 # RADIO TAPOK - Undead

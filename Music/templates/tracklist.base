@@ -5,7 +5,7 @@ views:
     name: Table
     filters:
       and:
-        - file.path.contains("Track")
+        - file.folder.endsWith("Tracks")
         - or:
             - file.properties.Creators.contains(this.file)
             - this.tracklist.contains(file)

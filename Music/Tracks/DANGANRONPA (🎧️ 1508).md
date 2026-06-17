@@ -1,17 +1,16 @@
 ---
-Album: ""
-Creators: []
-Cover: ""
-NumberInAlbum: 1
-SourceFile: "[[Danganrnopa OST - 1-01- DANGANRONPA.mp3]]"
-Year: 0
-aliases:
-  - DANGANRONPA
 created: 2025-01-08T16:53:28+03:00
-source: ""
-related: []
-ListenInSec: 15
+aliases: [DANGANRONPA]
+Cover: ""
+Year: 0
+Album: ""
 CoverOf: ""
+Creators: []
+ListenInSec: 15
+NumberInAlbum: 1
+related: []
+source: ""
+SourceFile: "[[Danganrnopa OST - 1-01- DANGANRONPA.mp3]]"
 ---
 
 # Danganrnopa OST - 1-01- DANGANRONPA

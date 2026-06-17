@@ -1,18 +1,16 @@
 ---
-Album: "[[The Sound of Revenge]]"
-Creators:
-  - "[[Chamillionaire (🎙️ 254)]]"
-Cover: ""
-NumberInAlbum: 4
-SourceFile: "[[Chamillionaire - Ridin'.mp3]]"
-Year: 2005
-aliases:
-  - Ridin'
 created: 2023-09-29T16:24:15+03:00
-source: ""
-related: []
-ListenInSec: 375
+aliases: ["Ridin'"]
+Cover: ""
+Year: 2005
+Album: "[[The Sound of Revenge]]"
 CoverOf: ""
+Creators: ["[[Chamillionaire (🎙️ 254)]]"]
+ListenInSec: 375
+NumberInAlbum: 4
+related: []
+source: ""
+SourceFile: "[[Chamillionaire - Ridin'.mp3]]"
 ---
 
 # Chamillionaire - Ridin'

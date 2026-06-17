@@ -1,18 +1,16 @@
 ---
-Album: ""
-Creators:
-  - "[[Игорь Куликов (🎙️ 71)]]"
-Cover: ""
-NumberInAlbum: 1
-SourceFile: "[[Игорь Куликов - Carry On.mp3]]"
-Year: 0
-aliases:
-  - Carry On
 created: 2024-10-23T15:28:42+03:00
-source: ""
-related: []
-ListenInSec: 83
+aliases: [Carry On]
+Cover: ""
+Year: 0
+Album: ""
 CoverOf: "[[Carry On - Avenged Sevenfold (🎧️ 1206)]]"
+Creators: ["[[Игорь Куликов (🎙️ 71)]]"]
+ListenInSec: 83
+NumberInAlbum: 1
+related: []
+source: ""
+SourceFile: "[[Игорь Куликов - Carry On.mp3]]"
 ---
 
 # Игорь Куликов - Carry On

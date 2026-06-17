@@ -1,17 +1,16 @@
 ---
 created: 2025-09-25T13:11:12+03:00
-aliases:
-  - Toni's Music Library - B-Side Wins Again (Game Version)
+aliases: ["Toni's Music Library - B-Side Wins Again (Game Version)"]
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
+CoverOf: ""
 Creators: []
+ListenInSec: 273
 NumberInAlbum: 0
+related: []
 source: ""
 SourceFile: "[[Toni's Music Library - B-Side Wins Again (Game Version).mp3]]"
-related: []
-ListenInSec: 273
-CoverOf: ""
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

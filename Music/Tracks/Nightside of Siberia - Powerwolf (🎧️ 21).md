@@ -1,18 +1,16 @@
 ---
-Album: "[[The Sacrament of Sin (📀 39)]]"
-Creators:
-  - "[[Powerwolf (🎙️ 418)]]"
-Cover: "[[Powerwolf - The Sacrament of Sin.jpg]]"
-NumberInAlbum: 7
-SourceFile: "[[Powerwolf - Nightside of Siberia.mp3]]"
-Year: 2018
-aliases:
-  - Nightside of Siberia
 created: 2022-04-21T01:53:01+03:00
-source: ""
-related: []
-ListenInSec: 229
+aliases: [Nightside of Siberia]
+Cover: "[[Powerwolf - The Sacrament of Sin.jpg]]"
+Year: 2018
+Album: "[[The Sacrament of Sin (📀 39)]]"
 CoverOf: ""
+Creators: ["[[Powerwolf (🎙️ 418)]]"]
+ListenInSec: 229
+NumberInAlbum: 7
+related: []
+source: ""
+SourceFile: "[[Powerwolf - Nightside of Siberia.mp3]]"
 ---
 
 # Powerwolf - Nightside of Siberia

@@ -1,18 +1,16 @@
 ---
-Album: "[[Old Friends]]"
-Creators:
-  - "[[Simon & Garfunkel (🎙️ 549)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 14
-SourceFile: "[[Simon & Garfunkel - The Sound of Silence.mp3]]"
-Year: 1997
-aliases:
-  - The Sound of Silence
 created: 2022-04-28T01:59:24+03:00
-source:
-related: []
-ListenInSec: 4
+aliases: [The Sound of Silence]
+Cover: "[[_No Album Art.jpg]]"
+Year: 1997
+Album: "[[Old Friends]]"
 CoverOf: ""
+Creators: ["[[Simon & Garfunkel (🎙️ 549)]]"]
+ListenInSec: 4
+NumberInAlbum: 14
+related: []
+source:
+SourceFile: "[[Simon & Garfunkel - The Sound of Silence.mp3]]"
 ---
 
 # Simon & Garfunkel - The Sound of Silence

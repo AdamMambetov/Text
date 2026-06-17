@@ -1,18 +1,16 @@
 ---
-Album: "[[Ame to Kusari]]"
-Creators:
-  - "[[Onsa Media (🎙️ 402)]]"
-Cover: ""
-NumberInAlbum: 1
-SourceFile: "[[Onsa Media - Ame to Kusari.mp3]]"
-Year: 2021
-aliases:
-  - Ame to Kusari
 created: 2024-10-08T15:35:04+03:00
-source: ""
-related: []
-ListenInSec: 583
+aliases: [Ame to Kusari]
+Cover: ""
+Year: 2021
+Album: "[[Ame to Kusari]]"
 CoverOf: ""
+Creators: ["[[Onsa Media (🎙️ 402)]]"]
+ListenInSec: 583
+NumberInAlbum: 1
+related: []
+source: ""
+SourceFile: "[[Onsa Media - Ame to Kusari.mp3]]"
 ---
 
 # Onsa Media - Ame to Kusari

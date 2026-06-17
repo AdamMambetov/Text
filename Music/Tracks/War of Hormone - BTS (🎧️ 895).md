@@ -1,18 +1,16 @@
 ---
-Album: "[[Dark & Wild]]"
-Creators:
-  - "[[BTS (🎙️ 241)]]"
-Cover: ""
-NumberInAlbum: 3
-SourceFile: "[[BTS - War of Hormone.mp3]]"
-Year: 2014
-aliases:
-  - War of Hormone
 created: 2023-09-29T16:24:52+03:00
-source: ""
-related: []
-ListenInSec: 283
+aliases: [War of Hormone]
+Cover: ""
+Year: 2014
+Album: "[[Dark & Wild]]"
 CoverOf: ""
+Creators: ["[[BTS (🎙️ 241)]]"]
+ListenInSec: 283
+NumberInAlbum: 3
+related: []
+source: ""
+SourceFile: "[[BTS - War of Hormone.mp3]]"
 ---
 
 # BTS - War of Hormone

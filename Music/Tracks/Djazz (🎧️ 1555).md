@@ -1,16 +1,16 @@
 ---
-Album: ""
-Creators: []
-Cover: ""
-NumberInAlbum: 1
-SourceFile: "[[Rob Scallon - Djazz.mp3]]"
-Year: 0
-aliases: []
 created: 2025-01-08T18:42:52+03:00
-source: ""
-related: []
-ListenInSec: 480
+aliases: []
+Cover: ""
+Year: 0
+Album: ""
 CoverOf: ""
+Creators: []
+ListenInSec: 480
+NumberInAlbum: 1
+related: []
+source: ""
+SourceFile: "[[Rob Scallon - Djazz.mp3]]"
 ---
 
 # Rob Scallon - Djazz

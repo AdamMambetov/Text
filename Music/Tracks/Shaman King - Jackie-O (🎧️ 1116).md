@@ -1,18 +1,16 @@
 ---
-Album: "[[Shaman King]]"
-Creators:
-  - "[[Jackie-O (🎙️ 339)]]"
-Cover: ""
-NumberInAlbum: 1
-SourceFile: "[[Jackie-O - Shaman King.mp3]]"
-Year: 2021
-aliases:
-  - Shaman King
 created: 2024-10-05T15:15:38+03:00
-source: ""
-related: []
-ListenInSec: 381
+aliases: [Shaman King]
+Cover: ""
+Year: 2021
+Album: "[[Shaman King]]"
 CoverOf: ""
+Creators: ["[[Jackie-O (🎙️ 339)]]"]
+ListenInSec: 381
+NumberInAlbum: 1
+related: []
+source: ""
+SourceFile: "[[Jackie-O - Shaman King.mp3]]"
 ---
 
 # Jackie-O - Shaman King

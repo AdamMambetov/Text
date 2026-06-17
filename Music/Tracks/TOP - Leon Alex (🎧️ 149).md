@@ -1,20 +1,16 @@
 ---
-Album: ""
-Creators:
-  - "[[Leon Alex (🎙️ 361)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 0
-SourceFile: "[[Leon Alex - TOP.mp3]]"
-Year: 2020
-aliases:
-  - TOP
-  - Tower of God OP 1
-  - Башня Бога OP 1
 created: 2022-04-22T21:03:26+03:00
-source: ""
-related: []
-ListenInSec: 1
+aliases: [TOP, Tower of God OP 1, Башня Бога OP 1]
+Cover: "[[_No Album Art.jpg]]"
+Year: 2020
+Album: ""
 CoverOf: ""
+Creators: ["[[Leon Alex (🎙️ 361)]]"]
+ListenInSec: 1
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[Leon Alex - TOP.mp3]]"
 ---
 
 # Leon Alex - TOP

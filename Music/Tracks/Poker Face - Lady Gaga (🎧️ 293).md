@@ -1,18 +1,16 @@
 ---
-Album: "[[The Fame [2008] {Lady Gaga}]]"
-Creators:
-  - "[[Lady Gaga (🎙️ 359)]]"
-Cover: ""
-NumberInAlbum: 6
-SourceFile: "[[Lady Gaga - Poker Face.mp3]]"
-Year: 2008
-aliases:
-  - Poker Face
 created: 2022-04-23T02:12:08+03:00
-source: ""
-related: []
-ListenInSec: 242
+aliases: [Poker Face]
+Cover: ""
+Year: 2008
+Album: "[[The Fame [2008] {Lady Gaga}]]"
 CoverOf: ""
+Creators: ["[[Lady Gaga (🎙️ 359)]]"]
+ListenInSec: 242
+NumberInAlbum: 6
+related: []
+source: ""
+SourceFile: "[[Lady Gaga - Poker Face.mp3]]"
 ---
 
 # Lady Gaga - Poker Face

@@ -1,18 +1,16 @@
 ---
-Album: "[[Umineko no Naku Koro ni OST (📀 30)]]"
-Creators:
-  - "[[xaki (🎙️ 12)]]"
-Cover: ""
-NumberInAlbum: 168
-SourceFile: "[[Umineko no Naku Koro ni OST - 168 bore-ral.ogg]]"
-Year: 2007
-aliases:
-  - bore-ral
 created: 2024-04-12T15:01:10+03:00
-source: ""
-related: []
-ListenInSec: 3810
+aliases: [bore-ral]
+Cover: ""
+Year: 2007
+Album: "[[Umineko no Naku Koro ni OST (📀 30)]]"
 CoverOf: ""
+Creators: ["[[xaki (🎙️ 12)]]"]
+ListenInSec: 3810
+NumberInAlbum: 168
+related: []
+source: ""
+SourceFile: "[[Umineko no Naku Koro ni OST - 168 bore-ral.ogg]]"
 ---
 
 # Umineko no Naku Koro ni OST - 168 bore-ral

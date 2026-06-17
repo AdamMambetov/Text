@@ -1,17 +1,16 @@
 ---
-Album: "[[Elfen Lied OST]]"
-Creators: []
-Cover: ""
-NumberInAlbum: 1
-SourceFile: "[[Elfen Lied OST - Shinkai.mp3]]"
-Year: 2004
-aliases:
-  - Shinkai
 created: 2024-10-23T14:55:58+03:00
-source: ""
-related: []
-ListenInSec: 6
+aliases: [Shinkai]
+Cover: ""
+Year: 2004
+Album: "[[Elfen Lied OST]]"
 CoverOf: ""
+Creators: []
+ListenInSec: 6
+NumberInAlbum: 1
+related: []
+source: ""
+SourceFile: "[[Elfen Lied OST - Shinkai.mp3]]"
 ---
 
 # Elfen Lied OST - Shinkai

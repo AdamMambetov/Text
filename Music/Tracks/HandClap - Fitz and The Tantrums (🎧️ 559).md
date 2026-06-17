@@ -1,18 +1,16 @@
 ---
-Album: ""
-Creators:
-  - "[[Fitz and The Tantrums (🎙️ 636)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 2
-SourceFile: "[[Fitz & The Tantrums - HandClap.mp3]]"
-Year: 2017
-aliases:
-  - HandClap
 created: 2022-12-20T23:25:04+03:00
-source: ""
-related: []
-ListenInSec: 113
+aliases: [HandClap]
+Cover: "[[_No Album Art.jpg]]"
+Year: 2017
+Album: ""
 CoverOf: ""
+Creators: ["[[Fitz and The Tantrums (🎙️ 636)]]"]
+ListenInSec: 113
+NumberInAlbum: 2
+related: []
+source: ""
+SourceFile: "[[Fitz & The Tantrums - HandClap.mp3]]"
 ---
 
 # Fitz & The Tantrums - HandClap

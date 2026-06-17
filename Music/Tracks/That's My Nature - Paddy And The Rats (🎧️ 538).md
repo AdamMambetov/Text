@@ -1,18 +1,16 @@
 ---
-Album: "[[Lonely Hearts' Boulevard]]"
-Creators:
-  - "[[Paddy And The Rats (🎙️ 407)]]"
-Cover: ""
-NumberInAlbum: 5
-SourceFile: "[[Paddy And The Rats - That's My Nature.mp3]]"
-Year: 2015
-aliases:
-  - That's My Nature
 created: 2022-12-20T22:42:04+03:00
-source: ""
-related: []
-ListenInSec: 225
+aliases: ["That's My Nature"]
+Cover: ""
+Year: 2015
+Album: "[[Lonely Hearts' Boulevard]]"
 CoverOf: ""
+Creators: ["[[Paddy And The Rats (🎙️ 407)]]"]
+ListenInSec: 225
+NumberInAlbum: 5
+related: []
+source: ""
+SourceFile: "[[Paddy And The Rats - That's My Nature.mp3]]"
 ---
 
 # Paddy And The Rats - That's My Nature

@@ -1,18 +1,16 @@
 ---
-Album: "[[Naruto OST 2 (📀 16)]]"
-Creators:
-  - "[[Toshio Masuda (🎙️ 559)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 6
-SourceFile: "[[Naruto OST - Survival Examination.mp3]]"
-Year: 2004
-aliases:
-  - Survival Examination
 created: 2022-04-28T17:50:28+03:00
-source:
-related: []
-ListenInSec: 6
+aliases: [Survival Examination]
+Cover: "[[_No Album Art.jpg]]"
+Year: 2004
+Album: "[[Naruto OST 2 (📀 16)]]"
 CoverOf: ""
+Creators: ["[[Toshio Masuda (🎙️ 559)]]"]
+ListenInSec: 6
+NumberInAlbum: 6
+related: []
+source:
+SourceFile: "[[Naruto OST - Survival Examination.mp3]]"
 ---
 
 # Naruto OST - Survival Examination

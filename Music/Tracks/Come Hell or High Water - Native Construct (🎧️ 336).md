@@ -1,18 +1,16 @@
 ---
-Album: "[[Quiet World]]"
-Creators:
-  - "[[Native Construct (🎙️ 387)]]"
-Cover: ""
-NumberInAlbum: 5
-SourceFile: "[[Native Construct - Come Hell or High Water.mp3]]"
-Year: 2015
-aliases:
-  - Come Hell or High Water
 created: 2022-04-28T01:59:22+03:00
-source: ""
-related: []
-ListenInSec: 168
+aliases: [Come Hell or High Water]
+Cover: ""
+Year: 2015
+Album: "[[Quiet World]]"
 CoverOf: ""
+Creators: ["[[Native Construct (🎙️ 387)]]"]
+ListenInSec: 168
+NumberInAlbum: 5
+related: []
+source: ""
+SourceFile: "[[Native Construct - Come Hell or High Water.mp3]]"
 ---
 
 # Native Construct - Come Hell or High Water

@@ -1,17 +1,16 @@
 ---
-Album: "[[Staccato]]"
-Creators: []
-Cover: ""
-NumberInAlbum: 1
-SourceFile: "[[Gabriel Saban - Lack of Caution.mp3]]"
-Year: 2021
-aliases:
-  - Lack of Caution
 created: 2024-10-30T19:23:38+03:00
-source: ""
-related: []
-ListenInSec: 118
+aliases: [Lack of Caution]
+Cover: ""
+Year: 2021
+Album: "[[Staccato]]"
 CoverOf: ""
+Creators: []
+ListenInSec: 118
+NumberInAlbum: 1
+related: []
+source: ""
+SourceFile: "[[Gabriel Saban - Lack of Caution.mp3]]"
 ---
 
 # Gabriel Saban - Lack of Caution

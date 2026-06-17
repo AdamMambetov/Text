@@ -1,21 +1,16 @@
 ---
 created: 2024-04-12T15:00:24+03:00
-aliases:
-  - АРОМАТ ПОДОЗРЕНИЯ
+aliases: [АРОМАТ ПОДОЗРЕНИЯ]
 Cover: "[[_No Album Art.jpg]]"
 Year: 2007
 Album: "[[Umineko no Naku Koro ni OST (📀 30)]]"
-Creators:
-  - "[[Luck Ganriki (🎙️ 4)]]"
-  - "[[E. Kida (🎙️ 9)]]"
-  - "[[Kino Nei (🎙️ 17)]]"
+CoverOf: ""
+Creators: ["[[Luck Ganriki (🎙️ 4)]]", "[[E. Kida (🎙️ 9)]]", "[[Kino Nei (🎙️ 17)]]"]
+ListenInSec: 569
 NumberInAlbum: 161
+related: ["[[Аромат подозрения - Luck Ganriki (🎧️ 1007)]]"]
 source: ""
 SourceFile: "[[Umineko no Naku Koro ni OST - 161 АРОМАТ ПОДОЗРЕНИЯ.ogg]]"
-related:
-  - "[[Аромат подозрения - Luck Ganriki (🎧️ 1007)]]"
-ListenInSec: 569
-CoverOf: ""
 ---
 
 # Umineko no Naku Koro ni OST - 161 АРОМАТ ПОДОЗРЕНИЯ

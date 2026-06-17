@@ -4,13 +4,13 @@ aliases: []
 Cover: ""
 Year: 0
 Album: ""
+CoverOf: ""
 Creators: []
+ListenInSec: 802
 NumberInAlbum: 1
+related: []
 source: ""
 SourceFile: "[[Kun-Kun - Miiro.mp3]]"
-related: []
-ListenInSec: 802
-CoverOf: ""
 ---
 
 # Kun-Kun - Miiro

@@ -1,19 +1,16 @@
 ---
-Album: ""
-Creators:
-  - "[[RADIO TAPOK (🎙️ 421)]]"
-  - "[[Эпидемия (🎙️ 140)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 0
-SourceFile: "[[RADIO TAPOK - Through The Fire And Flames.mp3]]"
-Year: 2019
-aliases:
-  - Through The Fire And Flames
 created: 2024-01-04T13:24:28+03:00
-source: ""
-related: []
-ListenInSec: 221
+aliases: [Through The Fire And Flames]
+Cover: "[[_No Album Art.jpg]]"
+Year: 2019
+Album: ""
 CoverOf: "[[Through The Fire And Flames - DragonForce (🎧️ 882)]]"
+Creators: ["[[RADIO TAPOK (🎙️ 421)]]", "[[Эпидемия (🎙️ 140)]]"]
+ListenInSec: 221
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[RADIO TAPOK - Through The Fire And Flames.mp3]]"
 ---
 
 # RADIO TAPOK - Through The Fire And Flames

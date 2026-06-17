@@ -1,18 +1,16 @@
 ---
-Album: "[[ATLAS [2017] {The Score}]]"
-Creators:
-  - "[[The Score (🎙️ 463)]]"
-Cover: ""
-NumberInAlbum: 7
-SourceFile: "[[The Score - Who I Am.mp3]]"
-Year: 2017
-aliases:
-  - Who I Am
 created: 2022-04-22T21:42:28+03:00
-source: ""
-related: []
-ListenInSec: 207
+aliases: [Who I Am]
+Cover: ""
+Year: 2017
+Album: "[[ATLAS [2017] {The Score}]]"
 CoverOf: ""
+Creators: ["[[The Score (🎙️ 463)]]"]
+ListenInSec: 207
+NumberInAlbum: 7
+related: []
+source: ""
+SourceFile: "[[The Score - Who I Am.mp3]]"
 ---
 
 # The Score - Who I Am

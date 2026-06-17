@@ -1,16 +1,16 @@
 ---
-Album: ""
-Creators: []
-Cover: ""
-NumberInAlbum: 1
-SourceFile: "[[Coconut Dog - Sono Chi No Sadame.mp3]]"
-Year: 0
-aliases: []
 created: 2025-01-08T00:02:42+03:00
-source: ""
-related: []
-ListenInSec: 269
+aliases: []
+Cover: ""
+Year: 0
+Album: ""
 CoverOf: ""
+Creators: []
+ListenInSec: 269
+NumberInAlbum: 1
+related: []
+source: ""
+SourceFile: "[[Coconut Dog - Sono Chi No Sadame.mp3]]"
 ---
 
 # Coconut Dog - Sono Chi No Sadame

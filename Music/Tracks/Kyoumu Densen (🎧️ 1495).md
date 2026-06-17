@@ -1,17 +1,16 @@
 ---
-Album: ""
-Creators: []
-Cover: ""
-NumberInAlbum: 1
-SourceFile: "[[ALI PROJECT - Kyoumu Densen.mp3]]"
-Year: 0
-aliases:
-  - Kyoumu Densen
 created: 2025-01-08T01:29:32+03:00
-source: ""
-related: []
-ListenInSec: 180
+aliases: [Kyoumu Densen]
+Cover: ""
+Year: 0
+Album: ""
 CoverOf: ""
+Creators: []
+ListenInSec: 180
+NumberInAlbum: 1
+related: []
+source: ""
+SourceFile: "[[ALI PROJECT - Kyoumu Densen.mp3]]"
 ---
 
 # ALI PROJECT - Kyoumu Densen

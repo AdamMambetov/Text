@@ -1,18 +1,16 @@
 ---
-Album: "[[Duality]]"
-Creators:
-  - "[[Set It Off (🎙️ 436)]]"
-Cover: ""
-NumberInAlbum: 5
-SourceFile: "[[Set It Off - Ancient History.mp3]]"
-Year: 2014
-aliases:
-  - Ancient History
 created: 2024-10-08T15:51:52+03:00
-source: ""
-related: []
-ListenInSec: 196
+aliases: [Ancient History]
+Cover: ""
+Year: 2014
+Album: "[[Duality]]"
 CoverOf: ""
+Creators: ["[[Set It Off (🎙️ 436)]]"]
+ListenInSec: 196
+NumberInAlbum: 5
+related: []
+source: ""
+SourceFile: "[[Set It Off - Ancient History.mp3]]"
 ---
 
 # Set It Off - Ancient History

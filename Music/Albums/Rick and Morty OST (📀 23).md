@@ -1,7 +1,7 @@
 ---
 created: 2024-07-18T15:34:45+03:00
-Year: 2018
 aliases: ["Rick and Morty OST"]
+Year: 2018
 Creators: []
 tracklist: ["[[Rick and Morty Theme - Rick and Morty (🎧️ 707)]]"]
 ---

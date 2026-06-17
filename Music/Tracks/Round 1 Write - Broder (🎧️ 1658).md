@@ -1,19 +1,16 @@
 ---
-source: ""
-SourceFile: "[[Quiplash OST - 03 Round 1 Write.mp3]]"
+created: 2025-05-04T02:52:34+03:00
+aliases: [Round 1 Write (Quiplash), Round 1 Write (Смехлыст)]
+Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
-aliases:
-  - Round 1 Write (Quiplash)
-  - Round 1 Write (Смехлыст)
-created: 2025-05-04T02:52:34+03:00
-Creators:
-  - "[[Andy Poland (🎙️ 183)]]"
-Cover: "[[_No Album Art.jpg]]"
+CoverOf: ""
+Creators: ["[[Andy Poland (🎙️ 183)]]"]
+ListenInSec: 957
 NumberInAlbum: 0
 related: []
-ListenInSec: 957
-CoverOf: ""
+source: ""
+SourceFile: "[[Quiplash OST - 03 Round 1 Write.mp3]]"
 ---
 
 # Quiplash OST - 03 Round 1 Write

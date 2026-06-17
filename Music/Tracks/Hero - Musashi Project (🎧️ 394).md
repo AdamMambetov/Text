@@ -1,18 +1,16 @@
 ---
-Album: "[[Naruto OST 3 (📀 17)]]"
-Creators:
-  - "[[Musashi Project (🎙️ 560)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 22
-SourceFile: "[[Naruto OST - Hero.mp3]]"
-Year: 2005
-aliases:
-  - Hero
 created: 2022-04-28T17:53:48+03:00
-source:
-related: []
-ListenInSec: 247
+aliases: [Hero]
+Cover: "[[_No Album Art.jpg]]"
+Year: 2005
+Album: "[[Naruto OST 3 (📀 17)]]"
 CoverOf: ""
+Creators: ["[[Musashi Project (🎙️ 560)]]"]
+ListenInSec: 247
+NumberInAlbum: 22
+related: []
+source:
+SourceFile: "[[Naruto OST - Hero.mp3]]"
 ---
 
 # Naruto OST - Hero

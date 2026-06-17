@@ -1,18 +1,16 @@
 ---
-Album: "[[Naruto OST 1 (📀 15)]]"
-Creators:
-  - "[[Musashi Project (🎙️ 560)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 17
-SourceFile: "[[Naruto OST - Bad Situation.mp3]]"
-Year: 2003
-aliases:
-  - Bad Situation
 created: 2022-04-28T17:39:28+03:00
-source:
-related: []
-ListenInSec: 184
+aliases: [Bad Situation]
+Cover: "[[_No Album Art.jpg]]"
+Year: 2003
+Album: "[[Naruto OST 1 (📀 15)]]"
 CoverOf: ""
+Creators: ["[[Musashi Project (🎙️ 560)]]"]
+ListenInSec: 184
+NumberInAlbum: 17
+related: []
+source:
+SourceFile: "[[Naruto OST - Bad Situation.mp3]]"
 ---
 
 # Naruto OST - Bad Situation

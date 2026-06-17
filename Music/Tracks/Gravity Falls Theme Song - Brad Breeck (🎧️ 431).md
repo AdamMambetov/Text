@@ -1,18 +1,16 @@
 ---
-Album: ""
-Creators:
-  - "[[Brad Breeck (🎙️ 235)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 0
-SourceFile: "[[Brad Breeck - Gravity Falls Theme Song.mp3]]"
-Year: 0
-aliases:
-  - Gravity Falls Theme Song
 created: 2022-10-05T12:59:40+03:00
-source: ""
-related: []
-ListenInSec: 50
+aliases: [Gravity Falls Theme Song]
+Cover: "[[_No Album Art.jpg]]"
+Year: 0
+Album: ""
 CoverOf: ""
+Creators: ["[[Brad Breeck (🎙️ 235)]]"]
+ListenInSec: 50
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[Brad Breeck - Gravity Falls Theme Song.mp3]]"
 ---
 
 # Brad Breeck - Gravity Falls Theme Song

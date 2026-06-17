@@ -1,18 +1,16 @@
 ---
-Album: ""
-Creators:
-  - "[[New Medicine (🎙️ 389)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 0
-SourceFile: "[[New Medicine - One Too Many.mp3]]"
-Year: 2014
-aliases:
-  - One Too Many
 created: 2022-04-22T21:13:18+03:00
-source: ""
-related: []
-ListenInSec: 226
+aliases: [One Too Many]
+Cover: "[[_No Album Art.jpg]]"
+Year: 2014
+Album: ""
 CoverOf: ""
+Creators: ["[[New Medicine (🎙️ 389)]]"]
+ListenInSec: 226
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[New Medicine - One Too Many.mp3]]"
 ---
 
 # New Medicine - One Too Many

@@ -1,19 +1,16 @@
 ---
-Album: ""
-Creators:
-  - "[[cosMo@BousouP (🎙️ 571)]]"
-  - "[[Hatsune Miku (🎙️ 572)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 1
-SourceFile: "[[cosMo@BousouP feat. Hatsune Miku - Shinsekai.mp3]]"
-Year: 0
-aliases:
-  - Shinsekai
 created: 2022-05-02T04:09:34+03:00
-source:
-related: []
-ListenInSec: 390
+aliases: [Shinsekai]
+Cover: "[[_No Album Art.jpg]]"
+Year: 0
+Album: ""
 CoverOf: ""
+Creators: ["[[cosMo@BousouP (🎙️ 571)]]", "[[Hatsune Miku (🎙️ 572)]]"]
+ListenInSec: 390
+NumberInAlbum: 1
+related: []
+source:
+SourceFile: "[[cosMo@BousouP feat. Hatsune Miku - Shinsekai.mp3]]"
 ---
 
 # cosMo@BousouP feat. Hatsune Miku - Shinsekai

@@ -1,18 +1,16 @@
 ---
-Album: "[[Anime & Movie Soundtracks]]"
-Creators:
-  - "[[Leon Alex (🎙️ 361)]]"
-Cover: ""
-NumberInAlbum: 1
-SourceFile: "[[Leon Alex - Fire.mp3]]"
-Year: 2019
-aliases:
-  - Fire
 created: 2024-10-30T19:13:46+03:00
-source: ""
-related: []
-ListenInSec: 3
+aliases: [Fire]
+Cover: ""
+Year: 2019
+Album: "[[Anime & Movie Soundtracks]]"
 CoverOf: ""
+Creators: ["[[Leon Alex (🎙️ 361)]]"]
+ListenInSec: 3
+NumberInAlbum: 1
+related: []
+source: ""
+SourceFile: "[[Leon Alex - Fire.mp3]]"
 ---
 
 # Leon Alex - Fire

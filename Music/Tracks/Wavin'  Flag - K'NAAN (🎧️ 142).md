@@ -1,18 +1,16 @@
 ---
-Album: ""
-Creators:
-  - "[[K'NAAN (🎙️ 344)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 0
-SourceFile: "[[K'NAAN - Wavin' Flag.mp3]]"
-Year: 2010
-aliases:
-  - Wavin'  Flag
 created: 2022-04-22T21:00:46+03:00
-source: ""
-related: []
-ListenInSec: 214
+aliases: ["Wavin'  Flag"]
+Cover: "[[_No Album Art.jpg]]"
+Year: 2010
+Album: ""
 CoverOf: ""
+Creators: ["[[K'NAAN (🎙️ 344)]]"]
+ListenInSec: 214
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[K'NAAN - Wavin' Flag.mp3]]"
 ---
 
 # K'NAAN - Wavin' Flag

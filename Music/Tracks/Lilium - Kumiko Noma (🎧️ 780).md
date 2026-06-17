@@ -1,21 +1,16 @@
 ---
-Album: ""
-Creators:
-  - "[[Kumiko Noma (🎙️ 356)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 0
-SourceFile: "[[Elfen Lied OST - Lilium.mp3]]"
-Year: 0
-aliases:
-  - Lilium
-  - Elfen Lied OP 1
-  - Эльфийская песнь OP 1
 created: 2023-09-29T16:24:54+03:00
-source: ""
-related:
-  - "[[Lilium (TV Size) - Kumiko Noma]]"
-ListenInSec: 1350
+aliases: [Lilium, Elfen Lied OP 1, Эльфийская песнь OP 1]
+Cover: "[[_No Album Art.jpg]]"
+Year: 0
+Album: ""
 CoverOf: ""
+Creators: ["[[Kumiko Noma (🎙️ 356)]]"]
+ListenInSec: 1350
+NumberInAlbum: 0
+related: ["[[Lilium (TV Size) - Kumiko Noma]]"]
+source: ""
+SourceFile: "[[Elfen Lied OST - Lilium.mp3]]"
 ---
 
 # Elfen Lied OST - Lilium

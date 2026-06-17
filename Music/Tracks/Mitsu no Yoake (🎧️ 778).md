@@ -1,16 +1,16 @@
 ---
-Album: ""
-Creators: []
-Cover: ""
-NumberInAlbum: 1
-SourceFile: "[[Harmony Team - Mitsu no Yoake.mp3]]"
-Year: 0
-aliases: []
 created: 2024-06-14T18:43:04+03:00
-source: ""
-related: []
-ListenInSec: 480
+aliases: []
+Cover: ""
+Year: 0
+Album: ""
 CoverOf: ""
+Creators: []
+ListenInSec: 480
+NumberInAlbum: 1
+related: []
+source: ""
+SourceFile: "[[Harmony Team - Mitsu no Yoake.mp3]]"
 ---
 
 # Harmony Team - Mitsu no Yoake

@@ -1,17 +1,16 @@
 ---
-Album: ""
-Creators: []
-Cover: ""
-NumberInAlbum: 1
-SourceFile: "[[Highschool DxD OST - Trip Innocent of D.mp3]]"
-Year: 0
-aliases: []
 created: 2023-08-01T02:21:34+03:00
-source: ""
-related:
-  - "[[Trip Innocent of D (TV Size)]]"
-ListenInSec: 431
+aliases: []
+Cover: ""
+Year: 0
+Album: ""
 CoverOf: ""
+Creators: []
+ListenInSec: 431
+NumberInAlbum: 1
+related: ["[[Trip Innocent of D (TV Size)]]"]
+source: ""
+SourceFile: "[[Highschool DxD OST - Trip Innocent of D.mp3]]"
 ---
 
 # Highschool DxD OST - Trip Innocent of D

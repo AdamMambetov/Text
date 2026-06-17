@@ -1,20 +1,16 @@
 ---
-Album: ""
-Creators:
-  - "[[Sati Akura (🎙️ 357)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 0
-SourceFile: "[[Sati Akura - Paradisus-Paradoxum.mp3]]"
-Year: 0
-aliases:
-  - Paradisus-Paradoxum
-  - ReZero OP 2
-  - РеЗеро OP 2
 created: 2025-01-08T01:19:28+03:00
-source: ""
-related: []
-ListenInSec: 241
+aliases: [Paradisus-Paradoxum, ReZero OP 2, РеЗеро OP 2]
+Cover: "[[_No Album Art.jpg]]"
+Year: 0
+Album: ""
 CoverOf: "[[Paradisus-Paradoxum - MYTH & ROID (🎧️ 1629)]]"
+Creators: ["[[Sati Akura (🎙️ 357)]]"]
+ListenInSec: 241
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[Sati Akura - Paradisus-Paradoxum.mp3]]"
 ---
 
 # Sati Akura - Paradisus-Paradoxum

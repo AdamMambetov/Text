@@ -1,20 +1,16 @@
 ---
-Album: ""
-Creators:
-  - "[[Will Stetson (🎙️ 481)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 0
-SourceFile: "[[Will Stetson - Black Rover (Swing Arrangement).mp3]]"
-Year: 0
-aliases:
-  - Black Rover (TV Size)
-  - Black Clover OP 3
-  - Чёрный клевер OP 3
 created: 2025-01-07T23:47:46+03:00
-source: ""
-related: []
-ListenInSec: 95
+aliases: [Black Rover (TV Size), Black Clover OP 3, Чёрный клевер OP 3]
+Cover: "[[_No Album Art.jpg]]"
+Year: 0
+Album: ""
 CoverOf: "[[Black Rover (TV Size) - Vickeblanka (🎧️ 1073)]]"
+Creators: ["[[Will Stetson (🎙️ 481)]]"]
+ListenInSec: 95
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[Will Stetson - Black Rover (Swing Arrangement).mp3]]"
 ---
 
 # Will Stetson - Black Rover (Swing Arrangement)

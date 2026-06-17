@@ -1,16 +1,16 @@
 ---
-Album: ""
-Creators: []
-Cover: ""
-NumberInAlbum: 1
-SourceFile: "[[Naruto Shippuden OST - Toumei Datta Sekai.mp3]]"
-Year: 0
-aliases: []
 created: 2024-01-04T12:13:19+03:00
-source: ""
-related: []
-ListenInSec: 242
+aliases: []
+Cover: ""
+Year: 0
+Album: ""
 CoverOf: ""
+Creators: []
+ListenInSec: 242
+NumberInAlbum: 1
+related: []
+source: ""
+SourceFile: "[[Naruto Shippuden OST - Toumei Datta Sekai.mp3]]"
 ---
 
 # Naruto Shippuden OST - Toumei Datta Sekai

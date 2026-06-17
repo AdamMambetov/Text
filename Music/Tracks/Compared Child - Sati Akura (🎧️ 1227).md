@@ -1,19 +1,16 @@
 ---
-Album: ""
-Creators:
-  - "[[Sati Akura (🎙️ 357)]]"
-  - "[[saichiopy (🎙️ 684)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 0
-SourceFile: "[[Sati Akura - Compared Child.mp3]]"
-Year: 2020
-aliases:
-  - Compared Child
 created: 2024-10-13T22:58:06+03:00
-source: https://www.youtube.com/watch?v=vr6ipsV4rMk
-related: []
-ListenInSec: 218
+aliases: [Compared Child]
+Cover: "[[_No Album Art.jpg]]"
+Year: 2020
+Album: ""
 CoverOf: "[[Compared Child - TUYU]]"
+Creators: ["[[Sati Akura (🎙️ 357)]]", "[[saichiopy (🎙️ 684)]]"]
+ListenInSec: 218
+NumberInAlbum: 0
+related: []
+source: https://www.youtube.com/watch?v=vr6ipsV4rMk
+SourceFile: "[[Sati Akura - Compared Child.mp3]]"
 ---
 
 # Sati Akura - Compared Child

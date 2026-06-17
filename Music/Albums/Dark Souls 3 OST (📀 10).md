@@ -1,7 +1,7 @@
 ---
 created: 2024-07-18T15:34:45+03:00
-Year: 2019
 aliases: ["Dark Souls 3 OST"]
+Year: 2019
 Creators: ["[[Yuka Kitamura (🎙️ 29)]]", "[[Motoi Sakuraba (🎙️ 31)]]", "[[Tsukasa Saitoh (🎙️ 30)]]"]
 tracklist: ["[[Premonition - Yuka Kitamura (🎧️ 730)]]", "[[DARK SOULS III - Yuka Kitamura (🎧️ 693)]]", "Prologue", "[[Firelink Shrine - Yuka Kitamura (🎧️ 694)]]", "[[Iudex Gundyr - Tsukasa Saitoh (🎧️ 695)]]", "[[Vordt of the Boreal Valley - Motoi Sakuraba (🎧️ 925)]]", "Curse Rotted Greatwood", "Crystal Sages", "Deacons of the Deep", "High Lord Wolnir", "Pontiff Sulyvahn", "[[Dancer of the Boreal Valley - Yuka Kitamura (🎧️ 701)]]", "[[Dragonslayer Armour - Yuka Kitamura (🎧️ 703)]]", "Old Demon King", "Oceiros, The Consumed King", "[[Ancient Wyvern - Yuka Kitamura (🎧️ 702)]]", "Nameless King", "[[Abyss Watchers - Yuka Kitamura (🎧️ 696)]]", "[[Yhorm The Giant - Yuka Kitamura (🎧️ 1217)]]", "[[Aldritch, Devourer of Gods - Motoi Sakuraba (🎧️ 700)]]", "Lorian, Elder Prince & Lothric, Younger Prince", "[[Soul of Cinder - Yuka Kitamura (🎧️ 745)]]", "[[Secret Betrayal - Yuka Kitamura (🎧️ 1216)]]", "[[Epilogue - Yuka Kitamura (🎧️ 704)]]", "E3 2015 Debut Trailer"]
 ---

@@ -1,16 +1,16 @@
 ---
-Album: ""
-Creators: []
-Cover: ""
-NumberInAlbum: 1
-SourceFile: "[[James Dooley - Whacked Out Conspiracy.mp3]]"
-Year: 0
-aliases: []
 created: 2025-01-07T20:28:16+03:00
-source: ""
-related: []
-ListenInSec: 230
+aliases: []
+Cover: ""
+Year: 0
+Album: ""
 CoverOf: ""
+Creators: []
+ListenInSec: 230
+NumberInAlbum: 1
+related: []
+source: ""
+SourceFile: "[[James Dooley - Whacked Out Conspiracy.mp3]]"
 ---
 
 # James Dooley - Whacked Out Conspiracy

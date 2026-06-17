@@ -1,16 +1,16 @@
 ---
-Album: ""
-Creators: []
-Cover: ""
-NumberInAlbum: 1
-SourceFile: "[[HOMM V OST - Academy Town.mp3]]"
-Year: 0
-aliases: []
 created: 2025-01-08T18:36:33+03:00
-source: ""
-related: []
-ListenInSec: 566
+aliases: []
+Cover: ""
+Year: 0
+Album: ""
 CoverOf: ""
+Creators: []
+ListenInSec: 566
+NumberInAlbum: 1
+related: []
+source: ""
+SourceFile: "[[HOMM V OST - Academy Town.mp3]]"
 ---
 
 # HOMM V OST - Academy Town

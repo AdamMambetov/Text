@@ -1,18 +1,16 @@
 ---
 created: 2023-07-09T18:49:48+03:00
-aliases:
-  - Lift Me Up
+aliases: [Lift Me Up]
 Cover: ""
 Year: 2017
 Album: "[[A Decade of Destruction]]"
-Creators:
-  - "[[Five Finger Death Punch (🎙️ 309)]]"
+CoverOf: ""
+Creators: ["[[Five Finger Death Punch (🎙️ 309)]]"]
+ListenInSec: 247
 NumberInAlbum: 3
+related: []
 source: ""
 SourceFile: "[[Five Finger Death Punch - Lift Me Up.mp3]]"
-related: []
-ListenInSec: 247
-CoverOf: ""
 ---
 
 # Five Finger Death Punch - Lift Me Up

@@ -1,18 +1,16 @@
 ---
-Album: ""
-Creators:
-  - "[[Marie Bibika (🎙️ 374)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 0
-SourceFile: "[[Marie Bibika - Trip Innocent of D.mp3]]"
-Year: 0
-aliases:
-  - Trip Innocent of D
 created: 2024-06-14T18:43:50+03:00
-source: ""
-related: []
-ListenInSec: 586
+aliases: [Trip Innocent of D]
+Cover: "[[_No Album Art.jpg]]"
+Year: 0
+Album: ""
 CoverOf: "[[Trip Innocent of D (🎧️ 643)]]"
+Creators: ["[[Marie Bibika (🎙️ 374)]]"]
+ListenInSec: 586
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[Marie Bibika - Trip Innocent of D.mp3]]"
 ---
 
 # Marie Bibika - Trip Innocent of D

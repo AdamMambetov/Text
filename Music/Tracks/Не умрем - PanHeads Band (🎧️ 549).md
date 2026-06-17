@@ -1,18 +1,16 @@
 ---
-Album: "[[Не умрем]]"
-Creators:
-  - "[[PanHeads Band (🎙️ 409)]]"
-Cover: ""
-NumberInAlbum: 1
-SourceFile: "[[PANHEADS BAND - Не умрем.mp3]]"
-Year: 2021
-aliases:
-  - Не умрем
 created: 2022-12-20T23:17:58+03:00
-source: ""
-related: []
-ListenInSec: 19
+aliases: [Не умрем]
+Cover: ""
+Year: 2021
+Album: "[[Не умрем]]"
 CoverOf: ""
+Creators: ["[[PanHeads Band (🎙️ 409)]]"]
+ListenInSec: 19
+NumberInAlbum: 1
+related: []
+source: ""
+SourceFile: "[[PANHEADS BAND - Не умрем.mp3]]"
 ---
 
 # PanHeads Band - Не умрем

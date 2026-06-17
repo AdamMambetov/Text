@@ -1,18 +1,16 @@
 ---
-Album: ""
-Creators:
-  - "[[Alan Silvestri (🎙️ 162)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 19
-SourceFile: "[[The Avengers OST - Main Theme.mp3]]"
-Year: 2012
-aliases:
-  - The Avengers
 created: 2023-09-29T16:24:31+03:00
-source: ""
-related: []
-ListenInSec: 125
+aliases: [The Avengers]
+Cover: "[[_No Album Art.jpg]]"
+Year: 2012
+Album: ""
 CoverOf: ""
+Creators: ["[[Alan Silvestri (🎙️ 162)]]"]
+ListenInSec: 125
+NumberInAlbum: 19
+related: []
+source: ""
+SourceFile: "[[The Avengers OST - Main Theme.mp3]]"
 ---
 
 # The Avengers OST - Main Theme

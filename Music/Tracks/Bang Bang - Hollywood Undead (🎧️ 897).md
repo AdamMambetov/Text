@@ -1,18 +1,16 @@
 ---
-Album: ""
-Creators:
-  - "[[Hollywood Undead (🎙️ 330)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 0
-SourceFile: "[[Hollywood Undead - Bang Bang.mp3]]"
-Year: 0
-aliases:
-  - Bang Bang
 created: 2024-01-04T12:14:40+03:00
-source: ""
-related: []
-ListenInSec: 18
+aliases: [Bang Bang]
+Cover: "[[_No Album Art.jpg]]"
+Year: 0
+Album: ""
 CoverOf: ""
+Creators: ["[[Hollywood Undead (🎙️ 330)]]"]
+ListenInSec: 18
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[Hollywood Undead - Bang Bang.mp3]]"
 ---
 
 # Hollywood Undead - Bang Bang

@@ -1,18 +1,16 @@
 ---
-Album: ""
-Creators:
-  - "[[Will Stetson (🎙️ 481)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 0
-SourceFile: "[[Will Stetson - Senbonzakura.mp3]]"
-Year: 0
-aliases:
-  - Senbonzakura
 created: 2025-01-08T18:21:28+03:00
-source: ""
-related: []
-ListenInSec: 478
+aliases: [Senbonzakura]
+Cover: "[[_No Album Art.jpg]]"
+Year: 0
+Album: ""
 CoverOf: "[[Senbonzakura - Hatsune Miku]]"
+Creators: ["[[Will Stetson (🎙️ 481)]]"]
+ListenInSec: 478
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[Will Stetson - Senbonzakura.mp3]]"
 ---
 
 # Will Stetson - Senbonzakura

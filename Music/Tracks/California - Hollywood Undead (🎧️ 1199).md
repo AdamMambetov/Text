@@ -1,18 +1,16 @@
 ---
-Album: "[[Swan Songs]]"
-Creators:
-  - "[[Hollywood Undead (🎙️ 330)]]"
-Cover: ""
-NumberInAlbum: 10
-SourceFile: "[[Hollywood Undead - California.mp3]]"
-Year: 2008
-aliases:
-  - California
 created: 2024-10-13T22:39:24+03:00
-source: ""
-related: []
-ListenInSec: 3
+aliases: [California]
+Cover: ""
+Year: 2008
+Album: "[[Swan Songs]]"
 CoverOf: ""
+Creators: ["[[Hollywood Undead (🎙️ 330)]]"]
+ListenInSec: 3
+NumberInAlbum: 10
+related: []
+source: ""
+SourceFile: "[[Hollywood Undead - California.mp3]]"
 ---
 
 # Hollywood Undead - California

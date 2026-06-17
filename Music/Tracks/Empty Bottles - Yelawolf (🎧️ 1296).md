@@ -1,18 +1,16 @@
 ---
-Album: "[[Love Story]]"
-Creators:
-  - "[[Yelawolf (🎙️ 483)]]"
-Cover: ""
-NumberInAlbum: 9
-SourceFile: "[[Yelawolf - Empty Bottles.mp3]]"
-Year: 2015
-aliases:
-  - Empty Bottles
 created: 2024-10-23T14:56:28+03:00
-source: ""
-related: []
-ListenInSec: 133
+aliases: [Empty Bottles]
+Cover: ""
+Year: 2015
+Album: "[[Love Story]]"
 CoverOf: ""
+Creators: ["[[Yelawolf (🎙️ 483)]]"]
+ListenInSec: 133
+NumberInAlbum: 9
+related: []
+source: ""
+SourceFile: "[[Yelawolf - Empty Bottles.mp3]]"
 ---
 
 # Yelawolf - Empty Bottles

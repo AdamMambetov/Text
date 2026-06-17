@@ -1,18 +1,16 @@
 ---
-Album: ""
-Creators:
-  - "[[Nayugorou (🎙️ 596)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 0
-SourceFile: "[[Nayugorou - White Promise.mp3]]"
-Year: 0
-aliases:
-  - White Promise
 created: 2022-10-05T13:36:24+03:00
-source: ""
-related: []
-ListenInSec: 17
+aliases: [White Promise]
+Cover: "[[_No Album Art.jpg]]"
+Year: 0
+Album: ""
 CoverOf: ""
+Creators: ["[[Nayugorou (🎙️ 596)]]"]
+ListenInSec: 17
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[Nayugorou - White Promise.mp3]]"
 ---
 
 # Nayugorou - White Promise

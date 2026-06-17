@@ -1,17 +1,16 @@
 ---
 created: 2025-09-25T13:15:24+03:00
-aliases:
-  - Toni's Music Library - One Good Reason (Instrumental) (Game Version)
+aliases: ["Toni's Music Library - One Good Reason (Instrumental) (Game Version)"]
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
+CoverOf: ""
 Creators: []
+ListenInSec: 0
 NumberInAlbum: 0
+related: []
 source: ""
 SourceFile: "[[Toni's Music Library - One Good Reason (Instrumental) (Game Version).mp3]]"
-related: []
-ListenInSec: 0
-CoverOf: ""
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

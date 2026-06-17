@@ -1,17 +1,16 @@
 ---
-Album: ""
-Creators: []
-Cover: ""
-NumberInAlbum: 1
-SourceFile: "[[Over the Garden Wall OST - 36 Everything Is Nice and Fine.mp3]]"
-Year: 0
-aliases:
-  - Everything Is Nice and Fine
 created: 2025-01-07T20:09:06+03:00
-source: ""
-related: []
-ListenInSec: 85
+aliases: [Everything Is Nice and Fine]
+Cover: ""
+Year: 0
+Album: ""
 CoverOf: ""
+Creators: []
+ListenInSec: 85
+NumberInAlbum: 1
+related: []
+source: ""
+SourceFile: "[[Over the Garden Wall OST - 36 Everything Is Nice and Fine.mp3]]"
 ---
 
 # Over the Garden Wall OST - 36 Everything Is Nice and Fine

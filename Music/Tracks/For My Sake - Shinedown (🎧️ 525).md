@@ -1,18 +1,16 @@
 ---
-Album: ""
-Creators:
-  - "[[Shinedown (🎙️ 631)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 0
-SourceFile: "[[Shinedown - For My Sake.mp3]]"
-Year: 2013
-aliases:
-  - For My Sake
 created: 2022-12-20T10:45:42+03:00
-source: ""
-related: []
-ListenInSec: 228
+aliases: [For My Sake]
+Cover: "[[_No Album Art.jpg]]"
+Year: 2013
+Album: ""
 CoverOf: ""
+Creators: ["[[Shinedown (🎙️ 631)]]"]
+ListenInSec: 228
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[Shinedown - For My Sake.mp3]]"
 ---
 
 # Shinedown - For My Sake

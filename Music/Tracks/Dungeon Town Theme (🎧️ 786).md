@@ -1,16 +1,16 @@
 ---
-Album: ""
-Creators: []
-Cover: ""
-NumberInAlbum: 1
-SourceFile: "[[HoMM V OST - Dungeon Town Theme.mp3]]"
-Year: 0
-aliases: []
 created: 2024-06-14T19:18:08+03:00
-source: ""
-related: []
-ListenInSec: 3
+aliases: []
+Cover: ""
+Year: 0
+Album: ""
 CoverOf: ""
+Creators: []
+ListenInSec: 3
+NumberInAlbum: 1
+related: []
+source: ""
+SourceFile: "[[HoMM V OST - Dungeon Town Theme.mp3]]"
 ---
 
 # HoMM V OST - Dungeon Town Theme

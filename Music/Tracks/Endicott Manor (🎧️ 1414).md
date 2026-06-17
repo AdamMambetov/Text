@@ -1,17 +1,16 @@
 ---
-Album: ""
-Creators: []
-Cover: ""
-NumberInAlbum: 1
-SourceFile: "[[Over the Garden Wall OST - 14 Endicott Manor.mp3]]"
-Year: 0
-aliases:
-  - Endicott Manor
 created: 2025-01-07T20:00:32+03:00
-source: ""
-related: []
-ListenInSec: 179
+aliases: [Endicott Manor]
+Cover: ""
+Year: 0
+Album: ""
 CoverOf: ""
+Creators: []
+ListenInSec: 179
+NumberInAlbum: 1
+related: []
+source: ""
+SourceFile: "[[Over the Garden Wall OST - 14 Endicott Manor.mp3]]"
 ---
 
 # Over the Garden Wall OST - 14 Endicott Manor

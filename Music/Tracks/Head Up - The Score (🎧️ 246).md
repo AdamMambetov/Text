@@ -1,18 +1,16 @@
 ---
-Album: "[[Metamorph [2022] {The Score}]]"
-Creators:
-  - "[[The Score (🎙️ 463)]]"
-Cover: ""
-NumberInAlbum: 2
-SourceFile: "[[The Score - Head Up.mp3]]"
-Year: 2022
-aliases:
-  - Head Up
 created: 2022-04-22T21:41:52+03:00
-source: ""
-related: []
-ListenInSec: 1
+aliases: [Head Up]
+Cover: ""
+Year: 2022
+Album: "[[Metamorph [2022] {The Score}]]"
 CoverOf: ""
+Creators: ["[[The Score (🎙️ 463)]]"]
+ListenInSec: 1
+NumberInAlbum: 2
+related: []
+source: ""
+SourceFile: "[[The Score - Head Up.mp3]]"
 ---
 
 # The Score - Head Up

@@ -1,18 +1,16 @@
 ---
-Album: "[[Indie Anthems, Vol. 1]]"
-Creators:
-  - "[[Amphibious Zoo Music (🎙️ 178)]]"
-Cover: ""
-NumberInAlbum: 1
-SourceFile: "[[Amphibious Zoo Music - Make Merry.mp3]]"
-Year: 2013
-aliases:
-  - Make Merry
 created: 2023-09-29T16:23:14+03:00
-source: ""
-related: []
-ListenInSec: 715
+aliases: [Make Merry]
+Cover: ""
+Year: 2013
+Album: "[[Indie Anthems, Vol. 1]]"
 CoverOf: ""
+Creators: ["[[Amphibious Zoo Music (🎙️ 178)]]"]
+ListenInSec: 715
+NumberInAlbum: 1
+related: []
+source: ""
+SourceFile: "[[Amphibious Zoo Music - Make Merry.mp3]]"
 ---
 
 # Amphibious Zoo Music - Make Merry

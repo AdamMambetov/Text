@@ -1,18 +1,16 @@
 ---
-Album: "[[Dr Manhattan]]"
-Creators:
-  - "[[Dr. Manhattan (🎙️ 295)]]"
-Cover: ""
-NumberInAlbum: 1
-SourceFile: "[[Dr. Manhattan - Big Chomper, Big Chomper.mp3]]"
-Year: 2008
-aliases:
-  - Big Chomper, Big Chomper
 created: 2023-09-29T16:23:47+03:00
-source: ""
-related: []
-ListenInSec: 1
+aliases: [Big Chomper, Big Chomper]
+Cover: ""
+Year: 2008
+Album: "[[Dr Manhattan]]"
 CoverOf: ""
+Creators: ["[[Dr. Manhattan (🎙️ 295)]]"]
+ListenInSec: 1
+NumberInAlbum: 1
+related: []
+source: ""
+SourceFile: "[[Dr. Manhattan - Big Chomper, Big Chomper.mp3]]"
 ---
 
 # Dr. Manhattan - Big Chomper, Big Chomper

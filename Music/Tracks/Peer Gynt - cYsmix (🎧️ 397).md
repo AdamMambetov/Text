@@ -1,18 +1,16 @@
 ---
-Album: ""
-Creators:
-  - "[[cYsmix (🎙️ 272)]]"
-Cover: ""
-NumberInAlbum: 1
-SourceFile: "[[cYsmix - Peer Gynt.mp3]]"
-Year: 2016
-aliases:
-  - Peer Gynt
 created: 2022-05-02T03:18:16+03:00
-source: ""
-related: []
-ListenInSec: 220
+aliases: [Peer Gynt]
+Cover: ""
+Year: 2016
+Album: ""
 CoverOf: ""
+Creators: ["[[cYsmix (🎙️ 272)]]"]
+ListenInSec: 220
+NumberInAlbum: 1
+related: []
+source: ""
+SourceFile: "[[cYsmix - Peer Gynt.mp3]]"
 ---
 
 # cYsmix - Peer Gynt

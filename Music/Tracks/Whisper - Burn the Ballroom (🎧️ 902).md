@@ -1,18 +1,16 @@
 ---
-Album: "[[Melodies for the Outsiders - EP]]"
-Creators:
-  - "[[Burn the Ballroom (🎙️ 243)]]"
-Cover: ""
-NumberInAlbum: 2
-SourceFile: "[[Burn The Ballroom - Whisper.mp3]]"
-Year: 2014
-aliases:
-  - Whisper
 created: 2023-09-29T16:24:59+03:00
-source: ""
-related: []
-ListenInSec: 287
+aliases: [Whisper]
+Cover: ""
+Year: 2014
+Album: "[[Melodies for the Outsiders - EP]]"
 CoverOf: ""
+Creators: ["[[Burn the Ballroom (🎙️ 243)]]"]
+ListenInSec: 287
+NumberInAlbum: 2
+related: []
+source: ""
+SourceFile: "[[Burn The Ballroom - Whisper.mp3]]"
 ---
 
 # Burn The Ballroom - Whisper

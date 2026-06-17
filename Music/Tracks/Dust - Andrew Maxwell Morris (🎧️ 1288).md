@@ -1,18 +1,16 @@
 ---
-Album: "[[Live & Unsigned 2]]"
-Creators:
-  - "[[Andrew Maxwell Morris (🎙️ 180)]]"
-Cover: ""
-NumberInAlbum: 3
-SourceFile: "[[Andrew Morris - Dust.mp3]]"
-Year: 2007
-aliases:
-  - Dust
 created: 2024-10-23T14:37:06+03:00
-source: ""
-related: []
-ListenInSec: 171
+aliases: [Dust]
+Cover: ""
+Year: 2007
+Album: "[[Live & Unsigned 2]]"
 CoverOf: ""
+Creators: ["[[Andrew Maxwell Morris (🎙️ 180)]]"]
+ListenInSec: 171
+NumberInAlbum: 3
+related: []
+source: ""
+SourceFile: "[[Andrew Morris - Dust.mp3]]"
 ---
 
 # Andrew Morris - Dust

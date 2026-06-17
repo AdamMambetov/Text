@@ -1,18 +1,16 @@
 ---
-Album: "[[Naruto OST 2 (📀 16)]]"
-Creators:
-  - "[[Toshio Masuda (🎙️ 559)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 5
-SourceFile: "[[Naruto OST - Sasuke's Theme.mp3]]"
-Year: 2004
-aliases:
-  - Sasuke's Theme
 created: 2022-04-28T17:50:25+03:00
-source:
-related: []
-ListenInSec: 117
+aliases: ["Sasuke's Theme"]
+Cover: "[[_No Album Art.jpg]]"
+Year: 2004
+Album: "[[Naruto OST 2 (📀 16)]]"
 CoverOf: ""
+Creators: ["[[Toshio Masuda (🎙️ 559)]]"]
+ListenInSec: 117
+NumberInAlbum: 5
+related: []
+source:
+SourceFile: "[[Naruto OST - Sasuke's Theme.mp3]]"
 ---
 
 # Naruto OST - Sasuke's Theme

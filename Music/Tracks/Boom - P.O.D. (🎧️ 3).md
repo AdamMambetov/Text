@@ -1,18 +1,16 @@
 ---
 created: 2022-04-21T01:52:06+03:00
-aliases:
-  - Boom
+aliases: [Boom]
 Cover: "[[P.O.D. - Satellite.jpg]]"
 Year: 2018
 Album: ""
-Creators:
-  - "[[P.O.D. (🎙️ 404)]]"
+CoverOf: ""
+Creators: ["[[P.O.D. (🎙️ 404)]]"]
+ListenInSec: 365
 NumberInAlbum: 0
+related: []
 source: ""
 SourceFile: "[[P.O.D. - Boom.mp3]]"
-related: []
-ListenInSec: 365
-CoverOf: ""
 ---
 
 # P.O.D. - Boom

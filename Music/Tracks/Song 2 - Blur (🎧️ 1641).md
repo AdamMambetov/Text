@@ -1,17 +1,15 @@
 ---
-SourceFile: "[[Blur - Song 2.mp3]]"
+created: 2025-05-04T02:20:43+03:00
+aliases: [Song 2]
+Cover: ""
 Year: 2009
 Album: ""
-aliases:
-  - Song 2
-created: 2025-05-04T02:20:43+03:00
-Creators:
-  - "[[Blur (🎙️ 232)]]"
-Cover: ""
+CoverOf: ""
+Creators: ["[[Blur (🎙️ 232)]]"]
+ListenInSec: 626
 NumberInAlbum: 0
 related: []
-ListenInSec: 626
-CoverOf: ""
+SourceFile: "[[Blur - Song 2.mp3]]"
 ---
 
 # Blur - Song 2

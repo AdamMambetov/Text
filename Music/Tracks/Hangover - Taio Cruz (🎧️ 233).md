@@ -1,19 +1,16 @@
 ---
-Album: "[[TY.O [2011] {Taio Cruz; Flo Rida}]]"
-Creators:
-  - "[[Taio Cruz (🎙️ 455)]]"
-  - "[[Flo Rida (🎙️ 310)]]"
-Cover: ""
-NumberInAlbum: 1
-SourceFile: "[[Taio Cruz - Hangover.mp3]]"
-Year: 2011
-aliases:
-  - Hangover
 created: 2022-04-22T21:38:56+03:00
-source: ""
-related: []
-ListenInSec: 28
+aliases: [Hangover]
+Cover: ""
+Year: 2011
+Album: "[[TY.O [2011] {Taio Cruz; Flo Rida}]]"
 CoverOf: ""
+Creators: ["[[Taio Cruz (🎙️ 455)]]", "[[Flo Rida (🎙️ 310)]]"]
+ListenInSec: 28
+NumberInAlbum: 1
+related: []
+source: ""
+SourceFile: "[[Taio Cruz - Hangover.mp3]]"
 ---
 
 # Taio Cruz - Hangover

@@ -1,18 +1,16 @@
 ---
-Album: "[[Umineko no Naku Koro ni OST (📀 30)]]"
-Creators:
-  - "[[pre-holder (🎙️ 5)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 62
-SourceFile: "[[Umineko no Naku Koro ni OST - 062 В дали.ogg]]"
-Year: 2007
-aliases:
-  - В дали
 created: 2024-04-12T15:03:39+03:00
-source: ""
-related: []
-ListenInSec: 1362
+aliases: [В дали]
+Cover: "[[_No Album Art.jpg]]"
+Year: 2007
+Album: "[[Umineko no Naku Koro ni OST (📀 30)]]"
 CoverOf: ""
+Creators: ["[[pre-holder (🎙️ 5)]]"]
+ListenInSec: 1362
+NumberInAlbum: 62
+related: []
+source: ""
+SourceFile: "[[Umineko no Naku Koro ni OST - 062 В дали.ogg]]"
 ---
 
 # Umineko no Naku Koro ni OST - 062 В дали

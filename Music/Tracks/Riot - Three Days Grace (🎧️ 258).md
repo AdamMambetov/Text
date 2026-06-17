@@ -1,18 +1,16 @@
 ---
-Album: ""
-Creators:
-  - "[[Three Days Grace (🎙️ 469)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 0
-SourceFile: "[[Three Days Grace - Riot.mp3]]"
-Year: 2006
-aliases:
-  - Riot
 created: 2022-04-22T21:47:42+03:00
-source: ""
-related: []
-ListenInSec: 1
+aliases: [Riot]
+Cover: "[[_No Album Art.jpg]]"
+Year: 2006
+Album: ""
 CoverOf: ""
+Creators: ["[[Three Days Grace (🎙️ 469)]]"]
+ListenInSec: 1
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[Three Days Grace - Riot.mp3]]"
 ---
 
 # Three Days Grace - Riot

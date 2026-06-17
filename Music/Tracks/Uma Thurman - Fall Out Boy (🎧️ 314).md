@@ -1,18 +1,16 @@
 ---
-Album: "[[American Beauty/American Psycho [2015] {Fall Out Boy}]]"
-Creators:
-  - "[[Fall Out Boy (🎙️ 306)]]"
-Cover: ""
-NumberInAlbum: 5
-SourceFile: "[[Fall Out Boy - Uma Thurman.mp3]]"
-Year: 2015
-aliases:
-  - Uma Thurman
 created: 2022-04-26T01:14:10+03:00
-source: ""
-related: []
-ListenInSec: 124
+aliases: [Uma Thurman]
+Cover: ""
+Year: 2015
+Album: "[[American Beauty/American Psycho [2015] {Fall Out Boy}]]"
 CoverOf: ""
+Creators: ["[[Fall Out Boy (🎙️ 306)]]"]
+ListenInSec: 124
+NumberInAlbum: 5
+related: []
+source: ""
+SourceFile: "[[Fall Out Boy - Uma Thurman.mp3]]"
 ---
 
 # Fall Out Boy - Uma Thurman

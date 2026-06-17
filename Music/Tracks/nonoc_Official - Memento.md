@@ -1,17 +1,16 @@
 ---
 created: 2025-11-19T03:19:12+03:00
-aliases:
-  - nonoc_Official - Memento
+aliases: [nonoc_Official - Memento]
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
+CoverOf: ""
 Creators: []
+ListenInSec: 313
 NumberInAlbum: 0
+related: []
 source: ""
 SourceFile: "[[nonoc_Official - Memento.mp3]]"
-related: []
-ListenInSec: 313
-CoverOf: ""
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

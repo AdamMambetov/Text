@@ -1,18 +1,16 @@
 ---
-Album: ""
-Creators:
-  - "[[Leon Alex (🎙️ 361)]]"
-Cover: "[[Leon Alex - Way Back Home.jpg]]"
-NumberInAlbum: 0
-SourceFile: "[[Leon Alex - Way Back Home.mp3]]"
-Year: 2020
-aliases:
-  - Way Back Home
 created: 2022-04-21T01:51:53+03:00
-source: https://youtu.be/dgMzfkLTGnI?si=Oh9qFYpyMcfap-hZ
-related: []
-ListenInSec: 457
+aliases: [Way Back Home]
+Cover: "[[Leon Alex - Way Back Home.jpg]]"
+Year: 2020
+Album: ""
 CoverOf: "[[Way Back Home - Shaun (🎧️ 225)]]"
+Creators: ["[[Leon Alex (🎙️ 361)]]"]
+ListenInSec: 457
+NumberInAlbum: 0
+related: []
+source: https://youtu.be/dgMzfkLTGnI?si=Oh9qFYpyMcfap-hZ
+SourceFile: "[[Leon Alex - Way Back Home.mp3]]"
 ---
 
 # Leon Alex - Way Back Home

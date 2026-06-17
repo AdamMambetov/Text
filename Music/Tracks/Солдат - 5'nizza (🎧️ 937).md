@@ -1,18 +1,16 @@
 ---
 created: 2023-09-29T16:25:16+03:00
-aliases:
-  - Солдат
+aliases: [Солдат]
 Cover: "[[_No Album Art.jpg]]"
 Year: 2003
 Album: "[[Пятница]]"
-Creators:
-  - "[[5'nizza (🎙️ 75)]]"
+CoverOf: ""
+Creators: ["[[5'nizza (🎙️ 75)]]"]
+ListenInSec: 168
 NumberInAlbum: 14
+related: []
 source: ""
 SourceFile: "[[5'nizza - Солдат.mp3]]"
-related: []
-ListenInSec: 168
-CoverOf: ""
 ---
 
 # 5'nizza - Солдат

@@ -1,18 +1,16 @@
 ---
-Album: "[[Life & Death]]"
-Creators:
-  - "[[Blowsight (🎙️ 230)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 12
-SourceFile: "[[Blowsight - Red Riding Blues.mp3]]"
-Year: 2013
-aliases:
-  - Red Riding Blues
 created: 2023-09-29T16:24:11+03:00
-source: ""
-related: []
-ListenInSec: 35
+aliases: [Red Riding Blues]
+Cover: "[[_No Album Art.jpg]]"
+Year: 2013
+Album: "[[Life & Death]]"
 CoverOf: ""
+Creators: ["[[Blowsight (🎙️ 230)]]"]
+ListenInSec: 35
+NumberInAlbum: 12
+related: []
+source: ""
+SourceFile: "[[Blowsight - Red Riding Blues.mp3]]"
 ---
 
 # Blowsight - Red Riding Blues

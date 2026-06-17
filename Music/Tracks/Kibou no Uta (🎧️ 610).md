@@ -1,16 +1,16 @@
 ---
-Album: ""
-Creators: []
-Cover: ""
-NumberInAlbum: 1
-SourceFile: "[[Jackie-O - Kibou no Uta.mp3]]"
-Year: 0
-aliases: []
 created: 2023-07-09T18:23:26+03:00
-source: ""
-related: []
-ListenInSec: 553
+aliases: []
+Cover: ""
+Year: 0
+Album: ""
 CoverOf: ""
+Creators: []
+ListenInSec: 553
+NumberInAlbum: 1
+related: []
+source: ""
+SourceFile: "[[Jackie-O - Kibou no Uta.mp3]]"
 ---
 
 # Jackie-O - Kibou no Uta

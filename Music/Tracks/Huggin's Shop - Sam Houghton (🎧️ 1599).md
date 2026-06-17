@@ -1,19 +1,16 @@
 ---
-Album: "[[BPM OST (📀 40)]]"
-Creators:
-  - "[[Sam Houghton (🎙️ 675)]]"
-  - "[[Joe Collinson (🎙️ 676)]]"
-Cover: "[[BPM OST.jpg]]"
-NumberInAlbum: 6
-SourceFile: "[[BPM OST - 09 Huggin's Shop.mp3]]"
-Year: 2020
-aliases:
-  - Huggin's Shop
 created: 2025-01-08T23:28:44+03:00
-source: ""
-related: []
-ListenInSec: 185
+aliases: ["Huggin's Shop"]
+Cover: "[[BPM OST.jpg]]"
+Year: 2020
+Album: "[[BPM OST (📀 40)]]"
 CoverOf: ""
+Creators: ["[[Sam Houghton (🎙️ 675)]]", "[[Joe Collinson (🎙️ 676)]]"]
+ListenInSec: 185
+NumberInAlbum: 6
+related: []
+source: ""
+SourceFile: "[[BPM OST - 09 Huggin's Shop.mp3]]"
 ---
 
 # BPM OST - 06 Huggin's Shop

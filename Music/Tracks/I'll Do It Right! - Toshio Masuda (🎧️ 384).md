@@ -1,18 +1,16 @@
 ---
-Album: "[[Naruto OST 3 (📀 17)]]"
-Creators:
-  - "[[Toshio Masuda (🎙️ 559)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 8
-SourceFile: "[[Naruto OST - I'll Do It Right!.mp3]]"
-Year: 2005
-aliases:
-  - I'll Do It Right!
 created: 2022-04-28T17:52:58+03:00
-source:
-related: []
-ListenInSec: 43
+aliases: ["I'll Do It Right!"]
+Cover: "[[_No Album Art.jpg]]"
+Year: 2005
+Album: "[[Naruto OST 3 (📀 17)]]"
 CoverOf: ""
+Creators: ["[[Toshio Masuda (🎙️ 559)]]"]
+ListenInSec: 43
+NumberInAlbum: 8
+related: []
+source:
+SourceFile: "[[Naruto OST - I'll Do It Right!.mp3]]"
 ---
 
 # Naruto OST - I'll Do It Right!

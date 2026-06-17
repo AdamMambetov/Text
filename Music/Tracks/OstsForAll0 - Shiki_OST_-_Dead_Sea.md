@@ -1,17 +1,16 @@
 ---
 created: 2025-11-14T03:33:30+03:00
-aliases:
-  - OstsForAll0 - Shiki_OST_-_Dead_Sea
+aliases: [OstsForAll0 - Shiki_OST_-_Dead_Sea]
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
+CoverOf: ""
 Creators: []
+ListenInSec: 508
 NumberInAlbum: 0
+related: []
 source: ""
 SourceFile: "[[OstsForAll0 - Shiki_OST_-_Dead_Sea.mp3]]"
-related: []
-ListenInSec: 508
-CoverOf: ""
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

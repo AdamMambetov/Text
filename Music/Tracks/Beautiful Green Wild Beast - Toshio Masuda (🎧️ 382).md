@@ -1,18 +1,16 @@
 ---
-Album: "[[Naruto OST 3 (📀 17)]]"
-Creators:
-  - "[[Toshio Masuda (🎙️ 559)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 1
-SourceFile: "[[Naruto OST - Beautiful Green Wild Beast.mp3]]"
-Year: 2005
-aliases:
-  - Beautiful Green Wild Beast
 created: 2022-04-28T17:52:48+03:00
-source:
-related: []
-ListenInSec: 126
+aliases: [Beautiful Green Wild Beast]
+Cover: "[[_No Album Art.jpg]]"
+Year: 2005
+Album: "[[Naruto OST 3 (📀 17)]]"
 CoverOf: ""
+Creators: ["[[Toshio Masuda (🎙️ 559)]]"]
+ListenInSec: 126
+NumberInAlbum: 1
+related: []
+source:
+SourceFile: "[[Naruto OST - Beautiful Green Wild Beast.mp3]]"
 ---
 
 # Naruto OST - Beautiful Green Wild Beast

@@ -1,17 +1,16 @@
 ---
-Album: ""
-Creators: []
-Cover: ""
-NumberInAlbum: 1
-SourceFile: "[[Chrono Trigger OST - Secret of the Forest.mp3]]"
-Year: 0
-aliases:
-  - Secret of the Forest
 created: 2025-01-08T20:01:51+03:00
-source: ""
-related: []
-ListenInSec: 1825
+aliases: [Secret of the Forest]
+Cover: ""
+Year: 0
+Album: ""
 CoverOf: ""
+Creators: []
+ListenInSec: 1825
+NumberInAlbum: 1
+related: []
+source: ""
+SourceFile: "[[Chrono Trigger OST - Secret of the Forest.mp3]]"
 ---
 
 # Chrono Trigger OST - Secret of the Forest

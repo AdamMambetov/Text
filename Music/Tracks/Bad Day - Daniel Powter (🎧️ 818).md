@@ -1,18 +1,16 @@
 ---
-Album: "[[Daniel Powter: The Essential Collection]]"
-Creators:
-  - "[[Daniel Powter (🎙️ 276)]]"
-Cover: ""
-NumberInAlbum: 1
-SourceFile: "[[Daniel Powter - Bad Day.mp3]]"
-Year: 2021
-aliases:
-  - Bad Day
 created: 2023-09-29T16:23:29+03:00
-source: ""
-related: []
-ListenInSec: 220
+aliases: [Bad Day]
+Cover: ""
+Year: 2021
+Album: "[[Daniel Powter: The Essential Collection]]"
 CoverOf: ""
+Creators: ["[[Daniel Powter (🎙️ 276)]]"]
+ListenInSec: 220
+NumberInAlbum: 1
+related: []
+source: ""
+SourceFile: "[[Daniel Powter - Bad Day.mp3]]"
 ---
 
 # Daniel Powter - Bad Day

@@ -1,18 +1,16 @@
 ---
-Album: ""
-Creators:
-  - "[[Smash Mouth (🎙️ 442)]]"
-Cover: "[[Smash Mouth - Astro Lounge.jpg]]"
-NumberInAlbum: 0
-SourceFile: "[[Smash Mouth - All Star.mp3]]"
-Year: 1999
-aliases:
-  - All Star
 created: 2022-04-21T01:53:14+03:00
-source: ""
-related: []
-ListenInSec: 284
+aliases: [All Star]
+Cover: "[[Smash Mouth - Astro Lounge.jpg]]"
+Year: 1999
+Album: ""
 CoverOf: ""
+Creators: ["[[Smash Mouth (🎙️ 442)]]"]
+ListenInSec: 284
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[Smash Mouth - All Star.mp3]]"
 ---
 
 # Smash Mouth - All Star

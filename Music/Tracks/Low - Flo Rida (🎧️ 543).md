@@ -1,18 +1,16 @@
 ---
-Album: "[[Low]]"
-Creators:
-  - "[[Flo Rida (🎙️ 310)]]"
-Cover: ""
-NumberInAlbum: 1
-SourceFile: "[[Flo Rida - Low.mp3]]"
-Year: 2008
-aliases:
-  - Low
 created: 2022-12-20T23:10:58+03:00
-source: ""
-related: []
-ListenInSec: 224
+aliases: [Low]
+Cover: ""
+Year: 2008
+Album: "[[Low]]"
 CoverOf: ""
+Creators: ["[[Flo Rida (🎙️ 310)]]"]
+ListenInSec: 224
+NumberInAlbum: 1
+related: []
+source: ""
+SourceFile: "[[Flo Rida - Low.mp3]]"
 ---
 
 # Flo Rida - Low

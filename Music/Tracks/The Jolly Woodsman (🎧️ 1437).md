@@ -1,17 +1,16 @@
 ---
-Album: ""
-Creators: []
-Cover: ""
-NumberInAlbum: 1
-SourceFile: "[[Over the Garden Wall OST - 39 The Jolly Woodsman.mp3]]"
-Year: 0
-aliases:
-  - The Jolly Woodsman
 created: 2025-01-07T20:11:12+03:00
-source: ""
-related: []
-ListenInSec: 141
+aliases: [The Jolly Woodsman]
+Cover: ""
+Year: 0
+Album: ""
 CoverOf: ""
+Creators: []
+ListenInSec: 141
+NumberInAlbum: 1
+related: []
+source: ""
+SourceFile: "[[Over the Garden Wall OST - 39 The Jolly Woodsman.mp3]]"
 ---
 
 # Over the Garden Wall OST - 39 The Jolly Woodsman

@@ -1,18 +1,16 @@
 ---
-Album: ""
-Creators:
-  - "[[io (🎙️ 587)]]"
-Cover: "[[_No Album Art.jpg]]"
-NumberInAlbum: 0
-SourceFile: "[[io - Aoiro Step.mp3]]"
-Year: 0
-aliases:
-  - Aoiro Step
 created: 2022-10-05T13:31:28+03:00
-source: ""
-related: []
-ListenInSec: 3
+aliases: [Aoiro Step]
+Cover: "[[_No Album Art.jpg]]"
+Year: 0
+Album: ""
 CoverOf: ""
+Creators: ["[[io (🎙️ 587)]]"]
+ListenInSec: 3
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[io - Aoiro Step.mp3]]"
 ---
 
 # io - Aoiro Step

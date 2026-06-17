@@ -1,18 +1,16 @@
 ---
-Album: "[[Sonny Boy OST (📀 41)]]"
-Creators:
-  - "[[mitsume (🎙️ 693)]]"
-Cover: "[[Sonny Boy OST.jpg]]"
-NumberInAlbum: 15
-SourceFile: "[[Sonny Boy OST - Spare.mp3]]"
-Year: 2021
-aliases:
-  - Spare
 created: 2023-08-23T13:19:20+03:00
-source: ""
-related: []
-ListenInSec: 427
+aliases: [Spare]
+Cover: "[[Sonny Boy OST.jpg]]"
+Year: 2021
+Album: "[[Sonny Boy OST (📀 41)]]"
 CoverOf: ""
+Creators: ["[[mitsume (🎙️ 693)]]"]
+ListenInSec: 427
+NumberInAlbum: 15
+related: []
+source: ""
+SourceFile: "[[Sonny Boy OST - Spare.mp3]]"
 ---
 
 # Sonny Boy OST - Spare

@@ -1,18 +1,16 @@
 ---
-Album: "[[Lift Your Spirit]]"
-Creators:
-  - "[[Aloe Blacc (🎙️ 172)]]"
-Cover: ""
-NumberInAlbum: 3
-SourceFile: "[[Aloe Blacc - Wake Me Up.mp3]]"
-Year: 2013
-aliases:
-  - Wake Me Up
 created: 2023-09-29T16:24:48+03:00
-source: ""
-related: []
-ListenInSec: 441
+aliases: [Wake Me Up]
+Cover: ""
+Year: 2013
+Album: "[[Lift Your Spirit]]"
 CoverOf: ""
+Creators: ["[[Aloe Blacc (🎙️ 172)]]"]
+ListenInSec: 441
+NumberInAlbum: 3
+related: []
+source: ""
+SourceFile: "[[Aloe Blacc - Wake Me Up.mp3]]"
 ---
 
 # Aloe Blacc - Wake Me Up

@@ -1,17 +1,16 @@
 ---
-Album: ""
-Creators: []
-Cover: ""
-NumberInAlbum: 1
-SourceFile: "[[Over the Garden Wall OST - 01 Prelude.mp3]]"
-Year: 0
-aliases:
-  - Prelude
 created: 2025-01-07T19:51:50+03:00
-source: ""
-related: []
-ListenInSec: 276
+aliases: [Prelude]
+Cover: ""
+Year: 0
+Album: ""
 CoverOf: ""
+Creators: []
+ListenInSec: 276
+NumberInAlbum: 1
+related: []
+source: ""
+SourceFile: "[[Over the Garden Wall OST - 01 Prelude.mp3]]"
 ---
 
 # Over the Garden Wall OST - 01 Prelude
