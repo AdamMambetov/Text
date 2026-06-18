@@ -438,10 +438,7 @@
           "input": {
             "type": "multiselect",
             "source": "notes",
-            "folder": "Music/Creators",
-            "allowUnknownValues": false,
-            "query": "",
-            "multi_select_options": []
+            "folder": "Music/Creators"
           }
         },
         {
@@ -482,10 +479,7 @@
           "input": {
             "type": "multiselect",
             "source": "notes",
-            "folder": "Music/Tracks",
-            "allowUnknownValues": false,
-            "query": "",
-            "multi_select_options": []
+            "folder": "Music/Tracks"
           }
         },
         {

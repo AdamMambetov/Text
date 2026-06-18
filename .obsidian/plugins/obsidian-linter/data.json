@@ -12,7 +12,7 @@
     },
     "escape-yaml-special-characters": {
       "enabled": true,
-      "try-to-escape-single-line-arrays": true
+      "try-to-escape-single-line-arrays": false
     },
     "force-yaml-escape": {
       "enabled": false,

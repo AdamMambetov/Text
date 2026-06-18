@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "db8ab5855d9c1024",
+        "id": "3c5c460b809476ef",
         "type": "tabs",
         "children": [
           {
-            "id": "9b71145140fa91c4",
+            "id": "b8f5bbc93dadb9ac",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Art/content/Umineko no Naku Koro ni (🇯🇵🎮 254).md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Umineko no Naku Koro ni (🇯🇵🎮 254)"
             }
           }
         ]
@@ -85,6 +89,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Music/Tracks/Dance, Dance - Fall Out Boy (🎧️ 1232).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -112,7 +117,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Dance, Dance - Fall Out Boy (🎧️ 1232)"
             }
           }
         ]
@@ -136,7 +141,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 336.5
+    "width": 336.5,
+    "collapsed": true
   },
   "right": {
     "id": "fa85d1514c56552d",
@@ -148,22 +154,11 @@
         "dimension": 25.199203187250998,
         "children": [
           {
-            "id": "23edba1bc6bd8c75",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
             "id": "6288a4b67d726840",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Text/Music/Tracks/Love In Sao Paolo - Yuji Ohno (🎧️ 1485).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +168,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Love In Sao Paolo - Yuji Ohno (🎧️ 1485)"
+              "title": "Backlinks"
             }
           },
           {
@@ -196,13 +191,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Text/Personal/Данные для VPN.md",
+                "file": "Art/content/Umineko no Naku Koro ni (🇯🇵🎮 254).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Данные для VPN"
+              "title": "Outline of Umineko no Naku Koro ni (🇯🇵🎮 254)"
             }
           },
           {
@@ -215,7 +210,8 @@
               "title": "advanced-tables-toolbar"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "3185b9fecf878a15",
@@ -277,26 +273,50 @@
       "daily-notes:Open today's daily note": true,
       "command-palette:Open command palette": false,
       "bases:Create new base": true,
-      "table-editor-obsidian:Advanced Tables Toolbar": true,
-      "cmdr:QuickAdd: смотреть позже": false,
-      "cmdr:Track Edit": false,
-      "obsidian-git:Open Git source control": true,
       "homepage:Open homepage": false,
-      "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": true,
-      "modalforms:Edit forms": true,
-      "omnisearch:Omnisearch": true,
-      "quickadd:QuickAdd": true,
-      "templater-obsidian:Templater": true,
-      "3d-graph-new:Global 3D Graph": true,
-      "obsidian-excalidraw-plugin:New drawing": true
+      "cmdr:Track Edit": false,
+      "quickadd:QuickAdd": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "cmdr:QuickAdd: смотреть позже": false,
+      "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false,
+      "modalforms:Edit forms": false,
+      "omnisearch:Omnisearch": false,
+      "3d-graph-new:Global 3D Graph": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9b71145140fa91c4",
+  "active": "b8f5bbc93dadb9ac",
   "lastOpenFiles": [
-    "Text/RealRed/periodic/2026-05-15.md",
-    "Text/RealRed/periodic/2026-05-13.md",
-    "Text/RealRed/periodic/2026-05-08.md",
-    "Text/RealRed/periodic/2026-05-06.md",
+    "Music/Tracks/Окончательный ответ - dai (🎧️ 1048).md",
+    "Art/content/Umineko no Naku Koro ni (🇯🇵🎮 254).md",
+    "Art/content/Re.Zero 4 (🇯🇵📺 1115).md",
+    "Text/Note/files",
+    "Text/Note",
+    "Text",
+    "Music/Tracks/Dance, Dance - Fall Out Boy (🎧️ 1232).md",
+    "Music/Tracks/Daisy Blue - Kano (🎧️ 441).md",
+    "Music/Tracks/Daisuke Hasegawa - Uragirimono no Requiem.md",
+    "Music/Tracks/Dadadadadadadadadada - Hige Driver join. SELEN (🎧️ 504).md",
+    "Music/Tracks/Cure (TV Size) (🎧️ 1562).md",
+    "Music/Tracks/Cure (🎧️ 1561).md",
+    "Music/Tracks/Cupid's Chokehold  Breakfast in America - Gym Class Heroes (🎧️ 772).md",
+    "Music/Tracks/Crunchyroll - Re_-ZERO_-Starting_Life_in_Another_World-_Season_2_-_Ending_1_Memento.md",
+    "Music/Tracks/Crossing Field (TV Size) (🎧️ 1463).md",
+    "Music/Tracks/Crossing Field (TV Size) (🎧️ 1459).md",
+    "Music/Tracks/Crossing Field - Onsa Media (🎧️ 332).md",
+    "Music/Tracks/Crossing Field - Marie Bibika (🎧️ 1271).md",
+    "Music/Tracks/Crossing Field - LiSA (🎧️ 1445).md",
+    "Music/Tracks/Crossing Field - Jonathan Young (🎧️ 1450).md",
+    "Music/Tracks/Cross Time!! - Brandy (🎧️ 1268).md",
+    "Music/Tracks/Creepin' Towards the Door - Griffinilla (🎧️ 1237).md",
+    "Music/Tracks/Create 1 (Champ'd Up) - Andy Poland (🎧️ 1679).md",
+    "Music/Tracks/Cradles - Sub Urban (🎧️ 1235).md",
+    "Music/Tracks/Coward Killing Time - The Quick Brown Fox (🎧️ 412).md",
+    "Music/Tracks/Courting Song (🎧️ 1413).md",
+    "Music/Tracks/Courtesy Call - Thousand Foot Krutch (🎧️ 1228).md",
+    "Music/Tracks/Courage (TV Size) - Haruka Tomatsu (🎧️ 1698).md",
+    "Music/Tracks/Courage - Marie Bibika (🎧️ 1269).md",
     "Video/18+/Hentai/2101_video_voice_HentaiZ_720.mp4.mp4",
     "Audio/Music/Your Turn To Die OST - 08 Even in Tragedy [EXTENDED].mp3",
     "Audio/Music/Your Turn To Die OST - 09 Kind Moment [EXTENDED].mp3",
@@ -304,33 +324,8 @@
     "Audio/Music/Your Turn To Die OST - 03 Into The Incident [EXTENDED].mp3",
     "Audio/Music/Your Turn To Die OST - 04 Major Panic [EXTENDED].mp3",
     "Audio/Music/Your Turn To Die OST - 02 Aren't You Cheerful [EXTENDED].mp3",
-    "Audio/Music/Your Turn To Die OST - 11 Cardiogram Prelude [EXTENDED].mp3",
-    "Audio/Music/Your Turn To Die OST - 12 Cardiogram Peak [EXTENDED].mp3",
-    "Audio/Music/Your Turn To Die OST - 20 Not So, Sou B [EXTENDED].mp3",
-    "Text/RealRed/periodic/2026-05.md",
-    "Text/RealRed/periodic/2026-05-05.md",
-    "Text/RealRed/periodic/2026-05-04.md",
-    "Text/Art/content/Re.Zero 4 (🇯🇵📺 1115).md",
-    "Text/RealRed/periodic/2026-04-29.md",
-    "Text/RealRed/periodic/2026-04-28.md",
-    "Text/RealRed/periodic/2026-04-27.md",
-    "Text/RealRed/periodic/2026-04-24.md",
-    "Text/Art/content/Невероятное приключение ДжоДжо 7 (🇯🇵📺 1128).md",
-    "Text/Music/Tracks/Great Days - Karen Aoki (🎧️ 588).md",
     "Text/Art/covers/incredibox_game_cover.png",
-    "Text/Art/content/Incredibox (🇺🇸🎮 1215).md",
-    "Text/Music/Tracks/Love In Sao Paolo - Yuji Ohno (🎧️ 1485).md",
     "Image/Wallpapers/Mobile/IMG_20260330_232429.jpg",
-    "Text/RealRed/Как устроен Gameplay Tag.excalidraw.md",
-    "Text/RealRed/В каких классах надо исправить тэги.md",
-    "Text/RealRed/periodic/2026-04.md",
-    "Text/RealRed/periodic/2026-04-22.md",
-    "Text/RealRed/periodic/2026-04-21.md",
-    "Text/RealRed/periodic/2026-04-20.md",
-    "Text/RealRed/periodic/2026-04-17.md",
-    "Text/RealRed/periodic/2026-04-16.md",
-    "Text/RealRed/periodic/2026-04-15.md",
-    "Text/RealRed/periodic/2026-04-14.md",
     "Text/RealRed/files/Pasted Image 20260408145304_525.png",
     "Text/RealRed/files/Pasted Image 20260408145014_903.png",
     "Text/RealRed/files/Pasted Image 20260408143757_787.png",
