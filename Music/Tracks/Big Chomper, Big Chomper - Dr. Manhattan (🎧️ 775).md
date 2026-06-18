@@ -1,6 +1,6 @@
 ---
 created: 2023-09-29T16:23:47+03:00
-aliases: [Big Chomper, Big Chomper]
+aliases: ["Big Chomper, Big Chomper"]
 Cover: ""
 Year: 2008
 Album: "[[Dr Manhattan]]"

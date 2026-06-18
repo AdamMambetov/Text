@@ -1,6 +1,6 @@
 ---
 created: 2024-01-04T12:15:12+03:00
-aliases: [Играть, чтобы жить]
+aliases: ["Играть, чтобы жить"]
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""

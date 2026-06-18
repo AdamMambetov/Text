@@ -1,6 +1,6 @@
 ---
 created: 2023-09-29T16:23:37+03:00
-aliases: [Aldritch, Devourer of Gods]
+aliases: ["Aldritch, Devourer of Gods"]
 Cover: "[[Dark Souls 3.png]]"
 Year: 2019
 Album: "[[Dark Souls 3 OST (📀 10)]]"

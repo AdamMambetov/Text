@@ -1,6 +1,6 @@
 ---
 created: 2025-05-04T02:14:12+03:00
-aliases: ["BLUR x СМЕШАРИКИ — AIRPLANE 2"]
+aliases: [BLUR x СМЕШАРИКИ - AIRPLANE 2]
 Cover: ""
 Year: 2020
 Album: ""

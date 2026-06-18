@@ -1,6 +1,6 @@
 ---
 created: 2024-04-12T15:00:05+03:00
-aliases: [Сверху вниз, наискосок]
+aliases: ["Сверху вниз, наискосок"]
 Cover: "[[_No Album Art.jpg]]"
 Year: 2007
 Album: "[[Umineko no Naku Koro ni OST (📀 30)]]"
