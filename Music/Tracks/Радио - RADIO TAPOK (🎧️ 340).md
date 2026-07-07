@@ -1,11 +1,14 @@
 ---
 created: 2022-04-28T01:59:42+03:00
-aliases: [Радио, Radio]
+aliases:
+  - "Радио"
+  - "Radio"
 Cover: "[[_No Album Art.jpg]]"
 Year: 2020
 Album: ""
 CoverOf: "[[Radio - Rammstein (🎧️ 869)]]"
-Creators: ["[[RADIO TAPOK (🎙️ 421)]]"]
+Creators:
+  - "[[RADIO TAPOK (🎙️ 421)]]"
 ListenInSec: 44
 NumberInAlbum: 0
 related: []

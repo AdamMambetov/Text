@@ -1,11 +1,16 @@
 ---
 created: 2025-06-30T18:54:32+03:00
-aliases: [соЛГАТники, aLIEz, солгатники]
+aliases:
+  - "соЛГАТники"
+  - "aLIEz"
+  - "солгатники"
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: "[[aLIEz - Hiroyuki Sawano (🎧️ 1785)]]"
-Creators: ["[[Radiant Records (🎙️ 39)]]", "[[Molli (🎙️ 47)]]"]
+Creators:
+  - "[[Radiant Records (🎙️ 39)]]"
+  - "[[Molli (🎙️ 47)]]"
 ListenInSec: 2919
 NumberInAlbum: 0
 related: []

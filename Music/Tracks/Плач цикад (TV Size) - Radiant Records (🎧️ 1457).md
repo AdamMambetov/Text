@@ -1,11 +1,13 @@
 ---
 created: 2025-01-08T01:01:12+03:00
-aliases: [Плач цикад (TV Size)]
+aliases:
+  - "Плач цикад (TV Size)"
 Cover: ""
 Year: 0
 Album: ""
 CoverOf: ""
-Creators: ["[[Radiant Records (🎙️ 39)]]"]
+Creators:
+  - "[[Radiant Records (🎙️ 39)]]"
 ListenInSec: 3
 NumberInAlbum: 0
 related: []

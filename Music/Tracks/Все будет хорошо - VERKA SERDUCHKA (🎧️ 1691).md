@@ -1,6 +1,7 @@
 ---
 created: 2025-05-04T02:24:53+03:00
-aliases: [Все будет хорошо]
+aliases:
+  - "Все будет хорошо"
 Cover: "[[_No Album Art.jpg]]"
 Year: 2012
 Album: ""

@@ -1,6 +1,7 @@
 ---
 created: 2026-01-22T03:40:41+03:00
-aliases: ["Terminite"]
+aliases:
+  - "Terminite"
 ListenInSec: 0
 ---
 

@@ -1,6 +1,7 @@
 ---
 created: 2026-01-26T19:56:19+03:00
-aliases: ["cosMo@BousouP"]
+aliases:
+  - "cosMo@BousouP"
 ListenInSec: 198
 ---
 

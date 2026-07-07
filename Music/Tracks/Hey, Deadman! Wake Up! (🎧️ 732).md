@@ -8,7 +8,8 @@ CoverOf: ""
 Creators: []
 ListenInSec: 535
 NumberInAlbum: 1
-related: ["[[Эй, мёртвый! проснись! (🎧️ 733)]]"]
+related:
+  - "[[Эй, мёртвый! проснись! - Plamenev (🎧️ 902)]]"
 source: ""
 SourceFile: "[[Plamenev - Hey, Deadman! Wake Up!.mp3]]"
 ---

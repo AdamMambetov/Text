@@ -1,10 +1,12 @@
 ---
 created: 2024-10-23T14:40:04+03:00
-aliases: [Частушки Бабок-ежек]
+aliases:
+  - "Частушки Бабок-ежек"
 Cover: "[[_No Album Art.jpg]]"
 Year: 2024
 Album: "[[Частушки Бабок-ежек]]"
-category: ["[[Искусственный интеллект]]"]
+category:
+  - "[[Искусственный интеллект]]"
 CoverOf: ""
 Creators: []
 ListenInSec: 287

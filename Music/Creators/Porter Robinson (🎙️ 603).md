@@ -1,6 +1,7 @@
 ---
 created: 2026-02-02T02:23:24+03:00
-aliases: ["Porter Robinson"]
+aliases:
+  - "Porter Robinson"
 ListenInSec: 0
 ---
 

@@ -1,11 +1,13 @@
 ---
 created: 2024-04-12T15:02:04+03:00
-aliases: [Внутренности скорпиона]
+aliases:
+  - "Внутренности скорпиона"
 Cover: "[[_No Album Art.jpg]]"
 Year: 2007
 Album: "[[Umineko no Naku Koro ni OST (📀 30)]]"
 CoverOf: ""
-Creators: ["[[Luck Ganriki (🎙️ 4)]]"]
+Creators:
+  - "[[Luck Ganriki (🎙️ 4)]]"
 ListenInSec: 948
 NumberInAlbum: 45
 related: []

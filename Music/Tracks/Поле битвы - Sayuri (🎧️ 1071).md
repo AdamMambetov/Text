@@ -1,11 +1,13 @@
 ---
 created: 2024-04-12T15:01:22+03:00
-aliases: [Поле битвы]
+aliases:
+  - "Поле битвы"
 Cover: ""
 Year: 2007
 Album: "[[Umineko no Naku Koro ni OST (📀 30)]]"
 CoverOf: ""
-Creators: ["[[Sayuri (🎙️ 14)]]"]
+Creators:
+  - "[[Sayuri (🎙️ 14)]]"
 ListenInSec: 541
 NumberInAlbum: 154
 related: []

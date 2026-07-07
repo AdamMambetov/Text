@@ -1,11 +1,13 @@
 ---
 created: 2022-08-08T11:08:24+03:00
-aliases: [Проснулся и живой]
+aliases:
+  - "Проснулся и живой"
 Cover: ""
 Year: 2014
 Album: ""
 CoverOf: "[[Awake and Alive - Skillet (🎧️ 1170)]]"
-Creators: ["[[PanHeads Band (🎙️ 409)]]"]
+Creators:
+  - "[[PanHeads Band (🎙️ 409)]]"
 ListenInSec: 623
 NumberInAlbum: 6
 related: []

@@ -1,11 +1,13 @@
 ---
 created: 2022-04-22T21:39:58+03:00
-aliases: [Я делаю шаг]
+aliases:
+  - "Я делаю шаг"
 Cover: ""
 Year: 2020
 Album: "[[Shoot Me [2020] {The Hatters}]]"
 CoverOf: ""
-Creators: ["[[The Hatters (🎙️ 456)]]"]
+Creators:
+  - "[[The Hatters (🎙️ 456)]]"
 ListenInSec: 220
 NumberInAlbum: 4
 related: []

@@ -1,6 +1,7 @@
 ---
 created: 2026-01-22T03:56:00+03:00
-aliases: ["Sunset Neon"]
+aliases:
+  - "Sunset Neon"
 ListenInSec: 185
 ---
 

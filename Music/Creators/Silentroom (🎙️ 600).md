@@ -1,6 +1,7 @@
 ---
 created: 2026-02-02T02:16:18+03:00
-aliases: ["Silentroom"]
+aliases:
+  - "Silentroom"
 ListenInSec: 0
 ---
 

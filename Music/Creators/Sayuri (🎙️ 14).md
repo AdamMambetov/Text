@@ -1,6 +1,9 @@
 ---
 created: 2024-08-04T14:28:06+03:00
-aliases: ["Sayuri", "Silver Forest", "さゆり"]
+aliases:
+  - "Sayuri"
+  - "Silver Forest"
+  - "さゆり"
 ListenInSec: 540
 ---
 

@@ -1,11 +1,13 @@
 ---
 created: 2024-04-12T14:58:57+03:00
-aliases: [Улыбка и фальшь]
+aliases:
+  - "Улыбка и фальшь"
 Cover: ""
 Year: 2007
 Album: "[[Umineko no Naku Koro ni OST (📀 30)]]"
 CoverOf: ""
-Creators: ["[[Luck Ganriki (🎙️ 4)]]"]
+Creators:
+  - "[[Luck Ganriki (🎙️ 4)]]"
 ListenInSec: 456
 NumberInAlbum: 135
 related: []

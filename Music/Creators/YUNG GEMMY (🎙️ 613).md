@@ -1,6 +1,7 @@
 ---
 created: 2026-02-12T19:50:51+03:00
-aliases: ["YUNG GEMMY"]
+aliases:
+  - "YUNG GEMMY"
 ListenInSec: 121
 ---
 

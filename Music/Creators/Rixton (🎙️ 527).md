@@ -1,6 +1,7 @@
 ---
 created: 2026-01-24T01:55:57+03:00
-aliases: ["Rixton"]
+aliases:
+  - "Rixton"
 ListenInSec: 0
 ---
 

@@ -1,11 +1,13 @@
 ---
 created: 2023-09-29T16:25:07+03:00
-aliases: [Любимая страна]
+aliases:
+  - "Любимая страна"
 Cover: ""
 Year: 2022
 Album: "[[Прозрение]]"
 CoverOf: ""
-Creators: ["[[ADDicted! (🎙️ 148)]]"]
+Creators:
+  - "[[ADDicted! (🎙️ 148)]]"
 ListenInSec: 41
 NumberInAlbum: 6
 related: []

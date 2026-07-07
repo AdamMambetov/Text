@@ -1,11 +1,13 @@
 ---
 created: 2022-04-28T01:59:38+03:00
-aliases: [Сам]
+aliases:
+  - "Сам"
 Cover: ""
 Year: 2012
 Album: "[[Новый альбом]]"
 CoverOf: ""
-Creators: ["[[Noize MC (🎙️ 78)]]"]
+Creators:
+  - "[[Noize MC (🎙️ 78)]]"
 ListenInSec: 244
 NumberInAlbum: 8
 related: []

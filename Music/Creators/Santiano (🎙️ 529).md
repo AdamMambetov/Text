@@ -1,6 +1,7 @@
 ---
 created: 2026-01-24T02:02:06+03:00
-aliases: ["Santiano"]
+aliases:
+  - "Santiano"
 ListenInSec: 0
 ---
 

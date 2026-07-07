@@ -1,7 +1,7 @@
 ---
 created: 2025-11-30T23:14:00+03:00
 aliases:
-  - osu!
+  - "osu!"
 tracklist:
   - "[[(can you) understand me - Komiya Mao (🎧️ 493)]]"
   - "[[7 -seven- (TV Size) - FLOW (🎧️ 1633)]]"

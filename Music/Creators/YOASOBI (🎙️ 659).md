@@ -1,6 +1,7 @@
 ---
 created: 2026-03-15T01:59:38+03:00
-aliases: ["YOASOBI"]
+aliases:
+  - "YOASOBI"
 ListenInSec: 0
 ---
 

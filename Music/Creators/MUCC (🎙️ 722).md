@@ -1,6 +1,7 @@
 ---
 created: 2026-03-25T18:14:49+03:00
-aliases: ["MUCC"]
+aliases:
+  - "MUCC"
 ListenInSec: 0
 ---
 

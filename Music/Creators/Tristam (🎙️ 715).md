@@ -1,6 +1,7 @@
 ---
 created: 2026-03-25T17:38:52+03:00
-aliases: ["Tristam"]
+aliases:
+  - "Tristam"
 ListenInSec: 0
 ---
 

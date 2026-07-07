@@ -1,11 +1,13 @@
 ---
 created: 2024-10-10T21:49:32+03:00
-aliases: ["(You're The) Devil In Disguise"]
+aliases:
+  - "(You're The) Devil In Disguise"
 Cover: "[[_No Album Art.jpg]]"
 Year: 1963
 Album: "[[The Essential Elvis Presley]]"
 CoverOf: ""
-Creators: ["[[Elvis Presley (🎙️ 301)]]"]
+Creators:
+  - "[[Elvis Presley (🎙️ 301)]]"
 ListenInSec: 7
 NumberInAlbum: 7
 related: []

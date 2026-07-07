@@ -1,6 +1,7 @@
 ---
 created: 2026-02-12T11:19:53+03:00
-aliases: ["Narea"]
+aliases:
+  - "Narea"
 ListenInSec: 344
 ---
 

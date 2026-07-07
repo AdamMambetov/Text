@@ -1,11 +1,13 @@
 ---
 created: 2022-04-28T13:37:00+03:00
-aliases: [Шёпот в темноте]
+aliases:
+  - "Шёпот в темноте"
 Cover: ""
 Year: 2020
 Album: "[[Шёпот в темноте]]"
 CoverOf: ""
-Creators: ["[[Everblack Melodies (🎙️ 305)]]"]
+Creators:
+  - "[[Everblack Melodies (🎙️ 305)]]"
 ListenInSec: 3
 NumberInAlbum: 1
 related: []

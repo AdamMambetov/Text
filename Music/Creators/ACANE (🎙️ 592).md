@@ -1,6 +1,7 @@
 ---
 created: 2026-02-02T01:40:01+03:00
-aliases: ["ACANE"]
+aliases:
+  - "ACANE"
 ListenInSec: 135
 ---
 

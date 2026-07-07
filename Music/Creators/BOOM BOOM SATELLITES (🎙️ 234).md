@@ -1,6 +1,7 @@
 ---
 created: 2025-11-19T22:46:11+03:00
-aliases: ["BOOM BOOM SATELLITES"]
+aliases:
+  - "BOOM BOOM SATELLITES"
 ListenInSec: 1602
 ---
 

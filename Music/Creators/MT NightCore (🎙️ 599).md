@@ -1,6 +1,7 @@
 ---
 created: 2026-02-02T02:15:24+03:00
-aliases: ["MT NightCore"]
+aliases:
+  - "MT NightCore"
 ListenInSec: 208
 ---
 

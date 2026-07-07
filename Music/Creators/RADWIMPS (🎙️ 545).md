@@ -1,6 +1,7 @@
 ---
 created: 2026-01-24T13:46:40+03:00
-aliases: ["RADWIMPS"]
+aliases:
+  - "RADWIMPS"
 ListenInSec: 0
 ---
 

@@ -1,11 +1,13 @@
 ---
 created: 2022-12-20T23:17:58+03:00
-aliases: [Не умрем]
+aliases:
+  - "Не умрем"
 Cover: ""
 Year: 2021
 Album: "[[Не умрем]]"
 CoverOf: ""
-Creators: ["[[PanHeads Band (🎙️ 409)]]"]
+Creators:
+  - "[[PanHeads Band (🎙️ 409)]]"
 ListenInSec: 19
 NumberInAlbum: 1
 related: []

@@ -1,6 +1,7 @@
 ---
 created: 2026-03-15T15:50:07+03:00
-aliases: ["Yoh Kamiyama"]
+aliases:
+  - "Yoh Kamiyama"
 ListenInSec: 0
 ---
 

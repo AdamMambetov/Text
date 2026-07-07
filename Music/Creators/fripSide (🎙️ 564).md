@@ -1,6 +1,7 @@
 ---
 created: 2026-01-26T14:15:10+03:00
-aliases: ["fripSide"]
+aliases:
+  - "fripSide"
 ListenInSec: 1490
 ---
 

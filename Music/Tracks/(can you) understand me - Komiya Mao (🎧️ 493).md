@@ -1,11 +1,13 @@
 ---
 created: 2022-10-05T14:04:48+03:00
-aliases: [(can you) understand me?]
+aliases:
+  - "(can you) understand me?"
 Cover: "[[_No Album Art.jpg]]"
 Year: 2015
 Album: ""
 CoverOf: ""
-Creators: ["[[Komiya Mao (🎙️ 620)]]"]
+Creators:
+  - "[[Komiya Mao (🎙️ 620)]]"
 ListenInSec: 164
 NumberInAlbum: 0
 related: []

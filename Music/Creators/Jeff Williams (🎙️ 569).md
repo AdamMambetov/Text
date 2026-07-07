@@ -1,6 +1,7 @@
 ---
 created: 2026-01-26T19:40:45+03:00
-aliases: ["Jeff Williams"]
+aliases:
+  - "Jeff Williams"
 ListenInSec: 0
 ---
 

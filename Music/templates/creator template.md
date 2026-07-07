@@ -1,21 +1,20 @@
----
-created: <% tp.date.now("YYYY-MM-DD[T]HH:mm:ssZ") %>
-aliases:
-  - "{{value}}"
-ListenInSec: 0
----
+<% "---" %>
+<%*
+dv = app.plugins.plugins.dataview.api
 
-# {{value}}
+let title = tp.file.title
+let num = dv.pages('"Creators"').length
+await tp.file.rename(`${title} (🎙️ ${num})`)
+
+tR += `created: ${tp.date.now("YYYY-MM-DD[T]HH:mm:ssZ")}\n`
+tR += `aliases:\n`
+tR += `  - "${title}"\n`
+tR += `ListenInSec: 0\n`
+-%>
+<% "---" %>
+
+# <% title %>
 
 ## Tracklist
 
-```base
-views:
-  - type: table
-    name: Table
-    filters:
-      and:
-        - file.path.contains("Tracks")
-        - file.properties.Creators.contains(this.file)
-
-```
+![[tracklist.base]]

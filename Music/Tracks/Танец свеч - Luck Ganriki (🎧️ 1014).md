@@ -1,11 +1,13 @@
 ---
 created: 2024-04-12T15:02:42+03:00
-aliases: [Танец свеч]
+aliases:
+  - "Танец свеч"
 Cover: ""
 Year: 2007
 Album: "[[Umineko no Naku Koro ni OST (📀 30)]]"
 CoverOf: ""
-Creators: ["[[Luck Ganriki (🎙️ 4)]]"]
+Creators:
+  - "[[Luck Ganriki (🎙️ 4)]]"
 ListenInSec: 851
 NumberInAlbum: 61
 related: []

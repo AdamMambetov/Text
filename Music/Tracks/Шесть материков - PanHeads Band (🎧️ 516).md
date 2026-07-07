@@ -1,11 +1,13 @@
 ---
 created: 2022-12-09T06:57:48+03:00
-aliases: [Шесть материков]
+aliases:
+  - "Шесть материков"
 Cover: ""
 Year: 2018
 Album: "[[Шесть материков]]"
 CoverOf: ""
-Creators: ["[[PanHeads Band (🎙️ 409)]]"]
+Creators:
+  - "[[PanHeads Band (🎙️ 409)]]"
 ListenInSec: 212
 NumberInAlbum: 1
 related: []

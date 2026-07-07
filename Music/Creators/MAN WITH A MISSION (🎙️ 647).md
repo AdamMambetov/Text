@@ -1,6 +1,7 @@
 ---
 created: 2026-03-09T01:40:25+03:00
-aliases: ["MAN WITH A MISSION"]
+aliases:
+  - "MAN WITH A MISSION"
 ListenInSec: 0
 ---
 

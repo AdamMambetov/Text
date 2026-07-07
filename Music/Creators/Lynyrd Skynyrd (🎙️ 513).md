@@ -1,6 +1,7 @@
 ---
 created: 2026-01-23T19:47:53+03:00
-aliases: ["Lynyrd Skynyrd"]
+aliases:
+  - "Lynyrd Skynyrd"
 ListenInSec: 0
 ---
 

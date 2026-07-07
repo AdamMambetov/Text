@@ -1,6 +1,7 @@
 ---
 created: 2026-03-25T19:40:11+03:00
-aliases: ["21st Century Orchestra Tokyo"]
+aliases:
+  - "21st Century Orchestra Tokyo"
 ListenInSec: 0
 ---
 

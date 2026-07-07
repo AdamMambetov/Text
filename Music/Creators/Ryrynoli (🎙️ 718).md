@@ -1,6 +1,7 @@
 ---
 created: 2026-03-25T17:48:48+03:00
-aliases: ["Ryrynoli"]
+aliases:
+  - "Ryrynoli"
 ListenInSec: 0
 ---
 

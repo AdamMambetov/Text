@@ -1,6 +1,7 @@
 ---
 created: 2024-07-18T15:34:45+03:00
-aliases: ["Moana OST"]
+aliases:
+  - "Moana OST"
 Year: 2016
 Creators: []
 tracklist: []

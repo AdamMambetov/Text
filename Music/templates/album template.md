@@ -1,13 +1,28 @@
----
-created: <% tp.date.now("YYYY-MM-DD[T]HH:mm:ssZ") %>
-aliases: ["{{value}}"]
-Year: 0
-tracklist: []
-Cover: "[[_No Album Art.jpg]]"
-Creators: []
----
+<% "---" %>
+<%*
+dv = app.plugins.plugins.dataview.api
 
-`$=dv.header(1, dv.current().aliases[0])`
+let title = tp.file.title
+let albumName = title
+	.replaceAll("?", "")
+	.replaceAll("#", "")
+	.replaceAll("/", "")
+	.replaceAll("\\", "")
+	.replaceAll("\"", "'")
+let num = dv.pages('"Albums"').length
+await tp.file.rename(`${albumName} (📀 ${num})`)
+
+tR += `created: ${tp.date.now("YYYY-MM-DD[T]HH:mm:ssZ")}\n`
+tR += `aliases:\n`
+tR += `  - "${title}"\n`
+tR += `Cover: "[[_No Album Art.jpg]]"\n`
+tR += `Year: 0\n`
+tR += `Creators: []\n`
+tR += `tracklist: []\n`
+-%>
+<% "---" %>
+
+# <% title %>
 
 ## Tracklist
 

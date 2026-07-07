@@ -1,11 +1,13 @@
 ---
 created: 2022-12-09T06:57:06+03:00
-aliases: [Кротовая нора]
+aliases:
+  - "Кротовая нора"
 Cover: ""
 Year: 2020
 Album: "[[Один во вселенной]]"
 CoverOf: ""
-Creators: ["[[Vere Dictum (🎙️ 477)]]"]
+Creators:
+  - "[[Vere Dictum (🎙️ 477)]]"
 ListenInSec: 225
 NumberInAlbum: 14
 related: []

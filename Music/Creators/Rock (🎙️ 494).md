@@ -1,6 +1,7 @@
 ---
 created: 2026-01-22T03:54:18+03:00
-aliases: ["Rock"]
+aliases:
+  - "Rock"
 ListenInSec: 5
 ---
 

@@ -1,11 +1,13 @@
 ---
 created: 2024-10-23T13:26:28+03:00
-aliases: [7th Trigger]
+aliases:
+  - "7th Trigger"
 Cover: "[[_No Album Art.jpg]]"
 Year: 2007
 Album: "[[All Time Best]]"
 CoverOf: ""
-Creators: ["[[UVERworld (🎙️ 475)]]"]
+Creators:
+  - "[[UVERworld (🎙️ 475)]]"
 ListenInSec: 518
 NumberInAlbum: 2
 related: []

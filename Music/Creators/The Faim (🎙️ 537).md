@@ -1,6 +1,7 @@
 ---
 created: 2026-01-24T13:33:54+03:00
-aliases: ["The Faim"]
+aliases:
+  - "The Faim"
 ListenInSec: 0
 ---
 

@@ -1,6 +1,7 @@
 ---
 created: 2026-03-06T01:13:53+03:00
-aliases: ["Kiro Akiyama"]
+aliases:
+  - "Kiro Akiyama"
 ListenInSec: 0
 ---
 
