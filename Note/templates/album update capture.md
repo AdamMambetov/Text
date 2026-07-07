@@ -1,7 +1,7 @@
 <%*
 dv = app.plugins.plugins.dataview.api
 
-let arr = dv.pages('"Text/Music/Albums"')
+let arr = dv.pages('"Music/Albums"')
 	.sort(p => p.created, "asc")
 let current = dv.page(tp.file.path(true))
 let albumName = current.aliases[0]
