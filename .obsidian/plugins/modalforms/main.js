@@ -5432,10 +5432,10 @@ ${body}`;
 var import_obsidian34 = require("obsidian");
 
 // src/API.ts
-var import_obsidian14 = require("obsidian");
+var import_obsidian15 = require("obsidian");
 
 // src/FormModal.ts
-var import_obsidian13 = require("obsidian");
+var import_obsidian14 = require("obsidian");
 
 // node_modules/svelte/src/runtime/internal/utils.js
 function noop() {
@@ -6805,6 +6805,22 @@ function get_tfiles_from_folder(folder_str, app) {
     })
   );
 }
+function get_tfiles_from_folders(folders, app) {
+  return pipe2(
+    folders,
+    Array_exports.map((f) => get_tfiles_from_folder(f, app)),
+    Array_exports.separate,
+    ({ left: errors, right: fileArrays }) => ({
+      left: errors,
+      right: pipe2(
+        fileArrays,
+        Array_exports.flatten,
+        Array_exports.uniq({ equals: (a, b) => a.path === b.path }),
+        (files) => files.sort((a, b) => a.basename.localeCompare(b.basename))
+      )
+    })
+  );
+}
 function isArrayOfStrings(value) {
   return Array.isArray(value) && value.every((v) => typeof v === "string");
 }
@@ -6952,31 +6968,46 @@ function create_if_block_6(ctx) {
     c() {
       input = element("input");
       attr(input, "type", "datetime-local");
+      attr(
+        input,
+        "name",
+        /*name*/
+        ctx[2]
+      );
     },
     m(target, anchor) {
       insert(target, input, anchor);
       set_input_value(
         input,
         /*$value*/
-        ctx[2]
+        ctx[3]
       );
       if (!mounted) {
         dispose = listen(
           input,
           "input",
           /*input_input_handler_6*/
-          ctx[9]
+          ctx[10]
         );
         mounted = true;
       }
     },
     p(ctx2, dirty) {
-      if (dirty & /*$value*/
+      if (dirty & /*name*/
       4) {
+        attr(
+          input,
+          "name",
+          /*name*/
+          ctx2[2]
+        );
+      }
+      if (dirty & /*$value*/
+      8) {
         set_input_value(
           input,
           /*$value*/
-          ctx2[2]
+          ctx2[3]
         );
       }
     },
@@ -6997,31 +7028,46 @@ function create_if_block_5(ctx) {
     c() {
       input = element("input");
       attr(input, "type", "time");
+      attr(
+        input,
+        "name",
+        /*name*/
+        ctx[2]
+      );
     },
     m(target, anchor) {
       insert(target, input, anchor);
       set_input_value(
         input,
         /*$value*/
-        ctx[2]
+        ctx[3]
       );
       if (!mounted) {
         dispose = listen(
           input,
           "input",
           /*input_input_handler_5*/
-          ctx[8]
+          ctx[9]
         );
         mounted = true;
       }
     },
     p(ctx2, dirty) {
-      if (dirty & /*$value*/
+      if (dirty & /*name*/
       4) {
+        attr(
+          input,
+          "name",
+          /*name*/
+          ctx2[2]
+        );
+      }
+      if (dirty & /*$value*/
+      8) {
         set_input_value(
           input,
           /*$value*/
-          ctx2[2]
+          ctx2[3]
         );
       }
     },
@@ -7042,31 +7088,46 @@ function create_if_block_4(ctx) {
     c() {
       input = element("input");
       attr(input, "type", "date");
+      attr(
+        input,
+        "name",
+        /*name*/
+        ctx[2]
+      );
     },
     m(target, anchor) {
       insert(target, input, anchor);
       set_input_value(
         input,
         /*$value*/
-        ctx[2]
+        ctx[3]
       );
       if (!mounted) {
         dispose = listen(
           input,
           "input",
           /*input_input_handler_4*/
-          ctx[7]
+          ctx[8]
         );
         mounted = true;
       }
     },
     p(ctx2, dirty) {
-      if (dirty & /*$value*/
+      if (dirty & /*name*/
       4) {
+        attr(
+          input,
+          "name",
+          /*name*/
+          ctx2[2]
+        );
+      }
+      if (dirty & /*$value*/
+      8) {
         set_input_value(
           input,
           /*$value*/
-          ctx2[2]
+          ctx2[3]
         );
       }
     },
@@ -7087,31 +7148,46 @@ function create_if_block_3(ctx) {
     c() {
       input = element("input");
       attr(input, "type", "tel");
+      attr(
+        input,
+        "name",
+        /*name*/
+        ctx[2]
+      );
     },
     m(target, anchor) {
       insert(target, input, anchor);
       set_input_value(
         input,
         /*$value*/
-        ctx[2]
+        ctx[3]
       );
       if (!mounted) {
         dispose = listen(
           input,
           "input",
           /*input_input_handler_3*/
-          ctx[6]
+          ctx[7]
         );
         mounted = true;
       }
     },
     p(ctx2, dirty) {
-      if (dirty & /*$value*/
+      if (dirty & /*name*/
       4) {
+        attr(
+          input,
+          "name",
+          /*name*/
+          ctx2[2]
+        );
+      }
+      if (dirty & /*$value*/
+      8) {
         set_input_value(
           input,
           /*$value*/
-          ctx2[2]
+          ctx2[3]
         );
       }
     },
@@ -7132,32 +7208,47 @@ function create_if_block_2(ctx) {
     c() {
       input = element("input");
       attr(input, "type", "email");
+      attr(
+        input,
+        "name",
+        /*name*/
+        ctx[2]
+      );
     },
     m(target, anchor) {
       insert(target, input, anchor);
       set_input_value(
         input,
         /*$value*/
-        ctx[2]
+        ctx[3]
       );
       if (!mounted) {
         dispose = listen(
           input,
           "input",
           /*input_input_handler_2*/
-          ctx[5]
+          ctx[6]
         );
         mounted = true;
       }
     },
     p(ctx2, dirty) {
+      if (dirty & /*name*/
+      4) {
+        attr(
+          input,
+          "name",
+          /*name*/
+          ctx2[2]
+        );
+      }
       if (dirty & /*$value*/
-      4 && input.value !== /*$value*/
-      ctx2[2]) {
+      8 && input.value !== /*$value*/
+      ctx2[3]) {
         set_input_value(
           input,
           /*$value*/
-          ctx2[2]
+          ctx2[3]
         );
       }
     },
@@ -7178,32 +7269,47 @@ function create_if_block_1(ctx) {
     c() {
       input = element("input");
       attr(input, "type", "text");
+      attr(
+        input,
+        "name",
+        /*name*/
+        ctx[2]
+      );
     },
     m(target, anchor) {
       insert(target, input, anchor);
       set_input_value(
         input,
         /*$value*/
-        ctx[2]
+        ctx[3]
       );
       if (!mounted) {
         dispose = listen(
           input,
           "input",
           /*input_input_handler_1*/
-          ctx[4]
+          ctx[5]
         );
         mounted = true;
       }
     },
     p(ctx2, dirty) {
+      if (dirty & /*name*/
+      4) {
+        attr(
+          input,
+          "name",
+          /*name*/
+          ctx2[2]
+        );
+      }
       if (dirty & /*$value*/
-      4 && input.value !== /*$value*/
-      ctx2[2]) {
+      8 && input.value !== /*$value*/
+      ctx2[3]) {
         set_input_value(
           input,
           /*$value*/
-          ctx2[2]
+          ctx2[3]
         );
       }
     },
@@ -7225,32 +7331,47 @@ function create_if_block(ctx) {
       input = element("input");
       attr(input, "type", "number");
       attr(input, "step", "any");
+      attr(
+        input,
+        "name",
+        /*name*/
+        ctx[2]
+      );
     },
     m(target, anchor) {
       insert(target, input, anchor);
       set_input_value(
         input,
         /*$value*/
-        ctx[2]
+        ctx[3]
       );
       if (!mounted) {
         dispose = listen(
           input,
           "input",
           /*input_input_handler*/
-          ctx[3]
+          ctx[4]
         );
         mounted = true;
       }
     },
     p(ctx2, dirty) {
+      if (dirty & /*name*/
+      4) {
+        attr(
+          input,
+          "name",
+          /*name*/
+          ctx2[2]
+        );
+      }
       if (dirty & /*$value*/
-      4 && to_number(input.value) !== /*$value*/
-      ctx2[2]) {
+      8 && to_number(input.value) !== /*$value*/
+      ctx2[3]) {
         set_input_value(
           input,
           /*$value*/
-          ctx2[2]
+          ctx2[3]
         );
       }
     },
@@ -7341,11 +7462,12 @@ function create_fragment(ctx) {
   };
 }
 function instance($$self, $$props, $$invalidate) {
-  let $value, $$unsubscribe_value = noop, $$subscribe_value = () => ($$unsubscribe_value(), $$unsubscribe_value = subscribe(value, ($$value) => $$invalidate(2, $value = $$value)), value);
+  let $value, $$unsubscribe_value = noop, $$subscribe_value = () => ($$unsubscribe_value(), $$unsubscribe_value = subscribe(value, ($$value) => $$invalidate(3, $value = $$value)), value);
   $$self.$$.on_destroy.push(() => $$unsubscribe_value());
   let { value } = $$props;
   $$subscribe_value();
   let { inputType: inputType2 } = $$props;
+  let { name = "" } = $$props;
   function input_input_handler() {
     $value = to_number(this.value);
     value.set($value);
@@ -7379,10 +7501,13 @@ function instance($$self, $$props, $$invalidate) {
       $$subscribe_value($$invalidate(0, value = $$props2.value));
     if ("inputType" in $$props2)
       $$invalidate(1, inputType2 = $$props2.inputType);
+    if ("name" in $$props2)
+      $$invalidate(2, name = $$props2.name);
   };
   return [
     value,
     inputType2,
+    name,
     $value,
     input_input_handler,
     input_input_handler_1,
@@ -7396,7 +7521,7 @@ function instance($$self, $$props, $$invalidate) {
 var InputField = class extends SvelteComponent {
   constructor(options) {
     super();
-    init4(this, options, instance, create_fragment, safe_not_equal, { value: 0, inputType: 1 });
+    init4(this, options, instance, create_fragment, safe_not_equal, { value: 0, inputType: 1, name: 2 });
   }
 };
 var InputField_default = InputField;
@@ -7506,7 +7631,7 @@ var get_info_slot_changes = (dirty) => ({});
 var get_info_slot_context = (ctx) => ({});
 function get_each_context(ctx, list, i) {
   const child_ctx = ctx.slice();
-  child_ctx[8] = list[i];
+  child_ctx[9] = list[i];
   return child_ctx;
 }
 function create_if_block2(ctx) {
@@ -7531,7 +7656,7 @@ function create_each_block(ctx) {
   let div;
   let t_value = (
     /*error*/
-    ctx[8] + ""
+    ctx[9] + ""
   );
   let t;
   return {
@@ -7546,8 +7671,8 @@ function create_each_block(ctx) {
     },
     p(ctx2, dirty) {
       if (dirty & /*$errors*/
-      32 && t_value !== (t_value = /*error*/
-      ctx2[8] + ""))
+      64 && t_value !== (t_value = /*error*/
+      ctx2[9] + ""))
         set_data(t, t_value);
     },
     d(detaching) {
@@ -7571,6 +7696,7 @@ function create_fragment2(ctx) {
   let t6;
   let div3;
   let div4_class_value;
+  let div4_data_field_name_value;
   let current;
   let if_block = (
     /*required*/
@@ -7578,7 +7704,7 @@ function create_fragment2(ctx) {
   );
   let each_value = ensure_array_like(
     /*$errors*/
-    ctx[5]
+    ctx[6]
   );
   let each_blocks = [];
   for (let i = 0; i < each_value.length; i += 1) {
@@ -7586,24 +7712,24 @@ function create_fragment2(ctx) {
   }
   const info_slot_template = (
     /*#slots*/
-    ctx[7].info
+    ctx[8].info
   );
   const info_slot = create_slot(
     info_slot_template,
     ctx,
     /*$$scope*/
-    ctx[6],
+    ctx[7],
     get_info_slot_context
   );
   const default_slot_template = (
     /*#slots*/
-    ctx[7].default
+    ctx[8].default
   );
   const default_slot = create_slot(
     default_slot_template,
     ctx,
     /*$$scope*/
-    ctx[6],
+    ctx[7],
     null
   );
   return {
@@ -7643,10 +7769,12 @@ function create_fragment2(ctx) {
         div3,
         "error",
         /*$errors*/
-        ctx[5].length > 0
+        ctx[6].length > 0
       );
       attr(div4, "class", div4_class_value = "setting-item " + /*className*/
       ctx[4] + " svelte-1v9nyvr");
+      attr(div4, "data-field-name", div4_data_field_name_value = /*name*/
+      ctx[5] || void 0);
     },
     m(target, anchor) {
       insert(target, div4, anchor);
@@ -7706,10 +7834,10 @@ function create_fragment2(ctx) {
           ctx2[2]
         );
       if (dirty & /*$errors*/
-      32) {
+      64) {
         each_value = ensure_array_like(
           /*$errors*/
-          ctx2[5]
+          ctx2[6]
         );
         let i;
         for (i = 0; i < each_value.length; i += 1) {
@@ -7729,20 +7857,20 @@ function create_fragment2(ctx) {
       }
       if (info_slot) {
         if (info_slot.p && (!current || dirty & /*$$scope*/
-        64)) {
+        128)) {
           update_slot_base(
             info_slot,
             info_slot_template,
             ctx2,
             /*$$scope*/
-            ctx2[6],
+            ctx2[7],
             !current ? get_all_dirty_from_scope(
               /*$$scope*/
-              ctx2[6]
+              ctx2[7]
             ) : get_slot_changes(
               info_slot_template,
               /*$$scope*/
-              ctx2[6],
+              ctx2[7],
               dirty,
               get_info_slot_changes
             ),
@@ -7752,20 +7880,20 @@ function create_fragment2(ctx) {
       }
       if (default_slot) {
         if (default_slot.p && (!current || dirty & /*$$scope*/
-        64)) {
+        128)) {
           update_slot_base(
             default_slot,
             default_slot_template,
             ctx2,
             /*$$scope*/
-            ctx2[6],
+            ctx2[7],
             !current ? get_all_dirty_from_scope(
               /*$$scope*/
-              ctx2[6]
+              ctx2[7]
             ) : get_slot_changes(
               default_slot_template,
               /*$$scope*/
-              ctx2[6],
+              ctx2[7],
               dirty,
               null
             ),
@@ -7774,18 +7902,23 @@ function create_fragment2(ctx) {
         }
       }
       if (!current || dirty & /*$errors*/
-      32) {
+      64) {
         toggle_class(
           div3,
           "error",
           /*$errors*/
-          ctx2[5].length > 0
+          ctx2[6].length > 0
         );
       }
       if (!current || dirty & /*className*/
       16 && div4_class_value !== (div4_class_value = "setting-item " + /*className*/
       ctx2[4] + " svelte-1v9nyvr")) {
         attr(div4, "class", div4_class_value);
+      }
+      if (!current || dirty & /*name*/
+      32 && div4_data_field_name_value !== (div4_data_field_name_value = /*name*/
+      ctx2[5] || void 0)) {
+        attr(div4, "data-field-name", div4_data_field_name_value);
       }
     },
     i(local) {
@@ -7815,7 +7948,7 @@ function create_fragment2(ctx) {
   };
 }
 function instance2($$self, $$props, $$invalidate) {
-  let $errors, $$unsubscribe_errors = noop, $$subscribe_errors = () => ($$unsubscribe_errors(), $$unsubscribe_errors = subscribe(errors, ($$value) => $$invalidate(5, $errors = $$value)), errors);
+  let $errors, $$unsubscribe_errors = noop, $$subscribe_errors = () => ($$unsubscribe_errors(), $$unsubscribe_errors = subscribe(errors, ($$value) => $$invalidate(6, $errors = $$value)), errors);
   $$self.$$.on_destroy.push(() => $$unsubscribe_errors());
   let { $$slots: slots = {}, $$scope } = $$props;
   let { errors = readable([]) } = $$props;
@@ -7824,6 +7957,7 @@ function instance2($$self, $$props, $$invalidate) {
   let { description = "" } = $$props;
   let { required = false } = $$props;
   let { className = "" } = $$props;
+  let { name = "" } = $$props;
   $$self.$$set = ($$props2) => {
     if ("errors" in $$props2)
       $$subscribe_errors($$invalidate(0, errors = $$props2.errors));
@@ -7835,10 +7969,12 @@ function instance2($$self, $$props, $$invalidate) {
       $$invalidate(3, required = $$props2.required);
     if ("className" in $$props2)
       $$invalidate(4, className = $$props2.className);
+    if ("name" in $$props2)
+      $$invalidate(5, name = $$props2.name);
     if ("$$scope" in $$props2)
-      $$invalidate(6, $$scope = $$props2.$$scope);
+      $$invalidate(7, $$scope = $$props2.$$scope);
   };
-  return [errors, label, description, required, className, $errors, $$scope, slots];
+  return [errors, label, description, required, className, name, $errors, $$scope, slots];
 }
 var ObsidianInputWrapper = class extends SvelteComponent {
   constructor(options) {
@@ -7854,7 +7990,8 @@ var ObsidianInputWrapper = class extends SvelteComponent {
         label: 1,
         description: 2,
         required: 3,
-        className: 4
+        className: 4,
+        name: 5
       },
       add_css
     );
@@ -8755,7 +8892,7 @@ function makeImageInputModel({
       TaskEither_exports2.chainW(({ extension, bytes }) => {
         const filename = createFilename(input.filenameTemplate);
         return pipe2(
-          fileService.saveFile(`${filename}.${extension}`, input.saveLocation, bytes),
+          fileService.saveFile(`${filename}.${extension}`, input.saveLocation, bytes.buffer),
           TaskEither_exports2.map((file) => new FileProxy(file))
         );
       })
@@ -8900,6 +9037,7 @@ var DataviewSuggest = class extends import_obsidian5.AbstractInputSuggest {
 // src/views/components/Form/InputDataview.svelte
 function create_default_slot(ctx) {
   let input_1;
+  let input_1_name_value;
   let dataviewSuggest_action;
   let mounted;
   let dispose;
@@ -8907,6 +9045,8 @@ function create_default_slot(ctx) {
     c() {
       input_1 = element("input");
       attr(input_1, "type", "text");
+      attr(input_1, "name", input_1_name_value = /*field*/
+      ctx[0].name);
     },
     m(target, anchor) {
       insert(target, input_1, anchor);
@@ -8930,6 +9070,11 @@ function create_default_slot(ctx) {
       }
     },
     p(ctx2, dirty) {
+      if (dirty & /*field*/
+      1 && input_1_name_value !== (input_1_name_value = /*field*/
+      ctx2[0].name)) {
+        attr(input_1, "name", input_1_name_value);
+      }
       if (dirty & /*$value*/
       8 && input_1.value !== /*$value*/
       ctx2[3]) {
@@ -8957,6 +9102,10 @@ function create_fragment6(ctx) {
       errors: (
         /*errors*/
         ctx[2]
+      ),
+      name: (
+        /*field*/
+        ctx[0].name
       ),
       label: (
         /*field*/
@@ -8987,6 +9136,10 @@ function create_fragment6(ctx) {
         ctx2[2];
       if (dirty & /*field*/
       1)
+        obsidianinputwrapper_changes.name = /*field*/
+        ctx2[0].name;
+      if (dirty & /*field*/
+      1)
         obsidianinputwrapper_changes.label = /*field*/
         ctx2[0].label || /*field*/
         ctx2[0].name;
@@ -8994,8 +9147,8 @@ function create_fragment6(ctx) {
       1)
         obsidianinputwrapper_changes.description = /*field*/
         ctx2[0].description;
-      if (dirty & /*$$scope, $value*/
-      1032) {
+      if (dirty & /*$$scope, field, $value*/
+      1033) {
         obsidianinputwrapper_changes.$$scope = { dirty, ctx: ctx2 };
       }
       obsidianinputwrapper.$set(obsidianinputwrapper_changes);
@@ -9120,8 +9273,11 @@ var FolderSuggest = class extends import_obsidian6.AbstractInputSuggest {
 // src/views/components/Form/useObsidianSetting.ts
 var import_obsidian7 = require("obsidian");
 function useSetting(element2, field) {
-  new import_obsidian7.Setting(element2).setName(field.name).setDesc(field.description).then(field.customizer || (() => {
+  const setting = new import_obsidian7.Setting(element2).setName(field.name).setDesc(field.description).then(field.customizer || (() => {
   }));
+  if (field.fieldName) {
+    setting.settingEl.setAttribute("data-field-name", field.fieldName);
+  }
 }
 
 // src/views/components/Form/InputFolder.svelte
@@ -9148,6 +9304,10 @@ function create_fragment7(ctx) {
             /*field*/
             ctx[0].description || ""
           ),
+          fieldName: (
+            /*field*/
+            ctx[0].name
+          ),
           customizer: (
             /*customizer*/
             ctx[2]
@@ -9168,6 +9328,10 @@ function create_fragment7(ctx) {
           description: (
             /*field*/
             ctx2[0].description || ""
+          ),
+          fieldName: (
+            /*field*/
+            ctx2[0].name
           ),
           customizer: (
             /*customizer*/
@@ -10557,25 +10721,32 @@ Fuse.config = Config;
 
 // src/suggesters/suggestFile.ts
 var FileSuggest = class extends import_obsidian8.AbstractInputSuggest {
-  constructor(app, inputEl, strategy, folder) {
+  constructor(app, inputEl, strategy, folder, getExcludedBasenames = () => []) {
     super(app, inputEl);
     this.app = app;
     this.inputEl = inputEl;
     this.strategy = strategy;
-    this.folder = folder;
+    this.getExcludedBasenames = getExcludedBasenames;
+    this.reportedErrors = /* @__PURE__ */ new Set();
+    this.folders = Array.isArray(folder) ? folder : [folder];
   }
   getSuggestions(input_str) {
-    const all_files = pipe2(
-      get_tfiles_from_folder(this.folder, this.app),
-      Either_exports.map(Array_exports.map((file) => enrich_tfile(file, this.app)))
+    const { left: errors, right: files } = get_tfiles_from_folders(this.folders, this.app);
+    errors.forEach((err) => {
+      if (!this.reportedErrors.has(err.message)) {
+        this.reportedErrors.add(err.message);
+        log_error(err);
+      }
+    });
+    const excluded = new Set(this.getExcludedBasenames());
+    const enriched = pipe2(
+      files,
+      Array_exports.filter((file) => !excluded.has(file.basename)),
+      Array_exports.map((file) => enrich_tfile(file, this.app))
     );
-    if (Either_exports.isLeft(all_files)) {
-      return [];
-    }
-    const lower_input_str = input_str.toLowerCase();
     if (input_str === "")
-      return all_files.right;
-    const fuse = new Fuse(all_files.right, {
+      return enriched;
+    const fuse = new Fuse(enriched, {
       includeMatches: false,
       includeScore: true,
       shouldSort: true,
@@ -10586,7 +10757,7 @@ var FileSuggest = class extends import_obsidian8.AbstractInputSuggest {
         { name: "tags", weight: 1 }
       ]
     });
-    return fuse.search(lower_input_str).map((result2) => {
+    return fuse.search(input_str.toLowerCase()).map((result2) => {
       return result2.item;
     });
   }
@@ -10638,6 +10809,7 @@ var FileSuggest = class extends import_obsidian8.AbstractInputSuggest {
 // src/views/components/Form/InputNote.svelte
 function create_default_slot2(ctx) {
   let input_1;
+  let input_1_name_value;
   let noteSuggest_action;
   let mounted;
   let dispose;
@@ -10645,6 +10817,8 @@ function create_default_slot2(ctx) {
     c() {
       input_1 = element("input");
       attr(input_1, "type", "text");
+      attr(input_1, "name", input_1_name_value = /*field*/
+      ctx[0].name);
     },
     m(target, anchor) {
       insert(target, input_1, anchor);
@@ -10668,6 +10842,11 @@ function create_default_slot2(ctx) {
       }
     },
     p(ctx2, dirty) {
+      if (dirty & /*field*/
+      1 && input_1_name_value !== (input_1_name_value = /*field*/
+      ctx2[0].name)) {
+        attr(input_1, "name", input_1_name_value);
+      }
       if (dirty & /*$value*/
       8 && input_1.value !== /*$value*/
       ctx2[3]) {
@@ -10695,6 +10874,10 @@ function create_fragment8(ctx) {
       errors: (
         /*errors*/
         ctx[2]
+      ),
+      name: (
+        /*field*/
+        ctx[0].name
       ),
       label: (
         /*field*/
@@ -10725,6 +10908,10 @@ function create_fragment8(ctx) {
         ctx2[2];
       if (dirty & /*field*/
       1)
+        obsidianinputwrapper_changes.name = /*field*/
+        ctx2[0].name;
+      if (dirty & /*field*/
+      1)
         obsidianinputwrapper_changes.label = /*field*/
         ctx2[0].label || /*field*/
         ctx2[0].name;
@@ -10732,8 +10919,8 @@ function create_fragment8(ctx) {
       1)
         obsidianinputwrapper_changes.description = /*field*/
         ctx2[0].description;
-      if (dirty & /*$$scope, $value*/
-      264) {
+      if (dirty & /*$$scope, field, $value*/
+      265) {
         obsidianinputwrapper_changes.$$scope = { dirty, ctx: ctx2 };
       }
       obsidianinputwrapper.$set(obsidianinputwrapper_changes);
@@ -11416,6 +11603,188 @@ var MultiSelect = class extends SvelteComponent {
 };
 var MultiSelect_default = MultiSelect;
 
+// src/core/input/InputDefinitionSchema.ts
+function nonEmptyString(name) {
+  return string(`${name} should be a string`, [
+    toTrimmed(),
+    minLength(1, `${name} should not be empty`)
+  ]);
+}
+var InputBasicTypeSchema = enumType([
+  "text",
+  "number",
+  "date",
+  "time",
+  "datetime",
+  "textarea",
+  "toggle",
+  "email",
+  "tel"
+]);
+var isBasicInputType = (input) => is(InputBasicSchema, input);
+var SelectFromNotesSchema = object({
+  type: literal("select"),
+  source: literal("notes"),
+  folder: nonEmptyString("folder name")
+});
+var InputTagSchema = object({
+  type: literal("tag"),
+  exclude: optional(string()),
+  // This should be a regex string
+  hidden: optional(boolean(), false)
+});
+var InputSliderSchema = object({
+  type: literal("slider"),
+  min: number(),
+  max: number()
+});
+var InputNoteFromFolderSchema = object({
+  type: literal("note"),
+  folder: nonEmptyString("folder name")
+});
+var InputFolderSchema = object({
+  type: literal("folder"),
+  parentFolder: optional(string([toTrimmed()]))
+  // TODO: allow exclude option
+});
+var InputDataviewSourceSchema = object({
+  type: literal("dataview"),
+  query: nonEmptyString("dataview query")
+});
+var InputBasicSchema = object({
+  type: InputBasicTypeSchema,
+  hidden: optional(boolean(), false)
+});
+var InputSelectFixedSchema = object({
+  type: literal("select"),
+  source: literal("fixed"),
+  options: array2(
+    object({
+      value: string([toTrimmed()]),
+      label: string()
+    })
+  )
+});
+var MultiSelectNotesSchema = object({
+  type: literal("multiselect"),
+  source: literal("notes"),
+  folder: nonEmptyString("multi select source folder"),
+  folders: optional(array2(nonEmptyString("multi select additional source folder")))
+});
+function getMultiselectNoteFolders(input) {
+  var _a;
+  return [input.folder, ...(_a = input.folders) != null ? _a : []];
+}
+var MultiSelectFixedSchema = object({
+  type: literal("multiselect"),
+  source: literal("fixed"),
+  multi_select_options: array2(string()),
+  allowUnknownValues: optional(boolean(), false)
+});
+var MultiSelectQuerySchema = object({
+  type: literal("multiselect"),
+  source: literal("dataview"),
+  query: nonEmptyString("dataview query"),
+  allowUnknownValues: optional(boolean(), false)
+});
+function canAllowUnknownValues(type, source) {
+  return type === "multiselect" && (source === "dataview" || source === "fixed");
+}
+function allowsUnknownValues(input) {
+  if (input.source === "notes")
+    return false;
+  return input.allowUnknownValues;
+}
+var MultiselectSchema = union4([
+  MultiSelectNotesSchema,
+  MultiSelectFixedSchema,
+  MultiSelectQuerySchema
+]);
+var DocumentBlock2 = object({
+  type: literal("document_block"),
+  body: string()
+});
+var MarkdownBlock = object({
+  type: literal("markdown_block"),
+  body: string()
+});
+var ImageInputSchema = object({
+  type: literal("image"),
+  filenameTemplate: nonEmptyString("filename template"),
+  saveLocation: nonEmptyString("save location")
+});
+var FileInputSchema = object({
+  type: literal("file"),
+  folder: nonEmptyString("folder"),
+  allowedExtensions: optional(array2(string()))
+});
+var InputTypeSchema = union4([
+  InputBasicSchema,
+  InputNoteFromFolderSchema,
+  InputFolderSchema,
+  InputSliderSchema,
+  InputTagSchema,
+  SelectFromNotesSchema,
+  InputDataviewSourceSchema,
+  InputSelectFixedSchema,
+  MultiselectSchema,
+  DocumentBlock2,
+  MarkdownBlock,
+  ImageInputSchema,
+  FileInputSchema
+]);
+var InputTypeToParserMap = {
+  number: parseC(InputBasicSchema),
+  text: parseC(InputBasicSchema),
+  email: parseC(InputBasicSchema),
+  tel: parseC(InputBasicSchema),
+  date: parseC(InputBasicSchema),
+  time: parseC(InputBasicSchema),
+  datetime: parseC(InputBasicSchema),
+  textarea: parseC(InputBasicSchema),
+  toggle: parseC(InputBasicSchema),
+  note: parseC(InputNoteFromFolderSchema),
+  folder: parseC(InputFolderSchema),
+  slider: parseC(InputSliderSchema),
+  tag: parseC(InputTagSchema),
+  select: trySchemas([SelectFromNotesSchema, InputSelectFixedSchema]),
+  dataview: parseC(InputDataviewSourceSchema),
+  multiselect: parseC(MultiselectSchema),
+  document_block: parseC(DocumentBlock2),
+  markdown_block: parseC(MarkdownBlock),
+  image: parseC(ImageInputSchema),
+  file: parseC(FileInputSchema)
+};
+function requiresListOfStrings(input) {
+  const type = input.type;
+  switch (type) {
+    case "multiselect":
+    case "tag":
+      return true;
+    case "select":
+    case "dataview":
+    case "note":
+    case "folder":
+    case "slider":
+    case "document_block":
+    case "markdown_block":
+    case "number":
+    case "text":
+    case "date":
+    case "time":
+    case "datetime":
+    case "textarea":
+    case "toggle":
+    case "email":
+    case "tel":
+    case "image":
+    case "file":
+      return false;
+    default:
+      return absurd(type);
+  }
+}
+
 // src/suggesters/StringSuggest.ts
 var import_obsidian9 = require("obsidian");
 var StringSuggest = class extends import_obsidian9.AbstractInputSuggest {
@@ -11479,6 +11848,7 @@ async function MultiSelectModel(fieldInput, app, values) {
       };
     }
     case "notes": {
+      const folders = getMultiselectNoteFolders(fieldInput);
       return {
         createInput(element2) {
           new FileSuggest(
@@ -11489,11 +11859,17 @@ async function MultiSelectModel(fieldInput, app, values) {
                 return file.basename;
               },
               selectSuggestion(file) {
-                values.update((x) => [...x, file.basename]);
+                values.update(
+                  (x) => x.includes(file.basename) ? x : [...x, file.basename]
+                );
                 return "";
               }
             },
-            fieldInput.folder
+            folders,
+            () => {
+              var _a;
+              return (_a = get_store_value(values)) != null ? _a : [];
+            }
           );
         },
         removeValue
@@ -11539,9 +11915,9 @@ function MultiSelectTags(fieldInput, app, values) {
 
 // src/views/components/Form/InputTag.svelte
 function create_fragment11(ctx) {
-  let multiselect2;
+  let multiselect3;
   let current;
-  multiselect2 = new MultiSelect_default({
+  multiselect3 = new MultiSelect_default({
     props: {
       values: (
         /*values*/
@@ -11559,10 +11935,10 @@ function create_fragment11(ctx) {
   });
   return {
     c() {
-      create_component(multiselect2.$$.fragment);
+      create_component(multiselect3.$$.fragment);
     },
     m(target, anchor) {
-      mount_component(multiselect2, target, anchor);
+      mount_component(multiselect3, target, anchor);
       current = true;
     },
     p(ctx2, [dirty]) {
@@ -11581,20 +11957,20 @@ function create_fragment11(ctx) {
           /*model*/
           ctx2[2]
         );
-      multiselect2.$set(multiselect_changes);
+      multiselect3.$set(multiselect_changes);
     },
     i(local) {
       if (current)
         return;
-      transition_in(multiselect2.$$.fragment, local);
+      transition_in(multiselect3.$$.fragment, local);
       current = true;
     },
     o(local) {
-      transition_out(multiselect2.$$.fragment, local);
+      transition_out(multiselect3.$$.fragment, local);
       current = false;
     },
     d(detaching) {
-      destroy_component(multiselect2, detaching);
+      destroy_component(multiselect3, detaching);
     }
   };
 }
@@ -11641,12 +12017,15 @@ var InputTag_default = InputTag;
 var import_obsidian10 = require("obsidian");
 function create_default_slot3(ctx) {
   let textarea;
+  let textarea_name_value;
   let customizeTextArea_action;
   let mounted;
   let dispose;
   return {
     c() {
       textarea = element("textarea");
+      attr(textarea, "name", textarea_name_value = /*field*/
+      ctx[0].name);
     },
     m(target, anchor) {
       insert(target, textarea, anchor);
@@ -11670,6 +12049,11 @@ function create_default_slot3(ctx) {
       }
     },
     p(ctx2, dirty) {
+      if (dirty & /*field*/
+      1 && textarea_name_value !== (textarea_name_value = /*field*/
+      ctx2[0].name)) {
+        attr(textarea, "name", textarea_name_value);
+      }
       if (dirty & /*$value*/
       8) {
         set_input_value(
@@ -11696,6 +12080,10 @@ function create_fragment12(ctx) {
       errors: (
         /*errors*/
         ctx[2]
+      ),
+      name: (
+        /*field*/
+        ctx[0].name
       ),
       label: (
         /*field*/
@@ -11727,6 +12115,10 @@ function create_fragment12(ctx) {
         ctx2[2];
       if (dirty & /*field*/
       1)
+        obsidianinputwrapper_changes.name = /*field*/
+        ctx2[0].name;
+      if (dirty & /*field*/
+      1)
         obsidianinputwrapper_changes.label = /*field*/
         ctx2[0].label || /*field*/
         ctx2[0].name;
@@ -11734,8 +12126,8 @@ function create_fragment12(ctx) {
       1)
         obsidianinputwrapper_changes.description = /*field*/
         ctx2[0].description;
-      if (dirty & /*$$scope, $value*/
-      72) {
+      if (dirty & /*$$scope, field, $value*/
+      73) {
         obsidianinputwrapper_changes.$$scope = { dirty, ctx: ctx2 };
       }
       obsidianinputwrapper.$set(obsidianinputwrapper_changes);
@@ -11887,19 +12279,19 @@ function instance13($$self, $$props, $$invalidate) {
   };
   return [form, $form, generateContent, field, app, _a];
 }
-var MarkdownBlock = class extends SvelteComponent {
+var MarkdownBlock2 = class extends SvelteComponent {
   constructor(options) {
     super();
     init4(this, options, instance13, create_fragment13, safe_not_equal, { form: 0, field: 3, app: 4 });
   }
 };
-var MarkdownBlock_default = MarkdownBlock;
+var MarkdownBlock_default = MarkdownBlock2;
 
 // src/views/components/Form/MultiSelectField.svelte
 function create_fragment14(ctx) {
-  let multiselect2;
+  let multiselect3;
   let current;
-  multiselect2 = new MultiSelect_default({
+  multiselect3 = new MultiSelect_default({
     props: {
       values: (
         /*values*/
@@ -11917,10 +12309,10 @@ function create_fragment14(ctx) {
   });
   return {
     c() {
-      create_component(multiselect2.$$.fragment);
+      create_component(multiselect3.$$.fragment);
     },
     m(target, anchor) {
-      mount_component(multiselect2, target, anchor);
+      mount_component(multiselect3, target, anchor);
       current = true;
     },
     p(ctx2, [dirty]) {
@@ -11937,20 +12329,20 @@ function create_fragment14(ctx) {
       4)
         multiselect_changes.model = /*model*/
         ctx2[2];
-      multiselect2.$set(multiselect_changes);
+      multiselect3.$set(multiselect_changes);
     },
     i(local) {
       if (current)
         return;
-      transition_in(multiselect2.$$.fragment, local);
+      transition_in(multiselect3.$$.fragment, local);
       current = true;
     },
     o(local) {
-      transition_out(multiselect2.$$.fragment, local);
+      transition_out(multiselect3.$$.fragment, local);
       current = false;
     },
     d(detaching) {
-      destroy_component(multiselect2, detaching);
+      destroy_component(multiselect3, detaching);
     }
   };
 }
@@ -12019,6 +12411,7 @@ function get_else_ctx(ctx) {
 }
 function create_else_block3(ctx) {
   let select;
+  let select_name_value;
   let mounted;
   let dispose;
   let each_value_1 = ensure_array_like(Object.entries(
@@ -12035,6 +12428,8 @@ function create_else_block3(ctx) {
       for (let i = 0; i < each_blocks.length; i += 1) {
         each_blocks[i].c();
       }
+      attr(select, "name", select_name_value = /*field*/
+      ctx[0].name);
       attr(select, "class", "dropdown");
       if (
         /*$value*/
@@ -12091,6 +12486,11 @@ function create_else_block3(ctx) {
         }
         each_blocks.length = each_value_1.length;
       }
+      if (dirty & /*field*/
+      1 && select_name_value !== (select_name_value = /*field*/
+      ctx2[0].name)) {
+        attr(select, "name", select_name_value);
+      }
       if (dirty & /*$value, Object, getNoteOptions, input*/
       50) {
         select_option(
@@ -12112,6 +12512,7 @@ function create_else_block3(ctx) {
 }
 function create_if_block6(ctx) {
   let select;
+  let select_name_value;
   let mounted;
   let dispose;
   let each_value = ensure_array_like(
@@ -12128,6 +12529,8 @@ function create_if_block6(ctx) {
       for (let i = 0; i < each_blocks.length; i += 1) {
         each_blocks[i].c();
       }
+      attr(select, "name", select_name_value = /*field*/
+      ctx[0].name);
       attr(select, "class", "dropdown");
       if (
         /*$value*/
@@ -12183,6 +12586,11 @@ function create_if_block6(ctx) {
           each_blocks[i].d(1);
         }
         each_blocks.length = each_value.length;
+      }
+      if (dirty & /*field*/
+      1 && select_name_value !== (select_name_value = /*field*/
+      ctx2[0].name)) {
+        attr(select, "name", select_name_value);
       }
       if (dirty & /*$value, Object, getNoteOptions, input*/
       50) {
@@ -12336,6 +12744,10 @@ function create_fragment15(ctx) {
         /*errors*/
         ctx[2]
       ),
+      name: (
+        /*field*/
+        ctx[0].name
+      ),
       label: (
         /*field*/
         ctx[0].label || /*field*/
@@ -12365,6 +12777,10 @@ function create_fragment15(ctx) {
         ctx2[2];
       if (dirty & /*field*/
       1)
+        obsidianinput_changes.name = /*field*/
+        ctx2[0].name;
+      if (dirty & /*field*/
+      1)
         obsidianinput_changes.label = /*field*/
         ctx2[0].label || /*field*/
         ctx2[0].name;
@@ -12372,8 +12788,8 @@ function create_fragment15(ctx) {
       1)
         obsidianinput_changes.description = /*field*/
         ctx2[0].description;
-      if (dirty & /*$$scope, $value, input*/
-      65554) {
+      if (dirty & /*$$scope, field, $value, input*/
+      65555) {
         obsidianinput_changes.$$scope = { dirty, ctx: ctx2 };
       }
       obsidianinput.$set(obsidianinput_changes);
@@ -12494,6 +12910,10 @@ function create_fragment16(ctx) {
             /*field*/
             ctx[0].description || ""
           ),
+          fieldName: (
+            /*field*/
+            ctx[0].name
+          ),
           customizer: (
             /*customizer*/
             ctx[2]
@@ -12514,6 +12934,10 @@ function create_fragment16(ctx) {
           description: (
             /*field*/
             ctx2[0].description || ""
+          ),
+          fieldName: (
+            /*field*/
+            ctx2[0].name
           ),
           customizer: (
             /*customizer*/
@@ -12732,6 +13156,10 @@ function create_if_block7(ctx) {
   let current;
   obsidianinputwrapper = new ObsidianInputWrapper_default({
     props: {
+      name: (
+        /*definition*/
+        ctx[0].name
+      ),
       label: (
         /*definition*/
         ctx[0].label || /*definition*/
@@ -12759,6 +13187,10 @@ function create_if_block7(ctx) {
     },
     p(ctx2, dirty) {
       const obsidianinputwrapper_changes = {};
+      if (dirty & /*definition*/
+      1)
+        obsidianinputwrapper_changes.name = /*definition*/
+        ctx2[0].name;
       if (dirty & /*definition*/
       1)
         obsidianinputwrapper_changes.label = /*definition*/
@@ -12802,6 +13234,10 @@ function create_else_block4(ctx) {
         /*errors*/
         ctx[6]
       ),
+      name: (
+        /*definition*/
+        ctx[0].name
+      ),
       label: (
         /*definition*/
         ctx[0].label || /*definition*/
@@ -12833,6 +13269,10 @@ function create_else_block4(ctx) {
       64)
         obsidianinputwrapper_changes.errors = /*errors*/
         ctx2[6];
+      if (dirty & /*definition*/
+      1)
+        obsidianinputwrapper_changes.name = /*definition*/
+        ctx2[0].name;
       if (dirty & /*definition*/
       1)
         obsidianinputwrapper_changes.label = /*definition*/
@@ -12876,6 +13316,10 @@ function create_if_block_122(ctx) {
         /*errors*/
         ctx[6]
       ),
+      name: (
+        /*definition*/
+        ctx[0].name
+      ),
       label: (
         /*definition*/
         ctx[0].label || /*definition*/
@@ -12907,6 +13351,10 @@ function create_if_block_122(ctx) {
       64)
         obsidianinputwrapper_changes.errors = /*errors*/
         ctx2[6];
+      if (dirty & /*definition*/
+      1)
+        obsidianinputwrapper_changes.name = /*definition*/
+        ctx2[0].name;
       if (dirty & /*definition*/
       1)
         obsidianinputwrapper_changes.label = /*definition*/
@@ -12950,6 +13398,10 @@ function create_if_block_10(ctx) {
         /*errors*/
         ctx[6]
       ),
+      name: (
+        /*definition*/
+        ctx[0].name
+      ),
       label: (
         /*definition*/
         ctx[0].label || /*definition*/
@@ -12981,6 +13433,10 @@ function create_if_block_10(ctx) {
       64)
         obsidianinputwrapper_changes.errors = /*errors*/
         ctx2[6];
+      if (dirty & /*definition*/
+      1)
+        obsidianinputwrapper_changes.name = /*definition*/
+        ctx2[0].name;
       if (dirty & /*definition*/
       1)
         obsidianinputwrapper_changes.label = /*definition*/
@@ -13020,6 +13476,10 @@ function create_if_block_9(ctx) {
   let current;
   obsidianinputwrapper = new ObsidianInputWrapper_default({
     props: {
+      name: (
+        /*definition*/
+        ctx[0].name
+      ),
       label: (
         /*definition*/
         ctx[0].label || /*definition*/
@@ -13043,6 +13503,10 @@ function create_if_block_9(ctx) {
     },
     p(ctx2, dirty) {
       const obsidianinputwrapper_changes = {};
+      if (dirty & /*definition*/
+      1)
+        obsidianinputwrapper_changes.name = /*definition*/
+        ctx2[0].name;
       if (dirty & /*definition*/
       1)
         obsidianinputwrapper_changes.label = /*definition*/
@@ -13540,6 +14004,10 @@ function create_else_block_1(ctx) {
   let current;
   inputfield = new InputField_default({
     props: {
+      name: (
+        /*definition*/
+        ctx[0].name
+      ),
       value: (
         /*value*/
         ctx[7]
@@ -13560,6 +14028,10 @@ function create_else_block_1(ctx) {
     },
     p(ctx2, dirty) {
       const inputfield_changes = {};
+      if (dirty & /*definition*/
+      1)
+        inputfield_changes.name = /*definition*/
+        ctx2[0].name;
       if (dirty & /*value*/
       128)
         inputfield_changes.value = /*value*/
@@ -14589,1906 +15061,10 @@ var FormModal = class extends SvelteComponent {
 var FormModal_default = FormModal;
 
 // src/core/FormResult.ts
-var import_obsidian12 = require("obsidian");
-
-// src/core/ResultValue.ts
-function _toBulletList(value) {
-  if (Array.isArray(value)) {
-    return value.map((v) => `- ${v}`).join("\n");
-  }
-  return Object.entries(value).map(([key, value2]) => `- ${key}: ${value2}`).join("\n");
-}
-function isRecord(value) {
-  return typeof value === "object" && value !== null && !Array.isArray(value);
-}
-function deepMap(value, fn, iterations = 0) {
-  if (iterations > 10) {
-    return fn(value);
-  }
-  if (Array.isArray(value)) {
-    return value.map((v) => deepMap(v, fn, iterations + 1));
-  }
-  if (isRecord(value)) {
-    return Object.fromEntries(
-      Object.entries(value).map(([key, value2]) => [key, deepMap(value2, fn, iterations + 1)])
-    );
-  }
-  return fn(value);
-}
-var ResultValue = class {
-  constructor(value, name, notify2 = notify2) {
-    this.value = value;
-    this.name = name;
-    this.notify = notify2;
-    /** Alias for `toDataview` */
-    this.toDv = this.toDataview;
-    /** Alias for `toBulletList` */
-    this.toBullets = this.toBulletList;
-  }
-  static from(value, name, notify2 = notifyError) {
-    return new ResultValue(value, name, notify2);
-  }
-  /**
-   * Returns the value as a string.
-   * If the value is an array, it will be joined with a comma.
-   * If the value is an object, it will be stringified.
-   * This is convenient because it is the default method called automatically
-   * when the value needs to be rendered as a string, so you can just drop
-   * the value directly into a template without having to call this method.
-   * @returns string
-   */
-  toString() {
-    switch (typeof this.value) {
-      case "string":
-        return this.value;
-      case "number":
-      case "boolean":
-        return this.value.toString();
-      case "object":
-        if (Array.isArray(this.value)) {
-          return this.value.join(", ");
-        }
-        return JSON.stringify(this.value);
-      default:
-        return "";
-    }
-  }
-  /**
-   * Returns the value as a bullet list.
-   * If the value is empty or undefined, it will return an empty string.
-   * If the value is a single value, it will return as a single item bullet list.
-   * If the value is an array, it will return a bullet list with each item in the array.
-   * If the value is an object, it will return a bullet list with each key/value pair in the object.
-   * @returns string
-   */
-  toBulletList() {
-    switch (typeof this.value) {
-      case "boolean":
-      case "number":
-      case "string":
-        return `- ${this.value}`;
-      case "object": {
-        const value = this.value;
-        if (value == null)
-          return "";
-        if (value instanceof FileProxy) {
-          return `- ${value.name}`;
-        }
-        if (Array.isArray(value)) {
-          return _toBulletList(value);
-        }
-        if (isRecord(value)) {
-          return _toBulletList(value);
-        }
-        return `- ${JSON.stringify(value)}`;
-      }
-      default:
-        return "";
-    }
-  }
-  /**
-   * Converts the value to a dataview property using the field name as the key.
-   * If the value is empty or undefined, it will return an empty string and not render anything.
-   */
-  toDataview() {
-    const value = this.value;
-    if (value === void 0)
-      return "";
-    if (Array.isArray(value)) {
-      return `[${this.name}:: ${JSON.stringify(value).slice(1, -1)}]`;
-    }
-    return `[${this.name}:: ${this.toString()}]`;
-  }
-  /**
-   * Transforms the contained value using the provided function.
-   * If the value is undefined or null the function will not be called
-   * and the result will be the same as the original.
-   * This is useful if you want to apply somme modifications to the value
-   * before rendering it, for example if none of the existing format methods suit your needs.
-   * @param {function} fn the function to transform the values
-   * @returns a new FormValue with the transformed value
-   **/
-  map(fn) {
-    const safeFn = Either_exports.tryCatchK(fn, ensureError);
-    const unchanged = () => this;
-    return pipe2(
-      this.value,
-      Option_exports.fromNullable,
-      Option_exports.map(safeFn),
-      Option_exports.fold(
-        unchanged,
-        (v) => pipe2(
-          v,
-          Either_exports.fold(
-            (e) => {
-              this.notify("Error in map of " + this.name)(e.message);
-              return unchanged();
-            },
-            (v2) => ResultValue.from(v2, this.name, this.notify)
-          )
-        )
-      )
-    );
-  }
-  /**
-   * Convenient getter to get the value as bullets, so you don't need to call `toBulletList` manually.
-   * example:
-   * ```ts
-   *  result.getValue("myField").bullets;
-   * ```
-   */
-  get bullets() {
-    return this.toBulletList();
-  }
-  /**
-   * getter that returns all the string values uppercased.
-   * If the value is an array, it will return an array with all the strings uppercased.
-   * The usage of map is important for safety and method chaining.
-   */
-  get upper() {
-    if (this.value instanceof FileProxy) {
-      return new ResultValue(this.value.name.toLocaleUpperCase(), this.name, this.notify);
-    }
-    return this.map(
-      (v) => deepMap(v, (it) => typeof it === "string" ? it.toLocaleUpperCase() : it)
-    );
-  }
-  /**
-   * getter that returns all the string values lowercased.
-   * If the value is an array, it will return an array with all the strings lowercased.
-   * If the value is an object, it will return an object with all the string values lowercased.
-   * The usage of map is important for safety and method chaining.
-   * @returns FormValue
-   */
-  get lower() {
-    if (this.value instanceof FileProxy) {
-      return new ResultValue(this.value.name.toLocaleLowerCase(), this.name, this.notify);
-    }
-    return this.map(
-      (v) => deepMap(v, (it) => typeof it === "string" ? it.toLocaleLowerCase() : it)
-    );
-  }
-  /**
-   * getter that returns all the string values trimmed.
-   * */
-  get trimmed() {
-    if (this.value instanceof FileProxy) {
-      return new ResultValue(this.value.name.trim(), this.name, this.notify);
-    }
-    return this.map((v) => deepMap(v, (it) => typeof it === "string" ? it.trim() : it));
-  }
-  /**
-   * renders the value as a markdown link.
-   * If the value is a string, it will be rendered as a markdown link.
-   * If the value is a FileProxy (right now just used for images), it will be rendered as an embedded link.
-   * Any other type of value will be rendered as an empty string.
-   */
-  get link() {
-    switch (true) {
-      case typeof this.value === "string":
-        return `[[${this.value}]]`;
-      case this.value instanceof FileProxy:
-        return `![[${this.value.path}]]`;
-      default:
-        return "";
-    }
-  }
-};
-
-// src/core/objectSelect.ts
-var KeysSchema = array2(coerce(string(), String));
-var PickOmitSchema = object({
-  pick: optional(KeysSchema),
-  omit: optional(KeysSchema)
-});
-function picKeys(obj) {
-  return (keys) => pipe2(
-    obj,
-    filterWithIndex3((k) => keys.includes(k))
-  );
-}
-function omitKeys(obj) {
-  return (keys) => pipe2(
-    obj,
-    filterWithIndex3((k) => !keys.includes(k))
-  );
-}
-function objectSelect(obj, opts) {
-  return pipe2(
-    parse2(PickOmitSchema, opts, { abortEarly: true }),
-    Either_exports.map(
-      (opts2) => {
-        const picked = pipe2(
-          fromNullable2(opts2.pick),
-          flatMap3(fromArray),
-          map4(picKeys(obj)),
-          getOrElse2(() => obj)
-        );
-        return pipe2(
-          fromNullable2(opts2.omit),
-          flatMap3(fromArray),
-          map4(omitKeys(picked)),
-          getOrElse2(() => picked)
-        );
-      }
-    ),
-    Either_exports.getOrElse(() => obj)
-  );
-}
-
-// src/core/FormResult.ts
-function isPrimitive(value) {
-  return typeof value === "string" || typeof value === "boolean" || typeof value === "number";
-}
-function isPrimitiveArray(value) {
-  return Array.isArray(value) && value.every(isPrimitive);
-}
-var FormResult = class {
-  constructor(data, status) {
-    this.data = data;
-    this.status = status;
-    // alias
-    this.getV = this.getValue;
-    /* == Aliases ==*/
-    /** just an alias for `asFrontmatterString` */
-    this.asFrontmatter = this.asFrontmatterString;
-    /** just an alias for `asFrontmatterString` */
-    this.asYaml = this.asFrontmatterString;
-    /** just an alias for `asDataviewProperties` */
-    this.asDataview = this.asDataviewProperties;
-    /** just an alias for `asDataviewProperties` */
-    this.asDv = this.asDataviewProperties;
-  }
-  static make(data, status) {
-    return new Proxy(new FormResult(data, status), {
-      get(target, key, receiver) {
-        if (key in target || typeof key !== "string") {
-          return Reflect.get(target, key, receiver);
-        }
-        return target.getValue(key);
-      }
-    });
-  }
-  /**
-   * Transform  the current data into a frontmatter string, which is expected
-   * to be enclosed in `---` when used in a markdown file.
-   * This method does not add the enclosing `---` to the string,
-   * so you can put it anywhere inside the frontmatter.
-   * @param {Object} [options] an options object describing what options to pick or omit
-   * @param {string[]} [options.pick] an array of key names to pick from the data
-   * @param {string[]} [options.omit] an array of key names to omit from the data
-   * @returns the data formatted as a frontmatter string
-   */
-  asFrontmatterString(options) {
-    const data = objectSelect(this.data, options);
-    return (0, import_obsidian12.stringifyYaml)(data);
-  }
-  /**
-   * Return the current data as a block of dataview properties
-   * @param {Object} [options] an options object describing what options to pick or omit
-   * @param {string[]} [options.pick] an array of key names to pick from the data
-   * @param {string[]} [options.omit] an array of key names to omit from the data
-   * @returns string
-   */
-  asDataviewProperties(options) {
-    const data = objectSelect(this.data, options);
-    return Object.entries(data).map(
-      ([key, value]) => `${key}:: ${Array.isArray(value) ? value.map((v) => JSON.stringify(v)) : value}`
-    ).join("\n");
-  }
-  /**
-  Returns a copy of the data contained on this result.
-  */
-  getData() {
-    return { ...this.data };
-  }
-  /**
-   * Returns the data formatted as a string matching the provided
-   * template.
-   */
-  asString(template) {
-    let result2 = template;
-    for (const [key, value] of Object.entries(this.data)) {
-      result2 = result2.replace(new RegExp(`{{${key}}}`, "g"), value + "");
-    }
-    return result2;
-  }
-  /**
-   * Gets a single value from the data.
-   * It takes an optiional mapping function thatt can be used to transform the value.
-   * The function will only be called if the value exists.
-   * @param {string} key the key to get the value from
-   * @param {function} [mapFn] a function to transform the value
-   * @returns the value transformed by the function if it was provided, the value or empty string if it doesn't exist
-   */
-  get(key, mapFn) {
-    const value = this.data[key];
-    if (value === void 0) {
-      return "";
-    }
-    if (mapFn) {
-      return mapFn(value);
-    }
-    if (typeof value === "object") {
-      return JSON.stringify(value);
-    }
-    return value;
-  }
-  getValue(key) {
-    return ResultValue.from(this.data[key], key);
-  }
-};
-
-// src/core/formDataFromFormDefaults.ts
-function formDataFromFormDefaults(fields, values) {
-  const result2 = {};
-  const invalidKeys = [];
-  for (const [key, value] of Object.entries(values)) {
-    if (Array.isArray(value) && isPrimitiveArray(value)) {
-      result2[key] = value;
-    } else if (isPrimitive(value)) {
-      result2[key] = value;
-    } else {
-      invalidKeys.push(key);
-    }
-  }
-  if (invalidKeys.length > 0) {
-    log_error(new ModalFormError(`Invalid keys in form options: ${invalidKeys.join(", ")}`));
-  }
-  return pipe2(
-    fields,
-    Array_exports.map((field) => {
-      return pipe2(
-        result2[field.name],
-        fromNullable2,
-        match4(() => field.input.type === "toggle" ? some3(false) : none2, some3),
-        map4((value) => [field.name, value])
-      );
-    }),
-    Array_exports.compact,
-    fromEntries
-  );
-}
-
-// src/core/input/index.ts
-var input_exports = {};
-__export(input_exports, {
-  ConditionEq: () => ConditionEq,
-  ConditionSchema: () => ConditionSchema,
-  FileInputSchema: () => FileInputSchema,
-  ImageInputSchema: () => ImageInputSchema,
-  InputBasicSchema: () => InputBasicSchema,
-  InputDataviewSourceSchema: () => InputDataviewSourceSchema,
-  InputFolderSchema: () => InputFolderSchema,
-  InputNoteFromFolderSchema: () => InputNoteFromFolderSchema,
-  InputSelectFixedSchema: () => InputSelectFixedSchema,
-  InputSliderSchema: () => InputSliderSchema,
-  InputTagSchema: () => InputTagSchema,
-  InputTypeSchema: () => InputTypeSchema,
-  InputTypeToParserMap: () => InputTypeToParserMap,
-  MultiselectSchema: () => MultiselectSchema,
-  SelectFromNotesSchema: () => SelectFromNotesSchema,
-  allowsUnknownValues: () => allowsUnknownValues,
-  availableConditionsForInput: () => availableConditionsForInput,
-  canAllowUnknownValues: () => canAllowUnknownValues,
-  isBasicInputType: () => isBasicInputType,
-  nonEmptyString: () => nonEmptyString,
-  requiresListOfStrings: () => requiresListOfStrings,
-  valueMeetsCondition: () => valueMeetsCondition
-});
-
-// src/core/input/InputDefinitionSchema.ts
-function nonEmptyString(name) {
-  return string(`${name} should be a string`, [
-    toTrimmed(),
-    minLength(1, `${name} should not be empty`)
-  ]);
-}
-var InputBasicTypeSchema = enumType([
-  "text",
-  "number",
-  "date",
-  "time",
-  "datetime",
-  "textarea",
-  "toggle",
-  "email",
-  "tel"
-]);
-var isBasicInputType = (input) => is(InputBasicSchema, input);
-var SelectFromNotesSchema = object({
-  type: literal("select"),
-  source: literal("notes"),
-  folder: nonEmptyString("folder name")
-});
-var InputTagSchema = object({
-  type: literal("tag"),
-  exclude: optional(string()),
-  // This should be a regex string
-  hidden: optional(boolean(), false)
-});
-var InputSliderSchema = object({
-  type: literal("slider"),
-  min: number(),
-  max: number()
-});
-var InputNoteFromFolderSchema = object({
-  type: literal("note"),
-  folder: nonEmptyString("folder name")
-});
-var InputFolderSchema = object({
-  type: literal("folder"),
-  parentFolder: optional(string([toTrimmed()]))
-  // TODO: allow exclude option
-});
-var InputDataviewSourceSchema = object({
-  type: literal("dataview"),
-  query: nonEmptyString("dataview query")
-});
-var InputBasicSchema = object({
-  type: InputBasicTypeSchema,
-  hidden: optional(boolean(), false)
-});
-var InputSelectFixedSchema = object({
-  type: literal("select"),
-  source: literal("fixed"),
-  options: array2(
-    object({
-      value: string([toTrimmed()]),
-      label: string()
-    })
-  )
-});
-var MultiSelectNotesSchema = object({
-  type: literal("multiselect"),
-  source: literal("notes"),
-  folder: nonEmptyString("multi select source folder")
-});
-var MultiSelectFixedSchema = object({
-  type: literal("multiselect"),
-  source: literal("fixed"),
-  multi_select_options: array2(string()),
-  allowUnknownValues: optional(boolean(), false)
-});
-var MultiSelectQuerySchema = object({
-  type: literal("multiselect"),
-  source: literal("dataview"),
-  query: nonEmptyString("dataview query"),
-  allowUnknownValues: optional(boolean(), false)
-});
-function canAllowUnknownValues(type, source) {
-  return type === "multiselect" && (source === "dataview" || source === "fixed");
-}
-function allowsUnknownValues(input) {
-  if (input.source === "notes")
-    return false;
-  return input.allowUnknownValues;
-}
-var MultiselectSchema = union4([
-  MultiSelectNotesSchema,
-  MultiSelectFixedSchema,
-  MultiSelectQuerySchema
-]);
-var DocumentBlock2 = object({
-  type: literal("document_block"),
-  body: string()
-});
-var MarkdownBlock2 = object({
-  type: literal("markdown_block"),
-  body: string()
-});
-var ImageInputSchema = object({
-  type: literal("image"),
-  filenameTemplate: nonEmptyString("filename template"),
-  saveLocation: nonEmptyString("save location")
-});
-var FileInputSchema = object({
-  type: literal("file"),
-  folder: nonEmptyString("folder"),
-  allowedExtensions: optional(array2(string()))
-});
-var InputTypeSchema = union4([
-  InputBasicSchema,
-  InputNoteFromFolderSchema,
-  InputFolderSchema,
-  InputSliderSchema,
-  InputTagSchema,
-  SelectFromNotesSchema,
-  InputDataviewSourceSchema,
-  InputSelectFixedSchema,
-  MultiselectSchema,
-  DocumentBlock2,
-  MarkdownBlock2,
-  ImageInputSchema,
-  FileInputSchema
-]);
-var InputTypeToParserMap = {
-  number: parseC(InputBasicSchema),
-  text: parseC(InputBasicSchema),
-  email: parseC(InputBasicSchema),
-  tel: parseC(InputBasicSchema),
-  date: parseC(InputBasicSchema),
-  time: parseC(InputBasicSchema),
-  datetime: parseC(InputBasicSchema),
-  textarea: parseC(InputBasicSchema),
-  toggle: parseC(InputBasicSchema),
-  note: parseC(InputNoteFromFolderSchema),
-  folder: parseC(InputFolderSchema),
-  slider: parseC(InputSliderSchema),
-  tag: parseC(InputTagSchema),
-  select: trySchemas([SelectFromNotesSchema, InputSelectFixedSchema]),
-  dataview: parseC(InputDataviewSourceSchema),
-  multiselect: parseC(MultiselectSchema),
-  document_block: parseC(DocumentBlock2),
-  markdown_block: parseC(MarkdownBlock2),
-  image: parseC(ImageInputSchema),
-  file: parseC(FileInputSchema)
-};
-function requiresListOfStrings(input) {
-  const type = input.type;
-  switch (type) {
-    case "multiselect":
-    case "tag":
-      return true;
-    case "select":
-    case "dataview":
-    case "note":
-    case "folder":
-    case "slider":
-    case "document_block":
-    case "markdown_block":
-    case "number":
-    case "text":
-    case "date":
-    case "time":
-    case "datetime":
-    case "textarea":
-    case "toggle":
-    case "email":
-    case "tel":
-    case "image":
-    case "file":
-      return false;
-    default:
-      return absurd(type);
-  }
-}
-
-// src/core/input/dependentFields.ts
-var isSet = object({ dependencyName: string(), type: literal("isSet") });
-var booleanValue = object({
-  dependencyName: string(),
-  type: literal("boolean"),
-  value: boolean()
-});
-var startsWith2 = object({
-  dependencyName: string(),
-  type: enumType(["startsWith", "endsWith", "isExactly", "contains"]),
-  value: string()
-});
-var above = object({
-  dependencyName: string(),
-  type: enumType(["above", "aboveOrEqual", "below", "belowOrEqual", "exactly"]),
-  value: number()
-});
-var ConditionSchema = union4([isSet, booleanValue, startsWith2, above]);
-var ConditionEq = struct({
-  dependencyName: string_exports.Eq,
-  type: string_exports.Eq,
-  value: string_exports.Eq
-});
-function availableConditionsForInput(input) {
-  switch (input.type) {
-    case "text":
-    case "textarea":
-    case "email":
-    case "folder":
-    case "note":
-    case "tel":
-      return ["isSet", "startsWith", "endsWith", "isExactly", "contains"];
-    case "slider":
-    case "number":
-      return ["isSet", "above", "aboveOrEqual", "below", "belowOrEqual", "exactly"];
-    case "toggle":
-      return ["boolean"];
-    case "date":
-    case "time":
-    case "datetime":
-      return ["isSet"];
-    case "select":
-      return ["startsWith", "endsWith", "isExactly", "contains"];
-    case "multiselect":
-    case "tag":
-    case "dataview":
-    case "document_block":
-    case "markdown_block":
-      return [];
-    case "image":
-    case "file":
-      return ["isSet"];
-    default:
-      return absurd(input);
-  }
-}
-function processIsSet(_condition, value) {
-  if (value === null || value === void 0) {
-    return false;
-  }
-  if (typeof value === "string") {
-    return value !== "";
-  }
-  return true;
-}
-function processStringCondition(condition, value) {
-  if (typeof value !== "string") {
-    return false;
-  }
-  switch (condition.type) {
-    case "startsWith":
-      return value.startsWith(condition.value);
-    case "contains":
-      return value.includes(condition.value);
-    case "endsWith":
-      return value.endsWith(condition.value);
-    case "isExactly":
-      return value === condition.value;
-    default:
-      return absurd(condition.type);
-  }
-}
-function processNumberCondition(condition, value) {
-  if (typeof value !== "number") {
-    return false;
-  }
-  switch (condition.type) {
-    case "above":
-      return value > condition.value;
-    case "below":
-      return value < condition.value;
-    case "aboveOrEqual":
-      return value >= condition.value;
-    case "belowOrEqual":
-      return value <= condition.value;
-    case "exactly":
-      return value === condition.value;
-    default:
-      return absurd(condition.type);
-  }
-}
-function valueMeetsCondition(condition, value) {
-  switch (condition.type) {
-    case "isSet":
-      return processIsSet(condition, value);
-    case "startsWith":
-    case "contains":
-    case "endsWith":
-    case "isExactly":
-      return processStringCondition(condition, value);
-    case "above":
-    case "below":
-    case "aboveOrEqual":
-    case "belowOrEqual":
-    case "exactly":
-      return processNumberCondition(condition, value);
-    case "boolean":
-      return value === condition.value;
-    default:
-      return absurd(condition);
-  }
-}
-
-// src/store/formEngine.ts
-function requiredRule(fieldName, message) {
-  return { tag: "required", message: message != null ? message : `'${fieldName}' is required` };
-}
-function FieldFailed(field, failedRule) {
-  return { ...field, rules: failedRule, errors: [failedRule.message] };
-}
-function nonEmptyValue(s) {
-  switch (typeof s) {
-    case "string":
-      return s.length > 0 ? some3(s) : none2;
-    case "number":
-    case "boolean":
-      return some3(s);
-    case "object":
-      return Array.isArray(s) ? s.length > 0 ? some3(s) : none2 : none2;
-    default:
-      return absurd(s);
-  }
-}
-function parseField(field) {
-  if (!field.rules)
-    return right3(field);
-  const rule = field.rules;
-  switch (rule.tag) {
-    case "required":
-      return pipe2(
-        field.value,
-        chain3(nonEmptyValue),
-        match4(
-          () => left3(FieldFailed(field, rule)),
-          (value) => right3(field)
-        )
-      );
-    default:
-      return absurd(rule.tag);
-  }
-}
-function parseForm(fields) {
-  const { right: ok, left: failed } = pipe2(
-    fields,
-    Object.values,
-    map2(parseField),
-    separate
-  );
-  if (failed.length > 0)
-    return left3(failed);
-  return right3(
-    pipe2(
-      ok,
-      map2(
-        (field) => pipe2(
-          field.value,
-          map4((value) => [field.name, value])
-        )
-      ),
-      compact,
-      fromEntries
-    )
-  );
-}
-function makeFormEngine({
-  onSubmit,
-  onCancel,
-  defaultValues = {},
-  logger: l = logger
-}) {
-  const formStore = writable({ fields: {}, status: "draft" });
-  function setFormField({ name, input }) {
-    function initField(errors2 = [], rules) {
-      formStore.update((form) => {
-        return {
-          ...form,
-          fields: {
-            ...form.fields,
-            [name]: { value: fromNullable2(defaultValues[name]), name, errors: errors2, rules }
-          }
-        };
-      });
-    }
-    function setValue(value) {
-      formStore.update((form) => {
-        const field = form.fields[name];
-        if (!field) {
-          l.error(new Error(`Field ${name} does not exist`));
-          return form;
-        }
-        return {
-          ...form,
-          fields: {
-            ...form.fields,
-            [name]: { ...field, value: some3(value), errors: [] }
-          }
-        };
-      });
-    }
-    return { initField, setValue };
-  }
-  function setErrors(failedFields) {
-    formStore.update((form) => {
-      return pipe2(
-        failedFields,
-        reduce3(form, (form2, field) => {
-          return {
-            ...form2,
-            fields: { ...form2.fields, [field.name]: field }
-          };
-        })
-      );
-    });
-  }
-  const errors = derived(
-    formStore,
-    ({ fields }) => pipe2(
-      fields,
-      toEntries,
-      filterMap(([_, f]) => f.errors.length > 0 ? some3(f.errors) : none2),
-      flatten
-    )
-  );
-  return {
-    subscribe: formStore.subscribe,
-    errors,
-    isValid: derived(
-      formStore,
-      ({ fields }) => pipe2(
-        fields,
-        toEntries,
-        some2(([_, f]) => f.errors.length > 0),
-        (x) => !x
-      )
-    ),
-    triggerSubmit() {
-      formStore.update((form) => ({ ...form, status: "submitted" }));
-      const formState = get_store_value(formStore);
-      pipe2(
-        formState.fields,
-        parseForm,
-        match3(setErrors, onSubmit)
-      );
-    },
-    triggerCancel() {
-      formStore.update((form) => ({ ...form, status: "cancelled" }));
-      onCancel == null ? void 0 : onCancel();
-    },
-    addField(field) {
-      l.debug("Adding field", field.name);
-      const { initField: setField, setValue } = setFormField(field);
-      setField([], field.isRequired ? requiredRule(field.label || field.name) : void 0);
-      const fieldStore = derived(formStore, ({ fields }) => fields[field.name]);
-      const fieldValueStore = {
-        subscribe(cb) {
-          return fieldStore.subscribe(
-            (x) => pipe2(
-              x,
-              fromNullable2,
-              chain3((x2) => x2.value),
-              map4(cb)
-            )
-          );
-        },
-        set(value) {
-          setValue(value);
-        },
-        update: (updater) => {
-          formStore.update((form) => {
-            const current = form.fields[field.name];
-            if (!current) {
-              console.error(new Error(`Field ${field.name} does not exist`));
-              return form;
-            }
-            const newValue = pipe2(
-              // fuck prettier
-              current.value,
-              input_exports.requiresListOfStrings(field.input) ? match4(() => of5(updater([])), flow2(updater, of5)) : map4(updater)
-            );
-            return {
-              ...form,
-              fields: {
-                ...form.fields,
-                [field.name]: {
-                  ...current,
-                  value: newValue,
-                  errors: []
-                }
-              }
-            };
-          });
-        }
-      };
-      const isVisible = derived(formStore, ($form) => {
-        l.debug(
-          "condition",
-          field.name,
-          field.condition && $form.fields[field.condition.dependencyName]
-        );
-        if (isBasicInputType(field.input)) {
-          if (field.input.hidden) {
-            return of4(false);
-          }
-        }
-        if (field.isRequired)
-          return of4(true);
-        const condition = field.condition;
-        if (condition === void 0)
-          return of4(true);
-        return pipe2(
-          $form.fields[condition.dependencyName],
-          fromNullable(
-            `Field '${condition.dependencyName}' which is a dependency of '${field.name}' does not exist`
-          ),
-          map3((f) => valueMeetsCondition(condition, toUndefined(f.value)))
-        );
-      });
-      return {
-        value: fieldValueStore,
-        isVisible,
-        errors: derived(formStore, ({ fields }) => {
-          var _a, _b;
-          return (_b = (_a = fields[field.name]) == null ? void 0 : _a.errors) != null ? _b : [];
-        })
-      };
-    }
-  };
-}
-
-// src/FormModal.ts
-var notify = throttle(
-  (msg) => log_notice("\u26A0\uFE0F  The form has errors \u26A0\uFE0F", msg.join("\n"), "notice-warning"),
-  2e3
-);
-var FormModal2 = class extends import_obsidian13.Modal {
-  constructor(app, modalDefinition, onSubmit, options) {
-    var _a;
-    super(app);
-    this.modalDefinition = modalDefinition;
-    this.onSubmit = onSubmit;
-    this.svelteComponents = [];
-    this.subscriptions = [];
-    this.hasBeenHandled = false;
-    this.initialFormValues = formDataFromFormDefaults(
-      modalDefinition.fields,
-      (_a = options == null ? void 0 : options.values) != null ? _a : {}
-    );
-    this.formEngine = makeFormEngine({
-      onSubmit: (result2) => {
-        this.hasBeenHandled = true;
-        this.onSubmit(FormResult.make(result2, "ok"));
-        super.close();
-      },
-      onCancel: () => {
-        this.hasBeenHandled = true;
-        this.onSubmit(FormResult.make({}, "cancelled"));
-        super.close();
-      },
-      defaultValues: this.initialFormValues
-    });
-  }
-  // Override the close method to handle X button and outside clicks
-  close() {
-    if (!this.hasBeenHandled) {
-      this.hasBeenHandled = true;
-      this.onSubmit(FormResult.make({}, "cancelled"));
-    }
-    super.close();
-  }
-  onOpen() {
-    const { contentEl } = this;
-    contentEl.addClass("modal-form");
-    if (this.modalDefinition.customClassname)
-      contentEl.addClass(this.modalDefinition.customClassname);
-    contentEl.createEl("h1", { text: this.modalDefinition.title });
-    this.svelteComponents.push(
-      new FormModal_default({
-        target: contentEl,
-        props: {
-          formEngine: this.formEngine,
-          fields: this.modalDefinition.fields,
-          app: this.app,
-          reportFormErrors: notify
-        }
-      })
-    );
-    const buttons = new import_obsidian13.Setting(contentEl).addButton(
-      (btn) => btn.setButtonText("Cancel").onClick(this.formEngine.triggerCancel)
-    );
-    buttons.addButton(
-      (btn) => btn.setButtonText("Submit").setCta().onClick(this.formEngine.triggerSubmit)
-    );
-    const submitEnterCallback = (evt) => {
-      if ((evt.ctrlKey || evt.metaKey) && evt.key === "Enter") {
-        evt.preventDefault();
-        this.formEngine.triggerSubmit();
-      }
-    };
-    const cancelEscapeCallback = (evt) => {
-      if (!(evt.ctrlKey || evt.metaKey) && evt.key === "Escape") {
-        evt.preventDefault();
-        this.formEngine.triggerCancel();
-      }
-    };
-    contentEl.addEventListener("keydown", submitEnterCallback);
-    contentEl.addEventListener("keydown", cancelEscapeCallback);
-  }
-  onClose() {
-    const { contentEl } = this;
-    this.svelteComponents.forEach((component) => component.$destroy());
-    this.subscriptions.forEach((subscription) => subscription());
-    contentEl.empty();
-    this.initialFormValues = {};
-  }
-};
-
-// src/core/findInputDefinitionSchema.ts
-function stringifyIssues(error2) {
-  return error2.issues.map(
-    (issue) => {
-      var _a;
-      return `${(_a = issue.path) == null ? void 0 : _a.map((i) => i.key).join(".")}: ${issue.message} got ${issue.input}`;
-    }
-  );
-}
-var InvalidInputTypeError = class {
-  constructor(field, inputType2) {
-    this.field = field;
-    this.inputType = inputType2;
-    this.path = "input.type";
-  }
-  toString() {
-    return `InvalidInputTypeError: ${this.getFieldErrors()[0]}`;
-  }
-  getFieldErrors() {
-    return [`"input.type" is invalid, got: ${JSON.stringify(this.inputType)}`];
-  }
-};
-InvalidInputTypeError._tag = "InvalidInputTypeError";
-var InvalidInputError = class {
-  constructor(field, error2) {
-    this.field = field;
-    this.error = error2;
-    var _a, _b;
-    this.path = (_b = (_a = error2.issues[0].path) == null ? void 0 : _a.map((i) => i.key).join(".")) != null ? _b : "";
-  }
-  toString() {
-    return `InvalidInputError: ${stringifyIssues(this.error).join(", ")}`;
-  }
-  getFieldErrors() {
-    return stringifyIssues(this.error);
-  }
-};
-InvalidInputError._tag = "InvalidInputError";
-var _InvalidFieldError = class {
-  constructor(field, error2) {
-    this.field = field;
-    this.error = error2;
-    var _a, _b;
-    this.path = (_b = (_a = error2.issues[0].path) == null ? void 0 : _a.map((i) => i.key).join(".")) != null ? _b : "";
-  }
-  toString() {
-    return `InvalidFieldError: ${stringifyIssues(this.error).join(", ")}`;
-  }
-  toArrayOfStrings() {
-    return this.getFieldErrors();
-  }
-  getFieldErrors() {
-    return stringifyIssues(this.error);
-  }
-  static of(field) {
-    return (error2) => new _InvalidFieldError(field, error2);
-  }
-};
-var InvalidFieldError = _InvalidFieldError;
-InvalidFieldError._tag = "InvalidFieldError";
-function isValidInputType(input) {
-  return "string" === typeof input && input in InputTypeToParserMap;
-}
-function findInputDefinitionSchema(fieldDefinition) {
-  return pipe2(
-    parse2(FieldMinimalSchema, fieldDefinition),
-    mapLeft(InvalidFieldError.of(fieldDefinition)),
-    chainW((field) => {
-      const type = field.input.type;
-      if (isValidInputType(type))
-        return right3([field, InputTypeToParserMap[type]]);
-      else
-        return left3(new InvalidInputTypeError(field, type));
-    })
-  );
-}
-function findFieldErrors(fields) {
-  return pipe2(
-    fields,
-    Array_exports.partitionMap((fieldUnparsed) => {
-      return pipe2(
-        findInputDefinitionSchema(fieldUnparsed),
-        chainW(
-          ([field, parser]) => pipe2(
-            parser(field.input),
-            bimap(
-              (error2) => new InvalidInputError(field, error2),
-              () => field
-            )
-          )
-        )
-      );
-    })
-    // Separated.left,
-  );
-}
-
-// src/core/template/templateSchema.ts
-var TemplateTextSchema = object({
-  _tag: literal("text"),
-  value: string()
-});
-var upper = transform(enumType(["upper", "uppercase"]), (_) => "upper");
-var transformations = union4([
-  upper,
-  literal("lower"),
-  literal("trim"),
-  literal("stringify")
-]);
-var TemplateVariableSchema = object({
-  _tag: literal("variable"),
-  value: string(),
-  transformation: optional(transformations)
-});
-var FrontmatterCommandSchema = object({
-  _tag: literal("frontmatter-command"),
-  pick: array2(string()),
-  omit: array2(string())
-});
-var ParsedTemplateSchema = array2(
-  union4([TemplateTextSchema, TemplateVariableSchema, FrontmatterCommandSchema])
-);
-
-// src/core/formDefinitionSchema.ts
-var FieldDefinitionSchema = object({
-  name: nonEmptyString("field name"),
-  label: optional(string()),
-  description: string(),
-  isRequired: optional(boolean()),
-  condition: optional(input_exports.ConditionSchema),
-  input: InputTypeSchema
-});
-var FieldMinimalSchema = passthrough(
-  merge([FieldDefinitionSchema, object({ input: passthrough(object({ type: string() })) })])
-);
-var FieldListSchema = array2(FieldDefinitionSchema);
-var FormDefinitionBasicSchema = object({
-  title: nonEmptyString("form title"),
-  name: nonEmptyString("form name"),
-  customClassname: optional(string()),
-  fields: array2(unknown())
-});
-var FormDefinitionV1Schema = merge([
-  FormDefinitionBasicSchema,
-  object({
-    version: literal("1"),
-    fields: FieldListSchema,
-    template: optional(
-      object({
-        createInsertCommand: optional(boolean(), () => false),
-        createNoteCommand: optional(boolean(), () => false),
-        parsedTemplate: ParsedTemplateSchema
-      })
-    )
-  })
-]);
-var FormDefinitionLatestSchema = FormDefinitionV1Schema;
-var MigrationError = class {
-  constructor(form, error2) {
-    this.form = form;
-    this.error = error2;
-    this.name = form.name;
-  }
-  toString() {
-    return `MigrationError: 
-            ${this.error.message}
-            ${this.error.issues.map((issue) => issue.message).join(", ")}`;
-  }
-  toArrayOfStrings() {
-    return stringifyIssues(this.error);
-  }
-  // This allows to store the error in the settings, along with the rest of the forms and
-  // have save all the data in one go transparently.
-  // This is required so we don't lose the form, even if it is invalid
-  toJSON() {
-    return this.form;
-  }
-  get fieldErrors() {
-    return findFieldErrors(this.form.fields);
-  }
-};
-MigrationError._tag = "MigrationError";
-var InvalidData = class {
-  constructor(data, error2) {
-    this.data = data;
-    this.error = error2;
-  }
-  toString() {
-    return `InvalidData: ${stringifyIssues(this.error).join(", ")}`;
-  }
-  toArrayOfStrings() {
-    return stringifyIssues(this.error);
-  }
-};
-InvalidData._tag = "InvalidData";
-function fromV0toV1(data) {
-  return pipe2(
-    parse2(FormDefinitionV1Schema, { ...data, version: "1" }),
-    getOrElseW((error2) => new MigrationError(data, error2))
-  );
-}
-function migrateToLatest(data) {
-  return pipe2(
-    // first try a quick one with the latest schema
-    parse2(FormDefinitionLatestSchema, data, { abortEarly: true }),
-    orElse(
-      () => pipe2(
-        parse2(FormDefinitionBasicSchema, data, { abortEarly: false }),
-        mapLeft((error2) => new InvalidData(data, error2)),
-        map3(fromV0toV1)
-      )
-    )
-  );
-}
-function formNeedsMigration(data) {
-  return !is(FormDefinitionLatestSchema, data);
-}
-
-// src/core/formDefinition.ts
-var InputTypeReadable = {
-  text: "Text",
-  number: "Number",
-  tag: "Tags",
-  email: "Email",
-  tel: "Phone",
-  date: "Date",
-  time: "Time",
-  datetime: "DateTime",
-  textarea: "Text area",
-  toggle: "Toggle",
-  note: "Note",
-  folder: "Folder",
-  slider: "Slider",
-  select: "Select",
-  dataview: "Dataview",
-  multiselect: "Multiselect",
-  document_block: "Document block",
-  markdown_block: "Markdown block",
-  image: "Image",
-  file: "File"
-};
-function validateFields(fields) {
-  const result2 = safeParse(FieldListSchema, fields);
-  if (result2.success) {
-    return [];
-  }
-  return result2.issues.map((issue) => {
-    var _a, _b, _c, _d;
-    return {
-      message: issue.message,
-      path: (_a = issue.path) == null ? void 0 : _a.map((item2) => item2.key).join("."),
-      index: (_d = (_c = (_b = issue.path) == null ? void 0 : _b[0]) == null ? void 0 : _c.key) != null ? _d : 0
-    };
-  });
-}
-function isValidFormDefinition(input) {
-  if (!is(FormDefinitionBasicSchema, input)) {
-    return false;
-  }
-  const fieldsAreValid = is(FieldListSchema, input.fields);
-  if (!fieldsAreValid) {
-    return false;
-  }
-  return true;
-}
-function duplicateForm(formName, forms) {
-  return pipe2(
-    forms,
-    Array_exports.findFirstMap((f) => {
-      if (f instanceof MigrationError) {
-        return Option_exports.none;
-      }
-      if (f.name === formName) {
-        return Option_exports.some(f);
-      }
-      return Option_exports.none;
-    }),
-    Option_exports.map((f) => {
-      let newName = f.name + "-copy";
-      let i = 1;
-      while (forms.some((f2) => f2.name === newName)) {
-        newName = f.name + "-copy-" + i;
-        i++;
-      }
-      return { ...f, name: newName };
-    }),
-    Option_exports.map((f) => {
-      return [...forms, f];
-    }),
-    Option_exports.getOrElse(() => forms)
-  );
-}
-
-// src/core/FormBuilder.ts
-var FormBuilder = class {
-  constructor({ name, fields, title, version }, reporter) {
-    this.reporter = reporter;
-    this.addField = ({ name, label, description }, input) => {
-      const textField = {
-        name,
-        label,
-        description: description || "",
-        input
-      };
-      return new FormBuilder(
-        {
-          ...this.definition,
-          fields: [...this.definition.fields, textField]
-        },
-        this.reporter
-      );
-    };
-    this.addTextField = ({ name, label, description, hidden }) => this.addField({ name, label, description }, { type: "text", hidden: Boolean(hidden) });
-    this.text = this.addTextField;
-    this.addNumberField = ({ name, label, description, hidden }) => this.addField({ name, label, description }, { type: "number", hidden: Boolean(hidden) });
-    this.addDateField = ({ name, label, description, hidden }) => this.addField({ name, label, description }, { type: "date", hidden: Boolean(hidden) });
-    this.addTimeField = ({ name, label, description, hidden }) => this.addField({ name, label, description }, { type: "time", hidden: Boolean(hidden) });
-    this.addDateTimeField = ({ name, label, description, hidden }) => this.addField({ name, label, description }, { type: "datetime", hidden: Boolean(hidden) });
-    this.addTextareaField = ({ name, label, description, hidden }) => this.addField({ name, label, description }, { type: "textarea", hidden: Boolean(hidden) });
-    this.addToggleField = ({ name, label, description, hidden }) => this.addField({ name, label, description }, { type: "toggle", hidden: Boolean(hidden) });
-    this.addEmailField = ({ name, label, description, hidden }) => this.addField({ name, label, description }, { type: "email", hidden: Boolean(hidden) });
-    this.addTelField = ({ name, label, description, hidden }) => this.addField({ name, label, description }, { type: "tel", hidden: Boolean(hidden) });
-    this.addNoteField = ({ name, label, description, folder }) => this.addField({ name, label, description }, { type: "note", folder });
-    this.addFolderField = ({
-      name,
-      label,
-      description,
-      parentFolder
-    }) => this.addField({ name, label, description }, { type: "folder", parentFolder });
-    this.addSliderField = ({
-      name,
-      label,
-      description,
-      min: min3,
-      max: max3
-    }) => this.addField({ name, label, description }, { type: "slider", min: min3 != null ? min3 : 0, max: max3 });
-    this.addTagField = ({ name, label, description, hidden }) => this.addField({ name, label, description }, { type: "tag", hidden: Boolean(hidden) });
-    this.addSelectField = ({
-      name,
-      label,
-      description,
-      options
-    }) => this.addField(
-      { name, label, description },
-      {
-        type: "select",
-        source: "fixed",
-        options: options.map((o) => typeof o === "string" ? { value: o, label: o } : o)
-      }
-    );
-    this.addDataviewField = ({ name, label, description, query }) => this.addField({ name, label, description }, { type: "dataview", query });
-    this.addMultiselectField = ({
-      name,
-      label,
-      description,
-      allowUnknownValues,
-      options
-    }) => this.addField(
-      { name, label, description },
-      {
-        type: "multiselect",
-        source: "fixed",
-        multi_select_options: options,
-        allowUnknownValues: Boolean(allowUnknownValues)
-      }
-    );
-    this.addDocumentBlockField = ({ name, label, description, body }) => this.addField({ name, label, description }, { type: "document_block", body });
-    this.addMarkdownBlockField = ({ name, label, description, body }) => this.addField({ name, label, description }, { type: "markdown_block", body });
-    this.addImageField = ({
-      name,
-      label,
-      description,
-      filenameTemplate,
-      saveLocation
-    }) => this.addField(
-      { name, label, description },
-      { type: "image", filenameTemplate, saveLocation }
-    );
-    this.addFileField = ({
-      name,
-      label,
-      description,
-      folder,
-      allowedExtensions
-    }) => this.addField({ name, label, description }, { type: "file", folder, allowedExtensions });
-    this.number = this.addNumberField;
-    this.date = this.addDateField;
-    this.time = this.addTimeField;
-    this.datetime = this.addDateTimeField;
-    this.textarea = this.addTextareaField;
-    this.toggle = this.addToggleField;
-    this.email = this.addEmailField;
-    this.tel = this.addTelField;
-    this.note = this.addNoteField;
-    this.folder = this.addFolderField;
-    this.slider = this.addSliderField;
-    this.tag = this.addTagField;
-    this.select = this.addSelectField;
-    this.dataview = this.addDataviewField;
-    this.multiselect = this.addMultiselectField;
-    this.document_block = this.addDocumentBlockField;
-    this.markdown_block = this.addMarkdownBlockField;
-    this.image = this.addImageField;
-    this.file = this.addFileField;
-    this.build = () => {
-      const fieldsValidation = validateFields(this.definition.fields);
-      if (fieldsValidation.length > 0) {
-        this.reporter(
-          "\u{1F6A7} Error building form \u{1F6A7}",
-          fieldsValidation.map((x) => `${x.path}: ${x.message}`).join("\n")
-        );
-      }
-      return this.definition;
-    };
-    this.definition = { name, fields, title, version };
-  }
-};
-var makeBuilder = (reporter) => function createBuilder(name, title, fields = []) {
-  return new FormBuilder({ name, title: title || name, fields, version: "1" }, reporter);
-};
-
-// src/exampleModalDefinition.ts
-var exampleModalDefinition = {
-  title: "Example form",
-  name: "example-form",
-  version: "1",
-  fields: [
-    {
-      name: "name",
-      label: "Name",
-      description: "It is named how?",
-      isRequired: true,
-      input: { type: "text", hidden: false }
-    },
-    {
-      name: "age",
-      label: "Age",
-      description: "How old",
-      isRequired: true,
-      input: { type: "number", hidden: false }
-    },
-    {
-      name: "dateOfBirth",
-      label: "Date of Birth",
-      description: "When were you born?",
-      input: { type: "date", hidden: false }
-    },
-    {
-      name: "timeOfDay",
-      label: "Time of day",
-      description: "The time you can do this",
-      input: { type: "time", hidden: false }
-    },
-    {
-      name: "is_family",
-      label: "Is family",
-      description: "If it is part of the family",
-      input: { type: "toggle", hidden: false }
-    },
-    {
-      name: "favorite_book",
-      label: "Favorite book",
-      description: "Pick one",
-      input: { type: "note", folder: "Books" }
-    },
-    {
-      name: "folder",
-      label: "The destination folder",
-      description: "It offers auto-completion to existing folders",
-      input: { type: "folder" }
-    },
-    {
-      name: "multi_example",
-      label: "Multi select folder",
-      description: "Allows to pick many notes from a folder",
-      input: { type: "multiselect", source: "notes", folder: "Books" }
-    },
-    {
-      name: "multi_example_2",
-      label: "Multi select fixed",
-      description: "Allows to pick many notes from a fixed list",
-      input: {
-        type: "multiselect",
-        source: "fixed",
-        allowUnknownValues: false,
-        multi_select_options: [
-          "Android",
-          "iOS",
-          "Windows",
-          "MacOS",
-          "Linux",
-          "Solaris",
-          "MS2"
-        ]
-      }
-    },
-    {
-      name: "multi_select_dataview",
-      label: "Multi select dataview",
-      description: "Allows to pick several values from a dv query",
-      input: {
-        type: "multiselect",
-        source: "dataview",
-        query: 'dv.pages("#person").map(p => p.file.name)',
-        allowUnknownValues: true
-      }
-    },
-    {
-      name: "best_fried",
-      label: "Best friend",
-      description: "Select of type note from a folder",
-      input: {
-        type: "select",
-        source: "notes",
-        folder: "People"
-      }
-    },
-    {
-      name: "dataview_example",
-      label: "Dataview example",
-      description: "Only people matching the dataview query will be shown",
-      input: {
-        type: "dataview",
-        query: 'dv.pages("#person").filter(p => p.age < 30).map(p => p.file.name)'
-      }
-    },
-    {
-      name: "friendship_level",
-      label: "Friendship level",
-      description: "How good friends are you?",
-      input: {
-        type: "slider",
-        min: 0,
-        max: 10
-      }
-    },
-    {
-      name: "favorite_meal",
-      label: "Favorite meal",
-      description: "Pick one option",
-      input: {
-        type: "select",
-        source: "fixed",
-        options: [
-          { value: "pizza", label: "\u{1F355} Pizza" },
-          { value: "pasta", label: "\u{1F35D} Pasta" },
-          { value: "burger", label: "\u{1F354} Burger" },
-          { value: "salad", label: "\u{1F957} Salad" },
-          { value: "steak", label: "\u{1F969} Steak" },
-          { value: "sushi", label: "\u{1F363} Sushi" },
-          { value: "ramen", label: "\u{1F35C} Ramen" },
-          { value: "tacos", label: "\u{1F32E} Tacos" },
-          { value: "fish", label: "\u{1F41F} Fish" },
-          { value: "chicken", label: "\u{1F357} Chicken" }
-        ]
-      }
-    },
-    {
-      name: "some notes",
-      label: "Multi line notes",
-      description: "Put your thoughts here",
-      input: {
-        type: "textarea",
-        hidden: false
-      }
-    },
-    {
-      name: "hidden_field",
-      label: "This field is hidden",
-      description: "It is useful for internal data",
-      input: { type: "text", hidden: true }
-    },
-    {
-      name: "Tags",
-      description: "Tags input example",
-      input: { type: "tag", hidden: false }
-    },
-    {
-      name: "profile_picture",
-      label: "Profile Picture",
-      description: "Upload a profile picture. It will be saved in the attachments folder with the current date.",
-      input: {
-        type: "image",
-        saveLocation: "attachments/profile_pictures",
-        filenameTemplate: "profile-{{datetime}}.png"
-      }
-    },
-    {
-      name: "pdf",
-      description: "PDF example",
-      input: {
-        type: "file",
-        folder: "attachments/pdfs",
-        allowedExtensions: ["pdf"]
-      }
-    },
-    {
-      name: "document",
-      description: "Document block example",
-      input: {
-        type: "document_block",
-        body: "return `Hello ${form.name}!<br> Your best friend is <b>${form.best_fried}</b>`"
-      }
-    }
-  ]
-};
-
-// src/API.ts
-function isPickOption(opts) {
-  return "pick" in opts && Array.isArray(opts.pick);
-}
-function isOmitOption(opts) {
-  return "omit" in opts && Array.isArray(opts.omit);
-}
-var API = class {
-  /**
-   * Constructor for the API class
-   * @param {App} app - The application instance
-   * @param {typeof ModalFormPlugin} plugin - The plugin instance
-   */
-  constructor(app, plugin) {
-    this.app = app;
-    this.plugin = plugin;
-    /**
-     * What this plugin considers its standard library
-     * Because it is bundled with the plugin anyway, I think
-     * it makes sense to expose it to the user
-     */
-    this.std = std_exports;
-    this.util = {
-      getAliases: flow2(
-        (name) => resolve_tfile(name, this.app),
-        Either_exports.map((f) => this.app.metadataCache.getCache(f.path)),
-        Either_exports.chainW(Either_exports.fromNullable(new Error("No cache found"))),
-        Either_exports.map((tf) => (0, import_obsidian14.parseFrontMatterAliases)(tf.frontmatter)),
-        Either_exports.match(
-          () => [],
-          (aliases) => aliases
-        )
-      ),
-      getFile: flow2(
-        resolve_tfile,
-        Either_exports.map((f) => enrich_tfile(f, this.app))
-      )
-    };
-    this.builder = makeBuilder((title, message) => log_notice(message, title));
-  }
-  /**
-   * Opens a modal form with the provided form definition
-   * @param {FormDefinition} formDefinition - The form definition to use
-   * @returns {Promise<FormResult>} - A promise that resolves with the form result
-   */
-  openModalForm(formDefinition, options) {
-    return new Promise((resolve) => {
-      new FormModal2(this.app, formDefinition, resolve, options).open();
-    });
-  }
-  exampleForm(options) {
-    return this.openModalForm(exampleModalDefinition, options);
-  }
-  getFormByName(name) {
-    var _a;
-    const form = (_a = this.plugin.settings) == null ? void 0 : _a.formDefinitions.find((form2) => form2.name === name);
-    if (form instanceof MigrationError) {
-      log_notice(
-        "\u{1F6AB} The form you tried to load has an invalid format",
-        `The form "${name}" has an invalid format.We tried to automatically convert it but it failed, please fix it manually in the forms manager.
-            `
-      );
-      return void 0;
-    } else {
-      return form;
-    }
-  }
-  /**
-   * Opens a named form
-   * @param {string} name - The name of the form to open
-   * @returns {Promise<FormResult>} - A promise that resolves with the form result
-   * @throws {ModalFormError} - Throws an error if the form definition is not found
-   */
-  namedForm(name, options) {
-    const formDefinition = this.getFormByName(name);
-    if (formDefinition) {
-      return this.openModalForm(formDefinition, options);
-    } else {
-      const error2 = new ModalFormError(`Form definition ${name} not found`);
-      log_error(error2);
-      return Promise.reject(error2);
-    }
-  }
-  /**
-   * Opens a named form, limiting/filtering the fields included
-   * @param {string} name - The name of the form to open
-   * @param {limitOptions} limitOpts - The options to apply when filtering fields
-   * @param {FormOptions} formOpts - Form options to use when opening the form once filtered
-   * @returns {Promise<FormResult>} - A promise that resolves with the form result
-   * @throws {ModalFormError} - Throws an error if the form definition is not found
-   */
-  limitedForm(name, limitOpts, formOpts) {
-    const formDefinition = this.getFormByName(name);
-    let newFormDefinition;
-    if (formDefinition) {
-      if (isOmitOption(limitOpts)) {
-        const omit = limitOpts.omit;
-        newFormDefinition = {
-          ...formDefinition,
-          fields: formDefinition.fields.filter((field) => !omit.includes(field.name))
-        };
-      } else if (isPickOption(limitOpts)) {
-        newFormDefinition = {
-          ...formDefinition,
-          fields: formDefinition.fields.filter(
-            (field) => limitOpts.pick.includes(field.name)
-          )
-        };
-      } else {
-        throw new ModalFormError(
-          "Invalid limit options provided to limitedForm",
-          `GOT: ${JSON.stringify(limitOpts)}`
-        );
-      }
-      return this.openModalForm(newFormDefinition, formOpts);
-    } else {
-      const error2 = new ModalFormError(`Form definition ${name} not found`);
-      log_error(error2);
-      return Promise.reject(error2);
-    }
-  }
-  /**
-   * Opens a form with the provided form reference
-   * @param {string | FormDefinition} formReference - The form reference, either a form name of an existing form or an inline form definition
-   * @returns {Promise<FormResult>} - A promise that resolves with the form result
-   * @throws {ModalFormError} - Throws an error if the form reference is not found
-   */
-  openForm(formReference, options) {
-    if (typeof formReference === "string") {
-      return this.namedForm(formReference, options);
-    } else {
-      return this.openModalForm(formReference, options);
-    }
-  }
-  openInTemplateBuilder(name) {
-    const form = this.getFormByName(name);
-    if (form) {
-      this.plugin.openTemplateBuilder({ formDefinition: form });
-    }
-  }
-};
-
-// src/ModalFormSettingTab.ts
-var import_obsidian15 = require("obsidian");
-
-// src/core/settings.ts
-var OpenPositionSchema = enumType(["left", "right", "mainView"]);
-function isValidOpenPosition(position) {
-  return is(OpenPositionSchema, position);
-}
-var ModalFormSettingsSchema = object({
-  editorPosition: optional(OpenPositionSchema, "right"),
-  attachShortcutToGlobalWindow: optional(boolean(), false),
-  globalNamespace: optional(enumType(["MF", "ModalForm"]), "MF"),
-  formDefinitions: array2(unknown())
-});
-function getDefaultSettings() {
-  return {
-    editorPosition: "right",
-    attachShortcutToGlobalWindow: false,
-    globalNamespace: "MF",
-    formDefinitions: []
-  };
-}
-var NullSettingsError = class {
-  constructor() {
-    this._tag = "NullSettingsError";
-  }
-};
-function parseSettings(maybeSettings) {
-  return pipe2(
-    maybeSettings,
-    fromNullable(new NullSettingsError()),
-    chainW((s) => parse2(ModalFormSettingsSchema, { ...getDefaultSettings(), ...s }))
-  );
-}
-
-// src/ModalFormSettingTab.ts
-var ModalFormSettingTab = class extends import_obsidian15.PluginSettingTab {
-  constructor(app, plugin) {
-    super(app, plugin);
-    this.plugin = plugin;
-  }
-  async display() {
-    const { containerEl, plugin } = this;
-    containerEl.empty();
-    containerEl.createEl("a", {
-      text: "Modal Form documentation",
-      cls: "nav-link",
-      href: "https://github.com/danielo515/obsidian-modal-form"
-    });
-    const settings2 = await plugin.getSettings();
-    new import_obsidian15.Setting(containerEl).setName("Editor position").setDesc("Where the form editor will be opened. In mobile it will always be main view.").addDropdown((component) => {
-      component.addOptions({
-        left: "Left",
-        right: "Right",
-        mainView: "Main View"
-      }).setValue(settings2.editorPosition).onChange(async (value) => {
-        if (isValidOpenPosition(value)) {
-          await this.plugin.setEditorPosition(value);
-        }
-      });
-    });
-    new import_obsidian15.Setting(containerEl).setName("Attach Modal-Form Shortcut to Global Window").setDesc(
-      "Enable or disable attaching a modal-form shortcut to the global window. If you enable this you will be able to access the API using the global variable `MF`. Enabling is immediate, disabling requires a restart."
-    ).addToggle((component) => {
-      component.setValue(settings2.attachShortcutToGlobalWindow).onChange(async (value) => {
-        await this.plugin.setAttachShortcutToGlobalWindow(value);
-      });
-    });
-  }
-};
-
-// src/views/EditFormView.ts
-var import_obsidian23 = require("obsidian");
-
-// src/store/SettngsStore.ts
-var settings = writable({ ...getDefaultSettings() });
-var formsStore = derived(
-  settings,
-  ($settings) => pipe2(
-    $settings.formDefinitions,
-    Array_exports.filter((form) => !(form instanceof MigrationError))
-  )
-);
-var { subscribe: subscribe2, update: update2, set } = settings;
-var invalidFormsStore = derived(settings, ($settings) => {
-  return pipe2(
-    $settings.formDefinitions,
-    Array_exports.filter((form) => form instanceof MigrationError)
-  );
-});
-var settingsStore = {
-  subscribe: subscribe2,
-  set,
-  updateForm(name, form) {
-    let edited = false;
-    update2((s) => {
-      const forms = s.formDefinitions.map((f) => {
-        if (f.name === name) {
-          edited = true;
-          return form;
-        }
-        return f;
-      });
-      return { ...s, formDefinitions: edited ? forms : [...s.formDefinitions, form] };
-    });
-  },
-  addNewForm(form) {
-    update2((s) => {
-      const forms = [...s.formDefinitions, form];
-      return { ...s, formDefinitions: forms };
-    });
-  },
-  removeForm(name) {
-    update2((s) => {
-      const forms = s.formDefinitions.filter((f) => f.name !== name);
-      return { ...s, formDefinitions: forms };
-    });
-  },
-  duplicateForm(formName) {
-    update2((s) => {
-      return { ...s, formDefinitions: duplicateForm(formName, s.formDefinitions) };
-    });
-  }
-};
-
-// src/views/FormBuilder.svelte
-var import_obsidian22 = require("obsidian");
+var import_obsidian13 = require("obsidian");
 
 // src/core/template/templateParser.ts
-var import_obsidian16 = require("obsidian");
+var import_obsidian12 = require("obsidian");
 
 // node_modules/parser-ts/es6/ParseResult.js
 var __assign = function() {
@@ -16871,7 +15447,7 @@ var unicodeLetter = expected(sat(isUnicodeLetter), "an unicode letter");
 var isUpper = function(c) {
   return isLetter(c) && c === c.toUpperCase();
 };
-var upper2 = expected(sat(isUpper), "an upper case letter");
+var upper = expected(sat(isUpper), "an upper case letter");
 var isLower = function(c) {
   return isLetter(c) && c === c.toLowerCase();
 };
@@ -16961,6 +15537,34 @@ function run2(string3) {
     return p(stream(string3.split("")));
   };
 }
+
+// src/core/template/templateSchema.ts
+var TemplateTextSchema = object({
+  _tag: literal("text"),
+  value: string()
+});
+var upper2 = transform(enumType(["upper", "uppercase"]), (_) => "upper");
+var transformations = union4([
+  upper2,
+  literal("lower"),
+  literal("trim"),
+  literal("stringify"),
+  literal("capitalize"),
+  literal("slug")
+]);
+var TemplateVariableSchema = object({
+  _tag: literal("variable"),
+  value: string(),
+  transformation: optional(transformations)
+});
+var FrontmatterCommandSchema = object({
+  _tag: literal("frontmatter-command"),
+  pick: array2(string()),
+  omit: array2(string())
+});
+var ParsedTemplateSchema = array2(
+  union4([TemplateTextSchema, TemplateVariableSchema, FrontmatterCommandSchema])
+);
 
 // src/core/template/templateParser.ts
 function TemplateText(value) {
@@ -17126,8 +15730,13 @@ function asFrontmatterString(data) {
       return pick.includes(key) ? Option_exports.some(value) : Option_exports.none;
     }),
     filterMapWithIndex3((key, value) => !omit.includes(key) ? Option_exports.some(value) : Option_exports.none),
-    import_obsidian16.stringifyYaml
+    // stringifyYaml renders an empty object as the literal "{}",
+    // which is invalid when embedded inside a frontmatter block
+    (selected) => Object.keys(selected).length === 0 ? "" : (0, import_obsidian12.stringifyYaml)(selected)
   );
+}
+function toSlug(value) {
+  return value.toLocaleLowerCase().replace(/[\s_]+/g, "-").replace(/[^\p{L}\p{N}-]+/gu, "").replace(/-+/g, "-").replace(/^-+|-+$/g, "");
 }
 function executeTransformation(transformation2) {
   return (value) => {
@@ -17143,10 +15752,24 @@ function executeTransformation(transformation2) {
         return JSON.stringify(value);
       case "trim":
         return String(value).trim();
+      case "capitalize": {
+        const str = String(value);
+        const first2 = str.charAt(0).toUpperCase();
+        return first2 + str.slice(1);
+      }
+      case "slug":
+        return toSlug(String(value));
       default:
         return absurd(transformation2);
     }
   };
+}
+function applyTransformation(name, value) {
+  const transformation2 = name ? pipe2(
+    parse2(transformations, name),
+    fold(constUndefined, identity)
+  ) : void 0;
+  return executeTransformation(transformation2)(value);
 }
 function executeTemplate(parsedTemplate, formData) {
   const toFrontmatter = asFrontmatterString(formData);
@@ -17170,6 +15793,1794 @@ function executeTemplate(parsedTemplate, formData) {
     foldMap3(Monoid)(String)
   );
 }
+
+// src/core/ResultValue.ts
+function _toBulletList(value) {
+  if (Array.isArray(value)) {
+    return value.map((v) => `- ${v}`).join("\n");
+  }
+  return Object.entries(value).map(([key, value2]) => `- ${key}: ${value2}`).join("\n");
+}
+function isRecord(value) {
+  return typeof value === "object" && value !== null && !Array.isArray(value);
+}
+function deepMap(value, fn, iterations = 0) {
+  if (iterations > 10) {
+    return fn(value);
+  }
+  if (Array.isArray(value)) {
+    return value.map((v) => deepMap(v, fn, iterations + 1));
+  }
+  if (isRecord(value)) {
+    return Object.fromEntries(
+      Object.entries(value).map(([key, value2]) => [key, deepMap(value2, fn, iterations + 1)])
+    );
+  }
+  return fn(value);
+}
+var ResultValue = class {
+  constructor(value, name, notify2 = notify2) {
+    this.value = value;
+    this.name = name;
+    this.notify = notify2;
+    /** Alias for `toDataview` */
+    this.toDv = this.toDataview;
+    /** Alias for `toBulletList` */
+    this.toBullets = this.toBulletList;
+  }
+  static from(value, name, notify2 = notifyError) {
+    return new ResultValue(value, name, notify2);
+  }
+  /**
+   * Returns the value as a string.
+   * If the value is an array, it will be joined with a comma.
+   * If the value is an object, it will be stringified.
+   * This is convenient because it is the default method called automatically
+   * when the value needs to be rendered as a string, so you can just drop
+   * the value directly into a template without having to call this method.
+   * @returns string
+   */
+  toString() {
+    switch (typeof this.value) {
+      case "string":
+        return this.value;
+      case "number":
+      case "boolean":
+        return this.value.toString();
+      case "object":
+        if (Array.isArray(this.value)) {
+          return this.value.join(", ");
+        }
+        return JSON.stringify(this.value);
+      default:
+        return "";
+    }
+  }
+  /**
+   * Returns the value as a bullet list.
+   * If the value is empty or undefined, it will return an empty string.
+   * If the value is a single value, it will return as a single item bullet list.
+   * If the value is an array, it will return a bullet list with each item in the array.
+   * If the value is an object, it will return a bullet list with each key/value pair in the object.
+   * @returns string
+   */
+  toBulletList() {
+    switch (typeof this.value) {
+      case "boolean":
+      case "number":
+      case "string":
+        return `- ${this.value}`;
+      case "object": {
+        const value = this.value;
+        if (value == null)
+          return "";
+        if (value instanceof FileProxy) {
+          return `- ${value.name}`;
+        }
+        if (Array.isArray(value)) {
+          return _toBulletList(value);
+        }
+        if (isRecord(value)) {
+          return _toBulletList(value);
+        }
+        return `- ${JSON.stringify(value)}`;
+      }
+      default:
+        return "";
+    }
+  }
+  /**
+   * Converts the value to a dataview property using the field name as the key.
+   * If the value is empty or undefined, it will return an empty string and not render anything.
+   */
+  toDataview() {
+    const value = this.value;
+    if (value === void 0)
+      return "";
+    if (Array.isArray(value)) {
+      return `[${this.name}:: ${JSON.stringify(value).slice(1, -1)}]`;
+    }
+    return `[${this.name}:: ${this.toString()}]`;
+  }
+  /**
+   * Transforms the contained value using the provided function.
+   * If the value is undefined or null the function will not be called
+   * and the result will be the same as the original.
+   * This is useful if you want to apply somme modifications to the value
+   * before rendering it, for example if none of the existing format methods suit your needs.
+   * @param {function} fn the function to transform the values
+   * @returns a new FormValue with the transformed value
+   **/
+  map(fn) {
+    const safeFn = Either_exports.tryCatchK(fn, ensureError);
+    const unchanged = () => this;
+    return pipe2(
+      this.value,
+      Option_exports.fromNullable,
+      Option_exports.map(safeFn),
+      Option_exports.fold(
+        unchanged,
+        (v) => pipe2(
+          v,
+          Either_exports.fold(
+            (e) => {
+              this.notify("Error in map of " + this.name)(e.message);
+              return unchanged();
+            },
+            (v2) => ResultValue.from(v2, this.name, this.notify)
+          )
+        )
+      )
+    );
+  }
+  /**
+   * Convenient getter to get the value as bullets, so you don't need to call `toBulletList` manually.
+   * example:
+   * ```ts
+   *  result.getValue("myField").bullets;
+   * ```
+   */
+  get bullets() {
+    return this.toBulletList();
+  }
+  /**
+   * getter that returns all the string values uppercased.
+   * If the value is an array, it will return an array with all the strings uppercased.
+   * The usage of map is important for safety and method chaining.
+   */
+  get upper() {
+    if (this.value instanceof FileProxy) {
+      return new ResultValue(this.value.name.toLocaleUpperCase(), this.name, this.notify);
+    }
+    return this.map(
+      (v) => deepMap(v, (it) => typeof it === "string" ? it.toLocaleUpperCase() : it)
+    );
+  }
+  /**
+   * getter that returns all the string values lowercased.
+   * If the value is an array, it will return an array with all the strings lowercased.
+   * If the value is an object, it will return an object with all the string values lowercased.
+   * The usage of map is important for safety and method chaining.
+   * @returns FormValue
+   */
+  get lower() {
+    if (this.value instanceof FileProxy) {
+      return new ResultValue(this.value.name.toLocaleLowerCase(), this.name, this.notify);
+    }
+    return this.map(
+      (v) => deepMap(v, (it) => typeof it === "string" ? it.toLocaleLowerCase() : it)
+    );
+  }
+  /**
+   * getter that returns all the string values trimmed.
+   * */
+  get trimmed() {
+    if (this.value instanceof FileProxy) {
+      return new ResultValue(this.value.name.trim(), this.name, this.notify);
+    }
+    return this.map((v) => deepMap(v, (it) => typeof it === "string" ? it.trim() : it));
+  }
+  /**
+   * getter that returns the value with the first character uppercased.
+   * Strings nested in arrays/objects are capitalized individually; non-string
+   * values are returned unchanged. Empty strings stay empty.
+   */
+  get capitalized() {
+    const cap = (s) => s.length === 0 ? s : s.charAt(0).toLocaleUpperCase() + s.slice(1);
+    if (this.value instanceof FileProxy) {
+      return new ResultValue(cap(this.value.name), this.name, this.notify);
+    }
+    return this.map((v) => deepMap(v, (it) => typeof it === "string" ? cap(it) : it));
+  }
+  /**
+   * getter that returns the value converted to a URL/filename-friendly slug.
+   * Strings nested in arrays/objects are slugified individually; non-string
+   * values are returned unchanged. `FileProxy` values are slugified from the
+   * file name so `result.getValue('image').slug` can drive filename
+   * generation.
+   */
+  get slug() {
+    if (this.value instanceof FileProxy) {
+      return new ResultValue(toSlug(this.value.name), this.name, this.notify);
+    }
+    return this.map((v) => deepMap(v, (it) => typeof it === "string" ? toSlug(it) : it));
+  }
+  /**
+   * renders the value as a markdown link.
+   * If the value is a string, it will be rendered as a markdown link.
+   * If the value is a FileProxy (right now just used for images), it will be rendered as an embedded link.
+   * Any other type of value will be rendered as an empty string.
+   */
+  get link() {
+    switch (true) {
+      case typeof this.value === "string":
+        return `[[${this.value}]]`;
+      case this.value instanceof FileProxy:
+        return `![[${this.value.path}]]`;
+      default:
+        return "";
+    }
+  }
+};
+
+// src/core/objectSelect.ts
+var KeysSchema = array2(coerce(string(), String));
+var PickOmitSchema = object({
+  pick: optional(KeysSchema),
+  omit: optional(KeysSchema)
+});
+function picKeys(obj) {
+  return (keys) => pipe2(
+    obj,
+    filterWithIndex3((k) => keys.includes(k))
+  );
+}
+function omitKeys(obj) {
+  return (keys) => pipe2(
+    obj,
+    filterWithIndex3((k) => !keys.includes(k))
+  );
+}
+function objectSelect(obj, opts) {
+  return pipe2(
+    parse2(PickOmitSchema, opts, { abortEarly: true }),
+    Either_exports.map(
+      (opts2) => {
+        const picked = pipe2(
+          fromNullable2(opts2.pick),
+          flatMap3(fromArray),
+          map4(picKeys(obj)),
+          getOrElse2(() => obj)
+        );
+        return pipe2(
+          fromNullable2(opts2.omit),
+          flatMap3(fromArray),
+          map4(omitKeys(picked)),
+          getOrElse2(() => picked)
+        );
+      }
+    ),
+    Either_exports.getOrElse(() => obj)
+  );
+}
+
+// src/core/FormResult.ts
+var FormResult = class {
+  constructor(data, status) {
+    this.data = data;
+    this.status = status;
+    // alias
+    this.getV = this.getValue;
+    /* == Aliases ==*/
+    /** just an alias for `asFrontmatterString` */
+    this.asFrontmatter = this.asFrontmatterString;
+    /** just an alias for `asFrontmatterString` */
+    this.asYaml = this.asFrontmatterString;
+    /** just an alias for `asDataviewProperties` */
+    this.asDataview = this.asDataviewProperties;
+    /** just an alias for `asDataviewProperties` */
+    this.asDv = this.asDataviewProperties;
+  }
+  static make(data, status) {
+    return new Proxy(new FormResult(data, status), {
+      get(target, key, receiver) {
+        if (key in target || typeof key !== "string") {
+          return Reflect.get(target, key, receiver);
+        }
+        return target.getValue(key);
+      }
+    });
+  }
+  /**
+   * Transform  the current data into a frontmatter string, which is expected
+   * to be enclosed in `---` when used in a markdown file.
+   * This method does not add the enclosing `---` to the string,
+   * so you can put it anywhere inside the frontmatter.
+   * @param {Object} [options] an options object describing what options to pick or omit
+   * @param {string[]} [options.pick] an array of key names to pick from the data
+   * @param {string[]} [options.omit] an array of key names to omit from the data
+   * @returns the data formatted as a frontmatter string
+   */
+  asFrontmatterString(options) {
+    const data = objectSelect(this.data, options);
+    if (Object.keys(data).length === 0) {
+      return "";
+    }
+    return (0, import_obsidian13.stringifyYaml)(data);
+  }
+  /**
+   * Return the current data as a block of dataview properties
+   * @param {Object} [options] an options object describing what options to pick or omit
+   * @param {string[]} [options.pick] an array of key names to pick from the data
+   * @param {string[]} [options.omit] an array of key names to omit from the data
+   * @returns string
+   */
+  asDataviewProperties(options) {
+    const data = objectSelect(this.data, options);
+    return Object.entries(data).map(
+      ([key, value]) => `${key}:: ${Array.isArray(value) ? value.map((v) => JSON.stringify(v)) : value}`
+    ).join("\n");
+  }
+  /**
+  Returns a copy of the data contained on this result.
+  */
+  getData() {
+    return { ...this.data };
+  }
+  /**
+   * Returns the data formatted as a string matching the provided
+   * template.
+   *
+   * Variables use the `{{ key }}` syntax. Optional whitespace is allowed
+   * around the key, and a transformation can be applied with `|`, e.g.
+   * `{{ key | upper }}`. Supported transformations match the ones used by
+   * form templates: `upper`, `lower`, `trim`, `stringify`, `capitalize`.
+   * Unknown keys are left untouched (the literal `{{ key }}` stays in the
+   * output) so users can spot typos easily.
+   */
+  asString(template) {
+    return template.replace(
+      /\{\{\s*(\w+)\s*(?:\|\s*(\w+)\s*)?\}\}/g,
+      (match7, key, transformationName) => {
+        const value = this.data[key];
+        if (value === void 0) {
+          return match7;
+        }
+        return applyTransformation(transformationName, value);
+      }
+    );
+  }
+  /**
+   * Gets a single value from the data.
+   * It takes an optiional mapping function thatt can be used to transform the value.
+   * The function will only be called if the value exists.
+   * @param {string} key the key to get the value from
+   * @param {function} [mapFn] a function to transform the value
+   * @returns the value transformed by the function if it was provided, the value or empty string if it doesn't exist
+   */
+  get(key, mapFn) {
+    const value = this.data[key];
+    if (value === void 0) {
+      return "";
+    }
+    if (mapFn) {
+      return mapFn(value);
+    }
+    if (typeof value === "object") {
+      return JSON.stringify(value);
+    }
+    return value;
+  }
+  getValue(key) {
+    return ResultValue.from(this.data[key], key);
+  }
+};
+
+// src/core/formResultTypes.ts
+function isPrimitive(value) {
+  return typeof value === "string" || typeof value === "boolean" || typeof value === "number";
+}
+function isPrimitiveArray(value) {
+  return Array.isArray(value) && value.every(isPrimitive);
+}
+
+// src/core/formDataFromFormDefaults.ts
+function formDataFromFormDefaults(fields, values) {
+  const result2 = {};
+  const invalidKeys = [];
+  for (const [key, value] of Object.entries(values)) {
+    if (Array.isArray(value) && isPrimitiveArray(value)) {
+      result2[key] = value;
+    } else if (isPrimitive(value)) {
+      result2[key] = value;
+    } else {
+      invalidKeys.push(key);
+    }
+  }
+  if (invalidKeys.length > 0) {
+    log_error(new ModalFormError(`Invalid keys in form options: ${invalidKeys.join(", ")}`));
+  }
+  return pipe2(
+    fields,
+    Array_exports.map((field) => {
+      return pipe2(
+        result2[field.name],
+        fromNullable2,
+        match4(() => field.input.type === "toggle" ? some3(false) : none2, some3),
+        map4((value) => [field.name, value])
+      );
+    }),
+    Array_exports.compact,
+    fromEntries
+  );
+}
+
+// src/core/input/index.ts
+var input_exports = {};
+__export(input_exports, {
+  ConditionEq: () => ConditionEq,
+  ConditionSchema: () => ConditionSchema,
+  FileInputSchema: () => FileInputSchema,
+  ImageInputSchema: () => ImageInputSchema,
+  InputBasicSchema: () => InputBasicSchema,
+  InputDataviewSourceSchema: () => InputDataviewSourceSchema,
+  InputFolderSchema: () => InputFolderSchema,
+  InputNoteFromFolderSchema: () => InputNoteFromFolderSchema,
+  InputSelectFixedSchema: () => InputSelectFixedSchema,
+  InputSliderSchema: () => InputSliderSchema,
+  InputTagSchema: () => InputTagSchema,
+  InputTypeSchema: () => InputTypeSchema,
+  InputTypeToParserMap: () => InputTypeToParserMap,
+  MultiselectSchema: () => MultiselectSchema,
+  SelectFromNotesSchema: () => SelectFromNotesSchema,
+  allowsUnknownValues: () => allowsUnknownValues,
+  availableConditionsForInput: () => availableConditionsForInput,
+  canAllowUnknownValues: () => canAllowUnknownValues,
+  getMultiselectNoteFolders: () => getMultiselectNoteFolders,
+  isBasicInputType: () => isBasicInputType,
+  nonEmptyString: () => nonEmptyString,
+  requiresListOfStrings: () => requiresListOfStrings,
+  valueMeetsCondition: () => valueMeetsCondition
+});
+
+// src/core/input/dependentFields.ts
+var isSet = object({ dependencyName: string(), type: literal("isSet") });
+var booleanValue = object({
+  dependencyName: string(),
+  type: literal("boolean"),
+  value: boolean()
+});
+var startsWith2 = object({
+  dependencyName: string(),
+  type: enumType(["startsWith", "endsWith", "isExactly", "contains"]),
+  value: string()
+});
+var above = object({
+  dependencyName: string(),
+  type: enumType(["above", "aboveOrEqual", "below", "belowOrEqual", "exactly"]),
+  value: number()
+});
+var ConditionSchema = union4([isSet, booleanValue, startsWith2, above]);
+var ConditionEq = struct({
+  dependencyName: string_exports.Eq,
+  type: string_exports.Eq,
+  value: string_exports.Eq
+});
+function availableConditionsForInput(input) {
+  switch (input.type) {
+    case "text":
+    case "textarea":
+    case "email":
+    case "folder":
+    case "note":
+    case "tel":
+      return ["isSet", "startsWith", "endsWith", "isExactly", "contains"];
+    case "slider":
+    case "number":
+      return ["isSet", "above", "aboveOrEqual", "below", "belowOrEqual", "exactly"];
+    case "toggle":
+      return ["boolean"];
+    case "date":
+    case "time":
+    case "datetime":
+      return ["isSet"];
+    case "select":
+      return ["startsWith", "endsWith", "isExactly", "contains"];
+    case "multiselect":
+    case "tag":
+    case "dataview":
+    case "document_block":
+    case "markdown_block":
+      return [];
+    case "image":
+    case "file":
+      return ["isSet"];
+    default:
+      return absurd(input);
+  }
+}
+function processIsSet(_condition, value) {
+  if (value === null || value === void 0) {
+    return false;
+  }
+  if (typeof value === "string") {
+    return value !== "";
+  }
+  return true;
+}
+function processStringCondition(condition, value) {
+  if (typeof value !== "string") {
+    return false;
+  }
+  switch (condition.type) {
+    case "startsWith":
+      return value.startsWith(condition.value);
+    case "contains":
+      return value.includes(condition.value);
+    case "endsWith":
+      return value.endsWith(condition.value);
+    case "isExactly":
+      return value === condition.value;
+    default:
+      return absurd(condition.type);
+  }
+}
+function processNumberCondition(condition, value) {
+  if (typeof value !== "number") {
+    return false;
+  }
+  switch (condition.type) {
+    case "above":
+      return value > condition.value;
+    case "below":
+      return value < condition.value;
+    case "aboveOrEqual":
+      return value >= condition.value;
+    case "belowOrEqual":
+      return value <= condition.value;
+    case "exactly":
+      return value === condition.value;
+    default:
+      return absurd(condition.type);
+  }
+}
+function valueMeetsCondition(condition, value) {
+  switch (condition.type) {
+    case "isSet":
+      return processIsSet(condition, value);
+    case "startsWith":
+    case "contains":
+    case "endsWith":
+    case "isExactly":
+      return processStringCondition(condition, value);
+    case "above":
+    case "below":
+    case "aboveOrEqual":
+    case "belowOrEqual":
+    case "exactly":
+      return processNumberCondition(condition, value);
+    case "boolean":
+      return value === condition.value;
+    default:
+      return absurd(condition);
+  }
+}
+
+// src/store/formEngine.ts
+function requiredRule(fieldName, message) {
+  return { tag: "required", message: message != null ? message : `'${fieldName}' is required` };
+}
+function FieldFailed(field, failedRule) {
+  return { ...field, rules: failedRule, errors: [failedRule.message] };
+}
+function nonEmptyValue(s) {
+  switch (typeof s) {
+    case "string":
+      return s.length > 0 ? some3(s) : none2;
+    case "number":
+    case "boolean":
+      return some3(s);
+    case "object":
+      return Array.isArray(s) ? s.length > 0 ? some3(s) : none2 : none2;
+    default:
+      return absurd(s);
+  }
+}
+function parseField(field) {
+  if (!field.rules)
+    return right3(field);
+  const rule = field.rules;
+  switch (rule.tag) {
+    case "required":
+      return pipe2(
+        field.value,
+        chain3(nonEmptyValue),
+        match4(
+          () => left3(FieldFailed(field, rule)),
+          (value) => right3(field)
+        )
+      );
+    default:
+      return absurd(rule.tag);
+  }
+}
+function parseForm(fields) {
+  const { right: ok, left: failed } = pipe2(
+    fields,
+    Object.values,
+    map2(parseField),
+    separate
+  );
+  if (failed.length > 0)
+    return left3(failed);
+  return right3(
+    pipe2(
+      ok,
+      map2(
+        (field) => pipe2(
+          field.value,
+          map4((value) => [field.name, value])
+        )
+      ),
+      compact,
+      fromEntries
+    )
+  );
+}
+function makeFormEngine({
+  onSubmit,
+  onCancel,
+  defaultValues = {},
+  logger: l = logger
+}) {
+  const formStore = writable({ fields: {}, status: "draft" });
+  function setFormField({ name, input }) {
+    const isNumericField = (input == null ? void 0 : input.type) === "number" || (input == null ? void 0 : input.type) === "slider";
+    function coerceValue(value) {
+      if (isNumericField && typeof value === "string" && value !== "") {
+        const num = Number(value);
+        if (!isNaN(num))
+          return num;
+      }
+      return value;
+    }
+    function initField(errors2 = [], rules) {
+      const defaultValue = defaultValues[name];
+      formStore.update((form) => {
+        return {
+          ...form,
+          fields: {
+            ...form.fields,
+            [name]: {
+              value: pipe2(
+                fromNullable2(defaultValue),
+                map4(coerceValue)
+              ),
+              name,
+              errors: errors2,
+              rules
+            }
+          }
+        };
+      });
+    }
+    function setValue(value) {
+      formStore.update((form) => {
+        const field = form.fields[name];
+        if (!field) {
+          l.error(new Error(`Field ${name} does not exist`));
+          return form;
+        }
+        return {
+          ...form,
+          fields: {
+            ...form.fields,
+            [name]: { ...field, value: some3(coerceValue(value)), errors: [] }
+          }
+        };
+      });
+    }
+    return { initField, setValue };
+  }
+  function setErrors(failedFields) {
+    formStore.update((form) => {
+      return pipe2(
+        failedFields,
+        reduce3(form, (form2, field) => {
+          return {
+            ...form2,
+            fields: { ...form2.fields, [field.name]: field }
+          };
+        })
+      );
+    });
+  }
+  const errors = derived(
+    formStore,
+    ({ fields }) => pipe2(
+      fields,
+      toEntries,
+      filterMap(([_, f]) => f.errors.length > 0 ? some3(f.errors) : none2),
+      flatten
+    )
+  );
+  return {
+    subscribe: formStore.subscribe,
+    errors,
+    isValid: derived(
+      formStore,
+      ({ fields }) => pipe2(
+        fields,
+        toEntries,
+        some2(([_, f]) => f.errors.length > 0),
+        (x) => !x
+      )
+    ),
+    triggerSubmit() {
+      formStore.update((form) => ({ ...form, status: "submitted" }));
+      const formState = get_store_value(formStore);
+      pipe2(
+        formState.fields,
+        parseForm,
+        match3(setErrors, onSubmit)
+      );
+    },
+    triggerCancel() {
+      formStore.update((form) => ({ ...form, status: "cancelled" }));
+      onCancel == null ? void 0 : onCancel();
+    },
+    addField(field) {
+      l.debug("Adding field", field.name);
+      const { initField: setField, setValue } = setFormField(field);
+      setField([], field.isRequired ? requiredRule(field.label || field.name) : void 0);
+      const fieldStore = derived(formStore, ({ fields }) => fields[field.name]);
+      const fieldValueStore = {
+        subscribe(cb) {
+          return fieldStore.subscribe(
+            (x) => pipe2(
+              x,
+              fromNullable2,
+              chain3((x2) => x2.value),
+              map4(cb)
+            )
+          );
+        },
+        set(value) {
+          setValue(value);
+        },
+        update: (updater) => {
+          formStore.update((form) => {
+            const current = form.fields[field.name];
+            if (!current) {
+              console.error(new Error(`Field ${field.name} does not exist`));
+              return form;
+            }
+            const newValue = pipe2(
+              // fuck prettier
+              current.value,
+              input_exports.requiresListOfStrings(field.input) ? match4(() => of5(updater([])), flow2(updater, of5)) : map4(updater)
+            );
+            return {
+              ...form,
+              fields: {
+                ...form.fields,
+                [field.name]: {
+                  ...current,
+                  value: newValue,
+                  errors: []
+                }
+              }
+            };
+          });
+        }
+      };
+      const isVisible = derived(formStore, ($form) => {
+        l.debug(
+          "condition",
+          field.name,
+          field.condition && $form.fields[field.condition.dependencyName]
+        );
+        if (isBasicInputType(field.input)) {
+          if (field.input.hidden) {
+            return of4(false);
+          }
+        }
+        if (field.isRequired)
+          return of4(true);
+        const condition = field.condition;
+        if (condition === void 0)
+          return of4(true);
+        return pipe2(
+          $form.fields[condition.dependencyName],
+          fromNullable(
+            `Field '${condition.dependencyName}' which is a dependency of '${field.name}' does not exist`
+          ),
+          map3((f) => valueMeetsCondition(condition, toUndefined(f.value)))
+        );
+      });
+      return {
+        value: fieldValueStore,
+        isVisible,
+        errors: derived(formStore, ({ fields }) => {
+          var _a, _b;
+          return (_b = (_a = fields[field.name]) == null ? void 0 : _a.errors) != null ? _b : [];
+        })
+      };
+    }
+  };
+}
+
+// src/FormModal.ts
+var notify = throttle(
+  (msg) => log_notice("\u26A0\uFE0F  The form has errors \u26A0\uFE0F", msg.join("\n"), "notice-warning"),
+  2e3
+);
+var FormModal2 = class extends import_obsidian14.Modal {
+  constructor(app, modalDefinition, onSubmit, options) {
+    var _a;
+    super(app);
+    this.modalDefinition = modalDefinition;
+    this.onSubmit = onSubmit;
+    this.svelteComponents = [];
+    this.subscriptions = [];
+    this.hasBeenHandled = false;
+    this.initialFormValues = formDataFromFormDefaults(
+      modalDefinition.fields,
+      (_a = options == null ? void 0 : options.values) != null ? _a : {}
+    );
+    this.formEngine = makeFormEngine({
+      onSubmit: (result2) => {
+        this.hasBeenHandled = true;
+        this.onSubmit(FormResult.make(result2, "ok"));
+        super.close();
+      },
+      onCancel: () => {
+        this.hasBeenHandled = true;
+        this.onSubmit(FormResult.make({}, "cancelled"));
+        super.close();
+      },
+      defaultValues: this.initialFormValues
+    });
+  }
+  // Override the close method to handle X button and outside clicks
+  close() {
+    if (!this.hasBeenHandled) {
+      this.hasBeenHandled = true;
+      this.onSubmit(FormResult.make({}, "cancelled"));
+    }
+    super.close();
+  }
+  onOpen() {
+    const { contentEl } = this;
+    contentEl.addClass("modal-form");
+    if (this.modalDefinition.customClassname)
+      contentEl.addClass(this.modalDefinition.customClassname);
+    contentEl.createEl("h1", { text: this.modalDefinition.title });
+    this.svelteComponents.push(
+      new FormModal_default({
+        target: contentEl,
+        props: {
+          formEngine: this.formEngine,
+          fields: this.modalDefinition.fields,
+          app: this.app,
+          reportFormErrors: notify
+        }
+      })
+    );
+    const buttons = new import_obsidian14.Setting(contentEl).addButton(
+      (btn) => btn.setButtonText("Cancel").onClick(this.formEngine.triggerCancel)
+    );
+    buttons.addButton(
+      (btn) => btn.setButtonText("Submit").setCta().onClick(this.formEngine.triggerSubmit)
+    );
+    const submitEnterCallback = (evt) => {
+      if ((evt.ctrlKey || evt.metaKey) && evt.key === "Enter") {
+        evt.preventDefault();
+        this.formEngine.triggerSubmit();
+      }
+    };
+    const cancelEscapeCallback = (evt) => {
+      if (!(evt.ctrlKey || evt.metaKey) && evt.key === "Escape") {
+        evt.preventDefault();
+        this.formEngine.triggerCancel();
+      }
+    };
+    contentEl.addEventListener("keydown", submitEnterCallback);
+    contentEl.addEventListener("keydown", cancelEscapeCallback);
+  }
+  onClose() {
+    const { contentEl } = this;
+    this.svelteComponents.forEach((component) => component.$destroy());
+    this.subscriptions.forEach((subscription) => subscription());
+    contentEl.empty();
+    this.initialFormValues = {};
+  }
+};
+
+// src/core/findInputDefinitionSchema.ts
+function stringifyIssues(error2) {
+  return error2.issues.map(
+    (issue) => {
+      var _a;
+      return `${(_a = issue.path) == null ? void 0 : _a.map((i) => i.key).join(".")}: ${issue.message} got ${issue.input}`;
+    }
+  );
+}
+var InvalidInputTypeError = class {
+  constructor(field, inputType2) {
+    this.field = field;
+    this.inputType = inputType2;
+    this.path = "input.type";
+  }
+  toString() {
+    return `InvalidInputTypeError: ${this.getFieldErrors()[0]}`;
+  }
+  getFieldErrors() {
+    return [`"input.type" is invalid, got: ${JSON.stringify(this.inputType)}`];
+  }
+};
+InvalidInputTypeError._tag = "InvalidInputTypeError";
+var InvalidInputError = class {
+  constructor(field, error2) {
+    this.field = field;
+    this.error = error2;
+    var _a, _b;
+    this.path = (_b = (_a = error2.issues[0].path) == null ? void 0 : _a.map((i) => i.key).join(".")) != null ? _b : "";
+  }
+  toString() {
+    return `InvalidInputError: ${stringifyIssues(this.error).join(", ")}`;
+  }
+  getFieldErrors() {
+    return stringifyIssues(this.error);
+  }
+};
+InvalidInputError._tag = "InvalidInputError";
+var _InvalidFieldError = class {
+  constructor(field, error2) {
+    this.field = field;
+    this.error = error2;
+    var _a, _b;
+    this.path = (_b = (_a = error2.issues[0].path) == null ? void 0 : _a.map((i) => i.key).join(".")) != null ? _b : "";
+  }
+  toString() {
+    return `InvalidFieldError: ${stringifyIssues(this.error).join(", ")}`;
+  }
+  toArrayOfStrings() {
+    return this.getFieldErrors();
+  }
+  getFieldErrors() {
+    return stringifyIssues(this.error);
+  }
+  static of(field) {
+    return (error2) => new _InvalidFieldError(field, error2);
+  }
+};
+var InvalidFieldError = _InvalidFieldError;
+InvalidFieldError._tag = "InvalidFieldError";
+function isValidInputType(input) {
+  return "string" === typeof input && input in InputTypeToParserMap;
+}
+function findInputDefinitionSchema(fieldDefinition) {
+  return pipe2(
+    parse2(FieldMinimalSchema, fieldDefinition),
+    mapLeft(InvalidFieldError.of(fieldDefinition)),
+    chainW((field) => {
+      const type = field.input.type;
+      if (isValidInputType(type))
+        return right3([field, InputTypeToParserMap[type]]);
+      else
+        return left3(new InvalidInputTypeError(field, type));
+    })
+  );
+}
+function findFieldErrors(fields) {
+  return pipe2(
+    fields,
+    Array_exports.partitionMap((fieldUnparsed) => {
+      return pipe2(
+        findInputDefinitionSchema(fieldUnparsed),
+        chainW(
+          ([field, parser]) => pipe2(
+            parser(field.input),
+            bimap(
+              (error2) => new InvalidInputError(field, error2),
+              () => field
+            )
+          )
+        )
+      );
+    })
+    // Separated.left,
+  );
+}
+
+// src/core/formDefinitionSchema.ts
+var FieldDefinitionSchema = object({
+  name: nonEmptyString("field name"),
+  label: optional(string()),
+  description: string(),
+  isRequired: optional(boolean()),
+  condition: optional(input_exports.ConditionSchema),
+  input: InputTypeSchema
+});
+var FieldMinimalSchema = passthrough(
+  merge([FieldDefinitionSchema, object({ input: passthrough(object({ type: string() })) })])
+);
+var FieldListSchema = array2(FieldDefinitionSchema);
+var FormDefinitionBasicSchema = object({
+  title: nonEmptyString("form title"),
+  name: nonEmptyString("form name"),
+  customClassname: optional(string()),
+  fields: array2(unknown())
+});
+var FormDefinitionV1Schema = merge([
+  FormDefinitionBasicSchema,
+  object({
+    version: literal("1"),
+    fields: FieldListSchema,
+    template: optional(
+      object({
+        createInsertCommand: optional(boolean(), () => false),
+        createNoteCommand: optional(boolean(), () => false),
+        parsedTemplate: ParsedTemplateSchema
+      })
+    )
+  })
+]);
+var FormDefinitionLatestSchema = FormDefinitionV1Schema;
+var MigrationError = class {
+  constructor(form, error2) {
+    this.form = form;
+    this.error = error2;
+    this.name = form.name;
+  }
+  toString() {
+    return `MigrationError: 
+            ${this.error.message}
+            ${this.error.issues.map((issue) => issue.message).join(", ")}`;
+  }
+  toArrayOfStrings() {
+    return stringifyIssues(this.error);
+  }
+  // This allows to store the error in the settings, along with the rest of the forms and
+  // have save all the data in one go transparently.
+  // This is required so we don't lose the form, even if it is invalid
+  toJSON() {
+    return this.form;
+  }
+  get fieldErrors() {
+    return findFieldErrors(this.form.fields);
+  }
+};
+MigrationError._tag = "MigrationError";
+var InvalidData = class {
+  constructor(data, error2) {
+    this.data = data;
+    this.error = error2;
+  }
+  toString() {
+    return `InvalidData: ${stringifyIssues(this.error).join(", ")}`;
+  }
+  toArrayOfStrings() {
+    return stringifyIssues(this.error);
+  }
+};
+InvalidData._tag = "InvalidData";
+function fromV0toV1(data) {
+  return pipe2(
+    parse2(FormDefinitionV1Schema, { ...data, version: "1" }),
+    getOrElseW((error2) => new MigrationError(data, error2))
+  );
+}
+function migrateToLatest(data) {
+  return pipe2(
+    // first try a quick one with the latest schema
+    parse2(FormDefinitionLatestSchema, data, { abortEarly: true }),
+    orElse(
+      () => pipe2(
+        parse2(FormDefinitionBasicSchema, data, { abortEarly: false }),
+        mapLeft((error2) => new InvalidData(data, error2)),
+        map3(fromV0toV1)
+      )
+    )
+  );
+}
+function formNeedsMigration(data) {
+  return !is(FormDefinitionLatestSchema, data);
+}
+
+// src/core/formDefinition.ts
+var InputTypeReadable = {
+  text: "Text",
+  number: "Number",
+  tag: "Tags",
+  email: "Email",
+  tel: "Phone",
+  date: "Date",
+  time: "Time",
+  datetime: "DateTime",
+  textarea: "Text area",
+  toggle: "Toggle",
+  note: "Note",
+  folder: "Folder",
+  slider: "Slider",
+  select: "Select",
+  dataview: "Dataview",
+  multiselect: "Multiselect",
+  document_block: "Document block",
+  markdown_block: "Markdown block",
+  image: "Image",
+  file: "File"
+};
+function validateFields(fields) {
+  const result2 = safeParse(FieldListSchema, fields);
+  if (result2.success) {
+    return [];
+  }
+  return result2.issues.map((issue) => {
+    var _a, _b, _c, _d;
+    return {
+      message: issue.message,
+      path: (_a = issue.path) == null ? void 0 : _a.map((item2) => item2.key).join("."),
+      index: (_d = (_c = (_b = issue.path) == null ? void 0 : _b[0]) == null ? void 0 : _c.key) != null ? _d : 0
+    };
+  });
+}
+function isValidFormDefinition(input) {
+  if (!is(FormDefinitionBasicSchema, input)) {
+    return false;
+  }
+  const fieldsAreValid = is(FieldListSchema, input.fields);
+  if (!fieldsAreValid) {
+    return false;
+  }
+  return true;
+}
+function duplicateForm(formName, forms) {
+  return pipe2(
+    forms,
+    Array_exports.findFirstMap((f) => {
+      if (f instanceof MigrationError) {
+        return Option_exports.none;
+      }
+      if (f.name === formName) {
+        return Option_exports.some(f);
+      }
+      return Option_exports.none;
+    }),
+    Option_exports.map((f) => {
+      let newName = f.name + "-copy";
+      let i = 1;
+      while (forms.some((f2) => f2.name === newName)) {
+        newName = f.name + "-copy-" + i;
+        i++;
+      }
+      return { ...f, name: newName };
+    }),
+    Option_exports.map((f) => {
+      return [...forms, f];
+    }),
+    Option_exports.getOrElse(() => forms)
+  );
+}
+
+// src/core/FormBuilder.ts
+var FormBuilder = class {
+  constructor({ name, fields, title, version }, reporter) {
+    this.reporter = reporter;
+    this.addField = ({ name, label, description, required }, input) => {
+      const textField = {
+        name,
+        label,
+        description: description || "",
+        isRequired: required,
+        input
+      };
+      return new FormBuilder(
+        {
+          ...this.definition,
+          fields: [...this.definition.fields, textField]
+        },
+        this.reporter
+      );
+    };
+    this.addTextField = ({ name, label, description, required, hidden }) => this.addField({ name, label, description, required }, { type: "text", hidden: Boolean(hidden) });
+    this.text = this.addTextField;
+    this.addNumberField = ({ name, label, description, required, hidden }) => this.addField({ name, label, description, required }, { type: "number", hidden: Boolean(hidden) });
+    this.addDateField = ({ name, label, description, required, hidden }) => this.addField({ name, label, description, required }, { type: "date", hidden: Boolean(hidden) });
+    this.addTimeField = ({ name, label, description, required, hidden }) => this.addField({ name, label, description, required }, { type: "time", hidden: Boolean(hidden) });
+    this.addDateTimeField = ({ name, label, description, required, hidden }) => this.addField({ name, label, description, required }, { type: "datetime", hidden: Boolean(hidden) });
+    this.addTextareaField = ({ name, label, description, required, hidden }) => this.addField({ name, label, description, required }, { type: "textarea", hidden: Boolean(hidden) });
+    this.addToggleField = ({ name, label, description, required, hidden }) => this.addField({ name, label, description, required }, { type: "toggle", hidden: Boolean(hidden) });
+    this.addEmailField = ({ name, label, description, required, hidden }) => this.addField({ name, label, description, required }, { type: "email", hidden: Boolean(hidden) });
+    this.addTelField = ({ name, label, description, required, hidden }) => this.addField({ name, label, description, required }, { type: "tel", hidden: Boolean(hidden) });
+    this.addNoteField = ({ name, label, description, required, folder }) => this.addField({ name, label, description, required }, { type: "note", folder });
+    this.addFolderField = ({
+      name,
+      label,
+      description,
+      required,
+      parentFolder
+    }) => this.addField({ name, label, description, required }, { type: "folder", parentFolder });
+    this.addSliderField = ({
+      name,
+      label,
+      description,
+      required,
+      min: min3,
+      max: max3
+    }) => this.addField({ name, label, description, required }, { type: "slider", min: min3 != null ? min3 : 0, max: max3 });
+    this.addTagField = ({ name, label, description, required, hidden }) => this.addField({ name, label, description, required }, { type: "tag", hidden: Boolean(hidden) });
+    this.addSelectField = ({
+      name,
+      label,
+      description,
+      required,
+      options
+    }) => this.addField(
+      { name, label, description, required },
+      {
+        type: "select",
+        source: "fixed",
+        options: options.map((o) => typeof o === "string" ? { value: o, label: o } : o)
+      }
+    );
+    this.addDataviewField = ({ name, label, description, required, query }) => this.addField({ name, label, description, required }, { type: "dataview", query });
+    this.addMultiselectField = ({
+      name,
+      label,
+      description,
+      required,
+      allowUnknownValues,
+      options
+    }) => this.addField(
+      { name, label, description, required },
+      {
+        type: "multiselect",
+        source: "fixed",
+        multi_select_options: options,
+        allowUnknownValues: Boolean(allowUnknownValues)
+      }
+    );
+    this.addMultiselectNotesField = ({
+      name,
+      label,
+      description,
+      required,
+      folder,
+      folders
+    }) => this.addField(
+      { name, label, description, required },
+      {
+        type: "multiselect",
+        source: "notes",
+        folder,
+        ...folders != null && folders.length > 0 ? { folders } : {}
+      }
+    );
+    this.addDocumentBlockField = ({ name, label, description, required, body }) => this.addField({ name, label, description, required }, { type: "document_block", body });
+    this.addMarkdownBlockField = ({ name, label, description, required, body }) => this.addField({ name, label, description, required }, { type: "markdown_block", body });
+    this.addImageField = ({
+      name,
+      label,
+      description,
+      required,
+      filenameTemplate,
+      saveLocation
+    }) => this.addField(
+      { name, label, description, required },
+      { type: "image", filenameTemplate, saveLocation }
+    );
+    this.addFileField = ({
+      name,
+      label,
+      description,
+      required,
+      folder,
+      allowedExtensions
+    }) => this.addField({ name, label, description, required }, { type: "file", folder, allowedExtensions });
+    this.number = this.addNumberField;
+    this.date = this.addDateField;
+    this.time = this.addTimeField;
+    this.datetime = this.addDateTimeField;
+    this.textarea = this.addTextareaField;
+    this.toggle = this.addToggleField;
+    this.email = this.addEmailField;
+    this.tel = this.addTelField;
+    this.note = this.addNoteField;
+    this.folder = this.addFolderField;
+    this.slider = this.addSliderField;
+    this.tag = this.addTagField;
+    this.select = this.addSelectField;
+    this.dataview = this.addDataviewField;
+    this.multiselect = this.addMultiselectField;
+    this.document_block = this.addDocumentBlockField;
+    this.markdown_block = this.addMarkdownBlockField;
+    this.image = this.addImageField;
+    this.file = this.addFileField;
+    this.build = () => {
+      const fieldsValidation = validateFields(this.definition.fields);
+      if (fieldsValidation.length > 0) {
+        this.reporter(
+          "\u{1F6A7} Error building form \u{1F6A7}",
+          fieldsValidation.map((x) => `${x.path}: ${x.message}`).join("\n")
+        );
+      }
+      return this.definition;
+    };
+    this.definition = { name, fields, title, version };
+  }
+};
+var makeBuilder = (reporter) => function createBuilder(name, title, fields = []) {
+  return new FormBuilder({ name, title: title || name, fields, version: "1" }, reporter);
+};
+
+// src/exampleModalDefinition.ts
+var exampleModalDefinition = {
+  title: "Example form",
+  name: "example-form",
+  version: "1",
+  fields: [
+    {
+      name: "name",
+      label: "Name",
+      description: "It is named how?",
+      isRequired: true,
+      input: { type: "text", hidden: false }
+    },
+    {
+      name: "age",
+      label: "Age",
+      description: "How old",
+      isRequired: true,
+      input: { type: "number", hidden: false }
+    },
+    {
+      name: "dateOfBirth",
+      label: "Date of Birth",
+      description: "When were you born?",
+      input: { type: "date", hidden: false }
+    },
+    {
+      name: "timeOfDay",
+      label: "Time of day",
+      description: "The time you can do this",
+      input: { type: "time", hidden: false }
+    },
+    {
+      name: "is_family",
+      label: "Is family",
+      description: "If it is part of the family",
+      input: { type: "toggle", hidden: false }
+    },
+    {
+      name: "favorite_book",
+      label: "Favorite book",
+      description: "Pick one",
+      input: { type: "note", folder: "Books" }
+    },
+    {
+      name: "folder",
+      label: "The destination folder",
+      description: "It offers auto-completion to existing folders",
+      input: { type: "folder" }
+    },
+    {
+      name: "multi_example",
+      label: "Multi select folder",
+      description: "Allows to pick many notes from a folder",
+      input: { type: "multiselect", source: "notes", folder: "Books" }
+    },
+    {
+      name: "multi_example_folders",
+      label: "Multi select multiple folders",
+      description: "Allows to pick many notes from multiple folders",
+      input: {
+        type: "multiselect",
+        source: "notes",
+        folder: "Books",
+        folders: ["People"]
+      }
+    },
+    {
+      name: "multi_example_2",
+      label: "Multi select fixed",
+      description: "Allows to pick many notes from a fixed list",
+      input: {
+        type: "multiselect",
+        source: "fixed",
+        allowUnknownValues: false,
+        multi_select_options: [
+          "Android",
+          "iOS",
+          "Windows",
+          "MacOS",
+          "Linux",
+          "Solaris",
+          "MS2"
+        ]
+      }
+    },
+    {
+      name: "multi_select_dataview",
+      label: "Multi select dataview",
+      description: "Allows to pick several values from a dv query",
+      input: {
+        type: "multiselect",
+        source: "dataview",
+        query: 'dv.pages("#person").map(p => p.file.name)',
+        allowUnknownValues: true
+      }
+    },
+    {
+      name: "best_fried",
+      label: "Best friend",
+      description: "Select of type note from a folder",
+      input: {
+        type: "select",
+        source: "notes",
+        folder: "People"
+      }
+    },
+    {
+      name: "dataview_example",
+      label: "Dataview example",
+      description: "Only people matching the dataview query will be shown",
+      input: {
+        type: "dataview",
+        query: 'dv.pages("#person").filter(p => p.age < 30).map(p => p.file.name)'
+      }
+    },
+    {
+      name: "friendship_level",
+      label: "Friendship level",
+      description: "How good friends are you?",
+      input: {
+        type: "slider",
+        min: 0,
+        max: 10
+      }
+    },
+    {
+      name: "favorite_meal",
+      label: "Favorite meal",
+      description: "Pick one option",
+      input: {
+        type: "select",
+        source: "fixed",
+        options: [
+          { value: "pizza", label: "\u{1F355} Pizza" },
+          { value: "pasta", label: "\u{1F35D} Pasta" },
+          { value: "burger", label: "\u{1F354} Burger" },
+          { value: "salad", label: "\u{1F957} Salad" },
+          { value: "steak", label: "\u{1F969} Steak" },
+          { value: "sushi", label: "\u{1F363} Sushi" },
+          { value: "ramen", label: "\u{1F35C} Ramen" },
+          { value: "tacos", label: "\u{1F32E} Tacos" },
+          { value: "fish", label: "\u{1F41F} Fish" },
+          { value: "chicken", label: "\u{1F357} Chicken" }
+        ]
+      }
+    },
+    {
+      name: "some notes",
+      label: "Multi line notes",
+      description: "Put your thoughts here",
+      input: {
+        type: "textarea",
+        hidden: false
+      }
+    },
+    {
+      name: "hidden_field",
+      label: "This field is hidden",
+      description: "It is useful for internal data",
+      input: { type: "text", hidden: true }
+    },
+    {
+      name: "Tags",
+      description: "Tags input example",
+      input: { type: "tag", hidden: false }
+    },
+    {
+      name: "profile_picture",
+      label: "Profile Picture",
+      description: "Upload a profile picture. It will be saved in the attachments folder with the current date.",
+      input: {
+        type: "image",
+        saveLocation: "attachments/profile_pictures",
+        filenameTemplate: "profile-{{datetime}}.png"
+      }
+    },
+    {
+      name: "pdf",
+      description: "PDF example",
+      input: {
+        type: "file",
+        folder: "attachments/pdfs",
+        allowedExtensions: ["pdf"]
+      }
+    },
+    {
+      name: "document",
+      description: "Document block example",
+      input: {
+        type: "document_block",
+        body: "return `Hello ${form.name}!<br> Your best friend is <b>${form.best_fried}</b>`"
+      }
+    }
+  ]
+};
+
+// src/API.ts
+function isPickOption(opts) {
+  return "pick" in opts && Array.isArray(opts.pick);
+}
+function isOmitOption(opts) {
+  return "omit" in opts && Array.isArray(opts.omit);
+}
+var API = class {
+  /**
+   * Constructor for the API class
+   * @param {App} app - The application instance
+   * @param {typeof ModalFormPlugin} plugin - The plugin instance
+   */
+  constructor(app, plugin) {
+    this.app = app;
+    this.plugin = plugin;
+    /**
+     * What this plugin considers its standard library
+     * Because it is bundled with the plugin anyway, I think
+     * it makes sense to expose it to the user
+     */
+    this.std = std_exports;
+    this.util = {
+      getAliases: flow2(
+        (name) => resolve_tfile(name, this.app),
+        Either_exports.map((f) => this.app.metadataCache.getCache(f.path)),
+        Either_exports.chainW(Either_exports.fromNullable(new Error("No cache found"))),
+        Either_exports.map((tf) => (0, import_obsidian15.parseFrontMatterAliases)(tf.frontmatter)),
+        Either_exports.match(
+          () => [],
+          (aliases) => aliases
+        )
+      ),
+      getFile: flow2(
+        resolve_tfile,
+        Either_exports.map((f) => enrich_tfile(f, this.app))
+      )
+    };
+    this.builder = makeBuilder((title, message) => log_notice(message, title));
+  }
+  /**
+   * Opens a modal form with the provided form definition
+   * @param {FormDefinition} formDefinition - The form definition to use
+   * @returns {Promise<FormResult>} - A promise that resolves with the form result
+   */
+  openModalForm(formDefinition, options) {
+    return new Promise((resolve) => {
+      new FormModal2(this.app, formDefinition, resolve, options).open();
+    });
+  }
+  exampleForm(options) {
+    return this.openModalForm(exampleModalDefinition, options);
+  }
+  getFormByName(name) {
+    var _a;
+    const form = (_a = this.plugin.settings) == null ? void 0 : _a.formDefinitions.find((form2) => form2.name === name);
+    if (form instanceof MigrationError) {
+      log_notice(
+        "\u{1F6AB} The form you tried to load has an invalid format",
+        `The form "${name}" has an invalid format.We tried to automatically convert it but it failed, please fix it manually in the forms manager.
+            `
+      );
+      return void 0;
+    } else {
+      return form;
+    }
+  }
+  /**
+   * Opens a named form
+   * @param {string} name - The name of the form to open
+   * @returns {Promise<FormResult>} - A promise that resolves with the form result
+   * @throws {ModalFormError} - Throws an error if the form definition is not found
+   */
+  namedForm(name, options) {
+    const formDefinition = this.getFormByName(name);
+    if (formDefinition) {
+      return this.openModalForm(formDefinition, options);
+    } else {
+      const error2 = new ModalFormError(`Form definition ${name} not found`);
+      log_error(error2);
+      return Promise.reject(error2);
+    }
+  }
+  /**
+   * Opens a named form, limiting/filtering the fields included
+   * @param {string} name - The name of the form to open
+   * @param {limitOptions} limitOpts - The options to apply when filtering fields
+   * @param {FormOptions} formOpts - Form options to use when opening the form once filtered
+   * @returns {Promise<FormResult>} - A promise that resolves with the form result
+   * @throws {ModalFormError} - Throws an error if the form definition is not found
+   */
+  limitedForm(name, limitOpts, formOpts) {
+    const formDefinition = this.getFormByName(name);
+    let newFormDefinition;
+    if (formDefinition) {
+      if (isOmitOption(limitOpts)) {
+        const omit = limitOpts.omit;
+        newFormDefinition = {
+          ...formDefinition,
+          fields: formDefinition.fields.filter((field) => !omit.includes(field.name))
+        };
+      } else if (isPickOption(limitOpts)) {
+        newFormDefinition = {
+          ...formDefinition,
+          fields: formDefinition.fields.filter(
+            (field) => limitOpts.pick.includes(field.name)
+          )
+        };
+      } else {
+        throw new ModalFormError(
+          "Invalid limit options provided to limitedForm",
+          `GOT: ${JSON.stringify(limitOpts)}`
+        );
+      }
+      return this.openModalForm(newFormDefinition, formOpts);
+    } else {
+      const error2 = new ModalFormError(`Form definition ${name} not found`);
+      log_error(error2);
+      return Promise.reject(error2);
+    }
+  }
+  /**
+   * Opens a form with the provided form reference
+   * @param {string | FormDefinition} formReference - The form reference, either a form name of an existing form or an inline form definition
+   * @returns {Promise<FormResult>} - A promise that resolves with the form result
+   * @throws {ModalFormError} - Throws an error if the form reference is not found
+   */
+  openForm(formReference, options) {
+    if (typeof formReference === "string") {
+      return this.namedForm(formReference, options);
+    } else {
+      return this.openModalForm(formReference, options);
+    }
+  }
+  openInTemplateBuilder(name) {
+    const form = this.getFormByName(name);
+    if (form) {
+      this.plugin.openTemplateBuilder({ formDefinition: form });
+    }
+  }
+};
+
+// src/ModalFormSettingTab.ts
+var import_obsidian16 = require("obsidian");
+
+// src/core/settings.ts
+var OpenPositionSchema = enumType(["left", "right", "mainView"]);
+function isValidOpenPosition(position) {
+  return is(OpenPositionSchema, position);
+}
+var ModalFormSettingsSchema = object({
+  editorPosition: optional(OpenPositionSchema, "right"),
+  attachShortcutToGlobalWindow: optional(boolean(), false),
+  globalNamespace: optional(enumType(["MF", "ModalForm"]), "MF"),
+  formDefinitions: array2(unknown())
+});
+function getDefaultSettings() {
+  return {
+    editorPosition: "right",
+    attachShortcutToGlobalWindow: false,
+    globalNamespace: "MF",
+    formDefinitions: []
+  };
+}
+var NullSettingsError = class {
+  constructor() {
+    this._tag = "NullSettingsError";
+  }
+};
+function parseSettings(maybeSettings) {
+  return pipe2(
+    maybeSettings,
+    fromNullable(new NullSettingsError()),
+    chainW((s) => parse2(ModalFormSettingsSchema, { ...getDefaultSettings(), ...s }))
+  );
+}
+
+// src/ModalFormSettingTab.ts
+var ModalFormSettingTab = class extends import_obsidian16.PluginSettingTab {
+  constructor(app, plugin) {
+    super(app, plugin);
+    this.plugin = plugin;
+  }
+  async display() {
+    const { containerEl, plugin } = this;
+    containerEl.empty();
+    containerEl.createEl("a", {
+      text: "Modal Form documentation",
+      cls: "nav-link",
+      href: "https://github.com/danielo515/obsidian-modal-form"
+    });
+    const settings2 = await plugin.getSettings();
+    new import_obsidian16.Setting(containerEl).setName("Editor position").setDesc("Where the form editor will be opened. In mobile it will always be main view.").addDropdown((component) => {
+      component.addOptions({
+        left: "Left",
+        right: "Right",
+        mainView: "Main View"
+      }).setValue(settings2.editorPosition).onChange(async (value) => {
+        if (isValidOpenPosition(value)) {
+          await this.plugin.setEditorPosition(value);
+        }
+      });
+    });
+    new import_obsidian16.Setting(containerEl).setName("Attach Modal-Form Shortcut to Global Window").setDesc(
+      "Enable or disable attaching a modal-form shortcut to the global window. If you enable this you will be able to access the API using the global variable `MF`. Enabling is immediate, disabling requires a restart."
+    ).addToggle((component) => {
+      component.setValue(settings2.attachShortcutToGlobalWindow).onChange(async (value) => {
+        await this.plugin.setAttachShortcutToGlobalWindow(value);
+      });
+    });
+  }
+};
+
+// src/views/EditFormView.ts
+var import_obsidian23 = require("obsidian");
+
+// src/store/SettngsStore.ts
+var settings = writable({ ...getDefaultSettings() });
+var formsStore = derived(
+  settings,
+  ($settings) => pipe2(
+    $settings.formDefinitions,
+    Array_exports.filter((form) => !(form instanceof MigrationError))
+  )
+);
+var { subscribe: subscribe2, update: update2, set } = settings;
+var invalidFormsStore = derived(settings, ($settings) => {
+  return pipe2(
+    $settings.formDefinitions,
+    Array_exports.filter((form) => form instanceof MigrationError)
+  );
+});
+var settingsStore = {
+  subscribe: subscribe2,
+  set,
+  updateForm(name, form) {
+    let edited = false;
+    update2((s) => {
+      const forms = s.formDefinitions.map((f) => {
+        if (f.name === name) {
+          edited = true;
+          return form;
+        }
+        return f;
+      });
+      return { ...s, formDefinitions: edited ? forms : [...s.formDefinitions, form] };
+    });
+  },
+  addNewForm(form) {
+    update2((s) => {
+      const forms = [...s.formDefinitions, form];
+      return { ...s, formDefinitions: forms };
+    });
+  },
+  removeForm(name) {
+    update2((s) => {
+      const forms = s.formDefinitions.filter((f) => f.name !== name);
+      return { ...s, formDefinitions: forms };
+    });
+  },
+  duplicateForm(formName) {
+    update2((s) => {
+      return { ...s, formDefinitions: duplicateForm(formName, s.formDefinitions) };
+    });
+  }
+};
+
+// src/views/FormBuilder.svelte
+var import_obsidian22 = require("obsidian");
 
 // node_modules/svelte/src/runtime/easing/index.js
 function cubicOut(t) {
@@ -20627,28 +21038,35 @@ var InputBuilderImage_default = InputBuilderImage;
 // src/views/components/InputBuilderSelect.svelte
 var import_obsidian21 = require("obsidian");
 function add_css12(target) {
-  append_styles(target, "svelte-15a6dqv", "button.svelte-15a6dqv:disabled{opacity:0.5;cursor:forbidden}.unknown-checkbox.svelte-15a6dqv{display:flex;flex-direction:column;align-items:flex-start}");
+  append_styles(target, "svelte-1qme3ev", "button.svelte-1qme3ev:disabled{opacity:0.5;cursor:forbidden}.unknown-checkbox.svelte-1qme3ev{display:flex;flex-direction:column;align-items:flex-start}.modal-form-folder-row.svelte-1qme3ev{display:flex;flex-direction:row;gap:0.5rem;align-items:flex-end}.modal-form-folder-row.svelte-1qme3ev .modal-form{flex:1}.modal-form-folder-action.svelte-1qme3ev{margin-bottom:0.4rem}");
+}
+function get_each_context_14(ctx, list, i) {
+  const child_ctx = ctx.slice();
+  child_ctx[33] = list[i];
+  child_ctx[34] = list;
+  child_ctx[31] = i;
+  return child_ctx;
 }
 function get_each_context6(ctx, list, i) {
   const child_ctx = ctx.slice();
-  child_ctx[24] = list[i];
-  child_ctx[26] = list;
-  child_ctx[27] = i;
+  child_ctx[28] = list[i];
+  child_ctx[30] = list;
+  child_ctx[31] = i;
   const constants_0 = `${/*options_id*/
-  child_ctx[10]}_option_${/*idx*/
-  child_ctx[27]}`;
-  child_ctx[25] = constants_0;
+  child_ctx[11]}_option_${/*idx*/
+  child_ctx[31]}`;
+  child_ctx[29] = constants_0;
   return child_ctx;
 }
 function get_else_ctx2(ctx) {
   const child_ctx = ctx.slice();
   const constants_0 = `${/*options_id*/
-  child_ctx[10]}_option_label_${/*idx*/
-  child_ctx[27]}`;
-  child_ctx[28] = constants_0;
+  child_ctx[11]}_option_label_${/*idx*/
+  child_ctx[31]}`;
+  child_ctx[32] = constants_0;
   return child_ctx;
 }
-function create_if_block_54(ctx) {
+function create_if_block_72(ctx) {
   let option_1;
   return {
     c() {
@@ -20667,7 +21085,7 @@ function create_if_block_54(ctx) {
     }
   };
 }
-function create_if_block_44(ctx) {
+function create_if_block_63(ctx) {
   let label;
   let span0;
   let input_1;
@@ -20687,14 +21105,14 @@ function create_if_block_44(ctx) {
       span1.textContent = "If checked, the user will be able to type any value in the input even if it is not\n                in the list of options.";
       attr(input_1, "type", "checkbox");
       attr(span1, "class", "modal-form-hint");
-      attr(label, "class", "unknown-checkbox svelte-15a6dqv");
+      attr(label, "class", "unknown-checkbox svelte-1qme3ev");
     },
     m(target, anchor) {
       insert(target, label, anchor);
       append5(label, span0);
       append5(span0, input_1);
       input_1.checked = /*allowUnknownValues*/
-      ctx[3];
+      ctx[4];
       append5(span0, t0);
       append5(label, t1);
       append5(label, span1);
@@ -20703,16 +21121,16 @@ function create_if_block_44(ctx) {
           input_1,
           "change",
           /*input_1_change_handler*/
-          ctx[14]
+          ctx[15]
         );
         mounted = true;
       }
     },
     p(ctx2, dirty) {
-      if (dirty & /*allowUnknownValues*/
-      8) {
+      if (dirty[0] & /*allowUnknownValues*/
+      16) {
         input_1.checked = /*allowUnknownValues*/
-        ctx2[3];
+        ctx2[4];
       }
     },
     d(detaching) {
@@ -20734,11 +21152,11 @@ function create_default_slot_7(ctx) {
   let dispose;
   let if_block0 = (
     /*is_multi*/
-    ctx[8] && create_if_block_54(ctx)
+    ctx[9] && create_if_block_72(ctx)
   );
   let if_block1 = (
     /*showAllowUnknownValuesOption*/
-    ctx[9] && create_if_block_44(ctx)
+    ctx[10] && create_if_block_63(ctx)
   );
   return {
     c() {
@@ -20761,7 +21179,7 @@ function create_default_slot_7(ctx) {
         select,
         "id",
         /*id*/
-        ctx[11]
+        ctx[12]
       );
       if (
         /*source*/
@@ -20769,7 +21187,7 @@ function create_default_slot_7(ctx) {
       )
         add_render_callback(() => (
           /*select_change_handler*/
-          ctx[13].call(select)
+          ctx[14].call(select)
         ));
     },
     m(target, anchor) {
@@ -20793,7 +21211,7 @@ function create_default_slot_7(ctx) {
           select,
           "change",
           /*select_change_handler*/
-          ctx[13]
+          ctx[14]
         );
         mounted = true;
       }
@@ -20801,11 +21219,11 @@ function create_default_slot_7(ctx) {
     p(ctx2, dirty) {
       if (
         /*is_multi*/
-        ctx2[8]
+        ctx2[9]
       ) {
         if (if_block0) {
         } else {
-          if_block0 = create_if_block_54(ctx2);
+          if_block0 = create_if_block_72(ctx2);
           if_block0.c();
           if_block0.m(select, null);
         }
@@ -20813,16 +21231,16 @@ function create_default_slot_7(ctx) {
         if_block0.d(1);
         if_block0 = null;
       }
-      if (dirty & /*id*/
-      2048) {
+      if (dirty[0] & /*id*/
+      4096) {
         attr(
           select,
           "id",
           /*id*/
-          ctx2[11]
+          ctx2[12]
         );
       }
-      if (dirty & /*source*/
+      if (dirty[0] & /*source*/
       1) {
         select_option(
           select,
@@ -20832,12 +21250,12 @@ function create_default_slot_7(ctx) {
       }
       if (
         /*showAllowUnknownValuesOption*/
-        ctx2[9]
+        ctx2[10]
       ) {
         if (if_block1) {
           if_block1.p(ctx2, dirty);
         } else {
-          if_block1 = create_if_block_44(ctx2);
+          if_block1 = create_if_block_63(ctx2);
           if_block1.c();
           if_block1.m(if_block1_anchor.parentNode, if_block1_anchor);
         }
@@ -20861,21 +21279,21 @@ function create_default_slot_7(ctx) {
     }
   };
 }
-function create_if_block_34(ctx) {
+function create_if_block_54(ctx) {
   let inputbuilderdataview;
   let updating_value;
   let current;
   function inputbuilderdataview_value_binding(value) {
-    ctx[23](value);
+    ctx[27](value);
   }
   let inputbuilderdataview_props = {
     index: (
       /*index*/
-      ctx[5]
+      ctx[6]
     ),
     app: (
       /*app*/
-      ctx[6]
+      ctx[7]
     )
   };
   if (
@@ -20897,15 +21315,15 @@ function create_if_block_34(ctx) {
     },
     p(ctx2, dirty) {
       const inputbuilderdataview_changes = {};
-      if (dirty & /*index*/
-      32)
-        inputbuilderdataview_changes.index = /*index*/
-        ctx2[5];
-      if (dirty & /*app*/
+      if (dirty[0] & /*index*/
       64)
-        inputbuilderdataview_changes.app = /*app*/
+        inputbuilderdataview_changes.index = /*index*/
         ctx2[6];
-      if (!updating_value && dirty & /*query*/
+      if (dirty[0] & /*app*/
+      128)
+        inputbuilderdataview_changes.app = /*app*/
+        ctx2[7];
+      if (!updating_value && dirty[0] & /*query*/
       2) {
         updating_value = true;
         inputbuilderdataview_changes.value = /*query*/
@@ -20930,24 +21348,28 @@ function create_if_block_34(ctx) {
   };
 }
 function create_if_block_24(ctx) {
+  let div;
   let inputfolder;
   let updating_folder;
+  let t0;
+  let t1;
+  let if_block1_anchor;
   let current;
   function inputfolder_folder_binding(value) {
-    ctx[22](value);
+    ctx[23](value);
   }
   let inputfolder_props = {
     index: (
       /*index*/
-      ctx[5]
+      ctx[6]
     ),
     notifyChange: (
       /*notifyChange*/
-      ctx[7]
+      ctx[8]
     ),
     app: (
       /*app*/
-      ctx[6]
+      ctx[7]
     )
   };
   if (
@@ -20959,29 +21381,55 @@ function create_if_block_24(ctx) {
   }
   inputfolder = new InputBuilderFolder_default({ props: inputfolder_props });
   binding_callbacks.push(() => bind6(inputfolder, "folder", inputfolder_folder_binding));
+  let if_block0 = (
+    /*is_multi*/
+    ctx[9] && create_if_block_44(ctx)
+  );
+  let if_block1 = (
+    /*is_multi*/
+    ctx[9] && /*folders*/
+    ctx[3] != null && create_if_block_34(ctx)
+  );
   return {
     c() {
+      div = element("div");
       create_component(inputfolder.$$.fragment);
+      t0 = space();
+      if (if_block0)
+        if_block0.c();
+      t1 = space();
+      if (if_block1)
+        if_block1.c();
+      if_block1_anchor = empty4();
+      attr(div, "class", "modal-form-folder-row svelte-1qme3ev");
     },
     m(target, anchor) {
-      mount_component(inputfolder, target, anchor);
+      insert(target, div, anchor);
+      mount_component(inputfolder, div, null);
+      append5(div, t0);
+      if (if_block0)
+        if_block0.m(div, null);
+      insert(target, t1, anchor);
+      if (if_block1)
+        if_block1.m(target, anchor);
+      insert(target, if_block1_anchor, anchor);
       current = true;
     },
     p(ctx2, dirty) {
       const inputfolder_changes = {};
-      if (dirty & /*index*/
-      32)
-        inputfolder_changes.index = /*index*/
-        ctx2[5];
-      if (dirty & /*notifyChange*/
-      128)
-        inputfolder_changes.notifyChange = /*notifyChange*/
-        ctx2[7];
-      if (dirty & /*app*/
+      if (dirty[0] & /*index*/
       64)
-        inputfolder_changes.app = /*app*/
+        inputfolder_changes.index = /*index*/
         ctx2[6];
-      if (!updating_folder && dirty & /*folder*/
+      if (dirty[0] & /*notifyChange*/
+      256)
+        inputfolder_changes.notifyChange = /*notifyChange*/
+        ctx2[8];
+      if (dirty[0] & /*app*/
+      128)
+        inputfolder_changes.app = /*app*/
+        ctx2[7];
+      if (!updating_folder && dirty[0] & /*folder*/
       4) {
         updating_folder = true;
         inputfolder_changes.folder = /*folder*/
@@ -20989,19 +21437,69 @@ function create_if_block_24(ctx) {
         add_flush_callback(() => updating_folder = false);
       }
       inputfolder.$set(inputfolder_changes);
+      if (
+        /*is_multi*/
+        ctx2[9]
+      ) {
+        if (if_block0) {
+          if_block0.p(ctx2, dirty);
+        } else {
+          if_block0 = create_if_block_44(ctx2);
+          if_block0.c();
+          if_block0.m(div, null);
+        }
+      } else if (if_block0) {
+        if_block0.d(1);
+        if_block0 = null;
+      }
+      if (
+        /*is_multi*/
+        ctx2[9] && /*folders*/
+        ctx2[3] != null
+      ) {
+        if (if_block1) {
+          if_block1.p(ctx2, dirty);
+          if (dirty[0] & /*is_multi, folders*/
+          520) {
+            transition_in(if_block1, 1);
+          }
+        } else {
+          if_block1 = create_if_block_34(ctx2);
+          if_block1.c();
+          transition_in(if_block1, 1);
+          if_block1.m(if_block1_anchor.parentNode, if_block1_anchor);
+        }
+      } else if (if_block1) {
+        group_outros();
+        transition_out(if_block1, 1, 1, () => {
+          if_block1 = null;
+        });
+        check_outros();
+      }
     },
     i(local) {
       if (current)
         return;
       transition_in(inputfolder.$$.fragment, local);
+      transition_in(if_block1);
       current = true;
     },
     o(local) {
       transition_out(inputfolder.$$.fragment, local);
+      transition_out(if_block1);
       current = false;
     },
     d(detaching) {
-      destroy_component(inputfolder, detaching);
+      if (detaching) {
+        detach(div);
+        detach(t1);
+        detach(if_block1_anchor);
+      }
+      destroy_component(inputfolder);
+      if (if_block0)
+        if_block0.d();
+      if (if_block1)
+        if_block1.d(detaching);
     }
   };
 }
@@ -21013,7 +21511,7 @@ function create_if_block13(ctx) {
       label: "Options",
       id: (
         /*options_id*/
-        ctx[10]
+        ctx[11]
       ),
       $$slots: { default: [create_default_slot12] },
       $$scope: { ctx }
@@ -21029,12 +21527,13 @@ function create_if_block13(ctx) {
     },
     p(ctx2, dirty) {
       const formrow_changes = {};
-      if (dirty & /*options_id*/
-      1024)
+      if (dirty[0] & /*options_id*/
+      2048)
         formrow_changes.id = /*options_id*/
-        ctx2[10];
-      if (dirty & /*$$scope, options, options_id, notifyChange, is_multi*/
-      536872336) {
+        ctx2[11];
+      if (dirty[0] & /*options, options_id, notifyChange, is_multi*/
+      2848 | dirty[1] & /*$$scope*/
+      16) {
         formrow_changes.$$scope = { dirty, ctx: ctx2 };
       }
       formrow.$set(formrow_changes);
@@ -21054,6 +21553,250 @@ function create_if_block13(ctx) {
     }
   };
 }
+function create_if_block_44(ctx) {
+  let button;
+  let mounted;
+  let dispose;
+  return {
+    c() {
+      button = element("button");
+      button.textContent = "Add folder";
+      attr(button, "class", "modal-form-folder-action svelte-1qme3ev");
+      attr(button, "type", "button");
+    },
+    m(target, anchor) {
+      insert(target, button, anchor);
+      if (!mounted) {
+        dispose = listen(
+          button,
+          "click",
+          /*click_handler_4*/
+          ctx[24]
+        );
+        mounted = true;
+      }
+    },
+    p: noop,
+    d(detaching) {
+      if (detaching) {
+        detach(button);
+      }
+      mounted = false;
+      dispose();
+    }
+  };
+}
+function create_if_block_34(ctx) {
+  let each_1_anchor;
+  let current;
+  let each_value_1 = ensure_array_like(
+    /*folders*/
+    ctx[3]
+  );
+  let each_blocks = [];
+  for (let i = 0; i < each_value_1.length; i += 1) {
+    each_blocks[i] = create_each_block_14(get_each_context_14(ctx, each_value_1, i));
+  }
+  const out = (i) => transition_out(each_blocks[i], 1, 1, () => {
+    each_blocks[i] = null;
+  });
+  return {
+    c() {
+      for (let i = 0; i < each_blocks.length; i += 1) {
+        each_blocks[i].c();
+      }
+      each_1_anchor = empty4();
+    },
+    m(target, anchor) {
+      for (let i = 0; i < each_blocks.length; i += 1) {
+        if (each_blocks[i]) {
+          each_blocks[i].m(target, anchor);
+        }
+      }
+      insert(target, each_1_anchor, anchor);
+      current = true;
+    },
+    p(ctx2, dirty) {
+      if (dirty[0] & /*folders, notifyChange, index, app*/
+      456) {
+        each_value_1 = ensure_array_like(
+          /*folders*/
+          ctx2[3]
+        );
+        let i;
+        for (i = 0; i < each_value_1.length; i += 1) {
+          const child_ctx = get_each_context_14(ctx2, each_value_1, i);
+          if (each_blocks[i]) {
+            each_blocks[i].p(child_ctx, dirty);
+            transition_in(each_blocks[i], 1);
+          } else {
+            each_blocks[i] = create_each_block_14(child_ctx);
+            each_blocks[i].c();
+            transition_in(each_blocks[i], 1);
+            each_blocks[i].m(each_1_anchor.parentNode, each_1_anchor);
+          }
+        }
+        group_outros();
+        for (i = each_value_1.length; i < each_blocks.length; i += 1) {
+          out(i);
+        }
+        check_outros();
+      }
+    },
+    i(local) {
+      if (current)
+        return;
+      for (let i = 0; i < each_value_1.length; i += 1) {
+        transition_in(each_blocks[i]);
+      }
+      current = true;
+    },
+    o(local) {
+      each_blocks = each_blocks.filter(Boolean);
+      for (let i = 0; i < each_blocks.length; i += 1) {
+        transition_out(each_blocks[i]);
+      }
+      current = false;
+    },
+    d(detaching) {
+      if (detaching) {
+        detach(each_1_anchor);
+      }
+      destroy_each(each_blocks, detaching);
+    }
+  };
+}
+function create_each_block_14(ctx) {
+  let div;
+  let inputfolder;
+  let updating_folder;
+  let t0;
+  let button;
+  let setIcon_action;
+  let t1;
+  let current;
+  let mounted;
+  let dispose;
+  function inputfolder_folder_binding_1(value) {
+    ctx[25](
+      value,
+      /*idx*/
+      ctx[31]
+    );
+  }
+  let inputfolder_props = {
+    index: (
+      /*index*/
+      ctx[6] * 100 + /*idx*/
+      ctx[31] + 1
+    ),
+    notifyChange: (
+      /*notifyChange*/
+      ctx[8]
+    ),
+    app: (
+      /*app*/
+      ctx[7]
+    )
+  };
+  if (
+    /*folders*/
+    ctx[3][
+      /*idx*/
+      ctx[31]
+    ] !== void 0
+  ) {
+    inputfolder_props.folder = /*folders*/
+    ctx[3][
+      /*idx*/
+      ctx[31]
+    ];
+  }
+  inputfolder = new InputBuilderFolder_default({ props: inputfolder_props });
+  binding_callbacks.push(() => bind6(inputfolder, "folder", inputfolder_folder_binding_1));
+  function click_handler_5() {
+    return (
+      /*click_handler_5*/
+      ctx[26](
+        /*idx*/
+        ctx[31]
+      )
+    );
+  }
+  return {
+    c() {
+      div = element("div");
+      create_component(inputfolder.$$.fragment);
+      t0 = space();
+      button = element("button");
+      t1 = space();
+      attr(button, "class", "modal-form-folder-action svelte-1qme3ev");
+      attr(button, "type", "button");
+      attr(div, "class", "modal-form-folder-row svelte-1qme3ev");
+    },
+    m(target, anchor) {
+      insert(target, div, anchor);
+      mount_component(inputfolder, div, null);
+      append5(div, t0);
+      append5(div, button);
+      append5(div, t1);
+      current = true;
+      if (!mounted) {
+        dispose = [
+          action_destroyer(setIcon_action = import_obsidian21.setIcon.call(null, button, "trash")),
+          listen(button, "click", click_handler_5)
+        ];
+        mounted = true;
+      }
+    },
+    p(new_ctx, dirty) {
+      ctx = new_ctx;
+      const inputfolder_changes = {};
+      if (dirty[0] & /*index*/
+      64)
+        inputfolder_changes.index = /*index*/
+        ctx[6] * 100 + /*idx*/
+        ctx[31] + 1;
+      if (dirty[0] & /*notifyChange*/
+      256)
+        inputfolder_changes.notifyChange = /*notifyChange*/
+        ctx[8];
+      if (dirty[0] & /*app*/
+      128)
+        inputfolder_changes.app = /*app*/
+        ctx[7];
+      if (!updating_folder && dirty[0] & /*folders*/
+      8) {
+        updating_folder = true;
+        inputfolder_changes.folder = /*folders*/
+        ctx[3][
+          /*idx*/
+          ctx[31]
+        ];
+        add_flush_callback(() => updating_folder = false);
+      }
+      inputfolder.$set(inputfolder_changes);
+    },
+    i(local) {
+      if (current)
+        return;
+      transition_in(inputfolder.$$.fragment, local);
+      current = true;
+    },
+    o(local) {
+      transition_out(inputfolder.$$.fragment, local);
+      current = false;
+    },
+    d(detaching) {
+      if (detaching) {
+        detach(div);
+      }
+      destroy_component(inputfolder);
+      mounted = false;
+      run_all(dispose);
+    }
+  };
+}
 function create_default_slot_6(ctx) {
   let button;
   let button_disabled_value;
@@ -21063,9 +21806,9 @@ function create_default_slot_6(ctx) {
   function click_handler_1() {
     return (
       /*click_handler_1*/
-      ctx[16](
+      ctx[17](
         /*idx*/
-        ctx[27]
+        ctx[31]
       )
     );
   }
@@ -21074,8 +21817,8 @@ function create_default_slot_6(ctx) {
       button = element("button");
       attr(button, "type", "button");
       button.disabled = button_disabled_value = /*idx*/
-      ctx[27] === 0;
-      attr(button, "class", "svelte-15a6dqv");
+      ctx[31] === 0;
+      attr(button, "class", "svelte-1qme3ev");
     },
     m(target, anchor) {
       insert(target, button, anchor);
@@ -21108,9 +21851,9 @@ function create_default_slot_5(ctx) {
   function click_handler_2() {
     return (
       /*click_handler_2*/
-      ctx[17](
+      ctx[18](
         /*idx*/
-        ctx[27]
+        ctx[31]
       )
     );
   }
@@ -21120,9 +21863,9 @@ function create_default_slot_5(ctx) {
       button = element("button");
       attr(button, "type", "button");
       button.disabled = button_disabled_value = /*idx*/
-      ctx[27] === /*options*/
-      ((_a = ctx[4]) == null ? void 0 : _a.length) - 1;
-      attr(button, "class", "svelte-15a6dqv");
+      ctx[31] === /*options*/
+      ((_a = ctx[5]) == null ? void 0 : _a.length) - 1;
+      attr(button, "class", "svelte-1qme3ev");
     },
     m(target, anchor) {
       insert(target, button, anchor);
@@ -21137,10 +21880,10 @@ function create_default_slot_5(ctx) {
     p(new_ctx, dirty) {
       var _a;
       ctx = new_ctx;
-      if (dirty & /*options*/
-      16 && button_disabled_value !== (button_disabled_value = /*idx*/
-      ctx[27] === /*options*/
-      ((_a = ctx[4]) == null ? void 0 : _a.length) - 1)) {
+      if (dirty[0] & /*options*/
+      32 && button_disabled_value !== (button_disabled_value = /*idx*/
+      ctx[31] === /*options*/
+      ((_a = ctx[5]) == null ? void 0 : _a.length) - 1)) {
         button.disabled = button_disabled_value;
       }
     },
@@ -21162,7 +21905,7 @@ function create_else_block6(ctx) {
       label: "Label",
       id: (
         /*label_id*/
-        ctx[28]
+        ctx[32]
       ),
       $$slots: { default: [create_default_slot_4] },
       $$scope: { ctx }
@@ -21173,7 +21916,7 @@ function create_else_block6(ctx) {
       label: "Value",
       id: (
         /*value_id*/
-        ctx[25]
+        ctx[29]
       ),
       $$slots: { default: [create_default_slot_32] },
       $$scope: { ctx }
@@ -21191,22 +21934,24 @@ function create_else_block6(ctx) {
     },
     p(ctx2, dirty) {
       const formrow0_changes = {};
-      if (dirty & /*options_id*/
-      1024)
+      if (dirty[0] & /*options_id*/
+      2048)
         formrow0_changes.id = /*label_id*/
-        ctx2[28];
-      if (dirty & /*$$scope, options_id, options*/
-      536871952) {
+        ctx2[32];
+      if (dirty[0] & /*options_id, options*/
+      2080 | dirty[1] & /*$$scope*/
+      16) {
         formrow0_changes.$$scope = { dirty, ctx: ctx2 };
       }
       formrow0.$set(formrow0_changes);
       const formrow1_changes = {};
-      if (dirty & /*options_id*/
-      1024)
+      if (dirty[0] & /*options_id*/
+      2048)
         formrow1_changes.id = /*value_id*/
-        ctx2[25];
-      if (dirty & /*$$scope, options_id, options*/
-      536871952) {
+        ctx2[29];
+      if (dirty[0] & /*options_id, options*/
+      2080 | dirty[1] & /*$$scope*/
+      16) {
         formrow1_changes.$$scope = { dirty, ctx: ctx2 };
       }
       formrow1.$set(formrow1_changes);
@@ -21237,7 +21982,7 @@ function create_if_block_110(ctx) {
       label: "Value",
       id: (
         /*value_id*/
-        ctx[25]
+        ctx[29]
       ),
       $$slots: { default: [create_default_slot_23] },
       $$scope: { ctx }
@@ -21253,12 +21998,13 @@ function create_if_block_110(ctx) {
     },
     p(ctx2, dirty) {
       const formrow_changes = {};
-      if (dirty & /*options_id*/
-      1024)
+      if (dirty[0] & /*options_id*/
+      2048)
         formrow_changes.id = /*value_id*/
-        ctx2[25];
-      if (dirty & /*$$scope, options_id, options*/
-      536871952) {
+        ctx2[29];
+      if (dirty[0] & /*options_id, options*/
+      2080 | dirty[1] & /*$$scope*/
+      16) {
         formrow_changes.$$scope = { dirty, ctx: ctx2 };
       }
       formrow.$set(formrow_changes);
@@ -21284,12 +22030,12 @@ function create_default_slot_4(ctx) {
   let mounted;
   let dispose;
   function input_1_input_handler_1() {
-    ctx[19].call(
+    ctx[20].call(
       input_1,
       /*each_value*/
-      ctx[26],
+      ctx[30],
       /*idx*/
-      ctx[27]
+      ctx[31]
     );
   }
   return {
@@ -21298,14 +22044,14 @@ function create_default_slot_4(ctx) {
       attr(input_1, "type", "text");
       attr(input_1, "placeholder", "Label");
       attr(input_1, "id", input_1_id_value = /*label_id*/
-      ctx[28]);
+      ctx[32]);
     },
     m(target, anchor) {
       insert(target, input_1, anchor);
       set_input_value(
         input_1,
         /*option*/
-        ctx[24].label
+        ctx[28].label
       );
       if (!mounted) {
         dispose = listen(input_1, "input", input_1_input_handler_1);
@@ -21314,18 +22060,18 @@ function create_default_slot_4(ctx) {
     },
     p(new_ctx, dirty) {
       ctx = new_ctx;
-      if (dirty & /*options_id*/
-      1024 && input_1_id_value !== (input_1_id_value = /*label_id*/
-      ctx[28])) {
+      if (dirty[0] & /*options_id*/
+      2048 && input_1_id_value !== (input_1_id_value = /*label_id*/
+      ctx[32])) {
         attr(input_1, "id", input_1_id_value);
       }
-      if (dirty & /*options*/
-      16 && input_1.value !== /*option*/
-      ctx[24].label) {
+      if (dirty[0] & /*options*/
+      32 && input_1.value !== /*option*/
+      ctx[28].label) {
         set_input_value(
           input_1,
           /*option*/
-          ctx[24].label
+          ctx[28].label
         );
       }
     },
@@ -21344,12 +22090,12 @@ function create_default_slot_32(ctx) {
   let mounted;
   let dispose;
   function input_1_input_handler_2() {
-    ctx[20].call(
+    ctx[21].call(
       input_1,
       /*each_value*/
-      ctx[26],
+      ctx[30],
       /*idx*/
-      ctx[27]
+      ctx[31]
     );
   }
   return {
@@ -21358,14 +22104,14 @@ function create_default_slot_32(ctx) {
       attr(input_1, "type", "text");
       attr(input_1, "placeholder", "Value");
       attr(input_1, "id", input_1_id_value = /*value_id*/
-      ctx[25]);
+      ctx[29]);
     },
     m(target, anchor) {
       insert(target, input_1, anchor);
       set_input_value(
         input_1,
         /*option*/
-        ctx[24].value
+        ctx[28].value
       );
       if (!mounted) {
         dispose = listen(input_1, "input", input_1_input_handler_2);
@@ -21374,18 +22120,18 @@ function create_default_slot_32(ctx) {
     },
     p(new_ctx, dirty) {
       ctx = new_ctx;
-      if (dirty & /*options_id*/
-      1024 && input_1_id_value !== (input_1_id_value = /*value_id*/
-      ctx[25])) {
+      if (dirty[0] & /*options_id*/
+      2048 && input_1_id_value !== (input_1_id_value = /*value_id*/
+      ctx[29])) {
         attr(input_1, "id", input_1_id_value);
       }
-      if (dirty & /*options*/
-      16 && input_1.value !== /*option*/
-      ctx[24].value) {
+      if (dirty[0] & /*options*/
+      32 && input_1.value !== /*option*/
+      ctx[28].value) {
         set_input_value(
           input_1,
           /*option*/
-          ctx[24].value
+          ctx[28].value
         );
       }
     },
@@ -21404,12 +22150,12 @@ function create_default_slot_23(ctx) {
   let mounted;
   let dispose;
   function input_1_input_handler() {
-    ctx[18].call(
+    ctx[19].call(
       input_1,
       /*each_value*/
-      ctx[26],
+      ctx[30],
       /*idx*/
-      ctx[27]
+      ctx[31]
     );
   }
   return {
@@ -21418,14 +22164,14 @@ function create_default_slot_23(ctx) {
       attr(input_1, "type", "text");
       attr(input_1, "placeholder", "Value");
       attr(input_1, "id", input_1_id_value = /*value_id*/
-      ctx[25]);
+      ctx[29]);
     },
     m(target, anchor) {
       insert(target, input_1, anchor);
       set_input_value(
         input_1,
         /*option*/
-        ctx[24]
+        ctx[28]
       );
       if (!mounted) {
         dispose = listen(input_1, "input", input_1_input_handler);
@@ -21434,18 +22180,18 @@ function create_default_slot_23(ctx) {
     },
     p(new_ctx, dirty) {
       ctx = new_ctx;
-      if (dirty & /*options_id*/
-      1024 && input_1_id_value !== (input_1_id_value = /*value_id*/
-      ctx[25])) {
+      if (dirty[0] & /*options_id*/
+      2048 && input_1_id_value !== (input_1_id_value = /*value_id*/
+      ctx[29])) {
         attr(input_1, "id", input_1_id_value);
       }
-      if (dirty & /*options*/
-      16 && input_1.value !== /*option*/
-      ctx[24]) {
+      if (dirty[0] & /*options*/
+      32 && input_1.value !== /*option*/
+      ctx[28]) {
         set_input_value(
           input_1,
           /*option*/
-          ctx[24]
+          ctx[28]
         );
       }
     },
@@ -21467,9 +22213,9 @@ function create_default_slot_16(ctx) {
   function click_handler_3() {
     return (
       /*click_handler_3*/
-      ctx[21](
+      ctx[22](
         /*idx*/
-        ctx[27]
+        ctx[31]
       )
     );
   }
@@ -21477,9 +22223,9 @@ function create_default_slot_16(ctx) {
     c() {
       button = element("button");
       attr(button, "id", button_id_value = "button" + /*value_id*/
-      ctx[25]);
+      ctx[29]);
       attr(button, "type", "button");
-      attr(button, "class", "svelte-15a6dqv");
+      attr(button, "class", "svelte-1qme3ev");
     },
     m(target, anchor) {
       insert(target, button, anchor);
@@ -21493,9 +22239,9 @@ function create_default_slot_16(ctx) {
     },
     p(new_ctx, dirty) {
       ctx = new_ctx;
-      if (dirty & /*options_id*/
-      1024 && button_id_value !== (button_id_value = "button" + /*value_id*/
-      ctx[25])) {
+      if (dirty[0] & /*options_id*/
+      2048 && button_id_value !== (button_id_value = "button" + /*value_id*/
+      ctx[29])) {
         attr(button, "id", button_id_value);
       }
     },
@@ -21524,7 +22270,7 @@ function create_each_block6(ctx) {
     props: {
       label: "Button",
       id: "button-up" + /*value_id*/
-      ctx[25],
+      ctx[29],
       hideLabel: true,
       $$slots: { default: [create_default_slot_6] },
       $$scope: { ctx }
@@ -21534,7 +22280,7 @@ function create_each_block6(ctx) {
     props: {
       label: "Button",
       id: "button-down" + /*value_id*/
-      ctx[25],
+      ctx[29],
       hideLabel: true,
       $$slots: { default: [create_default_slot_5] },
       $$scope: { ctx }
@@ -21544,7 +22290,7 @@ function create_each_block6(ctx) {
   const if_blocks = [];
   function select_block_type_1(ctx2, dirty) {
     if ("string" == typeof /*option*/
-    ctx2[24])
+    ctx2[28])
       return 0;
     return 1;
   }
@@ -21553,13 +22299,13 @@ function create_each_block6(ctx) {
       return get_else_ctx2(ctx2);
     return ctx2;
   }
-  current_block_type_index = select_block_type_1(ctx, -1);
+  current_block_type_index = select_block_type_1(ctx, [-1, -1]);
   if_block = if_blocks[current_block_type_index] = if_block_creators[current_block_type_index](select_block_ctx(ctx, current_block_type_index));
   formrow2 = new FormRow_default({
     props: {
       label: "Delete",
       id: "button" + /*value_id*/
-      ctx[25],
+      ctx[29],
       hideLabel: true,
       $$slots: { default: [create_default_slot_16] },
       $$scope: { ctx }
@@ -21592,22 +22338,23 @@ function create_each_block6(ctx) {
     },
     p(ctx2, dirty) {
       const formrow0_changes = {};
-      if (dirty & /*options_id*/
-      1024)
+      if (dirty[0] & /*options_id*/
+      2048)
         formrow0_changes.id = "button-up" + /*value_id*/
-        ctx2[25];
-      if (dirty & /*$$scope*/
-      536870912) {
+        ctx2[29];
+      if (dirty[1] & /*$$scope*/
+      16) {
         formrow0_changes.$$scope = { dirty, ctx: ctx2 };
       }
       formrow0.$set(formrow0_changes);
       const formrow1_changes = {};
-      if (dirty & /*options_id*/
-      1024)
+      if (dirty[0] & /*options_id*/
+      2048)
         formrow1_changes.id = "button-down" + /*value_id*/
-        ctx2[25];
-      if (dirty & /*$$scope, options*/
-      536870928) {
+        ctx2[29];
+      if (dirty[0] & /*options*/
+      32 | dirty[1] & /*$$scope*/
+      16) {
         formrow1_changes.$$scope = { dirty, ctx: ctx2 };
       }
       formrow1.$set(formrow1_changes);
@@ -21632,12 +22379,13 @@ function create_each_block6(ctx) {
         if_block.m(div, t2);
       }
       const formrow2_changes = {};
-      if (dirty & /*options_id*/
-      1024)
+      if (dirty[0] & /*options_id*/
+      2048)
         formrow2_changes.id = "button" + /*value_id*/
-        ctx2[25];
-      if (dirty & /*$$scope, options_id, options, notifyChange*/
-      536872080) {
+        ctx2[29];
+      if (dirty[0] & /*options_id, options, notifyChange*/
+      2336 | dirty[1] & /*$$scope*/
+      16) {
         formrow2_changes.$$scope = { dirty, ctx: ctx2 };
       }
       formrow2.$set(formrow2_changes);
@@ -21678,7 +22426,7 @@ function create_default_slot12(ctx) {
   let dispose;
   let each_value = ensure_array_like(
     /*options*/
-    ctx[4] || []
+    ctx[5] || []
   );
   let each_blocks = [];
   for (let i = 0; i < each_value.length; i += 1) {
@@ -21697,7 +22445,7 @@ function create_default_slot12(ctx) {
       }
       each_1_anchor = empty4();
       attr(button, "type", "button");
-      attr(button, "class", "svelte-15a6dqv");
+      attr(button, "class", "svelte-1qme3ev");
     },
     m(target, anchor) {
       insert(target, button, anchor);
@@ -21714,17 +22462,17 @@ function create_default_slot12(ctx) {
           button,
           "click",
           /*click_handler*/
-          ctx[15]
+          ctx[16]
         );
         mounted = true;
       }
     },
     p(ctx2, dirty) {
-      if (dirty & /*options_id, options, notifyChange, moveOption*/
-      5264) {
+      if (dirty[0] & /*options_id, options, notifyChange, moveOption*/
+      10528) {
         each_value = ensure_array_like(
           /*options*/
-          ctx2[4] || []
+          ctx2[5] || []
         );
         let i;
         for (i = 0; i < each_value.length; i += 1) {
@@ -21785,13 +22533,13 @@ function create_fragment29(ctx) {
       label: "Source",
       id: (
         /*id*/
-        ctx[11]
+        ctx[12]
       ),
       $$slots: { default: [create_default_slot_7] },
       $$scope: { ctx }
     }
   });
-  const if_block_creators = [create_if_block13, create_if_block_24, create_if_block_34];
+  const if_block_creators = [create_if_block13, create_if_block_24, create_if_block_54];
   const if_blocks = [];
   function select_block_type(ctx2, dirty) {
     if (
@@ -21811,7 +22559,7 @@ function create_fragment29(ctx) {
       return 2;
     return -1;
   }
-  if (~(current_block_type_index = select_block_type(ctx, -1))) {
+  if (~(current_block_type_index = select_block_type(ctx, [-1, -1]))) {
     if_block = if_blocks[current_block_type_index] = if_block_creators[current_block_type_index](ctx);
   }
   return {
@@ -21831,14 +22579,15 @@ function create_fragment29(ctx) {
       insert(target, if_block_anchor, anchor);
       current = true;
     },
-    p(ctx2, [dirty]) {
+    p(ctx2, dirty) {
       const formrow_changes = {};
-      if (dirty & /*id*/
-      2048)
+      if (dirty[0] & /*id*/
+      4096)
         formrow_changes.id = /*id*/
-        ctx2[11];
-      if (dirty & /*$$scope, allowUnknownValues, showAllowUnknownValuesOption, id, source, is_multi*/
-      536873737) {
+        ctx2[12];
+      if (dirty[0] & /*allowUnknownValues, showAllowUnknownValuesOption, id, source, is_multi*/
+      5649 | dirty[1] & /*$$scope*/
+      16) {
         formrow_changes.$$scope = { dirty, ctx: ctx2 };
       }
       formrow.$set(formrow_changes);
@@ -21903,6 +22652,7 @@ function instance29($$self, $$props, $$invalidate) {
   let { source = "fixed" } = $$props;
   let { query = "" } = $$props;
   let { folder } = $$props;
+  let { folders = void 0 } = $$props;
   let { allowUnknownValues = false } = $$props;
   let { options = [] } = $$props;
   let { app } = $$props;
@@ -21916,9 +22666,9 @@ function instance29($$self, $$props, $$invalidate) {
     const target = options[to];
     if (!target || !tmp)
       return;
-    $$invalidate(4, options[from] = target, options);
-    $$invalidate(4, options[to] = tmp, options);
-    $$invalidate(4, options);
+    $$invalidate(5, options[from] = target, options);
+    $$invalidate(5, options[to] = tmp, options);
+    $$invalidate(5, options);
     notifyChange();
   }
   function select_change_handler() {
@@ -21927,7 +22677,7 @@ function instance29($$self, $$props, $$invalidate) {
   }
   function input_1_change_handler() {
     allowUnknownValues = this.checked;
-    $$invalidate(3, allowUnknownValues);
+    $$invalidate(4, allowUnknownValues);
   }
   const click_handler = () => {
     if (is_multi) {
@@ -21935,76 +22685,93 @@ function instance29($$self, $$props, $$invalidate) {
     } else {
       options == null ? void 0 : options.push({ value: "", label: "" });
     }
-    $$invalidate(4, options);
+    $$invalidate(5, options);
     notifyChange();
   };
   const click_handler_1 = (idx) => moveOption(idx, "up");
   const click_handler_2 = (idx) => moveOption(idx, "down");
   function input_1_input_handler(each_value, idx) {
     each_value[idx] = this.value;
-    $$invalidate(4, options);
+    $$invalidate(5, options);
   }
   function input_1_input_handler_1(each_value, idx) {
     each_value[idx].label = this.value;
-    $$invalidate(4, options);
+    $$invalidate(5, options);
   }
   function input_1_input_handler_2(each_value, idx) {
     each_value[idx].value = this.value;
-    $$invalidate(4, options);
+    $$invalidate(5, options);
   }
   const click_handler_3 = (idx) => {
-    $$invalidate(4, options = options == null ? void 0 : options.filter((_, i) => i !== idx));
+    $$invalidate(5, options = options == null ? void 0 : options.filter((_, i) => i !== idx));
     notifyChange();
   };
   function inputfolder_folder_binding(value) {
     folder = value;
     $$invalidate(2, folder);
   }
+  const click_handler_4 = () => {
+    $$invalidate(3, folders = [...folders != null ? folders : [], ""]);
+    notifyChange();
+  };
+  function inputfolder_folder_binding_1(value, idx) {
+    if ($$self.$$.not_equal(folders[idx], value)) {
+      folders[idx] = value;
+      $$invalidate(3, folders);
+    }
+  }
+  const click_handler_5 = (idx) => {
+    $$invalidate(3, folders = (folders != null ? folders : []).filter((_, i) => i !== idx));
+    notifyChange();
+  };
   function inputbuilderdataview_value_binding(value) {
     query = value;
     $$invalidate(1, query);
   }
   $$self.$$set = ($$props2) => {
     if ("index" in $$props2)
-      $$invalidate(5, index = $$props2.index);
+      $$invalidate(6, index = $$props2.index);
     if ("source" in $$props2)
       $$invalidate(0, source = $$props2.source);
     if ("query" in $$props2)
       $$invalidate(1, query = $$props2.query);
     if ("folder" in $$props2)
       $$invalidate(2, folder = $$props2.folder);
+    if ("folders" in $$props2)
+      $$invalidate(3, folders = $$props2.folders);
     if ("allowUnknownValues" in $$props2)
-      $$invalidate(3, allowUnknownValues = $$props2.allowUnknownValues);
+      $$invalidate(4, allowUnknownValues = $$props2.allowUnknownValues);
     if ("options" in $$props2)
-      $$invalidate(4, options = $$props2.options);
+      $$invalidate(5, options = $$props2.options);
     if ("app" in $$props2)
-      $$invalidate(6, app = $$props2.app);
+      $$invalidate(7, app = $$props2.app);
     if ("notifyChange" in $$props2)
-      $$invalidate(7, notifyChange = $$props2.notifyChange);
+      $$invalidate(8, notifyChange = $$props2.notifyChange);
     if ("is_multi" in $$props2)
-      $$invalidate(8, is_multi = $$props2.is_multi);
+      $$invalidate(9, is_multi = $$props2.is_multi);
   };
   $$self.$$.update = () => {
-    if ($$self.$$.dirty & /*index*/
-    32) {
+    if ($$self.$$.dirty[0] & /*index*/
+    64) {
       $:
-        $$invalidate(11, id = `builder_select_${index}`);
+        $$invalidate(12, id = `builder_select_${index}`);
     }
-    if ($$self.$$.dirty & /*index*/
-    32) {
+    if ($$self.$$.dirty[0] & /*index*/
+    64) {
       $:
-        $$invalidate(10, options_id = `builder_select_options_btn_${index}`);
+        $$invalidate(11, options_id = `builder_select_options_btn_${index}`);
     }
-    if ($$self.$$.dirty & /*is_multi, source*/
-    257) {
+    if ($$self.$$.dirty[0] & /*is_multi, source*/
+    513) {
       $:
-        $$invalidate(9, showAllowUnknownValuesOption = is_multi && input_exports.canAllowUnknownValues("multiselect", source));
+        $$invalidate(10, showAllowUnknownValuesOption = is_multi && input_exports.canAllowUnknownValues("multiselect", source));
     }
   };
   return [
     source,
     query,
     folder,
+    folders,
     allowUnknownValues,
     options,
     index,
@@ -22025,6 +22792,9 @@ function instance29($$self, $$props, $$invalidate) {
     input_1_input_handler_2,
     click_handler_3,
     inputfolder_folder_binding,
+    click_handler_4,
+    inputfolder_folder_binding_1,
+    click_handler_5,
     inputbuilderdataview_value_binding
   ];
 }
@@ -22038,17 +22808,19 @@ var InputBuilderSelect = class extends SvelteComponent {
       create_fragment29,
       safe_not_equal,
       {
-        index: 5,
+        index: 6,
         source: 0,
         query: 1,
         folder: 2,
-        allowUnknownValues: 3,
-        options: 4,
-        app: 6,
-        notifyChange: 7,
-        is_multi: 8
+        folders: 3,
+        allowUnknownValues: 4,
+        options: 5,
+        app: 7,
+        notifyChange: 8,
+        is_multi: 9
       },
-      add_css12
+      add_css12,
+      [-1, -1]
     );
   }
 };
@@ -23038,35 +23810,35 @@ function add_css16(target) {
 }
 function get_each_context9(ctx, list, i) {
   const child_ctx = ctx.slice();
-  child_ctx[52] = list[i];
-  child_ctx[55] = list;
-  child_ctx[56] = i;
+  child_ctx[53] = list[i];
+  child_ctx[56] = list;
+  child_ctx[57] = i;
   const constants_0 = `desc_${/*index*/
-  child_ctx[56]}`;
-  child_ctx[53] = constants_0;
+  child_ctx[57]}`;
+  child_ctx[54] = constants_0;
   const constants_1 = `delete_${/*index*/
-  child_ctx[56]}`;
-  child_ctx[54] = constants_1;
+  child_ctx[57]}`;
+  child_ctx[55] = constants_1;
   return child_ctx;
 }
 function get_if_ctx2(ctx) {
   const child_ctx = ctx.slice();
   const constants_0 = `min_${/*index*/
-  child_ctx[56]}`;
-  child_ctx[57] = constants_0;
+  child_ctx[57]}`;
+  child_ctx[58] = constants_0;
   const constants_1 = `max_${/*index*/
-  child_ctx[56]}`;
-  child_ctx[58] = constants_1;
+  child_ctx[57]}`;
+  child_ctx[59] = constants_1;
   return child_ctx;
 }
-function get_each_context_14(ctx, list, i) {
+function get_each_context_15(ctx, list, i) {
   const child_ctx = ctx.slice();
-  child_ctx[59] = list[i];
+  child_ctx[60] = list[i];
   return child_ctx;
 }
 function get_each_context_22(ctx, list, i) {
   const child_ctx = ctx.slice();
-  child_ctx[62] = list[i];
+  child_ctx[63] = list[i];
   return child_ctx;
 }
 function create_else_block7(ctx) {
@@ -23294,7 +24066,7 @@ function create_else_block7(ctx) {
             button0,
             "click",
             /*click_handler_5*/
-            ctx[50]
+            ctx[51]
           ),
           listen(
             button1,
@@ -23609,7 +24381,7 @@ function create_if_block_143(ctx) {
   let t0;
   let t1_value = (
     /*error*/
-    ctx[62].path + ""
+    ctx[63].path + ""
   );
   let t1;
   return {
@@ -23624,7 +24396,7 @@ function create_if_block_143(ctx) {
     p(ctx2, dirty) {
       if (dirty[0] & /*errors*/
       256 && t1_value !== (t1_value = /*error*/
-      ctx2[62].path + ""))
+      ctx2[63].path + ""))
         set_data(t1, t1_value);
     },
     d(detaching) {
@@ -23639,7 +24411,7 @@ function create_each_block_22(ctx) {
   let li;
   let t0_value = (
     /*error*/
-    ctx[62].message + ""
+    ctx[63].message + ""
   );
   let t0;
   let t1;
@@ -23650,14 +24422,14 @@ function create_each_block_22(ctx) {
   let dispose;
   let if_block = (
     /*error*/
-    ctx[62].path && create_if_block_143(ctx)
+    ctx[63].path && create_if_block_143(ctx)
   );
   function click_handler() {
     return (
       /*click_handler*/
       ctx[21](
         /*error*/
-        ctx[62]
+        ctx[63]
       )
     );
   }
@@ -23693,11 +24465,11 @@ function create_each_block_22(ctx) {
       ctx = new_ctx;
       if (dirty[0] & /*errors*/
       256 && t0_value !== (t0_value = /*error*/
-      ctx[62].message + ""))
+      ctx[63].message + ""))
         set_data(t0, t0_value);
       if (
         /*error*/
-        ctx[62].path
+        ctx[63].path
       ) {
         if (if_block) {
           if_block.p(ctx, dirty);
@@ -23746,7 +24518,7 @@ function create_if_block_123(ctx) {
       label: "Hidden field",
       tooltip: "This field will not be shown. It is a common way to pass data to the form that is not meant to be seen.",
       id: `hidden_${/*index*/
-      ctx[56]}`,
+      ctx[57]}`,
       $$slots: { default: [create_default_slot_18] },
       $$scope: { ctx }
     }
@@ -23763,7 +24535,7 @@ function create_if_block_123(ctx) {
       const formrow_changes = {};
       if (dirty[0] & /*definition*/
       1 | dirty[2] & /*$$scope*/
-      8) {
+      16) {
         formrow_changes.$$scope = { dirty, ctx: ctx2 };
       }
       formrow.$set(formrow_changes);
@@ -23791,19 +24563,19 @@ function create_default_slot_18(ctx) {
     ctx[24](
       value,
       /*field*/
-      ctx[52]
+      ctx[53]
     );
   }
   let toggle_props = { tabindex: (
     /*index*/
-    ctx[56]
+    ctx[57]
   ) };
   if (
     /*field*/
-    ctx[52].input.hidden !== void 0
+    ctx[53].input.hidden !== void 0
   ) {
     toggle_props.checked = /*field*/
-    ctx[52].input.hidden;
+    ctx[53].input.hidden;
   }
   toggle = new Toggle_default({ props: toggle_props });
   binding_callbacks.push(() => bind6(toggle, "checked", toggle_checked_binding));
@@ -23822,7 +24594,7 @@ function create_default_slot_18(ctx) {
       1) {
         updating_checked = true;
         toggle_changes.checked = /*field*/
-        ctx[52].input.hidden;
+        ctx[53].input.hidden;
         add_flush_callback(() => updating_checked = false);
       }
       toggle.$set(toggle_changes);
@@ -23842,11 +24614,11 @@ function create_default_slot_18(ctx) {
     }
   };
 }
-function create_each_block_14(ctx) {
+function create_each_block_15(ctx) {
   let option2;
   let t_value = (
     /*type*/
-    ctx[59][1] + ""
+    ctx[60][1] + ""
   );
   let t;
   let option_value_value;
@@ -23855,7 +24627,7 @@ function create_each_block_14(ctx) {
       option2 = element("option");
       t = text(t_value);
       option2.__value = option_value_value = /*type*/
-      ctx[59][0];
+      ctx[60][0];
       set_input_value(option2, option2.__value);
     },
     m(target, anchor) {
@@ -23873,7 +24645,7 @@ function create_each_block_14(ctx) {
 function create_else_block_12(ctx) {
   let t_value = absurd2(
     /*field*/
-    ctx[52].input.type
+    ctx[53].input.type
   ) + "";
   let t;
   return {
@@ -23887,7 +24659,7 @@ function create_else_block_12(ctx) {
       if (dirty[0] & /*definition*/
       1 && t_value !== (t_value = absurd2(
         /*field*/
-        ctx2[52].input.type
+        ctx2[53].input.type
       ) + ""))
         set_data(t, t_value);
     },
@@ -23916,23 +24688,23 @@ function create_if_block_102(ctx) {
   let updating_allowedExtensions;
   let current;
   function inputbuilderfile_folder_binding(value) {
-    ctx[43](
-      value,
-      /*field*/
-      ctx[52]
-    );
-  }
-  function inputbuilderfile_allowedExtensions_binding(value) {
     ctx[44](
       value,
       /*field*/
-      ctx[52]
+      ctx[53]
+    );
+  }
+  function inputbuilderfile_allowedExtensions_binding(value) {
+    ctx[45](
+      value,
+      /*field*/
+      ctx[53]
     );
   }
   let inputbuilderfile_props = {
     index: (
       /*index*/
-      ctx[56]
+      ctx[57]
     ),
     notifyChange: (
       /*onChange*/
@@ -23945,17 +24717,17 @@ function create_if_block_102(ctx) {
   };
   if (
     /*field*/
-    ctx[52].input.folder !== void 0
+    ctx[53].input.folder !== void 0
   ) {
     inputbuilderfile_props.folder = /*field*/
-    ctx[52].input.folder;
+    ctx[53].input.folder;
   }
   if (
     /*field*/
-    ctx[52].input.allowedExtensions !== void 0
+    ctx[53].input.allowedExtensions !== void 0
   ) {
     inputbuilderfile_props.allowedExtensions = /*field*/
-    ctx[52].input.allowedExtensions;
+    ctx[53].input.allowedExtensions;
   }
   inputbuilderfile = new InputBuilderFile_default({ props: inputbuilderfile_props });
   binding_callbacks.push(() => bind6(inputbuilderfile, "folder", inputbuilderfile_folder_binding));
@@ -23983,14 +24755,14 @@ function create_if_block_102(ctx) {
       1) {
         updating_folder = true;
         inputbuilderfile_changes.folder = /*field*/
-        ctx[52].input.folder;
+        ctx[53].input.folder;
         add_flush_callback(() => updating_folder = false);
       }
       if (!updating_allowedExtensions && dirty[0] & /*definition*/
       1) {
         updating_allowedExtensions = true;
         inputbuilderfile_changes.allowedExtensions = /*field*/
-        ctx[52].input.allowedExtensions;
+        ctx[53].input.allowedExtensions;
         add_flush_callback(() => updating_allowedExtensions = false);
       }
       inputbuilderfile.$set(inputbuilderfile_changes);
@@ -24016,23 +24788,23 @@ function create_if_block_92(ctx) {
   let updating_filenameTemplate;
   let current;
   function inputbuilderimage_saveLocation_binding(value) {
-    ctx[41](
-      value,
-      /*field*/
-      ctx[52]
-    );
-  }
-  function inputbuilderimage_filenameTemplate_binding(value) {
     ctx[42](
       value,
       /*field*/
-      ctx[52]
+      ctx[53]
+    );
+  }
+  function inputbuilderimage_filenameTemplate_binding(value) {
+    ctx[43](
+      value,
+      /*field*/
+      ctx[53]
     );
   }
   let inputbuilderimage_props = {
     index: (
       /*index*/
-      ctx[56]
+      ctx[57]
     ),
     notifyChange: (
       /*onChange*/
@@ -24045,17 +24817,17 @@ function create_if_block_92(ctx) {
   };
   if (
     /*field*/
-    ctx[52].input.saveLocation !== void 0
+    ctx[53].input.saveLocation !== void 0
   ) {
     inputbuilderimage_props.saveLocation = /*field*/
-    ctx[52].input.saveLocation;
+    ctx[53].input.saveLocation;
   }
   if (
     /*field*/
-    ctx[52].input.filenameTemplate !== void 0
+    ctx[53].input.filenameTemplate !== void 0
   ) {
     inputbuilderimage_props.filenameTemplate = /*field*/
-    ctx[52].input.filenameTemplate;
+    ctx[53].input.filenameTemplate;
   }
   inputbuilderimage = new InputBuilderImage_default({ props: inputbuilderimage_props });
   binding_callbacks.push(() => bind6(inputbuilderimage, "saveLocation", inputbuilderimage_saveLocation_binding));
@@ -24083,14 +24855,14 @@ function create_if_block_92(ctx) {
       1) {
         updating_saveLocation = true;
         inputbuilderimage_changes.saveLocation = /*field*/
-        ctx[52].input.saveLocation;
+        ctx[53].input.saveLocation;
         add_flush_callback(() => updating_saveLocation = false);
       }
       if (!updating_filenameTemplate && dirty[0] & /*definition*/
       1) {
         updating_filenameTemplate = true;
         inputbuilderimage_changes.filenameTemplate = /*field*/
-        ctx[52].input.filenameTemplate;
+        ctx[53].input.filenameTemplate;
         add_flush_callback(() => updating_filenameTemplate = false);
       }
       inputbuilderimage.$set(inputbuilderimage_changes);
@@ -24115,28 +24887,28 @@ function create_if_block_82(ctx) {
   let updating_body;
   let current;
   function inputbuilderdocumentblock_body_binding(value) {
-    ctx[40](
+    ctx[41](
       value,
       /*field*/
-      ctx[52]
+      ctx[53]
     );
   }
   let inputbuilderdocumentblock_props = {
     index: (
       /*index*/
-      ctx[56]
+      ctx[57]
     ),
     flavour: (
       /*field*/
-      ctx[52].input.type === "document_block" ? "html" : "markdown"
+      ctx[53].input.type === "document_block" ? "html" : "markdown"
     )
   };
   if (
     /*field*/
-    ctx[52].input.body !== void 0
+    ctx[53].input.body !== void 0
   ) {
     inputbuilderdocumentblock_props.body = /*field*/
-    ctx[52].input.body;
+    ctx[53].input.body;
   }
   inputbuilderdocumentblock = new InputBuilderDocumentBlock_default({ props: inputbuilderdocumentblock_props });
   binding_callbacks.push(() => bind6(inputbuilderdocumentblock, "body", inputbuilderdocumentblock_body_binding));
@@ -24154,12 +24926,12 @@ function create_if_block_82(ctx) {
       if (dirty[0] & /*definition*/
       1)
         inputbuilderdocumentblock_changes.flavour = /*field*/
-        ctx[52].input.type === "document_block" ? "html" : "markdown";
+        ctx[53].input.type === "document_block" ? "html" : "markdown";
       if (!updating_body && dirty[0] & /*definition*/
       1) {
         updating_body = true;
         inputbuilderdocumentblock_changes.body = /*field*/
-        ctx[52].input.body;
+        ctx[53].input.body;
         add_flush_callback(() => updating_body = false);
       }
       inputbuilderdocumentblock.$set(inputbuilderdocumentblock_changes);
@@ -24179,21 +24951,21 @@ function create_if_block_82(ctx) {
     }
   };
 }
-function create_if_block_72(ctx) {
+function create_if_block_73(ctx) {
   let inputbuilderdataview;
   let updating_value;
   let current;
   function inputbuilderdataview_value_binding(value) {
-    ctx[39](
+    ctx[40](
       value,
       /*field*/
-      ctx[52]
+      ctx[53]
     );
   }
   let inputbuilderdataview_props = {
     index: (
       /*index*/
-      ctx[56]
+      ctx[57]
     ),
     app: (
       /*app*/
@@ -24202,10 +24974,10 @@ function create_if_block_72(ctx) {
   };
   if (
     /*field*/
-    ctx[52].input.query !== void 0
+    ctx[53].input.query !== void 0
   ) {
     inputbuilderdataview_props.value = /*field*/
-    ctx[52].input.query;
+    ctx[53].input.query;
   }
   inputbuilderdataview = new inputBuilderDataview_default({ props: inputbuilderdataview_props });
   binding_callbacks.push(() => bind6(inputbuilderdataview, "value", inputbuilderdataview_value_binding));
@@ -24228,7 +25000,7 @@ function create_if_block_72(ctx) {
       1) {
         updating_value = true;
         inputbuilderdataview_changes.value = /*field*/
-        ctx[52].input.query;
+        ctx[53].input.query;
         add_flush_callback(() => updating_value = false);
       }
       inputbuilderdataview.$set(inputbuilderdataview_changes);
@@ -24248,21 +25020,21 @@ function create_if_block_72(ctx) {
     }
   };
 }
-function create_if_block_63(ctx) {
+function create_if_block_64(ctx) {
   let inputfolder;
   let updating_folder;
   let current;
   function inputfolder_folder_binding_1(value) {
-    ctx[38](
+    ctx[39](
       value,
       /*field*/
-      ctx[52]
+      ctx[53]
     );
   }
   let inputfolder_props = {
     index: (
       /*index*/
-      ctx[56]
+      ctx[57]
     ),
     app: (
       /*app*/
@@ -24275,10 +25047,10 @@ function create_if_block_63(ctx) {
   };
   if (
     /*field*/
-    ctx[52].input.parentFolder !== void 0
+    ctx[53].input.parentFolder !== void 0
   ) {
     inputfolder_props.folder = /*field*/
-    ctx[52].input.parentFolder;
+    ctx[53].input.parentFolder;
   }
   inputfolder = new InputBuilderFolder_default({ props: inputfolder_props });
   binding_callbacks.push(() => bind6(inputfolder, "folder", inputfolder_folder_binding_1));
@@ -24305,7 +25077,7 @@ function create_if_block_63(ctx) {
       1) {
         updating_folder = true;
         inputfolder_changes.folder = /*field*/
-        ctx[52].input.parentFolder;
+        ctx[53].input.parentFolder;
         add_flush_callback(() => updating_folder = false);
       }
       inputfolder.$set(inputfolder_changes);
@@ -24330,16 +25102,16 @@ function create_if_block_55(ctx) {
   let updating_folder;
   let current;
   function inputfolder_folder_binding(value) {
-    ctx[37](
+    ctx[38](
       value,
       /*field*/
-      ctx[52]
+      ctx[53]
     );
   }
   let inputfolder_props = {
     index: (
       /*index*/
-      ctx[56]
+      ctx[57]
     ),
     app: (
       /*app*/
@@ -24352,10 +25124,10 @@ function create_if_block_55(ctx) {
   };
   if (
     /*field*/
-    ctx[52].input.folder !== void 0
+    ctx[53].input.folder !== void 0
   ) {
     inputfolder_props.folder = /*field*/
-    ctx[52].input.folder;
+    ctx[53].input.folder;
   }
   inputfolder = new InputBuilderFolder_default({ props: inputfolder_props });
   binding_callbacks.push(() => bind6(inputfolder, "folder", inputfolder_folder_binding));
@@ -24382,7 +25154,7 @@ function create_if_block_55(ctx) {
       1) {
         updating_folder = true;
         inputfolder_changes.folder = /*field*/
-        ctx[52].input.folder;
+        ctx[53].input.folder;
         add_flush_callback(() => updating_folder = false);
       }
       inputfolder.$set(inputfolder_changes);
@@ -24419,21 +25191,21 @@ function create_if_block_45(ctx) {
   let mounted;
   let dispose;
   function input0_input_handler_2() {
-    ctx[35].call(
+    ctx[36].call(
       input0,
       /*each_value*/
-      ctx[55],
+      ctx[56],
       /*index*/
-      ctx[56]
+      ctx[57]
     );
   }
   function input1_input_handler_2() {
-    ctx[36].call(
+    ctx[37].call(
       input1,
       /*each_value*/
-      ctx[55],
+      ctx[56],
       /*index*/
-      ctx[56]
+      ctx[57]
     );
   }
   return {
@@ -24450,18 +25222,18 @@ function create_if_block_45(ctx) {
       t4 = space();
       input1 = element("input");
       attr(label0, "for", label0_for_value = /*min_id*/
-      ctx[57]);
+      ctx[58]);
       attr(input0, "type", "number");
       attr(input0, "placeholder", "0");
       attr(input0, "id", input0_id_value = /*min_id*/
-      ctx[57]);
+      ctx[58]);
       attr(div0, "class", "flex column gap1 svelte-1alubwb");
       attr(label1, "for", label1_for_value = /*max_id*/
-      ctx[58]);
+      ctx[59]);
       attr(input1, "type", "number");
       attr(input1, "placeholder", "10");
       attr(input1, "id", input1_id_value = /*max_id*/
-      ctx[58]);
+      ctx[59]);
       attr(div1, "class", "flex column gap1 svelte-1alubwb");
     },
     m(target, anchor) {
@@ -24472,7 +25244,7 @@ function create_if_block_45(ctx) {
       set_input_value(
         input0,
         /*field*/
-        ctx[52].input.min
+        ctx[53].input.min
       );
       insert(target, t2, anchor);
       insert(target, div1, anchor);
@@ -24482,7 +25254,7 @@ function create_if_block_45(ctx) {
       set_input_value(
         input1,
         /*field*/
-        ctx[52].input.max
+        ctx[53].input.max
       );
       if (!mounted) {
         dispose = [
@@ -24496,20 +25268,20 @@ function create_if_block_45(ctx) {
       ctx = new_ctx;
       if (dirty[0] & /*definition*/
       1 && to_number(input0.value) !== /*field*/
-      ctx[52].input.min) {
+      ctx[53].input.min) {
         set_input_value(
           input0,
           /*field*/
-          ctx[52].input.min
+          ctx[53].input.min
         );
       }
       if (dirty[0] & /*definition*/
       1 && to_number(input1.value) !== /*field*/
-      ctx[52].input.max) {
+      ctx[53].input.max) {
         set_input_value(
           input1,
           /*field*/
-          ctx[52].input.max
+          ctx[53].input.max
         );
       }
     },
@@ -24531,6 +25303,7 @@ function create_if_block_35(ctx) {
   let updating_source;
   let updating_options;
   let updating_folder;
+  let updating_folders;
   let updating_query;
   let updating_allowUnknownValues;
   let current;
@@ -24538,41 +25311,48 @@ function create_if_block_35(ctx) {
     ctx[30](
       value,
       /*field*/
-      ctx[52]
+      ctx[53]
     );
   }
   function inputbuilderselect_options_binding_1(value) {
     ctx[31](
       value,
       /*field*/
-      ctx[52]
+      ctx[53]
     );
   }
   function inputbuilderselect_folder_binding_1(value) {
     ctx[32](
       value,
       /*field*/
-      ctx[52]
+      ctx[53]
     );
   }
-  function inputbuilderselect_query_binding(value) {
+  function inputbuilderselect_folders_binding(value) {
     ctx[33](
       value,
       /*field*/
-      ctx[52]
+      ctx[53]
     );
   }
-  function inputbuilderselect_allowUnknownValues_binding(value) {
+  function inputbuilderselect_query_binding(value) {
     ctx[34](
       value,
       /*field*/
-      ctx[52]
+      ctx[53]
+    );
+  }
+  function inputbuilderselect_allowUnknownValues_binding(value) {
+    ctx[35](
+      value,
+      /*field*/
+      ctx[53]
     );
   }
   let inputbuilderselect_props = {
     index: (
       /*index*/
-      ctx[56]
+      ctx[57]
     ),
     notifyChange: (
       /*onChange*/
@@ -24586,43 +25366,51 @@ function create_if_block_35(ctx) {
   };
   if (
     /*field*/
-    ctx[52].input.source !== void 0
+    ctx[53].input.source !== void 0
   ) {
     inputbuilderselect_props.source = /*field*/
-    ctx[52].input.source;
+    ctx[53].input.source;
   }
   if (
     /*field*/
-    ctx[52].input.multi_select_options !== void 0
+    ctx[53].input.multi_select_options !== void 0
   ) {
     inputbuilderselect_props.options = /*field*/
-    ctx[52].input.multi_select_options;
+    ctx[53].input.multi_select_options;
   }
   if (
     /*field*/
-    ctx[52].input.folder !== void 0
+    ctx[53].input.folder !== void 0
   ) {
     inputbuilderselect_props.folder = /*field*/
-    ctx[52].input.folder;
+    ctx[53].input.folder;
   }
   if (
     /*field*/
-    ctx[52].input.query !== void 0
+    ctx[53].input.folders !== void 0
+  ) {
+    inputbuilderselect_props.folders = /*field*/
+    ctx[53].input.folders;
+  }
+  if (
+    /*field*/
+    ctx[53].input.query !== void 0
   ) {
     inputbuilderselect_props.query = /*field*/
-    ctx[52].input.query;
+    ctx[53].input.query;
   }
   if (
     /*field*/
-    ctx[52].input.allowUnknownValues !== void 0
+    ctx[53].input.allowUnknownValues !== void 0
   ) {
     inputbuilderselect_props.allowUnknownValues = /*field*/
-    ctx[52].input.allowUnknownValues;
+    ctx[53].input.allowUnknownValues;
   }
   inputbuilderselect = new InputBuilderSelect_default({ props: inputbuilderselect_props });
   binding_callbacks.push(() => bind6(inputbuilderselect, "source", inputbuilderselect_source_binding_1));
   binding_callbacks.push(() => bind6(inputbuilderselect, "options", inputbuilderselect_options_binding_1));
   binding_callbacks.push(() => bind6(inputbuilderselect, "folder", inputbuilderselect_folder_binding_1));
+  binding_callbacks.push(() => bind6(inputbuilderselect, "folders", inputbuilderselect_folders_binding));
   binding_callbacks.push(() => bind6(inputbuilderselect, "query", inputbuilderselect_query_binding));
   binding_callbacks.push(() => bind6(inputbuilderselect, "allowUnknownValues", inputbuilderselect_allowUnknownValues_binding));
   return {
@@ -24648,35 +25436,42 @@ function create_if_block_35(ctx) {
       1) {
         updating_source = true;
         inputbuilderselect_changes.source = /*field*/
-        ctx[52].input.source;
+        ctx[53].input.source;
         add_flush_callback(() => updating_source = false);
       }
       if (!updating_options && dirty[0] & /*definition*/
       1) {
         updating_options = true;
         inputbuilderselect_changes.options = /*field*/
-        ctx[52].input.multi_select_options;
+        ctx[53].input.multi_select_options;
         add_flush_callback(() => updating_options = false);
       }
       if (!updating_folder && dirty[0] & /*definition*/
       1) {
         updating_folder = true;
         inputbuilderselect_changes.folder = /*field*/
-        ctx[52].input.folder;
+        ctx[53].input.folder;
         add_flush_callback(() => updating_folder = false);
+      }
+      if (!updating_folders && dirty[0] & /*definition*/
+      1) {
+        updating_folders = true;
+        inputbuilderselect_changes.folders = /*field*/
+        ctx[53].input.folders;
+        add_flush_callback(() => updating_folders = false);
       }
       if (!updating_query && dirty[0] & /*definition*/
       1) {
         updating_query = true;
         inputbuilderselect_changes.query = /*field*/
-        ctx[52].input.query;
+        ctx[53].input.query;
         add_flush_callback(() => updating_query = false);
       }
       if (!updating_allowUnknownValues && dirty[0] & /*definition*/
       1) {
         updating_allowUnknownValues = true;
         inputbuilderselect_changes.allowUnknownValues = /*field*/
-        ctx[52].input.allowUnknownValues;
+        ctx[53].input.allowUnknownValues;
         add_flush_callback(() => updating_allowUnknownValues = false);
       }
       inputbuilderselect.$set(inputbuilderselect_changes);
@@ -24706,27 +25501,27 @@ function create_if_block_25(ctx) {
     ctx[27](
       value,
       /*field*/
-      ctx[52]
+      ctx[53]
     );
   }
   function inputbuilderselect_options_binding(value) {
     ctx[28](
       value,
       /*field*/
-      ctx[52]
+      ctx[53]
     );
   }
   function inputbuilderselect_folder_binding(value) {
     ctx[29](
       value,
       /*field*/
-      ctx[52]
+      ctx[53]
     );
   }
   let inputbuilderselect_props = {
     index: (
       /*index*/
-      ctx[56]
+      ctx[57]
     ),
     notifyChange: (
       /*onChange*/
@@ -24741,24 +25536,24 @@ function create_if_block_25(ctx) {
   };
   if (
     /*field*/
-    ctx[52].input.source !== void 0
+    ctx[53].input.source !== void 0
   ) {
     inputbuilderselect_props.source = /*field*/
-    ctx[52].input.source;
+    ctx[53].input.source;
   }
   if (
     /*field*/
-    ctx[52].input.options !== void 0
+    ctx[53].input.options !== void 0
   ) {
     inputbuilderselect_props.options = /*field*/
-    ctx[52].input.options;
+    ctx[53].input.options;
   }
   if (
     /*field*/
-    ctx[52].input.folder !== void 0
+    ctx[53].input.folder !== void 0
   ) {
     inputbuilderselect_props.folder = /*field*/
-    ctx[52].input.folder;
+    ctx[53].input.folder;
   }
   inputbuilderselect = new InputBuilderSelect_default({ props: inputbuilderselect_props });
   binding_callbacks.push(() => bind6(inputbuilderselect, "source", inputbuilderselect_source_binding));
@@ -24787,21 +25582,21 @@ function create_if_block_25(ctx) {
       1) {
         updating_source = true;
         inputbuilderselect_changes.source = /*field*/
-        ctx[52].input.source;
+        ctx[53].input.source;
         add_flush_callback(() => updating_source = false);
       }
       if (!updating_options && dirty[0] & /*definition*/
       1) {
         updating_options = true;
         inputbuilderselect_changes.options = /*field*/
-        ctx[52].input.options;
+        ctx[53].input.options;
         add_flush_callback(() => updating_options = false);
       }
       if (!updating_folder && dirty[0] & /*definition*/
       1) {
         updating_folder = true;
         inputbuilderselect_changes.folder = /*field*/
-        ctx[52].input.folder;
+        ctx[53].input.folder;
         add_flush_callback(() => updating_folder = false);
       }
       inputbuilderselect.$set(inputbuilderselect_changes);
@@ -24828,7 +25623,7 @@ function create_if_block_111(ctx) {
     props: {
       label: "Required",
       id: `required_${/*index*/
-      ctx[56]}`,
+      ctx[57]}`,
       $$slots: { default: [create_default_slot14] },
       $$scope: { ctx }
     }
@@ -24845,7 +25640,7 @@ function create_if_block_111(ctx) {
       const formrow_changes = {};
       if (dirty[0] & /*definition*/
       1 | dirty[2] & /*$$scope*/
-      8) {
+      16) {
         formrow_changes.$$scope = { dirty, ctx: ctx2 };
       }
       formrow.$set(formrow_changes);
@@ -24870,22 +25665,22 @@ function create_default_slot14(ctx) {
   let updating_checked;
   let current;
   function toggle_checked_binding_1(value) {
-    ctx[45](
+    ctx[46](
       value,
       /*field*/
-      ctx[52]
+      ctx[53]
     );
   }
   let toggle_props = { tabindex: (
     /*index*/
-    ctx[56]
+    ctx[57]
   ) };
   if (
     /*field*/
-    ctx[52].isRequired !== void 0
+    ctx[53].isRequired !== void 0
   ) {
     toggle_props.checked = /*field*/
-    ctx[52].isRequired;
+    ctx[53].isRequired;
   }
   toggle = new Toggle_default({ props: toggle_props });
   binding_callbacks.push(() => bind6(toggle, "checked", toggle_checked_binding_1));
@@ -24904,7 +25699,7 @@ function create_default_slot14(ctx) {
       1) {
         updating_checked = true;
         toggle_changes.checked = /*field*/
-        ctx[52].isRequired;
+        ctx[53].isRequired;
         add_flush_callback(() => updating_checked = false);
       }
       toggle.$set(toggle_changes);
@@ -24943,7 +25738,7 @@ function create_each_block9(ctx) {
   let t5;
   let show_if_1 = isBasicInputType(
     /*field*/
-    ctx[52].input
+    ctx[53].input
   );
   let t6;
   let div2;
@@ -24982,7 +25777,7 @@ function create_each_block9(ctx) {
     "file"
   ].includes(
     /*field*/
-    ctx[52].input.type
+    ctx[53].input.type
   );
   let t17;
   let fieldmeta;
@@ -25010,18 +25805,18 @@ function create_each_block9(ctx) {
     ctx[22].call(
       input0,
       /*each_value*/
-      ctx[55],
+      ctx[56],
       /*index*/
-      ctx[56]
+      ctx[57]
     );
   }
   function input1_input_handler_1() {
     ctx[23].call(
       input1,
       /*each_value*/
-      ctx[55],
+      ctx[56],
       /*index*/
-      ctx[56]
+      ctx[57]
     );
   }
   let if_block0 = show_if_1 && create_if_block_123(ctx);
@@ -25029,23 +25824,23 @@ function create_each_block9(ctx) {
     ctx[25].call(
       input2,
       /*each_value*/
-      ctx[55],
+      ctx[56],
       /*index*/
-      ctx[56]
+      ctx[57]
     );
   }
   let each_value_1 = ensure_array_like(Object.entries(InputTypeReadable));
   let each_blocks = [];
   for (let i = 0; i < each_value_1.length; i += 1) {
-    each_blocks[i] = create_each_block_14(get_each_context_14(ctx, each_value_1, i));
+    each_blocks[i] = create_each_block_15(get_each_context_15(ctx, each_value_1, i));
   }
   function select_change_handler() {
     ctx[26].call(
       select,
       /*each_value*/
-      ctx[55],
+      ctx[56],
       /*index*/
-      ctx[56]
+      ctx[57]
     );
   }
   const if_block_creators = [
@@ -25053,8 +25848,8 @@ function create_each_block9(ctx) {
     create_if_block_35,
     create_if_block_45,
     create_if_block_55,
-    create_if_block_63,
-    create_if_block_72,
+    create_if_block_64,
+    create_if_block_73,
     create_if_block_82,
     create_if_block_92,
     create_if_block_102,
@@ -25065,62 +25860,62 @@ function create_each_block9(ctx) {
   function select_block_type_1(ctx2, dirty) {
     if (
       /*field*/
-      ctx2[52].input.type === "select"
+      ctx2[53].input.type === "select"
     )
       return 0;
     if (
       /*field*/
-      ctx2[52].input.type === "multiselect"
+      ctx2[53].input.type === "multiselect"
     )
       return 1;
     if (
       /*field*/
-      ctx2[52].input.type === "slider"
+      ctx2[53].input.type === "slider"
     )
       return 2;
     if (
       /*field*/
-      ctx2[52].input.type === "note"
+      ctx2[53].input.type === "note"
     )
       return 3;
     if (
       /*field*/
-      ctx2[52].input.type === "folder"
+      ctx2[53].input.type === "folder"
     )
       return 4;
     if (
       /*field*/
-      ctx2[52].input.type === "dataview"
+      ctx2[53].input.type === "dataview"
     )
       return 5;
     if (
       /*field*/
-      ctx2[52].input.type === "document_block" || /*field*/
-      ctx2[52].input.type === "markdown_block"
+      ctx2[53].input.type === "document_block" || /*field*/
+      ctx2[53].input.type === "markdown_block"
     )
       return 6;
     if (
       /*field*/
-      ctx2[52].input.type === "image"
+      ctx2[53].input.type === "image"
     )
       return 7;
     if (
       /*field*/
-      ctx2[52].input.type === "file"
+      ctx2[53].input.type === "file"
     )
       return 8;
     if (
       /*field*/
-      ctx2[52].input.type === "number" || /*field*/
-      ctx2[52].input.type === "email" || /*field*/
-      ctx2[52].input.type === "tel" || /*field*/
-      ctx2[52].input.type === "date" || /*field*/
-      ctx2[52].input.type === "time" || /*field*/
-      ctx2[52].input.type === "datetime" || /*field*/
-      ctx2[52].input.type === "toggle" || /*field*/
-      ctx2[52].input.type === "textarea" || /*field*/
-      ctx2[52].input.type === "text" || /*field*/
-      ctx2[52].input.type === "tag"
+      ctx2[53].input.type === "number" || /*field*/
+      ctx2[53].input.type === "email" || /*field*/
+      ctx2[53].input.type === "tel" || /*field*/
+      ctx2[53].input.type === "date" || /*field*/
+      ctx2[53].input.type === "time" || /*field*/
+      ctx2[53].input.type === "datetime" || /*field*/
+      ctx2[53].input.type === "toggle" || /*field*/
+      ctx2[53].input.type === "textarea" || /*field*/
+      ctx2[53].input.type === "text" || /*field*/
+      ctx2[53].input.type === "tag"
     )
       return 9;
     return 10;
@@ -25137,7 +25932,7 @@ function create_each_block9(ctx) {
     props: {
       field: (
         /*field*/
-        ctx[52]
+        ctx[53]
       ),
       availableFieldsForCondition: (
         /*availableFieldsForCondition*/
@@ -25145,43 +25940,43 @@ function create_each_block9(ctx) {
       ),
       index: (
         /*index*/
-        ctx[56]
+        ctx[57]
       )
     }
   });
   function click_handler_1() {
     return (
       /*click_handler_1*/
-      ctx[46](
+      ctx[47](
         /*index*/
-        ctx[56]
+        ctx[57]
       )
     );
   }
   function click_handler_2() {
     return (
       /*click_handler_2*/
-      ctx[47](
+      ctx[48](
         /*index*/
-        ctx[56]
+        ctx[57]
       )
     );
   }
   function click_handler_3() {
     return (
       /*click_handler_3*/
-      ctx[48](
+      ctx[49](
         /*index*/
-        ctx[56]
+        ctx[57]
       )
     );
   }
   function click_handler_4() {
     return (
       /*click_handler_4*/
-      ctx[49](
+      ctx[50](
         /*index*/
-        ctx[56]
+        ctx[57]
       )
     );
   }
@@ -25206,7 +26001,7 @@ function create_each_block9(ctx) {
       div2 = element("div");
       label2 = element("label");
       label2.textContent = `delete ${/*index*/
-      ctx[56]}`;
+      ctx[57]}`;
       t9 = space();
       div6 = element("div");
       div4 = element("div");
@@ -25244,41 +26039,41 @@ function create_each_block9(ctx) {
       t23 = space();
       hr = element("hr");
       attr(label0, "for", label0_for_value = `name_${/*index*/
-      ctx[56]}`);
+      ctx[57]}`);
       attr(input0, "type", "text");
       attr(input0, "placeholder", "Name");
       attr(input0, "id", input0_id_value = `name_${/*index*/
-      ctx[56]}`);
+      ctx[57]}`);
       attr(div0, "class", "flex column gap1 svelte-1alubwb");
       attr(label1, "for", label1_for_value = `label_${/*index*/
-      ctx[56]}`);
+      ctx[57]}`);
       attr(input1, "type", "text");
       attr(input1, "placeholder", input1_placeholder_value = /*field*/
-      ctx[52].name);
+      ctx[53].name);
       attr(input1, "id", input1_id_value = `label_${/*index*/
-      ctx[56]}`);
+      ctx[57]}`);
       attr(div1, "class", "flex column gap1 svelte-1alubwb");
       attr(label2, "for", label2_for_value = /*delete_id*/
-      ctx[54]);
+      ctx[55]);
       set_style(label2, "visibility", "hidden");
       set_style(label2, "overflow", "hidden");
       set_style(label2, "white-space", "nowrap");
       attr(div2, "class", "flex column gap1 svelte-1alubwb");
       attr(div3, "class", "flex column md-row gap2 svelte-1alubwb");
       attr(label3, "for", label3_for_value = /*desc_id*/
-      ctx[53]);
+      ctx[54]);
       attr(input2, "type", "text");
       attr(input2, "placeholder", "Description");
       attr(input2, "id", input2_id_value = /*desc_id*/
-      ctx[53]);
+      ctx[54]);
       attr(div4, "class", "flex column gap1 svelte-1alubwb");
       attr(label4, "for", label4_for_value = `type_${/*index*/
-      ctx[56]}`);
+      ctx[57]}`);
       attr(select, "id", select_id_value = `type_${/*index*/
-      ctx[56]}`);
+      ctx[57]}`);
       if (
         /*field*/
-        ctx[52].input.type === void 0
+        ctx[53].input.type === void 0
       )
         add_render_callback(select_change_handler);
       attr(div5, "class", "flex column gap1 svelte-1alubwb");
@@ -25286,18 +26081,18 @@ function create_each_block9(ctx) {
       attr(div7, "class", "flex gap1 svelte-1alubwb");
       attr(button0, "type", "button");
       button0.disabled = button0_disabled_value = /*index*/
-      ctx[56] === 0;
+      ctx[57] === 0;
       attr(button0, "class", "svelte-1alubwb");
       attr(button1, "type", "button");
       button1.disabled = button1_disabled_value = /*index*/
-      ctx[56] === /*definition*/
+      ctx[57] === /*definition*/
       ctx[0].fields.length - 1;
       attr(button1, "class", "svelte-1alubwb");
       attr(button2, "type", "button");
       attr(button2, "class", "svelte-1alubwb");
       attr(button3, "type", "button");
       attr(button3, "id", button3_id_value = /*delete_id*/
-      ctx[54]);
+      ctx[55]);
       attr(button3, "class", "svelte-1alubwb");
       attr(div8, "class", "flex gap1 svelte-1alubwb");
     },
@@ -25310,7 +26105,7 @@ function create_each_block9(ctx) {
       set_input_value(
         input0,
         /*field*/
-        ctx[52].name
+        ctx[53].name
       );
       append5(div3, t2);
       append5(div3, div1);
@@ -25320,7 +26115,7 @@ function create_each_block9(ctx) {
       set_input_value(
         input1,
         /*field*/
-        ctx[52].label
+        ctx[53].label
       );
       append5(div3, t5);
       if (if_block0)
@@ -25337,7 +26132,7 @@ function create_each_block9(ctx) {
       set_input_value(
         input2,
         /*field*/
-        ctx[52].description
+        ctx[53].description
       );
       append5(div6, t12);
       append5(div6, div5);
@@ -25352,7 +26147,7 @@ function create_each_block9(ctx) {
       select_option(
         select,
         /*field*/
-        ctx[52].input.type,
+        ctx[53].input.type,
         true
       );
       insert(target, t15, anchor);
@@ -25383,7 +26178,7 @@ function create_each_block9(ctx) {
             null,
             div3,
             /*index*/
-            ctx[56] === /*activeFieldIndex*/
+            ctx[57] === /*activeFieldIndex*/
             ctx[6]
           )),
           listen(input2, "input", input2_input_handler_1),
@@ -25403,32 +26198,32 @@ function create_each_block9(ctx) {
       ctx = new_ctx;
       if (dirty[0] & /*definition*/
       1 && input0.value !== /*field*/
-      ctx[52].name) {
+      ctx[53].name) {
         set_input_value(
           input0,
           /*field*/
-          ctx[52].name
+          ctx[53].name
         );
       }
       if (!current || dirty[0] & /*definition*/
       1 && input1_placeholder_value !== (input1_placeholder_value = /*field*/
-      ctx[52].name)) {
+      ctx[53].name)) {
         attr(input1, "placeholder", input1_placeholder_value);
       }
       if (dirty[0] & /*definition*/
       1 && input1.value !== /*field*/
-      ctx[52].label) {
+      ctx[53].label) {
         set_input_value(
           input1,
           /*field*/
-          ctx[52].label
+          ctx[53].label
         );
       }
       if (dirty[0] & /*definition*/
       1)
         show_if_1 = isBasicInputType(
           /*field*/
-          ctx[52].input
+          ctx[53].input
         );
       if (show_if_1) {
         if (if_block0) {
@@ -25455,16 +26250,16 @@ function create_each_block9(ctx) {
         scrollWhenActive_action.update.call(
           null,
           /*index*/
-          ctx[56] === /*activeFieldIndex*/
+          ctx[57] === /*activeFieldIndex*/
           ctx[6]
         );
       if (dirty[0] & /*definition*/
       1 && input2.value !== /*field*/
-      ctx[52].description) {
+      ctx[53].description) {
         set_input_value(
           input2,
           /*field*/
-          ctx[52].description
+          ctx[53].description
         );
       }
       if (dirty & /*Object*/
@@ -25472,11 +26267,11 @@ function create_each_block9(ctx) {
         each_value_1 = ensure_array_like(Object.entries(InputTypeReadable));
         let i;
         for (i = 0; i < each_value_1.length; i += 1) {
-          const child_ctx = get_each_context_14(ctx, each_value_1, i);
+          const child_ctx = get_each_context_15(ctx, each_value_1, i);
           if (each_blocks[i]) {
             each_blocks[i].p(child_ctx, dirty);
           } else {
-            each_blocks[i] = create_each_block_14(child_ctx);
+            each_blocks[i] = create_each_block_15(child_ctx);
             each_blocks[i].c();
             each_blocks[i].m(select, null);
           }
@@ -25491,7 +26286,7 @@ function create_each_block9(ctx) {
         select_option(
           select,
           /*field*/
-          ctx[52].input.type
+          ctx[53].input.type
         );
       }
       let previous_block_index = current_block_type_index;
@@ -25528,7 +26323,7 @@ function create_each_block9(ctx) {
           "file"
         ].includes(
           /*field*/
-          ctx[52].input.type
+          ctx[53].input.type
         );
       if (show_if) {
         if (if_block2) {
@@ -25554,7 +26349,7 @@ function create_each_block9(ctx) {
       if (dirty[0] & /*definition*/
       1)
         fieldmeta_changes.field = /*field*/
-        ctx[52];
+        ctx[53];
       if (dirty[0] & /*availableFieldsForCondition*/
       32)
         fieldmeta_changes.availableFieldsForCondition = /*availableFieldsForCondition*/
@@ -25562,7 +26357,7 @@ function create_each_block9(ctx) {
       fieldmeta.$set(fieldmeta_changes);
       if (!current || dirty[0] & /*definition*/
       1 && button1_disabled_value !== (button1_disabled_value = /*index*/
-      ctx[56] === /*definition*/
+      ctx[57] === /*definition*/
       ctx[0].fields.length - 1)) {
         button1.disabled = button1_disabled_value;
       }
@@ -25887,6 +26682,12 @@ function instance33($$self, $$props, $$invalidate) {
       $$invalidate(0, definition);
     }
   }
+  function inputbuilderselect_folders_binding(value, field) {
+    if ($$self.$$.not_equal(field.input.folders, value)) {
+      field.input.folders = value;
+      $$invalidate(0, definition);
+    }
+  }
   function inputbuilderselect_query_binding(value, field) {
     if ($$self.$$.not_equal(field.input.query, value)) {
       field.input.query = value;
@@ -26059,6 +26860,7 @@ function instance33($$self, $$props, $$invalidate) {
     inputbuilderselect_source_binding_1,
     inputbuilderselect_options_binding_1,
     inputbuilderselect_folder_binding_1,
+    inputbuilderselect_folders_binding,
     inputbuilderselect_query_binding,
     inputbuilderselect_allowUnknownValues_binding,
     input0_input_handler_2,
@@ -26392,7 +27194,7 @@ function get_each_context10(ctx, list, i) {
   child_ctx[24] = list[i];
   return child_ctx;
 }
-function get_each_context_15(ctx, list, i) {
+function get_each_context_16(ctx, list, i) {
   const child_ctx = ctx.slice();
   child_ctx[27] = list[i];
   return child_ctx;
@@ -27329,7 +28131,7 @@ function create_default_slot15(ctx) {
     }
   };
 }
-function create_each_block_15(ctx) {
+function create_each_block_16(ctx) {
   let keyvalue;
   let current;
   keyvalue = new KeyValue_default({
@@ -27400,7 +28202,7 @@ function create_each_block10(ctx) {
   ));
   let each_blocks = [];
   for (let i = 0; i < each_value_1.length; i += 1) {
-    each_blocks[i] = create_each_block_15(get_each_context_15(ctx, each_value_1, i));
+    each_blocks[i] = create_each_block_16(get_each_context_16(ctx, each_value_1, i));
   }
   const out_1 = (i) => transition_out(each_blocks[i], 1, 1, () => {
     each_blocks[i] = null;
@@ -27479,12 +28281,12 @@ function create_each_block10(ctx) {
         ));
         let i;
         for (i = 0; i < each_value_1.length; i += 1) {
-          const child_ctx = get_each_context_15(ctx2, each_value_1, i);
+          const child_ctx = get_each_context_16(ctx2, each_value_1, i);
           if (each_blocks[i]) {
             each_blocks[i].p(child_ctx, dirty);
             transition_in(each_blocks[i], 1);
           } else {
-            each_blocks[i] = create_each_block_15(child_ctx);
+            each_blocks[i] = create_each_block_16(child_ctx);
             each_blocks[i].c();
             transition_in(each_blocks[i], 1);
             each_blocks[i].m(div, t3);
@@ -28597,7 +29399,7 @@ function get_each_context12(ctx, list, i) {
   child_ctx[19] = list[i];
   return child_ctx;
 }
-function get_each_context_16(ctx, list, i) {
+function get_each_context_17(ctx, list, i) {
   const child_ctx = ctx.slice();
   child_ctx[19] = list[i];
   return child_ctx;
@@ -28750,7 +29552,7 @@ function create_if_block18(ctx) {
     }
   };
 }
-function create_each_block_16(key_1, ctx) {
+function create_each_block_17(key_1, ctx) {
   let first2;
   let if_block_anchor;
   let if_block = (
@@ -29034,9 +29836,9 @@ function create_fragment38(ctx) {
     ctx2[19].name
   );
   for (let i = 0; i < each_value_1.length; i += 1) {
-    let child_ctx = get_each_context_16(ctx, each_value_1, i);
+    let child_ctx = get_each_context_17(ctx, each_value_1, i);
     let key = get_key(child_ctx);
-    each1_lookup.set(key, each_blocks_1[i] = create_each_block_16(key, child_ctx));
+    each1_lookup.set(key, each_blocks_1[i] = create_each_block_17(key, child_ctx));
   }
   let each_value = ensure_array_like(
     /*$fields*/
@@ -29283,7 +30085,7 @@ function create_fragment38(ctx) {
           /*$fields*/
           ctx2[6]
         );
-        each_blocks_1 = update_keyed_each(each_blocks_1, dirty, get_key, 1, ctx2, each_value_1, each1_lookup, div1, destroy_block, create_each_block_16, t8, get_each_context_16);
+        each_blocks_1 = update_keyed_each(each_blocks_1, dirty, get_key, 1, ctx2, each_value_1, each1_lookup, div1, destroy_block, create_each_block_17, t8, get_each_context_17);
       }
       if (dirty & /*$bodyTemplate, $fields*/
       192) {
@@ -29638,7 +30440,8 @@ var TemplateBuilderView = class extends import_obsidian33.ItemView {
     });
   }
   getState() {
-    return this.model;
+    var _a;
+    return (_a = this.model) != null ? _a : {};
   }
   async setState(state, result2) {
     console.log("Setting state", state);
@@ -29724,7 +30527,7 @@ var ModalFormPlugin = class extends import_obsidian34.Plugin {
     this.unsubscribeSettingsStore();
   }
   async activateView(viewType, state) {
-    var _a, _b, _c, _d;
+    var _a, _b, _c, _d, _e, _f, _g;
     const { workspace } = this.app;
     let leaf = workspace.getLeavesOfType(viewType)[0];
     if (leaf) {
@@ -29732,13 +30535,16 @@ var ModalFormPlugin = class extends import_obsidian34.Plugin {
     } else if (import_obsidian34.Platform.isMobile || ((_a = this.settings) == null ? void 0 : _a.editorPosition) === "mainView") {
       leaf = this.app.workspace.getLeaf("tab");
     } else if (((_b = this.settings) == null ? void 0 : _b.editorPosition) === "right") {
-      leaf = this.app.workspace.getRightLeaf(false);
-    } else if (((_c = this.settings) == null ? void 0 : _c.editorPosition) === "left") {
-      leaf = this.app.workspace.getLeftLeaf(false);
-    } else if (((_d = this.settings) == null ? void 0 : _d.editorPosition) === "modal") {
+      leaf = (_c = this.app.workspace.getRightLeaf(false)) != null ? _c : void 0;
+    } else if (((_d = this.settings) == null ? void 0 : _d.editorPosition) === "left") {
+      leaf = (_e = this.app.workspace.getLeftLeaf(false)) != null ? _e : void 0;
+    } else if (((_f = this.settings) == null ? void 0 : _f.editorPosition) === "modal") {
       leaf = this.app.workspace.getLeaf(false);
     } else {
-      leaf = this.app.workspace.getRightLeaf(false);
+      leaf = (_g = this.app.workspace.getRightLeaf(false)) != null ? _g : void 0;
+    }
+    if (!leaf) {
+      leaf = this.app.workspace.getLeaf("tab");
     }
     await leaf.setViewState({
       type: viewType,

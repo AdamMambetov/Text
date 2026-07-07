@@ -4,7 +4,7 @@
   "showInlineTitle": false,
   "alwaysUpdateLinks": true,
   "livePreview": false,
-  "strictLineBreaks": true,
+  "strictLineBreaks": false,
   "showUnsupportedFiles": true,
   "pdfExportSettings": {
     "includeName": false,
