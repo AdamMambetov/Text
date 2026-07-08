@@ -1,11 +1,13 @@
 ---
 created: 2024-10-13T22:41:32+03:00
-aliases: [Can You Feel My Heart]
+aliases:
+  - "Can You Feel My Heart"
 Cover: ""
 Year: 2013
 Album: "[[Sempiternal]]"
 CoverOf: ""
-Creators: ["[[Bring Me The Horizon (🎙️ 239)]]"]
+Creators:
+  - "[[Bring Me The Horizon (🎙️ 239)]]"
 ListenInSec: 450
 NumberInAlbum: 1
 related: []

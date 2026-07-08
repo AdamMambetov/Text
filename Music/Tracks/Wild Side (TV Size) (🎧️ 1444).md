@@ -1,6 +1,7 @@
 ---
 created: 2025-01-07T21:35:52+03:00
-aliases: [Wild Side (TV Size)]
+aliases:
+  - "Wild Side (TV Size)"
 Cover: ""
 Year: 0
 Album: ""

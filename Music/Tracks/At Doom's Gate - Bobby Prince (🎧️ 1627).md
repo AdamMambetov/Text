@@ -1,11 +1,13 @@
 ---
 created: 2025-01-08T19:40:15+03:00
-aliases: ["At Doom's Gate"]
+aliases:
+  - "At Doom's Gate"
 Cover: ""
 Year: 1993
 Album: "[[Doom]]"
 CoverOf: ""
-Creators: ["[[Bobby Prince (🎙️ 233)]]"]
+Creators:
+  - "[[Bobby Prince (🎙️ 233)]]"
 ListenInSec: 869
 NumberInAlbum: 3
 related: []

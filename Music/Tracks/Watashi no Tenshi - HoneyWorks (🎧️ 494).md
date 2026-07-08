@@ -1,11 +1,13 @@
 ---
 created: 2022-10-05T14:07:26+03:00
-aliases: [Watashi no Tenshi]
+aliases:
+  - "Watashi no Tenshi"
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""
-Creators: ["[[HoneyWorks (🎙️ 259)]]"]
+Creators:
+  - "[[HoneyWorks (🎙️ 259)]]"
 ListenInSec: 45
 NumberInAlbum: 0
 related: []

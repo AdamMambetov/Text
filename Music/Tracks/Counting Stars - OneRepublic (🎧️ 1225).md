@@ -1,11 +1,13 @@
 ---
 created: 2024-10-13T23:03:38+03:00
-aliases: [Counting Stars]
+aliases:
+  - "Counting Stars"
 Cover: ""
 Year: 2013
 Album: "[[Native]]"
 CoverOf: ""
-Creators: ["[[OneRepublic (🎙️ 401)]]"]
+Creators:
+  - "[[OneRepublic (🎙️ 401)]]"
 ListenInSec: 1
 NumberInAlbum: 1
 related: []

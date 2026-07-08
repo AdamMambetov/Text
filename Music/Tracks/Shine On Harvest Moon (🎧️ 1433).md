@@ -1,6 +1,7 @@
 ---
 created: 2025-01-07T20:08:28+03:00
-aliases: [Shine On Harvest Moon]
+aliases:
+  - "Shine On Harvest Moon"
 Cover: ""
 Year: 0
 Album: ""

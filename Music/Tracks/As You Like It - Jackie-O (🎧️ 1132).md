@@ -1,11 +1,15 @@
 ---
 created: 2024-10-05T15:56:08+03:00
-aliases: [As You Like It, Okinimesumama, Как тебе будет угодно]
+aliases:
+  - "As You Like It"
+  - "Okinimesumama"
+  - "Как тебе будет угодно"
 Cover: "[[_No Album Art.jpg]]"
 Year: 2023
 Album: ""
 CoverOf: "[[Okinimesumama - Eve (🎧️ 1133)]]"
-Creators: ["[[Jackie-O (🎙️ 339)]]"]
+Creators:
+  - "[[Jackie-O (🎙️ 339)]]"
 ListenInSec: 480
 NumberInAlbum: 1
 related: []

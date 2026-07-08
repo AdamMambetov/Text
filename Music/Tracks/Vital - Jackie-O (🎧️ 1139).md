@@ -1,11 +1,13 @@
 ---
 created: 2024-10-05T15:53:04+03:00
-aliases: [Vital]
+aliases:
+  - "Vital"
 Cover: "[[_No Album Art.jpg]]"
 Year: 2019
 Album: ""
 CoverOf: "[[Vital - Endoh Masaaki]]"
-Creators: ["[[Jackie-O (🎙️ 339)]]"]
+Creators:
+  - "[[Jackie-O (🎙️ 339)]]"
 ListenInSec: 250
 NumberInAlbum: 0
 related: []

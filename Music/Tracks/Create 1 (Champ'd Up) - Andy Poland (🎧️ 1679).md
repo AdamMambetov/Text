@@ -1,11 +1,15 @@
 ---
 created: 2025-06-02T22:52:09+03:00
-aliases: ["Create 1 (Champ'd Up)", Jackbox 7, Create 1 (ГладиАРТоры)]
+aliases:
+  - "Create 1 (Champ'd Up)"
+  - "Jackbox 7"
+  - "Create 1 (ГладиАРТоры)"
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""
-Creators: ["[[Andy Poland (🎙️ 183)]]"]
+Creators:
+  - "[[Andy Poland (🎙️ 183)]]"
 ListenInSec: 471
 NumberInAlbum: 0
 related: []

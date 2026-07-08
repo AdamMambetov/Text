@@ -1,6 +1,7 @@
 ---
 created: 2024-07-21T15:53:28+03:00
-aliases: [Albatar Albator]
+aliases:
+  - "Albatar Albator"
 Cover: ""
 Year: 0
 Album: ""

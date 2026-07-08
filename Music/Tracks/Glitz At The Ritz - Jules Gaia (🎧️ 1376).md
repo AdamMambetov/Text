@@ -1,6 +1,7 @@
 ---
 created: 2024-10-30T19:30:00+03:00
-aliases: [Glitz At The Ritz]
+aliases:
+  - "Glitz At The Ritz"
 Cover: ""
 Year: 2016
 Album: "[[Razzmatazz]]"

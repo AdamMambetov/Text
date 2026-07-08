@@ -1,11 +1,13 @@
 ---
 created: 2024-12-12T21:18:50+03:00
-aliases: [Lagtrain]
+aliases:
+  - "Lagtrain"
 Cover: "[[_No Album Art.jpg]]"
 Year: 2023
 Album: ""
 CoverOf: "[[Lagtrain - inabakumori (🎧️ 4)]]"
-Creators: ["[[Jinja (🎙️ 342)]]"]
+Creators:
+  - "[[Jinja (🎙️ 342)]]"
 ListenInSec: 254
 NumberInAlbum: 1
 related: []

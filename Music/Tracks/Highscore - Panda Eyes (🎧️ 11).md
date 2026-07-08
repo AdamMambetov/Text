@@ -1,11 +1,14 @@
 ---
 created: 2022-04-21T01:52:37+03:00
-aliases: [Highscore]
+aliases:
+  - "Highscore"
 Cover: "[[Teminite & Panda Eyes - Highscore.png]]"
 Year: 2014
 Album: ""
 CoverOf: ""
-Creators: ["[[Panda Eyes (🎙️ 489)]]", "[[Terminite (🎙️ 490)]]"]
+Creators:
+  - "[[Panda Eyes (🎙️ 489)]]"
+  - "[[Terminite (🎙️ 490)]]"
 ListenInSec: 513
 NumberInAlbum: 0
 related: []

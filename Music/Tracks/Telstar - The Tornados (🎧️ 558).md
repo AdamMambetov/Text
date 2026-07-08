@@ -1,11 +1,13 @@
 ---
 created: 2022-12-20T23:24:44+03:00
-aliases: [Telstar]
+aliases:
+  - "Telstar"
 Cover: "[[_No Album Art.jpg]]"
 Year: 2002
 Album: ""
 CoverOf: ""
-Creators: ["[[The Tornados (🎙️ 635)]]"]
+Creators:
+  - "[[The Tornados (🎙️ 635)]]"
 ListenInSec: 7
 NumberInAlbum: 0
 related: []

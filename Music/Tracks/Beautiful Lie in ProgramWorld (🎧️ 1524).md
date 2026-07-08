@@ -1,6 +1,7 @@
 ---
 created: 2025-01-08T17:38:06+03:00
-aliases: [Beautiful Lie in ProgramWorld]
+aliases:
+  - "Beautiful Lie in ProgramWorld"
 Cover: ""
 Year: 0
 Album: ""

@@ -1,11 +1,15 @@
 ---
 created: 2025-10-28T20:32:06+03:00
-aliases: [Destiny (TV Size), Clevatess ED 1, Клеватесс ED 1]
+aliases:
+  - "Destiny (TV Size)"
+  - "Clevatess ED 1"
+  - "Клеватесс ED 1"
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""
-Creators: ["[[Ellie Goulding (🎙️ 682)]]"]
+Creators:
+  - "[[Ellie Goulding (🎙️ 682)]]"
 ListenInSec: 889
 NumberInAlbum: 0
 related: []

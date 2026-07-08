@@ -1,11 +1,13 @@
 ---
 created: 2023-09-29T16:22:55+03:00
-aliases: [Dancing With a Wolf]
+aliases:
+  - "Dancing With a Wolf"
 Cover: "[[_No Album Art.jpg]]"
 Year: 2015
 Album: "[[Future Hearts]]"
 CoverOf: ""
-Creators: ["[[All Time Low (🎙️ 169)]]"]
+Creators:
+  - "[[All Time Low (🎙️ 169)]]"
 ListenInSec: 6
 NumberInAlbum: 11
 related: []

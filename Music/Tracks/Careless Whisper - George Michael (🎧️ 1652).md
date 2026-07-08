@@ -1,11 +1,13 @@
 ---
 created: 2025-05-04T01:53:58+03:00
-aliases: [Careless Whisper]
+aliases:
+  - "Careless Whisper"
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""
-Creators: ["[[George Michael (🎙️ 746)]]"]
+Creators:
+  - "[[George Michael (🎙️ 746)]]"
 ListenInSec: 2093
 NumberInAlbum: 0
 related: []

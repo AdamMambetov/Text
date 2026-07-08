@@ -1,11 +1,13 @@
 ---
 created: 2024-10-13T23:21:12+03:00
-aliases: [Hurricane (Yamai Battle Theme)]
+aliases:
+  - "Hurricane (Yamai Battle Theme)"
 Cover: ""
 Year: 0
 Album: "[[Date A Live 2 OST]]"
 CoverOf: ""
-Creators: ["[[Go Sakabe (🎙️ 317)]]"]
+Creators:
+  - "[[Go Sakabe (🎙️ 317)]]"
 ListenInSec: 485
 NumberInAlbum: 1
 related: []

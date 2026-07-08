@@ -1,11 +1,13 @@
 ---
 created: 2022-12-20T22:43:40+03:00
-aliases: [Surface Pressure]
+aliases:
+  - "Surface Pressure"
 Cover: ""
 Year: 2022
 Album: "[[Surface Pressure]]"
 CoverOf: ""
-Creators: ["[[No Resolve (🎙️ 393)]]"]
+Creators:
+  - "[[No Resolve (🎙️ 393)]]"
 ListenInSec: 22
 NumberInAlbum: 1
 related: []

@@ -1,11 +1,13 @@
 ---
 created: 2022-04-22T21:40:36+03:00
-aliases: [Million Miles Away]
+aliases:
+  - "Million Miles Away"
 Cover: ""
 Year: 2000
 Album: "[[Conspiracy Of One [2000] {The Offspring}]]"
 CoverOf: ""
-Creators: ["[[The Offspring (🎙️ 459)]]"]
+Creators:
+  - "[[The Offspring (🎙️ 459)]]"
 ListenInSec: 16
 NumberInAlbum: 5
 related: []

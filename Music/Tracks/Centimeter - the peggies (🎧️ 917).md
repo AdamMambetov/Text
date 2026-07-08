@@ -1,14 +1,17 @@
 ---
 created: 2024-01-04T12:16:03+03:00
-aliases: [Centimeter]
+aliases:
+  - "Centimeter"
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""
-Creators: ["[[the peggies (🎙️ 460)]]"]
+Creators:
+  - "[[the peggies (🎙️ 460)]]"
 ListenInSec: 232
 NumberInAlbum: 0
-related: ["[[Centimeter (TV Size) - the peggies]]"]
+related:
+  - "[[Centimeter (TV Size) - the peggies]]"
 source: ""
 SourceFile: "[[the peggies - Centimeter.mp3]]"
 ---

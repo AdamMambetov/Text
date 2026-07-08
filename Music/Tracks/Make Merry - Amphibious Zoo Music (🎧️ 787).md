@@ -1,11 +1,13 @@
 ---
 created: 2023-09-29T16:23:14+03:00
-aliases: [Make Merry]
+aliases:
+  - "Make Merry"
 Cover: ""
 Year: 2013
 Album: "[[Indie Anthems, Vol. 1]]"
 CoverOf: ""
-Creators: ["[[Amphibious Zoo Music (🎙️ 178)]]"]
+Creators:
+  - "[[Amphibious Zoo Music (🎙️ 178)]]"
 ListenInSec: 715
 NumberInAlbum: 1
 related: []

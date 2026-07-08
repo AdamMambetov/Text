@@ -1,6 +1,7 @@
 ---
 created: 2023-09-30T15:56:32+03:00
-aliases: [Broken Sword]
+aliases:
+  - "Broken Sword"
 Cover: ""
 Year: 2006
 Album: "[[The Human Resource]]"

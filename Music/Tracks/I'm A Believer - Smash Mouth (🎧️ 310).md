@@ -1,11 +1,13 @@
 ---
 created: 2022-04-26T01:01:40+03:00
-aliases: ["I'm A Believer"]
+aliases:
+  - "I'm A Believer"
 Cover: "[[_No Album Art.jpg]]"
 Year: 2001
 Album: ""
 CoverOf: ""
-Creators: ["[[Smash Mouth (🎙️ 442)]]"]
+Creators:
+  - "[[Smash Mouth (🎙️ 442)]]"
 ListenInSec: 361
 NumberInAlbum: 0
 related: []

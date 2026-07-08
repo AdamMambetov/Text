@@ -1,11 +1,13 @@
 ---
 created: 2023-09-29T16:24:26+03:00
-aliases: [End Credits]
+aliases:
+  - "End Credits"
 Cover: ""
 Year: 2011
 Album: "[[Pirates of the Caribbean: On Stranger Tides]]"
 CoverOf: ""
-Creators: ["[[Hans Zimmer (🎙️ 326)]]"]
+Creators:
+  - "[[Hans Zimmer (🎙️ 326)]]"
 ListenInSec: 3
 NumberInAlbum: 11
 related: []

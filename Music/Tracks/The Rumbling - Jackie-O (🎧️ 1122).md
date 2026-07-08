@@ -1,11 +1,13 @@
 ---
 created: 2024-10-05T15:26:50+03:00
-aliases: [The Rumbling]
+aliases:
+  - "The Rumbling"
 Cover: ""
 Year: 2022
 Album: "[[The Rumbling]]"
 CoverOf: ""
-Creators: ["[[Jackie-O (🎙️ 339)]]"]
+Creators:
+  - "[[Jackie-O (🎙️ 339)]]"
 ListenInSec: 187
 NumberInAlbum: 1
 related: []

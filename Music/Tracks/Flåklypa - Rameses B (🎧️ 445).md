@@ -1,11 +1,14 @@
 ---
 created: 2022-10-05T13:24:34+03:00
-aliases: [Flåklypa, Flaklypa]
+aliases:
+  - "Flåklypa"
+  - "Flaklypa"
 Cover: "[[_No Album Art.jpg]]"
 Year: 2013
 Album: ""
 CoverOf: ""
-Creators: ["[[Rameses B (🎙️ 423)]]"]
+Creators:
+  - "[[Rameses B (🎙️ 423)]]"
 ListenInSec: 1567
 NumberInAlbum: 0
 related: []

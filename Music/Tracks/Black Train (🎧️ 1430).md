@@ -1,6 +1,8 @@
 ---
 created: 2025-01-07T20:06:40+03:00
-aliases: [Black Train, End Credits]
+aliases:
+  - "Black Train"
+  - "End Credits"
 Cover: ""
 Year: 0
 Album: ""

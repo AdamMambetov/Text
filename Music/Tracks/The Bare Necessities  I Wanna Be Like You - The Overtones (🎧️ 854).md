@@ -1,6 +1,7 @@
 ---
 created: 2023-09-29T16:26:58+03:00
-aliases: [The Bare Necessities / I Wanna Be Like You]
+aliases:
+  - "The Bare Necessities / I Wanna Be Like You"
 Cover: ""
 Year: 2013
 Album: "[[Saturday Night at the Movies]]"

@@ -1,11 +1,13 @@
 ---
 created: 2023-09-29T16:29:24+03:00
-aliases: ["You're Welcome"]
+aliases:
+  - "You're Welcome"
 Cover: ""
 Year: 2016
 Album: "[[Moana]]"
 CoverOf: ""
-Creators: ["[[Disney (🎙️ 286)]]"]
+Creators:
+  - "[[Disney (🎙️ 286)]]"
 ListenInSec: 8
 NumberInAlbum: 7
 related: []

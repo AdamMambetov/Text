@@ -1,11 +1,13 @@
 ---
 created: 2022-04-22T20:51:58+03:00
-aliases: [War Child]
+aliases:
+  - "War Child"
 Cover: "[[_No Album Art.jpg]]"
 Year: 2015
 Album: ""
 CoverOf: ""
-Creators: ["[[Hollywood Undead (🎙️ 330)]]"]
+Creators:
+  - "[[Hollywood Undead (🎙️ 330)]]"
 ListenInSec: 191
 NumberInAlbum: 0
 related: []

@@ -1,11 +1,13 @@
 ---
 created: 2022-12-09T06:54:32+03:00
-aliases: [Nightmare]
+aliases:
+  - "Nightmare"
 Cover: ""
 Year: 2013
 Album: "[[Cinematics]]"
 CoverOf: ""
-Creators: ["[[Set It Off (🎙️ 436)]]"]
+Creators:
+  - "[[Set It Off (🎙️ 436)]]"
 ListenInSec: 1
 NumberInAlbum: 2
 related: []

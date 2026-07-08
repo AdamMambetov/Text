@@ -1,6 +1,7 @@
 ---
 created: 2025-01-07T20:02:36+03:00
-aliases: ["Adelaide's Trap"]
+aliases:
+  - "Adelaide's Trap"
 Cover: ""
 Year: 0
 Album: ""

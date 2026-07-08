@@ -1,11 +1,13 @@
 ---
 created: 2023-09-29T16:24:00+03:00
-aliases: [Old Yellow Bricks]
+aliases:
+  - "Old Yellow Bricks"
 Cover: ""
 Year: 2007
 Album: "[[Favourite Worst Nightmare]]"
 CoverOf: ""
-Creators: ["[[Arctic Monkeys (🎙️ 188)]]"]
+Creators:
+  - "[[Arctic Monkeys (🎙️ 188)]]"
 ListenInSec: 376
 NumberInAlbum: 11
 related: []

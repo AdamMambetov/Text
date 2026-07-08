@@ -1,6 +1,7 @@
 ---
 created: 2025-01-07T20:05:20+03:00
-aliases: [Potatus Et Molassus]
+aliases:
+  - "Potatus Et Molassus"
 Cover: ""
 Year: 0
 Album: ""

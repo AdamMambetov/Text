@@ -1,11 +1,16 @@
 ---
 created: 2025-01-07T20:24:38+03:00
-aliases: [LOST IN PARADISE (TV Size), Jujutsu Kaisen ED 1, Магическая битва ED 1]
+aliases:
+  - "LOST IN PARADISE (TV Size)"
+  - "Jujutsu Kaisen ED 1"
+  - "Магическая битва ED 1"
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: "[[LOST IN PARADISE - ALI]]"
-Creators: ["[[ALI (🎙️ 720)]]", "[[AKLO (🎙️ 721)]]"]
+Creators:
+  - "[[ALI (🎙️ 720)]]"
+  - "[[AKLO (🎙️ 721)]]"
 ListenInSec: 177
 NumberInAlbum: 0
 related: []

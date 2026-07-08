@@ -1,11 +1,13 @@
 ---
 created: 2022-12-09T06:57:32+03:00
-aliases: [La Seine]
+aliases:
+  - "La Seine"
 Cover: "[[_No Album Art.jpg]]"
 Year: 2017
 Album: ""
 CoverOf: ""
-Creators: ["[[Disney (🎙️ 286)]]"]
+Creators:
+  - "[[Disney (🎙️ 286)]]"
 ListenInSec: 330
 NumberInAlbum: 0
 related: []

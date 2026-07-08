@@ -1,6 +1,7 @@
 ---
 created: 2024-10-10T22:49:58+03:00
-aliases: [Bad Romance]
+aliases:
+  - "Bad Romance"
 Cover: ""
 Year: 2010
 Album: "[[Jay Smith]]"

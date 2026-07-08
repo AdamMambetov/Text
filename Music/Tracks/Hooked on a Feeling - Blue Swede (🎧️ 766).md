@@ -1,11 +1,13 @@
 ---
 created: 2023-09-29T16:23:19+03:00
-aliases: [Hooked on a Feeling]
+aliases:
+  - "Hooked on a Feeling"
 Cover: ""
 Year: 1973
 Album: "[[Hooked on a Feeling]]"
 CoverOf: ""
-Creators: ["[[Blue Swede (🎙️ 231)]]"]
+Creators:
+  - "[[Blue Swede (🎙️ 231)]]"
 ListenInSec: 175
 NumberInAlbum: 1
 related: []

@@ -1,11 +1,13 @@
 ---
 created: 2022-12-21T00:07:28+03:00
-aliases: [Spirits]
+aliases:
+  - "Spirits"
 Cover: "[[_No Album Art.jpg]]"
 Year: 2016
 Album: "[[Hope]]"
 CoverOf: ""
-Creators: ["[[The Strumbellas (🎙️ 644)]]"]
+Creators:
+  - "[[The Strumbellas (🎙️ 644)]]"
 ListenInSec: 408
 NumberInAlbum: 1
 related: []

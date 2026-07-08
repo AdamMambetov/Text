@@ -64,7 +64,7 @@ tracklist:
   - "[[No title - Reol (🎧️ 466)]]"
   - "[[Brain Power - NOMA (🎧️ 465)]]"
   - "[[Welcome To The Club - MT NightCore (🎧️ 464)]]"
-  - "[[Koko kara - Kana Hanazawa (🎧️ 463)]]"
+  - "[[Koko kara, Koko kara - Kana Hanazawa (🎧️ 463)]]"
   - "[[Monster (DotEXE Dubstep Remix) - Meg & Dia (🎧️ 462)]]"
   - "[[MariannE - Yooh (🎧️ 461)]]"
   - "[[White Promise - Nayugorou (🎧️ 460)]]"

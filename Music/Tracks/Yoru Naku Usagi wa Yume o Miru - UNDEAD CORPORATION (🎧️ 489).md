@@ -1,11 +1,13 @@
 ---
 created: 2022-10-05T14:01:36+03:00
-aliases: [Yoru Naku Usagi wa Yume o Miru]
+aliases:
+  - "Yoru Naku Usagi wa Yume o Miru"
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""
-Creators: ["[[UNDEAD CORPORATION (🎙️ 578)]]"]
+Creators:
+  - "[[UNDEAD CORPORATION (🎙️ 578)]]"
 ListenInSec: 217
 NumberInAlbum: 0
 related: []

@@ -1,6 +1,7 @@
 ---
 created: 2025-01-08T23:17:07+03:00
-aliases: [Day of Tragedy]
+aliases:
+  - "Day of Tragedy"
 Cover: ""
 Year: 0
 Album: ""

@@ -1,11 +1,13 @@
 ---
 created: 2024-10-13T22:50:12+03:00
-aliases: [Circus for a Psycho]
+aliases:
+  - "Circus for a Psycho"
 Cover: ""
 Year: 2013
 Album: "[[Rise]]"
 CoverOf: ""
-Creators: ["[[Skillet (🎙️ 440)]]"]
+Creators:
+  - "[[Skillet (🎙️ 440)]]"
 ListenInSec: 3
 NumberInAlbum: 5
 related: []

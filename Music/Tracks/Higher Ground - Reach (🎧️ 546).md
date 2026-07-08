@@ -1,11 +1,13 @@
 ---
 created: 2022-12-20T23:16:20+03:00
-aliases: [Higher Ground]
+aliases:
+  - "Higher Ground"
 Cover: "[[_No Album Art.jpg]]"
 Year: 2021
 Album: ""
 CoverOf: ""
-Creators: ["[[Reach (🎙️ 425)]]"]
+Creators:
+  - "[[Reach (🎙️ 425)]]"
 ListenInSec: 1256
 NumberInAlbum: 0
 related: []

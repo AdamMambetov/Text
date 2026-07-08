@@ -1,14 +1,18 @@
 ---
 created: 2025-07-14T23:12:46+03:00
-aliases: [ODDTAXI, Случайное такси OP 1]
+aliases:
+  - "ODDTAXI"
+  - "Случайное такси OP 1"
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""
-Creators: ["[[Skirt & PUNPEE (🎙️ 702)]]"]
+Creators:
+  - "[[Skirt & PUNPEE (🎙️ 702)]]"
 ListenInSec: 1485
 NumberInAlbum: 0
-related: ["[[ODDTAXI (TV Size) - Skirt & PUNPEE (🎧️ 1741)]]"]
+related:
+  - "[[ODDTAXI (TV Size) - Skirt & PUNPEE (🎧️ 1741)]]"
 source: ""
 SourceFile: "[[Skirt & PUNPEE - ODDTAXI.mp3]]"
 ---

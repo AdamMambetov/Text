@@ -1,11 +1,13 @@
 ---
 created: 2022-12-09T06:58:38+03:00
-aliases: [Feed the Machine]
+aliases:
+  - "Feed the Machine"
 Cover: ""
 Year: 2020
 Album: "[[Feed the Machine]]"
 CoverOf: ""
-Creators: ["[[Poor Mans Poison (🎙️ 415)]]"]
+Creators:
+  - "[[Poor Mans Poison (🎙️ 415)]]"
 ListenInSec: 202
 NumberInAlbum: 1
 related: []

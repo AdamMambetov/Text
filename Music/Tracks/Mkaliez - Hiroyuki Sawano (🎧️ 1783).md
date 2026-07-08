@@ -1,11 +1,13 @@
 ---
 created: 2025-10-28T21:18:20+03:00
-aliases: [Hiroyuki_Sawano - Mkaliez]
+aliases:
+  - "Mkaliez"
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""
-Creators: []
+Creators:
+  - "[[Hiroyuki Sawano (🎙️ 329)]]"
 ListenInSec: 478
 NumberInAlbum: 0
 related: []

@@ -1,6 +1,7 @@
 ---
 created: 2024-10-23T15:05:20+03:00
-aliases: [Everything Black]
+aliases:
+  - "Everything Black"
 Cover: ""
 Year: 2017
 Album: "[[Everything Black]]"

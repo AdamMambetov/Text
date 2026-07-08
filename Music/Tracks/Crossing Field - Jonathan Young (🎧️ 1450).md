@@ -1,14 +1,21 @@
 ---
 created: 2025-01-08T00:30:46+03:00
-aliases: [Crossing Field, Sword Art Online OP 1, SAO OP 1, Мастера меча онлайн OP 1, САО OP 1]
+aliases:
+  - "Crossing Field"
+  - "Sword Art Online OP 1"
+  - "SAO OP 1"
+  - "Мастера меча онлайн OP 1"
+  - "САО OP 1"
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: "[[Crossing Field - LiSA (🎧️ 1445)]]"
-Creators: ["[[Jonathan Young (🎙️ 343)]]"]
+Creators:
+  - "[[Jonathan Young (🎙️ 343)]]"
 ListenInSec: 245
 NumberInAlbum: 0
-related: ["[[Crossing Field (TV Size) (🎧️ 1463)]]"]
+related:
+  - "[[Crossing Field (TV Size) (🎧️ 1463)]]"
 source: ""
 SourceFile: "[[Jonathan Young - Crossing Field.mp3]]"
 ---

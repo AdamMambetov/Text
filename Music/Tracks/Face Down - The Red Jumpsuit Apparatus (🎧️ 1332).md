@@ -1,6 +1,7 @@
 ---
 created: 2024-10-23T15:12:10+03:00
-aliases: [Face Down]
+aliases:
+  - "Face Down"
 Cover: ""
 Year: 2006
 Album: "[[Don't You Fake It]]"

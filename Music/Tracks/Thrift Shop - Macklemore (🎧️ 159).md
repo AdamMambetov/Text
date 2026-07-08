@@ -1,11 +1,15 @@
 ---
 created: 2022-04-22T21:07:54+03:00
-aliases: [Thrift Shop]
+aliases:
+  - "Thrift Shop"
 Cover: "[[_No Album Art.jpg]]"
 Year: 2012
 Album: ""
 CoverOf: ""
-Creators: ["[[Macklemore (🎙️ 515)]]", "[[Ryan Lewis (🎙️ 516)]]", "[[Wanz (🎙️ 517)]]"]
+Creators:
+  - "[[Macklemore (🎙️ 515)]]"
+  - "[[Ryan Lewis (🎙️ 516)]]"
+  - "[[Wanz (🎙️ 517)]]"
 ListenInSec: 469
 NumberInAlbum: 0
 related: []

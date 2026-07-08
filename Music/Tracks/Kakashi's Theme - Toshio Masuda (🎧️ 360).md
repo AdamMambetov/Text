@@ -1,11 +1,13 @@
 ---
 created: 2022-04-28T17:39:16+03:00
-aliases: ["Kakashi's Theme"]
+aliases:
+  - "Kakashi's Theme"
 Cover: "[[_No Album Art.jpg]]"
 Year: 2003
 Album: "[[Naruto OST 1 (📀 15)]]"
 CoverOf: ""
-Creators: ["[[Toshio Masuda (🎙️ 559)]]"]
+Creators:
+  - "[[Toshio Masuda (🎙️ 559)]]"
 ListenInSec: 151
 NumberInAlbum: 11
 related: []

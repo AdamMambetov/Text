@@ -1,11 +1,13 @@
 ---
 created: 2023-02-14T03:23:00+03:00
-aliases: [Hola]
+aliases:
+  - "Hola"
 Cover: "[[_No Album Art.jpg]]"
 Year: 2008
 Album: "[[El Disco de Tu Corazón]]"
 CoverOf: ""
-Creators: ["[[Miranda! (🎙️ 646)]]"]
+Creators:
+  - "[[Miranda! (🎙️ 646)]]"
 ListenInSec: 6
 NumberInAlbum: 1
 related: []

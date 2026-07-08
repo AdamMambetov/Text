@@ -1,6 +1,9 @@
 ---
 created: 2025-01-27T19:39:14+03:00
-aliases: [SATSUGAI, Detroit Metal City OP 1, DMC OP 1]
+aliases:
+  - "SATSUGAI"
+  - "Detroit Metal City OP 1"
+  - "DMC OP 1"
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""

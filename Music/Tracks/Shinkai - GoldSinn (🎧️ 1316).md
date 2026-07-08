@@ -1,6 +1,7 @@
 ---
 created: 2024-10-23T14:55:58+03:00
-aliases: [Shinkai]
+aliases:
+  - "Shinkai"
 Cover: ""
 Year: 2004
 Album: "[[Elfen Lied OST]]"

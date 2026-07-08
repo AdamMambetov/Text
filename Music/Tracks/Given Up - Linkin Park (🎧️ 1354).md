@@ -1,11 +1,13 @@
 ---
 created: 2024-10-30T19:29:12+03:00
-aliases: [Given Up]
+aliases:
+  - "Given Up"
 Cover: ""
 Year: 2007
 Album: "[[Minutes to Midnight]]"
 CoverOf: ""
-Creators: ["[[Linkin Park (🎙️ 363)]]"]
+Creators:
+  - "[[Linkin Park (🎙️ 363)]]"
 ListenInSec: 415
 NumberInAlbum: 2
 related: []

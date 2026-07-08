@@ -12,7 +12,7 @@ Creators:
 ListenInSec: 498
 NumberInAlbum: 1
 related:
-  - "[[Hey, Deadman! Wake Up! (🎧️ 732)]]"
+  - "[[Hey, Deadman! Wake Up! - Plamenev (🎧️ 901)]]"
 source: ""
 SourceFile: "[[Plamenev - Эй, мёртвый! проснись!.mp3]]"
 ---

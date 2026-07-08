@@ -1,6 +1,7 @@
 ---
 created: 2025-01-07T18:24:37+03:00
-aliases: [Dragonborn Song]
+aliases:
+  - "Dragonborn Song"
 Cover: ""
 Year: 2011
 Album: ""

@@ -1,11 +1,13 @@
 ---
 created: 2024-10-23T15:02:34+03:00
-aliases: [Everybody Loves Me]
+aliases:
+  - "Everybody Loves Me"
 Cover: ""
 Year: 2009
 Album: "[[Waking Up]]"
 CoverOf: ""
-Creators: ["[[OneRepublic (🎙️ 401)]]"]
+Creators:
+  - "[[OneRepublic (🎙️ 401)]]"
 ListenInSec: 215
 NumberInAlbum: 4
 related: []

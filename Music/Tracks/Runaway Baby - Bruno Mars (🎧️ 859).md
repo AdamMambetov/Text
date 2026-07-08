@@ -1,11 +1,13 @@
 ---
 created: 2023-09-29T16:24:17+03:00
-aliases: [Runaway Baby]
+aliases:
+  - "Runaway Baby"
 Cover: ""
 Year: 2010
 Album: "[[Doo-Wops & Hooligans]]"
 CoverOf: ""
-Creators: ["[[Bruno Mars (🎙️ 240)]]"]
+Creators:
+  - "[[Bruno Mars (🎙️ 240)]]"
 ListenInSec: 295
 NumberInAlbum: 4
 related: []

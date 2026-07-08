@@ -1,11 +1,13 @@
 ---
 created: 2022-05-02T03:18:16+03:00
-aliases: [Peer Gynt]
+aliases:
+  - "Peer Gynt"
 Cover: ""
 Year: 2016
 Album: ""
 CoverOf: ""
-Creators: ["[[cYsmix (🎙️ 272)]]"]
+Creators:
+  - "[[cYsmix (🎙️ 272)]]"
 ListenInSec: 220
 NumberInAlbum: 1
 related: []

@@ -8,7 +8,8 @@ CoverOf: ""
 Creators: []
 ListenInSec: 250
 NumberInAlbum: 1
-related: ["[[Sugar Song to Bitter Step (TV Size) - UNISON SQUARE GARDEN]]"]
+related:
+  - "[[Sugar Song to Bitter Step (TV Size) - UNISON SQUARE GARDEN]]"
 source: ""
 SourceFile: "[[UNISON SQUARE GARDEN - Sugar Song to Bitter Step.mp3]]"
 ---

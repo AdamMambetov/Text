@@ -1,6 +1,7 @@
 ---
 created: 2025-01-07T20:04:50+03:00
-aliases: [The Old Mill]
+aliases:
+  - "The Old Mill"
 Cover: ""
 Year: 0
 Album: ""

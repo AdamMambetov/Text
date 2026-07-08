@@ -1,11 +1,13 @@
 ---
 created: 2022-04-22T21:13:28+03:00
-aliases: [We Will Rock You]
+aliases:
+  - "We Will Rock You"
 Cover: "[[_No Album Art.jpg]]"
 Year: 2008
 Album: ""
 CoverOf: ""
-Creators: ["[[Nickelback (🎙️ 390)]]"]
+Creators:
+  - "[[Nickelback (🎙️ 390)]]"
 ListenInSec: 163
 NumberInAlbum: 0
 related: []

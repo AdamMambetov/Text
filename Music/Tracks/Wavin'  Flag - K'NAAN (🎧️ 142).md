@@ -1,11 +1,13 @@
 ---
 created: 2022-04-22T21:00:46+03:00
-aliases: ["Wavin'  Flag"]
+aliases:
+  - "Wavin'  Flag"
 Cover: "[[_No Album Art.jpg]]"
 Year: 2010
 Album: ""
 CoverOf: ""
-Creators: ["[[K'NAAN (🎙️ 344)]]"]
+Creators:
+  - "[[K'NAAN (🎙️ 344)]]"
 ListenInSec: 214
 NumberInAlbum: 0
 related: []

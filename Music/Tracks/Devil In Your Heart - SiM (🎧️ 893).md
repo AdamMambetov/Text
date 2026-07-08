@@ -1,11 +1,13 @@
 ---
 created: 2024-01-04T12:14:31+03:00
-aliases: []
-Cover: ""
+aliases:
+  - "Devil In Your Heart"
+Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""
-Creators: []
+Creators:
+  - "[[SiM (🎙️ 637)]]"
 ListenInSec: 7
 NumberInAlbum: 1
 related: []

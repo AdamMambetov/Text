@@ -1,7 +1,10 @@
 ---
 created: 2024-07-21T15:46:40+03:00
-aliases: []
-Cover: ""
+aliases:
+  - "JUSTadICE (TV Size)"
+  - "Black Clover OP 7"
+  - "Чёрный клевер OP 7"
+Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

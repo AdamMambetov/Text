@@ -1,11 +1,13 @@
 ---
 created: 2024-10-08T15:35:04+03:00
-aliases: [Ame to Kusari]
+aliases:
+  - "Ame to Kusari"
 Cover: ""
 Year: 2021
 Album: "[[Ame to Kusari]]"
 CoverOf: ""
-Creators: ["[[Onsa Media (🎙️ 402)]]"]
+Creators:
+  - "[[Onsa Media (🎙️ 402)]]"
 ListenInSec: 583
 NumberInAlbum: 1
 related: []

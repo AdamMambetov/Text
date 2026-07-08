@@ -11,7 +11,7 @@ Creators:
 ListenInSec: 521
 NumberInAlbum: 142
 related:
-  - "[[Kina No Kaori ~Ai No Shiren!~ (🎧️ 1564)]]"
+  - "[[Kina No Kaori ~Ai No Shiren!~ - Kino Nei (🎧️ 1548)]]"
 source: ""
 SourceFile: "[[Umineko no Naku Koro ni OST - 142 Сверху вниз, наискосок.ogg]]"
 ---

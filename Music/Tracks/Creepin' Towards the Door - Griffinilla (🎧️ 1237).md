@@ -1,11 +1,13 @@
 ---
 created: 2024-10-13T23:08:56+03:00
-aliases: ["Creepin' Towards the Door"]
+aliases:
+  - "Creepin' Towards the Door"
 Cover: "[[_No Album Art.jpg]]"
 Year: 2015
 Album: "[[Creepin' Towards the Door (📀 9)]]"
 CoverOf: ""
-Creators: ["[[Griffinilla (🎙️ 323)]]"]
+Creators:
+  - "[[Griffinilla (🎙️ 323)]]"
 ListenInSec: 312
 NumberInAlbum: 2
 related: []

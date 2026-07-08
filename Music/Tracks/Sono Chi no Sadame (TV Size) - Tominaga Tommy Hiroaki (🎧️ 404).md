@@ -1,11 +1,13 @@
 ---
 created: 2022-05-02T03:37:08+03:00
-aliases: [Sono Chi no Sadame (TV Size)]
+aliases:
+  - "Sono Chi no Sadame (TV Size)"
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""
-Creators: ["[[Tominaga Tommy Hiroaki (🎙️ 566)]]"]
+Creators:
+  - "[[Tominaga Tommy Hiroaki (🎙️ 566)]]"
 ListenInSec: 439
 NumberInAlbum: 1
 related: []

@@ -1,11 +1,13 @@
 ---
 created: 2023-09-29T16:23:10+03:00
-aliases: [Lay All Your Love On Me]
+aliases:
+  - "Lay All Your Love On Me"
 Cover: ""
 Year: 2007
 Album: "[[Lost In Space]]"
 CoverOf: ""
-Creators: ["[[Avantasia (🎙️ 200)]]"]
+Creators:
+  - "[[Avantasia (🎙️ 200)]]"
 ListenInSec: 296
 NumberInAlbum: 2
 related: []

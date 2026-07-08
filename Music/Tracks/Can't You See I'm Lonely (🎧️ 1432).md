@@ -1,6 +1,7 @@
 ---
 created: 2025-01-07T20:07:48+03:00
-aliases: ["Can't You See I'm Lonely"]
+aliases:
+  - "Can't You See I'm Lonely"
 Cover: ""
 Year: 0
 Album: ""

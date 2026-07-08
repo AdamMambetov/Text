@@ -1,11 +1,13 @@
 ---
 created: 2022-12-09T06:55:36+03:00
-aliases: [Love Is Light]
+aliases:
+  - "Love Is Light"
 Cover: "[[_No Album Art.jpg]]"
 Year: 2015
 Album: ""
 CoverOf: ""
-Creators: ["[[The Dark Tenor (🎙️ 625)]]"]
+Creators:
+  - "[[The Dark Tenor (🎙️ 625)]]"
 ListenInSec: 278
 NumberInAlbum: 0
 related: []

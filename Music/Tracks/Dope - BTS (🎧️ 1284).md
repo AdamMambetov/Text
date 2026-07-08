@@ -1,11 +1,13 @@
 ---
 created: 2024-10-23T14:33:36+03:00
-aliases: [Dope]
+aliases:
+  - "Dope"
 Cover: ""
 Year: 2015
 Album: "[[The Most Beautiful Moment in Life: Young Forever]]"
 CoverOf: ""
-Creators: ["[[BTS (🎙️ 241)]]"]
+Creators:
+  - "[[BTS (🎙️ 241)]]"
 ListenInSec: 244
 NumberInAlbum: 5
 related: []

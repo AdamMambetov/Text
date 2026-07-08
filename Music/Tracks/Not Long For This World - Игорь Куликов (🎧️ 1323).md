@@ -1,11 +1,13 @@
 ---
 created: 2024-10-23T15:24:38+03:00
-aliases: [Not Long For This World]
+aliases:
+  - "Not Long For This World"
 Cover: ""
 Year: 2024
 Album: "[[Not Long For This World]]"
 CoverOf: ""
-Creators: ["[[Игорь Куликов (🎙️ 71)]]"]
+Creators:
+  - "[[Игорь Куликов (🎙️ 71)]]"
 ListenInSec: 574
 NumberInAlbum: 1
 related: []

@@ -1,6 +1,7 @@
 ---
 created: 2025-01-08T19:41:44+03:00
-aliases: [Find the Flame]
+aliases:
+  - "Find the Flame"
 Cover: ""
 Year: 0
 Album: ""

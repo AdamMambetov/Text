@@ -1,6 +1,7 @@
 ---
 created: 2025-01-07T20:10:26+03:00
-aliases: [Two Old Cat]
+aliases:
+  - "Two Old Cat"
 Cover: ""
 Year: 0
 Album: ""

@@ -1,11 +1,13 @@
 ---
 created: 2022-10-05T13:05:26+03:00
-aliases: [circles!]
+aliases:
+  - "circles!"
 Cover: "[[_No Album Art.jpg]]"
 Year: 2015
 Album: ""
 CoverOf: ""
-Creators: ["[[nekodex (🎙️ 388)]]"]
+Creators:
+  - "[[nekodex (🎙️ 388)]]"
 ListenInSec: 136
 NumberInAlbum: 0
 related: []

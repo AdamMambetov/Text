@@ -1,6 +1,7 @@
 ---
 created: 2025-01-08T16:55:29+03:00
-aliases: [Beautiful Morning]
+aliases:
+  - "Beautiful Morning"
 Cover: ""
 Year: 0
 Album: ""

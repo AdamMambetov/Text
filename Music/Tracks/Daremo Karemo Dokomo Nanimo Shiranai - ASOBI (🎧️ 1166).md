@@ -1,11 +1,13 @@
 ---
 created: 2024-10-10T22:28:34+03:00
-aliases: [Daremo Karemo Dokomo Nanimo Shiranai]
+aliases:
+  - "Daremo Karemo Dokomo Nanimo Shiranai"
 Cover: ""
 Year: 2023
 Album: "[[Tengoku-Daimakyo the Animation ending Theme - Daremo Karemo Dokomo Nanimo Shiranai - Single]]"
 CoverOf: ""
-Creators: ["[[ASOBI (🎙️ 194)]]"]
+Creators:
+  - "[[ASOBI (🎙️ 194)]]"
 ListenInSec: 1003
 NumberInAlbum: 1
 related: []

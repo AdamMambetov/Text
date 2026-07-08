@@ -1,11 +1,13 @@
 ---
 created: 2022-04-28T15:07:20+03:00
-aliases: [Mas Que Nada]
+aliases:
+  - "Mas Que Nada"
 Cover: "[[_No Album Art.jpg]]"
 Year: 1967
 Album: "[[Barra Limpa [1967] {Luiz Henrique}]]"
 CoverOf: ""
-Creators: ["[[Luiz Henrique (🎙️ 555)]]"]
+Creators:
+  - "[[Luiz Henrique (🎙️ 555)]]"
 ListenInSec: 596
 NumberInAlbum: 8
 related: []

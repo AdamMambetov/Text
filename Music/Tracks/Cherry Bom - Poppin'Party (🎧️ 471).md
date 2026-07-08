@@ -1,11 +1,13 @@
 ---
 created: 2022-10-05T13:48:38+03:00
-aliases: [Cherry Bom]
+aliases:
+  - "Cherry Bom"
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""
-Creators: ["[[Poppin'Party (🎙️ 602)]]"]
+Creators:
+  - "[[Poppin'Party (🎙️ 602)]]"
 ListenInSec: 3
 NumberInAlbum: 1
 related: []

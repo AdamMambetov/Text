@@ -1,11 +1,13 @@
 ---
 created: 2025-02-03T08:28:50+03:00
-aliases: [Wind]
+aliases:
+  - "Wind"
 Cover: ""
 Year: 2005
 Album: "[[Akeboshi]]"
 CoverOf: ""
-Creators: ["[[Akeboshi (🎙️ 152)]]"]
+Creators:
+  - "[[Akeboshi (🎙️ 152)]]"
 ListenInSec: 911
 NumberInAlbum: 1
 related: []

@@ -1,11 +1,13 @@
 ---
 created: 2022-10-05T14:08:44+03:00
-aliases: [One Room Sugar Life]
+aliases:
+  - "One Room Sugar Life"
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""
-Creators: ["[[Nanawo Akari (🎙️ 622)]]"]
+Creators:
+  - "[[Nanawo Akari (🎙️ 622)]]"
 ListenInSec: 338
 NumberInAlbum: 1
 related: []

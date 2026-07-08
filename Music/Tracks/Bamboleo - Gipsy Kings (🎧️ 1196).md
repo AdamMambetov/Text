@@ -1,6 +1,7 @@
 ---
 created: 2024-10-10T22:51:50+03:00
-aliases: [Bamboleo]
+aliases:
+  - "Bamboleo"
 Cover: ""
 Year: 1988
 Album: "[[Gipsy Kings]]"

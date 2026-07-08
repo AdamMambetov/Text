@@ -1,6 +1,7 @@
 ---
 created: 2025-01-08T17:21:37+03:00
-aliases: [Cool Morning]
+aliases:
+  - "Cool Morning"
 Cover: ""
 Year: 0
 Album: ""

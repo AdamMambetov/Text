@@ -1,6 +1,7 @@
 ---
 created: 2023-09-29T16:24:36+03:00
-aliases: [Thought Contagion]
+aliases:
+  - "Thought Contagion"
 Cover: ""
 Year: 2020
 Album: "[[In Portrait]]"

@@ -1,11 +1,13 @@
 ---
 created: 2022-04-22T21:50:32+03:00
-aliases: [Never Going Home]
+aliases:
+  - "Never Going Home"
 Cover: ""
 Year: 2018
 Album: "[[V [2018] {Vigiland}]]"
 CoverOf: ""
-Creators: ["[[Vigiland (🎙️ 479)]]"]
+Creators:
+  - "[[Vigiland (🎙️ 479)]]"
 ListenInSec: 214
 NumberInAlbum: 4
 related: []

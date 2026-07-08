@@ -1,11 +1,13 @@
 ---
 created: 2024-10-08T15:47:24+03:00
-aliases: [Down from the Mountain]
+aliases:
+  - "Down from the Mountain"
 Cover: ""
 Year: 2014
 Album: "[[The Great Divide]]"
 CoverOf: ""
-Creators: ["[[Allen Lande (🎙️ 170)]]"]
+Creators:
+  - "[[Allen Lande (🎙️ 170)]]"
 ListenInSec: 235
 NumberInAlbum: 1
 related: []

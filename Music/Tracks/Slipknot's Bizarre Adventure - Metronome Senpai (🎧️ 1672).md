@@ -1,6 +1,7 @@
 ---
 created: 2025-05-04T02:29:30+03:00
-aliases: ["Slipknot's Bizarre Adventure"]
+aliases:
+  - "Slipknot's Bizarre Adventure"
 Cover: ""
 Year: 2019
 Album: ""

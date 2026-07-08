@@ -1,11 +1,13 @@
 ---
 created: 2023-09-29T16:24:01+03:00
-aliases: [On My Own]
+aliases:
+  - "On My Own"
 Cover: ""
 Year: 2011
 Album: "[[What I've Become]]"
 CoverOf: ""
-Creators: ["[[Ashes Remain (🎙️ 192)]]"]
+Creators:
+  - "[[Ashes Remain (🎙️ 192)]]"
 ListenInSec: 184
 NumberInAlbum: 2
 related: []

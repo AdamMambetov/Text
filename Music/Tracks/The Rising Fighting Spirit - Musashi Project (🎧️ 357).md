@@ -1,11 +1,13 @@
 ---
 created: 2022-04-28T17:39:06+03:00
-aliases: [The Rising Fighting Spirit]
+aliases:
+  - "The Rising Fighting Spirit"
 Cover: "[[_No Album Art.jpg]]"
 Year: 2003
 Album: "[[Naruto OST 1 (📀 15)]]"
 CoverOf: ""
-Creators: ["[[Musashi Project (🎙️ 560)]]"]
+Creators:
+  - "[[Musashi Project (🎙️ 560)]]"
 ListenInSec: 287
 NumberInAlbum: 7
 related: []

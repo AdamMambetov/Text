@@ -1,11 +1,13 @@
 ---
 created: 2024-10-30T19:30:48+03:00
-aliases: [Gold]
+aliases:
+  - "Gold"
 Cover: ""
 Year: 2014
 Album: "[[Smoke + Mirrors]]"
 CoverOf: ""
-Creators: ["[[Imagine Dragons (🎙️ 334)]]"]
+Creators:
+  - "[[Imagine Dragons (🎙️ 334)]]"
 ListenInSec: 440
 NumberInAlbum: 2
 related: []

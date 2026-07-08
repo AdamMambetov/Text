@@ -1,11 +1,13 @@
 ---
 created: 2022-10-05T13:36:24+03:00
-aliases: [White Promise]
+aliases:
+  - "White Promise"
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""
-Creators: ["[[Nayugorou (🎙️ 596)]]"]
+Creators:
+  - "[[Nayugorou (🎙️ 596)]]"
 ListenInSec: 17
 NumberInAlbum: 0
 related: []

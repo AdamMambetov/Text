@@ -1,11 +1,13 @@
 ---
 created: 2024-10-10T22:56:30+03:00
-aliases: [Believer]
+aliases:
+  - "Believer"
 Cover: ""
 Year: 2017
 Album: "[[Evolve]]"
 CoverOf: ""
-Creators: ["[[Imagine Dragons (🎙️ 334)]]"]
+Creators:
+  - "[[Imagine Dragons (🎙️ 334)]]"
 ListenInSec: 208
 NumberInAlbum: 4
 related: []

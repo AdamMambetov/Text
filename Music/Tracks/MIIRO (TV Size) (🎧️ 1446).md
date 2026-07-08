@@ -1,6 +1,7 @@
 ---
 created: 2025-01-07T21:55:40+03:00
-aliases: [MIIRO (TV Size)]
+aliases:
+  - "MIIRO (TV Size)"
 Cover: ""
 Year: 0
 Album: ""

@@ -1,11 +1,13 @@
 ---
 created: 2022-10-05T12:58:22+03:00
-aliases: [Kegare Naki Bara Juuji]
+aliases:
+  - "Kegare Naki Bara Juuji"
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""
-Creators: ["[[Ariabl'eyeS (🎙️ 189)]]"]
+Creators:
+  - "[[Ariabl'eyeS (🎙️ 189)]]"
 ListenInSec: 5
 NumberInAlbum: 0
 related: []

@@ -1,11 +1,16 @@
 ---
 created: 2024-10-23T15:07:48+03:00
-aliases: [Extra Magic Hour, Amagi Brilliant Park OP 1, Великолепный парк Амаги OP 1]
+aliases:
+  - "Extra Magic Hour"
+  - "Amagi Brilliant Park OP 1"
+  - "Великолепный парк Амаги OP 1"
 Cover: "[[_No Album Art.jpg]]"
 Year: 2015
 Album: ""
 CoverOf: ""
-Creators: ["[[AKINO (🎙️ 160)]]", "[[bless4 (🎙️ 161)]]"]
+Creators:
+  - "[[AKINO (🎙️ 160)]]"
+  - "[[bless4 (🎙️ 161)]]"
 ListenInSec: 1292
 NumberInAlbum: 0
 related: []

@@ -1,6 +1,7 @@
 ---
 created: 2025-01-07T19:57:04+03:00
-aliases: [Patient Is the Night]
+aliases:
+  - "Patient Is the Night"
 Cover: ""
 Year: 0
 Album: ""

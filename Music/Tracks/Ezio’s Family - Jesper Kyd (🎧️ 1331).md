@@ -1,11 +1,13 @@
 ---
 created: 2024-10-30T19:10:08+03:00
-aliases: [Ezio’s Family, ksjdf]
+aliases:
+  - "Ezio’s Family"
 Cover: ""
 Year: 2009
 Album: "[[Assassin’s Creed II]]"
 CoverOf: ""
-Creators: ["[[Jesper Kyd (🎙️ 341)]]"]
+Creators:
+  - "[[Jesper Kyd (🎙️ 341)]]"
 ListenInSec: 476
 NumberInAlbum: 3
 related: []

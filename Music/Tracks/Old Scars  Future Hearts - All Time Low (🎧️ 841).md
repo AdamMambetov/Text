@@ -1,11 +1,13 @@
 ---
 created: 2023-09-29T16:23:59+03:00
-aliases: [Old Scars / Future Hearts]
+aliases:
+  - "Old Scars / Future Hearts"
 Cover: ""
 Year: 2015
 Album: "[[Future Hearts]]"
 CoverOf: ""
-Creators: ["[[All Time Low (🎙️ 169)]]"]
+Creators:
+  - "[[All Time Low (🎙️ 169)]]"
 ListenInSec: 413
 NumberInAlbum: 13
 related: []

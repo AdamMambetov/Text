@@ -1,11 +1,13 @@
 ---
 created: 2022-04-21T01:52:52+03:00
-aliases: [Legends Never Die]
+aliases:
+  - "Legends Never Die"
 Cover: "[[League of Legends - Legends Never Die.jpg]]"
 Year: 2017
 Album: ""
 CoverOf: ""
-Creators: ["[[League of Legends (🎙️ 73)]]"]
+Creators:
+  - "[[League of Legends (🎙️ 73)]]"
 ListenInSec: 934
 NumberInAlbum: 0
 related: []

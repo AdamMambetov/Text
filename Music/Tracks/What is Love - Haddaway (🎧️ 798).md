@@ -1,6 +1,7 @@
 ---
 created: 2023-09-29T16:24:58+03:00
-aliases: [What is Love]
+aliases:
+  - "What is Love"
 Cover: ""
 Year: 1993
 Album: "[[The Album]]"

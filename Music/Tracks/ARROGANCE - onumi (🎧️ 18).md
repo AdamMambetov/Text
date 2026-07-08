@@ -1,11 +1,13 @@
 ---
 created: 2022-04-21T01:52:58+03:00
-aliases: [ARROGANCE]
+aliases:
+  - "ARROGANCE"
 Cover: "[[onumi - ARROGANCE.jpg]]"
 Year: 2021
 Album: ""
 CoverOf: ""
-Creators: ["[[onumi (🎙️ 492)]]"]
+Creators:
+  - "[[onumi (🎙️ 492)]]"
 ListenInSec: 10
 NumberInAlbum: 0
 related: []

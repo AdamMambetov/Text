@@ -1,11 +1,13 @@
 ---
 created: 2023-07-09T19:27:08+03:00
-aliases: [L.L.L.]
+aliases:
+  - "L.L.L."
 Cover: ""
 Year: 0
 Album: ""
 CoverOf: ""
-Creators: ["[[MYTH & ROID (🎙️ 384)]]"]
+Creators:
+  - "[[MYTH & ROID (🎙️ 384)]]"
 ListenInSec: 527
 NumberInAlbum: 1
 related: []

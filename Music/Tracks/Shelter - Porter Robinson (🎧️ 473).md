@@ -1,11 +1,14 @@
 ---
 created: 2022-10-05T13:49:24+03:00
-aliases: [Shelter]
+aliases:
+  - "Shelter"
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""
-Creators: ["[[Porter Robinson (🎙️ 603)]]", "[[Madeon (🎙️ 604)]]"]
+Creators:
+  - "[[Porter Robinson (🎙️ 603)]]"
+  - "[[Madeon (🎙️ 604)]]"
 ListenInSec: 355
 NumberInAlbum: 0
 related: []

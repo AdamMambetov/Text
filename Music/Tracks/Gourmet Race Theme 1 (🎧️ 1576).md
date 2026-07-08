@@ -1,6 +1,7 @@
 ---
 created: 2025-01-08T19:45:12+03:00
-aliases: [Gourmet Race Theme 1]
+aliases:
+  - "Gourmet Race Theme 1"
 Cover: ""
 Year: 0
 Album: "[[Kirby Super Star]]"

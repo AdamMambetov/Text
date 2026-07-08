@@ -1,7 +1,8 @@
 ---
 created: 2024-06-14T19:19:24+03:00
-aliases: []
-Cover: ""
+aliases:
+  - "Fortress Town Theme"
+Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

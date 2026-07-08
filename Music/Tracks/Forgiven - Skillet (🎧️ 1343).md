@@ -1,11 +1,13 @@
 ---
 created: 2024-10-30T19:20:24+03:00
-aliases: [Forgiven]
+aliases:
+  - "Forgiven"
 Cover: ""
 Year: 2009
 Album: "[[Awake]]"
 CoverOf: ""
-Creators: ["[[Skillet (🎙️ 440)]]"]
+Creators:
+  - "[[Skillet (🎙️ 440)]]"
 ListenInSec: 185
 NumberInAlbum: 9
 related: []

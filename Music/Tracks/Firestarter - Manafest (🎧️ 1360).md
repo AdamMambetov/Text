@@ -1,6 +1,7 @@
 ---
 created: 2024-10-30T19:17:10+03:00
-aliases: [Firestarter]
+aliases:
+  - "Firestarter"
 Cover: ""
 Year: 2017
 Album: "[[Stones]]"

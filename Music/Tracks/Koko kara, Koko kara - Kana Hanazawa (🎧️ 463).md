@@ -1,11 +1,13 @@
 ---
 created: 2022-10-05T13:39:34+03:00
-aliases: [Koko kara, Koko kara]
+aliases:
+  - "Koko kara, Koko kara"
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""
-Creators: ["[[Kana Hanazawa (🎙️ 186)]]"]
+Creators:
+  - "[[Kana Hanazawa (🎙️ 186)]]"
 ListenInSec: 58
 NumberInAlbum: 0
 related: []

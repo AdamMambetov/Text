@@ -1,11 +1,13 @@
 ---
 created: 2022-12-20T23:27:18+03:00
-aliases: [Lonely Day]
+aliases:
+  - "Lonely Day"
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""
-Creators: ["[[System Of A Down (🎙️ 453)]]"]
+Creators:
+  - "[[System Of A Down (🎙️ 453)]]"
 ListenInSec: 330
 NumberInAlbum: 0
 related: []

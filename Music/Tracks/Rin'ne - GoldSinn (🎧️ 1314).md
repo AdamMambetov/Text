@@ -1,6 +1,7 @@
 ---
 created: 2024-10-23T14:52:32+03:00
-aliases: ["Rin'ne"]
+aliases:
+  - "Rin'ne"
 Cover: ""
 Year: 0
 Album: "[[Elfen Lied OST]]"

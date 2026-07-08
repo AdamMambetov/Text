@@ -1,11 +1,15 @@
 ---
 created: 2025-01-08T19:27:30+03:00
-aliases: [Yuusha, Frieren OP 1, Фрирен OP 1]
+aliases:
+  - "Yuusha"
+  - "Frieren OP 1"
+  - "Фрирен OP 1"
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: "[[Yuusha - YOASOBI (🎧️ 1559)]]"
-Creators: ["[[Sati Akura (🎙️ 357)]]"]
+Creators:
+  - "[[Sati Akura (🎙️ 357)]]"
 ListenInSec: 1199
 NumberInAlbum: 1
 related: []

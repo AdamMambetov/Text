@@ -1,11 +1,14 @@
 ---
 created: 2022-04-28T16:51:42+03:00
-aliases: [I Know]
+aliases:
+  - "I Know"
 Cover: "[[_No Album Art.jpg]]"
 Year: 2011
 Album: "[[Letter to the Lord [2011] {Youssoupha; Irma}]]"
 CoverOf: ""
-Creators: ["[[Irma (🎙️ 556)]]", "[[Youssoupha (🎙️ 557)]]"]
+Creators:
+  - "[[Irma (🎙️ 556)]]"
+  - "[[Youssoupha (🎙️ 557)]]"
 ListenInSec: 5
 NumberInAlbum: 2
 related: []

@@ -1,7 +1,8 @@
 ---
 created: 2023-07-09T19:25:16+03:00
-aliases: []
-Cover: ""
+aliases:
+  - "It Has To Be This Way"
+Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

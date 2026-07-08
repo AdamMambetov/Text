@@ -1,11 +1,13 @@
 ---
 created: 2022-12-20T22:35:08+03:00
-aliases: ["Don't Stop Me Now"]
+aliases:
+  - "Don't Stop Me Now"
 Cover: ""
 Year: 2000
 Album: "[[The Platinum Collection]]"
 CoverOf: ""
-Creators: ["[[Queen (🎙️ 420)]]"]
+Creators:
+  - "[[Queen (🎙️ 420)]]"
 ListenInSec: 3
 NumberInAlbum: 7
 related: []

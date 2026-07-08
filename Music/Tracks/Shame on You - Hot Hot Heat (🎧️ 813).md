@@ -1,6 +1,7 @@
 ---
 created: 2023-09-29T16:24:33+03:00
-aliases: [Shame on You]
+aliases:
+  - "Shame on You"
 Cover: ""
 Year: 2005
 Album: "[[Elevator]]"

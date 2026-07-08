@@ -1,14 +1,19 @@
 ---
 created: 2025-06-02T23:56:53+03:00
-aliases: [Shinzou wo Sasageyo! (TV Size), Attack on Titan OP 3, Атака титанов OP 3]
+aliases:
+  - "Shinzou wo Sasageyo! (TV Size)"
+  - "Attack on Titan OP 3"
+  - "Атака титанов OP 3"
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""
-Creators: ["[[Linked Horizon (🎙️ 732)]]"]
+Creators:
+  - "[[Linked Horizon (🎙️ 732)]]"
 ListenInSec: 544
 NumberInAlbum: 0
-related: ["[[Shinzou wo Sasageyo! - Linked Horizon]]"]
+related:
+  - "[[Shinzou wo Sasageyo! - Linked Horizon]]"
 source: ""
 SourceFile: "[[Linked Horizon - Shinzou wo Sasageyo (TV Size).mp3]]"
 ---

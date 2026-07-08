@@ -1,11 +1,13 @@
 ---
 created: 2022-05-02T03:12:08+03:00
-aliases: [Fright March]
+aliases:
+  - "Fright March"
 Cover: "[[_No Album Art.jpg]]"
 Year: 2015
 Album: ""
 CoverOf: ""
-Creators: ["[[cYsmix (🎙️ 272)]]"]
+Creators:
+  - "[[cYsmix (🎙️ 272)]]"
 ListenInSec: 1773
 NumberInAlbum: 0
 related: []

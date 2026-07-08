@@ -1,11 +1,13 @@
 ---
 created: 2022-10-05T14:00:22+03:00
-aliases: [Dynamite (Extended Mix)]
+aliases:
+  - "Dynamite (Extended Mix)"
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""
-Creators: ["[[USAO (🎙️ 618)]]"]
+Creators:
+  - "[[USAO (🎙️ 618)]]"
 ListenInSec: 369
 NumberInAlbum: 1
 related: []

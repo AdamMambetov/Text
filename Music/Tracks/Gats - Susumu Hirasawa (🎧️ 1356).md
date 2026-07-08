@@ -1,11 +1,14 @@
 ---
 created: 2024-10-30T19:26:02+03:00
-aliases: [Gats, Guts]
+aliases:
+  - "Gats"
+  - "Guts"
 Cover: "[[_No Album Art.jpg]]"
 Year: 1997
 Album: "[[BERSERK OST (📀 6)]]"
 CoverOf: ""
-Creators: ["[[Susumu Hirasawa (🎙️ 452)]]"]
+Creators:
+  - "[[Susumu Hirasawa (🎙️ 452)]]"
 ListenInSec: 218
 NumberInAlbum: 4
 related: []

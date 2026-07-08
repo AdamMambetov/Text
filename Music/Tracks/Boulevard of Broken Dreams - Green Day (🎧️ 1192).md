@@ -1,11 +1,13 @@
 ---
 created: 2024-10-13T22:29:42+03:00
-aliases: [Boulevard of Broken Dreams]
+aliases:
+  - "Boulevard of Broken Dreams"
 Cover: ""
 Year: 2004
 Album: "[[American Idiot]]"
 CoverOf: ""
-Creators: ["[[Green Day (🎙️ 322)]]"]
+Creators:
+  - "[[Green Day (🎙️ 322)]]"
 ListenInSec: 2
 NumberInAlbum: 1
 related: []

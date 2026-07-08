@@ -1,6 +1,7 @@
 ---
 created: 2025-01-07T19:54:04+03:00
-aliases: [Into the Unknown]
+aliases:
+  - "Into the Unknown"
 Cover: ""
 Year: 0
 Album: ""

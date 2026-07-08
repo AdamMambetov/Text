@@ -1,6 +1,7 @@
 ---
 created: 2024-07-12T16:38:58+03:00
-aliases: [HIKARI (TV Size)]
+aliases:
+  - "HIKARI (TV Size)"
 Cover: ""
 Year: 0
 Album: ""

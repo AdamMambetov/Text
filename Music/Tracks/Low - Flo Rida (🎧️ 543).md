@@ -1,11 +1,13 @@
 ---
 created: 2022-12-20T23:10:58+03:00
-aliases: [Low]
+aliases:
+  - "Low"
 Cover: ""
 Year: 2008
 Album: "[[Low]]"
 CoverOf: ""
-Creators: ["[[Flo Rida (🎙️ 310)]]"]
+Creators:
+  - "[[Flo Rida (🎙️ 310)]]"
 ListenInSec: 224
 NumberInAlbum: 1
 related: []

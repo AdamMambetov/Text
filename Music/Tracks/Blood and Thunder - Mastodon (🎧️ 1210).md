@@ -1,6 +1,7 @@
 ---
 created: 2024-10-13T22:24:36+03:00
-aliases: [Blood and Thunder]
+aliases:
+  - "Blood and Thunder"
 Cover: ""
 Year: 2004
 Album: "[[Leviathan]]"

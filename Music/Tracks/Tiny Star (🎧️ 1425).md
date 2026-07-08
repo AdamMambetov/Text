@@ -1,6 +1,7 @@
 ---
 created: 2025-01-07T20:04:14+03:00
-aliases: [Tiny Star]
+aliases:
+  - "Tiny Star"
 Cover: ""
 Year: 0
 Album: ""

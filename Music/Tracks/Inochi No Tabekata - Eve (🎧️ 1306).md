@@ -1,11 +1,15 @@
 ---
 created: 2024-10-23T14:59:58+03:00
-aliases: [Inochi No Tabekata, How to Eat Life, Способ поедания жизни]
+aliases:
+  - "Inochi No Tabekata"
+  - "How to Eat Life"
+  - "Способ поедания жизни"
 Cover: "[[_No Album Art.jpg]]"
 Year: 2020
 Album: ""
 CoverOf: ""
-Creators: ["[[Eve (🎙️ 34)]]"]
+Creators:
+  - "[[Eve (🎙️ 34)]]"
 ListenInSec: 229
 NumberInAlbum: 0
 related: []

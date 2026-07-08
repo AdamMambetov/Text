@@ -1,11 +1,13 @@
 ---
 created: 2022-12-20T23:21:24+03:00
-aliases: [Rogue]
+aliases:
+  - "Rogue"
 Cover: ""
 Year: 2015
 Album: "[[Lonely Hearts' Boulevard]]"
 CoverOf: ""
-Creators: ["[[Paddy And The Rats (🎙️ 407)]]"]
+Creators:
+  - "[[Paddy And The Rats (🎙️ 407)]]"
 ListenInSec: 147
 NumberInAlbum: 4
 related: []

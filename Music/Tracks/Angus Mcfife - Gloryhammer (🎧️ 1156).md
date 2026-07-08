@@ -1,11 +1,13 @@
 ---
 created: 2024-10-08T15:53:58+03:00
-aliases: [Angus Mcfife]
+aliases:
+  - "Angus Mcfife"
 Cover: ""
 Year: 2013
 Album: "[[Tales from the Kingdom of Fife]]"
 CoverOf: ""
-Creators: ["[[Gloryhammer (🎙️ 316)]]"]
+Creators:
+  - "[[Gloryhammer (🎙️ 316)]]"
 ListenInSec: 3
 NumberInAlbum: 3
 related: []

@@ -1,6 +1,7 @@
 ---
 created: 2024-10-13T22:53:14+03:00
-aliases: [Clone]
+aliases:
+  - "Clone"
 Cover: ""
 Year: 2014
 Album: "[[Here's To the Ones]]"

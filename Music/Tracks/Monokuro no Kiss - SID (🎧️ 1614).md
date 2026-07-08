@@ -1,6 +1,7 @@
 ---
 created: 2025-01-08T22:47:30+03:00
-aliases: [Monokuro no Kiss]
+aliases:
+  - "Monokuro no Kiss"
 Cover: ""
 Year: 0
 Album: ""

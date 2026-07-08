@@ -1,11 +1,13 @@
 ---
 created: 2023-09-29T16:22:51+03:00
-aliases: [Final Battle]
+aliases:
+  - "Final Battle"
 Cover: "[[Van Helsing.jpg]]"
 Year: 2004
 Album: "[[Van Helsing OST (📀 26)]]"
 CoverOf: ""
-Creators: ["[[Alan Silvestri (🎙️ 162)]]"]
+Creators:
+  - "[[Alan Silvestri (🎙️ 162)]]"
 ListenInSec: 4
 NumberInAlbum: 11
 related: []

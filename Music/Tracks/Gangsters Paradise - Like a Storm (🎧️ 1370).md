@@ -1,6 +1,7 @@
 ---
 created: 2024-10-30T19:25:26+03:00
-aliases: [Gangsters Paradise]
+aliases:
+  - "Gangsters Paradise"
 Cover: ""
 Year: 2014
 Album: "[[Awaken the Fire]]"

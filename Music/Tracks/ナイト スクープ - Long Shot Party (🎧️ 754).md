@@ -1,11 +1,13 @@
 ---
 created: 2024-06-14T12:53:21+03:00
-aliases: [ナイト スクープ]
+aliases:
+  - "ナイト スクープ"
 Cover: ""
 Year: 2008
 Album: "[[distance]]"
 CoverOf: ""
-Creators: ["[[Long Shot Party (🎙️ 366)]]"]
+Creators:
+  - "[[Long Shot Party (🎙️ 366)]]"
 ListenInSec: 346
 NumberInAlbum: 1
 related: []

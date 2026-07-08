@@ -1,14 +1,20 @@
 ---
 created: 2024-10-13T23:11:44+03:00
-aliases: [Bling-Bang-Bang-Born, Mashle OP 2, Магия и Мускулы OP 2, Мэшл OP 2]
+aliases:
+  - "Bling-Bang-Bang-Born"
+  - "Mashle OP 2"
+  - "Магия и Мускулы OP 2"
+  - "Мэшл OP 2"
 Cover: "[[_No Album Art.jpg]]"
 Year: 2024
 Album: ""
 CoverOf: ""
-Creators: ["[[Creepy Nuts (🎙️ 269)]]"]
+Creators:
+  - "[[Creepy Nuts (🎙️ 269)]]"
 ListenInSec: 411
 NumberInAlbum: 0
-related: ["[[Bling-Bang-Bang-Born (TV Size) - Creepy Nuts (🎧️ 1117)]]"]
+related:
+  - "[[Bling-Bang-Bang-Born (TV Size) - Creepy Nuts (🎧️ 1117)]]"
 source: ""
 SourceFile: "[[Creepy Nuts - Bling-Bang-Bang-Born.mp3]]"
 ---

@@ -1,6 +1,7 @@
 ---
 created: 2025-06-03T01:48:18+03:00
-aliases: [Roro Ai & Kari - Mission! Ken·Kou·Dai·Ichi]
+aliases:
+  - "Roro Ai & Kari - Mission! Ken·Kou·Dai·Ichi"
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""

@@ -1,11 +1,15 @@
 ---
 created: 2023-07-09T18:53:00+03:00
-aliases: []
-Cover: ""
+aliases:
+  - "Goya no Machiawase"
+  - "Noragami 1 OP"
+  - "Бездомный Бог 1 OP"
+Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: "[[Goya no Machiawase - Hello Sleepwalkers (🎧️ 14)]]"
-Creators: []
+Creators:
+  - "[[Jackie-O (🎙️ 339)]]"
 ListenInSec: 18
 NumberInAlbum: 1
 related: []

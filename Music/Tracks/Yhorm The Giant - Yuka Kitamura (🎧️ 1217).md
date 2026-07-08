@@ -1,11 +1,13 @@
 ---
 created: 2024-10-13T23:16:14+03:00
-aliases: [Yhorm The Giant]
+aliases:
+  - "Yhorm The Giant"
 Cover: "[[Dark Souls 3.png]]"
 Year: 2019
 Album: "[[Dark Souls 3 OST (📀 10)]]"
 CoverOf: ""
-Creators: ["[[Yuka Kitamura (🎙️ 29)]]"]
+Creators:
+  - "[[Yuka Kitamura (🎙️ 29)]]"
 ListenInSec: 1228
 NumberInAlbum: 15
 related: []

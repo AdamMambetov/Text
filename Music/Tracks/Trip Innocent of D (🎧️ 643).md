@@ -8,7 +8,8 @@ CoverOf: ""
 Creators: []
 ListenInSec: 431
 NumberInAlbum: 1
-related: ["[[Trip Innocent of D (TV Size)]]"]
+related:
+  - "[[Trip Innocent of D (TV Size)]]"
 source: ""
 SourceFile: "[[Highschool DxD OST - Trip Innocent of D.mp3]]"
 ---

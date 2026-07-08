@@ -1,11 +1,13 @@
 ---
 created: 2026-03-20T02:20:44+03:00
-aliases: [Broken Windows]
+aliases:
+  - "Broken Windows"
 Cover: "[[Sonny Boy OST.jpg]]"
 Year: 2021
 Album: "[[Sonny Boy OST (📀 41)]]"
 CoverOf: ""
-Creators: ["[[Sunset Rollercoaster (🎙️ 694)]]"]
+Creators:
+  - "[[Sunset Rollercoaster (🎙️ 694)]]"
 ListenInSec: 0
 NumberInAlbum: 2
 related: []

@@ -1,11 +1,13 @@
 ---
 created: 2023-09-29T16:22:56+03:00
-aliases: [Dear Maria, Count Me In]
+aliases:
+  - "Dear Maria, Count Me In"
 Cover: ""
 Year: 2007
 Album: "[[So Wrong, It's Right]]"
 CoverOf: ""
-Creators: ["[[All Time Low (🎙️ 169)]]"]
+Creators:
+  - "[[All Time Low (🎙️ 169)]]"
 ListenInSec: 543
 NumberInAlbum: 6
 related: []

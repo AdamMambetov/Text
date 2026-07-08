@@ -1,6 +1,7 @@
 ---
 created: 2024-10-23T14:48:50+03:00
-aliases: [Lilium - Saint version]
+aliases:
+  - "Lilium - Saint version"
 Cover: "[[_No Album Art.jpg]]"
 Year: 2004
 Album: ""

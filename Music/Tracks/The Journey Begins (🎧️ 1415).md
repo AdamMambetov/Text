@@ -1,6 +1,7 @@
 ---
 created: 2025-01-07T20:00:56+03:00
-aliases: [The Journey Begins]
+aliases:
+  - "The Journey Begins"
 Cover: ""
 Year: 0
 Album: ""

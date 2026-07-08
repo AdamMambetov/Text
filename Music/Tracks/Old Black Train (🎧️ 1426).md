@@ -1,6 +1,7 @@
 ---
 created: 2025-01-07T20:04:34+03:00
-aliases: [Old Black Train]
+aliases:
+  - "Old Black Train"
 Cover: ""
 Year: 0
 Album: ""

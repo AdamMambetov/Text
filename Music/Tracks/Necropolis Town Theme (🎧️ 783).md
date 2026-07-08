@@ -1,6 +1,7 @@
 ---
 created: 2024-06-14T19:06:34+03:00
-aliases: [Necropolis Town Theme]
+aliases:
+  - "Necropolis Town Theme"
 Cover: ""
 Year: 0
 Album: ""

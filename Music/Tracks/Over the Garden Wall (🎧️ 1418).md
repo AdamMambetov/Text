@@ -1,6 +1,7 @@
 ---
 created: 2025-01-07T20:01:40+03:00
-aliases: [Over the Garden Wall]
+aliases:
+  - "Over the Garden Wall"
 Cover: ""
 Year: 0
 Album: ""

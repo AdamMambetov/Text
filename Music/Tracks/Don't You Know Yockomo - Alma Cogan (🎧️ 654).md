@@ -1,11 +1,13 @@
 ---
 created: 2023-09-29T16:22:58+03:00
-aliases: ["Don't You Know Yockomo"]
+aliases:
+  - "Don't You Know Yockomo"
 Cover: ""
 Year: 1967
 Album: "[[Alma]]"
 CoverOf: ""
-Creators: ["[[Alma Cogan (🎙️ 171)]]"]
+Creators:
+  - "[[Alma Cogan (🎙️ 171)]]"
 ListenInSec: 7
 NumberInAlbum: 11
 related: []

@@ -1,6 +1,7 @@
 ---
 created: 2025-01-07T20:09:06+03:00
-aliases: [Everything Is Nice and Fine]
+aliases:
+  - "Everything Is Nice and Fine"
 Cover: ""
 Year: 0
 Album: ""

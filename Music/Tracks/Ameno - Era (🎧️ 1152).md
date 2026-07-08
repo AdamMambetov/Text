@@ -1,11 +1,13 @@
 ---
 created: 2024-10-08T15:48:12+03:00
-aliases: [Ameno]
+aliases:
+  - "Ameno"
 Cover: ""
 Year: 1996
 Album: "[[Era]]"
 CoverOf: ""
-Creators: ["[[Era (🎙️ 302)]]"]
+Creators:
+  - "[[Era (🎙️ 302)]]"
 ListenInSec: 1
 NumberInAlbum: 1
 related: []

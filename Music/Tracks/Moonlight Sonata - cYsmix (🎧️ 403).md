@@ -1,11 +1,13 @@
 ---
 created: 2022-05-02T03:31:04+03:00
-aliases: [Moonlight Sonata]
+aliases:
+  - "Moonlight Sonata"
 Cover: ""
 Year: 2015
 Album: ""
 CoverOf: ""
-Creators: ["[[cYsmix (🎙️ 272)]]"]
+Creators:
+  - "[[cYsmix (🎙️ 272)]]"
 ListenInSec: 445
 NumberInAlbum: 1
 related: []

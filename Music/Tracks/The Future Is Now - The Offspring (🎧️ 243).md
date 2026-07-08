@@ -1,11 +1,13 @@
 ---
 created: 2022-04-22T21:40:56+03:00
-aliases: [The Future Is Now]
+aliases:
+  - "The Future Is Now"
 Cover: ""
 Year: 2012
 Album: "[[Days Go By [2012] {The Offspring}]]"
 CoverOf: ""
-Creators: ["[[The Offspring (🎙️ 459)]]"]
+Creators:
+  - "[[The Offspring (🎙️ 459)]]"
 ListenInSec: 249
 NumberInAlbum: 1
 related: []

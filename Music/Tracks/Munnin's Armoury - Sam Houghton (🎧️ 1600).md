@@ -1,11 +1,14 @@
 ---
 created: 2025-01-08T23:29:42+03:00
-aliases: ["Munnin's Armoury"]
+aliases:
+  - "Munnin's Armoury"
 Cover: "[[BPM OST.jpg]]"
 Year: 2020
 Album: "[[BPM OST (📀 40)]]"
 CoverOf: ""
-Creators: ["[[Sam Houghton (🎙️ 675)]]", "[[Joe Collinson (🎙️ 676)]]"]
+Creators:
+  - "[[Sam Houghton (🎙️ 675)]]"
+  - "[[Joe Collinson (🎙️ 676)]]"
 ListenInSec: 216
 NumberInAlbum: 11
 related: []

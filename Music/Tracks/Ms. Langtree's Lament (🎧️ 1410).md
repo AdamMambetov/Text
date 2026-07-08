@@ -1,6 +1,7 @@
 ---
 created: 2025-01-07T19:58:12+03:00
-aliases: ["Ms. Langtree's Lament"]
+aliases:
+  - "Ms. Langtree's Lament"
 Cover: ""
 Year: 0
 Album: ""

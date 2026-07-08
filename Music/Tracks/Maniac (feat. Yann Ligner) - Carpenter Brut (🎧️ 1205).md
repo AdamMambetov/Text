@@ -1,11 +1,13 @@
 ---
 created: 2024-10-13T22:44:14+03:00
-aliases: [Maniac (feat. Yann Ligner)]
+aliases:
+  - "Maniac (feat. Yann Ligner)"
 Cover: ""
 Year: 2020
 Album: "[[Maniac (feat. Yann Ligner) - Single]]"
 CoverOf: ""
-Creators: ["[[Carpenter Brut (🎙️ 250)]]"]
+Creators:
+  - "[[Carpenter Brut (🎙️ 250)]]"
 ListenInSec: 384
 NumberInAlbum: 1
 related: []

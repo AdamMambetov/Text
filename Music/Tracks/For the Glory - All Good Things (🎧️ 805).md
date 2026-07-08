@@ -1,11 +1,13 @@
 ---
 created: 2023-09-29T16:22:57+03:00
-aliases: [For the Glory]
+aliases:
+  - "For the Glory"
 Cover: ""
 Year: 2017
 Album: "[[Machines]]"
 CoverOf: ""
-Creators: ["[[All Good Things (🎙️ 168)]]"]
+Creators:
+  - "[[All Good Things (🎙️ 168)]]"
 ListenInSec: 274
 NumberInAlbum: 7
 related: []

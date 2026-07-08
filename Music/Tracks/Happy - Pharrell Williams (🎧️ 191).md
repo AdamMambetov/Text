@@ -1,11 +1,13 @@
 ---
 created: 2022-04-22T21:19:50+03:00
-aliases: [Happy]
+aliases:
+  - "Happy"
 Cover: "[[_No Album Art.jpg]]"
 Year: 2014
 Album: ""
 CoverOf: ""
-Creators: ["[[Pharrell Williams (🎙️ 524)]]"]
+Creators:
+  - "[[Pharrell Williams (🎙️ 524)]]"
 ListenInSec: 269
 NumberInAlbum: 0
 related: []

@@ -1,11 +1,13 @@
 ---
 created: 2022-10-05T13:12:44+03:00
-aliases: [Daisy Blue]
+aliases:
+  - "Daisy Blue"
 Cover: "[[_No Album Art.jpg]]"
 Year: 2017
 Album: ""
 CoverOf: ""
-Creators: ["[[Kano (🎙️ 346)]]"]
+Creators:
+  - "[[Kano (🎙️ 346)]]"
 ListenInSec: 509
 NumberInAlbum: 0
 related: []

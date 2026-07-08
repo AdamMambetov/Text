@@ -1,6 +1,7 @@
 ---
 created: 2025-01-08T19:23:19+03:00
-aliases: [Bad Piggies]
+aliases:
+  - "Bad Piggies"
 Cover: ""
 Year: 0
 Album: ""

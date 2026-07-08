@@ -1,11 +1,13 @@
 ---
 created: 2023-09-29T16:24:10+03:00
-aliases: [Red Flag]
+aliases:
+  - "Red Flag"
 Cover: ""
 Year: 2006
 Album: "[[Billy Talent II]]"
 CoverOf: ""
-Creators: ["[[Billy Talent (🎙️ 221)]]"]
+Creators:
+  - "[[Billy Talent (🎙️ 221)]]"
 ListenInSec: 411
 NumberInAlbum: 2
 related: []

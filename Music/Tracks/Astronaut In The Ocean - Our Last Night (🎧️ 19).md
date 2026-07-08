@@ -1,11 +1,13 @@
 ---
 created: 2022-04-21T01:52:59+03:00
-aliases: [Astronaut In The Ocean]
+aliases:
+  - "Astronaut In The Ocean"
 Cover: "[[_No Album Art.jpg]]"
 Year: 2021
 Album: ""
 CoverOf: ""
-Creators: ["[[Our Last Night (🎙️ 493)]]"]
+Creators:
+  - "[[Our Last Night (🎙️ 493)]]"
 ListenInSec: 2
 NumberInAlbum: 0
 related: []

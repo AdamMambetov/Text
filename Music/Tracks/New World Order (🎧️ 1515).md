@@ -1,6 +1,7 @@
 ---
 created: 2025-01-08T17:11:01+03:00
-aliases: [New World Order]
+aliases:
+  - "New World Order"
 Cover: ""
 Year: 0
 Album: ""

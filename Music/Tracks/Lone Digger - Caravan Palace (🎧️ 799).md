@@ -1,11 +1,13 @@
 ---
 created: 2023-09-29T16:23:27+03:00
-aliases: [Lone Digger]
+aliases:
+  - "Lone Digger"
 Cover: ""
 Year: 2015
 Album: "[[<I°_°I>]]"
 CoverOf: ""
-Creators: ["[[Caravan Palace (🎙️ 249)]]"]
+Creators:
+  - "[[Caravan Palace (🎙️ 249)]]"
 ListenInSec: 247
 NumberInAlbum: 1
 related: []

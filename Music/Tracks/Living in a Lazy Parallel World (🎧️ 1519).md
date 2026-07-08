@@ -1,6 +1,7 @@
 ---
 created: 2025-01-08T17:20:11+03:00
-aliases: [Living in a Lazy Parallel World]
+aliases:
+  - "Living in a Lazy Parallel World"
 Cover: ""
 Year: 0
 Album: ""

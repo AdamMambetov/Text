@@ -1,6 +1,7 @@
 ---
 created: 2023-09-30T15:59:24+03:00
-aliases: [Nine Thou (Superstars Remix)]
+aliases:
+  - "Nine Thou (Superstars Remix)"
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""

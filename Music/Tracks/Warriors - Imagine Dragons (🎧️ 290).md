@@ -1,11 +1,13 @@
 ---
 created: 2022-04-23T01:56:40+03:00
-aliases: [Warriors]
+aliases:
+  - "Warriors"
 Cover: "[[_No Album Art.jpg]]"
 Year: 2015
 Album: ""
 CoverOf: ""
-Creators: ["[[Imagine Dragons (🎙️ 334)]]"]
+Creators:
+  - "[[Imagine Dragons (🎙️ 334)]]"
 ListenInSec: 1006
 NumberInAlbum: 0
 related: []

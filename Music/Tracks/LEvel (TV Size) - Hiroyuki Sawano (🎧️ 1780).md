@@ -1,11 +1,16 @@
 ---
 created: 2025-10-28T20:37:18+03:00
-aliases: [Hiroyuki Sawano - LEvel (TV Size)]
+aliases:
+  - "LEvel (TV Size)"
+  - "Solo Leveling OP 1"
+  - "Поднятие уровня в одиночку OP 1"
+  - "Соло Левелинг OP 1"
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""
-Creators: []
+Creators:
+  - "[[Hiroyuki Sawano (🎙️ 329)]]"
 ListenInSec: 363
 NumberInAlbum: 0
 related: []

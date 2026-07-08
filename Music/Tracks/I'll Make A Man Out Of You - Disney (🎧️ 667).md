@@ -1,11 +1,13 @@
 ---
 created: 2023-09-29T16:29:21+03:00
-aliases: ["I'll Make A Man Out Of You"]
+aliases:
+  - "I'll Make A Man Out Of You"
 Cover: "[[_No Album Art.jpg]]"
 Year: 1998
 Album: "[[Mulan]]"
 CoverOf: ""
-Creators: ["[[Disney (🎙️ 286)]]"]
+Creators:
+  - "[[Disney (🎙️ 286)]]"
 ListenInSec: 204
 NumberInAlbum: 0
 related: []

@@ -1,11 +1,14 @@
 ---
 created: 2024-10-13T22:58:06+03:00
-aliases: [Compared Child]
+aliases:
+  - "Compared Child"
 Cover: "[[_No Album Art.jpg]]"
 Year: 2020
 Album: ""
 CoverOf: "[[Compared Child - TUYU]]"
-Creators: ["[[Sati Akura (🎙️ 357)]]", "[[saichiopy (🎙️ 684)]]"]
+Creators:
+  - "[[Sati Akura (🎙️ 357)]]"
+  - "[[saichiopy (🎙️ 684)]]"
 ListenInSec: 218
 NumberInAlbum: 0
 related: []

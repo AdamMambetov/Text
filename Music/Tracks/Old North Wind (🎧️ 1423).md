@@ -1,6 +1,7 @@
 ---
 created: 2025-01-07T20:03:22+03:00
-aliases: [Old North Wind]
+aliases:
+  - "Old North Wind"
 Cover: ""
 Year: 0
 Album: ""

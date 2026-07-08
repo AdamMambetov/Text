@@ -1,11 +1,14 @@
 ---
 created: 2025-01-19T21:51:30+03:00
-aliases: [Higurashi no Naku Koro ni]
+aliases:
+  - "Higurashi no Naku Koro ni"
+  - "Когда плачут цикады OP 1"
 Cover: ""
 Year: 0
 Album: ""
 CoverOf: ""
-Creators: ["[[Shimamiya Eiko (🎙️ 50)]]"]
+Creators:
+  - "[[Shimamiya Eiko (🎙️ 50)]]"
 ListenInSec: 1204
 NumberInAlbum: 0
 related: []

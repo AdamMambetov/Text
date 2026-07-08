@@ -1,11 +1,13 @@
 ---
 created: 2022-10-05T13:43:02+03:00
-aliases: [NULCTRL]
+aliases:
+  - "NULCTRL"
 Cover: "[[_No Album Art.jpg]]"
 Year: 2020
 Album: ""
 CoverOf: ""
-Creators: ["[[Silentroom (🎙️ 600)]]"]
+Creators:
+  - "[[Silentroom (🎙️ 600)]]"
 ListenInSec: 2
 NumberInAlbum: 5
 related: []

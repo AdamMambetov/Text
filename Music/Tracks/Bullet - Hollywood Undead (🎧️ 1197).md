@@ -1,11 +1,13 @@
 ---
 created: 2024-10-13T22:36:00+03:00
-aliases: [Bullet]
+aliases:
+  - "Bullet"
 Cover: ""
 Year: 2010
 Album: "[[American Tragedy]]"
 CoverOf: ""
-Creators: ["[[Hollywood Undead (🎙️ 330)]]"]
+Creators:
+  - "[[Hollywood Undead (🎙️ 330)]]"
 ListenInSec: 386
 NumberInAlbum: 11
 related: []

@@ -1,14 +1,18 @@
 ---
 created: 2025-01-08T19:08:12+03:00
-aliases: []
+aliases:
+  - "Cure (TV Size)"
+  - "Неправильный способ использования исцеляющей магии OP 1"
 Cover: ""
 Year: 0
 Album: ""
 CoverOf: ""
-Creators: []
+Creators:
+  - "[[waterweed (🎙️ 754)]]"
 ListenInSec: 263
 NumberInAlbum: 1
-related: ["[[Cure (🎧️ 1561)]]"]
+related:
+  - "[[Cure - waterweed (🎧️ 1545)]]"
 source: ""
 SourceFile: "[[waterweed - Cure (TV Size).mp3]]"
 ---

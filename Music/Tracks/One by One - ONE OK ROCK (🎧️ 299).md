@@ -1,11 +1,13 @@
 ---
 created: 2022-04-23T02:30:20+03:00
-aliases: [One by One]
+aliases:
+  - "One by One"
 Cover: ""
 Year: 2015
 Album: "[[35xxxv [2015] {One Ok Rock}]]"
 CoverOf: ""
-Creators: ["[[ONE OK ROCK (🎙️ 400)]]"]
+Creators:
+  - "[[ONE OK ROCK (🎙️ 400)]]"
 ListenInSec: 5
 NumberInAlbum: 11
 related: []

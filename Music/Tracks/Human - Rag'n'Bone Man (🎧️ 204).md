@@ -1,11 +1,13 @@
 ---
 created: 2022-04-22T21:26:26+03:00
-aliases: [Human]
+aliases:
+  - "Human"
 Cover: "[[_No Album Art.jpg]]"
 Year: 2017
 Album: ""
 CoverOf: ""
-Creators: ["[[Rag'n'Bone Man (🎙️ 525)]]"]
+Creators:
+  - "[[Rag'n'Bone Man (🎙️ 525)]]"
 ListenInSec: 570
 NumberInAlbum: 0
 related: []

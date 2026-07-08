@@ -1,11 +1,13 @@
 ---
 created: 2024-10-23T14:22:34+03:00
-aliases: [VORTEX]
+aliases:
+  - "VORTEX"
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: "[[VORTEX - JAWS (🎧️ 1548)]]"
-Creators: ["[[DiWilliam (🎙️ 60)]]"]
+Creators:
+  - "[[DiWilliam (🎙️ 60)]]"
 ListenInSec: 4
 NumberInAlbum: 0
 related: []

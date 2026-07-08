@@ -1,14 +1,19 @@
 ---
 created: 2025-11-19T03:16:38+03:00
-aliases: [Styx Helix, ReZero ED 1, РеЗеро ED 1]
+aliases:
+  - "Styx Helix"
+  - "ReZero ED 1"
+  - "РеЗеро ED 1"
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""
-Creators: ["[[MYTH & ROID (🎙️ 384)]]"]
+Creators:
+  - "[[MYTH & ROID (🎙️ 384)]]"
 ListenInSec: 378
 NumberInAlbum: 0
-related: ["[[Styx Helix (TV Size) - MYTH & ROID]]"]
+related:
+  - "[[Styx Helix (TV Size) - MYTH & ROID]]"
 source: ""
 SourceFile: "[[MYTH_ROID_Official_Channel - Styx_Helix.mp3]]"
 ---

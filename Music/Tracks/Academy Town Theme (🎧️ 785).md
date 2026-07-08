@@ -1,6 +1,7 @@
 ---
 created: 2024-06-14T19:12:01+03:00
-aliases: [Academy Town Theme]
+aliases:
+  - "Academy Town Theme"
 Cover: ""
 Year: 0
 Album: ""

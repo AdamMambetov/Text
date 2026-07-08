@@ -1,6 +1,7 @@
 ---
 created: 2025-01-07T19:59:58+03:00
-aliases: [Courting Song]
+aliases:
+  - "Courting Song"
 Cover: ""
 Year: 0
 Album: ""

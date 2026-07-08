@@ -1,11 +1,13 @@
 ---
 created: 2022-10-30T13:21:38+03:00
-aliases: [A FOOL MOON NIGHT]
+aliases:
+  - "A FOOL MOON NIGHT"
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""
-Creators: ["[[The Koxx (🎙️ 458)]]"]
+Creators:
+  - "[[The Koxx (🎙️ 458)]]"
 ListenInSec: 468
 NumberInAlbum: 0
 related: []

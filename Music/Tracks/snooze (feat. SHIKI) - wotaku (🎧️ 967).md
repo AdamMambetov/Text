@@ -1,6 +1,7 @@
 ---
 created: 2024-07-12T16:43:14+03:00
-aliases: [snooze]
+aliases:
+  - "snooze"
 Cover: ""
 Year: 0
 Album: "[[snooze (feat. SHIKI)]]"

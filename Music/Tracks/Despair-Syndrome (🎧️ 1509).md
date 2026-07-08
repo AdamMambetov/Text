@@ -1,6 +1,7 @@
 ---
 created: 2025-01-08T16:54:54+03:00
-aliases: [Despair-Syndrome]
+aliases:
+  - "Despair-Syndrome"
 Cover: ""
 Year: 0
 Album: ""

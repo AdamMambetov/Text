@@ -1,11 +1,13 @@
 ---
 created: 2023-09-29T16:23:36+03:00
-aliases: [Melancholy Kaleidoscope]
+aliases:
+  - "Melancholy Kaleidoscope"
 Cover: ""
 Year: 2020
 Album: "[[Wake Up, Sunshine]]"
 CoverOf: ""
-Creators: ["[[All Time Low (🎙️ 169)]]"]
+Creators:
+  - "[[All Time Low (🎙️ 169)]]"
 ListenInSec: 11
 NumberInAlbum: 4
 related: []

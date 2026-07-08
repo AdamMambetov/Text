@@ -1,6 +1,7 @@
 ---
 created: 2024-10-08T15:46:04+03:00
-aliases: [All Eyes on You]
+aliases:
+  - "All Eyes on You"
 Cover: ""
 Year: 2020
 Album: "[[Arcadia]]"

@@ -1,11 +1,13 @@
 ---
 created: 2024-10-23T15:14:22+03:00
-aliases: [Fallen Leaves]
+aliases:
+  - "Fallen Leaves"
 Cover: ""
 Year: 2006
 Album: "[[Billy Talent II]]"
 CoverOf: ""
-Creators: ["[[Billy Talent (🎙️ 221)]]"]
+Creators:
+  - "[[Billy Talent (🎙️ 221)]]"
 ListenInSec: 1
 NumberInAlbum: 6
 related: []

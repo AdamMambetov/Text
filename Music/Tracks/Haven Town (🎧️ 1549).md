@@ -1,6 +1,7 @@
 ---
 created: 2025-01-08T18:37:10+03:00
-aliases: []
+aliases:
+  - "Haven Theme"
 Cover: ""
 Year: 0
 Album: ""

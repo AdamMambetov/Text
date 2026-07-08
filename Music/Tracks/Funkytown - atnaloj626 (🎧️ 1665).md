@@ -1,11 +1,13 @@
 ---
 created: 2025-05-04T01:49:36+03:00
-aliases: [Funkytown]
+aliases:
+  - "Funkytown"
 Cover: ""
 Year: 2009
 Album: ""
 CoverOf: ""
-Creators: ["[[atnaloj626 (🎙️ 196)]]"]
+Creators:
+  - "[[atnaloj626 (🎙️ 196)]]"
 ListenInSec: 1953
 NumberInAlbum: 0
 related: []

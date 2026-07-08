@@ -1,11 +1,15 @@
 ---
 created: 2024-10-30T19:13:46+03:00
-aliases: [Fire]
+aliases:
+  - "Fire (TV Size)"
+  - "Dororo OP 1"
+  - "Дороро OP 1"
 Cover: ""
 Year: 2019
 Album: "[[Anime & Movie Soundtracks]]"
-CoverOf: ""
-Creators: ["[[Leon Alex (🎙️ 361)]]"]
+CoverOf: "[[Fire (TV Size) - Kaen (🎧️ 1746)]]"
+Creators:
+  - "[[Leon Alex (🎙️ 361)]]"
 ListenInSec: 3
 NumberInAlbum: 1
 related: []

@@ -1,6 +1,7 @@
 ---
 created: 2023-09-29T16:27:00+03:00
-aliases: [The Gipsy Dancer]
+aliases:
+  - "The Gipsy Dancer"
 Cover: ""
 Year: 2021
 Album: "[[The Perfect Match]]"

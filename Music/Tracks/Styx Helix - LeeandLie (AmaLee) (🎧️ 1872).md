@@ -1,11 +1,15 @@
 ---
 created: 2025-11-20T23:19:46+03:00
-aliases: [Styx Helix, ReZero ED 1, РеЗеро ED 1]
+aliases:
+  - "Styx Helix"
+  - "ReZero ED 1"
+  - "РеЗеро ED 1"
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: "[[Styx Helix - MYTH & ROID (🎧️ 1868)]]"
-Creators: ["[[LeeandLie (AmaLee) (🎙️ 728)]]"]
+Creators:
+  - "[[LeeandLie (AmaLee) (🎙️ 728)]]"
 ListenInSec: 1192
 NumberInAlbum: 0
 related: []

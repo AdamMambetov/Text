@@ -1,11 +1,13 @@
 ---
 created: 2024-10-13T23:41:04+03:00
-aliases: [Demons]
+aliases:
+  - "Demons"
 Cover: "[[_No Album Art.jpg]]"
 Year: 2012
 Album: ""
 CoverOf: ""
-Creators: ["[[Imagine Dragons (🎙️ 334)]]"]
+Creators:
+  - "[[Imagine Dragons (🎙️ 334)]]"
 ListenInSec: 3
 NumberInAlbum: 0
 related: []

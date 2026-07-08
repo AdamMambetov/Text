@@ -1,6 +1,7 @@
 ---
 created: 2024-12-06T00:37:18+03:00
-aliases: [Friendzoned]
+aliases:
+  - "Friendzoned"
 Cover: ""
 Year: 2013
 Album: "[[Friendzoned]]"

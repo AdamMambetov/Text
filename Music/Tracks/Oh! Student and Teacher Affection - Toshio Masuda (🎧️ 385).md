@@ -1,11 +1,13 @@
 ---
 created: 2022-04-28T17:53:08+03:00
-aliases: [Oh! Student and Teacher Affection]
+aliases:
+  - "Oh! Student and Teacher Affection"
 Cover: "[[_No Album Art.jpg]]"
 Year: 2005
 Album: "[[Naruto OST 3 (📀 17)]]"
 CoverOf: ""
-Creators: ["[[Toshio Masuda (🎙️ 559)]]"]
+Creators:
+  - "[[Toshio Masuda (🎙️ 559)]]"
 ListenInSec: 7
 NumberInAlbum: 9
 related: []

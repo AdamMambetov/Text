@@ -1,6 +1,7 @@
 ---
 created: 2025-01-08T20:01:51+03:00
-aliases: [Secret of the Forest]
+aliases:
+  - "Secret of the Forest"
 Cover: ""
 Year: 0
 Album: ""

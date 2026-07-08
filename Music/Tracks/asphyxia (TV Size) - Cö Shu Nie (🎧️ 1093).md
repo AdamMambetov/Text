@@ -1,11 +1,15 @@
 ---
 created: 2024-07-21T15:41:40+03:00
-aliases: [asphyxia (TV Size), Tokyo Ghoul OP 3, Токийский гуль OP 3]
+aliases:
+  - "asphyxia (TV Size)"
+  - "Tokyo Ghoul OP 3"
+  - "Токийский гуль OP 3"
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""
-Creators: ["[[Cö Shu Nie (🎙️ 688)]]"]
+Creators:
+  - "[[Cö Shu Nie (🎙️ 688)]]"
 ListenInSec: 571
 NumberInAlbum: 0
 related: []

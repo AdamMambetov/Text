@@ -1,11 +1,13 @@
 ---
 created: 2022-04-21T01:53:42+03:00
-aliases: [Lagtrain]
+aliases:
+  - "Lagtrain"
 Cover: "[[_No Album Art.jpg]]"
 Year: 2021
 Album: "[[Rainy Tunes]]"
 CoverOf: "[[Lagtrain - inabakumori (🎧️ 4)]]"
-Creators: ["[[Will Stetson (🎙️ 481)]]"]
+Creators:
+  - "[[Will Stetson (🎙️ 481)]]"
 ListenInSec: 7
 NumberInAlbum: 1
 related: []

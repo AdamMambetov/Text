@@ -1,11 +1,14 @@
 ---
 created: 2022-10-05T13:29:20+03:00
-aliases: [MIIRO]
+aliases:
+  - "MIIRO"
 Cover: "[[_No Album Art.jpg]]"
 Year: 2015
 Album: ""
 CoverOf: ""
-Creators: ["[[AKINO (🎙️ 160)]]", "[[bless4 (🎙️ 161)]]"]
+Creators:
+  - "[[AKINO (🎙️ 160)]]"
+  - "[[bless4 (🎙️ 161)]]"
 ListenInSec: 5
 NumberInAlbum: 0
 related: []

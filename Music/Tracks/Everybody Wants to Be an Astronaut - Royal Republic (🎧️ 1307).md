@@ -1,11 +1,13 @@
 ---
 created: 2024-10-23T15:03:52+03:00
-aliases: [Everybody Wants to Be an Astronaut]
-Cover: ""
+aliases:
+  - "Everybody Wants to Be an Astronaut"
+Cover: "[[_No Album Art.jpg]]"
 Year: 2012
 Album: "[[Save the Nation]]"
 CoverOf: ""
-Creators: []
+Creators:
+  - "[[Royal Republic (🎙️ 642)]]"
 ListenInSec: 1
 NumberInAlbum: 4
 related: []

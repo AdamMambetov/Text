@@ -1,11 +1,14 @@
 ---
 created: 2025-01-08T23:19:01+03:00
-aliases: [Kabaneri of the Iron Fortress]
-Cover: ""
+aliases:
+  - "Kabaneri of the Iron Fortress"
+  - "Кабанери железной крепости OP 1"
+Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""
-Creators: []
+Creators:
+  - "[[Egoist (🎙️ 763)]]"
 ListenInSec: 2610
 NumberInAlbum: 1
 related: []

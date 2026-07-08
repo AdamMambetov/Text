@@ -1,6 +1,7 @@
 ---
 created: 2023-09-29T16:23:44+03:00
-aliases: [La Seine]
+aliases:
+  - "La Seine"
 Cover: ""
 Year: 2011
 Album: "[[A Monster In Paris]]"

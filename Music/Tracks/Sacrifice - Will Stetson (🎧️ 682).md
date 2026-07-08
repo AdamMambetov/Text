@@ -1,11 +1,13 @@
 ---
 created: 2024-01-03T00:07:28+03:00
-aliases: [Sacrifice]
+aliases:
+  - "Sacrifice"
 Cover: ""
 Year: 2017
 Album: ""
 CoverOf: "[[Sacrifice - 9mm Parabellum Bullet (🎧️ 861)]]"
-Creators: ["[[Will Stetson (🎙️ 481)]]"]
+Creators:
+  - "[[Will Stetson (🎙️ 481)]]"
 ListenInSec: 500
 NumberInAlbum: 1
 related: []

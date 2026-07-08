@@ -1,6 +1,7 @@
 ---
 created: 2024-10-30T19:21:02+03:00
-aliases: [Freaks (feat. Savage)]
+aliases:
+  - "Freaks (feat. Savage)"
 Cover: ""
 Year: 2014
 Album: "[[Freaks (feat. Savage) - Single]]"

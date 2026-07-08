@@ -1,6 +1,7 @@
 ---
 created: 2024-06-14T19:18:08+03:00
-aliases: []
+aliases:
+  - "Dungeon Town Theme"
 Cover: ""
 Year: 0
 Album: ""

@@ -1,11 +1,15 @@
 ---
 created: 2022-04-22T21:03:38+03:00
-aliases: [Unravel, Tokyo Ghoul OP 1, Токийский гуль OP 1]
+aliases:
+  - "Unravel"
+  - "Tokyo Ghoul OP 1"
+  - "Токийский гуль OP 1"
 Cover: "[[_No Album Art.jpg]]"
 Year: 2020
 Album: ""
 CoverOf: "[[Unravel - TK from Ling tosite sigure (🎧️ 1438)]]"
-Creators: ["[[Leon Alex (🎙️ 361)]]"]
+Creators:
+  - "[[Leon Alex (🎙️ 361)]]"
 ListenInSec: 100
 NumberInAlbum: 0
 related: []

@@ -1,11 +1,13 @@
 ---
 created: 2024-10-30T19:11:20+03:00
-aliases: [Feel Invincible]
+aliases:
+  - "Feel Invincible"
 Cover: ""
 Year: 2016
 Album: "[[Unleashed]]"
 CoverOf: ""
-Creators: ["[[Skillet (🎙️ 440)]]"]
+Creators:
+  - "[[Skillet (🎙️ 440)]]"
 ListenInSec: 490
 NumberInAlbum: 1
 related: []

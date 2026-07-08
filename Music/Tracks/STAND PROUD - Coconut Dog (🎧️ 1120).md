@@ -1,11 +1,13 @@
 ---
 created: 2024-10-05T15:22:36+03:00
-aliases: [STAND PROUD]
+aliases:
+  - "STAND PROUD"
 Cover: ""
 Year: 2023
 Album: ""
 CoverOf: ""
-Creators: ["[[Coconut Dog (🎙️ 438)]]"]
+Creators:
+  - "[[Coconut Dog (🎙️ 438)]]"
 ListenInSec: 268
 NumberInAlbum: 1
 related: []

@@ -1,11 +1,13 @@
 ---
 created: 2024-10-23T14:27:00+03:00
-aliases: [Do You Love Me?]
+aliases:
+  - "Do You Love Me?"
 Cover: ""
 Year: 2017
 Album: "[[I Am Human]]"
 CoverOf: ""
-Creators: ["[[Escape The Fate (🎙️ 303)]]"]
+Creators:
+  - "[[Escape The Fate (🎙️ 303)]]"
 ListenInSec: 313
 NumberInAlbum: 7
 related: []

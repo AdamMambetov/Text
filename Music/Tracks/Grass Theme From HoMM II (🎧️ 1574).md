@@ -1,6 +1,7 @@
 ---
 created: 2025-01-08T19:31:56+03:00
-aliases: [Grass Theme]
+aliases:
+  - "Grass Theme"
 Cover: ""
 Year: 0
 Album: ""

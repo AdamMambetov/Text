@@ -1,11 +1,13 @@
 ---
 created: 2022-04-22T21:41:22+03:00
-aliases: ["You're Gonna Go Far, Kid"]
+aliases:
+  - "You're Gonna Go Far, Kid"
 Cover: ""
 Year: 2008
 Album: "[[Rise And Fall, Rage And Grace [2008] {The Offspring}]]"
 CoverOf: ""
-Creators: ["[[The Offspring (🎙️ 459)]]"]
+Creators:
+  - "[[The Offspring (🎙️ 459)]]"
 ListenInSec: 168
 NumberInAlbum: 3
 related: []

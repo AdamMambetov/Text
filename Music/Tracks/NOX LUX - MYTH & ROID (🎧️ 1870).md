@@ -1,11 +1,13 @@
 ---
 created: 2025-11-19T03:21:11+03:00
-aliases: [KADOKAWAanime - NOX_LUX_MYTH_ROID]
+aliases:
+  - "NOX LUX"
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""
-Creators: []
+Creators:
+  - "[[MYTH & ROID (🎙️ 384)]]"
 ListenInSec: 113
 NumberInAlbum: 0
 related: []

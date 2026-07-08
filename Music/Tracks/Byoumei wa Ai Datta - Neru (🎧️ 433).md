@@ -1,11 +1,13 @@
 ---
 created: 2022-10-05T13:02:22+03:00
-aliases: [Byoumei wa Ai Datta]
+aliases:
+  - "Byoumei wa Ai Datta"
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""
-Creators: ["[[Neru (🎙️ 576)]]"]
+Creators:
+  - "[[Neru (🎙️ 576)]]"
 ListenInSec: 536
 NumberInAlbum: 0
 related: []

@@ -1,11 +1,13 @@
 ---
 created: 2024-10-10T22:25:50+03:00
-aliases: [Armata Strigoi]
+aliases:
+  - "Armata Strigoi"
 Cover: ""
 Year: 2015
 Album: "[[Blessed & Possessed]]"
 CoverOf: ""
-Creators: ["[[Powerwolf (🎙️ 418)]]"]
+Creators:
+  - "[[Powerwolf (🎙️ 418)]]"
 ListenInSec: 242
 NumberInAlbum: 4
 related: []

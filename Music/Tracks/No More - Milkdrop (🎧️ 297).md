@@ -1,11 +1,13 @@
 ---
 created: 2022-04-23T02:25:52+03:00
-aliases: [No More]
+aliases:
+  - "No More"
 Cover: "[[_No Album Art.jpg]]"
 Year: 2017
 Album: "[[No More [2017] {Milkdrop}]]"
 CoverOf: ""
-Creators: ["[[Milkdrop (🎙️ 544)]]"]
+Creators:
+  - "[[Milkdrop (🎙️ 544)]]"
 ListenInSec: 2
 NumberInAlbum: 1
 related: []

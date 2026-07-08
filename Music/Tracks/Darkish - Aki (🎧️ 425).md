@@ -1,11 +1,13 @@
 ---
 created: 2022-10-05T12:56:26+03:00
-aliases: [Darkish]
+aliases:
+  - "Darkish"
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""
-Creators: ["[[Aki (🎙️ 151)]]"]
+Creators:
+  - "[[Aki (🎙️ 151)]]"
 ListenInSec: 7
 NumberInAlbum: 0
 related: []

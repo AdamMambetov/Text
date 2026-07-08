@@ -1,11 +1,13 @@
 ---
 created: 2024-10-13T22:57:32+03:00
-aliases: ["Comin' In Hot"]
+aliases:
+  - "Comin' In Hot"
 Cover: ""
 Year: 2010
 Album: "[[American Tragedy]]"
 CoverOf: ""
-Creators: ["[[Hollywood Undead (🎙️ 330)]]"]
+Creators:
+  - "[[Hollywood Undead (🎙️ 330)]]"
 ListenInSec: 87
 NumberInAlbum: 3
 related: []

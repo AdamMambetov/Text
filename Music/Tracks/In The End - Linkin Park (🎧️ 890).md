@@ -1,11 +1,13 @@
 ---
 created: 2024-01-04T12:14:23+03:00
-aliases: []
-Cover: ""
+aliases:
+  - "In The End"
+Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""
-Creators: []
+Creators:
+  - "[[Linkin Park (🎙️ 363)]]"
 ListenInSec: 10
 NumberInAlbum: 1
 related: []

@@ -1,11 +1,13 @@
 ---
 created: 2022-04-21T01:51:53+03:00
-aliases: [Way Back Home]
+aliases:
+  - "Way Back Home"
 Cover: "[[Leon Alex - Way Back Home.jpg]]"
 Year: 2020
 Album: ""
 CoverOf: "[[Way Back Home - Shaun (🎧️ 225)]]"
-Creators: ["[[Leon Alex (🎙️ 361)]]"]
+Creators:
+  - "[[Leon Alex (🎙️ 361)]]"
 ListenInSec: 457
 NumberInAlbum: 0
 related: []

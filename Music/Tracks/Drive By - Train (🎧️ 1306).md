@@ -1,6 +1,7 @@
 ---
 created: 2024-10-23T14:34:48+03:00
-aliases: [Drive By]
+aliases:
+  - "Drive By"
 Cover: ""
 Year: 2012
 Album: "[[Greatest Hits]]"

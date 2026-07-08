@@ -1,14 +1,19 @@
 ---
 created: 2025-01-08T01:03:08+03:00
-aliases: [Sakura Mitsutsuki, Gintama 13 OP, Гинтама OP 13]
+aliases:
+  - "Sakura Mitsutsuki"
+  - "Gintama 13 OP"
+  - "Гинтама OP 13"
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""
-Creators: ["[[SPYAIR (🎙️ 444)]]"]
+Creators:
+  - "[[SPYAIR (🎙️ 444)]]"
 ListenInSec: 1967
 NumberInAlbum: 0
-related: ["[[Sakura Mitsutsuki (TV Size) - SPYAIR]]"]
+related:
+  - "[[Sakura Mitsutsuki (TV Size) - SPYAIR]]"
 source: ""
 SourceFile: "[[SPYAIR - Sakura Mitsutsuki.mp3]]"
 ---

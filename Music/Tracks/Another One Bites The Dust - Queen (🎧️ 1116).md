@@ -1,11 +1,13 @@
 ---
 created: 2024-10-05T14:49:26+03:00
-aliases: [Another One Bites The Dust]
+aliases:
+  - "Another One Bites The Dust"
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""
-Creators: ["[[Queen (🎙️ 420)]]"]
+Creators:
+  - "[[Queen (🎙️ 420)]]"
 ListenInSec: 1702
 NumberInAlbum: 0
 related: []

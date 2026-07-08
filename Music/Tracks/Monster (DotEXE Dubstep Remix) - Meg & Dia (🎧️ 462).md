@@ -1,11 +1,13 @@
 ---
 created: 2022-10-05T13:38:50+03:00
-aliases: [Monster (DotEXE Dubstep Remix)]
+aliases:
+  - "Monster (DotEXE Dubstep Remix)"
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""
-Creators: ["[[Meg & Dia (🎙️ 598)]]"]
+Creators:
+  - "[[Meg & Dia (🎙️ 598)]]"
 ListenInSec: 3
 NumberInAlbum: 0
 related: []

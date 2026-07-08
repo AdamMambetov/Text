@@ -1,6 +1,7 @@
 ---
 created: 2024-10-23T14:54:58+03:00
-aliases: [Yokusoku]
+aliases:
+  - "Yokusoku"
 Cover: ""
 Year: 0
 Album: "[[Elfen Lied OST]]"

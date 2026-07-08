@@ -1,11 +1,14 @@
 ---
 created: 2022-04-21T01:52:54+03:00
-aliases: [One more time, Музыка из ничего]
+aliases:
+  - "One more time"
+  - "Музыка из ничего"
 Cover: "[[Marmok - One more time.jpg]]"
 Year: 2017
 Album: ""
 CoverOf: ""
-Creators: ["[[Marmok (🎙️ 375)]]"]
+Creators:
+  - "[[Marmok (🎙️ 375)]]"
 ListenInSec: 221
 NumberInAlbum: 0
 related: []

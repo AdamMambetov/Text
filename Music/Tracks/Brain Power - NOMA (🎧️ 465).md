@@ -1,11 +1,13 @@
 ---
 created: 2022-10-05T13:41:48+03:00
-aliases: [Brain Power]
+aliases:
+  - "Brain Power"
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""
-Creators: ["[[NOMA (🎙️ 395)]]"]
+Creators:
+  - "[[NOMA (🎙️ 395)]]"
 ListenInSec: 6
 NumberInAlbum: 0
 related: []

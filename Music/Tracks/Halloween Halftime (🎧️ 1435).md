@@ -1,6 +1,7 @@
 ---
 created: 2025-01-07T20:09:56+03:00
-aliases: [Halloween Halftime]
+aliases:
+  - "Halloween Halftime"
 Cover: ""
 Year: 0
 Album: ""

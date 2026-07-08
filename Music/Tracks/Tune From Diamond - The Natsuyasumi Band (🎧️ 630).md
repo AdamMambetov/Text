@@ -1,11 +1,13 @@
 ---
 created: 2023-08-23T13:18:28+03:00
-aliases: [Tune From Diamond]
+aliases:
+  - "Tune From Diamond"
 Cover: "[[Sonny Boy OST.jpg]]"
 Year: 2021
 Album: "[[Sonny Boy OST (📀 41)]]"
 CoverOf: ""
-Creators: ["[[The Natsuyasumi Band (🎙️ 692)]]"]
+Creators:
+  - "[[The Natsuyasumi Band (🎙️ 692)]]"
 ListenInSec: 280
 NumberInAlbum: 5
 related: []

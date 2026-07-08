@@ -1,11 +1,15 @@
 ---
 created: 2024-10-23T15:23:00+03:00
-aliases: [My Hero (TV Size), Inuyashiki OP 1, Инуяшики OP 1]
+aliases:
+  - "My Hero (TV Size)"
+  - "Inuyashiki OP 1"
+  - "Инуяшики OP 1"
 Cover: "[[_No Album Art.jpg]]"
 Year: 2022
 Album: ""
 CoverOf: "[[My Hero (TV Size) - MAN WITH A MISSION]]"
-Creators: ["[[Игорь Куликов (🎙️ 71)]]"]
+Creators:
+  - "[[Игорь Куликов (🎙️ 71)]]"
 ListenInSec: 92
 NumberInAlbum: 0
 related: []

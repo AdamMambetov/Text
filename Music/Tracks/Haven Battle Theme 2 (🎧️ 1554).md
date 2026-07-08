@@ -1,7 +1,8 @@
 ---
 created: 2025-01-08T18:41:23+03:00
-aliases: []
-Cover: ""
+aliases:
+  - "Haven Battle Theme 2"
+Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

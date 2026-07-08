@@ -1,6 +1,7 @@
 ---
 created: 2025-01-08T16:57:33+03:00
-aliases: [Discussion -MIX- EDGE Version]
+aliases:
+  - "Discussion -MIX- EDGE Version"
 Cover: ""
 Year: 0
 Album: ""

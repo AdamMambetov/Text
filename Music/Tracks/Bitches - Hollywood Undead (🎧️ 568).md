@@ -1,11 +1,13 @@
 ---
 created: 2022-12-20T23:36:58+03:00
-aliases: [Bitches]
+aliases:
+  - "Bitches"
 Cover: ""
 Year: 2008
 Album: "[[Swan Songs]]"
 CoverOf: ""
-Creators: ["[[Hollywood Undead (🎙️ 330)]]"]
+Creators:
+  - "[[Hollywood Undead (🎙️ 330)]]"
 ListenInSec: 82
 NumberInAlbum: 19
 related: []

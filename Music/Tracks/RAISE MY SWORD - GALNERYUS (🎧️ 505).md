@@ -1,11 +1,13 @@
 ---
 created: 2022-12-05T23:53:18+03:00
-aliases: [RAISE MY SWORD]
+aliases:
+  - "RAISE MY SWORD"
 Cover: ""
 Year: 0
 Album: ""
 CoverOf: ""
-Creators: ["[[GALNERYUS (🎙️ 315)]]"]
+Creators:
+  - "[[GALNERYUS (🎙️ 315)]]"
 ListenInSec: 213
 NumberInAlbum: 1
 related: []

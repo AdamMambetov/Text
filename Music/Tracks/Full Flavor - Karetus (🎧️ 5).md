@@ -1,11 +1,13 @@
 ---
 created: 2022-04-21T01:52:26+03:00
-aliases: [Full Flavor]
+aliases:
+  - "Full Flavor"
 Cover: "[[Karetus - PINATA.jpg]]"
 Year: 2015
 Album: ""
 CoverOf: ""
-Creators: ["[[Karetus (🎙️ 488)]]"]
+Creators:
+  - "[[Karetus (🎙️ 488)]]"
 ListenInSec: 164
 NumberInAlbum: 1
 related: []

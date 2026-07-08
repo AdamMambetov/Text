@@ -1,6 +1,7 @@
 ---
 created: 2025-11-19T02:32:58+03:00
-aliases: [Release - Rye_Batenkaitos]
+aliases:
+  - "Release - Rye_Batenkaitos"
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""

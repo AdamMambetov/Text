@@ -1,11 +1,13 @@
 ---
 created: 2022-12-20T23:19:08+03:00
-aliases: [Reflections]
+aliases:
+  - "Reflections"
 Cover: "[[_No Album Art.jpg]]"
 Year: 2014
 Album: ""
 CoverOf: ""
-Creators: ["[[We Are The In Crowd (🎙️ 633)]]"]
+Creators:
+  - "[[We Are The In Crowd (🎙️ 633)]]"
 ListenInSec: 153
 NumberInAlbum: 0
 related: []

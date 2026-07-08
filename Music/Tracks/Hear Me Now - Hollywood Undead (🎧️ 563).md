@@ -1,11 +1,13 @@
 ---
 created: 2022-12-20T23:29:46+03:00
-aliases: [Hear Me Now]
+aliases:
+  - "Hear Me Now"
 Cover: ""
 Year: 2011
 Album: "[[American Tragedy]]"
 CoverOf: ""
-Creators: ["[[Hollywood Undead (🎙️ 330)]]"]
+Creators:
+  - "[[Hollywood Undead (🎙️ 330)]]"
 ListenInSec: 215
 NumberInAlbum: 6
 related: []

@@ -1,11 +1,13 @@
 ---
 created: 2022-04-23T02:33:16+03:00
-aliases: [Sparkle]
+aliases:
+  - "Sparkle"
 Cover: "[[_No Album Art.jpg]]"
 Year: 2016
 Album: "[[Human Bloom [2016] {RADWIMPS}]]"
 CoverOf: ""
-Creators: ["[[RADWIMPS (🎙️ 545)]]"]
+Creators:
+  - "[[RADWIMPS (🎙️ 545)]]"
 ListenInSec: 4
 NumberInAlbum: 12
 related: []

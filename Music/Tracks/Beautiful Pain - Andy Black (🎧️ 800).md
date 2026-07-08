@@ -1,11 +1,13 @@
 ---
 created: 2023-09-29T16:23:04+03:00
-aliases: [Beautiful Pain]
+aliases:
+  - "Beautiful Pain"
 Cover: ""
 Year: 2016
 Album: "[[The Shadow Side]]"
 CoverOf: ""
-Creators: ["[[Andy Black (🎙️ 182)]]"]
+Creators:
+  - "[[Andy Black (🎙️ 182)]]"
 ListenInSec: 2
 NumberInAlbum: 6
 related: []

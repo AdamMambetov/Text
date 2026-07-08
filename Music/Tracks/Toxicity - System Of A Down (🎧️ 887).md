@@ -1,11 +1,13 @@
 ---
 created: 2023-09-29T16:26:51+03:00
-aliases: [Toxicity]
+aliases:
+  - "Toxicity"
 Cover: ""
 Year: 2001
 Album: "[[Toxicity]]"
 CoverOf: ""
-Creators: ["[[System Of A Down (🎙️ 453)]]"]
+Creators:
+  - "[[System Of A Down (🎙️ 453)]]"
 ListenInSec: 3
 NumberInAlbum: 12
 related: []

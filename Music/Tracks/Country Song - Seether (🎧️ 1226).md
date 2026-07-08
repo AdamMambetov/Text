@@ -1,11 +1,13 @@
 ---
 created: 2024-10-13T23:04:30+03:00
-aliases: [Country Song]
+aliases:
+  - "Country Song"
 Cover: ""
 Year: 2011
 Album: "[[Holding Onto Strings Better Left to Fray]]"
 CoverOf: ""
-Creators: ["[[Seether (🎙️ 435)]]"]
+Creators:
+  - "[[Seether (🎙️ 435)]]"
 ListenInSec: 10
 NumberInAlbum: 6
 related: []

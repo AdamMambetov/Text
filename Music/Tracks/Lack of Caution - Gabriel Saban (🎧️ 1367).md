@@ -1,6 +1,7 @@
 ---
 created: 2024-10-30T19:23:38+03:00
-aliases: [Lack of Caution]
+aliases:
+  - "Lack of Caution"
 Cover: ""
 Year: 2021
 Album: "[[Staccato]]"

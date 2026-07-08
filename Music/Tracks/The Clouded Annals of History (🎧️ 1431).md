@@ -1,6 +1,7 @@
 ---
 created: 2025-01-07T20:07:08+03:00
-aliases: [The Clouded Annals of History]
+aliases:
+  - "The Clouded Annals of History"
 Cover: ""
 Year: 0
 Album: ""

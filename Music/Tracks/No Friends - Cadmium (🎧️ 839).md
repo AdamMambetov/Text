@@ -1,11 +1,13 @@
 ---
 created: 2023-09-29T16:23:58+03:00
-aliases: [No Friends]
+aliases:
+  - "No Friends"
 Cover: ""
 Year: 2020
 Album: "[[No Friends]]"
 CoverOf: ""
-Creators: ["[[Cadmium (🎙️ 246)]]"]
+Creators:
+  - "[[Cadmium (🎙️ 246)]]"
 ListenInSec: 10
 NumberInAlbum: 1
 related: []

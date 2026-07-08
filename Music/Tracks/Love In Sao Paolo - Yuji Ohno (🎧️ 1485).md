@@ -1,11 +1,13 @@
 ---
 created: 2025-01-08T02:07:40+03:00
-aliases: [Love In Sao Paolo]
+aliases:
+  - "Love In Sao Paolo"
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""
-Creators: ["[[Yuji Ohno (🎙️ 729)]]"]
+Creators:
+  - "[[Yuji Ohno (🎙️ 729)]]"
 ListenInSec: 22
 NumberInAlbum: 0
 related: []

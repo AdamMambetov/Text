@@ -1,11 +1,13 @@
 ---
 created: 2023-09-29T16:26:49+03:00
-aliases: [The Girl in Byakkoya - White Tiger Field]
+aliases:
+  - "The Girl in Byakkoya - White Tiger Field"
 Cover: "[[_No Album Art.jpg]]"
 Year: 2006
 Album: "[[Paprika OST (📀 21)]]"
 CoverOf: ""
-Creators: ["[[Susumu Hirasawa (🎙️ 452)]]"]
+Creators:
+  - "[[Susumu Hirasawa (🎙️ 452)]]"
 ListenInSec: 2682
 NumberInAlbum: 0
 related: []

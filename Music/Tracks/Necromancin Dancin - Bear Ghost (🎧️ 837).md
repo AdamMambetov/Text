@@ -1,11 +1,13 @@
 ---
 created: 2023-09-29T16:23:57+03:00
-aliases: [Necromancin Dancin]
+aliases:
+  - "Necromancin Dancin"
 Cover: ""
 Year: 2016
 Album: "[[Blasterpiece]]"
 CoverOf: ""
-Creators: ["[[Bear Ghost (🎙️ 215)]]"]
+Creators:
+  - "[[Bear Ghost (🎙️ 215)]]"
 ListenInSec: 3
 NumberInAlbum: 2
 related: []

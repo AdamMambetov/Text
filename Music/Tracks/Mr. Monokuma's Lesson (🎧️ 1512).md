@@ -1,6 +1,7 @@
 ---
 created: 2025-01-08T16:56:13+03:00
-aliases: ["Mr. Monokuma's Lesson"]
+aliases:
+  - "Mr. Monokuma's Lesson"
 Cover: ""
 Year: 0
 Album: ""

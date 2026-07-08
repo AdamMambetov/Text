@@ -8,7 +8,8 @@ CoverOf: ""
 Creators: []
 ListenInSec: 67
 NumberInAlbum: 1
-related: ["[[Fukashigi no Carte]]"]
+related:
+  - "[[Fukashigi no Carte]]"
 source: ""
 SourceFile: "[[Koga Tomoe - Fukashigi no Carte (TV Size).mp3]]"
 ---

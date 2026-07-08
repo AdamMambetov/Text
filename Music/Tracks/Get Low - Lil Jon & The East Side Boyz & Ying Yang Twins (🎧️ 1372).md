@@ -1,6 +1,7 @@
 ---
 created: 2024-10-30T19:26:48+03:00
-aliases: [Get Low]
+aliases:
+  - "Get Low"
 Cover: ""
 Year: 2002
 Album: "[[Kings of Crunk]]"

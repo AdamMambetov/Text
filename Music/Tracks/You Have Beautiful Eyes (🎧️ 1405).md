@@ -1,6 +1,7 @@
 ---
 created: 2025-01-07T19:56:04+03:00
-aliases: [You Have Beautiful Eyes]
+aliases:
+  - "You Have Beautiful Eyes"
 Cover: ""
 Year: 0
 Album: ""

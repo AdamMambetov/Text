@@ -1,6 +1,7 @@
 ---
 created: 2025-01-07T20:03:40+03:00
-aliases: [Forward, Oneiroi]
+aliases:
+  - "Forward, Oneiroi"
 Cover: ""
 Year: 0
 Album: ""

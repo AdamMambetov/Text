@@ -1,6 +1,7 @@
 ---
 created: 2025-01-08T17:25:55+03:00
-aliases: [Beautiful Lie (Ver.B)]
+aliases:
+  - "Beautiful Lie (Ver.B)"
 Cover: ""
 Year: 0
 Album: ""

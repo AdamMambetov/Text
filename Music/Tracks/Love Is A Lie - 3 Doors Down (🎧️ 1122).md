@@ -1,6 +1,7 @@
 ---
 created: 2023-09-29T16:22:46+03:00
-aliases: [Love Is A Lie]
+aliases:
+  - "Love Is A Lie"
 Cover: ""
 Year: 0
 Album: ""

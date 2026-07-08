@@ -1,6 +1,7 @@
 ---
 created: 2024-10-30T19:28:34+03:00
-aliases: [Give It All]
+aliases:
+  - "Give It All"
 Cover: ""
 Year: 2004
 Album: "[[Siren Song of the Counter Culture]]"

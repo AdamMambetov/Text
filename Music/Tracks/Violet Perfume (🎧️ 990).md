@@ -1,6 +1,7 @@
 ---
 created: 2024-07-21T15:44:18+03:00
-aliases: [Violet Perfume]
+aliases:
+  - "Violet Perfume"
 Cover: ""
 Year: 0
 Album: ""

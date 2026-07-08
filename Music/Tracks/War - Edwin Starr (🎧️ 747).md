@@ -1,11 +1,13 @@
 ---
 created: 2023-09-29T16:24:50+03:00
-aliases: [War]
+aliases:
+  - "War"
 Cover: ""
 Year: 1970
 Album: "[[War & Peace]]"
 CoverOf: ""
-Creators: ["[[Edwin Starr (🎙️ 299)]]"]
+Creators:
+  - "[[Edwin Starr (🎙️ 299)]]"
 ListenInSec: 5
 NumberInAlbum: 1
 related: []

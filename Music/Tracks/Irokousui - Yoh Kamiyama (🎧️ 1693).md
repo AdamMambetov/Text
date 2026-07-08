@@ -1,14 +1,19 @@
 ---
 created: 2025-06-03T00:19:00+03:00
-aliases: [Irokousui, Horimiya OP 1, Хоримия OP 1]
+aliases:
+  - "Irokousui"
+  - "Horimiya OP 1"
+  - "Хоримия OP 1"
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""
-Creators: ["[[Yoh Kamiyama (🎙️ 661)]]"]
+Creators:
+  - "[[Yoh Kamiyama (🎙️ 661)]]"
 ListenInSec: 193
 NumberInAlbum: 0
-related: ["[[Irokousui (TV Size) - Yoh Kamiyama (🎧️ 1694)]]"]
+related:
+  - "[[Irokousui (TV Size) - Yoh Kamiyama (🎧️ 1694)]]"
 source: ""
 SourceFile: "[[Yoh Kamiyama - Irokousui.mp3]]"
 ---

@@ -1,11 +1,13 @@
 ---
 created: 2023-09-29T16:23:11+03:00
-aliases: ["Livin' La Vida Loca"]
+aliases:
+  - "Livin' La Vida Loca"
 Cover: ""
 Year: 2017
 Album: "[[Silver Screens]]"
 CoverOf: ""
-Creators: ["[[Autumn Kings (🎙️ 198)]]"]
+Creators:
+  - "[[Autumn Kings (🎙️ 198)]]"
 ListenInSec: 3
 NumberInAlbum: 11
 related: []

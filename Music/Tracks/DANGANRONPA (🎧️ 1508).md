@@ -1,6 +1,7 @@
 ---
 created: 2025-01-08T16:53:28+03:00
-aliases: [DANGANRONPA]
+aliases:
+  - "DANGANRONPA"
 Cover: ""
 Year: 0
 Album: ""

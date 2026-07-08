@@ -1,6 +1,7 @@
 ---
 created: 2024-10-10T22:58:20+03:00
-aliases: [Bills]
+aliases:
+  - "Bills"
 Cover: ""
 Year: 2015
 Album: "[[Bills]]"

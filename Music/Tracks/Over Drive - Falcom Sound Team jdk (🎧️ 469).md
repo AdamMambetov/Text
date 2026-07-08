@@ -1,11 +1,13 @@
 ---
 created: 2022-10-05T13:44:38+03:00
-aliases: [Over Drive]
+aliases:
+  - "Over Drive"
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""
-Creators: ["[[Falcom Sound Team jdk (🎙️ 601)]]"]
+Creators:
+  - "[[Falcom Sound Team jdk (🎙️ 601)]]"
 ListenInSec: 368
 NumberInAlbum: 1
 related: []

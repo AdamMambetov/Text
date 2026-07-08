@@ -1,11 +1,13 @@
 ---
 created: 2022-04-22T20:42:58+03:00
-aliases: [Jet Pack Blues]
+aliases:
+  - "Jet Pack Blues"
 Cover: "[[_No Album Art.jpg]]"
 Year: 2015
 Album: ""
 CoverOf: ""
-Creators: ["[[Fall Out Boy (🎙️ 306)]]"]
+Creators:
+  - "[[Fall Out Boy (🎙️ 306)]]"
 ListenInSec: 14
 NumberInAlbum: 0
 related: []

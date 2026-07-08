@@ -1,11 +1,13 @@
 ---
 created: 2022-04-22T21:27:18+03:00
-aliases: [Hell Yeah]
+aliases:
+  - "Hell Yeah"
 Cover: "[[_No Album Art.jpg]]"
 Year: 2008
 Album: ""
 CoverOf: ""
-Creators: ["[[Rev Theory (🎙️ 526)]]"]
+Creators:
+  - "[[Rev Theory (🎙️ 526)]]"
 ListenInSec: 4
 NumberInAlbum: 0
 related: []

@@ -1,11 +1,13 @@
 ---
 created: 2022-04-22T21:11:32+03:00
-aliases: [Na Na Na (Na Na Na Na Na Na Na Na Na)]
+aliases:
+  - "Na Na Na (Na Na Na Na Na Na Na Na Na)"
 Cover: "[[_No Album Art.jpg]]"
 Year: 2014
 Album: ""
 CoverOf: ""
-Creators: ["[[My Chemical Romance (🎙️ 383)]]"]
+Creators:
+  - "[[My Chemical Romance (🎙️ 383)]]"
 ListenInSec: 129
 NumberInAlbum: 0
 related: []

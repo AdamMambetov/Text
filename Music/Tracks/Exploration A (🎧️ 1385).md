@@ -1,6 +1,7 @@
 ---
 created: 2024-12-12T20:42:38+03:00
-aliases: [Exploration A]
+aliases:
+  - "Exploration A"
 Cover: ""
 Year: 0
 Album: ""

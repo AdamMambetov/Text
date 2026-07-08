@@ -1,6 +1,7 @@
 ---
 created: 2025-01-07T20:02:18+03:00
-aliases: [Send Me a Peach]
+aliases:
+  - "Send Me a Peach"
 Cover: ""
 Year: 0
 Album: ""

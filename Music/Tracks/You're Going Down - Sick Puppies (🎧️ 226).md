@@ -1,11 +1,13 @@
 ---
 created: 2022-04-22T21:34:02+03:00
-aliases: ["You're Going Down"]
+aliases:
+  - "You're Going Down"
 Cover: "[[_No Album Art.jpg]]"
 Year: 2010
 Album: ""
 CoverOf: ""
-Creators: ["[[Sick Puppies (🎙️ 533)]]"]
+Creators:
+  - "[[Sick Puppies (🎙️ 533)]]"
 ListenInSec: 13
 NumberInAlbum: 0
 related: []

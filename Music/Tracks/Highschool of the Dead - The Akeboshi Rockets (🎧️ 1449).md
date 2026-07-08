@@ -1,11 +1,15 @@
 ---
 created: 2025-01-08T00:44:42+03:00
-aliases: [Highschool of the Dead, Школа мертвецов]
+aliases:
+  - "Highschool of the Dead"
+  - "Школа мертвецов OP 1"
 Cover: ""
 Year: 0
 Album: ""
 CoverOf: ""
-Creators: ["[[The Akeboshi Rockets (🎙️ 48)]]", "[[Kishida Kyoudan (🎙️ 49)]]"]
+Creators:
+  - "[[The Akeboshi Rockets (🎙️ 48)]]"
+  - "[[Kishida Kyoudan (🎙️ 49)]]"
 ListenInSec: 398
 NumberInAlbum: 0
 related: []

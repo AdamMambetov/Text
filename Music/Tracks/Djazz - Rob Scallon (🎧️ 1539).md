@@ -1,11 +1,13 @@
 ---
 created: 2025-01-08T18:42:52+03:00
-aliases: []
-Cover: ""
+aliases:
+  - "Djazz"
+Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""
-Creators: []
+Creators:
+  - "[[Rob Scallon (🎙️ 756)]]"
 ListenInSec: 480
 NumberInAlbum: 1
 related: []

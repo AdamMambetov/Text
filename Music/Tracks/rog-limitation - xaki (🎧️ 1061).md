@@ -1,11 +1,13 @@
 ---
 created: 2024-04-12T15:01:04+03:00
-aliases: [rog-limitation]
+aliases:
+  - "rog-limitation"
 Cover: ""
 Year: 2007
 Album: "[[Umineko no Naku Koro ni OST (📀 30)]]"
 CoverOf: ""
-Creators: ["[[xaki (🎙️ 12)]]"]
+Creators:
+  - "[[xaki (🎙️ 12)]]"
 ListenInSec: 284
 NumberInAlbum: 143
 related: []

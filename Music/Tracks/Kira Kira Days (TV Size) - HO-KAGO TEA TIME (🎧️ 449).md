@@ -1,11 +1,13 @@
 ---
 created: 2022-10-05T13:28:42+03:00
-aliases: [Kira Kira Days (TV Size)]
+aliases:
+  - "Kira Kira Days (TV Size)"
 Cover: "[[_No Album Art.jpg]]"
 Year: 2010
 Album: ""
 CoverOf: ""
-Creators: ["[[HO-KAGO TEA TIME (🎙️ 583)]]"]
+Creators:
+  - "[[HO-KAGO TEA TIME (🎙️ 583)]]"
 ListenInSec: 2
 NumberInAlbum: 0
 related: []

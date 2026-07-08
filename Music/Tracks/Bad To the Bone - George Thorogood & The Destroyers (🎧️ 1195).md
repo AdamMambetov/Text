@@ -1,6 +1,7 @@
 ---
 created: 2024-10-10T22:50:50+03:00
-aliases: [Bad To the Bone]
+aliases:
+  - "Bad To the Bone"
 Cover: ""
 Year: 1982
 Album: "[[The Baddest of George Thorogood and the Destroyers]]"

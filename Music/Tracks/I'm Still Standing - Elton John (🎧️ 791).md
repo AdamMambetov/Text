@@ -1,6 +1,7 @@
 ---
 created: 2023-09-29T16:23:51+03:00
-aliases: ["I'm Still Standing"]
+aliases:
+  - "I'm Still Standing"
 Cover: ""
 Year: 1983
 Album: "[[Too Low for Zero]]"

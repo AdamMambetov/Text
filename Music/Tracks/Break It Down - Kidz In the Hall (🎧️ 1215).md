@@ -1,6 +1,7 @@
 ---
 created: 2024-10-13T22:31:52+03:00
-aliases: [Break It Down]
+aliases:
+  - "Break It Down"
 Cover: ""
 Year: 2011
 Album: "[[Occasion]]"

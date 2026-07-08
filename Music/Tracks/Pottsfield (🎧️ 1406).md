@@ -1,6 +1,7 @@
 ---
 created: 2025-01-07T19:56:32+03:00
-aliases: [Pottsfield]
+aliases:
+  - "Pottsfield"
 Cover: ""
 Year: 0
 Album: ""

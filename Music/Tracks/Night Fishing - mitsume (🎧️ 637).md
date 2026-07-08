@@ -1,11 +1,13 @@
 ---
 created: 2023-08-23T13:22:36+03:00
-aliases: [Night Fishing]
+aliases:
+  - "Night Fishing"
 Cover: "[[Sonny Boy OST.jpg]]"
 Year: 2021
 Album: "[[Sonny Boy OST (📀 41)]]"
 CoverOf: ""
-Creators: ["[[mitsume (🎙️ 693)]]"]
+Creators:
+  - "[[mitsume (🎙️ 693)]]"
 ListenInSec: 373
 NumberInAlbum: 6
 related: []

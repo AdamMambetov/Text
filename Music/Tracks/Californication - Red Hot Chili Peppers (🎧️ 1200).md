@@ -1,11 +1,13 @@
 ---
 created: 2024-10-13T22:40:18+03:00
-aliases: [Californication]
+aliases:
+  - "Californication"
 Cover: ""
 Year: 1999
 Album: "[[Californication]]"
 CoverOf: ""
-Creators: ["[[Red Hot Chili Peppers (🎙️ 426)]]"]
+Creators:
+  - "[[Red Hot Chili Peppers (🎙️ 426)]]"
 ListenInSec: 308
 NumberInAlbum: 6
 related: []

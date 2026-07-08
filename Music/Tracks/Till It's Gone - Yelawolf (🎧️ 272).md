@@ -1,11 +1,13 @@
 ---
 created: 2022-04-22T21:52:08+03:00
-aliases: ["Till It's Gone"]
+aliases:
+  - "Till It's Gone"
 Cover: ""
 Year: 2015
 Album: "[[Love Story [2015] {Yelawolf}]]"
 CoverOf: ""
-Creators: ["[[Yelawolf (🎙️ 483)]]"]
+Creators:
+  - "[[Yelawolf (🎙️ 483)]]"
 ListenInSec: 2
 NumberInAlbum: 6
 related: []

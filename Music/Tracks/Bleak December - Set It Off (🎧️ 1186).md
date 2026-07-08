@@ -1,11 +1,13 @@
 ---
 created: 2024-10-10T23:03:54+03:00
-aliases: [Bleak December]
+aliases:
+  - "Bleak December"
 Cover: ""
 Year: 2014
 Album: "[[Duality]]"
 CoverOf: ""
-Creators: ["[[Set It Off (🎙️ 436)]]"]
+Creators:
+  - "[[Set It Off (🎙️ 436)]]"
 ListenInSec: 365
 NumberInAlbum: 6
 related: []

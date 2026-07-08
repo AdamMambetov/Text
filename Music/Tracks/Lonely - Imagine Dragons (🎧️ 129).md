@@ -1,11 +1,13 @@
 ---
 created: 2022-04-22T20:55:06+03:00
-aliases: [Lonely]
+aliases:
+  - "Lonely"
 Cover: "[[_No Album Art.jpg]]"
 Year: 2021
 Album: ""
 CoverOf: ""
-Creators: ["[[Imagine Dragons (🎙️ 334)]]"]
+Creators:
+  - "[[Imagine Dragons (🎙️ 334)]]"
 ListenInSec: 818
 NumberInAlbum: 0
 related: []

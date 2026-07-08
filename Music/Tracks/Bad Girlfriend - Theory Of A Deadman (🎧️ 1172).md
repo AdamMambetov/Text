@@ -1,11 +1,13 @@
 ---
 created: 2024-10-10T22:49:22+03:00
-aliases: [Bad Girlfriend]
+aliases:
+  - "Bad Girlfriend"
 Cover: ""
 Year: 2008
 Album: "[[Scars & Souvenirs]]"
 CoverOf: ""
-Creators: ["[[Theory Of A Deadman (🎙️ 466)]]"]
+Creators:
+  - "[[Theory Of A Deadman (🎙️ 466)]]"
 ListenInSec: 397
 NumberInAlbum: 46
 related: []

@@ -1,11 +1,13 @@
 ---
 created: 2022-04-21T01:53:16+03:00
-aliases: [Dividing By Zero]
+aliases:
+  - "Dividing By Zero"
 Cover: "[[The Offspring - Days Go By.png]]"
 Year: 2012
 Album: ""
 CoverOf: ""
-Creators: ["[[The Offspring (🎙️ 459)]]"]
+Creators:
+  - "[[The Offspring (🎙️ 459)]]"
 ListenInSec: 20
 NumberInAlbum: 0
 related: []

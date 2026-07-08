@@ -1,6 +1,7 @@
 ---
 created: 2025-01-07T19:51:50+03:00
-aliases: [Prelude]
+aliases:
+  - "Prelude"
 Cover: ""
 Year: 0
 Album: ""

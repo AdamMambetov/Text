@@ -1,11 +1,13 @@
 ---
 created: 2022-04-22T21:10:04+03:00
-aliases: [Lalalalalalalalalala]
+aliases:
+  - "Lalalalalalalalalala"
 Cover: "[[_No Album Art.jpg]]"
 Year: 2020
 Album: ""
 CoverOf: ""
-Creators: ["[[Mikolas Josef (🎙️ 520)]]"]
+Creators:
+  - "[[Mikolas Josef (🎙️ 520)]]"
 ListenInSec: 111
 NumberInAlbum: 0
 related: []

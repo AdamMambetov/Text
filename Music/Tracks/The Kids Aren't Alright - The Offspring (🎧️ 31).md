@@ -1,11 +1,13 @@
 ---
 created: 2022-04-21T01:53:41+03:00
-aliases: ["The Kids Aren't Alright"]
+aliases:
+  - "The Kids Aren't Alright"
 Cover: "[[The Offspring - Americana.jpg]]"
 Year: 1998
 Album: ""
 CoverOf: ""
-Creators: ["[[The Offspring (🎙️ 459)]]"]
+Creators:
+  - "[[The Offspring (🎙️ 459)]]"
 ListenInSec: 2
 NumberInAlbum: 0
 related: []

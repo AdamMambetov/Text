@@ -1,11 +1,13 @@
 ---
 created: 2022-10-05T13:51:12+03:00
-aliases: [Road of Resistance]
+aliases:
+  - "Road of Resistance"
 Cover: "[[_No Album Art.jpg]]"
 Year: 2015
 Album: ""
 CoverOf: ""
-Creators: ["[[BABYMETAL (🎙️ 207)]]"]
+Creators:
+  - "[[BABYMETAL (🎙️ 207)]]"
 ListenInSec: 321
 NumberInAlbum: 0
 related: []

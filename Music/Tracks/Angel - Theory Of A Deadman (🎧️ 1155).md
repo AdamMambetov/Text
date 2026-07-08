@@ -1,11 +1,13 @@
 ---
 created: 2024-10-08T15:53:06+03:00
-aliases: [Angel]
+aliases:
+  - "Angel"
 Cover: ""
 Year: 2014
 Album: "[[Savages]]"
 CoverOf: ""
-Creators: ["[[Theory Of A Deadman (🎙️ 466)]]"]
+Creators:
+  - "[[Theory Of A Deadman (🎙️ 466)]]"
 ListenInSec: 2
 NumberInAlbum: 6
 related: []

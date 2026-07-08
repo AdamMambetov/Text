@@ -1,11 +1,13 @@
 ---
 created: 2022-10-05T12:59:40+03:00
-aliases: [Gravity Falls Theme Song]
+aliases:
+  - "Gravity Falls Theme Song"
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""
-Creators: ["[[Brad Breeck (🎙️ 235)]]"]
+Creators:
+  - "[[Brad Breeck (🎙️ 235)]]"
 ListenInSec: 50
 NumberInAlbum: 0
 related: []

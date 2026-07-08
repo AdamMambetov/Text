@@ -1,11 +1,13 @@
 ---
 created: 2023-07-09T18:50:36+03:00
-aliases: [Paranoid Android]
+aliases:
+  - "Paranoid Android"
 Cover: ""
 Year: 2017
 Album: "[[OK Computer OKNOTOK 1997 2017]]"
 CoverOf: ""
-Creators: ["[[Radiohead (🎙️ 422)]]"]
+Creators:
+  - "[[Radiohead (🎙️ 422)]]"
 ListenInSec: 403
 NumberInAlbum: 2
 related: []

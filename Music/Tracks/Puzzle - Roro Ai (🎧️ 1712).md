@@ -1,11 +1,16 @@
 ---
 created: 2025-06-06T16:34:50+03:00
-aliases: [Puzzle, Welcome to the NHK OP 1, Добро пожаловать в NHK OP 1]
+aliases:
+  - "Puzzle"
+  - "Welcome to the NHK OP 1"
+  - "Добро пожаловать в NHK OP 1"
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: "[[Puzzle - Round Table]]"
-Creators: ["[[Roro Ai (🎙️ 717)]]", "[[Ryrynoli (🎙️ 718)]]"]
+Creators:
+  - "[[Roro Ai (🎙️ 717)]]"
+  - "[[Ryrynoli (🎙️ 718)]]"
 ListenInSec: 0
 NumberInAlbum: 0
 related: []

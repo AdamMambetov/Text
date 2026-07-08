@@ -1,11 +1,13 @@
 ---
 created: 2022-12-20T23:24:24+03:00
-aliases: [YMCA]
+aliases:
+  - "YMCA"
 Cover: "[[_No Album Art.jpg]]"
 Year: 1978
 Album: ""
 CoverOf: ""
-Creators: ["[[Village People (🎙️ 634)]]"]
+Creators:
+  - "[[Village People (🎙️ 634)]]"
 ListenInSec: 3
 NumberInAlbum: 0
 related: []

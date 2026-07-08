@@ -1,11 +1,13 @@
 ---
 created: 2022-04-22T21:09:32+03:00
-aliases: [Hands Up]
+aliases:
+  - "Hands Up"
 Cover: "[[_No Album Art.jpg]]"
 Year: 2021
 Album: ""
 CoverOf: ""
-Creators: ["[[DNCE (🎙️ 291)]]"]
+Creators:
+  - "[[DNCE (🎙️ 291)]]"
 ListenInSec: 172
 NumberInAlbum: 0
 related: []

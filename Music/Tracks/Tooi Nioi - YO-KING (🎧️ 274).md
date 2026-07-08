@@ -1,11 +1,13 @@
 ---
 created: 2022-04-22T21:52:48+03:00
-aliases: [Tooi Nioi]
+aliases:
+  - "Tooi Nioi"
 Cover: ""
 Year: 2013
 Album: "[[Tooi Nioi [2013] {YO-KING}]]"
 CoverOf: ""
-Creators: ["[[YO-KING (🎙️ 485)]]"]
+Creators:
+  - "[[YO-KING (🎙️ 485)]]"
 ListenInSec: 314
 NumberInAlbum: 1
 related: []

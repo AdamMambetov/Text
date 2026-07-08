@@ -1,11 +1,16 @@
 ---
 created: 2025-06-30T18:11:26+03:00
-aliases: [WORK (TV Size), Jigokuraku OP 1, Hells Paradise OP 1, Адский рай OP 1]
+aliases:
+  - "WORK (TV Size)"
+  - "Jigokuraku OP 1"
+  - "Hells Paradise OP 1"
+  - "Адский рай OP 1"
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""
-Creators: ["[[millennium parade (🎙️ 665)]]"]
+Creators:
+  - "[[millennium parade (🎙️ 665)]]"
 ListenInSec: 12
 NumberInAlbum: 0
 related: []

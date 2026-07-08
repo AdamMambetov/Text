@@ -1,11 +1,13 @@
 ---
 created: 2024-10-13T22:46:14+03:00
-aliases: [Carry On Wayward Son]
+aliases:
+  - "Carry On Wayward Son"
 Cover: ""
 Year: 1976
 Album: "[[The Best of Kansas]]"
 CoverOf: ""
-Creators: ["[[Kansas (🎙️ 347)]]"]
+Creators:
+  - "[[Kansas (🎙️ 347)]]"
 ListenInSec: 160
 NumberInAlbum: 1
 related: []

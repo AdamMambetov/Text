@@ -1,11 +1,13 @@
 ---
 created: 2022-04-22T21:04:46+03:00
-aliases: [Roundtable Rival]
+aliases:
+  - "Roundtable Rival"
 Cover: "[[_No Album Art.jpg]]"
 Year: 2014
 Album: ""
 CoverOf: ""
-Creators: ["[[Lindsey Stirling (🎙️ 512)]]"]
+Creators:
+  - "[[Lindsey Stirling (🎙️ 512)]]"
 ListenInSec: 13
 NumberInAlbum: 0
 related: []

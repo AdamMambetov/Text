@@ -1,11 +1,13 @@
 ---
 created: 2022-06-15T22:10:48+03:00
-aliases: [Set It On Fire]
+aliases:
+  - "Set It On Fire"
 Cover: "[[_No Album Art.jpg]]"
 Year: 2010
 Album: "[[My Darkest Days [2010] {My Darkest Days}]]"
 CoverOf: ""
-Creators: ["[[My Darkest Days (🎙️ 573)]]"]
+Creators:
+  - "[[My Darkest Days (🎙️ 573)]]"
 ListenInSec: 411
 NumberInAlbum: 7
 related: []

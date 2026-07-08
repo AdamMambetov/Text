@@ -1,11 +1,13 @@
 ---
 created: 2022-04-22T21:48:12+03:00
-aliases: [On Top of the World]
+aliases:
+  - "On Top of the World"
 Cover: ""
 Year: 2015
 Album: "[[On Top of the World [2015] {Tim McMorris}]]"
 CoverOf: ""
-Creators: ["[[Tim McMorris (🎙️ 470)]]"]
+Creators:
+  - "[[Tim McMorris (🎙️ 470)]]"
 ListenInSec: 2
 NumberInAlbum: 1
 related: []

@@ -1,11 +1,14 @@
 ---
 created: 2024-05-27T23:53:51+03:00
-aliases: [Kina no Kaori ~Ai no Shiren!~]
+aliases:
+  - "Kina no Kaori ~Ai no Shiren!~"
 Cover: "[[_No Album Art.jpg]]"
 Year: 2016
 Album: ""
-CoverOf: "[[Kina No Kaori ~Ai No Shiren!~ (🎧️ 1564)]]"
-Creators: ["[[Sati Akura (🎙️ 357)]]", "[[ASMO (🎙️ 724)]]"]
+CoverOf: "[[Kina No Kaori ~Ai No Shiren!~ - Kino Nei (🎧️ 1548)]]"
+Creators:
+  - "[[Sati Akura (🎙️ 357)]]"
+  - "[[ASMO (🎙️ 724)]]"
 ListenInSec: 659
 NumberInAlbum: 0
 related: []

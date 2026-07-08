@@ -1,6 +1,7 @@
 ---
 created: 2025-09-25T13:16:24+03:00
-aliases: ["Toni's Music Library - We Control (Game Version)"]
+aliases:
+  - "Toni's Music Library - We Control (Game Version)"
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""

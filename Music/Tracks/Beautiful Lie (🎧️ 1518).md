@@ -1,6 +1,7 @@
 ---
 created: 2025-01-08T17:19:36+03:00
-aliases: [Beautiful Lie]
+aliases:
+  - "Beautiful Lie"
 Cover: ""
 Year: 0
 Album: ""

@@ -1,6 +1,7 @@
 ---
 created: 2024-10-08T15:42:12+03:00
-aliases: [Age of the Dragon]
+aliases:
+  - "Age of the Dragon"
 Cover: ""
 Year: 2011
 Album: "[[Level 1]]"

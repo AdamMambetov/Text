@@ -1,11 +1,13 @@
 ---
 created: 2022-04-22T21:06:32+03:00
-aliases: [Sweet Home Alabama]
+aliases:
+  - "Sweet Home Alabama"
 Cover: "[[_No Album Art.jpg]]"
 Year: 2008
 Album: ""
 CoverOf: ""
-Creators: ["[[Lynyrd Skynyrd (🎙️ 513)]]"]
+Creators:
+  - "[[Lynyrd Skynyrd (🎙️ 513)]]"
 ListenInSec: 4
 NumberInAlbum: 0
 related: []

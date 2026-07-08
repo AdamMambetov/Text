@@ -1,11 +1,13 @@
 ---
 created: 2024-10-13T22:39:24+03:00
-aliases: [California]
+aliases:
+  - "California"
 Cover: ""
 Year: 2008
 Album: "[[Swan Songs]]"
 CoverOf: ""
-Creators: ["[[Hollywood Undead (🎙️ 330)]]"]
+Creators:
+  - "[[Hollywood Undead (🎙️ 330)]]"
 ListenInSec: 3
 NumberInAlbum: 10
 related: []

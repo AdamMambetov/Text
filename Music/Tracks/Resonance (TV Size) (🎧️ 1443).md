@@ -1,6 +1,7 @@
 ---
 created: 2025-01-07T21:01:16+03:00
-aliases: [Resonance (TV Size)]
+aliases:
+  - "Resonance (TV Size)"
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""

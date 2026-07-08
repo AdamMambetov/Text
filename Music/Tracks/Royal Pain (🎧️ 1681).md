@@ -1,6 +1,7 @@
 ---
 created: 2025-05-04T01:50:50+03:00
-aliases: [Royal Pain]
+aliases:
+  - "Royal Pain"
 Cover: ""
 Year: 2007
 Album: "[[Shrek 3 OST]]"

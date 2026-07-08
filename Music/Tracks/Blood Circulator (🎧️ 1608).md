@@ -1,6 +1,7 @@
 ---
 created: 2025-01-08T22:27:48+03:00
-aliases: [Blood Circulator]
+aliases:
+  - "Blood Circulator"
 Cover: ""
 Year: 0
 Album: ""

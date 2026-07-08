@@ -1,6 +1,7 @@
 ---
 created: 2024-10-30T19:16:28+03:00
-aliases: [Fired Up]
+aliases:
+  - "Fired Up"
 Cover: ""
 Year: 2005
 Album: "[[Bulletproof]]"

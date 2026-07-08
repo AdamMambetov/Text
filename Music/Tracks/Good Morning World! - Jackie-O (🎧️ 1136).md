@@ -1,11 +1,15 @@
 ---
 created: 2024-10-05T15:45:44+03:00
-aliases: [Good Morning World!]
+aliases:
+  - "Good Morning World!"
+  - "Dr. Stone OP 1"
+  - "Доктор Стоун OP 1"
 Cover: "[[_No Album Art.jpg]]"
 Year: 2020
 Album: ""
 CoverOf: "[[Good Morning World! - BURNOUT SYNDROMES]]"
-Creators: ["[[Jackie-O (🎙️ 339)]]"]
+Creators:
+  - "[[Jackie-O (🎙️ 339)]]"
 ListenInSec: 495
 NumberInAlbum: 0
 related: []

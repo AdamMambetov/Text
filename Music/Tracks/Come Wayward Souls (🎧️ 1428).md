@@ -1,6 +1,7 @@
 ---
 created: 2025-01-07T20:05:04+03:00
-aliases: [Come Wayward Souls]
+aliases:
+  - "Come Wayward Souls"
 Cover: ""
 Year: 0
 Album: ""

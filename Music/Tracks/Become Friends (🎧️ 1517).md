@@ -1,6 +1,7 @@
 ---
 created: 2025-01-08T17:18:30+03:00
-aliases: [Become Friends]
+aliases:
+  - "Become Friends"
 Cover: ""
 Year: 0
 Album: ""

@@ -1,11 +1,13 @@
 ---
 created: 2023-09-29T16:23:28+03:00
-aliases: [Get Lucky]
+aliases:
+  - "Get Lucky"
 Cover: ""
 Year: 2013
 Album: "[[Random Access Memories]]"
 CoverOf: ""
-Creators: ["[[Daft Punk (🎙️ 274)]]"]
+Creators:
+  - "[[Daft Punk (🎙️ 274)]]"
 ListenInSec: 2
 NumberInAlbum: 8
 related: []

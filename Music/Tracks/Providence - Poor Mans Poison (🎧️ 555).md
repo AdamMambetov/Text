@@ -1,11 +1,13 @@
 ---
 created: 2022-12-20T23:22:42+03:00
-aliases: [Providence]
+aliases:
+  - "Providence"
 Cover: ""
 Year: 2014
 Album: "[[Providence]]"
 CoverOf: ""
-Creators: ["[[Poor Mans Poison (🎙️ 415)]]"]
+Creators:
+  - "[[Poor Mans Poison (🎙️ 415)]]"
 ListenInSec: 171
 NumberInAlbum: 1
 related: []

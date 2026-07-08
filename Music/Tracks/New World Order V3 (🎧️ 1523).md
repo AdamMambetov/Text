@@ -1,6 +1,7 @@
 ---
 created: 2025-01-08T17:35:46+03:00
-aliases: [New World Order V3]
+aliases:
+  - "New World Order V3"
 Cover: ""
 Year: 0
 Album: ""

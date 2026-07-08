@@ -1,11 +1,13 @@
 ---
 created: 2024-10-23T13:42:22+03:00
-aliases: [Blue]
+aliases:
+  - "Blue"
 Cover: ""
 Year: 0
 Album: "[[Blue]]"
 CoverOf: ""
-Creators: ["[[DiWilliam (🎙️ 60)]]"]
+Creators:
+  - "[[DiWilliam (🎙️ 60)]]"
 ListenInSec: 688
 NumberInAlbum: 1
 related: []

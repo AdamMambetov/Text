@@ -1,11 +1,13 @@
 ---
 created: 2022-04-22T21:05:52+03:00
-aliases: [You And I]
+aliases:
+  - "You And I"
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""
-Creators: ["[[Lulu (🎙️ 369)]]"]
+Creators:
+  - "[[Lulu (🎙️ 369)]]"
 ListenInSec: 138
 NumberInAlbum: 0
 related: []

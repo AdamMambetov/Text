@@ -1,11 +1,13 @@
 ---
 created: 2024-10-23T14:37:50+03:00
-aliases: [E.T.]
+aliases:
+  - "E.T."
 Cover: ""
 Year: 2010
 Album: "[[Teenage Dream]]"
 CoverOf: ""
-Creators: ["[[Katy Perry (🎙️ 350)]]"]
+Creators:
+  - "[[Katy Perry (🎙️ 350)]]"
 ListenInSec: 306
 NumberInAlbum: 8
 related: []

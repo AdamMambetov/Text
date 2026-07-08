@@ -1,11 +1,13 @@
 ---
 created: 2022-04-22T21:01:52+03:00
-aliases: [RISE]
+aliases:
+  - "RISE"
 Cover: "[[_No Album Art.jpg]]"
 Year: 2018
 Album: ""
 CoverOf: ""
-Creators: ["[[League of Legends (🎙️ 73)]]"]
+Creators:
+  - "[[League of Legends (🎙️ 73)]]"
 ListenInSec: 759
 NumberInAlbum: 0
 related: []

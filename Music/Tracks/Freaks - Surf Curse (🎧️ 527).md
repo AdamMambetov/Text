@@ -1,11 +1,13 @@
 ---
 created: 2022-12-20T10:49:52+03:00
-aliases: [Freaks]
+aliases:
+  - "Freaks"
 Cover: ""
 Year: 2021
 Album: "[[Freaks]]"
 CoverOf: ""
-Creators: ["[[Surf Curse (🎙️ 449)]]"]
+Creators:
+  - "[[Surf Curse (🎙️ 449)]]"
 ListenInSec: 341
 NumberInAlbum: 1
 related: []

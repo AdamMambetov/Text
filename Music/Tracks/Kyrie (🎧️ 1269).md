@@ -1,6 +1,7 @@
 ---
 created: 2024-10-13T23:35:56+03:00
-aliases: [Kyrie]
+aliases:
+  - "Kyrie"
 Cover: ""
 Year: 0
 Album: "[[Death Note OST]]"

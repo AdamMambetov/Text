@@ -1,11 +1,13 @@
 ---
 created: 2025-01-08T20:41:29+03:00
-aliases: [Undead]
+aliases:
+  - "Undead"
 Cover: ""
 Year: 0
 Album: ""
 CoverOf: "[[Undead - Hollywood Undead (🎧️ 121)]]"
-Creators: ["[[RADIO TAPOK (🎙️ 421)]]"]
+Creators:
+  - "[[RADIO TAPOK (🎙️ 421)]]"
 ListenInSec: 743
 NumberInAlbum: 1
 related: []

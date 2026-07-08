@@ -1,6 +1,7 @@
 ---
 created: 2024-08-03T18:05:43+03:00
-aliases: [Senkyou no Igreja]
+aliases:
+  - "Senkyou no Igreja"
 Cover: ""
 Year: 2007
 Album: "[[Umineko no Naku Koro ni OST (📀 30)]]"

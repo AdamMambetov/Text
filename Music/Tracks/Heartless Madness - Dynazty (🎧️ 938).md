@@ -1,6 +1,7 @@
 ---
 created: 2023-09-29T16:23:48+03:00
-aliases: [Heartless Madness]
+aliases:
+  - "Heartless Madness"
 Cover: ""
 Year: 2020
 Album: "[[The Dark Delight]]"

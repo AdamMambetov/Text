@@ -1,6 +1,7 @@
 ---
 created: 2023-10-27T15:38:13+03:00
-aliases: ["Colonel Hathi's March (The Elephant Song)"]
+aliases:
+  - "Colonel Hathi's March (The Elephant Song)"
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""

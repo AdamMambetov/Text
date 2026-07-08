@@ -1,11 +1,13 @@
 ---
 created: 2023-09-29T16:25:05+03:00
-aliases: [False Mirror]
+aliases:
+  - "False Mirror"
 Cover: ""
 Year: 2017
 Album: "[[False Mirror]]"
 CoverOf: ""
-Creators: ["[[LIZER (🎙️ 365)]]"]
+Creators:
+  - "[[LIZER (🎙️ 365)]]"
 ListenInSec: 40
 NumberInAlbum: 1
 related: []

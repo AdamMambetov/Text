@@ -1,11 +1,13 @@
 ---
 created: 2023-08-23T13:19:20+03:00
-aliases: [Spare]
+aliases:
+  - "Spare"
 Cover: "[[Sonny Boy OST.jpg]]"
 Year: 2021
 Album: "[[Sonny Boy OST (📀 41)]]"
 CoverOf: ""
-Creators: ["[[mitsume (🎙️ 693)]]"]
+Creators:
+  - "[[mitsume (🎙️ 693)]]"
 ListenInSec: 427
 NumberInAlbum: 15
 related: []

@@ -1,11 +1,14 @@
 ---
 created: 2025-01-08T00:39:00+03:00
-aliases: [Brave Shine]
+aliases:
+  - "Brave Shine"
 Cover: "[[_No Album Art.jpg]]"
 Year: 2020
 Album: ""
 CoverOf: "[[Brave Shine - Aimer]]"
-Creators: ["[[Onsa Media (🎙️ 402)]]", "[[HaruWei (🎙️ 327)]]"]
+Creators:
+  - "[[Onsa Media (🎙️ 402)]]"
+  - "[[HaruWei (🎙️ 327)]]"
 ListenInSec: 463
 NumberInAlbum: 0
 related: []

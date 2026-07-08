@@ -1,11 +1,13 @@
 ---
 created: 2023-09-30T15:53:13+03:00
-aliases: [One Good Reason]
+aliases:
+  - "One Good Reason"
 Cover: ""
 Year: 2013
 Album: "[[Celldweller (10 Year Anniversary)]]"
 CoverOf: ""
-Creators: ["[[Celldweller (🎙️ 252)]]"]
+Creators:
+  - "[[Celldweller (🎙️ 252)]]"
 ListenInSec: 199
 NumberInAlbum: 15
 related: []

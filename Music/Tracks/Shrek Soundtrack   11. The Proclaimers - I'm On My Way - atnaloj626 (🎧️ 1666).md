@@ -1,11 +1,13 @@
 ---
 created: 2025-05-04T01:32:54+03:00
-aliases: ["Shrek Soundtrack   11. The Proclaimers - I'm On My Way"]
+aliases:
+  - "Shrek Soundtrack   11. The Proclaimers - I'm On My Way"
 Cover: ""
 Year: 2009
 Album: ""
 CoverOf: ""
-Creators: ["[[atnaloj626 (🎙️ 196)]]"]
+Creators:
+  - "[[atnaloj626 (🎙️ 196)]]"
 ListenInSec: 1298
 NumberInAlbum: 0
 related: []

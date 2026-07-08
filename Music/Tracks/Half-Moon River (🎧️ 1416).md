@@ -1,6 +1,7 @@
 ---
 created: 2025-01-07T20:01:10+03:00
-aliases: [Half-Moon River]
+aliases:
+  - "Half-Moon River"
 Cover: ""
 Year: 0
 Album: ""

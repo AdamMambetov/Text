@@ -1,11 +1,13 @@
 ---
 created: 2022-04-28T17:39:42+03:00
-aliases: [Naruto Main Theme]
+aliases:
+  - "Naruto Main Theme"
 Cover: "[[_No Album Art.jpg]]"
 Year: 2003
 Album: "[[Naruto OST 1 (📀 15)]]"
 CoverOf: ""
-Creators: ["[[Musashi Project (🎙️ 560)]]"]
+Creators:
+  - "[[Musashi Project (🎙️ 560)]]"
 ListenInSec: 263
 NumberInAlbum: 21
 related: []

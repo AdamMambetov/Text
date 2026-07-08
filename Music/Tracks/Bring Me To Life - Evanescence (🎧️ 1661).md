@@ -1,11 +1,13 @@
 ---
 created: 2025-05-04T02:21:33+03:00
-aliases: [Bring Me To Life]
+aliases:
+  - "Bring Me To Life"
 Cover: "[[_No Album Art.jpg]]"
 Year: 2009
 Album: ""
 CoverOf: ""
-Creators: ["[[Evanescence (🎙️ 719)]]"]
+Creators:
+  - "[[Evanescence (🎙️ 719)]]"
 ListenInSec: 1011
 NumberInAlbum: 0
 related: []

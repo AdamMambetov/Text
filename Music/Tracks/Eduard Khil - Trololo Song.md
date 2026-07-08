@@ -1,6 +1,7 @@
 ---
 created: 2025-12-13T16:27:08+03:00
-aliases: [Eduard Khil - Trololo Song]
+aliases:
+  - "Eduard Khil - Trololo Song"
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""

@@ -1,11 +1,13 @@
 ---
 created: 2024-10-10T22:45:32+03:00
-aliases: [Kings & Queens]
+aliases:
+  - "Kings & Queens"
 Cover: ""
 Year: 2020
 Album: "[[Heaven & Hell]]"
 CoverOf: ""
-Creators: ["[[Ava Max (🎙️ 199)]]"]
+Creators:
+  - "[[Ava Max (🎙️ 199)]]"
 ListenInSec: 319
 NumberInAlbum: 1
 related: []

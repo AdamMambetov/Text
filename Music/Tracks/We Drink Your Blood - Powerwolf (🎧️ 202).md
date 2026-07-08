@@ -1,11 +1,13 @@
 ---
 created: 2022-04-22T21:23:06+03:00
-aliases: [We Drink Your Blood]
+aliases:
+  - "We Drink Your Blood"
 Cover: "[[_No Album Art.jpg]]"
 Year: 2011
 Album: ""
 CoverOf: ""
-Creators: ["[[Powerwolf (🎙️ 418)]]"]
+Creators:
+  - "[[Powerwolf (🎙️ 418)]]"
 ListenInSec: 440
 NumberInAlbum: 0
 related: []

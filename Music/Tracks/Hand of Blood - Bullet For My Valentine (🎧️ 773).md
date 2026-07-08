@@ -1,11 +1,13 @@
 ---
 created: 2023-09-29T16:23:21+03:00
-aliases: [Hand of Blood]
+aliases:
+  - "Hand of Blood"
 Cover: ""
 Year: 2005
 Album: "[[Hand of Blood]]"
 CoverOf: ""
-Creators: ["[[Bullet For My Valentine (🎙️ 242)]]"]
+Creators:
+  - "[[Bullet For My Valentine (🎙️ 242)]]"
 ListenInSec: 219
 NumberInAlbum: 2
 related: []

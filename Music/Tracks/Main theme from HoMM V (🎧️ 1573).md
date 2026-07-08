@@ -1,6 +1,7 @@
 ---
 created: 2025-01-08T19:31:19+03:00
-aliases: [Main Theme]
+aliases:
+  - "Main Theme"
 Cover: ""
 Year: 0
 Album: ""

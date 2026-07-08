@@ -8,7 +8,8 @@ CoverOf: ""
 Creators: []
 ListenInSec: 239
 NumberInAlbum: 1
-related: ["[[Kuchizuke Diamond (TV Size) (🎧️ 1484)]]"]
+related:
+  - "[[Kuchizuke Diamond (TV Size) (🎧️ 1484)]]"
 source: ""
 SourceFile: "[[WEAVER - Kuchizuke Diamond.mp3]]"
 ---

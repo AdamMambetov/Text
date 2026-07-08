@@ -1,6 +1,7 @@
 ---
 created: 2025-01-07T18:28:05+03:00
-aliases: [Led Zeppelin - Immigrant Song]
+aliases:
+  - "Led Zeppelin - Immigrant Song"
 Cover: ""
 Year: 2017
 Album: ""
