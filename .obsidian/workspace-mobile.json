@@ -13,43 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Art/content/Re.Zero 4 (🇯🇵📺 1115).md",
+                "file": "Note/content/@Адам Мамбетов.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Re.Zero 4 (🇯🇵📺 1115)"
+              "title": "@Адам Мамбетов"
             }
           },
           {
             "id": "baf19e07b38b7c67",
             "type": "leaf",
             "state": {
-              "type": "bases",
-              "state": {
-                "file": "Music/tracks.base",
-                "viewName": "невалидные шедевры"
-              },
-              "icon": "lucide-table",
-              "title": "tracks"
-            }
-          },
-          {
-            "id": "3423304d0f1831b9",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Music/Tracks/Карты, деньги, два хвоста - Rotten Toten (🎧️ 617).md",
+                "file": "Music/Playlists/Favorites (💿 1).md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Карты, деньги, два хвоста - Rotten Toten (🎧️ 617)"
+              "title": "Favorites (💿 1)"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -140,7 +127,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Music/Tracks/Карты, деньги, два хвоста - Rotten Toten (🎧️ 617).md",
+            "file": "Music/Tracks/Koko kara, Koko kara - Kana Hanazawa (🎧️ 463).md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -213,45 +200,45 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3423304d0f1831b9",
+  "active": "baf19e07b38b7c67",
   "lastOpenFiles": [
-    "Music/Tracks/RISE - Jackie-O (🎧️ 592).md",
-    "Music/Tracks/Kibou no Uta - Jackie-O (🎧️ 591).md",
-    "Note/templates/_track update all capture.md",
-    "Note/templates/_track update capture.md",
-    "Music/Tracks/阿婆擦れ - Creepy Nuts (🎧️ 1119).md",
-    "RealRed/periodic/2026-06-16.md",
-    "RealRed/periodic/2026-06-15.md",
-    "RealRed/periodic/2026-06-11.md",
-    "Music/Tracks/空に歌えば (TV edit.) - amazarashi (🎧️ 968).md",
-    "Music/Tracks/ナイト スクープ - Long Shot Party (🎧️ 754).md",
-    "Music/Tracks/Zombie (🎧️ 1498).md",
-    "Music/Tracks/Zenigata March - Yuji Ohno (🎧️ 1601).md",
-    "Music/Tracks/Yuusha - YOASOBI (🎧️ 1559).md",
-    "Music/Tracks/Yura Yura - MUSEN (🎧️ 1279).md",
-    "Music/Tracks/Yuusha - Sati Akura (🎧️ 1560).md",
-    "Music/Tracks/Your Turn to Go (🎧️ 1384).md",
-    "Music/Tracks/Your Turn To Die Ost .10-Majority Vote [EXTENDED] - Avocado Boi (🎧️ 1361).md",
-    "Music/Tracks/Your Turn To Die Ost .06 Exploration B [EXTENDED] - Avocado Boi (🎧️ 1362).md",
-    "Music/Tracks/Young - Hollywood Undead (🎧️ 124).md",
-    "Music/Tracks/You're Welcome - Disney (🎧️ 668).md",
-    "Music/Tracks/You're My Heart, You're My Soul (🎧️ 1617).md",
-    "Music/Tracks/You're Gonna Go Far, Kid - The Offspring (🎧️ 245).md",
-    "Music/Tracks/You're Gonna Go Far Kid - Jonathan Young (🎧️ 139).md",
-    "Music/Tracks/You're Going Down - Sick Puppies (🎧️ 226).md",
-    "Music/Tracks/You'll Be Under My Wheels - The Prodigy (🎧️ 305).md",
-    "Music/Tracks/You Suck at Love - Simple Plan (🎧️ 229).md",
-    "Music/files/Pasted image 20251119232251.png",
+    "Music/Playlists/Anime Openings (💿 4).md",
+    "Music/Playlists/Anime Endings (💿 5).md",
+    "Music/Playlists/Anime (💿 3).md",
+    "Music/Playlists/Яндекс (💿 7).md",
+    "Music/Playlists/Чайки (💿 11).md",
+    "Music/Playlists/Детство (💿 8).md",
+    "Music/Playlists/100% Шедевр (💿 6).md",
     "Music/tracks.base",
+    "Music/Creators/-45 (🎙️ 6).md",
+    "Music/Albums/8 Mile OST (📀 2).md",
+    "Music/Tracks/Koko kara, Koko kara - Kana Hanazawa (🎧️ 463).md",
+    "Music/Tracks/Kodama's Theme - Mid-Air Thief (🎧️ 1888).md",
+    "Music/Tracks/Knew day - (K)NoW_NAME (🎧️ 1632).md",
+    "Music/Tracks/Kiss Me You Animal - Burn the Ballroom (🎧️ 828).md",
+    "Music/Tracks/Kiri - Monoral (🎧️ 745).md",
+    "Music/Tracks/Kira Kira Days (TV Size) - HO-KAGO TEA TIME (🎧️ 449).md",
+    "Music/Tracks/Kings & Queens - Ava Max (🎧️ 1168).md",
+    "Music/Tracks/King Of The Jungle - Shanguy (🎧️ 510).md",
+    "Music/Tracks/KING - Sati Akura (🎧️ 215).md",
+    "Music/Tracks/King - Chandelier (🎧️ 1268).md",
+    "Music/Tracks/Kina no Kaori ~Ai no Shiren!~ - Sati Akura (🎧️ 1049).md",
+    "Music/Tracks/Kina No Kaori ~Ai No Shiren!~ - Kino Nei (🎧️ 1548).md",
+    "Music/Tracks/Сверху вниз, наискосок - Luck Ganriki (🎧️ 1060).md",
+    "Music/Tracks/Kiminosei - the peggies (🎧️ 519).md",
+    "Music/Tracks/Kimi no Shiranai Monogatari (TV Size) - supercell (🎧️ 1646).md",
+    "Music/Tracks/Kimi no Shiranai Monogatari (TV Size) - ClariS (🎧️ 440).md",
+    "Music/Tracks/Kimi no Shiranai Monogatari - supercell (🎧️ 1653).md",
+    "Text/Note/excalidraw",
+    "Text/Note",
+    "Text",
+    "Music/files/Pasted image 20251119232251.png",
     "Art/art.base",
     "Music/templates/related tracks.base",
     "Music/templates/tracklist.base",
     "Text/Note/home/_art base.base",
     "Text/Note/home",
-    "Text/Note",
-    "Text",
     "Art/_art base.base",
-    "Audio/Music/ymetsys - Plants vs Zombies Soundtrack. [Night Stage].mp3",
     "Image/Album Art Changer/Onsa Media - Sono Chi no Kioku end of THE WORLD.jpg",
     "Text/Music/Covers/Onsa Media - Мы за Предков Отомстим.jpg",
     "Text/Art/covers/douluo_dalu_anime_cover.jpg",
