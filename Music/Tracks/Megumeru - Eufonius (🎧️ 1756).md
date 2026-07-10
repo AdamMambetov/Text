@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Eufonius (🎙️ 706)]]"
-ListenInSec: 2240
+ListenInSec: 2245
 NumberInAlbum: 0
 related:
   - "[[Megumeru (TV Size) - Eufonius (🎧️ 1754)]]"

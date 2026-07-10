@@ -8,7 +8,7 @@ Album: "[[Not Long For This World]]"
 CoverOf: ""
 Creators:
   - "[[Игорь Куликов (🎙️ 71)]]"
-ListenInSec: 574
+ListenInSec: 966
 NumberInAlbum: 1
 related: []
 source: ""

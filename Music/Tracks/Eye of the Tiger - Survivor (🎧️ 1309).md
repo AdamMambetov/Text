@@ -8,7 +8,7 @@ Album: "[[Eye of the Tiger]]"
 CoverOf: ""
 Creators:
   - "[[Survivor (🎙️ 451)]]"
-ListenInSec: 298
+ListenInSec: 299
 NumberInAlbum: 1
 related: []
 source: ""

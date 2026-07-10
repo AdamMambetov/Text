@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Imagine Dragons (🎙️ 334)]]"
-ListenInSec: 818
+ListenInSec: 999
 NumberInAlbum: 0
 related: []
 source: ""

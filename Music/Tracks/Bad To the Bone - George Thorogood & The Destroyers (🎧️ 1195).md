@@ -7,7 +7,7 @@ Year: 1982
 Album: "[[The Baddest of George Thorogood and the Destroyers]]"
 CoverOf: ""
 Creators: []
-ListenInSec: 80
+ListenInSec: 86
 NumberInAlbum: 6
 related: []
 source: ""

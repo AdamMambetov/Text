@@ -8,7 +8,7 @@ Album: "[[The Shadow Side]]"
 CoverOf: ""
 Creators:
   - "[[Andy Black (🎙️ 182)]]"
-ListenInSec: 20
+ListenInSec: 265
 NumberInAlbum: 4
 related: []
 source: ""
@@ -18,3 +18,4 @@ SourceFile: "[[Andy Black - Stay Alive.mp3]]"
 # Andy Black - Stay Alive
 
 ![[Andy Black - Stay Alive.mp3]]
+

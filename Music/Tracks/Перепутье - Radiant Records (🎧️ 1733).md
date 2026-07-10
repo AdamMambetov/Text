@@ -14,7 +14,7 @@ CoverOf: "[[Crossing Field - LiSA (🎧️ 1445)]]"
 Creators:
   - "[[Radiant Records (🎙️ 39)]]"
   - "[[Hono (🎙️ 51)]]"
-ListenInSec: 3268
+ListenInSec: 3514
 NumberInAlbum: 1
 related: []
 source: https://radiantrecords.bandcamp.com/track/hono

@@ -7,9 +7,9 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Yuji Ohno (🎙️ 729)]]"
   - "[[Lupintic Five (🎙️ 730)]]"
-ListenInSec: 62
+  - "[[Yuji Ohno (🎙️ 729)]]"
+ListenInSec: 493
 NumberInAlbum: 0
 related: []
 source: ""

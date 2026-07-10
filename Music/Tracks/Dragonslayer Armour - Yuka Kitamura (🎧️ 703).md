@@ -8,7 +8,7 @@ Album: "[[Dark Souls 3 OST (📀 10)]]"
 CoverOf: ""
 Creators:
   - "[[Yuka Kitamura (🎙️ 29)]]"
-ListenInSec: 21
+ListenInSec: 23
 NumberInAlbum: 18
 related: []
 source: ""

@@ -11,7 +11,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[BRADIO (🎙️ 236)]]"
-ListenInSec: 212
+ListenInSec: 425
 NumberInAlbum: 0
 related:
   - "[[Flyers (TV Size) - BRADIO (🎧️ 1688)]]"

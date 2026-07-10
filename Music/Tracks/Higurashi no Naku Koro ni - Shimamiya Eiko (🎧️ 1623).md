@@ -9,7 +9,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Shimamiya Eiko (🎙️ 50)]]"
-ListenInSec: 1204
+ListenInSec: 1469
 NumberInAlbum: 0
 related: []
 source: ""

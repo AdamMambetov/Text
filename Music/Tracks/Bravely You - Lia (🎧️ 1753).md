@@ -10,7 +10,7 @@ Album: ""
 CoverOf: "[[Bravely You (TV Size) - Lia (🎧️ 1079)]]"
 Creators:
   - "[[Lia (🎙️ 658)]]"
-ListenInSec: 1629
+ListenInSec: 2255
 NumberInAlbum: 0
 related: []
 source: ""

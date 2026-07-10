@@ -8,7 +8,7 @@ Album: "[[Umineko no Naku Koro ni OST (📀 30)]]"
 CoverOf: ""
 Creators:
   - "[[Luck Ganriki (🎙️ 4)]]"
-ListenInSec: 456
+ListenInSec: 605
 NumberInAlbum: 135
 related: []
 source: ""

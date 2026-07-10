@@ -8,7 +8,7 @@ Album: "[[Sonny Boy OST (📀 41)]]"
 CoverOf: ""
 Creators:
   - "[[Ogawa & Tokoro (🎙️ 695)]]"
-ListenInSec: 0
+ListenInSec: 98
 NumberInAlbum: 8
 related: []
 source: ""

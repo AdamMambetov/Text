@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Seven Billion Dots (🎙️ 616)]]"
-ListenInSec: 93
+ListenInSec: 184
 NumberInAlbum: 1
 related: []
 source: ""

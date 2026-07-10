@@ -2,7 +2,7 @@
 created: 2025-11-19T23:15:35+03:00
 aliases:
   - "Gotye"
-ListenInSec: 1906
+ListenInSec: 2868
 ---
 
 # Gotye

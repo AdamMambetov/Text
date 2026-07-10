@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Kanon Kanon (🎙️ 727)]]"
-ListenInSec: 613
+ListenInSec: 739
 NumberInAlbum: 0
 related:
   - "[[Calendula Requiem (TV Size) - Kanon Kanon]]"

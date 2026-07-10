@@ -7,7 +7,7 @@ Year: 2007
 Album: "[[Umineko no Naku Koro ni OST (📀 30)]]"
 CoverOf: ""
 Creators: []
-ListenInSec: 330
+ListenInSec: 430
 NumberInAlbum: 1
 related: []
 source: ""

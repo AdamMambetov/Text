@@ -9,7 +9,7 @@ CoverOf: ""
 Creators:
   - "[[Gotye (🎙️ 320)]]"
   - "[[Kimbra (🎙️ 321)]]"
-ListenInSec: 2627
+ListenInSec: 2868
 NumberInAlbum: 0
 related: []
 source: ""

@@ -8,7 +8,7 @@ Album: "[[Paprika OST (📀 21)]]"
 CoverOf: ""
 Creators:
   - "[[Susumu Hirasawa (🎙️ 452)]]"
-ListenInSec: 2682
+ListenInSec: 2967
 NumberInAlbum: 0
 related: []
 source: ""

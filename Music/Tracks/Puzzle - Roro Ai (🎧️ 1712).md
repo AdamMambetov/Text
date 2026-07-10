@@ -11,7 +11,7 @@ CoverOf: "[[Puzzle - Round Table]]"
 Creators:
   - "[[Roro Ai (🎙️ 717)]]"
   - "[[Ryrynoli (🎙️ 718)]]"
-ListenInSec: 0
+ListenInSec: 483
 NumberInAlbum: 0
 related: []
 source: ""

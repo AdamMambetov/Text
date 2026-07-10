@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Sunset Neon (🎙️ 495)]]"
-ListenInSec: 570
+ListenInSec: 754
 NumberInAlbum: 0
 related: []
 source: ""

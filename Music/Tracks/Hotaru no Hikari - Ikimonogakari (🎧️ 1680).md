@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Ikimonogakari (🎙️ 57)]]"
-ListenInSec: 918
+ListenInSec: 921
 NumberInAlbum: 0
 related: []
 source: ""

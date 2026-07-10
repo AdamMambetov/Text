@@ -8,7 +8,7 @@ Album: ""
 CoverOf: "[[Way Back Home - Shaun (🎧️ 225)]]"
 Creators:
   - "[[Leon Alex (🎙️ 361)]]"
-ListenInSec: 457
+ListenInSec: 684
 NumberInAlbum: 0
 related: []
 source: https://youtu.be/dgMzfkLTGnI?si=Oh9qFYpyMcfap-hZ

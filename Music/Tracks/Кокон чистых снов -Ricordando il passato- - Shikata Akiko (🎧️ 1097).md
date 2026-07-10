@@ -8,7 +8,7 @@ Album: "[[Umineko no Naku Koro ni OST (📀 30)]]"
 CoverOf: ""
 Creators:
   - "[[Shikata Akiko (🎙️ 22)]]"
-ListenInSec: 170
+ListenInSec: 338
 NumberInAlbum: 240
 related: []
 source: ""

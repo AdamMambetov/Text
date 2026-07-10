@@ -8,7 +8,7 @@ Album: "[[Pax Vesania]]"
 CoverOf: ""
 Creators:
   - "[[Yousei Teikoku (🎙️ 277)]]"
-ListenInSec: 1117
+ListenInSec: 1118
 NumberInAlbum: 2
 related: []
 source: ""

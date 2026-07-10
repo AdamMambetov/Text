@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Linked Horizon (🎙️ 732)]]"
-ListenInSec: 544
+ListenInSec: 632
 NumberInAlbum: 0
 related:
   - "[[Shinzou wo Sasageyo! - Linked Horizon]]"

@@ -10,7 +10,7 @@ Creators:
   - "[[Shikata Akiko (🎙️ 22)]]"
   - "[[Mitose Noriko (🎙️ 23)]]"
   - "[[Hano Wataru (🎙️ 24)]]"
-ListenInSec: 362
+ListenInSec: 537
 NumberInAlbum: 241
 related: []
 source: ""

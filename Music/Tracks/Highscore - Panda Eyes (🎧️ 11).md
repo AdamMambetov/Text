@@ -9,7 +9,7 @@ CoverOf: ""
 Creators:
   - "[[Panda Eyes (🎙️ 489)]]"
   - "[[Terminite (🎙️ 490)]]"
-ListenInSec: 513
+ListenInSec: 769
 NumberInAlbum: 0
 related: []
 source: https://osu.ppy.sh/beatmapsets/332532#osu/760034

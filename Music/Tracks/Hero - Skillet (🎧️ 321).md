@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Skillet (🎙️ 440)]]"
-ListenInSec: 1127
+ListenInSec: 1312
 NumberInAlbum: 0
 related: []
 source: ""

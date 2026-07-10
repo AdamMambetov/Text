@@ -8,7 +8,7 @@ Album: ""
 CoverOf: "[[Pray - Tommy heavenly6 (🎧️ 262)]]"
 Creators:
   - "[[Misato (🎙️ 63)]]"
-ListenInSec: 512
+ListenInSec: 637
 NumberInAlbum: 1
 related: []
 source: ""

@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Jonathan Young (🎙️ 343)]]"
-ListenInSec: 3
+ListenInSec: 4
 NumberInAlbum: 1
 related: []
 source: ""

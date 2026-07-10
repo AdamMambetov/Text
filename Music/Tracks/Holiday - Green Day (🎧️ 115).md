@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Green Day (🎙️ 322)]]"
-ListenInSec: 563
+ListenInSec: 597
 NumberInAlbum: 0
 related: []
 source: ""

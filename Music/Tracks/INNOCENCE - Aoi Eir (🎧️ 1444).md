@@ -12,7 +12,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Aoi Eir (🎙️ 655)]]"
-ListenInSec: 850
+ListenInSec: 1125
 NumberInAlbum: 0
 related:
   - "[[INNOCENCE (TV Size) - Aoi Eir (🎧️ 1443)]]"

@@ -8,7 +8,7 @@ Album: "[[Toxicity]]"
 CoverOf: ""
 Creators:
   - "[[System Of A Down (🎙️ 453)]]"
-ListenInSec: 3
+ListenInSec: 5
 NumberInAlbum: 12
 related: []
 source: ""

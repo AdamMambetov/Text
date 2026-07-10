@@ -9,7 +9,7 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators: []
-ListenInSec: 628
+ListenInSec: 643
 NumberInAlbum: 0
 related:
   - "[[Akaneiro ga Moeru Toki (TV Size)]]"

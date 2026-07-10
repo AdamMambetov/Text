@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[League of Legends (🎙️ 73)]]"
-ListenInSec: 759
+ListenInSec: 950
 NumberInAlbum: 0
 related: []
 source: ""

@@ -8,7 +8,7 @@ Album: "[[Save the Nation]]"
 CoverOf: ""
 Creators:
   - "[[Royal Republic (🎙️ 642)]]"
-ListenInSec: 1
+ListenInSec: 183
 NumberInAlbum: 4
 related: []
 source: ""

@@ -11,7 +11,7 @@ Creators:
   - "[[Tanaka Minami (🎙️ 628)]]"
   - "[[Kitou Akari (🎙️ 629)]]"
   - "[[Kurose Yuuko (🎙️ 630)]]"
-ListenInSec: 207
+ListenInSec: 310
 NumberInAlbum: 0
 related: []
 source: https://osu.ppy.sh/beatmapsets/1004682#osu/2114475

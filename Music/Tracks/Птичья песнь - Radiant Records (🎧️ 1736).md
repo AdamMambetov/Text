@@ -12,7 +12,7 @@ CoverOf: "[[Tori no Uta - Lia (🎧️ 1750)]]"
 Creators:
   - "[[Radiant Records (🎙️ 39)]]"
   - "[[Camellia (🎙️ 53)]]"
-ListenInSec: 9977
+ListenInSec: 11963
 NumberInAlbum: 0
 related: []
 source: ""

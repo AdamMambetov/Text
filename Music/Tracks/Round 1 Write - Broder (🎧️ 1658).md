@@ -9,7 +9,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Andy Poland (🎙️ 183)]]"
-ListenInSec: 957
+ListenInSec: 1047
 NumberInAlbum: 0
 related: []
 source: ""

@@ -9,7 +9,7 @@ CoverOf: ""
 Creators:
   - "[[AKINO (🎙️ 160)]]"
   - "[[bless4 (🎙️ 161)]]"
-ListenInSec: 5
+ListenInSec: 255
 NumberInAlbum: 0
 related: []
 source: ""

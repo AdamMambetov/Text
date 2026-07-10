@@ -11,7 +11,7 @@ CoverOf: ""
 Creators:
   - "[[AKINO (🎙️ 160)]]"
   - "[[bless4 (🎙️ 161)]]"
-ListenInSec: 1292
+ListenInSec: 1544
 NumberInAlbum: 0
 related: []
 source: ""

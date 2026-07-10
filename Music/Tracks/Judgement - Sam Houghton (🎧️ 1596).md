@@ -9,7 +9,7 @@ CoverOf: ""
 Creators:
   - "[[Sam Houghton (🎙️ 675)]]"
   - "[[Joe Collinson (🎙️ 676)]]"
-ListenInSec: 1834
+ListenInSec: 2146
 NumberInAlbum: 1
 related: []
 source: ""

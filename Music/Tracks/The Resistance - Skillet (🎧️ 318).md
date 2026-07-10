@@ -8,7 +8,7 @@ Album: "[[Unleashed [2016] {Skillet}]]"
 CoverOf: ""
 Creators:
   - "[[Skillet (🎙️ 440)]]"
-ListenInSec: 10
+ListenInSec: 15
 NumberInAlbum: 12
 related: []
 source: ""

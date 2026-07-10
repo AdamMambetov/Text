@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[P.O.D. (🎙️ 404)]]"
-ListenInSec: 365
+ListenInSec: 550
 NumberInAlbum: 0
 related: []
 source: ""
