@@ -22,17 +22,17 @@
             }
           },
           {
-            "id": "baf19e07b38b7c67",
+            "id": "f0e81697cd377eb3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Music/Playlists/Favorites (💿 1).md",
-                "mode": "source",
+                "file": "Music/Tracks/Бесстрашие - Radiant Records (🎧️ 1730).md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Favorites (💿 1)"
+              "title": "Бесстрашие - Radiant Records (🎧️ 1730)"
             }
           }
         ],
@@ -200,8 +200,17 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "baf19e07b38b7c67",
+  "active": "f0e81697cd377eb3",
   "lastOpenFiles": [
+    "Note/content/@Адам Мамбетов.md",
+    "Note/excalidraw/Music Player Scheme.excalidraw.md",
+    "Music/Creators/Kawada Mami (🎙️ 745).md",
+    "Music/Tracks/Echo - Yasuharu Takanashi (🎧️ 1812).md",
+    "Music/Creators/Yasuharu Takanashi (🎙️ 751).md",
+    "Music/Tracks/Hishoku no Sora - Kawada Mami (🎧️ 1552).md",
+    "Art/content/Пламенный взор Шаны (🇯🇵📺 644).md",
+    "Music/Tracks/Птичья песнь - Radiant Records (🎧️ 1736).md",
+    "Music/Playlists/Favorites (💿 1).md",
     "Music/Playlists/Anime Openings (💿 4).md",
     "Music/Playlists/Anime Endings (💿 5).md",
     "Music/Playlists/Anime (💿 3).md",
@@ -220,15 +229,6 @@
     "Music/Tracks/Kira Kira Days (TV Size) - HO-KAGO TEA TIME (🎧️ 449).md",
     "Music/Tracks/Kings & Queens - Ava Max (🎧️ 1168).md",
     "Music/Tracks/King Of The Jungle - Shanguy (🎧️ 510).md",
-    "Music/Tracks/KING - Sati Akura (🎧️ 215).md",
-    "Music/Tracks/King - Chandelier (🎧️ 1268).md",
-    "Music/Tracks/Kina no Kaori ~Ai no Shiren!~ - Sati Akura (🎧️ 1049).md",
-    "Music/Tracks/Kina No Kaori ~Ai No Shiren!~ - Kino Nei (🎧️ 1548).md",
-    "Music/Tracks/Сверху вниз, наискосок - Luck Ganriki (🎧️ 1060).md",
-    "Music/Tracks/Kiminosei - the peggies (🎧️ 519).md",
-    "Music/Tracks/Kimi no Shiranai Monogatari (TV Size) - supercell (🎧️ 1646).md",
-    "Music/Tracks/Kimi no Shiranai Monogatari (TV Size) - ClariS (🎧️ 440).md",
-    "Music/Tracks/Kimi no Shiranai Monogatari - supercell (🎧️ 1653).md",
     "Text/Note/excalidraw",
     "Text/Note",
     "Text",
