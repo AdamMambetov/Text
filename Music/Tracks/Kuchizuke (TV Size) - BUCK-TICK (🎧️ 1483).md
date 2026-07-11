@@ -4,7 +4,7 @@ aliases:
   - "Kuchizuke (TV Size)"
   - "Shiki OP 1"
   - "Усопшие OP 1"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[shiki_ost_cover.jpg]]"
 Year: 2011
 Album: "[[Shiki OST (📀 1)]]"
 CoverOf: ""

@@ -2,6 +2,7 @@
 aliases:
   - "Shiki OST"
   - "SHI KI OST"
+Cover: "[[shiki_ost_cover.jpg]]"
 Creators:
   - "[[Yasuharu Takanashi (🎙️ 751)]]"
 source: https://vgmdb.net/album/25115

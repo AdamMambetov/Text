@@ -25,11 +25,12 @@ views:
       note.Year: 93
   - type: table
     name: Validation
-    groupBy:
-      property: valid
-      direction: ASC
+    filters:
+      or:
+        - aliases.isEmpty()
+        - aliases == null
+        - '!file.hasProperty("aliases")'
     order:
-      - valid
       - file.name
     sort:
       - property: created

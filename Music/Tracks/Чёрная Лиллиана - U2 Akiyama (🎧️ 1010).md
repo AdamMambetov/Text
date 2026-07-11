@@ -8,7 +8,7 @@ Album: "[[Umineko no Naku Koro ni OST (📀 30)]]"
 CoverOf: ""
 Creators:
   - "[[U2 Akiyama (🎙️ 26)]]"
-ListenInSec: 5101
+ListenInSec: 5109
 NumberInAlbum: 55
 related:
   - "[[Вальс (соч. 34) - Kitaouji Mizuki (🎧️ 971)]]"

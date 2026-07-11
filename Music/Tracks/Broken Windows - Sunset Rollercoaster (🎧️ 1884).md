@@ -8,7 +8,7 @@ Album: "[[Sonny Boy OST (📀 41)]]"
 CoverOf: ""
 Creators:
   - "[[Sunset Rollercoaster (🎙️ 694)]]"
-ListenInSec: 98
+ListenInSec: 197
 NumberInAlbum: 2
 related: []
 source: ""

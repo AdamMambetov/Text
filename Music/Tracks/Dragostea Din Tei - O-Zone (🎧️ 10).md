@@ -13,7 +13,6 @@ NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[O-Zone - Dragostea Din Tei.mp3]]"
-valid: true
 ---
 
 # O-Zone - Dragostea Din Tei

@@ -1,7 +1,8 @@
 ---
 created: 2023-07-09T19:29:38+03:00
-aliases: []
-Cover: ""
+aliases:
+  - "You Say Run"
+Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

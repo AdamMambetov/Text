@@ -2,7 +2,7 @@
 created: 2025-11-14T03:27:52+03:00
 aliases:
   - "Epitaph"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[shiki_ost_cover.jpg]]"
 Year: 2011
 Album: "[[Shiki OST (📀 1)]]"
 CoverOf: ""

@@ -1,7 +1,8 @@
 ---
 created: 2025-01-08T01:41:40+03:00
-aliases: []
-Cover: ""
+aliases:
+  - "Memories and Dreams"
+Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

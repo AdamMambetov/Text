@@ -2,7 +2,7 @@
 created: 2025-11-14T03:25:58+03:00
 aliases:
   - "13th Floor"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[shiki_ost_cover.jpg]]"
 Year: 2011
 Album: "[[Shiki OST (📀 1)]]"
 CoverOf: ""

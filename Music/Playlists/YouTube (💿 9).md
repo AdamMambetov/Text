@@ -1,7 +1,7 @@
 ---
 created: 2025-12-08T05:49:17+03:00
 aliases:
-  - "YouTube"
+  - YouTube
 tracklist:
   - "[[Departure! - Игорь Куликов (🎧️ 1254)]]"
   - "[[Бесчувственный - Everblack Melodies (🎧️ 286)]]"
@@ -69,7 +69,7 @@ tracklist:
   - "[[Bad Piggies (🎧️ 1569)]]"
   - "[[Story - HaruWei (🎧️ 1544)]]"
   - "[[Kina No Kaori ~Ai No Shiren!~ - Kino Nei (🎧️ 1548)]]"
-  - "[[Tabi no Tochuu - Marie Bibika (🎧️ 1542)]]"
+  - "[[Tabi no Tochuu - Marie Bibika (🎧️ 1547)]]"
   - "[[Lagtrain - Sati Akura (🎧️ 1358)]]"
   - "[[Trip Innocent of D - Mattyyym (🎧️ 1533)]]"
   - "[[the WORLD - Игорь Куликов (🎧️ 1333)]]"
@@ -139,7 +139,7 @@ tracklist:
   - "[[This Is Gospel - Panic! At The Disco (🎧️ 1359)]]"
   - "[[Courage - Jim Yosef (🎧️ 1234)]]"
   - "[[Ennio Morricone - The Ecstasy of Gold - Theremin & Voice]]"
-  - "[[What You Make It (🎧️ 723)]]"
+  - "[[What You Make It - With Confidence (🎧️ 892)]]"
   - "[[Nirvana - Onsa Media (🎧️ 331)]]"
   - "[[Lilium - Nerissa Ravencroft (🎧️ 931)]]"
   - "[[Nikhil Koparkar - The Wheel Of Time]]"
@@ -150,11 +150,11 @@ tracklist:
   - "[[In The End - RADIO TAPOK (🎧️ 1590)]]"
   - "[[Kyouran Hey Kids!! - Leon Alex (🎧️ 147)]]"
   - "[[Играть, чтобы жить - Plamenev (🎧️ 907)]]"
-  - "[[RISE (🎧️ 1156)]]"
+  - "[[RISE - Onsa Media (🎧️ 1139)]]"
   - "[[Sweet Child O' Mine (🎧️ 1535)]]"
   - "[[Danzai no Hana ~Guilty Sky~ - Harmony Team (🎧️ 1112)]]"
   - "[[Боль - RADIO TAPOK (🎧️ 58)]]"
-  - "[[Mitsu no Yoake (🎧️ 778)]]"
+  - "[[Mitsu no Yoake - Harmony Team (🎧️ 1053)]]"
   - "[[Shinzou wo Sasageyo! - Jackie-O (🎧️ 769)]]"
   - "[[MASQUERADE - Versailles (🎧️ 1102)]]"
   - "[[aLIEz - Влад Токарев (🎧️ 1783)]]"

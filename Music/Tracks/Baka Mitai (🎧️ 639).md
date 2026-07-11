@@ -1,7 +1,8 @@
 ---
 created: 2023-07-09T19:29:46+03:00
-aliases: []
-Cover: ""
+aliases:
+  - "Baka Mitai"
+Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

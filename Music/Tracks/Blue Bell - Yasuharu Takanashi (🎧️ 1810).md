@@ -2,7 +2,7 @@
 created: 2025-11-14T03:44:56+03:00
 aliases:
   - "Blue Bell"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[shiki_ost_cover.jpg]]"
 Year: 2011
 Album: "[[Shiki OST (📀 1)]]"
 CoverOf: ""
