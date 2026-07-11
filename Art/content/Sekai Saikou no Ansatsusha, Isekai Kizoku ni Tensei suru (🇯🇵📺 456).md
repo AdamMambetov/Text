@@ -1,0 +1,98 @@
+---
+created: 2024-10-29T21:39:49+03:00
+aliases:
+  - Лучший в мире ассасин
+  - Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru
+  - Лучший в мире ассасин, переродившийся в другом мире как аристократ
+  - Лучший в мире ассасин переродился в другом мире аристократом
+  - The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat
+  - Лучший в мире убийца, переродившийся в другом мире как аристократ
+  - The world's best assassin
+  - Ansatsu Kizoku
+Status: complete
+Type: anime
+Rating:
+  - "[[®️18|R+]]"
+  - "[[®️16|16+]]"
+Cover: "[[the_worlds_best_assassin_anime_cover.jpg]]"
+Year: 2021
+Episode: 12
+Views: 1
+tags:
+  - 🔞
+---
+
+# Лучший в мире ассасин
+
+![[the_worlds_best_assassin_anime_cover.jpg]]
+
+```button
+name Shikimori
+type link
+action https://shikimori.one/animes/47790-sekai-saikou-no-ansatsusha-isekai-kizoku-ni-tensei-suru
+customColor #4682b4
+hidden true
+```
+^button-shikimori
+
+```button
+name TV Time
+type link
+action 
+customColor #997f00
+hidden true
+```
+^button-tvTime
+
+```button
+name World Art
+type link
+action 
+customColor #7a0000
+hidden true
+```
+^button-worldArt
+
+```button
+name AnimeLib
+type link
+action 
+customColor #252527
+customTextColor #7E57C2
+hidden true
+```
+^button-animelib
+
+```button
+name Senkuro
+type link
+action 
+customColor #191A21
+hidden true
+```
+^button-senkuro
+
+```button
+name ReYohoho
+type link
+action 
+customColor #1c1c1c
+hidden true
+```
+^button-reyohoho
+
+
+
+`button-shikimori` `button-tvTime`
+
+`button-worldArt` `button-animelib`
+
+`button-senkuro` `button-reyohoho`
+
+## Описание
+
+Достигнув вершин мастерства, пожилой профессиональный убийца задумался об окончании карьеры и о том, чем займётся, отойдя от дел, стал строить планы, однако сбыться им было не суждено. Даже постаревший, убийца слишком хорош и опасен, чтобы оставлять его в живых, так что он погибает в подстроенной недругами авиакатастрофе. Умерев, он, однако, оказался не в аду, как можно было бы предположить, а перед очами богини, которая предлагает ему выбор: переродиться и оставить прошлую жизнь позади, забыв обо всём, или... Сохранить воспоминания и получить шанс начать всё сначала в другом теле, в другой семье, в другом мире, а взамен — выполнить её просьбу и убить одного человека.
+
+Конечно, всё не так просто, раз сама богиня не может расправиться с этим человеком. Она просит убийцу избавить человечество от героя, который, согласно предсказанию, в будущем станет причиной гибели мира. Убийца, который недоволен тем, как сложилась его жизнь и жаждет всё исправить, соглашается. Он перерождается в другой вселенной в теле [Луга Туаты Де](https://shikimori.one/characters/192917-lugh-tuatha-d) — наследника, недавно появившегося в любящей семье аристократов-убийц, которые служат королевству.
+
+Изучая новые способы убийства и познавая магию, [Луг](https://shikimori.one/characters/192917-lugh-tuatha-d) каждый новый день проживает с пользой, чтобы не только быть способным исполнить приказ богини, но и избавиться от сожалений об упущенных возможностях, отравивших его прошлую жизнь.

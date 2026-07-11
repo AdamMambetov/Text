@@ -1,0 +1,89 @@
+---
+created: 2024-11-04T14:20:15+03:00
+aliases:
+  - Кабанэри железной крепости
+  - Kabaneri of the Iron Fortress
+  - Кабанери железной крепости
+Status: complete
+Type: anime
+Rating:
+  - "[[®️16|R-17]]"
+  - "[[®️18|18+]]"
+Cover: "[[kabaneri_of_the_iron_fortress_anime_cover.jpg]]"
+Year: 2016
+Episode: 12
+Views: 1
+---
+
+# Кабанэри железной крепости
+
+![[kabaneri_of_the_iron_fortress_anime_cover.jpg]]
+
+Очень похоже на [[📚Атака титанов| Атаку титанов]] и не удивительно ведь ведь режиссёр [Тэцуро Араки](https://shikimori.one/people/5088-tetsurou-araki).
+
+```button
+name Shikimori
+type link
+action https://shikimori.one/animes/28623
+customColor #4682b4
+hidden true
+```
+^button-shikimori
+
+```button
+name TV Time
+type link
+action https://tvtime.com/series/305082
+customColor #997f00
+hidden true
+```
+^button-tvTime
+
+```button
+name World Art
+type link
+action http://www.world-art.ru/animation/animation.php?id=6575
+customColor #7a0000
+hidden true
+```
+^button-worldArt
+
+```button
+name AnimeLib
+type link
+action https://anilib.me/ru/anime/9654--koutetsujou-no-kabaneri-anime?ui=1710953
+customColor #252527
+customTextColor #7E57C2
+hidden true
+```
+^button-animelib
+
+```button
+name Senkuro
+type link
+action https://senkuro.com/anime/koutetsujou-no-kabaneri
+customColor #191A21
+hidden true
+```
+^button-senkuro
+
+```button
+name ReYohoho
+type link
+action https://reyohoho.github.io/reyohoho/#975655
+customColor #1c1c1c
+hidden true
+```
+^button-reyohoho
+
+`button-shikimori` `button-tvTime`
+
+`button-worldArt` `button-animelib`
+
+`button-senkuro` `button-reyohoho`
+
+## Описание
+
+Когда мир находится на пике индустриальной революции, внезапно появляется чудовище. Его можно победить, только пронзив сердце, скрытое под слоем железа. От одного его укуса люди заражаются и становятся агрессивной нежитью - кабанэ.
+
+На дальневосточном острове Хиномото ради защиты от этих монстров люди построили специальные станции, между которыми передвигаются с помощью парового локомотива Хаядзиро. На станции Араганэ живёт [Икома](https://shikimori.one/characters/136528-ikoma), мальчик, который помогал строить локомотив. Чтобы победить монстров, он создал собственное оружие - Цуранукидзуцу. Однажды он встречает девушку, [Мумэй](https://shikimori.one/characters/136529-mumei), освобождённую от обязательной инспекции. Ночью они видят, что Хаядзиро вышел из-под контроля, его персонал стал монстрами, а кабанэ нападают на станцию. Однако именно такой возможности [Икома](https://shikimori.one/characters/136528-ikoma) и ждал.

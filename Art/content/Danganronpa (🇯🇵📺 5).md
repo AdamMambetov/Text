@@ -1,0 +1,158 @@
+---
+created: 2022-03-16T01:46:59
+aliases:
+  - Данганронпа
+  - Danganronpa
+  - школа отчаяния
+Status: complete
+Type: anime
+Rating:
+  - "[[®️16|R-17]]"
+  - "[[®️18|18+]]"
+Cover: "[[danganronpa_anime_cover.jpeg]]"
+Year: 2013
+Episode: 13
+Views: 2
+tags:
+  - ❤
+related:
+  - "[[@Дмитрий Кесида]]"
+Stream: 2
+Продолжение: "[[Danganronpa 3 - Future (🇯🇵📺 18)]]"
+---
+
+# Данганронпа
+
+![[danganronpa_anime_cover.jpeg]]
+
+Первый раз посмотрел после прохождения Злобстера. Второй раз на [стриме](https://onikes.ru/anismotr/490-danganronpa.html) у [[@Дмитрий Кесида | Кесиды]].
+
+## Стрим 1
+ - 1 серия: 0:25:25
+ - 2 серия: 0:57:40
+ - 3 серия: 1:29:35
+ - 4 серия: 2:01:20
+ - 5 серия: 2:30:00
+ - 6 серия: 3:00:00
+ - 7 серия: 3:31:30
+
+## Стрим 2
+ - 8 серия: 0:34:40
+ - 9 серия: 1:03:25
+ - 10 серия: 1:33:40
+ - 11 серия: 2:01:10
+ - 12 серия: 2:26:50
+ - 13 серия: 2:54:35
+
+```button
+name Shikimori
+type link
+action https://shikimori.one/
+customColor #4682b4
+hidden true
+```
+^button-shikimori
+
+```button
+name TV Time
+type link
+action https://www.tvtime.com/
+customColor #997f00
+hidden true
+```
+^button-tv-time
+
+```button
+name World Art
+type link
+action http://www.world-art.ru/
+customColor #7a0000
+hidden true
+```
+^button-world-art
+
+```button
+name ONIKES
+type link
+action https://onikes.ru/
+color purple
+hidden true
+```
+^button-onikes
+
+```button
+name KESIDATOKIO VOD'S
+type link
+action https://yo8z6gv.github.io/
+color purple
+customTextColor black
+hidden true
+```
+^button-kesidatokio-vods
+
+```button
+name Anime Filler List
+type link
+action https://www.animefillerlist.com/
+customColor #da5100
+hidden true
+```
+^button-anime-filler-list
+
+```button
+name MangaLib
+type link
+action https://mangalib.me/
+customColor #252527
+customTextColor #b6720f
+hidden true
+```
+^button-mangalib
+
+```button
+name RanobeLib
+type link
+action https://ranobelib.me/
+customColor #252527
+customTextColor #2196f3
+hidden true
+```
+^button-ranobelib
+
+```button
+name AnimeLib
+type link
+action https://anilib.me/
+customColor #252527
+customTextColor #7E57C2
+hidden true
+```
+^button-animelib
+
+```button
+name Senkuro
+type link
+action https://senkuro.com/
+customColor #191A21
+hidden true
+```
+^button-senkuro
+
+```button
+name ReYohoho
+type link
+action https://reyohoho.github.io/reyohoho/
+customColor #1c1c1c
+hidden true
+```
+^button-reyohoho
+
+```button
+name FreeTP
+type link
+action https://freetp.org/
+color green
+customTextColor black
+hidden true
+```
+^button-fretp

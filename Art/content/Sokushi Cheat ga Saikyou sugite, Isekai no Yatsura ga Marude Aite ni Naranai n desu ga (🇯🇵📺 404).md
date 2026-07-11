@@ -1,0 +1,87 @@
+---
+created: 2024-10-26T17:28:02+03:00
+aliases:
+  - Другой мир не может противостоять силе мгновенной смерти
+  - Sokushi Cheat ga Saikyou sugite, Isekai no Yatsura ga Marude Aite ni Naranai n desu ga
+  - My Instant Death Ability is So Overpowered, No One in This Other World Stands a Chance Against Me!
+Status: complete
+Type: anime
+Rating:
+  - "[[®️12|PG-13]]"
+  - "[[®️16|16+]]"
+Cover: "[[instant_death_anime_cover.jpg]]"
+Year: 2024
+Episode: 12
+Views: 1
+---
+
+# Другой мир не может противостоять силе мгновенной смерти
+
+![[instant_death_anime_cover.jpg]]
+
+```button
+name Shikimori
+type link
+action https://shikimori.one/animes/53730-sokushi-cheat-ga-saikyou-sugite-isekai-no-yatsura-ga-marude-aite-ni-naranai-n-desu-ga
+customColor #4682b4
+hidden true
+```
+^button-shikimori
+
+```button
+name TV Time
+type link
+action 
+customColor #997f00
+hidden true
+```
+^button-tvTime
+
+```button
+name World Art
+type link
+action 
+customColor #7a0000
+hidden true
+```
+^button-worldArt
+
+```button
+name AnimeLib
+type link
+action 
+customColor #252527
+customTextColor #7E57C2
+hidden true
+```
+^button-animelib
+
+```button
+name Senkuro
+type link
+action 
+customColor #191A21
+hidden true
+```
+^button-senkuro
+
+```button
+name ReYohoho
+type link
+action 
+customColor #1c1c1c
+hidden true
+```
+^button-reyohoho
+
+
+
+`button-shikimori` `button-tvTime`
+
+`button-worldArt` `button-animelib`
+
+`button-reyohoho`
+
+## Описание
+
+

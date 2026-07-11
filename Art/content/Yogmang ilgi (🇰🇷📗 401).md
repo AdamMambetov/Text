@@ -1,0 +1,67 @@
+---
+created: 2024-10-05T20:13:21+03:00
+aliases:
+  - Дневник желаний
+  - Yogmang ilgi
+Status: complete
+Type: manhwa
+Rating:
+  - "[[®️16|16+]]"
+Cover: "[[yogmang_ilgi_manhwa_cover.jpg]]"
+Year: 2020
+Episode: 7.5
+Views: 1
+tags:
+  - ❤
+---
+
+# Дневник желаний
+
+![[yogmang_ilgi_manhwa_cover.jpg]]
+
+```button
+name Shikimori
+type link
+action 
+customColor #4682b4
+hidden true
+```
+^button-shikimori
+
+```button
+name World Art
+type link
+action 
+customColor #7a0000
+hidden true
+```
+^button-worldArt
+
+```button
+name MangaLib
+type link
+action https://mangalib.me/yogmang-ilgi
+customColor #252527
+customTextColor #b6720f
+hidden true
+```
+^button-mangalib
+
+```button
+name Senkuro
+type link
+action https://senkuro.com/manga/yogmang-ilgi
+customColor #191A21
+hidden true
+```
+^button-senkuro
+
+
+
+`button-shikimori` `button-worldArt`
+
+`button-mangalib` `button-senkuro`
+
+## Описание
+
+

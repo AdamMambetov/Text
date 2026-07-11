@@ -1,0 +1,358 @@
+---
+created: 2024-06-21T01:46:32+03:00
+aliases:
+  - Берсерк
+  - Berserk
+Status: defer
+Type: manga
+Rating:
+  - "[[®️18|18+]]"
+Cover: "[[berserk_manga_cover.jpeg]]"
+Year: 1989
+Episode: 242
+tags:
+  - ❤
+---
+
+# Берсерк
+
+![[berserk_manga_cover.jpeg]]
+
+```button
+name Shikimori
+type link
+action https://shikimori.one/mangas/2-berserk
+customColor #4682b4
+hidden true
+```
+^button-shikimori
+
+```button
+name World Art
+type link
+action http://www.world-art.ru/animation/manga.php?id=54
+customColor #7a0000
+hidden true
+```
+^button-worldArt
+
+```button
+name MangaLib
+type link
+action https://mangalib.me/berserk?section=info&ui=1710953
+customColor #252527
+customTextColor #b6720f
+hidden true
+```
+^button-mangalib
+
+```button
+name Senkuro
+type link
+action https://senkuro.com/manga/berserk
+customColor #191A21
+hidden true
+```
+^button-senkuro
+
+```button
+name COM-X.LIFE
+type link
+action https://com-x.life/2789-berserk-read-online.html
+customColor #252527
+customTextColor red
+hidden true
+```
+^button-comXlife
+
+`button-shikimori` `button-worldArt`
+
+`button-mangalib` `button-senkuro`
+
+`button-comXlife`
+
+
+[Читать](https://com-x.life/2789-berserk-read-online.html)
+
+> [!warning] Про главы
+> Первые 16 (17?) глав не были пронумерованы, поэтому нумерация глав на разных сайтах может отличаться!
+
+
+## Описание
+
+Наёмник [Гатс](https://shikimori.one/characters/422-guts), по прозвищу Чёрный Мечник, странствует по магическому королевству Мидланд, вооружившись двухметровым мечом «Убийцей Драконов» и уничтожая на своём пути полчища демонов, охотящихся на него. Не жалея ни себя, ни тех, кто попадается ему под руку, он неустанно движется вперёд, ведомый только безудержной жаждой мести. Но откуда она берёт своё начало? Какое тяжкое бремя несёт на своих плечах [Гатс](https://shikimori.one/characters/422-guts)? И есть ли шанс на простое светлое будущее у того, кто воочию повидал сам ад?..
+  
+«Берсерк» — это тёмная и печальная сага о неистовых жестоких сражениях, недостижимых мечтах, дружбе и предательстве, а также печальной судьбе одного человека.
+
+
+## Диалог Гатса и Годо
+
+![[berserk_064.1.jpg]]
+![[berserk_064.2.jpg]]
+
+64 глава
+
+### Текст
+
+> [!cite] Гатс
+> Годо. Почему ты стал кузнецом?
+
+> [!cite] Годо
+> В моей семье все были кузнецами, ещё со времён прадеда.
+
+> [!cite] Гатс
+> Тебе нравится этим заниматься?
+
+> [!cite] Годо
+> Без понятия.
+
+> [!cite] Гатс
+> "Без понятия"...?
+
+> [!cite] Годо
+> Этот молот был в моей руке раньше...  
+> ...чем я научился ходить.
+> 
+> Я бил по железу, лежащему передо мной, ещё до того как мог решить, нравится мне это или нет.
+> 
+> А потом...  
+> ...я был так занят, пытаясь улучшить своë мастерство...  
+> ...что однажды проснулся стариком. Хех! Всë довольно просто.
+> 
+> Я ковал железо с самого рождения.
+> 
+> Как и люди, которые не знают, для чего живут...  
+> Я не знаю, почему продолжаю стучать молотом.
+
+> [!cite] Гатс
+> ...
+
+> [!cite] Годо
+> Ах да...  
+> Есть одна вещь, которая мне нравится в работе кузнеца.
+
+> [!cite] Гатс
+> А?
+
+> [!cite] Годо
+> **ИСКРЫ**
+> 
+> Искры прекрасны, они завораживают меня.
+> 
+> Кажется будто...  
+> ...будто моя собственная жизнь...  
+
+> [!cite] Гатс
+> ...
+
+> [!cite] Годо
+> ...на мгновение...  
+> ...вспыхивает перед глазами.
+
+
+## Чëткие страницы
+
+
+![[berserk_002.jpg]]
+
+2 глава
+
+---
+
+![[berserk_003.jpg]]
+
+3 глава
+
+---
+
+![[berserk_011.jpg]]
+
+11 глава
+
+---
+
+![[berserk_014.jpg]]
+
+14 глава
+
+---
+
+![[berserk_016.jpg]]
+
+16 глава
+
+---
+
+![[berserk_020.1.jpg]]
+
+20 глава
+
+---
+
+![[berserk_020.2.jpg]]
+
+20 глава
+
+---
+
+![[berserk_022.jpg]]
+
+22 глава
+
+---
+
+![[berserk_053.jpg]]
+
+53 глава
+
+---
+
+![[berserk_068.jpg]]
+
+68 глава
+
+---
+
+![[berserk_105.jpg]]
+
+105 глава
+
+---
+
+![[berserk_113.jpg]]
+
+113 глава
+
+---
+
+![[berserk_123.1.jpg]]
+
+123 глава
+
+---
+
+![[berserk_123.2.jpg]]
+
+---
+
+![[berserk_126.1.jpg]]
+
+![[berserk_126.2.jpg]]
+
+126 глава
+
+---
+
+![[berserk_133.jpg]]
+
+133 глава
+
+---
+
+![[berserk_156.jpg]]
+
+156 глава
+
+---
+
+![[berserk_157.jpg]]
+
+157 глава
+
+---
+
+![[berserk_169.jpg]]
+
+169 глава
+
+---
+
+![[berserk_178.jpg]]
+
+178 глава
+
+---
+
+![[berserk_185.jpg]]
+
+185 глава
+
+---
+
+![[berserk_186.1.jpg]]
+
+![[berserk_186.2.jpg]]
+
+186 глава
+
+---
+
+![[berserk_197.jpg]]
+
+197 глава
+
+---
+
+![[berserk_222.1.jpeg]]
+
+![[berserk_222.2.jpeg]]
+
+222 глава
+
+---
+
+![[berserk_232.1.jpg]]
+
+![[berserk_232.2.jpg]]
+
+232 глава
+
+---
+
+![[berserk_234.jpeg]]
+
+234 глава
+
+---
+
+![[berserk_235.jpeg]]
+
+235 глава
+
+---
+
+![[berserk_236.jpeg]]
+
+236 глава
+
+---
+
+![[berserk_240.jpeg]]
+
+240 глава
+
+---
+
+![[berserk_241.1.jpeg]]
+
+![[berserk_241.2.jpeg]]
+
+![[berserk_241.3.jpg]]
+
+![[berserk_241.4.jpg]]
+
+241 глава
+
+---
+
+![[berserk_242.jpeg]]
+
+242 глава
+
+---
+
+![[berserk_245.jpg]]
+
+245 глава
+
+---

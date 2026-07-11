@@ -1,0 +1,93 @@
+---
+created: 2025-08-03T14:11:44+03:00
+aliases:
+  - Лето, когда погас свет
+  - Hikaru ga shinda natsu
+Status: drop
+Type: anime
+Rating:
+  - "[[®️16|R-17]]"
+  - "[[®️18|18+]]"
+Cover: "[[hikaru_ga_shinda_natsu_anime_cover.jpg]]"
+Year: 2025
+Episode: 1
+---
+
+# Лето, когда погас свет
+
+![[hikaru_ga_shinda_natsu_anime_cover.jpg]]
+
+```button
+name Shikimori
+type link
+action https://shikimori.one/animes/58913-hikaru-ga-shinda-natsu
+customColor #4682b4
+hidden true
+```
+^button-shikimori
+
+```button
+name TV Time
+type link
+action 
+customColor #997f00
+hidden true
+```
+^button-tvTime
+
+```button
+name World Art
+type link
+action 
+customColor #7a0000
+hidden true
+```
+^button-worldArt
+
+```button
+name AnimeLib
+type link
+action 
+customColor #252527
+customTextColor #7E57C2
+hidden true
+```
+^button-animelib
+
+```button
+name Senkuro
+type link
+action 
+customColor #191A21
+hidden true
+```
+^button-senkuro
+
+```button
+name ReYohoho
+type link
+action 
+customColor #1c1c1c
+hidden true
+```
+^button-reyohoho
+
+
+
+`button-shikimori` `button-tvTime`
+
+`button-worldArt` `button-animelib`
+
+`button-senkuro` `button-reyohoho`
+
+
+
+## Причина добавления
+
+
+
+
+## Описание
+
+В маленькой деревушке живут неразлучные друзья - [Ёсики Цудзинака](https://shikimori.one/characters/206879-yoshiki-tsujinaka) и [Хикару Индо](https://shikimori.one/characters/206880-hikaru-indou). Их привычный уклад рушится после исчезновения [Хикару](https://shikimori.one/characters/206880-hikaru-indou) в окрестных горах и неожиданного возвращения спустя целую неделю. Радость воссоединения быстро сменяется на чувство тревоги, когда [Ёсики](https://shikimori.one/characters/206879-yoshiki-tsujinaka) начинает замечать перемены в поведении друга. Хотя внешне [Хикару](https://shikimori.one/characters/206880-hikaru-indou) не изменился и воспоминания остались прежними, [Ёсики](https://shikimori.one/characters/206879-yoshiki-tsujinaka) осознаёт, что рядом с ним уже не тот человек, которого он знал. Охваченный горем и неспособный отпустить своего лучшего друга, [Ёсики](https://shikimori.one/characters/206879-yoshiki-tsujinaka) изо всех сил старается жить так, будто ничего не случилось, пока в деревне не начинают происходить пугающие события...
+

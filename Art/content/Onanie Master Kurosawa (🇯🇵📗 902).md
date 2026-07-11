@@ -1,0 +1,75 @@
+---
+created: 2025-01-27T01:30:20+03:00
+aliases:
+  - Мастер вздрочки Куросава
+  - Onanie Master Kurosawa
+  - Kurosawa The Master of Masturbation
+Status: complete
+Type: manga
+Rating:
+  - "[[®️18|18+]]"
+Cover: "[[kurosawa_the_master_of_masturbation_manga_cover.jpg]]"
+Year: 2007
+Episode: 31
+Views: 1
+tags:
+  - 🔞
+  - ❤
+---
+
+# Мастер вздрочки Куросава
+
+![[kurosawa_the_master_of_masturbation_manga_cover.jpg]]
+
+Прочитал вместе с [[@Аслангерий Гутаев|Аслангерием]].
+
+```button
+name Shikimori
+type link
+action https://shikimori.one/mangas/8967-onanie-master-kurosawa
+customColor #4682b4
+hidden true
+```
+^button-shikimori
+
+```button
+name World Art
+type link
+action http://www.world-art.ru/animation/manga.php?id=1534
+customColor #7a0000
+hidden true
+```
+^button-worldArt
+
+```button
+name MangaLib
+type link
+action https://mangalib.me/ru/manga/205--onani_master_kurosawa
+customColor #252527
+customTextColor #b6720f
+hidden true
+```
+^button-mangalib
+
+```button
+name Senkuro
+type link
+action https://senkuro.com/manga/onani-master-kurosawa
+customColor #191A21
+hidden true
+```
+^button-senkuro
+
+
+
+`button-shikimori` `button-worldArt`
+
+`button-mangalib` `button-senkuro`
+
+## Описание
+
+[Какэру Куросава](https://shikimori.one/characters/16454-kakeru-kurosawa), мягко сказать, не самый популярный ученик в классе - он тихий и незаметный. Каждый день он приходит в школу и отсиживает положенное число уроков, старательно записывая материал и решая задачи. После уроков он никогда не отправляется домой, потому что у него есть одна тайна, маленькая и постыдная. Настолько, что прятать её [Куросаве](https://shikimori.one/characters/16454-kakeru-kurosawa) приходится в туалете.
+
+Говорят, что от онанизма руки покрываются волосами, а на лице появляется клеймо позора. [Какэру](https://shikimori.one/characters/16454-kakeru-kurosawa) лишь рассмеётся, услышав это, ведь в чём-чём, а в этом деле он непревзойдённый мастер. И его «хобби» так бы и оставалось тайным для всех остальных, если бы однажды одноклассница мальчика не узнала, чем он занимается в школьной кабинке уборной.
+
+Чтобы сохранить тайну, ему придётся пойти на многое. Хорошо, что всегда можно отомстить обидчице... В мечтах, и во всё том же туалете.

@@ -1,0 +1,86 @@
+---
+created: 2024-11-04T14:22:07+03:00
+aliases:
+  - Биско-ржавоед
+  - Sabikui Bisco
+Status: plan
+Type: anime
+Rating:
+  - "[[®️12|PG-13]]"
+  - "[[®️16|16+]]"
+Cover: "[[sabikui_bisco_anime_cover.jpg]]"
+Year: 2022
+---
+
+# Биско-ржавоед
+
+![[sabikui_bisco_anime_cover.jpg]]
+
+```button
+name Shikimori
+type link
+action https://shikimori.one/animes/48414-sabikui-bisco
+customColor #4682b4
+hidden true
+```
+^button-shikimori
+
+```button
+name TV Time
+type link
+action https://www.tvtime.com/
+customColor #997f00
+hidden true
+```
+^button-tvTime
+
+```button
+name World Art
+type link
+action http://www.world-art.ru/
+customColor #7a0000
+hidden true
+```
+^button-worldArt
+
+```button
+name AnimeLib
+type link
+action https://anilib.me/
+customColor #252527
+customTextColor #7E57C2
+hidden true
+```
+^button-animelib
+
+```button
+name Senkuro
+type link
+action https://senkuro.com/
+customColor #191A21
+hidden true
+```
+^button-senkuro
+
+```button
+name ReYohoho
+type link
+action https://reyohoho.github.io/reyohoho/
+customColor #1c1c1c
+hidden true
+```
+^button-reyohoho
+
+`button-shikimori` `button-tvTime`
+
+`button-worldArt` `button-animelib`
+
+`button-senkuro` `button-reyohoho`
+
+## Описание
+
+Японию охватила ужасная катастрофа - без остановки дует гиблый ветер, превращая всё на своём пути в ржавчину. Ржавчина теперь покрывает всё: земли, города, предметы, растения и даже человеческие тела. В этом гнилом постапокалиптическом мире выжить очень тяжело, поэтому особую роль получили так называемые грибные охотники, основная задача которых - выращивание грибов для удобрения и обогащения почвы.
+
+Однако люди почему-то решили, что именно из-за грибов возникла ржавчина, и вскоре охотники оказались в немилости. Одним из таких охотников является и наш главный герой [Биско Акабоси](https://shikimori.one/characters/169280-bisco-akaboshi), которого разыскивают как опасного преступника, да ещё наградив при этом скверным прозвищем Грибной Пожиратель Людей. Тем не менее [Биско](https://shikimori.one/characters/169280-bisco-akaboshi) не из тех, кто боится преследований. За его спиной колчан со стрелами, после выстрела которыми тут же прорастают грибы, и он мало-помалу пытается противостоять беде. Однако, хоть грибы на самом деле и помогают бороться с ржавчиной, этого недостаточно. Истинная цель [Биско](https://shikimori.one/characters/169280-bisco-akaboshi) - найти легендарный гриб-ржавоед, который, по слухам, может полностью излечить ржавчину. Для достижения этой цели [Биско](https://shikimori.one/characters/169280-bisco-akaboshi) отправляется в путешествие на огромном крабе, а компанию ему составит знаменитый доктор [Мило Нэкоянаги](https://shikimori.one/characters/193812-milo-nekoyanagi).
+
+Получится ли у них найти чудесный гриб и спасти мир от катастрофы?

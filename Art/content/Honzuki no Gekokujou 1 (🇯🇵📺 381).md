@@ -1,0 +1,92 @@
+---
+created: 2024-09-23T17:53:41+03:00
+aliases:
+  - Власть книжного червя
+  - Ascendance of a Bookworm
+  - "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen"
+Status: complete
+Type: anime
+Rating:
+  - "[[®️12|PG-13]]"
+  - "[[®️16|16+]]"
+Cover: "[[ascendance_of_bookworm_anime_cover.png]]"
+Year: 2019
+Episode: 14
+Views: 1
+Продолжение: "[[Honzuki no Gekokujou 2 (🇯🇵📺 382)]]"
+---
+
+# Власть книжного червя
+
+![[ascendance_of_bookworm_anime_cover.png]]
+
+```button
+name Shikimori
+type link
+action https://shikimori.one/animes/39468-honzuki-no-gekokujou-shisho-ni-naru-tame-ni-wa-shudan-wo-erandeiraremasen
+customColor #4682b4
+hidden true
+```
+^button-shikimori
+
+```button
+name TV Time
+type link
+action 
+customColor #997f00
+hidden true
+```
+^button-tvTime
+
+```button
+name World Art
+type link
+action 
+customColor #7a0000
+hidden true
+```
+^button-worldArt
+
+```button
+name AnimeLib
+type link
+action 
+customColor #252527
+customTextColor #7E57C2
+hidden true
+```
+^button-animelib
+
+```button
+name Senkuro
+type link
+action 
+customColor #191A21
+hidden true
+```
+^button-senkuro
+
+```button
+name ReYohoho
+type link
+action 
+customColor #1c1c1c
+hidden true
+```
+^button-reyohoho
+
+
+
+`button-shikimori` `button-tvTime`
+
+`button-worldArt` `button-animelib`
+
+`button-reyohoho`
+
+## Описание
+
+[Урано Мотосу](https://shikimori.one/characters/163811-myne) — девушка, которая очень любила книги. Её любовь к книгам всегда вела девушку по жизни. Она смогла достигнуть своей мечты, получив сертификат библиотекаря. Но всё это было в прошлой жизни.
+
+Во время землетрясения на [Урано](https://shikimori.one/characters/163811-myne) падает книжная полка. Умирая, девушка загадывает последнее желание, чтобы она и в следующей жизни смогла читать.
+
+Но судьба обходится с ней иначе: она перерождается в средневековом мире в теле маленькой девочки по имени [Майн](https://shikimori.one/characters/163811-myne). В этом месте грамотных людей практически нет, а книги являются большой роскошью, доступной лишь дворянам. И поэтому девочка ставит себе цель — открыть мир книг простым жителям, используя знания, полученные в прошлой жизни.

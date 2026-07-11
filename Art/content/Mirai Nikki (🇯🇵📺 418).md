@@ -1,0 +1,92 @@
+---
+created: 2024-10-27T22:01:35+03:00
+aliases:
+  - Дневник будущего
+  - Mirai Nikki
+  - The Future Diary
+Status: complete
+Type: anime
+Rating:
+  - "[[®️18|R+]]"
+  - "[[®️18|18+]]"
+Cover: "[[mirai_nikki_anime_cover.jpg]]"
+Year: 2011
+Episode: 26
+Views: 2
+tags:
+  - ❤
+  - 🔞
+---
+
+# Дневник будущего
+
+![[mirai_nikki_anime_cover.jpg]]
+
+```button
+name Shikimori
+type link
+action https://shikimori.one/animes/10620-mirai-nikki-tv
+customColor #4682b4
+hidden true
+```
+^button-shikimori
+
+```button
+name TV Time
+type link
+action 
+customColor #997f00
+hidden true
+```
+^button-tvTime
+
+```button
+name World Art
+type link
+action 
+customColor #7a0000
+hidden true
+```
+^button-worldArt
+
+```button
+name AnimeLib
+type link
+action 
+customColor #252527
+customTextColor #7E57C2
+hidden true
+```
+^button-animelib
+
+```button
+name Senkuro
+type link
+action 
+customColor #191A21
+hidden true
+```
+^button-senkuro
+
+```button
+name ReYohoho
+type link
+action 
+customColor #1c1c1c
+hidden true
+```
+^button-reyohoho
+
+
+
+`button-shikimori` `button-tvTime`
+
+`button-worldArt` `button-animelib`
+
+`button-reyohoho`
+
+## Описание
+
+Второй класс средней школы: у [Юкитэру Амано](https://shikimori.one/characters/4962-yukiteru-amano) вечные проблемы в общении со сверстниками, а потому, считая себя сторонним наблюдателем, он записывает всё, что видит, в дневник на мобильный.  
+Терзаемый одиночеством, [Амано](https://shikimori.one/characters/4962-yukiteru-amano) начинает выдумывать разные вещи, как, например, воображаемого друга по имени [Деус Экс Машина](https://shikimori.one/characters/4964-deus-ex-machina), который несомненно является повелителем времени и пространства. Глядя на плачевное состояние [Юкитэру](https://shikimori.one/characters/4962-yukiteru-amano), [Деус](https://shikimori.one/characters/4964-deus-ex-machina) даёт ему новые способности — в его дневнике теперь появляются события, которые только должны произойти в ближайшем будущем, а записаны они с поразительной точностью.  
+Правда заключается в том, что такой мобильный «дневник будущего» есть не только у него одного, и теперь он вынужден участвовать в смертоносной игре, победитель которой станет преемником [Деуса](https://shikimori.one/characters/4964-deus-ex-machina).

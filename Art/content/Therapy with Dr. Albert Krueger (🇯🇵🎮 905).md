@@ -1,0 +1,23 @@
+---
+created: 2025-03-23T22:08:38+03:00
+aliases:
+  - Терапия с доктором Крюгером
+  - Therapy with Dr. Albert Krueger
+Status: complete
+Type: game
+Rating:
+  - "[[®️12|PG-13]]"
+Cover: "[[therapy_with_alber_krueger_game_cover.jpeg]]"
+Year: 2019
+Views: 3
+---
+
+# Терапия с доктором Крюгером
+
+![[therapy_with_alber_krueger_game_cover.jpeg]]
+
+
+
+## Описание
+
+

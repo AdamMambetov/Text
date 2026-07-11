@@ -1,0 +1,90 @@
+---
+created: 2024-10-29T20:41:14+03:00
+aliases:
+  - Инуяшики
+  - Inuyashiki
+  - Инуясики
+Status: complete
+Type: anime
+Rating:
+  - "[[®️16|R-17]]"
+  - "[[®️18|18+]]"
+Cover: "[[inuyashiki_anime_cover.jpg]]"
+Year: 2017
+Episode: 11
+Views: 2
+tags:
+  - ❤
+  - 🔞
+---
+
+# Инуяшики
+
+![[inuyashiki_anime_cover.jpg]]
+
+```button
+name Shikimori
+type link
+action https://shikimori.one/animes/34542-inuyashiki
+customColor #4682b4
+hidden true
+```
+^button-shikimori
+
+```button
+name TV Time
+type link
+action 
+customColor #997f00
+hidden true
+```
+^button-tvTime
+
+```button
+name World Art
+type link
+action 
+customColor #7a0000
+hidden true
+```
+^button-worldArt
+
+```button
+name AnimeLib
+type link
+action 
+customColor #252527
+customTextColor #7E57C2
+hidden true
+```
+^button-animelib
+
+```button
+name Senkuro
+type link
+action 
+customColor #191A21
+hidden true
+```
+^button-senkuro
+
+```button
+name ReYohoho
+type link
+action 
+customColor #1c1c1c
+hidden true
+```
+^button-reyohoho
+
+
+
+`button-shikimori` `button-tvTime`
+
+`button-worldArt` `button-animelib`
+
+`button-senkuro` `button-reyohoho`
+
+## Описание
+
+[Итиро Инуясики](https://shikimori.one/characters/114453-ichirou-inuyashiki) — мужчина 58 лет. Жена и дети полностью игнорируют его, несмотря на то, что он для них сделал. Вдобавок ко всему, лечащий врач ставит герою неутешительный диагноз — рак, констатируя, что жить ему осталось совсем немного. Казалось бы, дела не могут пойти ещё хуже, но однажды [Инуясики](https://shikimori.one/characters/114453-ichirou-inuyashiki) видит, как ослепляющий свет озаряет звёздное небо. С этого момента его жизнь сильно меняется, и теперь ему нужно привыкать ко всему новому.

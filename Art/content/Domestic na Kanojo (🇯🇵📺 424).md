@@ -1,0 +1,93 @@
+---
+created: 2024-10-27T22:36:20+03:00
+aliases:
+  - Домашняя девушка
+  - Domestic na Kanojo
+  - Домашняя подружка
+  - Домекано
+  - Domekano
+Status: complete
+Type: anime
+Rating:
+  - "[[®️18|R+]]"
+  - "[[®️18|18+]]"
+Cover: "[[domekano_anime_cover.jpg]]"
+Year: 2019
+Episode: 12
+Views: 1
+tags:
+  - 🔞
+---
+
+# Домашняя девушка
+
+![[domekano_anime_cover.jpg]]
+
+```button
+name Shikimori
+type link
+action https://shikimori.one/animes/37982-domestic-na-kanojo
+customColor #4682b4
+hidden true
+```
+^button-shikimori
+
+```button
+name TV Time
+type link
+action 
+customColor #997f00
+hidden true
+```
+^button-tvTime
+
+```button
+name World Art
+type link
+action 
+customColor #7a0000
+hidden true
+```
+^button-worldArt
+
+```button
+name AnimeLib
+type link
+action 
+customColor #252527
+customTextColor #7E57C2
+hidden true
+```
+^button-animelib
+
+```button
+name Senkuro
+type link
+action 
+customColor #191A21
+hidden true
+```
+^button-senkuro
+
+```button
+name ReYohoho
+type link
+action 
+customColor #1c1c1c
+hidden true
+```
+^button-reyohoho
+
+
+
+`button-shikimori` `button-tvTime`
+
+`button-worldArt` `button-animelib`
+
+`button-reyohoho`
+
+## Описание
+
+[Нацуо Фудзии](https://shikimori.one/characters/122369-natsuo-fujii) влюблён в свою учительницу, [Хину Татибану](https://shikimori.one/characters/122367-hina-tachibana). Намереваясь избавиться от своих чувств, он отправляется на групповое свидание, где встречает странную девушку по имени [Руи](https://shikimori.one/characters/122365-rui-tachibana). Попросив об одолжении, [Руи](https://shikimori.one/characters/122365-rui-tachibana) уводит юношу к себе домой, где предлагает заняться с ней сексом. Никакой любви, ей всего лишь хочется приобрести опыт. Посчитав это хорошей возможностью забыть о [Хине](https://shikimori.one/characters/122367-hina-tachibana), [Нацуо](https://shikimori.one/characters/122369-natsuo-fujii) соглашается.  
+После этой неожиданной встречи [Нацуо](https://shikimori.one/characters/122369-natsuo-fujii) сталкивается с новой проблемой. Из-за женитьбы отца юноша обзаводится двумя сводными сёстрами, к несчастью, хорошо ему знакомыми. Это [Хина](https://shikimori.one/characters/122367-hina-tachibana) и [Руи](https://shikimori.one/characters/122365-rui-tachibana)!  
+Отныне [Нацуо](https://shikimori.one/characters/122369-natsuo-fujii), живя с учительницей, в которую влюблён, и девушкой, с которой был его «первый раз», попадёт в неожиданный любовный треугольник, всё ближе подбираясь к взрослой жизни.

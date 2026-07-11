@@ -1,0 +1,94 @@
+---
+created: 2024-09-24T16:44:35+03:00
+aliases:
+  - Говорю же, у меня не встаёт!
+  - Dakara Boku wa, H ga Dekinai
+  - So, I Can't Play H!
+  - Вот почему без эроса жизнь мне не мила!
+Status: complete
+Type: anime
+Rating:
+  - "[[®️18|R+]]"
+  - "[[®️18|18+]]"
+Cover: "[[dakara_boku_wa_h_ga_dekinai_anime_cover.png]]"
+Year: 2012
+Episode: 12
+Views: 1
+tags:
+  - 🔞
+---
+
+# Говорю же у меня не встает!
+
+![[dakara_boku_wa_h_ga_dekinai_anime_cover.png]]
+
+```button
+name Shikimori
+type link
+action https://shikimori.one/animes/12549-dakara-boku-wa-h-ga-dekinai
+customColor #4682b4
+hidden true
+```
+^button-shikimori
+
+```button
+name TV Time
+type link
+action 
+customColor #997f00
+hidden true
+```
+^button-tvTime
+
+```button
+name World Art
+type link
+action 
+customColor #7a0000
+hidden true
+```
+^button-worldArt
+
+```button
+name AnimeLib
+type link
+action 
+customColor #252527
+customTextColor #7E57C2
+hidden true
+```
+^button-animelib
+
+```button
+name Senkuro
+type link
+action 
+customColor #191A21
+hidden true
+```
+^button-senkuro
+
+```button
+name ReYohoho
+type link
+action 
+customColor #1c1c1c
+hidden true
+```
+^button-reyohoho
+
+
+
+`button-shikimori` `button-tvTime`
+
+`button-worldArt` `button-animelib`
+
+`button-reyohoho`
+
+## Описание
+
+[Рёскэ Кага](https://shikimori.one/characters/45421-ryousuke-kaga), обыкновенный извращенец-старшеклассник, однажды встречает девушку, одиноко гуляющую под проливным дождём. Она оказывается [Лисарой Ресталл](https://shikimori.one/characters/45423-lisara-restall), синигами высшего ранга, пришедшей в человеческий мир заключить выгодный и эксклюзивный контракт с обладателем «особой силы» для подпитки собственной духовной энергии.
+
+В конце концов они становятся партнёрами, однако [Рёскэ](https://shikimori.one/characters/45421-ryousuke-kaga) начинает замечать, что вместе с духовной энергией исчезает и его либидо...
+
+...И, чтобы его восстановить, [Рёскэ](https://shikimori.one/characters/45421-ryousuke-kaga) придётся всячески помогать [Лисаре](https://shikimori.one/characters/45423-lisara-restall). Вот так вот.

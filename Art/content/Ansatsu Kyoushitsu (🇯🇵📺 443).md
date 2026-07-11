@@ -1,0 +1,89 @@
+---
+created: 2024-10-29T21:03:10+03:00
+aliases:
+  - Класс убийц
+  - Ansatsu Kyoushitsu
+  - Assassination Classroom
+Status: complete
+Type: anime
+Rating:
+  - "[[®️12|PG-13]]"
+  - "[[®️18|18+]]"
+Cover: "[[assassination_classroom_anime_cover.jpg]]"
+Year: 2015
+Episode: 22
+Views: 1
+tags:
+  - 🔞
+---
+
+# Класс убийц
+
+![[assassination_classroom_anime_cover.jpg]]
+
+```button
+name Shikimori
+type link
+action https://shikimori.one/animes/z24833-ansatsu-kyoushitsu
+customColor #4682b4
+hidden true
+```
+^button-shikimori
+
+```button
+name TV Time
+type link
+action 
+customColor #997f00
+hidden true
+```
+^button-tvTime
+
+```button
+name World Art
+type link
+action 
+customColor #7a0000
+hidden true
+```
+^button-worldArt
+
+```button
+name AnimeLib
+type link
+action 
+customColor #252527
+customTextColor #7E57C2
+hidden true
+```
+^button-animelib
+
+```button
+name Senkuro
+type link
+action 
+customColor #191A21
+hidden true
+```
+^button-senkuro
+
+```button
+name ReYohoho
+type link
+action 
+customColor #1c1c1c
+hidden true
+```
+^button-reyohoho
+
+
+
+`button-shikimori` `button-tvTime`
+
+`button-worldArt` `button-animelib`
+
+`button-reyohoho`
+
+## Описание
+
+Однажды 70% Луны оказывается уничтожено неизвестным дотоле науке существом. При этом оно заявляет, что если в течение последующего года его никто не убьёт, то оно уничтожит и Землю. Мировой конгресс после ряда попыток потерял все надежды на его убийство. Теперь очередь японских школьников! У учеников особого класса 3-E поставлена единственная задача — убить своего учителя, коим и является то самое существо. Да только каким образом класс, с первого взгляда, обычных не преуспевающих учеников сможет убить неизвестного монстра, физические особенности и способности которого превосходят всё, что известно человечеству? И насколько изощрённые способы убийства самый уникальный класс сможет придумать и реализовать?

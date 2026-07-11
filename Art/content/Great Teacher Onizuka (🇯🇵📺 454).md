@@ -1,0 +1,93 @@
+---
+created: 2024-10-29T21:35:30+03:00
+aliases:
+  - Крутой учитель Онидзука
+  - Great Teacher Onizuka
+  - GTO
+  - Великий учитель Онидзука
+Status: complete
+Type: anime
+Rating:
+  - "[[®️16|R-17]]"
+  - "[[®️18|18+]]"
+Cover: "[[great_teacher_onizuka_anime_cover.jpg]]"
+Year: 1999
+Episode: 43
+Views: 2
+tags:
+  - ❤
+related:
+  - "[[@Дмитрий Кесида]]"
+---
+
+# Крутой учитель Онидзука
+
+![[great_teacher_onizuka_anime_cover.jpg]]
+
+```button
+name Shikimori
+type link
+action https://shikimori.one/animes/245-great-teacher-onizuka
+customColor #4682b4
+hidden true
+```
+^button-shikimori
+
+```button
+name TV Time
+type link
+action 
+customColor #997f00
+hidden true
+```
+^button-tvTime
+
+```button
+name World Art
+type link
+action 
+customColor #7a0000
+hidden true
+```
+^button-worldArt
+
+```button
+name AnimeLib
+type link
+action 
+customColor #252527
+customTextColor #7E57C2
+hidden true
+```
+^button-animelib
+
+```button
+name Senkuro
+type link
+action 
+customColor #191A21
+hidden true
+```
+^button-senkuro
+
+```button
+name ReYohoho
+type link
+action 
+customColor #1c1c1c
+hidden true
+```
+^button-reyohoho
+
+
+
+`button-shikimori` `button-tvTime`
+
+`button-worldArt` `button-animelib`
+
+`button-reyohoho`
+
+## Описание
+
+Бывший член нагоняющей на горожан ужас банды «Онибаку», байкер [Эйкити Онидзука](https://shikimori.one/characters/434-eikichi-onizuka), ставит перед собой цель стать самым крутым школьным учителем. Почему учителем? Да просто в школах полно сексуальных старшеклассниц! Ну... почти бывший член банды...  
+Однако тирания школьной администрации и целый класс малолетних правонарушителей стоят между [Онидзукой](https://shikimori.one/characters/434-eikichi-onizuka) и его целью. И любыми средствами — неважно, законными или нет, — они хотят избавиться от нового учителя. Впрочем, самого [Онидзуку](https://shikimori.one/characters/434-eikichi-onizuka) это не сильно беспокоит — его способы воспитания учеников вы не найдёте ни в одном учебном пособии, законность и дозволенность методов его заботит ровно настолько же, насколько его заботит разница в возрасте между ним и вожделенными старшеклассницами.

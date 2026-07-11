@@ -1,0 +1,83 @@
+---
+created: 2024-11-04T14:20:22+03:00
+aliases:
+  - Бернард
+  - Bernard
+Status: plan
+Type: cartoon
+Rating:
+  - "[[®️0|G]]"
+Cover: "[[bernard_cartoon_cover.jpg]]"
+Year: 2004
+related:
+  - https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D1%80%D0%BD%D0%B0%D1%80%D0%B4_(%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB)
+---
+
+# Бернард
+
+![[bernard_cartoon_cover.jpg]]
+
+```button
+name Shikimori
+type link
+action https://shikimori.one/animes/12145
+customColor #4682b4
+hidden true
+```
+^button-shikimori
+
+```button
+name TV Time
+type link
+action https://www.tvtime.com/
+customColor #997f00
+hidden true
+```
+^button-tvTime
+
+```button
+name World Art
+type link
+action http://www.world-art.ru/cinema/cinema.php?id=57414
+customColor #7a0000
+hidden true
+```
+^button-worldArt
+
+```button
+name AnimeLib
+type link
+action https://anilib.me/
+customColor #252527
+customTextColor #7E57C2
+hidden true
+```
+^button-animelib
+
+```button
+name Senkuro
+type link
+action https://senkuro.com/
+customColor #191A21
+hidden true
+```
+^button-senkuro
+
+```button
+name ReYohoho
+type link
+action https://reyohoho.github.io/reyohoho/
+customColor #1c1c1c
+hidden true
+```
+^button-reyohoho
+
+`button-shikimori` `button-tvTime`
+
+`button-worldArt` `button-animelib`
+
+`button-senkuro` `button-reyohoho`
+
+## Описание
+
+Полярный медведь Бернард обожает приключения и путешествия, но постоянно влипает в одни только неприятности. Природная любознательность и упрямство превращают любое дело, за которое ни возьмется Бернард, в сложное и опасное испытание.

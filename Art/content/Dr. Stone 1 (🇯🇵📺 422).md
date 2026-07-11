@@ -1,0 +1,89 @@
+---
+created: 2024-10-27T22:29:08+03:00
+aliases:
+  - Доктор Стоун
+  - Dr. Stone
+Status: complete
+Type: anime
+Rating:
+  - "[[®️12|PG-13]]"
+  - "[[®️16|16+]]"
+Cover: "[[dr_stone_anime_cover.jpg]]"
+Year: 2019
+Episode: 24
+Views: 1
+tags:
+  - ❤
+Продолжение: "[[Dr. Stone 2. Stone Wars (🇯🇵📺 423)]]"
+---
+
+# Доктор Стоун
+
+![[dr_stone_anime_cover.jpg]]
+
+```button
+name Shikimori
+type link
+action https://shikimori.one/animes/z38691-dr-stone
+customColor #4682b4
+hidden true
+```
+^button-shikimori
+
+```button
+name TV Time
+type link
+action 
+customColor #997f00
+hidden true
+```
+^button-tvTime
+
+```button
+name World Art
+type link
+action 
+customColor #7a0000
+hidden true
+```
+^button-worldArt
+
+```button
+name AnimeLib
+type link
+action 
+customColor #252527
+customTextColor #7E57C2
+hidden true
+```
+^button-animelib
+
+```button
+name Senkuro
+type link
+action 
+customColor #191A21
+hidden true
+```
+^button-senkuro
+
+```button
+name ReYohoho
+type link
+action 
+customColor #1c1c1c
+hidden true
+```
+^button-reyohoho
+
+
+
+`button-shikimori` `button-tvTime`
+
+`button-worldArt` `button-animelib`
+
+`button-reyohoho`
+
+## Описание
+
+Ничего не предвещало тот роковой день, когда внезапная ослепляющая вспышка уничтожила человечество, превратив всех людей в камень. С той катастрофы минуло несколько тысячелетий, как старшеклассник [Тайдзю Оки](https://shikimori.one/characters/148992-taiju-ooki) очнулся от вечного каменного сна и обнаружил вокруг только безжизненные статуи. Однако в этом новом мире он вовсе не один, как можно было подумать. Несколько месяцев назад пришёл в себя и его друг [Сэнку Исигами](https://shikimori.one/characters/148984-senkuu-ishigami) — страстный любитель науки. [Сэнку](https://shikimori.one/characters/148984-senkuu-ishigami) не просто не растерялся, он выжил, и у него уже зародился грандиозный план — он хочет дать толчок цивилизации силой науки!

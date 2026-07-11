@@ -1,0 +1,339 @@
+{
+  "editorPosition": "right",
+  "attachShortcutToGlobalWindow": false,
+  "globalNamespace": "MF",
+  "formDefinitions": [
+    {
+      "title": "Button",
+      "name": "button-form",
+      "fields": [
+        {
+          "name": "Links",
+          "label": "",
+          "description": "",
+          "isRequired": true,
+          "input": {
+            "type": "multiselect",
+            "source": "fixed",
+            "multi_select_options": [],
+            "allowUnknownValues": true
+          }
+        }
+      ],
+      "version": "1"
+    },
+    {
+      "title": "Art",
+      "name": "art-form",
+      "fields": [
+        {
+          "name": "Status",
+          "label": "",
+          "description": "",
+          "isRequired": true,
+          "input": {
+            "type": "select",
+            "source": "fixed",
+            "options": [
+              {
+                "value": "watch",
+                "label": "watch"
+              },
+              {
+                "value": "complete",
+                "label": "complete"
+              },
+              {
+                "value": "defer",
+                "label": "defer"
+              },
+              {
+                "value": "plan",
+                "label": "plan"
+              },
+              {
+                "value": "drop",
+                "label": "drop"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Type",
+          "label": "",
+          "description": "",
+          "isRequired": true,
+          "input": {
+            "type": "select",
+            "source": "fixed",
+            "options": [
+              {
+                "value": "anime",
+                "label": "anime"
+              },
+              {
+                "value": "anime film",
+                "label": "anime film"
+              },
+              {
+                "value": "book",
+                "label": "book"
+              },
+              {
+                "value": "cartoon",
+                "label": "cartoon"
+              },
+              {
+                "value": "course",
+                "label": "course"
+              },
+              {
+                "value": "film",
+                "label": "film"
+              },
+              {
+                "value": "game",
+                "label": "game"
+              },
+              {
+                "value": "manga",
+                "label": "manga"
+              },
+              {
+                "value": "manhua",
+                "label": "manhua"
+              },
+              {
+                "value": "manhwa",
+                "label": "manhwa"
+              },
+              {
+                "value": "ranobe",
+                "label": "ranobe"
+              },
+              {
+                "value": "series",
+                "label": "series"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Episode",
+          "label": "",
+          "description": "",
+          "isRequired": false,
+          "input": {
+            "type": "number",
+            "hidden": false
+          }
+        },
+        {
+          "name": "aliases",
+          "label": "",
+          "description": "",
+          "isRequired": false,
+          "input": {
+            "type": "tag",
+            "hidden": false
+          }
+        },
+        {
+          "name": "Views",
+          "label": "",
+          "description": "",
+          "isRequired": false,
+          "condition": {
+            "dependencyName": "Status",
+            "type": "isExactly",
+            "value": "complete"
+          },
+          "input": {
+            "type": "number",
+            "hidden": false
+          }
+        },
+        {
+          "name": "Year",
+          "label": "",
+          "description": "",
+          "isRequired": false,
+          "input": {
+            "type": "number",
+            "hidden": false
+          }
+        },
+        {
+          "name": "Cover",
+          "label": "",
+          "description": "",
+          "isRequired": false,
+          "input": {
+            "type": "image",
+            "filenameTemplate": "image-{{datetime}}",
+            "saveLocation": "covers"
+          }
+        },
+        {
+          "name": "CoverName",
+          "label": "",
+          "description": "",
+          "isRequired": false,
+          "condition": {
+            "dependencyName": "Cover",
+            "type": "isSet"
+          },
+          "input": {
+            "type": "text",
+            "hidden": false
+          }
+        },
+        {
+          "name": "Flag",
+          "label": "",
+          "description": "",
+          "isRequired": true,
+          "input": {
+            "type": "text",
+            "hidden": false
+          }
+        },
+        {
+          "name": "Rating",
+          "label": "",
+          "description": "",
+          "isRequired": false,
+          "input": {
+            "type": "multiselect",
+            "source": "fixed",
+            "multi_select_options": [
+              "[[®️0|G]]",
+              "[[®️6|PG]]",
+              "[[®️12|PG-13]]",
+              "[[®️16|R-17]]",
+              "[[®️18|R+]]",
+              "[[®️18|Rx]]",
+              "[[®️18|NC-17]]",
+              "[[®️18|X]]",
+              "[[®️12|M]]",
+              "[[®️0|0+]]",
+              "[[®️6|6+]]",
+              "[[®️12|12+]]",
+              "[[®️16|16+]]",
+              "[[®️18|18+]]"
+            ],
+            "allowUnknownValues": false
+          }
+        },
+        {
+          "name": "Links",
+          "label": "",
+          "description": "",
+          "isRequired": false,
+          "input": {
+            "type": "multiselect",
+            "source": "fixed",
+            "multi_select_options": [],
+            "allowUnknownValues": true
+          }
+        },
+        {
+          "name": "Season",
+          "label": "",
+          "description": "",
+          "isRequired": false,
+          "condition": {
+            "dependencyName": "Type",
+            "type": "isExactly",
+            "value": "series"
+          },
+          "input": {
+            "type": "number",
+            "hidden": false
+          }
+        },
+        {
+          "name": "Адаптация",
+          "label": "",
+          "description": "",
+          "isRequired": false,
+          "input": {
+            "type": "note",
+            "folder": "/"
+          }
+        },
+        {
+          "name": "Предыстория",
+          "label": "",
+          "description": "",
+          "isRequired": false,
+          "input": {
+            "type": "note",
+            "folder": "/"
+          }
+        },
+        {
+          "name": "Продолжение",
+          "label": "",
+          "description": "",
+          "isRequired": false,
+          "input": {
+            "type": "note",
+            "folder": "/"
+          }
+        }
+      ],
+      "version": "1",
+      "template": {
+        "createInsertCommand": false,
+        "createNoteCommand": true,
+        "parsedTemplate": [
+          {
+            "_tag": "text",
+            "value": "---\naliases: "
+          },
+          {
+            "_tag": "variable",
+            "value": "aliases"
+          },
+          {
+            "_tag": "text",
+            "value": "\nCover: \"![["
+          },
+          {
+            "_tag": "variable",
+            "value": "Cover"
+          },
+          {
+            "_tag": "text",
+            "value": "]]\"\ntest_time: "
+          },
+          {
+            "_tag": "variable",
+            "value": "test_time"
+          },
+          {
+            "_tag": "text",
+            "value": "\n---\n\n# "
+          },
+          {
+            "_tag": "variable",
+            "value": "name"
+          },
+          {
+            "_tag": "text",
+            "value": "\n\n![["
+          },
+          {
+            "_tag": "variable",
+            "value": "Cover"
+          },
+          {
+            "_tag": "text",
+            "value": "]]\n"
+          }
+        ]
+      }
+    }
+  ]
+}

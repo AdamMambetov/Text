@@ -1,0 +1,101 @@
+---
+created: 2024-06-16T14:24:47+03:00
+aliases:
+  - Кайдзю №8
+  - Kaijuu 8-gou
+  - Kaiju No. 8
+  - Кайдзю номер восемь
+Status: complete
+Type: anime
+Rating:
+  - "[[®️12|PG-13]]"
+  - "[[®️18|18+]]"
+Cover: "[[kaijuu_8_gou_anime_cover.jpeg]]"
+Year: 2024
+Episode: 12
+Views: 2
+tags:
+  - ❤
+related:
+  - "[[@Дмитрий Кесида]]"
+Продолжение: "[[Kaijuu 8-gou 2 (🇯🇵📺 1020)]]"
+---
+
+# Кайдзю №8
+
+![[kaijuu_8_gou_anime_cover.jpeg]]
+
+
+```button
+name Shikimori
+type link
+action https://shikimori.one/animes/52588-kaijuu-8-gou
+customColor #4682b4
+hidden true
+```
+^button-shikimori
+
+```button
+name TV Time
+type link
+action https://www.tvtime.com/
+customColor #997f00
+hidden true
+```
+^button-tv-time
+
+```button
+name World Art
+type link
+action http://www.world-art.ru/
+customColor #7a0000
+hidden true
+```
+^button-world-art
+
+```button
+name ONIKES
+type link
+action https://onikes.ru/
+color purple
+hidden true
+```
+^button-onikes
+
+```button
+name KESIDATOKIO VOD'S
+type link
+action https://yo8z6gv.github.io/
+color purple
+customTextColor black
+hidden true
+```
+^button-kesidatokio-vods
+
+```button
+name AnimeLib
+type link
+action https://anilib.me/
+customColor #252527
+customTextColor #7E57C2
+hidden true
+```
+^button-animelib
+
+```button
+name Senkuro
+type link
+action https://senkuro.com/
+customColor #191A21
+hidden true
+```
+^button-senkuro
+
+```button
+name ReYohoho
+type link
+action https://reyohoho.github.io/reyohoho/
+customColor #1c1c1c
+hidden true
+```
+^button-reyohoho

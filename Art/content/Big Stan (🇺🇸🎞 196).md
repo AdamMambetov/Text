@@ -1,0 +1,47 @@
+---
+created: 2024-06-10T02:44:00
+aliases:
+  - Большой Стэн
+  - Big Stan
+Status: complete
+Type: film
+Rating:
+  - "[[®️16|16+]]"
+Cover: "[[big_stan_film_cover.png]]"
+Year: 2007
+Views: 1
+tags:
+  - ❤
+---
+
+# Большой Стэн
+
+![[big_stan_film_cover.png]]
+
+
+```button
+name TV Time
+type link
+action https://www.tvtime.com/
+customColor #997f00
+hidden true
+```
+^button-tvTime
+
+```button
+name World Art
+type link
+action http://www.world-art.ru/cinema/cinema.php?id=20374
+customColor #7a0000
+hidden true
+```
+^button-worldArt
+
+```button
+name ReYohoho
+type link
+action https://reyohoho.github.io/reyohoho/
+customColor #1c1c1c
+hidden true
+```
+^button-reyohoho

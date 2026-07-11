@@ -1,0 +1,91 @@
+---
+created: 2024-10-29T22:12:31+03:00
+aliases:
+  - Мастера Меча Онлайн. Порядковый ранг
+  - "Sword Art Online Movie: Ordinal Scale"
+  - "SAO: Ordinal Scale"
+Status: complete
+Type: anime film
+Rating:
+  - "[[®️18|R+]]"
+  - "[[®️16|16+]]"
+Cover: "[[sao_ordinal_scale_anime_film_cover.jpg]]"
+Year: 2017
+Views: 1
+tags:
+  - 🔞
+Предыстория: "[[Sword Art Online 2 (🇯🇵📺 466)]]"
+---
+
+# Мастера Меча Онлайн. Порядковый ранг
+
+![[sao_ordinal_scale_anime_film_cover.jpg]]
+
+```button
+name Shikimori
+type link
+action https://shikimori.one/animes/z31765-sword-art-online-movie-ordinal-scale
+customColor #4682b4
+hidden true
+```
+^button-shikimori
+
+```button
+name TV Time
+type link
+action 
+customColor #997f00
+hidden true
+```
+^button-tvTime
+
+```button
+name World Art
+type link
+action 
+customColor #7a0000
+hidden true
+```
+^button-worldArt
+
+```button
+name AnimeLib
+type link
+action 
+customColor #252527
+customTextColor #7E57C2
+hidden true
+```
+^button-animelib
+
+```button
+name Senkuro
+type link
+action 
+customColor #191A21
+hidden true
+```
+^button-senkuro
+
+```button
+name ReYohoho
+type link
+action 
+customColor #1c1c1c
+hidden true
+```
+^button-reyohoho
+
+
+
+`button-shikimori` `button-tvTime`
+
+`button-worldArt` `button-animelib`
+
+`button-reyohoho`
+
+## Описание
+
+Продолжение аниме-сериала «[[Sword Art Online 2 (🇯🇵📺 466)| Мастера Меча Онлайн 2]]».
+
+2026 год, на смену «Амусферы» приходит «Augma» — устройство расширенной реальности, которая вместо функции «полного погружения», использует дополненную реальность, что делает процесс использования устройства безопаснее и удобнее. Благодаря этому новое устройство расширенной реальности получило большую популярность, а вместе с ней и «Ordinal Scale» — ARMMORPG, разработанная специально для «Augma», особенностью которой является OS — игровая функция, при которой все игроки получают ранг, основанный на их порядковом номере. Как и ожидалось, [Кирито](https://shikimori.one/characters/36765-kazuto-kirigaya) с друзьями начинают играть в «Ordinal Scale», но вскоре они узнают, что «Порядковый ранг» — это вовсе не веселье и игры...

@@ -1,0 +1,92 @@
+---
+created: 2024-09-22T22:06:22+03:00
+aliases:
+  - Врата Штейна
+  - Steins;Gate
+Status: complete
+Type: anime
+Rating:
+  - "[[®️12|PG-13]]"
+  - "[[®️16|16+]]"
+Cover: "[[steins_gate_anime_cover.png]]"
+Year: 2011
+Episode: 24
+Views: 2
+tags:
+  - ❤
+Адаптация: "[[Steins;Gate (🇯🇵🎮 994)]]"
+Продолжение: "[[Steins;Gate. Load Region of Déjà Vu (🇯🇵📺 346)]]"
+---
+
+# Врата Штейна
+
+![[steins_gate_anime_cover.png]]
+
+```button
+name Shikimori
+type link
+action https://shikimori.one/animes/z9253-steins-gate
+customColor #4682b4
+hidden true
+```
+^button-shikimori
+
+```button
+name TV Time
+type link
+action https://www.tvtime.com/ru/show/244061
+customColor #997f00
+hidden true
+```
+^button-tvTime
+
+```button
+name World Art
+type link
+action http://www.world-art.ru/animation/animation.php?id=8026
+customColor #7a0000
+hidden true
+```
+^button-worldArt
+
+```button
+name AnimeLib
+type link
+action https://anilib.me/ru/anime/5624--steinsgate-anime?ui=1710953
+customColor #252527
+customTextColor #7E57C2
+hidden true
+```
+^button-animelib
+
+```button
+name Senkuro
+type link
+action https://senkuro.com/anime/steins-gate
+customColor #191A21
+hidden true
+```
+^button-senkuro
+
+```button
+name ReYohoho
+type link
+action https://reyohoho.github.io/reyohoho/#586251
+customColor #1c1c1c
+hidden true
+```
+^button-reyohoho
+
+
+
+`button-shikimori` `button-tvTime`
+
+`button-worldArt` `button-animelib`
+
+`button-reyohoho`
+
+## Описание
+
+Сняв в Акихабаре квартиру, самопровозглашённый сумасшедший учёный [Окабэ Ринтаро](https://shikimori.one/characters/35252-rintarou-okabe) устроил там «лабораторию» и в компании своей подруги детства [Сины Маюри](https://shikimori.one/characters/35253-mayuri-shiina) и хакера-отаку [Хасиды Итару](https://shikimori.one/characters/35258-itaru-hashida) изобретает «гаджеты будущего». Троица отлично проводит время вместе, работая над совместным проектом — «мобиловолновкой», которой можно управлять с помощью текстовых сообщений.
+
+Вскоре «сотрудники лаборатории» сталкиваются с чередой загадочных инцидентов, которые приводят к открытию, изменившему правила игры: «мобиловолновка» может отправлять электронные письма в прошлое и таким образом изменять историю.

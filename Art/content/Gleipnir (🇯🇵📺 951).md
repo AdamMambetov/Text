@@ -1,0 +1,89 @@
+---
+created: 2025-05-07T02:16:01+03:00
+aliases:
+  - Глейпнир
+  - Gleipnir
+Status: complete
+Type: anime
+Rating:
+  - "[[®️16|R-17]]"
+  - "[[®️18|18+]]"
+Cover: "[[gleipnir_anime_cover.jpeg]]"
+Year: 2020
+Episode: 13
+Views: 1
+---
+
+# Глейпнир
+
+![[gleipnir_anime_cover.jpeg]]
+
+
+```button
+name Shikimori
+type link
+action https://shikimori.one/animes/39463-gleipnir
+customColor #4682b4
+hidden true
+```
+^button-shikimori
+
+```button
+name TV Time
+type link
+action 
+customColor #997f00
+hidden true
+```
+^button-tvTime
+
+```button
+name World Art
+type link
+action 
+customColor #7a0000
+hidden true
+```
+^button-worldArt
+
+```button
+name AnimeLib
+type link
+action 
+customColor #252527
+customTextColor #7E57C2
+hidden true
+```
+^button-animelib
+
+```button
+name Senkuro
+type link
+action 
+customColor #191A21
+hidden true
+```
+^button-senkuro
+
+```button
+name ReYohoho
+type link
+action 
+customColor #1c1c1c
+hidden true
+```
+^button-reyohoho
+
+
+
+`button-shikimori` `button-tvTime`
+
+`button-worldArt` `button-animelib`
+
+`button-senkuro` `button-reyohoho`
+
+
+
+## Описание
+
+Небольшой скучный городок, вроде бы среднестатистический старшеклассник [Сюити Кагая](https://shikimori.one/characters/157039-shuuichi-kagaya) — обычный набор для развития необычной истории. Сюжет завязывается, когда красавица [Клэр Аоки](https://shikimori.one/characters/145583-clair-aoki) оказывается в огненной ловушке на складе и [Сюити](https://shikimori.one/characters/157039-shuuichi-kagaya) вынужден использовать свою загадочную способность. Он может превращаться в большую собаку, у которой на спине молния, а на боку — револьвер. [Кагая](https://shikimori.one/characters/157039-shuuichi-kagaya) спасает девушку, раскрывая тем самым свой секрет. Однако оказывается, что у [Клэр](https://shikimori.one/characters/145583-clair-aoki) свой скелет в шкафу: её семью убила собственная сестра [Клэр](https://shikimori.one/characters/145583-clair-aoki). И теперь [Аоки](https://shikimori.one/characters/145583-clair-aoki) жаждет разыскать сестру чего бы это ни стоило, поэтому она решает использовать парня и его силу в своих целях...

@@ -1,0 +1,56 @@
+---
+created: 2024-12-12T18:49:00+03:00
+aliases:
+  - BPM
+  - Bullets Per Minute
+Status: complete
+Type: game
+Rating:
+  - "[[®️12|12+]]"
+Cover: "[[bpm_game_cover.jpg]]"
+Year: 2020
+Views: 2
+tags:
+  - ❤
+---
+
+# Bullets Per Minute
+
+![[bpm_game_cover.jpg]]
+
+```button
+name World Art
+type link
+action http://www.world-art.ru/games/games.php?id=40328
+customColor #7a0000
+hidden true
+```
+^button-worldArt
+
+```button
+name Steam
+type link
+action https://store.steampowered.com/app/1286350/BPM_BULLETS_PER_MINUTE/
+customColor #133C6F
+textColor white
+hidden true
+```
+^button-steam
+
+
+`button-worldArt` `button-steam`
+
+
+[[@Аслангерий Гутаев|Аслангерий]] посоветовал поиграть.
+
+[BPM Custom Music Tutorial](https://youtu.be/iRj82LgFN7o?si=UzmFybUmcAUiRdZZ)
+
+[BPM OST Playlist](https://youtube.com/playlist?list=OLAK5uy_nZOWpXIakhQCKPqr-32FXIxqprwho4OdY)
+
+## Описание
+
+В BPM все действия героя и врагов привязаны к ритму музыки. Враги будут проводить последовательности атак, подобных танцу, под эпическую рок-оперу. Для BPM источником вдохновения были ретро-шутеры 90-х. Он быстрый, неистовый и ритмичный. В игре доступны двойной прыжок, рывок, рокет-джамп и банни-хоп для уклонения от атак противников.  
+  
+Твоя цель — добраться до конца случайно сгенерированных подземелий, собирая различное вооружение, способности и предметы при каждом прохождении. Вооружение и способности могут радикально изменять стиль игры, делая каждое прохождение уникальным.  
+  
+Чтобы добраться до финального босса нужно победить 7 других. Каждый босс движется и атакует уникальным образом: чтобы добиться успеха, нужно научиться использовать его слабости. Для уклонения от атак потребуется перепрыгивать поля лавы, уклоняться от быстрых снарядов и выдерживать быстрые удары.

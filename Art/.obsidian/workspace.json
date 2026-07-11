@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "72da16423e3b98c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3fc91cd8e1e0590",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d06fc2837271f266",
+            "type": "leaf",
+            "state": {
+              "type": "smart-release-notes-view",
+              "state": {},
+              "icon": "file-text",
+              "title": "Release Notes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6a2679d398a0ab52",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a63845a834036ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ed7c78c1e875ce7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a3be484e19581806",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b38bc6ed43263e8b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 284.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "304d51eb1ed16b9d",
+    "type": "split",
+    "children": [
+      {
+        "id": "a57820e8cf569f2e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d94da5d1bd09ea9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f38a22766c9b1566",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "⛩️Город, в котором меня нет (манга).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of ⛩️Город, в котором меня нет (манга)"
+            }
+          },
+          {
+            "id": "be7160560380ae72",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "05a8a678de243d42",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "ad5b61f6b88b8712",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "7e0b1d9c12abb036",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Connections"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 404.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "cmdr:Emoji Toolbar: Open emoji picker": false,
+      "cmdr:QuickAdd: Rename art": false,
+      "modalforms:Edit forms": false,
+      "quickadd:QuickAdd": false,
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "3d-graph-new:Global 3D Graph": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Smart Lookup: Open lookup view": false,
+      "smart-connections:Smart Connections: Open random connection": false
+    }
+  },
+  "active": "d06fc2837271f266",
+  "lastOpenFiles": [
+    "covers/91_days_anime_cover.jpg",
+    "_art base.base",
+    "📘C++ для профи (книга).md",
+    "📘Паттерны программирования игр (книга).md",
+    "📘Программист-фанатик (книга).md",
+    "📘Оформление программного кода (книга).md",
+    "⛩️Город, в котором меня нет (манга).md",
+    "templates/delete property capture.md",
+    "⛩️Вампир бабамбабамбам (аниме).md",
+    "⛩️Вайолет Эвергарден (аниме).md",
+    "⛩️Вавилон (аниме).md",
+    "⛩️В поисках потерянного будущего (аниме).md",
+    "⛩️В лес, где мерцают светлячки (аниме фильм).md",
+    "⛩️В другом мире со смартфоном (аниме).md",
+    "⛩️В воскресенье даже Бог отдыхает (аниме).md",
+    "⛩️Бэм (аниме).md",
+    "⛩️Быть героем (аниме).md",
+    "⛩️Буттигири (аниме).md",
+    "⛩️Буря потерь (аниме).md",
+    "⛩️Бтууум! (аниме).md",
+    "⛩️Брошенный кролик (аниме).md",
+    "⛩️Бродяга Кэнсин (аниме).md",
+    "⛩️Бродяга Кэнсин (2023) (аниме).md",
+    "⛩️Бродяга (манга).md",
+    "⛩️Больше чем пара, меньше чем любовники (аниме).md",
+    "⛩️Божественные врата (аниме).md",
+    "⛩️Боец Баки 2 (аниме).md"
+  ]
+}

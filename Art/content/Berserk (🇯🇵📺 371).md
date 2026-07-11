@@ -1,0 +1,90 @@
+---
+created: 2024-09-23T17:23:15+03:00
+aliases:
+  - Берсерк (2016)
+  - Berserk (2016)
+Status: complete
+Type: anime
+Rating:
+  - "[[®️18|R+]]"
+  - "[[®️18|18+]]"
+Cover: "[[berserk_2016_anime_cover.png]]"
+Year: 2016
+Episode: 12
+Views: 1
+Адаптация: "[[Berserk (🇯🇵📗 237)]]"
+Предыстория: "[[Berserk (🇯🇵📺 2)]]"
+---
+
+# Берсерк (2016)
+
+![[berserk_2016_anime_cover.png]]
+
+```button
+name Shikimori
+type link
+action https://shikimori.one/animes/32379-berserk
+customColor #4682b4
+hidden true
+```
+^button-shikimori
+
+```button
+name TV Time
+type link
+action 
+customColor #997f00
+hidden true
+```
+^button-tvTime
+
+```button
+name World Art
+type link
+action 
+customColor #7a0000
+hidden true
+```
+^button-worldArt
+
+```button
+name AnimeLib
+type link
+action 
+customColor #252527
+customTextColor #7E57C2
+hidden true
+```
+^button-animelib
+
+```button
+name Senkuro
+type link
+action 
+customColor #191A21
+hidden true
+```
+^button-senkuro
+
+```button
+name ReYohoho
+type link
+action 
+customColor #1c1c1c
+hidden true
+```
+^button-reyohoho
+
+
+
+`button-shikimori` `button-tvTime`
+
+`button-worldArt` `button-animelib`
+
+`button-reyohoho`
+
+## Описание
+
+[Гатс](https://shikimori.one/characters/422-guts), также известный как Черный Мечник, ищет убежища от демонических сил, преследующих его и его женщину, а также отмщения мужчине, заклеймившему его «нечистой жертвой». Поддерживаемый только своей титанической силой, умениями и мечом, [Гатс](https://shikimori.one/characters/422-guts) идет наперекор своей мрачной судьбе, все время борясь с яростью, способной лишить его человечности.
+
+«Берсерк» — это мрачная и тяжелая история жестоких битв на мечах и зловещей судьбы, выполненная в манере Шекспировского «Макбета».

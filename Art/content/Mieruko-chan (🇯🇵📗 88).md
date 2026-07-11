@@ -1,0 +1,60 @@
+---
+created: 2024-03-08T13:46:00
+aliases:
+  - Девочка, которая видит это
+  - Mieruko-chan
+Status: defer
+Type: manga
+Rating:
+  - "[[®️12|PG-13]]"
+Cover: "[[mieruko_chan_manga_cover.png]]"
+Year: 2018
+Episode: 14
+---
+
+# Девочка, которая видит это
+
+![[mieruko_chan_manga_cover.png]]
+
+```button
+name Shikimori
+type link
+action https://shikimori.one/mangas/116790-mieruko-chan
+customColor #4682b4
+hidden true
+```
+^button-shikimori
+
+```button
+name World Art
+type link
+action http://www.world-art.ru/animation/manga.php?id=4527
+customColor #7a0000
+hidden true
+```
+^button-worldArt
+
+```button
+name MangaLib
+type link
+action https://mangalib.me/mieru-ko-chan?section=info&ui=1710953
+customColor #252527
+customTextColor #b6720f
+hidden true
+```
+^button-mangalib
+
+```button
+name Senkuro
+type link
+action https://senkuro.com/manga/mieruko-chan
+customColor #191A21
+hidden true
+```
+^button-senkuro
+
+`button-shikimori` `button-worldArt` 
+
+`button-mangalib` `button-senkuro`
+
+

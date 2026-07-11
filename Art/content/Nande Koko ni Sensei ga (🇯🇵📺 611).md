@@ -1,0 +1,86 @@
+---
+created: 2024-11-04T14:19:18+03:00
+aliases:
+  - Зачем вы здесь, учитель?!
+  - Nande Koko ni Sensei ga!?
+  - Why the Hell are You Here, Teacher!?
+Status: drop
+Type: anime
+Rating:
+  - "[[®️18|R+]]"
+  - "[[®️18|18+]]"
+Cover: "[[why_the_hell_are_you_here_teacher_anime_cover.jpeg]]"
+Year: 2019
+Episode: 2
+tags:
+  - 🔞
+---
+
+# Зачем вы здесь, учитель?!
+
+![[why_the_hell_are_you_here_teacher_anime_cover.jpeg]]
+
+```button
+name Shikimori
+type link
+action https://shikimori.one/animes/38397
+customColor #4682b4
+hidden true
+```
+^button-shikimori
+
+```button
+name TV Time
+type link
+action https://www.tvtime.com/
+customColor #997f00
+hidden true
+```
+^button-tvTime
+
+```button
+name World Art
+type link
+action http://www.world-art.ru/
+customColor #7a0000
+hidden true
+```
+^button-worldArt
+
+```button
+name AnimeLib
+type link
+action https://anilib.me/
+customColor #252527
+customTextColor #7E57C2
+hidden true
+```
+^button-animelib
+
+```button
+name Senkuro
+type link
+action https://senkuro.com/
+customColor #191A21
+hidden true
+```
+^button-senkuro
+
+```button
+name ReYohoho
+type link
+action https://reyohoho.github.io/reyohoho/
+customColor #1c1c1c
+hidden true
+```
+^button-reyohoho
+
+`button-shikimori` `button-tvTime`
+
+`button-worldArt` `button-animelib`
+
+`button-senkuro` `button-reyohoho`
+
+## Описание
+
+Сюжет аниме сосредотачивается вокруг семнадцатилетнего ученика старшей школы по имени [Итиро Сато](https://shikimori.one/characters/153968-ichirou-satou) и его учительницы [Каны Кодзимы](https://shikimori.one/characters/153967-kana-kojima), известной своим нравом, за который получила прозвище «Учитель-демон». Однако перед [Итиро](https://shikimori.one/characters/153968-ichirou-satou) строгая учительница предстаёт простой и неуклюжей, из-за чего парень постоянно попадает в неловкие и пикантные ситуации с участием [Каны](https://shikimori.one/characters/153967-kana-kojima) в самых разнообразных местах: в мужской ванной, в мужской бане, в бассейне, в школьном медкабинете и в других, не менее интимных местах. За их насыщенной жизнью нам и предстоит наблюдать.

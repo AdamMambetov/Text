@@ -1,0 +1,67 @@
+---
+created: 2025-05-24T21:59:20+03:00
+aliases:
+  - Квантовый скачок
+  - Quantum Leap
+Status: plan
+Type: series
+Rating:
+  - "[[®️16|16+]]"
+Cover:
+Year: 2022
+---
+
+# Квантовый скачок
+
+
+
+
+```button
+name TV Time
+type link
+action https://www.tvtime.com/
+customColor #997f00
+hidden true
+```
+^button-tvTime
+
+```button
+name World Art
+type link
+action http://www.world-art.ru/
+customColor #7a0000
+hidden true
+```
+^button-worldArt
+
+```button
+name ReYohoho
+type link
+action https://reyohoho.github.io/reyohoho/
+customColor #1c1c1c
+hidden true
+```
+^button-reyohoho
+
+```button
+name RuTube
+type link
+action https://rutube.ru/plst/367906/
+customColor #1c1c1c
+hidden true
+```
+^button-rutube
+
+
+`button-tvTime` `button-worldArt`
+
+`button-reyohoho` `button-rutube`
+
+## Причина добавления
+
+В описании книги [[Семь смертей Эвелины Хардкасл (🇺🇸📘 967)|Семь смертей Эвелины Хардкасл]] говорится, что этот сериал похож на эту книгу.
+
+
+## Описание
+
+
