@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3c5c460b809476ef",
+        "id": "56d9c399d5d6b9ac",
         "type": "tabs",
         "children": [
           {
-            "id": "b8f5bbc93dadb9ac",
+            "id": "9483095c63e24292",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Art/content/Umineko no Naku Koro ni (🇯🇵🎮 254).md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Umineko no Naku Koro ni (🇯🇵🎮 254)"
+              "title": "New tab"
             }
           }
         ]
@@ -89,7 +85,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Music/Tracks/Dance, Dance - Fall Out Boy (🎧️ 1232).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -117,7 +112,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Dance, Dance - Fall Out Boy (🎧️ 1232)"
+              "title": "Graph view"
             }
           }
         ]
@@ -151,7 +146,7 @@
       {
         "id": "9a8f43a41bcf3663",
         "type": "tabs",
-        "dimension": 25.199203187250998,
+        "dimension": 34.097706879361915,
         "children": [
           {
             "id": "6288a4b67d726840",
@@ -177,12 +172,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Text/Music/Tracks/Love In Sao Paolo - Yuji Ohno (🎧️ 1485).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Love In Sao Paolo - Yuji Ohno (🎧️ 1485)"
+              "title": "Outgoing links"
             }
           },
           {
@@ -191,13 +185,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Art/content/Umineko no Naku Koro ni (🇯🇵🎮 254).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Umineko no Naku Koro ni (🇯🇵🎮 254)"
+              "title": "Outline"
             }
           },
           {
@@ -210,13 +203,12 @@
               "title": "advanced-tables-toolbar"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "3185b9fecf878a15",
         "type": "tabs",
-        "dimension": 74.800796812749,
+        "dimension": 65.90229312063809,
         "children": [
           {
             "id": "85cdd56987990db9",
@@ -264,7 +256,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 449.5
+    "width": 390.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -286,44 +278,44 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b8f5bbc93dadb9ac",
+  "active": "9483095c63e24292",
   "lastOpenFiles": [
-    "Music/Tracks/Окончательный ответ - dai (🎧️ 1048).md",
-    "Art/content/Umineko no Naku Koro ni (🇯🇵🎮 254).md",
-    "Art/content/Re.Zero 4 (🇯🇵📺 1115).md",
+    "Music/Tracks/Алая доля - Radiant Records (🎧️ 1280).md",
+    "Music/Tracks/АЙДА! - dai (🎧️ 984).md",
+    "Music/Tracks/Ай-яй-я - Базиль (🎧️ 45).md",
+    "Music/Tracks/Авантюрист - Виталий Чирва (🎧️ 44).md",
+    "Music/Tracks/А как известно мы народ горячий - Олег Анофриев (🎧️ 642).md",
+    "Music/Tracks/600 миллионов, струнное трио, фа-диез минор - Luck Ganriki (🎧️ 1044).md",
+    "Music/Tracks/600 миллионов (короткая). До минор, орган - Luck Ganriki (🎧️ 996).md",
+    "Music/Tracks/599 миллионов крахов - Luck Ganriki (🎧️ 1014).md",
+    "Music/Tracks/505 - Arctic Monkeys (🎧️ 774).md",
+    "Music/Tracks/200 миллионов (короткая). До минор, орган - Luck Ganriki (🎧️ 1026).md",
+    "Music/Tracks/99.9 - Mob Choir (🎧️ 1453).md",
+    "Music/Tracks/99 (TV Size) - Jonathan Young (🎧️ 1451).md",
+    "Music/Tracks/99 - Mob Choir (🎧️ 1452).md",
+    "Music/Tracks/99 - Jonathan Young (🎧️ 138).md",
+    "Music/Tracks/99 - HaruWei (🎧️ 873).md",
+    "Music/Tracks/88 - Jackie-O (🎧️ 1147).md",
+    "Music/Tracks/82nd All the Way - Sabaton (🎧️ 1138).md",
+    "Music/Tracks/21 Guns - RADIO TAPOK (🎧️ 1516).md",
+    "Music/Tracks/13th Floor - Yasuharu Takanashi (🎧️ 1802).md",
+    "Music/Tracks/7th Trigger - UVERworld (🎧️ 1258).md",
+    "Music/Tracks/7 Minutes In Heaven (Atavan Halen) - Fall Out Boy (🎧️ 1137).md",
+    "Music/Tracks/7 весов - pre-holder (🎧️ 1080).md",
+    "Music/Tracks/7 -seven- (TV Size) - FLOW (🎧️ 1633).md",
+    "Music/Tracks/6 Кадров - Александр Пушной (🎧️ 1880).md",
+    "Music/Tracks/4 октября - xaki (🎧️ 1076).md",
+    "Music/Tracks/2 типа людей - Макс Корж (🎧️ 1158).md",
+    "Music/Tracks/Way Up - Jaden Smith.txt",
     "Text/Note/files",
     "Text/Note",
     "Text",
-    "Music/Tracks/Dance, Dance - Fall Out Boy (🎧️ 1232).md",
-    "Music/Tracks/Daisy Blue - Kano (🎧️ 441).md",
-    "Music/Tracks/Daisuke Hasegawa - Uragirimono no Requiem.md",
-    "Music/Tracks/Dadadadadadadadadada - Hige Driver join. SELEN (🎧️ 504).md",
-    "Music/Tracks/Cure (TV Size) (🎧️ 1562).md",
-    "Music/Tracks/Cure (🎧️ 1561).md",
-    "Music/Tracks/Cupid's Chokehold  Breakfast in America - Gym Class Heroes (🎧️ 772).md",
-    "Music/Tracks/Crunchyroll - Re_-ZERO_-Starting_Life_in_Another_World-_Season_2_-_Ending_1_Memento.md",
-    "Music/Tracks/Crossing Field (TV Size) (🎧️ 1463).md",
-    "Music/Tracks/Crossing Field (TV Size) (🎧️ 1459).md",
-    "Music/Tracks/Crossing Field - Onsa Media (🎧️ 332).md",
-    "Music/Tracks/Crossing Field - Marie Bibika (🎧️ 1271).md",
-    "Music/Tracks/Crossing Field - LiSA (🎧️ 1445).md",
-    "Music/Tracks/Crossing Field - Jonathan Young (🎧️ 1450).md",
-    "Music/Tracks/Cross Time!! - Brandy (🎧️ 1268).md",
-    "Music/Tracks/Creepin' Towards the Door - Griffinilla (🎧️ 1237).md",
-    "Music/Tracks/Create 1 (Champ'd Up) - Andy Poland (🎧️ 1679).md",
-    "Music/Tracks/Cradles - Sub Urban (🎧️ 1235).md",
-    "Music/Tracks/Coward Killing Time - The Quick Brown Fox (🎧️ 412).md",
-    "Music/Tracks/Courting Song (🎧️ 1413).md",
-    "Music/Tracks/Courtesy Call - Thousand Foot Krutch (🎧️ 1228).md",
-    "Music/Tracks/Courage (TV Size) - Haruka Tomatsu (🎧️ 1698).md",
-    "Music/Tracks/Courage - Marie Bibika (🎧️ 1269).md",
     "Video/18+/Hentai/2101_video_voice_HentaiZ_720.mp4.mp4",
     "Audio/Music/Your Turn To Die OST - 08 Even in Tragedy [EXTENDED].mp3",
     "Audio/Music/Your Turn To Die OST - 09 Kind Moment [EXTENDED].mp3",
     "Audio/Music/Your Turn To Die OST - 07 Day of Tragedy [EXTENDED].mp3",
     "Audio/Music/Your Turn To Die OST - 03 Into The Incident [EXTENDED].mp3",
     "Audio/Music/Your Turn To Die OST - 04 Major Panic [EXTENDED].mp3",
-    "Audio/Music/Your Turn To Die OST - 02 Aren't You Cheerful [EXTENDED].mp3",
     "Text/Art/covers/incredibox_game_cover.png",
     "Image/Wallpapers/Mobile/IMG_20260330_232429.jpg",
     "Text/RealRed/files/Pasted Image 20260408145304_525.png",

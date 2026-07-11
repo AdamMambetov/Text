@@ -10,6 +10,8 @@ let title = p.aliases[0]
 	.replaceAll(" / ", " - ")
 	.replaceAll("/", " ")
 	.replaceAll("\\", "")
+	.replaceAll("[", "(")
+	.replaceAll("]", ")")
 let num = arr.indexOf(p) + 1
 title = `${title} (🎙️ ${num})`
 new Notice(title, 5000)

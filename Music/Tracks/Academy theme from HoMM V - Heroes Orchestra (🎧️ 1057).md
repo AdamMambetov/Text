@@ -8,6 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Heroes Orchestra (🎙️ 772)]]"
+  - "[[Paul Romero (🎙️ 773)]]"
 ListenInSec: 262
 NumberInAlbum: 1
 related: []

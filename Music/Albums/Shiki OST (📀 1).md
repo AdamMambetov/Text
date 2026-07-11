@@ -38,6 +38,8 @@ tracklist:
 
 # Shiki OST
 
+![[shiki_ost_cover.jpg]]
+
 ## Tracklist
 
 ![[tracklist.base]]

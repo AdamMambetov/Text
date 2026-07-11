@@ -1,8 +1,8 @@
 ---
 created: 2025-12-01T00:17:00+03:00
 aliases:
-  - Anime
-  - Аниме
+  - "Anime"
+  - "Аниме"
 tracklist:
   - "[[ADAMAS - LiSA (🎧️ 1144)]]"
   - "[[1Coma - Hiroyuki Sawano (🎧️ 1631)]]"

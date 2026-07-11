@@ -1,14 +1,15 @@
 ---
 created: 2025-01-08T16:54:52+03:00
 aliases:
-  - "Danganrnopa OST - 1-19- Despair-Syndrome (2)"
-Cover: "[[_No Album Art.jpg]]"
-Year: 0
-Album: ""
+  - "Despair Syndrome (2)"
+Cover: "[[danganronpa_ost_cover.jpg]]"
+Year: 2011
+Album: "[[DANGANRONPA OST (📀 43)]]"
 CoverOf: ""
-Creators: []
+Creators:
+  - "[[Masafumi Takada (🎙️ 792)]]"
 ListenInSec: 0
-NumberInAlbum: 0
+NumberInAlbum: 19
 related: []
 source: ""
 SourceFile: "[[Danganrnopa OST - 1-19- Despair-Syndrome (2).mp3]]"

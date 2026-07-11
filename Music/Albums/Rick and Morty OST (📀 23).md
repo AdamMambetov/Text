@@ -2,6 +2,7 @@
 created: 2024-07-18T15:34:45+03:00
 aliases:
   - "Rick and Morty OST"
+Cover: "[[Rick and Morty.jpg]]"
 Year: 2018
 Creators: []
 tracklist:

@@ -13,10 +13,10 @@ Creators:
 ListenInSec: 1082
 NumberInAlbum: 0
   - "[[EASY GO (TV Size) - Kazuki Kato (🎧️ 1879)]]"
-source: ""
-SourceFile: "[[Kazuki Kato - EASY GO.mp3]]"
 related:
   - "[[EASY GO (TV Size) - Kazuki Kato (🎧️ 1879)]]"
+source: ""
+SourceFile: "[[Kazuki Kato - EASY GO.mp3]]"
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

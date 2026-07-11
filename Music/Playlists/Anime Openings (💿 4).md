@@ -1,8 +1,8 @@
 ---
 created: 2025-12-01T00:17:00+03:00
 aliases:
-  - Anime Openings
-  - Аниме опенинги
+  - "Anime Openings"
+  - "Аниме опенинги"
 tracklist:
   - "[[99 - Mob Choir (🎧️ 1452)]]"
   - "[[Hotaru no Hikari (TV Size) - Ikimonogakari (🎧️ 1692)]]"
@@ -31,7 +31,7 @@ tracklist:
   - "[[Daten - Creepy Nuts (🎧️ 1243)]]"
   - "[[Datte Atashino Hero - LiSA (🎧️ 1244)]]"
   - "[[Driver's High - L'Arc-en-Ciel (🎧️ 594)]]"
-  - "[[Black Bullet - fripSide (🎧️ 1567)]]"
+  - "[[Black Bullet - fripSide (🎧️ 1577)]]"
   - "[[Red Fraction - MELL (🎧️ 1571)]]"
   - "[[CHOIR JAIL (TV Size) - Konomi Suzuki (🎧️ 1573)]]"
   - "[[CHOIR JAIL - Konomi Suzuki (🎧️ 1572)]]"
@@ -115,7 +115,7 @@ tracklist:
   - "[[Black Catcher (TV Size) - Vickeblanka (🎧️ 976)]]"
   - "[[JUSTadICE (TV Size) (🎧️ 991)]]"
   - "[[空に歌えば (TV edit.) - amazarashi (🎧️ 968)]]"
-  - "[[asphyxia (TV Size) (🎧️ 988)]]"
+  - "[[asphyxia (TV Size) - Cö Shu Nie (🎧️ 1093)]]"
   - "[[Haruka Mirai (TV Size) - Kankaku Piero (🎧️ 1091)]]"
   - "[[Silhouette (TV Size) - KANA-BOON (🎧️ 1090)]]"
   - "[[Paradisus-Paradoxum (TV Size) - MYTH & ROID (🎧️ 1089)]]"

@@ -2,13 +2,14 @@
 created: 2025-01-08T17:20:11+03:00
 aliases:
   - "Living in a Lazy Parallel World"
-Cover: ""
-Year: 0
-Album: ""
+Cover: "[[danganronpa_v3_ost_white_cover.jpg]]"
+Year: 2017
+Album: "[[DANGANRONPA V3 OST WHITE  (📀 44)]]"
 CoverOf: ""
-Creators: []
+Creators:
+  - "[[Masafumi Takada (🎙️ 792)]]"
 ListenInSec: 1197
-NumberInAlbum: 1
+NumberInAlbum: 16
 related: []
 source: ""
 SourceFile: "[[Danganrnopa V3 OST White - 16 Living in a Lazy Parallel World.mp3]]"

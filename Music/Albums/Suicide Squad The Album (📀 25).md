@@ -3,6 +3,7 @@ created: 2024-07-18T15:34:45+03:00
 aliases:
   - "Suicide Squad The Album"
   - "Suicide Squad OST"
+Cover: "[[Suicide Squad The Album.jpg]]"
 Year: 2016
 Creators: []
 tracklist: []

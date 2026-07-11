@@ -2,6 +2,8 @@
 created: 2024-07-18T15:34:45+03:00
 aliases:
   - "Dark Souls 3 OST"
+  - "ds 3 ost"
+Cover: "[[Dark Souls 3.png]]"
 Year: 2019
 Creators:
   - "[[Yuka Kitamura (🎙️ 29)]]"

@@ -22,6 +22,8 @@ tracklist:
 
 `$=dv.header(1, dv.current().aliases[0])`
 
+![[Powerwolf - The Sacrament of Sin.jpg]]
+
 ## Tracklist
 
 ![[tracklist.base]]

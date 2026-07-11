@@ -1,7 +1,7 @@
 ---
 created: 2025-12-08T05:49:17+03:00
 aliases:
-  - YouTube
+  - "YouTube"
 tracklist:
   - "[[Departure! - Игорь Куликов (🎧️ 1254)]]"
   - "[[Бесчувственный - Everblack Melodies (🎧️ 286)]]"
@@ -55,8 +55,8 @@ tracklist:
   - "[[Du Hast - Rammstein (🎧️ 1570)]]"
   - "[[Du Hast - RADIO TAPOK (🎧️ 1569)]]"
   - "[[Secret of the Forest (🎧️ 1589)]]"
-  - "[[Black Bullet - Sati Akura (🎧️ 1566)]]"
-  - "[[Bad Apple - Lollia (🎧️ 1565)]]"
+  - "[[Black Bullet - Sati Akura (🎧️ 1576)]]"
+  - "[[Bad Apple - Lollia (🎧️ 1575)]]"
   - "[[CHOIR JAIL (TV Size) - Nika Lenina (🎧️ 1571)]]"
   - "[[CHOIR JAIL - Nika Lenina (🎧️ 1570)]]"
   - "[[Red Fraction - Nika Lenina (🎧️ 1566)]]"
@@ -74,8 +74,8 @@ tracklist:
   - "[[Trip Innocent of D - Mattyyym (🎧️ 1533)]]"
   - "[[the WORLD - Игорь Куликов (🎧️ 1333)]]"
   - "[[Врата - Radiant Records (🎧️ 1330)]]"
-  - "[[Гнилое яблоко (TV Size) - Radiant Records (🎧️ 1328)]]"
-  - "[[Гнилое яблоко - Radiant Records (🎧️ 1329)]]"
+  - "[[Гнилое яблоко (YT Size) - Radiant Records (🎧️ 647)]]"
+  - "[[Гнилое яблоко - Radiant Records (🎧️ 1336)]]"
   - "[[Carry On - Игорь Куликов (🎧️ 1327)]]"
   - "[[THE WORLD WITHOUT LOGOS - Игорь Куликов (🎧️ 1326)]]"
   - "[[Not Long For This World - Игорь Куликов (🎧️ 1323)]]"

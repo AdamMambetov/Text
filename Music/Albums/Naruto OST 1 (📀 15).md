@@ -2,6 +2,7 @@
 created: 2024-07-18T15:34:45+03:00
 aliases:
   - "Naruto OST 1"
+Cover: "[[Naruto.jpg]]"
 Year: 2003
 Creators:
   - "[[Toshio Masuda (🎙️ 559)]]"

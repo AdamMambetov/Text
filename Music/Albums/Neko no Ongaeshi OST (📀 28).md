@@ -4,6 +4,7 @@ aliases:
   - "Neko no Ongaeshi OST"
   - "The Cat Returns OST"
   - "Возвращение кота OST"
+Cover: "[[Возвращение кота.jpg]]"
 Year: 2002
 Creators: []
 tracklist: []

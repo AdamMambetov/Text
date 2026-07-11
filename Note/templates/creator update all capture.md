@@ -11,8 +11,11 @@ arr.forEach(async (p, i) => {
 		let creatorName = p.aliases[0]
 			.replaceAll("?", "")
 			.replaceAll("#", "")
-			.replaceAll("/", "")
+			.replaceAll(" / ", " - ")
+			.replaceAll("/", " ")
 			.replaceAll("\\", "")
+			.replaceAll("[", "(")
+			.replaceAll("]", ")")
 		let num = i + 1
 		let title = `${creatorName} (🎙️ ${num}).md`
 		
