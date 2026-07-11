@@ -1,0 +1,19 @@
+---
+tags:
+  - 📥
+category:
+  - "[[Маносфера]]"
+Creators: "[[@Антон Сорвачев]]"
+---
+
+
+***
+
+**Forwarded from [Адам Мамбетов](https://t.me/Adammambetov)**
+
+https://boosty.to/sorvachev/posts/21843ebf-708f-4723-8063-5dc63a7ea7b2
+
+---
+
+Дата: 20231203 | Время: 17:58:35
+

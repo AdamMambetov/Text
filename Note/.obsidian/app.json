@@ -1,0 +1,33 @@
+{
+  "mobileToolbarCommands": [
+    "editor:set-heading",
+    "editor:cut",
+    "editor:copy",
+    "editor:paste",
+    "editor:undo",
+    "editor:redo",
+    "editor:swap-line-up",
+    "editor:swap-line-down",
+    "editor:toggle-bullet-list",
+    "editor:toggle-numbered-list",
+    "editor:toggle-checklist-status",
+    "editor:indent-list",
+    "editor:unindent-list",
+    "editor:insert-table",
+    "table-editor-obsidian:center-align-column",
+    "table-editor-obsidian:right-align-column",
+    "editor:attach-file",
+    "editor:insert-link",
+    "editor:insert-callout",
+    "editor:configure-toolbar"
+  ],
+  "showInlineTitle": false,
+  "defaultViewMode": "preview",
+  "livePreview": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "_inbox",
+  "attachmentFolderPath": "files",
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "showUnsupportedFiles": true
+}

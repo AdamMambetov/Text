@@ -1,0 +1,172 @@
+---
+created: 2025-08-04T01:48:58+03:00
+meta:
+  - "[[Linux]]"
+related:
+  - https://github.com/CachyOS/linux-cachyos
+source: https://cachyos.org/
+---
+
+# CachyOS
+
+CachyOS - [[Linux]] дистрибутив на основе [[Arch Linux]]. У него много окружений рабочего стола. Я использую Hyprland.
+
+## Горячие клавиши
+
+```bash
+~/.config/hypr/config/hyperland.conf
+```
+
+ - Запуск приложений
+	 - `Super + Enter`
+		 - Терминал alacritty
+	 - `Ctrl + Shift + Escape`
+		 - Диспетчер задач sysmontask
+	 - `Super + E`
+		 - Файловый менеджер caja
+	 - `Super + Shift + E`
+		 - Emoji Toolbar
+	 - `Super + Space`
+		 - App Launcher wofi
+	 - `Print Screen`
+		 - Скриншот области
+	 - `Ctrl + Print Screen`
+		 - Скриншот окна
+	 - `Alt + Print Screen`
+		 - Скриншот экрана
+ - Управление системой
+	 - `Super + Q`
+		 - Закрыть приложение
+	 - `Super + V`
+		 - Плавающее окно
+	 - `Super + F`
+		 - На весь экран
+	 - `Super + Y`
+		 - Закрепить плавающее окно
+	 - `Super + J`
+		 - Вертикальное/горизонтальное разделение окон
+	 - `Super + LMB`
+		 - Перетаскивание окна
+	 - `Super + RMB`
+		 - Изменение размера окна
+	 - `Super + Shift + [Up, Down, Left, Right]`
+		 - Переместить окно вверх, вниз, влево, вправо
+	 - `Super + [Up, Down, Left, Right]`
+		 - Переместить фокус вверх, вниз, влево, вправо
+	 - `Super + [0-9]`
+		 - Перейти на рабочий стол 1-10
+	 - `Super + Ctrl + [0-9]`
+		 - Перейти и перенести активное окно на рабочий стол 1-10
+	 - `Super + Shift + [0-9]`
+		 - Перенести активное окно без перехода на рабочий стол 1-10
+	 - `Super + ,` или `Super + Scroll Down`
+		 - Перейти на один назад рабочий стол
+	 - `Super + .` или `Super + Scroll Up`
+		 - Перейти на один вперёд рабочий стол
+	 - `Super + /`
+		 - Перейти на прошлый рабочий стол
+	 - `Alt + Space`
+		 - Показать буфер обмена (cliphist)
+
+## Как установить CachyOS
+
+ 1. Скачать образ
+ 2. Установить на флешку с помощью [[ventoy]]
+ 3. Если возникает ошибка при запуске с флешки, выключить Secure Boot в биосе
+
+
+## Список программ
+
+- [[Obsidian]]
+- Dolphin (File Explorer)
+- Firefox Browser
+- VLC Media Player
+- Steam Store
+- Heroic Games Launcher (for Epic Games Launcher)
+- emoji toolbar
+
+## Как поставить emoji toolbar
+
+ 1. Включить _flatpak_
+```bash
+sudo pacman -S flatpak
+flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
+```
+
+ 2. Установить _emote_
+```bash
+flatpak install flathub com.tomjwatson.Emote
+```
+
+ 3. Добавить горячую клавишу в _hyperland.conf_
+```bash
+bindd = $mainMod SHIFT, E, Emoji picker, exec, flatpak run com.tomjwatson.Emote
+```
+
+Теперь при нажатии `Super + Shift + E` будет открываться Emoji Toolbar. При выборе эмодзи он добавится в буфер обмена и затем его можно будет вставить на `Ctrl + V`.
+Мне помог [видос](https://www.youtube.com/watch?v=cX0tO1zcCxg) на ютубе.
+
+
+## Как добавить монтирование диска при загрузке
+
+ 1. Выяснить UUID диска и его файловую систему
+
+```bash
+lsblk -f
+```
+ - если файловая система - _ntfs_, тогда нужно установить пакет _ntfs-3g_ и в качестве файловой системы вписать _ntfs-3g_.
+	```bash
+	sudo pacman -Syu ntfs-3g
+	```
+
+ 2. Создать папку, куда смонтируется диск
+```bash
+sudo mkdir /mnt/mydrive
+```
+ 
+ 3. Добавить диск в _fstab_
+```bash
+sudo nano /etc/fstab
+```
+в самом конце добавить
+```
+UUID=YOUR_UUID_HERE  /mnt/mydrive  YOUR_FILESYSTEM_TYPE  defaults,nofail  0  2
+```
+
+## Как установить TLauncher
+
+[Источник](https://youtu.be/C9BP546GBvw?si=Tz6X1Q4w6Qg4WbU-)
+
+1. Скачать [[TLauncher]] с [официального сайта](https://tlauncher.ru/). В версии для линукс выбираем "Показать все версии" и скачиваем "Прямой JAR"
+2. Извлечь архив
+3. `java -jar ./TLauncher.jar`
+
+## Как перезагрузить Waybar
+
+```bash
+killall waybar && hyprctl dispatch execr waybar
+```
+
+или
+
+```bash
+pkill waybar && hyprctl dispatch exec waybar
+```
+
+## Анимация матрицы в терминале (unimatrix)
+
+[Источник](https://github.com/will8211/unimatrix)
+
+### Как установить
+
+```bash
+sudo curl -L https://raw.githubusercontent.com/will8211/unimatrix/master/unimatrix.py -o /usr/local/bin/unimatrix
+sudo chmod a+rx /usr/local/bin/unimatrix
+```
+
+### Запуск
+
+```bash
+unimatrix
+```
+

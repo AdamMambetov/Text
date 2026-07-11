@@ -1,0 +1,9 @@
+{
+  "includeExtraMetadata": true,
+  "includeChannelName": true,
+  "includeChannelURL": true,
+  "includeChannelThumbnail": false,
+  "combineChannelNameAndURL": true,
+  "enableRibbonIcon": false,
+  "enableCommandPalette": true
+}

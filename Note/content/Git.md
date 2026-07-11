@@ -1,0 +1,87 @@
+---
+created: 2025-01-28T14:31:06+03:00
+aliases:
+  - git
+category:
+  - "[[Программирование]]"
+source: https://git-scm.com/
+---
+
+# Git
+
+## Команды
+
+>[!note]- Удалить коммит
+> Удалить коммит и оставить изменения
+> 1 - количество коммитов
+> ```bash
+> git reset HEAD~1
+> ```
+> 
+> Удалить коммит и изменения
+> 1 - количество коммитов
+> ```bash
+> git reset --hard HEAD~1
+> ``` 
+
+>[!note]- Отменить коммит
+> Удалить коммит и оставить изменения. `--no-edit` - отменить весь коммит, не выбирая какие файлы оставить.
+> ```bash
+> git revert HEAD --no-edit
+> ```
+
+>[!note]- Локальный репозиторий
+> Инициализация. Не знаю зачем, но чувак создал папку с суффиксом .git. Допустим мы в папке repo.git
+> ```bash
+> git --bare init
+> ```
+> 
+> Подключение
+> ```bash
+> git remote add origin С:/Path/to/repo.git
+> ```
+
+>[!note]- Сбросить удалённый репозиторий
+> ```bash
+> git remote remove origin
+> ```
+
+> [!NOTE]- Клонирование без истории коммитов
+> ```bash
+> git clone --depth=1 repo.git
+> ```
+
+> [!NOTE]- Включить отображение русских букв
+> ```bash
+> git config --global core.quotepath false
+> ```
+
+> [!NOTE]- Алиас git st
+> ```bash
+> git config --global alias.st status
+> ```
+
+
+## Ссылки
+
+ - https://www.conventionalcommits.org/en/v1.0.0/#specification
+ - https://semver.org/
+ - https://github.com/conventional-changelog/commitlint/tree/master/%40commitlint/config-conventional
+ - https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md#-commit-message-guidelines
+
+## Прочее
+
+![[photo_382406_132 - 20231203173834308.jpg]]
+
+## Ошибки
+
+> [!error]- object file .git/objects/... is empty
+> [source](https://stackoverflow.com/questions/11706215/how-can-i-fix-the-git-error-object-file-is-empty)
+> ```bash
+> git fsck --full
+> ```
+> 
+> Если появилось что-то вроде `error: object file /storage/emulated/0/_Adam/Text/.git/modules/Music/objects/9c/a690c05ba649d6952131e819d4abe3624d1e37 is empty`, то удаляем данный файл
+> ```bash
+> rm /storage/emulated/0/_Adam/Text/.git/modules/Music/objects/9c/a690c05ba649d6952131e819d4abe3624d1e37
+> ```

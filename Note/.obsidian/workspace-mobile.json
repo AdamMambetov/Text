@@ -1,0 +1,262 @@
+{
+  "main": {
+    "id": "2dd447206f42e450",
+    "type": "split",
+    "children": [
+      {
+        "id": "a22e28d63b44caca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4695da0453856af1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Termux.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Termux"
+            }
+          },
+          {
+            "id": "df9e075d0b114e88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/@Адам Мамбетов.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "@Адам Мамбетов"
+            }
+          },
+          {
+            "id": "f2382021f21d57c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_inbox/NuShell.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "NuShell"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8a526fe20c4266ad",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ac24e3007085b945",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "3672360bd8c89e48",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "Хронич",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": true,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "a1494cf04c9c7926",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "2352e99c6480d791",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "7674092efc555cf1",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8616781592464d9f",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Вода в Питере.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": true,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "d4b2252a14f991ce",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Вода в Питере.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "2dd3d6622da29e9d",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "_inbox/Вайбуем в закрытом корпконтуре с Android Studio, Continue и Ollama в локальном режиме.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "59a6f016bf420958",
+        "type": "leaf",
+        "state": {
+          "type": "bc-matrix-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "bc-matrix-view"
+        }
+      },
+      {
+        "id": "c8607c4144c7b284",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
+        }
+      }
+    ],
+    "currentTab": 2
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false,
+      "homepage:Open homepage": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "quickadd:QuickAdd": false,
+      "obsidian42-brat:BRAT": true
+    }
+  },
+  "active": "f2382021f21d57c4",
+  "lastOpenFiles": [
+    "content/@Адам Мамбетов.md",
+    "_inbox/NuShell.md",
+    "content/Termux.md",
+    "projects/maui/Music Player Maui.md",
+    "templates/move to content capture.md",
+    "templates/art template.md",
+    "periodic/daily/2025-11-09.md",
+    "content",
+    "content/цели в жизни.md",
+    "periodic/daily/2025-11-03.md",
+    "home/homepage.md",
+    "_inbox/Вайбуем в закрытом корпконтуре с Android Studio, Continue и Ollama в локальном режиме.md",
+    "home/_art base.base",
+    "projects/godot/wait one frame in godot.md",
+    "_inbox/Мамбет (прозвище) — Циклопедия.md",
+    "templates/rename art capture.md",
+    "content/Искусственный интеллект.md",
+    "_inbox/📰Вышел достаточно шустрый минималистичный редактор кода 10X.md",
+    "_inbox/📰ГЛОТАЙ ТАЛАНТЛИВО.md",
+    "content/Маносфера.md",
+    "_inbox/📰Гендерные активисты выступили против разделения археологами человеческих останков на мужские и женские.md",
+    "_inbox/📰Coca-Cola провела ребрендинг в России.md",
+    "_inbox/📰Вот такой п&здаворот квартир в природе.md",
+    "_inbox/📰В Швеции девушка столкнула незнакомого ей мужчину прямо под приближающийся поезд.md",
+    "_inbox/📰в США продаётся книга, о том как женщине буквально уничтожить жизнь любого мужчины.md",
+    "content/@Очень красивый мужчина.md",
+    "_inbox/📰В США пранкер надел футболку Уничтожим патриархат.md",
+    "_inbox/📰В общественной приемной партии Единая Россия города Прохладного КБР прошла неделя приёмов граждан.md",
+    "scripts/termux-scripts/git-sync.sh",
+    "scripts/termux-scripts/git-pull.sh",
+    "scripts/termux-scripts",
+    "templates",
+    "scripts/shikimoriParser.js",
+    "scripts/shikimoriJsonParser.js",
+    "scripts/mangas_xml.json",
+    "scripts/animes_xml.json",
+    "home/banner.jpg",
+    "files/Эшер - Рука с отражающей сферой.jpg",
+    "files/Эшер - Относительность.jpg",
+    "files/Эшер - Картинная галерея.jpg",
+    "files/Павел Коэльо 1.jpg",
+    "files/Как вычислить квадратный корень. Примеры.svg",
+    "files/s5aatzp9y6ie1.webp",
+    "files/revamped-my-last-cc-v0-se9xt5dnu9ie1.webp",
+    "files/photo_382406_9 - 20231203161559285.jpg",
+    "files/photo_382406_85 - 20231203173529742.jpg"
+  ]
+}
