@@ -67,7 +67,6 @@
     "Rating": "multitext",
     "Album": "text",
     "Creators": "multitext",
-    "excalidraw-export-internal-links": "checkbox",
-    "valid": "checkbox"
+    "excalidraw-export-internal-links": "checkbox"
   }
 }

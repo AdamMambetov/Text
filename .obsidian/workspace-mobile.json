@@ -22,17 +22,30 @@
             }
           },
           {
-            "id": "f0e81697cd377eb3",
+            "id": "8bbd05faeffbb9a0",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Music/tracks.base",
+                "viewName": "Validation"
+              },
+              "icon": "lucide-table",
+              "title": "tracks"
+            }
+          },
+          {
+            "id": "f44b520e1490a797",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Music/Tracks/Бесстрашие - Radiant Records (🎧️ 1730).md",
-                "mode": "preview",
+                "file": "Music/Tracks/DANGANRONPA (🎧️ 1508).md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Бесстрашие - Radiant Records (🎧️ 1730)"
+              "title": "DANGANRONPA (🎧️ 1508)"
             }
           }
         ],
@@ -127,7 +140,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Music/Tracks/Koko kara, Koko kara - Kana Hanazawa (🎧️ 463).md",
+            "file": "Music/tracks.base",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -186,49 +199,53 @@
     "hiddenItems": {
       "switcher:Open quick switcher": true,
       "graph:Open graph view": true,
-      "daily-notes:Open today's daily note": false,
+      "daily-notes:Open today's daily note": true,
       "command-palette:Open command palette": false,
       "bases:Create new base": true,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "cmdr:QuickAdd: смотреть позже": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": true,
+      "cmdr:QuickAdd: смотреть позже": true,
       "cmdr:Track Edit": false,
       "homepage:Open homepage": false,
       "modalforms:Edit forms": false,
       "omnisearch:Omnisearch": false,
       "quickadd:QuickAdd": false,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": true
     }
   },
-  "active": "f0e81697cd377eb3",
+  "active": "8bbd05faeffbb9a0",
   "lastOpenFiles": [
-    "Note/content/@Адам Мамбетов.md",
-    "Note/excalidraw/Music Player Scheme.excalidraw.md",
-    "Music/Creators/Kawada Mami (🎙️ 745).md",
-    "Music/Tracks/Echo - Yasuharu Takanashi (🎧️ 1812).md",
-    "Music/Creators/Yasuharu Takanashi (🎙️ 751).md",
-    "Music/Tracks/Hishoku no Sora - Kawada Mami (🎧️ 1552).md",
-    "Art/content/Пламенный взор Шаны (🇯🇵📺 644).md",
-    "Music/Tracks/Птичья песнь - Radiant Records (🎧️ 1736).md",
-    "Music/Playlists/Favorites (💿 1).md",
-    "Music/Playlists/Anime Openings (💿 4).md",
-    "Music/Playlists/Anime Endings (💿 5).md",
-    "Music/Playlists/Anime (💿 3).md",
-    "Music/Playlists/Яндекс (💿 7).md",
-    "Music/Playlists/Чайки (💿 11).md",
-    "Music/Playlists/Детство (💿 8).md",
-    "Music/Playlists/100% Шедевр (💿 6).md",
+    "Music/Tracks/DANGANRONPA (🎧️ 1508).md",
+    "Music/Albums/DANGANRONPA V3 OST BLACK (📀 45).md",
+    "Music/Albums/DANGANRONPA V3 OST WHITE  (📀 44).md",
+    "Music/Albums/DANGANRONPA OST (📀 43).md",
+    "Music/Covers/danganronpa_v3_ost_black_cover.jpg",
+    "Music/Covers/danganronpa_v3_ost_white_cover.jpg",
+    "Music/Covers/danganronpa_ost_cover.jpg",
+    "Music/Creators/Masafumi Takada (🎙️ 792).md",
     "Music/tracks.base",
-    "Music/Creators/-45 (🎙️ 6).md",
-    "Music/Albums/8 Mile OST (📀 2).md",
-    "Music/Tracks/Koko kara, Koko kara - Kana Hanazawa (🎧️ 463).md",
-    "Music/Tracks/Kodama's Theme - Mid-Air Thief (🎧️ 1888).md",
-    "Music/Tracks/Knew day - (K)NoW_NAME (🎧️ 1632).md",
-    "Music/Tracks/Kiss Me You Animal - Burn the Ballroom (🎧️ 828).md",
-    "Music/Tracks/Kiri - Monoral (🎧️ 745).md",
-    "Music/Tracks/Kira Kira Days (TV Size) - HO-KAGO TEA TIME (🎧️ 449).md",
-    "Music/Tracks/Kings & Queens - Ava Max (🎧️ 1168).md",
-    "Music/Tracks/King Of The Jungle - Shanguy (🎧️ 510).md",
+    "Music/Tracks/Kuchizuke (TV Size) - BUCK-TICK (🎧️ 1483).md",
+    "Music/Albums/Shiki OST (📀 1).md",
+    "Music/Tracks/Crimson - Yasuharu Takanashi (🎧️ 1814).md",
+    "Music/Tracks/Dry Lake - Yasuharu Takanashi (🎧️ 1813).md",
+    "Music/Tracks/Echo - Yasuharu Takanashi (🎧️ 1812).md",
+    "Music/Tracks/Youth - Yasuharu Takanashi (🎧️ 1811).md",
+    "Music/Tracks/Blue Bell - Yasuharu Takanashi (🎧️ 1810).md",
+    "Music/Tracks/Thirteen Moons - Yasuharu Takanashi (🎧️ 1809).md",
+    "Music/Tracks/Fir Trees - Yasuharu Takanashi (🎧️ 1808).md",
+    "Music/Tracks/Dead Sea - Yasuharu Takanashi (🎧️ 1807).md",
+    "Music/Tracks/Muddy Water - Yasuharu Takanashi (🎧️ 1806).md",
+    "Music/Tracks/Mosaic - Yasuharu Takanashi (🎧️ 1805).md",
+    "Music/Tracks/Epitaph - Yasuharu Takanashi (🎧️ 1804).md",
+    "Music/Tracks/Twilight - Yasuharu Takanashi (🎧️ 1803).md",
+    "Music/Tracks/13th Floor - Yasuharu Takanashi (🎧️ 1802).md",
+    "Music/Tracks/Eau de Vie - Yasuharu Takanashi (🎧️ 1801).md",
+    "Music/Tracks/Day and Night - Yasuharu Takanashi (🎧️ 1800).md",
+    "Music/Tracks/SHI-KI - Yasuharu Takanashi (🎧️ 1815).md",
+    "Music/Tracks/Requiem - Yasuharu Takanashi (🎧️ 1816).md",
+    "Music/Covers/shiki_ost_cover.jpg",
+    "Music/Tracks/Loop Version (🎧️ 1521).md",
+    "Music/Tracks/I'll Make A Man Out Of You (Russian version) (🎧️ 1452).md",
     "Text/Note/excalidraw",
     "Text/Note",
     "Text",
@@ -243,10 +260,6 @@
     "Text/Music/Covers/Onsa Media - Мы за Предков Отомстим.jpg",
     "Text/Art/covers/douluo_dalu_anime_cover.jpg",
     "Text/Art/covers/jigokuraku_2_anime_cover.jpg",
-    "Text/Art/covers/dekin_no_mogura_anime_cover.jpg",
-    "Text/RealRed/files/Pasted image 20260122181929.png",
-    "Text/RealRed/files/Pasted image 20260122181807.png",
-    "Text/RealRed/files/Pasted image 20260122181245.png",
-    "Text/RealRed/files/Pasted image 20260122181146.png"
+    "Text/Art/covers/dekin_no_mogura_anime_cover.jpg"
   ]
 }
