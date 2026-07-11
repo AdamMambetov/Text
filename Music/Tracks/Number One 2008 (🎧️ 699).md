@@ -1,0 +1,18 @@
+---
+created: 2023-12-03T18:05:32+03:00
+aliases: []
+Cover: ""
+Year: 0
+Album: ""
+CoverOf: ""
+Creators: []
+ListenInSec: 209
+NumberInAlbum: 1
+related: []
+source: ""
+SourceFile: "[[Shiro Sagisu - Number One 2008.mp3]]"
+---
+
+# Shiro Sagisu - Number One 2008
+
+![[Shiro Sagisu - Number One 2008.mp3]]

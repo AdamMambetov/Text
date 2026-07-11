@@ -1,0 +1,19 @@
+---
+created: 2024-10-08T15:46:04+03:00
+aliases:
+  - "All Eyes on You"
+Cover: ""
+Year: 2020
+Album: "[[Arcadia]]"
+CoverOf: ""
+Creators: []
+ListenInSec: 191
+NumberInAlbum: 5
+related: []
+source: ""
+SourceFile: "[[Smash Into Pieces - All Eyes On You.mp3]]"
+---
+
+# Smash Into Pieces - All Eyes On You
+
+![[Smash Into Pieces - All Eyes On You.mp3]]

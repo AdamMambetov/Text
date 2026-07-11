@@ -1,0 +1,20 @@
+---
+created: 2022-04-22T21:06:32+03:00
+aliases:
+  - "Sweet Home Alabama"
+Cover: "[[_No Album Art.jpg]]"
+Year: 2008
+Album: ""
+CoverOf: ""
+Creators:
+  - "[[Lynyrd Skynyrd (🎙️ 513)]]"
+ListenInSec: 4
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[Lynyrd Skynyrd - Sweet Home Alabama.mp3]]"
+---
+
+# Lynyrd Skynyrd - Sweet Home Alabama
+
+![[Lynyrd Skynyrd - Sweet Home Alabama.mp3]]

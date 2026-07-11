@@ -1,0 +1,19 @@
+---
+created: 2024-10-23T14:52:32+03:00
+aliases:
+  - "Rin'ne"
+Cover: ""
+Year: 0
+Album: "[[Elfen Lied OST]]"
+CoverOf: ""
+Creators: []
+ListenInSec: 113
+NumberInAlbum: 1
+related: []
+source: ""
+SourceFile: "[[Elfen Lied OST - Rin ne.mp3]]"
+---
+
+# Elfen Lied OST - Rin ne
+
+![[Elfen Lied OST - Rin ne.mp3]]

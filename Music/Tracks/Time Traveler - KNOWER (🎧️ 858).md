@@ -1,0 +1,20 @@
+---
+created: 2023-09-29T16:33:42+03:00
+aliases:
+  - "Time Traveler"
+Cover: "[[_No Album Art.jpg]]"
+Year: 2013
+Album: ""
+CoverOf: ""
+Creators:
+  - "[[KNOWER (🎙️ 352)]]"
+ListenInSec: 2200
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[KNOWER - Time Traveler.mp3]]"
+---
+
+# KNOWER - Time Traveler
+
+![[KNOWER - Time Traveler.mp3]]

@@ -1,0 +1,24 @@
+---
+created: 2023-07-09T19:12:12+03:00
+aliases:
+  - "Flyers"
+  - "Death Parade OP 1"
+  - "Смертельный парад OP 1"
+  - "Парад смерти OP 1"
+Cover: "[[_No Album Art.jpg]]"
+Year: 0
+Album: ""
+CoverOf: "[[Flyers - BRADIO (🎧️ 1198)]]"
+Creators:
+  - "[[Jackie-O (🎙️ 339)]]"
+ListenInSec: 209
+NumberInAlbum: 0
+related:
+  - "[[Flyers (TV Size) - Jackie-O (🎧️ 1880)]]"
+source: ""
+SourceFile: "[[Jackie-O - Flyers.mp3]]"
+---
+
+# Jackie-O - Flyers
+
+![[Jackie-O - Flyers.mp3]]

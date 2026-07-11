@@ -1,0 +1,50 @@
+filters:
+  and:
+    - file.folder.endsWith("Tracks")
+views:
+  - type: table
+    name: Created Group
+    groupBy:
+      property: created
+      direction: ASC
+    order:
+      - created
+      - file.name
+    sort: []
+    columnSize:
+      note.created: 178
+  - type: table
+    name: Year Group
+    groupBy:
+      property: Year
+      direction: ASC
+    order:
+      - Year
+      - file.name
+    columnSize:
+      note.Year: 93
+  - type: table
+    name: Validation
+    groupBy:
+      property: valid
+      direction: ASC
+    order:
+      - valid
+      - file.name
+    sort:
+      - property: created
+        direction: ASC
+    columnSize:
+      file.name: 983
+  - type: table
+    name: невалидные шедевры
+    filters:
+      and:
+        - valid == null
+        - or:
+            - file("Text/Music/Playlists/100% Шедевр (💿 6)").hasLink(file)
+            - file("Music/Playlists/100% Шедевр (💿 6)").hasLink(file)
+            - file("Playlists/100% Шедевр (💿 6)").hasLink(file)
+    sort:
+      - property: created
+        direction: ASC

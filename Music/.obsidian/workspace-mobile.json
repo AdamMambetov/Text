@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "ca92810504a078a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b8026cb6550df72",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21242bd0528152f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Playlists/YouTube (💿 9).md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "YouTube (💿 9)"
+            }
+          },
+          {
+            "id": "dd0cf37679663172",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "tracks.base",
+                "viewName": "valid"
+              },
+              "icon": "lucide-table",
+              "title": "tracks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5c397bf9fbe551a5",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "9fed26013a7575ca",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "754fafd2a56230a8",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "b06f82cc909a35ff",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "064ae59b742adedc",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "39d75b60fe4ffa2e",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "tracks.base",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "bc3b95eb8e4fd97c",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": true,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": true,
+      "quickadd:QuickAdd": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "dd0cf37679663172",
+  "lastOpenFiles": [
+    "Tracks/Warriors - League of Legends (🎧️ 702).md",
+    "Tracks/Warriors - League of Legends (🎧️ 167).md",
+    "Tracks/Hitorigoto (TV Size) (🎧️ 983).md",
+    "Tracks/Hitorigoto - Sati Akura (🎧️ 469).md",
+    "Tracks/Hitorigoto (🎧️ 1447).md",
+    "Playlists/YouTube (💿 9).md",
+    "Tracks/Hitorigoto (🎧️ 1448).md",
+    "Tracks/The WORLD - Игорь Куликов (🎧️ 1346).md",
+    "Tracks/Trip Innocent of D (🎧️ 1546).md",
+    "Tracks/Trip Innocent of D (🎧️ 779).md",
+    "Tracks/Lagtrain (Russian ver.) - Sati Akura (🎧️ 1379).md",
+    "Tracks/Tabi no Tochuu Full (Spice and Wolf OP) (Feat. ASMO) - Marie Bibika (🎧️ 1563).md",
+    "Tracks/Tabi No Tochu (🎧️ 1528).md",
+    "Tracks/Kina No Kaori ~Ai No Shiren!~ (🎧️ 1564).md",
+    "Tracks/Story (🎧️ 1565).md",
+    "Tracks/Story (🎧️ 1566).md",
+    "Tracks/IDOL (🎧️ 1570).md",
+    "Tracks/Main theme from HoMM V (🎧️ 1573).md",
+    "Tracks/Grass Theme From HoMM II (🎧️ 1574).md",
+    "Tracks/Find the Flame (🎧️ 1575).md",
+    "Tracks/Red Fraction (🎧️ 1580).md",
+    "Tracks/Red Fraction (🎧️ 1585).md",
+    "Tracks/Du Hast (🎧️ 1590).md",
+    "Tracks/Du Hast (🎧️ 1591).md",
+    "Tracks/Warriors Of The World (🎧️ 1592).md",
+    "Tracks/Warriors of the World (🎧️ 1593).md"
+  ]
+}

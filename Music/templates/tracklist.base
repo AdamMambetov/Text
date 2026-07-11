@@ -1,0 +1,28 @@
+formulas:
+  file name: file.asLink(aliases[0])
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder.endsWith("Tracks")
+        - or:
+            - file.properties.Creators.contains(this.file)
+            - this.tracklist.contains(file)
+        - this.file.ext != "base"
+    order:
+      - NumberInAlbum
+      - file.name
+    sort:
+      - property: NumberInAlbum
+        direction: ASC
+    columnSize:
+      note.NumberInAlbum: 38
+  - type: list
+    name: List
+    filters:
+      and:
+        - this.tracklist.contains(file)
+    order:
+      - formula.tracklist
+    indentProperties: true

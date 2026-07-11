@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "8c6cf83c6e660375",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc8c9918d77d5dea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aedd1e0f38c991ae",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "dd4bfa8c105754e1",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ce77e0495620e50d",
+    "type": "split",
+    "children": [
+      {
+        "id": "64cbf5c53b447234",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44bc209d1fe7bc87",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "edfa26eee93e839e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "[\"Artists\"]",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9f62c3f506cf1188",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ee52cbe96be08ff2",
+    "type": "split",
+    "children": [
+      {
+        "id": "b32881e80f00f361",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e5c9edb3db9cecd5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "42c6de4f5db63cb7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "3ca0c5f6a38346df",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "960feb41f4744c4f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "1b7098790a0d7428",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "edfa26eee93e839e",
+  "lastOpenFiles": [
+    "🎵Death Note OST - 03 Light's Theme.md",
+    "🎵DeadLock - A New Era.md",
+    "🎵Dead by April - Losing You.md",
+    "🎵David Guetta - Hey Mama.md",
+    "🎵Date A Live 3 OST - Nightmare Session (Kurumi Theme).md",
+    "🎵Date A Live 3 OST - I Swear (Orchestra Version).md",
+    "🎵Date A Live 2 OST - Trust in You (Orchestra Version).md",
+    "🎵Date A Live 2 OST - Hurricane (Yamai Battle Theme).md",
+    "🎵Date A Live 1 OST - Rhapsody Rage (Kurumi Battle Theme).md",
+    "🎵Date A Live 1 OST - Ground Zero.md",
+    "🎵Date A Live 1 OST - Date A Live (Orchestra Version).md",
+    "🎵Dark Souls 3 OST - 25 E3 2015 Debut Trailer.md",
+    "🎵Dark Souls 3 OST - 24 Epilogue.md",
+    "🎵Dark Souls 3 OST - 23 Secret Betrayal.md",
+    "🎵Dark Souls 3 OST - 22 Soul of Cinder.md",
+    "🎵Dark Souls 3 OST - 20 Aldritch, Devourer of Gods.md",
+    "🎵Dark Souls 3 OST - 19 Yhorm The Giant.md",
+    "🎵Dark Souls 3 OST - 18 Abyss Watchers.md",
+    "🎵Dark Souls 3 OST - 16 Ancient Wyvern.md",
+    "🎵Dark Souls 3 OST - 13 Dragonslayer Armour.md",
+    "🎵Dark Souls 3 OST - 12 Dancer of the Boreal Valley.md",
+    "🎵Dark Souls 3 OST - 06 Vordt of the Boreal Valley.md",
+    "🎵Dark Souls 3 OST - 05 Iudex Gundyr.md",
+    "🎵Dark Souls 3 OST - 04 Firelink Shrine.md",
+    "🎵Dark Souls 3 OST - 02 DARK SOULS III.md",
+    "🎵Dark Souls 3 OST - 01 Premonition.md",
+    "music/Covers/ЭРМАРИЛ - Сердце дракона.jpg",
+    "music/Covers/Эпидемия - Паладин.jpg",
+    "music/Covers/Эпидемия - Всадник из льда.jpg",
+    "music/Covers/Элизиум - Яды.jpg",
+    "music/Covers/Тима Белорусских - Твой первый диск - моя кассета.jpg",
+    "music/Covers/Ужин у вдовы.jpg",
+    "music/Covers/Театр теней - Кино.jpg",
+    "music/Covers/Тима Белорусских - Незабудка.jpg",
+    "music/Covers/Тараканы! - Страх и ненависть.jpg",
+    "music/Covers/Сметана band - Всё очень плохо.jpg",
+    "music/Albums",
+    "music/Covers",
+    "music/Artists",
+    "music"
+  ]
+}

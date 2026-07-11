@@ -1,0 +1,16 @@
+{
+  "showInlineTitle": false,
+  "trashOption": "none",
+  "defaultViewMode": "source",
+  "livePreview": false,
+  "mobileToolbarCommands": [
+    "editor:undo",
+    "editor:redo",
+    "editor:set-heading",
+    "editor:indent-list",
+    "editor:unindent-list",
+    "editor:swap-line-up",
+    "editor:swap-line-down",
+    "editor:configure-toolbar"
+  ]
+}
