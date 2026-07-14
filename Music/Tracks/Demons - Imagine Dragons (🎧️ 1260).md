@@ -1,8 +1,8 @@
 ---
 created: 2024-10-13T23:41:04+03:00
 aliases:
-  - "Demons"
-Cover: "[[Imagine Dragons - Demons.jpg]]"
+  - Demons
+Cover: "[[Imagine Dragons - Night Visions.jpg]]"
 Year: 2012
 Album: ""
 CoverOf: ""

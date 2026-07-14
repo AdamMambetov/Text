@@ -1,8 +1,8 @@
 ---
 created: 2025-01-08T19:40:15+03:00
 aliases:
-  - "At Doom's Gate"
-Cover: "[[DOOM OST - 03 At Doom's Gate.jpg]]"
+  - At Doom's Gate
+Cover: "[[DOOM OST.jpg]]"
 Year: 1993
 Album: "[[Doom]]"
 CoverOf: ""

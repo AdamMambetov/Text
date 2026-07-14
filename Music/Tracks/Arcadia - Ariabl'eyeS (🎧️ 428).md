@@ -2,7 +2,7 @@
 created: 2022-10-05T12:57:50+03:00
 aliases:
   - "Arcadia"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Ariabl'eyeS - Arcadia.jpg]]"
 Year: 2013
 Album: ""
 CoverOf: ""

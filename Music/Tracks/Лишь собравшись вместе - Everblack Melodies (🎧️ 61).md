@@ -3,7 +3,7 @@ created: 2022-04-21T03:51:18+03:00
 aliases:
   - "Лишь собравшись вместе"
   - "When We Stand Together"
-Cover: "[[Everblack Melodies - Трон.png]]"
+Cover: "[[Everblack Melodies.jpg]]"
 Year: 2021
 Album: ""
 CoverOf: "[[When We Stand Together - Nickelback (🎧️ 174)]]"

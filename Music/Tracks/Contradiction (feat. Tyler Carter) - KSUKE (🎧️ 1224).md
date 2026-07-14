@@ -1,13 +1,15 @@
 ---
 created: 2024-10-13T23:02:54+03:00
 aliases:
-  - "Contradiction (feat. Tyler Carter)"
-Cover: "[[Ksuke - Contradiction_1.jpg]]"
+  - "Contradiction"
+  - "Бог старшей школы OP 1"
+Cover: "[[Ksuke - Contradiction.jpg]]"
 Year: 2020
 Album: "[[Contradiction (feat. Tyler Carter)]]"
 CoverOf: ""
 Creators:
   - "[[KSUKE (🎙️ 354)]]"
+  - "[[Tyler Carter (🎙️ 798)]]"
 ListenInSec: 20
 NumberInAlbum: 1
 related: []

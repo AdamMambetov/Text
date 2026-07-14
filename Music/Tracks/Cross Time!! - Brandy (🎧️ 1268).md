@@ -2,7 +2,7 @@
 created: 2024-10-23T13:34:42+03:00
 aliases:
   - "Cross Time!!"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Brandy - Cross Time!!.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

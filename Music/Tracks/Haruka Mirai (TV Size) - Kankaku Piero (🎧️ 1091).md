@@ -4,7 +4,7 @@ aliases:
   - "Haruka Mirai (TV Size)"
   - "Black Clover OP 1"
   - "Чёрный клевер OP 1"
-Cover: "[[Kankaku Piero - Haruka Mirai (TV Size).jpg]]"
+Cover: "[[Kankaku Piero - HAL.jpg]]"
 Year: 2017
 Album: ""
 CoverOf: ""

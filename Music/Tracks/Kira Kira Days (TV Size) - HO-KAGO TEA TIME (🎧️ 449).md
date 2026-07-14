@@ -2,7 +2,7 @@
 created: 2022-10-05T13:28:42+03:00
 aliases:
   - "Kira Kira Days (TV Size)"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[HO-KAGO TEA TIME - Kira Kira Days.jpg]]"
 Year: 2010
 Album: ""
 CoverOf: ""

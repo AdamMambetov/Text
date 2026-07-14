@@ -2,7 +2,7 @@
 created: 2022-10-05T13:12:44+03:00
 aliases:
   - "Daisy Blue"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Kano - Daisy Blue.jpg]]"
 Year: 2017
 Album: ""
 CoverOf: ""

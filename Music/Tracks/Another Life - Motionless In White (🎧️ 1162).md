@@ -1,8 +1,8 @@
 ---
 created: 2024-10-10T22:23:10+03:00
 aliases:
-  - "Another Life"
-Cover: "[[Motionless In White - Another Life.jpg]]"
+  - Another Life
+Cover: "[[Motionless In White - Disguise.jpg]]"
 Year: 2019
 Album: "[[Disguise]]"
 CoverOf: ""

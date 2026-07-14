@@ -1,8 +1,8 @@
 ---
 created: 2026-06-11T23:50:30+03:00
 aliases:
-  - "coldrain - coldrain - VENGEANCE (Official Music Video)"
-Cover: "[[coldrain - coldrain - VENGEANCE (Official Music Video).jpg]]"
+  - coldrain - coldrain - VENGEANCE (Official Music Video)
+Cover: "[[coldrain - VENGEANCE.jpg]]"
 Year: 0
 Album: ""
 Creators: []

@@ -4,7 +4,7 @@ aliases:
   - "Styx Helix"
   - "ReZero ED 1"
   - "РеЗеро ED 1"
-Cover: "[[LeeandLie_AmaLee - Styx_Helix.jpg]]"
+Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: "[[Styx Helix - MYTH & ROID (🎧️ 1868)]]"

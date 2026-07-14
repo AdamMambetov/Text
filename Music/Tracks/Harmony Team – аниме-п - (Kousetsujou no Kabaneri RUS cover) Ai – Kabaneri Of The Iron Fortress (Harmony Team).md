@@ -1,8 +1,8 @@
 ---
 created: 2026-06-11T23:28:32+03:00
 aliases:
-  - "Harmony Team – аниме-п - [Kousetsujou no Kabaneri RUS cover] Ai – Kabaneri Of The Iron Fortress [Harmony Team]"
-Cover: "[[Harmony Team – аниме-п - [Kousetsujou no Kabaneri RUS cover] Ai – Kabaneri Of The Iron Fortress [Harmony Team].jpg]]"
+  - Harmony Team – аниме-п - [Kousetsujou no Kabaneri RUS cover] Ai – Kabaneri Of The Iron Fortress [Harmony Team]
+Cover: "[[Harmony Team - Kabaneri Of The Iron Fortress.jpg]]"
 Year: 0
 Album: ""
 Creators: []

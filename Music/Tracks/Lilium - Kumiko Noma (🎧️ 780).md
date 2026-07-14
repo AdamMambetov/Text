@@ -4,7 +4,7 @@ aliases:
   - "Lilium"
   - "Elfen Lied OP 1"
   - "Эльфийская песнь OP 1"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Elfen Lied OST.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

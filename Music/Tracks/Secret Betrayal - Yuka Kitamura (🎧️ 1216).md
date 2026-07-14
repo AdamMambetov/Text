@@ -1,8 +1,8 @@
 ---
 created: 2024-10-13T23:15:52+03:00
 aliases:
-  - "Secret Betrayal"
-Cover: "[[Dark Souls 3.png]]"
+  - Secret Betrayal
+Cover: "[[Dark Souls 3 OST.png]]"
 Year: 2019
 Album: "[[Dark Souls 3 OST (📀 10)]]"
 CoverOf: ""

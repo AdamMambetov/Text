@@ -4,7 +4,7 @@ aliases:
   - "TIT FOR TAT"
   - "Этот герой неуязвим но очень осторожен OP 1"
   - "Осторожный герой OP 1"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[MYTH & ROID - TIT FOR TAT.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

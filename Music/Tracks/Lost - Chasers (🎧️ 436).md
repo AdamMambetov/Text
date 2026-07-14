@@ -2,7 +2,7 @@
 created: 2022-10-05T13:03:36+03:00
 aliases:
   - "Lost"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Chasers - Lost.png]]"
 Year: 2013
 Album: ""
 CoverOf: ""

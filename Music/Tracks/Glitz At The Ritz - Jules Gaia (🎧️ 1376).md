@@ -1,8 +1,8 @@
 ---
 created: 2024-10-30T19:30:00+03:00
 aliases:
-  - "Glitz At The Ritz"
-Cover: "[[Jules Gaia - Glitz At The Ritz.jpg]]"
+  - Glitz At The Ritz
+Cover: "[[Jules Gaia - Razzmatazz.jpg]]"
 Year: 2016
 Album: "[[Razzmatazz]]"
 CoverOf: ""

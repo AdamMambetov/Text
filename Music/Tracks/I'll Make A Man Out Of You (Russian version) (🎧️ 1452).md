@@ -2,7 +2,7 @@
 created: 2025-01-08T00:11:00+03:00
 aliases:
   - "I'll Make A Man Out Of You (Russian version)"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Mulan.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

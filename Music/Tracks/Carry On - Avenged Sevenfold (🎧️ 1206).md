@@ -2,7 +2,7 @@
 created: 2024-10-13T22:45:36+03:00
 aliases:
   - "Carry On"
-Cover: "[[Avenged Sevenfold - Carry On.jpg]]"
+Cover: "[[Avenged Sevenfold - Black Reign.jpg]]"
 Year: 2012
 Album: "[[Black Reign - EP]]"
 CoverOf: ""

@@ -4,7 +4,7 @@ aliases:
   - "Kimi no Shiranai Monogatari (TV Size)"
   - "Bakemonogatari ED 1"
   - "Истории монстров ED 1"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[ClariS - Kimi no Shiranai Monogatari.jpg]]"
 Year: 0
 Album: ""
 CoverOf: "[[Kimi no Shiranai Monogatari (TV Size) - supercell (🎧️ 1646)]]"

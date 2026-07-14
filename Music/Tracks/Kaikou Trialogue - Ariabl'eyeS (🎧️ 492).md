@@ -2,7 +2,7 @@
 created: 2022-10-05T14:04:20+03:00
 aliases:
   - "Kaikou Trialogue"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Ariabl'eyeS - Kaikou Trialogue.jpg]]"
 Year: 2019
 Album: ""
 CoverOf: ""

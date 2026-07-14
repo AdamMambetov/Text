@@ -2,7 +2,7 @@
 created: 2022-10-05T13:33:32+03:00
 aliases:
   - "Nai Mono Nedari"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[KANA-BOON - Nai Mono Nedari.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

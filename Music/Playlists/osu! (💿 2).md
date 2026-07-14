@@ -1,7 +1,7 @@
 ---
 created: 2025-11-30T23:14:00+03:00
 aliases:
-  - "osu!"
+  - osu!
 tracklist:
   - "[[(can you) understand me - Komiya Mao (🎧️ 493)]]"
   - "[[7 -seven- (TV Size) - FLOW (🎧️ 1633)]]"
@@ -12,7 +12,7 @@ tracklist:
   - "[[Deep In The Night - Snails (🎧️ 395)]]"
   - "[[MIIRO (TV Size) (🎧️ 1446)]]"
   - "[[Friendzoned (feat. Mixie Moon & MC Offside) - S3RL (🎧️ 1381)]]"
-  - "[[King - Chandelier (🎧️ 1268)]]"
+  - "[[Chandelier - King - Cranky (🎧️ 1265)]]"
   - "[[Cross Time!! - Brandy (🎧️ 1268)]]"
   - "[[Alien Alien (Nhato Remix) - Nayutan Seijin (🎧️ 1170)]]"
   - "[[Just Awake (TV Size) - Fear and Loathing in Las Vegas (🎧️ 978)]]"
@@ -34,7 +34,7 @@ tracklist:
   - "[[A FOOL MOON NIGHT - The Koxx (🎧️ 500)]]"
   - "[[FriendZoned (osu! ver) - S3RL (🎧️ 499)]]"
   - "[[Bassdrop Freaks - Camellia (🎧️ 497)]]"
-  - "[[One Room Sugar Life - Nanawo Akari (🎧️ 495)]]"
+  - "[[One Room Sugar Life - Nanawo Akari (🎧️ 494)]]"
   - "[[Watashi no Tenshi - HoneyWorks (🎧️ 494)]]"
   - "[[Kaikou Trialogue - Ariabl'eyeS (🎧️ 492)]]"
   - "[[What Hurts The Most (Nightcore Remix) - Cascada (🎧️ 491)]]"
@@ -64,7 +64,7 @@ tracklist:
   - "[[No title - Reol (🎧️ 466)]]"
   - "[[Brain Power - NOMA (🎧️ 465)]]"
   - "[[Welcome To The Club - MT NightCore (🎧️ 464)]]"
-  - "[[Koko kara, Koko kara - Kana Hanazawa (🎧️ 463)]]"
+  - "[[Koko kara, Koko kara (TV Size) - Kana Hanazawa (🎧️ 463)]]"
   - "[[Monster (DotEXE Dubstep Remix) - Meg & Dia (🎧️ 462)]]"
   - "[[MariannE - Yooh (🎧️ 461)]]"
   - "[[White Promise - Nayugorou (🎧️ 460)]]"

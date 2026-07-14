@@ -1,8 +1,8 @@
 ---
 created: 2024-10-13T22:48:16+03:00
 aliases:
-  - "Celebrity Status"
-Cover: "[[Marianas Trench - Celebrity Status.jpg]]"
+  - Celebrity Status
+Cover: "[[Marianas Trench - Masterpiece Theatre.jpg]]"
 Year: 2009
 Album: "[[Masterpiece Theatre]]"
 CoverOf: ""

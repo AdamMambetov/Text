@@ -2,7 +2,7 @@
 created: 2026-06-11T22:59:44+03:00
 aliases:
   - "natsuki1023 - 志方あきこ　「片翼の鳥」　歌詞付"
-Cover: ""
+Cover: "[[natsuki1023 - 志方あきこ　「片翼の鳥」　歌詞付.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

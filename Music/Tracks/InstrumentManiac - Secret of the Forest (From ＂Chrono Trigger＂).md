@@ -1,8 +1,8 @@
 ---
 created: 2026-06-11T23:09:06+03:00
 aliases:
-  - "InstrumentManiac - Secret of the Forest (From ＂Chrono Trigger＂)"
-Cover: "[[InstrumentManiac - Secret of the Forest (From ＂Chrono Trigger＂).jpg]]"
+  - InstrumentManiac - Secret of the Forest (From ＂Chrono Trigger＂)
+Cover: "[[InstrumentManiac - Secret of the Forest (From 'Chrono Trigger').jpg]]"
 Year: 0
 Album: ""
 Creators: []

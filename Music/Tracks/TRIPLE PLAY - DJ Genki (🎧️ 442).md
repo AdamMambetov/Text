@@ -2,7 +2,7 @@
 created: 2022-10-05T13:13:58+03:00
 aliases:
   - "TRIPLE PLAY"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[DJ Genki, C-Show and Camellia - TRIPLE PLAY.png]]"
 Year: 0
 Album: ""
 CoverOf: ""

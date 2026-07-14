@@ -6,7 +6,7 @@ aliases:
   - "Ритм души"
   - "Angel Beats OP 1"
   - "Ангельские ритмы OP 1"
-Cover: "[[Lia - My Soul, Your Beats! (TV Size).jpg]]"
+Cover: "[[Lia - My Soul, Your Beats!.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

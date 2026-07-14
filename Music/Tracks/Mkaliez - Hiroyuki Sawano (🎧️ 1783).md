@@ -2,7 +2,7 @@
 created: 2025-10-28T21:18:20+03:00
 aliases:
   - "Mkaliez"
-Cover: "[[Hiroyuki_Sawano - Mkaliez.jpg]]"
+Cover: "[[Hiroyuki Sawano - ALDNOAH.ZERO OST.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

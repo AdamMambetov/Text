@@ -2,7 +2,7 @@
 created: 2022-10-05T13:03:02+03:00
 aliases:
   - "Racemization"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Camellia - Racemization.jpg]]"
 Year: 2015
 Album: ""
 CoverOf: ""

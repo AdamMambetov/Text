@@ -1,8 +1,8 @@
 ---
 created: 2022-04-28T17:50:46+03:00
 aliases:
-  - "Hinata vs Neji"
-Cover: "[[Naruto OST - Fooling Mode.jpg]]"
+  - Hinata vs Neji
+Cover: "[[Naruto OST 2.jpg]]"
 Year: 2004
 Album: "[[Naruto OST 2 (📀 16)]]"
 CoverOf: ""

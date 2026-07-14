@@ -1,8 +1,8 @@
 ---
 created: 2026-06-11T23:45:25+03:00
 aliases:
-  - "AVIAND - Colors ｜ Code Geass Honorary Orchestral Version"
-Cover: "[[AVIAND - Colors ｜ Code Geass Honorary Orchestral Version.jpg]]"
+  - AVIAND - Colors ｜ Code Geass Honorary Orchestral Version
+Cover: "[[AVIAND - Colors.jpg]]"
 Year: 0
 Album: ""
 Creators: []

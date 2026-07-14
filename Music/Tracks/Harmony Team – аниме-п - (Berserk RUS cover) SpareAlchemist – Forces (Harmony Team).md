@@ -1,8 +1,8 @@
 ---
 created: 2026-06-11T23:29:31+03:00
 aliases:
-  - "Harmony Team – аниме-п - [Berserk RUS cover] SpareAlchemist – Forces [Harmony Team]"
-Cover: "[[Harmony Team – аниме-п - [Berserk RUS cover] SpareAlchemist – Forces [Harmony Team].jpg]]"
+  - Harmony Team – аниме-п - [Berserk RUS cover] SpareAlchemist – Forces [Harmony Team]
+Cover: "[[Harmony Team - Forces.jpg]]"
 Year: 0
 Album: ""
 Creators: []

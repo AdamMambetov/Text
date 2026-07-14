@@ -1,10 +1,10 @@
 ---
 created: 2024-10-23T14:59:58+03:00
 aliases:
-  - "Inochi No Tabekata"
-  - "How to Eat Life"
-  - "Способ поедания жизни"
-Cover: "[[Eve - Inochi no Tabekata.jpg]]"
+  - Inochi No Tabekata
+  - How to Eat Life
+  - Способ поедания жизни
+Cover: "[[Eve - Smile.jpg]]"
 Year: 2020
 Album: ""
 CoverOf: ""

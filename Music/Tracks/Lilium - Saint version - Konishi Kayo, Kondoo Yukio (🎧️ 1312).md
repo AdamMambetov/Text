@@ -2,7 +2,7 @@
 created: 2024-10-23T14:48:50+03:00
 aliases:
   - "Lilium - Saint version"
-Cover: "[[Elfen Lied OST - Lilium (Saint_version).jpg]]"
+Cover: "[[Elfen Lied OST.jpg]]"
 Year: 2004
 Album: ""
 CoverOf: ""

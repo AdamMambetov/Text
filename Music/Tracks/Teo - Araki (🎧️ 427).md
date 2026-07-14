@@ -2,7 +2,7 @@
 created: 2022-10-05T12:57:30+03:00
 aliases:
   - "Teo"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Araki - Teo.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

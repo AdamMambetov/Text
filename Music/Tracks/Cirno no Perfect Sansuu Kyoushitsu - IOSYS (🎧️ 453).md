@@ -2,7 +2,7 @@
 created: 2022-10-05T13:30:38+03:00
 aliases:
   - "Cirno no Perfect Sansuu Kyoushitsu"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[IOSYS - Cirno no Perfect Sansuu Kyoushitsu.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

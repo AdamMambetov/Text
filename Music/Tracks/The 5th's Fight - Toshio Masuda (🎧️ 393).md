@@ -1,8 +1,8 @@
 ---
 created: 2022-04-28T17:53:42+03:00
 aliases:
-  - "The 5th's Fight"
-Cover: "[[Naruto OST - Swaying Necklace.jpg]]"
+  - The 5th's Fight
+Cover: "[[Naruto OST 3.jpg]]"
 Year: 2005
 Album: "[[Naruto OST 3 (📀 17)]]"
 CoverOf: ""

@@ -1,8 +1,8 @@
 ---
 created: 2022-04-26T19:52:38+03:00
 aliases:
-  - "This Ain't A Scene, It's An Arms Race"
-Cover: "[[Fall Out Boy - I Don't Care.jpg]]"
+  - This Ain't A Scene, It's An Arms Race
+Cover: "[[Fall Out Boy - Greatest Hits. Believers Never Die.jpg]]"
 Year: 2007
 Album: "[[Infinity on High [2007] {Fall Out Boy}]]"
 CoverOf: ""

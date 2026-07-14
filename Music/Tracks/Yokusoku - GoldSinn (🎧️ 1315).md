@@ -2,7 +2,7 @@
 created: 2024-10-23T14:54:58+03:00
 aliases:
   - "Yokusoku"
-Cover: "[[Elfen Lied OST - Yokusoku.jpg]]"
+Cover: "[[Elfen Lied OST.jpg]]"
 Year: 0
 Album: "[[Elfen Lied OST]]"
 CoverOf: ""

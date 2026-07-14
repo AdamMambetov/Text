@@ -1,8 +1,8 @@
 ---
 created: 2025-12-01T00:17:00+03:00
 aliases:
-  - "Anime"
-  - "Аниме"
+  - Anime
+  - Аниме
 tracklist:
   - "[[ADAMAS - LiSA (🎧️ 1144)]]"
   - "[[1Coma - Hiroyuki Sawano (🎧️ 1631)]]"
@@ -239,7 +239,7 @@ tracklist:
   - "[[Liar Mask - Rika Mayama (🎧️ 542)]]"
   - "[[Kiminosei - the peggies (🎧️ 519)]]"
   - "[[Tsuki no Okisa (TV Size) - Nogizaka46 (🎧️ 498)]]"
-  - "[[One Room Sugar Life - Nanawo Akari (🎧️ 495)]]"
+  - "[[One Room Sugar Life - Nanawo Akari (🎧️ 494)]]"
   - "[[Fanfare - sumika (🎧️ 486)]]"
   - "[[Maware! Setsugekka (TV Size) - Harada Hitomi (🎧️ 447)]]"
   - "[[Blade of Hope (TV Size) - sweet ARMS (🎧️ 430)]]"
@@ -368,8 +368,8 @@ tracklist:
   - "[[Shinzou wo Sasageyo! (TV Size) - Linked Horizon (🎧️ 1687)]]"
   - "[[redballoon - Yuki no Tsubasa (TV Size)]]"
   - "[[MYTH_ROID_Official_Channel - STRAIGHT_BET]]"
-  - "[[Crunchyroll - Re_-ZERO_-Starting_Life_in_Another_World-_Season_2_-_Ending_1_Memento]]"
-  - "[[nonoc_Official - Memento]]"
+  - "[[Memento (TV Size) - nonoc (🎧️ 1866)]]"
+  - "[[Memento - nonoc (🎧️ 1865)]]"
   - "[[Styx Helix - MYTH & ROID (🎧️ 1868)]]"
   - "[[Release - Suffering]]"
   - "[[NOX LUX - MYTH & ROID (🎧️ 1870)]]"

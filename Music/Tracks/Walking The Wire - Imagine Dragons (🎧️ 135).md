@@ -2,7 +2,7 @@
 created: 2022-04-22T20:56:04+03:00
 aliases:
   - "Walking The Wire"
-Cover: "[[Imagine Dragons - Evolve.png]]"
+Cover: "[[Imagine Dragons - Evolve.jpg]]"
 Year: 2017
 Album: ""
 CoverOf: ""

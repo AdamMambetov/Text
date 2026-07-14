@@ -2,7 +2,7 @@
 created: 2024-10-08T15:47:24+03:00
 aliases:
   - "Down from the Mountain"
-Cover: "[[Allen Lande - Down from the Mountain.jpg]]"
+Cover: "[[Allen Lande - The Great Divide.jpg]]"
 Year: 2014
 Album: "[[The Great Divide]]"
 CoverOf: ""

@@ -1,8 +1,8 @@
 ---
 created: 2024-10-08T15:37:46+03:00
 aliases:
-  - "ADAMAS"
-Cover: "[[LiSA - ADAMAS.jpg]]"
+  - ADAMAS
+Cover: "[[LiSA - Akai wana who loves it  ADAMAS.jpg]]"
 Year: 2018
 Album: "[[ADAMAS]]"
 CoverOf: ""

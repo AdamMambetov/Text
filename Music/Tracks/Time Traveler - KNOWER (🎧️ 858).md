@@ -2,7 +2,7 @@
 created: 2023-09-29T16:33:42+03:00
 aliases:
   - "Time Traveler"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[KNOWER - Time Traveler.jpg]]"
 Year: 2013
 Album: ""
 CoverOf: ""

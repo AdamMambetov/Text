@@ -2,7 +2,7 @@
 created: 2022-10-05T13:51:12+03:00
 aliases:
   - "Road of Resistance"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[BABYMETAL - Road of Resistance.jpg]]"
 Year: 2015
 Album: ""
 CoverOf: ""

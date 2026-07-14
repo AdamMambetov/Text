@@ -1,8 +1,8 @@
 ---
 created: 2025-10-28T22:50:10+03:00
 aliases:
-  - "lomb_TV_LombTV - Rhythm_Tengoku_-_The_Clappy_Trio"
-Cover: "[[lomb_TV_LombTV - Rhythm_Tengoku_-_The_Clappy_Trio.jpg]]"
+  - lomb_TV_LombTV - Rhythm_Tengoku_-_The_Clappy_Trio
+Cover: "[[Rhythm Tengoku - The Clappy Trio.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

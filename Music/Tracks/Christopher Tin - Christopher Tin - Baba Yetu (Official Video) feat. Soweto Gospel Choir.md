@@ -1,17 +1,17 @@
 ---
 created: 2026-06-11T23:01:18+03:00
 aliases:
-  - "Christopher Tin - Christopher Tin - Baba Yetu (Official Video) feat. Soweto Gospel Choir"
-Cover: "[[Christopher Tin - Christopher Tin - Baba Yetu (Official Video) feat. Soweto Gospel Choir.jpg]]"
+  - "Baba Yetu"
+Cover: "[[Christopher Tin - Baba Yetu.jpg]]"
 Year: 0
 Album: ""
+CoverOf: ""
 Creators: []
+ListenInSec: 0
 NumberInAlbum: 0
+related: []
 source: ""
 SourceFile: "[[Christopher Tin - Christopher Tin - Baba Yetu (Official Video) feat. Soweto Gospel Choir.mp3]]"
-related: []
-ListenInSec: 0
-CoverOf: ""
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

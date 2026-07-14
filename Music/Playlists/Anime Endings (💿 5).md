@@ -1,7 +1,7 @@
 ---
 created: 2025-11-30T23:14:00+03:00
 aliases:
-  - "Anime Endings"
+  - Anime Endings
 tracklist:
   - "[[7 -seven- (TV Size) - FLOW (🎧️ 1633)]]"
   - "[[Kimi no Shiranai Monogatari - supercell (🎧️ 1653)]]"
@@ -36,8 +36,8 @@ tracklist:
   - "[[Destiny (TV Size) - Ellie Goulding (🎧️ 1780)]]"
   - "[[Broken Youth - NICO Touches the Walls (🎧️ 1204)]]"
   - "[[redballoon - Yuki no Tsubasa (TV Size)]]"
-  - "[[Crunchyroll - Re_-ZERO_-Starting_Life_in_Another_World-_Season_2_-_Ending_1_Memento]]"
-  - "[[nonoc_Official - Memento]]"
+  - "[[Memento (TV Size) - nonoc (🎧️ 1866)]]"
+  - "[[Memento - nonoc (🎧️ 1865)]]"
   - "[[Styx Helix - MYTH & ROID (🎧️ 1868)]]"
 ---
 

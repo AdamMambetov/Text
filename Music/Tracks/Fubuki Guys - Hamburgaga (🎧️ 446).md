@@ -2,7 +2,7 @@
 created: 2022-10-05T13:26:58+03:00
 aliases:
   - "Fubuki Guys"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Hamburgaga - Fubuki Guys.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

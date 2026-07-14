@@ -2,7 +2,7 @@
 created: 2022-10-05T13:33:06+03:00
 aliases:
   - "Kessen Spirit"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[CHiCO with HoneyWorks - Kessen Spirit.png]]"
 Year: 0
 Album: ""
 CoverOf: ""

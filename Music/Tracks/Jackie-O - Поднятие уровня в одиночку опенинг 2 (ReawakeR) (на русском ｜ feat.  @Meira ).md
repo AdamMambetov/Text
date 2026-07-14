@@ -1,8 +1,8 @@
 ---
 created: 2026-06-11T22:31:07+03:00
 aliases:
-  - "Jackie-O - Поднятие уровня в одиночку опенинг 2 [ReawakeR] (на русском ｜ feat.  @Meira )"
-Cover: "[[Jackie-O - Поднятие уровня в одиночку опенинг 2 [ReawakeR] (на русском ｜ feat.  @Meira ).jpg]]"
+  - Jackie-O - Поднятие уровня в одиночку опенинг 2 [ReawakeR] (на русском ｜ feat.  @Meira )
+Cover: "[[Jackie-O - ReawakeR.jpg]]"
 Year: 0
 Album: ""
 Creators: []

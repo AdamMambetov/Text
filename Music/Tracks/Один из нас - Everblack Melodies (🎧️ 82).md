@@ -3,7 +3,7 @@ created: 2022-04-21T04:27:18+03:00
 aliases:
   - "Один из нас"
   - "You're Going Down"
-Cover: "[[Everblack Melodies - Трон.png]]"
+Cover: "[[Everblack Melodies.jpg]]"
 Year: 2021
 Album: ""
 CoverOf: "[[You're Going Down - Sick Puppies (🎧️ 226)]]"

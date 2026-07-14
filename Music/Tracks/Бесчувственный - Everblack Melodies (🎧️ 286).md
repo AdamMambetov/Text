@@ -5,7 +5,7 @@ aliases:
   - "MUKANJYO"
   - "Vinland Saga OP 1"
   - "Сага о Винланде OP 1"
-Cover: "[[Everblack Melodies - Трон.png]]"
+Cover: "[[Everblack Melodies.jpg]]"
 Year: 2020
 Album: ""
 CoverOf: "[[MUKANJYO - Survive Said the Prophet (🎧️ 338)]]"

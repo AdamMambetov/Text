@@ -4,7 +4,7 @@ aliases:
   - "Inferno"
   - "Berserk 2016 OP 1"
   - "Берсерк 2016 OP 1"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[9mm Parabellum Bullet - Inferno.jpg]]"
 Year: 2016
 Album: ""
 CoverOf: ""

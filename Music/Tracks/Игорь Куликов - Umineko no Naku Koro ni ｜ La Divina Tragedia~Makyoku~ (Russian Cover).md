@@ -1,8 +1,8 @@
 ---
 created: 2026-06-11T23:08:22+03:00
 aliases:
-  - "Игорь Куликов - Umineko no Naku Koro ni ｜ La Divina Tragedia~Makyoku~ (Russian Cover)"
-Cover: "[[Игорь Куликов - Umineko no Naku Koro ni ｜ La Divina Tragedia~Makyoku~ (Russian Cover).jpg]]"
+  - Игорь Куликов - Umineko no Naku Koro ni ｜ La Divina Tragedia~Makyoku~ (Russian Cover)
+Cover: "[[Игорь Куликов - La Divina Tragedia~Makyoku~.jpg]]"
 Year: 0
 Album: ""
 Creators: []

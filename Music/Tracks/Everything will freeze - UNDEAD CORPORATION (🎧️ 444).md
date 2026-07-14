@@ -2,7 +2,7 @@
 created: 2022-10-05T13:22:52+03:00
 aliases:
   - "Everything will freeze"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Everything will freeze.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

@@ -2,7 +2,7 @@
 created: 2022-10-05T12:58:22+03:00
 aliases:
   - "Kegare Naki Bara Juuji"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Ariabl'eyeS - Kegare Naki Bara Juuji.png]]"
 Year: 0
 Album: ""
 CoverOf: ""

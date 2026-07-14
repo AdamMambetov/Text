@@ -12,6 +12,7 @@ ListenInSec: 1324
 NumberInAlbum: 0
 related:
   - "[[Day of Tragedy (🎧️ 1624)]]"
+  - "[[Your Turn To Die OST - 23 Clown's Song (EXTENDED)]]"
 source: ""
 SourceFile: "[[Chimoruki - NONCANDIDATE (Clowns Song, Kaisou, Day of Tragedy OST Mashup).mp3]]"
 ---

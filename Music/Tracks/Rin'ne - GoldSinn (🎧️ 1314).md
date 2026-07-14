@@ -2,7 +2,7 @@
 created: 2024-10-23T14:52:32+03:00
 aliases:
   - "Rin'ne"
-Cover: "[[Elfen Lied OST - Rin ne.jpg]]"
+Cover: "[[Elfen Lied OST.jpg]]"
 Year: 0
 Album: "[[Elfen Lied OST]]"
 CoverOf: ""

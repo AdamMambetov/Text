@@ -2,7 +2,7 @@
 created: 2024-10-13T22:51:24+03:00
 aliases:
   - "Clint Eastwood"
-Cover: "[[Gorillaz - Clint Eastwood.jpg]]"
+Cover: "[[_No Album Art.jpg]]"
 Year: 2001
 Album: ""
 CoverOf: ""

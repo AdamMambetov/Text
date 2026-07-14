@@ -1,8 +1,8 @@
 ---
 created: 2026-06-11T22:38:09+03:00
 aliases:
-  - "Galileo Galilei Official - Galileo Galilei - Aoi Shiori"
-Cover: "[[Galileo Galilei Official - Galileo Galilei - Aoi Shiori.jpg]]"
+  - Galileo Galilei Official - Galileo Galilei - Aoi Shiori
+Cover: "[[Galileo Galilei - Aoi Shiori.jpg]]"
 Year: 0
 Album: ""
 Creators: []

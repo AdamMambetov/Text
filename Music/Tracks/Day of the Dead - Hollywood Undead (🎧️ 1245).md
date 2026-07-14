@@ -1,8 +1,8 @@
 ---
 created: 2024-10-13T23:30:28+03:00
 aliases:
-  - "Day of the Dead"
-Cover: "[[Hollywood Undead - Day Of The Dead_1.jpg]]"
+  - Day of the Dead
+Cover: "[[Hollywood Undead - Day Of The Dead.jpg]]"
 Year: 2014
 Album: "[[Day of the Dead]]"
 CoverOf: ""

@@ -1,8 +1,8 @@
 ---
 created: 2026-06-11T23:07:21+03:00
 aliases:
-  - "Free Flight – перевод - [Free Flight ft. Delvirta] Katayoku no Tori TV-size [Umineko no Naku Koro ni OP RUS Cover]"
-Cover: "[[Free Flight – перевод - [Free Flight ft. Delvirta] Katayoku no Tori TV-size [Umineko no Naku Koro ni OP RUS Cover].jpg]]"
+  - Free Flight – перевод - [Free Flight ft. Delvirta] Katayoku no Tori TV-size [Umineko no Naku Koro ni OP RUS Cover]
+Cover: "[[Free Flight - Katayoku no Tori (TV Size).jpg]]"
 Year: 0
 Album: ""
 Creators: []

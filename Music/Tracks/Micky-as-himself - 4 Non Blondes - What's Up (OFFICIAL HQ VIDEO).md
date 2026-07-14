@@ -1,8 +1,8 @@
 ---
 created: 2026-06-11T23:09:47+03:00
 aliases:
-  - "Micky-as-himself - 4 Non Blondes - What's Up [OFFICIAL HQ VIDEO]"
-Cover: "[[Micky-as-himself - 4 Non Blondes - What's Up [OFFICIAL HQ VIDEO].jpg]]"
+  - Micky-as-himself - 4 Non Blondes - What's Up [OFFICIAL HQ VIDEO]
+Cover: "[[4 Non Blondes - What's Up.jpg]]"
 Year: 0
 Album: ""
 Creators: []

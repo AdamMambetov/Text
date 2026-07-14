@@ -1,8 +1,8 @@
 ---
 created: 2026-06-11T23:47:42+03:00
 aliases:
-  - "Anton ＂Cloudjumper＂ Gustin - Bad Apple (feat. Un3h)"
-Cover: "[[Anton ＂Cloudjumper＂ Gustin - Bad Apple (feat. Un3h).jpg]]"
+  - Anton ＂Cloudjumper＂ Gustin - Bad Apple (feat. Un3h)
+Cover: "[[Cloudjumper - Bad Apple.jpg]]"
 Year: 0
 Album: ""
 Creators: []

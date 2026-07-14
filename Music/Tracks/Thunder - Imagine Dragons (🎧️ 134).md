@@ -2,7 +2,7 @@
 created: 2022-04-22T20:55:56+03:00
 aliases:
   - "Thunder"
-Cover: "[[Imagine Dragons - Evolve.png]]"
+Cover: "[[Imagine Dragons - Evolve.jpg]]"
 Year: 2017
 Album: ""
 CoverOf: ""

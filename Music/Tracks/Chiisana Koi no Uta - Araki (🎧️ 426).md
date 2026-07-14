@@ -2,7 +2,7 @@
 created: 2022-10-05T12:57:06+03:00
 aliases:
   - "Chiisana Koi no Uta"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Araki - Chiisana Koi no Uta (Synth Rock Cover).jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

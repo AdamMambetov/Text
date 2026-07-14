@@ -2,7 +2,7 @@
 created: 2022-10-05T13:32:18+03:00
 aliases:
   - "Responsibility Response"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Madoka Yonezawa - Responsibility Response.jpg]]"
 Year: 2016
 Album: ""
 CoverOf: ""

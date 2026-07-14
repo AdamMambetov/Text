@@ -1,8 +1,8 @@
 ---
 created: 2024-10-30T19:24:38+03:00
 aliases:
-  - "Gangsta Sexy"
-Cover: "[[Hollywood Undead - Gangsta Sexy.jpg]]"
+  - Gangsta Sexy
+Cover: "[[Hollywood Undead - American Tragedy.jpg]]"
 Year: 2011
 Album: "[[American Tragedy]]"
 CoverOf: ""

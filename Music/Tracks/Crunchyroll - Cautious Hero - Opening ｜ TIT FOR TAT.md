@@ -1,8 +1,8 @@
 ---
 created: 2026-06-11T23:39:09+03:00
 aliases:
-  - "Crunchyroll - Cautious Hero - Opening ｜ TIT FOR TAT"
-Cover: "[[Crunchyroll - Cautious Hero - Opening ｜ TIT FOR TAT.jpg]]"
+  - Crunchyroll - Cautious Hero - Opening ｜ TIT FOR TAT
+Cover: "[[MYTH & ROID - TIT FOR TAT.jpg]]"
 Year: 0
 Album: ""
 Creators: []

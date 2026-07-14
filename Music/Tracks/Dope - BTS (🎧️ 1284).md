@@ -2,7 +2,7 @@
 created: 2024-10-23T14:33:36+03:00
 aliases:
   - "Dope"
-Cover: "[[BTS - Dope.jpg]]"
+Cover: "[[BTS - The Most Beautiful Moment in Life Young Forever.jpg]]"
 Year: 2015
 Album: "[[The Most Beautiful Moment in Life: Young Forever]]"
 CoverOf: ""

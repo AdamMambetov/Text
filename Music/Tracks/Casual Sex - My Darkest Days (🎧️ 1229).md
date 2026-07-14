@@ -1,8 +1,8 @@
 ---
 created: 2024-10-13T22:47:28+03:00
 aliases:
-  - "Casual Sex"
-Cover: "[[My Darkest Days - Casual Sex.jpg]]"
+  - Casual Sex
+Cover: "[[My Darkest Days - Sick And Twisted Affair.jpg]]"
 Year: 2012
 Album: "[[Sick and Twisted Affair (Deluxe Edition)]]"
 CoverOf: ""

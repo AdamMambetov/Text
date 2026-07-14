@@ -1,8 +1,8 @@
 ---
 created: 2025-10-28T21:59:20+03:00
 aliases:
-  - "lomb_TV_LombTV - Rhythm_Tengoku_-_Remix_6"
-Cover: "[[lomb_TV_LombTV - Rhythm_Tengoku_-_Remix_6.jpg]]"
+  - lomb_TV_LombTV - Rhythm_Tengoku_-_Remix_6
+Cover: "[[Rhythm Tengoku - Remix 6.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

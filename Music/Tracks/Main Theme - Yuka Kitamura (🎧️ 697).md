@@ -1,8 +1,8 @@
 ---
 created: 2023-09-29T16:23:34+03:00
 aliases:
-  - "Main Theme"
-Cover: "[[Dark Souls 3.png]]"
+  - Main Theme
+Cover: "[[Dark Souls 3 OST.png]]"
 Year: 2019
 Album: "[[Dark Souls 3 OST (📀 10)]]"
 CoverOf: ""

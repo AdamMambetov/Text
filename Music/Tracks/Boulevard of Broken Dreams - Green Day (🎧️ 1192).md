@@ -2,7 +2,7 @@
 created: 2024-10-13T22:29:42+03:00
 aliases:
   - "Boulevard of Broken Dreams"
-Cover: "[[Green Day - Boulevard of Broken Dreams.jpg]]"
+Cover: "[[Green Day - American Idiot.jpg]]"
 Year: 2004
 Album: "[[American Idiot]]"
 CoverOf: ""

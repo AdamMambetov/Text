@@ -2,7 +2,7 @@
 created: 2022-10-05T14:03:10+03:00
 aliases:
   - "What Hurts The Most (Nightcore Remix)"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Cascada - What Hurts The Most.jpg]]"
 Year: 2008
 Album: ""
 CoverOf: ""

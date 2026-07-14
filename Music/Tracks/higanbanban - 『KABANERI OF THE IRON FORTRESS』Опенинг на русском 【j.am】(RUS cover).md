@@ -1,8 +1,8 @@
 ---
 created: 2026-06-11T23:27:57+03:00
 aliases:
-  - "higanbanban - 『KABANERI OF THE IRON FORTRESS』Опенинг на русском 【j.am】(RUS cover)"
-Cover: "[[higanbanban - 『KABANERI OF THE IRON FORTRESS』Опенинг на русском 【j.am】(RUS cover).jpg]]"
+  - higanbanban - 『KABANERI OF THE IRON FORTRESS』Опенинг на русском 【j.am】(RUS cover)
+Cover: "[[higanbanban - KABANERI OF THE IRON FORTRESS.jpg]]"
 Year: 0
 Album: ""
 Creators: []

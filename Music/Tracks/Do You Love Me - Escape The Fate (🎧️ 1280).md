@@ -1,8 +1,8 @@
 ---
 created: 2024-10-23T14:27:00+03:00
 aliases:
-  - "Do You Love Me?"
-Cover: "[[Escape The Fate - Do You Love Me.jpg]]"
+  - Do You Love Me?
+Cover: "[[Escape The Fate - I Am Human.jpg]]"
 Year: 2017
 Album: "[[I Am Human]]"
 CoverOf: ""

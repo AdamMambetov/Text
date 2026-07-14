@@ -2,7 +2,7 @@
 created: 2023-09-30T15:54:25+03:00
 aliases:
   - "Decadence"
-Cover: "[[Disturbed - Decadence.jpg]]"
+Cover: "[[Disturbed - The Thousand Fists.jpg]]"
 Year: 2005
 Album: ""
 CoverOf: ""

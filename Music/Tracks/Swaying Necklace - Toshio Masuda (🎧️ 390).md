@@ -1,8 +1,8 @@
 ---
 created: 2022-04-28T17:53:32+03:00
 aliases:
-  - "Swaying Necklace"
-Cover: "[[Naruto OST - Swaying Necklace.jpg]]"
+  - Swaying Necklace
+Cover: "[[Naruto OST 3.jpg]]"
 Year: 2005
 Album: "[[Naruto OST 3 (📀 17)]]"
 CoverOf: ""

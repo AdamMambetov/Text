@@ -1,8 +1,8 @@
 ---
 created: 2024-10-13T22:42:44+03:00
 aliases:
-  - "Can't Hold Us"
-Cover: "[[Macklemore - Can't Hold Us.jpg]]"
+  - Can't Hold Us
+Cover: "[[Macklemore - The Heist.jpg]]"
 Year: 2011
 Album: "[[The Heist]]"
 CoverOf: ""

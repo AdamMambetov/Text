@@ -1,8 +1,8 @@
 ---
 created: 2025-12-01T00:17:00+03:00
 aliases:
-  - "Anime Openings"
-  - "Аниме опенинги"
+  - Anime Openings
+  - Аниме опенинги
 tracklist:
   - "[[99 - Mob Choir (🎧️ 1452)]]"
   - "[[Hotaru no Hikari (TV Size) - Ikimonogakari (🎧️ 1692)]]"
@@ -170,7 +170,7 @@ tracklist:
   - "[[Liar Mask - Rika Mayama (🎧️ 542)]]"
   - "[[Kiminosei - the peggies (🎧️ 519)]]"
   - "[[Tsuki no Okisa (TV Size) - Nogizaka46 (🎧️ 498)]]"
-  - "[[One Room Sugar Life - Nanawo Akari (🎧️ 495)]]"
+  - "[[One Room Sugar Life - Nanawo Akari (🎧️ 494)]]"
   - "[[Blade of Hope (TV Size) - sweet ARMS (🎧️ 430)]]"
   - "[[Hikarunara (TV Size) - Goose House (🎧️ 418)]]"
   - "[[Niwaka Ame ni mo Makezu (TV Size) - NICO Touches the Walls (🎧️ 411)]]"

@@ -2,7 +2,7 @@
 created: 2022-10-05T12:56:26+03:00
 aliases:
   - "Darkish"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Aki - Darkish.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

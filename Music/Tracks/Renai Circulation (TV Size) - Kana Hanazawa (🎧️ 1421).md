@@ -3,7 +3,7 @@ created: 2025-01-07T20:37:15+03:00
 aliases:
   - "Renai Circulation (TV Size)"
   - "Bakemonogatari Opening 4"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Kana Hanazawa - Renai Circulation.jpg]]"
 Year: 2017
 Album: ""
 CoverOf: ""

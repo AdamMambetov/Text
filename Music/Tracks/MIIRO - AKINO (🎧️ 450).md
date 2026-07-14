@@ -2,7 +2,7 @@
 created: 2022-10-05T13:29:20+03:00
 aliases:
   - "MIIRO"
-Cover: "[[AKINO from bless4 - MIIRO_1.jpg]]"
+Cover: "[[AKINO from bless4 - MIIRO.jpg]]"
 Year: 2015
 Album: ""
 CoverOf: ""

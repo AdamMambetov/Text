@@ -1,8 +1,8 @@
 ---
 created: 2025-11-19T02:56:08+03:00
 aliases:
-  - "MYTH_ROID_Official_Channel - STRAIGHT_BET"
-Cover: "[[MYTH_ROID_Official_Channel - STRAIGHT_BET.jpg]]"
+  - MYTH_ROID_Official_Channel - STRAIGHT_BET
+Cover: "[[MYTH & ROID - STRAIGHT BET.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

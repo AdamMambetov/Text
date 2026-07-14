@@ -2,7 +2,7 @@
 created: 2022-10-05T14:04:48+03:00
 aliases:
   - "(can you) understand me?"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Komiya Mao - (can you) understand me.jpg]]"
 Year: 2015
 Album: ""
 CoverOf: ""

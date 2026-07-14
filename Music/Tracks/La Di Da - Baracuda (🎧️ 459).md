@@ -2,7 +2,7 @@
 created: 2022-10-05T13:35:22+03:00
 aliases:
   - "La Di Da"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Baracuda - La Di Da.png]]"
 Year: 2009
 Album: ""
 CoverOf: ""

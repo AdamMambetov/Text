@@ -1,8 +1,8 @@
 ---
 created: 2024-10-10T22:49:58+03:00
 aliases:
-  - "Bad Romance"
-Cover: "[[Jay Smith - Bad Romance.jpg]]"
+  - Bad Romance
+Cover: "[[Jay Smith - Jay Smith.jpg]]"
 Year: 2010
 Album: "[[Jay Smith]]"
 CoverOf: ""

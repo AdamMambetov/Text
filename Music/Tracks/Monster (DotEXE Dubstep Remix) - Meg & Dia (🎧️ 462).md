@@ -2,7 +2,7 @@
 created: 2022-10-05T13:38:50+03:00
 aliases:
   - "Monster (DotEXE Dubstep Remix)"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Meg & Dia - Monster (DotEXE Dubstep Remix).jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

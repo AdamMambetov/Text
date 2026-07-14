@@ -2,7 +2,7 @@
 created: 2024-10-13T22:57:32+03:00
 aliases:
   - "Comin' In Hot"
-Cover: "[[Hollywood Undead - Bullet.jpg]]"
+Cover: "[[Hollywood Undead - American Tragedy.jpg]]"
 Year: 2010
 Album: "[[American Tragedy]]"
 CoverOf: ""

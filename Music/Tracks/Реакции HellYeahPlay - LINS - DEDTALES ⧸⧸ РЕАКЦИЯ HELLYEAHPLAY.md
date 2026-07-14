@@ -1,8 +1,8 @@
 ---
 created: 2026-06-11T22:23:47+03:00
 aliases:
-  - "Реакции HellYeahPlay - LINS - DEDTALES ⧸⧸ РЕАКЦИЯ HELLYEAHPLAY"
-Cover: "[[Реакции HellYeahPlay - LINS - DEDTALES ⧸⧸ РЕАКЦИЯ HELLYEAHPLAY.jpg]]"
+  - Реакции HellYeahPlay - LINS - DEDTALES ⧸⧸ РЕАКЦИЯ HELLYEAHPLAY
+Cover: "[[LINS - DEDTALES.jpg]]"
 Year: 0
 Album: ""
 Creators: []

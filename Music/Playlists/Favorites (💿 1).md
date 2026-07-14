@@ -1,7 +1,7 @@
 ---
 created: 2025-11-23T23:02:00+03:00
 aliases:
-  - "Favorites"
+  - Favorites
 tracklist:
   - "[[Птичья песнь - Radiant Records (🎧️ 1736)]]"
   - "[[Сорванный плод - Radiant Records (🎧️ 1711)]]"
@@ -32,7 +32,7 @@ tracklist:
   - "[[Changes - Butterfly Boucher, David Bowie (🎧️ 1644)]]"
   - "[[Somebody That I Used To Know - Gotye (🎧️ 1631)]]"
   - "[[Careless Whisper - George Michael (🎧️ 1652)]]"
-  - "[[Offenshtern - Nominalo Galop (by checkoff) - checkoff (🎧️ 1657)]]"
+  - "[[Nominalo Galop (INFERNAL GALOP, NOMINALO Mashup) - checkoff (🎧️ 1654)]]"
   - "[[Bring Me To Life - Evanescence (🎧️ 1661)]]"
   - "[[Alone - Toshio Masuda (🎧️ 1640)]]"
   - "[[Because I Got High (Extended Version) - Afroman (🎧️ 1640)]]"
@@ -931,7 +931,7 @@ tracklist:
   - "[[A FOOL MOON NIGHT - The Koxx (🎧️ 500)]]"
   - "[[FriendZoned (osu! ver) - S3RL (🎧️ 499)]]"
   - "[[Tsuki no Okisa (TV Size) - Nogizaka46 (🎧️ 498)]]"
-  - "[[One Room Sugar Life - Nanawo Akari (🎧️ 495)]]"
+  - "[[One Room Sugar Life - Nanawo Akari (🎧️ 494)]]"
   - "[[Kaikou Trialogue - Ariabl'eyeS (🎧️ 492)]]"
   - "[[Valentine Eve's Nightmare - UNDEAD (🎧️ 490)]]"
   - "[[Yoru Naku Usagi wa Yume o Miru - UNDEAD CORPORATION (🎧️ 489)]]"
@@ -1313,7 +1313,7 @@ tracklist:
   - "[[lomb_TV_LombTV - Rhythm_Tengoku_-_Built_to_Scale_GBA]]"
   - "[[Release - Theatrical_Malice]]"
   - "[[Serena_-3 - ReZero_kara_Hajimeru_Isekai_Seikatsu_Ost_03_Call_of_the_Witch]]"
-  - "[[Casey Edwards - Devil Trigger - Nero's battle theme from Devil May Cry 5 [OFFICIAL AUDIO]]]"
+  - "[[Devil Trigger - Casey Edwards (🎧️ 1796)]]"
   - "[[lomb_TV_LombTV - Rhythm_Tengoku_-_Spaceball_Game]]"
   - "[[aeiouFU - Elevator_Music]]"
   - "[[lomb_TV_LombTV - Rhythm_Tengoku_-_Remix_6]]"
@@ -1391,8 +1391,8 @@ tracklist:
   - "[[TimeShift OST - 3 Drop Like Flies]]"
   - "[[Danzai no Hana ~Guilty Sky~ - Harmony Team (🎧️ 1112)]]"
   - "[[MYTH_ROID_Official_Channel - STRAIGHT_BET]]"
-  - "[[Crunchyroll - Re_-ZERO_-Starting_Life_in_Another_World-_Season_2_-_Ending_1_Memento]]"
-  - "[[nonoc_Official - Memento]]"
+  - "[[Memento (TV Size) - nonoc (🎧️ 1866)]]"
+  - "[[Memento - nonoc (🎧️ 1865)]]"
   - "[[Styx Helix - MYTH & ROID (🎧️ 1868)]]"
   - "[[Release - Operation_to_recapture]]"
   - "[[Release - Capella_Emerada_Lugunica]]"

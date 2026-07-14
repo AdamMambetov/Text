@@ -1,8 +1,8 @@
 ---
 created: 2026-06-12T00:17:26+03:00
 aliases:
-  - "Реакции HellYeahPlay - LINS - MILF BOY ⧸⧸ РЕАКЦИЯ HELLYEAHPLAY"
-Cover: "[[Реакции HellYeahPlay - LINS - MILF BOY ⧸⧸ РЕАКЦИЯ HELLYEAHPLAY.jpg]]"
+  - Реакции HellYeahPlay - LINS - MILF BOY ⧸⧸ РЕАКЦИЯ HELLYEAHPLAY
+Cover: "[[LINS - MILF BOY.jpg]]"
 Year: 0
 Album: ""
 Creators: []

@@ -1,8 +1,8 @@
 ---
 created: 2026-06-11T19:56:47+03:00
 aliases:
-  - "Реакции HellYeahPlay - HELLYEAHPLAY СЛУШАЕТ РЕМИКС ｜ LINS - СОФИЯ"
-Cover: "[[Реакции HellYeahPlay - HELLYEAHPLAY СЛУШАЕТ РЕМИКС ｜ LINS - СОФИЯ.jpg]]"
+  - Реакции HellYeahPlay - HELLYEAHPLAY СЛУШАЕТ РЕМИКС ｜ LINS - СОФИЯ
+Cover: "[[LINS - СОФИЯ.jpg]]"
 Year: 0
 Album: ""
 Creators: []

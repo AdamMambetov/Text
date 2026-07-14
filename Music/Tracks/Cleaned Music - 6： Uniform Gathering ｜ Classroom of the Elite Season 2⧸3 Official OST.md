@@ -1,8 +1,8 @@
 ---
 created: 2026-06-23T14:03:43+03:00
 aliases:
-  - "Cleaned Music - 6： Uniform Gathering ｜ Classroom of the Elite Season 2⧸3 Official OST"
-Cover: "[[Cleaned Music - 20： Smiling Shadow ｜ Classroom of the Elite Season 2⧸3 Official OST.jpg]]"
+  - Cleaned Music - 6： Uniform Gathering ｜ Classroom of the Elite Season 2⧸3 Official OST
+Cover: "[[Classroom of the Elite OST Season 2 & 3.jpg]]"
 Year: 0
 Album: ""
 Creators: []

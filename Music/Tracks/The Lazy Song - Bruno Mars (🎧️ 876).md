@@ -2,7 +2,7 @@
 created: 2023-09-29T16:24:32+03:00
 aliases:
   - "The Lazy Song"
-Cover: "[[Bruno Mars - The Lazy Song.jpg]]"
+Cover: "[[Bruno Mars - Doo-Wops & Hooligans.jpg]]"
 Year: 2010
 Album: "[[Doo-Wops & Hooligans]]"
 CoverOf: ""

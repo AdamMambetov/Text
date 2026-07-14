@@ -11,10 +11,60 @@
             "id": "9483095c63e24292",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "image",
+              "state": {
+                "file": "Music/Covers/nekodex - circles!.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "nekodex - circles!"
+            }
+          },
+          {
+            "id": "5d3f6b8ccc674931",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Music/Covers/Natsuki_Subaru - Re_-Zero_2nd_Season_OST_-_Disc_1_-_01._Signs_of_an_Oath_-2nd_Main_Theme-.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "Natsuki_Subaru - Re_-Zero_2nd_Season_OST_-_Disc_1_-_01._Signs_of_an_Oath_-2nd_Main_Theme-"
+            }
+          },
+          {
+            "id": "c2885906923a56ed",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Music/Covers/Natsuki_Subaru - Re_-Zero_2nd_Season_OST_-_Disc_1_-_05._New_Maid.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "Natsuki_Subaru - Re_-Zero_2nd_Season_OST_-_Disc_1_-_05._New_Maid"
+            }
+          },
+          {
+            "id": "ac2f8ffa7c2d7cde",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Music/Covers/Natsuki_Subaru - Re_-Zero_2nd_Season_OST_-_Disc_1_-_16._Take_Care.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "Natsuki_Subaru - Re_-Zero_2nd_Season_OST_-_Disc_1_-_16._Take_Care"
+            }
+          },
+          {
+            "id": "e3e00270f9cd5f48",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Music/Covers/Natsuki_Subaru - Re_-Zero_2nd_Season_OST_-_Disc_2_-_05._Rural_Flute.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "Natsuki_Subaru - Re_-Zero_2nd_Season_OST_-_Disc_2_-_05._Rural_Flute"
             }
           }
         ]
@@ -85,6 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Music/Tracks/99 - HaruWei (🎧️ 873).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -112,7 +163,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of 99 - HaruWei (🎧️ 873)"
             }
           }
         ]
@@ -154,6 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Music/Covers/nekodex - circles!.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +215,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for nekodex - circles!"
             }
           },
           {
@@ -172,11 +224,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Music/Tracks/99 - HaruWei (🎧️ 873).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 99 - HaruWei (🎧️ 873)"
             }
           },
           {
@@ -185,12 +238,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Music/Tracks/99 - HaruWei (🎧️ 873).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 99 - HaruWei (🎧️ 873)"
             }
           },
           {
@@ -280,32 +334,41 @@
   },
   "active": "9483095c63e24292",
   "lastOpenFiles": [
-    "Music/Tracks/Алая доля - Radiant Records (🎧️ 1280).md",
-    "Music/Tracks/АЙДА! - dai (🎧️ 984).md",
-    "Music/Tracks/Ай-яй-я - Базиль (🎧️ 45).md",
-    "Music/Tracks/Авантюрист - Виталий Чирва (🎧️ 44).md",
-    "Music/Tracks/А как известно мы народ горячий - Олег Анофриев (🎧️ 642).md",
-    "Music/Tracks/600 миллионов, струнное трио, фа-диез минор - Luck Ganriki (🎧️ 1044).md",
-    "Music/Tracks/600 миллионов (короткая). До минор, орган - Luck Ganriki (🎧️ 996).md",
-    "Music/Tracks/599 миллионов крахов - Luck Ganriki (🎧️ 1014).md",
-    "Music/Tracks/505 - Arctic Monkeys (🎧️ 774).md",
-    "Music/Tracks/200 миллионов (короткая). До минор, орган - Luck Ganriki (🎧️ 1026).md",
-    "Music/Tracks/99.9 - Mob Choir (🎧️ 1453).md",
-    "Music/Tracks/99 (TV Size) - Jonathan Young (🎧️ 1451).md",
-    "Music/Tracks/99 - Mob Choir (🎧️ 1452).md",
-    "Music/Tracks/99 - Jonathan Young (🎧️ 138).md",
-    "Music/Tracks/99 - HaruWei (🎧️ 873).md",
-    "Music/Tracks/88 - Jackie-O (🎧️ 1147).md",
-    "Music/Tracks/82nd All the Way - Sabaton (🎧️ 1138).md",
-    "Music/Tracks/21 Guns - RADIO TAPOK (🎧️ 1516).md",
-    "Music/Tracks/13th Floor - Yasuharu Takanashi (🎧️ 1802).md",
-    "Music/Tracks/7th Trigger - UVERworld (🎧️ 1258).md",
-    "Music/Tracks/7 Minutes In Heaven (Atavan Halen) - Fall Out Boy (🎧️ 1137).md",
-    "Music/Tracks/7 весов - pre-holder (🎧️ 1080).md",
-    "Music/Tracks/7 -seven- (TV Size) - FLOW (🎧️ 1633).md",
-    "Music/Tracks/6 Кадров - Александр Пушной (🎧️ 1880).md",
-    "Music/Tracks/4 октября - xaki (🎧️ 1076).md",
-    "Music/Tracks/2 типа людей - Макс Корж (🎧️ 1158).md",
+    "Music/Covers/NayutalieN - Alien Alien (Nhato Remix)_1.jpg",
+    "Music/Covers/NayutalieN - Alien Alien (Nhato Remix).jpg",
+    "Music/Covers/Natsuki_Subaru - Re_-Zero_2nd_Season_OST_-_Disc_1_-_01._Signs_of_an_Oath_-2nd_Main_Theme-.jpg",
+    "Music/Tracks/Alien Alien (Nhato Remix) - Nayutan Seijin (🎧️ 1170).md",
+    "Music/Covers/Nayugorou - White Promise.jpg",
+    "Music/Tracks/White Promise - Nayugorou (🎧️ 460).md",
+    "Music/Covers/natsuki1023 - 志方あきこ　「片翼の鳥」　歌詞付.jpg",
+    "Music/Covers/Natsuki_Subaru - Re_-Zero_2nd_Season_OST_-_Disc_2_-_05._Rural_Flute.jpg",
+    "Music/Covers/Natsuki_Subaru - Re_-Zero_2nd_Season_OST_-_Disc_1_-_16._Take_Care.jpg",
+    "Music/Covers/Natsuki_Subaru - Re_-Zero_2nd_Season_OST_-_Disc_1_-_05._New_Maid.jpg",
+    "Music/Tracks/Если в сердце живет любовь - Rikani (🎧️ 2080).md",
+    "Music/Tracks/natsuki1023 - 志方あきこ　「片翼の鳥」　歌詞付.md",
+    "Music/Covers/Native Construct - Quiet World.jpg",
+    "Music/Covers/Native Construct - Come Hell or High Water.jpg",
+    "Music/Creators/Rikani (🎙️ 801).md",
+    "Music/Tracks/One Room Sugar Life - Nanawo Akari (🎧️ 494).md",
+    "Music/Tracks/One Room Sugar Life - Nanawo Akari (🎧️ 496).md",
+    "Music/Tracks/Nirvana (TV Size) - MUCC (🎧️ 1684).md",
+    "Music/Tracks/I'll Make A Man Out Of You (Russian version) (🎧️ 1452).md",
+    "Music/Tracks/I'll Make A Man Out Of You - Disney (🎧️ 667).md",
+    "Music/Tracks/Welcome To The Club - MT NightCore (🎧️ 464).md",
+    "Music/Tracks/You're Welcome - Disney (🎧️ 668).md",
+    "Music/Tracks/Koko kara, Koko kara (TV Size) - Kana Hanazawa (🎧️ 463).md",
+    "Music/Creators/Hayami Saori (🎙️ 800).md",
+    "Music/Tracks/Monster (DotEXE Dubstep Remix) - Meg & Dia (🎧️ 462).md",
+    "Music/Tracks/Ruler (TV Size) - Mayu Maeshima (🎧️ 1781).md",
+    "Music/Tracks/Masami Mitsuoka - last cross.md",
+    "Music/Creators/Masami Mitsuoka (🎙️ 799).md",
+    "Music/Tracks/LISTEN TO THE STEREO!! - GOING UNDER GROUND (🎧️ 2051).md",
+    "Music/Tracks/Thrift Shop - Macklemore (🎧️ 159).md",
+    "Music/Tracks/Bills - LunchMoney Lewis (🎧️ 1201).md",
+    "Music/Tracks/Lucas Pope - Papers, Please： Theme Song.md",
+    "Music/Tracks/lomb_TV_LombTV - Rhythm_Tengoku_-_The_Bon_Odori.md",
+    "Music/Tracks/Linked Horizon - Jiyuu no Tsubasa (TV Size).md",
+    "Music/Tracks/Get Low - Lil Jon & The East Side Boyz & Ying Yang Twins (🎧️ 1372).md",
     "Music/Tracks/Way Up - Jaden Smith.txt",
     "Text/Note/files",
     "Text/Note",
@@ -315,16 +378,6 @@
     "Audio/Music/Your Turn To Die OST - 09 Kind Moment [EXTENDED].mp3",
     "Audio/Music/Your Turn To Die OST - 07 Day of Tragedy [EXTENDED].mp3",
     "Audio/Music/Your Turn To Die OST - 03 Into The Incident [EXTENDED].mp3",
-    "Audio/Music/Your Turn To Die OST - 04 Major Panic [EXTENDED].mp3",
-    "Text/Art/covers/incredibox_game_cover.png",
-    "Image/Wallpapers/Mobile/IMG_20260330_232429.jpg",
-    "Text/RealRed/files/Pasted Image 20260408145304_525.png",
-    "Text/RealRed/files/Pasted Image 20260408145014_903.png",
-    "Text/RealRed/files/Pasted Image 20260408143757_787.png",
-    "Text/Music/Covers/Sonny Boy OST.jpg",
-    "Text/Music/Covers/Amaranthe - Army Of The Night.jpg",
-    "Text/Music/Covers/BPM OST.jpg",
-    "Image/Album Art Changer/Jackie-O - Clattanoia.jpg",
-    "Text/Art/covers/zombeavers_film_cover.jpg"
+    "Audio/Music/Your Turn To Die OST - 04 Major Panic [EXTENDED].mp3"
   ]
 }

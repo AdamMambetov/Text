@@ -1,11 +1,11 @@
 ---
 created: 2025-08-01T14:56:58+03:00
 aliases:
-  - "Tori no Uta"
-  - "Птичья песнь"
-  - "Air OP 1"
-  - "Высь OP 1"
-Cover: "[[Lia - Tori no Uta (Full).jpg]]"
+  - Tori no Uta
+  - Птичья песнь
+  - Air OP 1
+  - Высь OP 1
+Cover: "[[Lia - Air OST.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

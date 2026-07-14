@@ -2,7 +2,7 @@
 created: 2022-10-05T14:07:26+03:00
 aliases:
   - "Watashi no Tenshi"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[HoneyWorks - Watashi no Tenshi.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

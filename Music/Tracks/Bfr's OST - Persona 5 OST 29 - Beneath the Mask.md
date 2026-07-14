@@ -1,8 +1,8 @@
 ---
 created: 2026-06-11T22:36:28+03:00
 aliases:
-  - "Bfr's OST - Persona 5 OST 29 - Beneath the Mask"
-Cover: "[[Bfr's OST - Persona 5 OST 29 - Beneath the Mask.jpg]]"
+  - Bfr's OST - Persona 5 OST 29 - Beneath the Mask
+Cover: "[[Persona 5 OST.jpg]]"
 Year: 0
 Album: ""
 Creators: []

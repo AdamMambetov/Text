@@ -1,8 +1,8 @@
 ---
 created: 2024-10-10T22:56:30+03:00
 aliases:
-  - "Believer"
-Cover: "[[Imagine Dragons - Believer.jpg]]"
+  - Believer
+Cover: "[[Imagine Dragons - Evolve.jpg]]"
 Year: 2017
 Album: "[[Evolve]]"
 CoverOf: ""

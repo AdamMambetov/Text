@@ -1,8 +1,8 @@
 ---
 created: 2025-02-03T08:22:32+03:00
 aliases:
-  - "Afternoon of Konoha"
-Cover: "[[Naruto OST - Fooling Mode.jpg]]"
+  - Afternoon of Konoha
+Cover: "[[Naruto OST 2.jpg]]"
 Year: 2004
 Album: "[[Naruto OST 2 (📀 16)]]"
 CoverOf: ""

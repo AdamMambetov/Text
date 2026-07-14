@@ -5,7 +5,7 @@ aliases:
   - "Death Parade OP 1"
   - "Смертельный парад OP 1"
   - "Парад смерти OP 1"
-Cover: "[[BRADIO - Flyers (TV Size).jpg]]"
+Cover: "[[BRADIO - Flyers.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

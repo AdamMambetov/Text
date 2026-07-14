@@ -2,7 +2,7 @@
 created: 2022-04-28T13:37:00+03:00
 aliases:
   - "Шёпот в темноте"
-Cover: "[[Everblack Melodies - Трон.png]]"
+Cover: "[[Everblack Melodies.jpg]]"
 Year: 2020
 Album: "[[Шёпот в темноте]]"
 CoverOf: ""

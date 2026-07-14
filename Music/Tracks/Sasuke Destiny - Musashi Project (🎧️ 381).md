@@ -1,8 +1,8 @@
 ---
 created: 2022-04-28T17:51:00+03:00
 aliases:
-  - "Sasuke Destiny"
-Cover: "[[Naruto OST - Fooling Mode.jpg]]"
+  - Sasuke Destiny
+Cover: "[[Naruto OST 2.jpg]]"
 Year: 2004
 Album: "[[Naruto OST 2 (📀 16)]]"
 CoverOf: ""

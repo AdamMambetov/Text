@@ -2,7 +2,7 @@
 created: 2022-10-05T13:00:42+03:00
 aliases:
   - "Imaginary Places"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Busdriver - Imaginary Places.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

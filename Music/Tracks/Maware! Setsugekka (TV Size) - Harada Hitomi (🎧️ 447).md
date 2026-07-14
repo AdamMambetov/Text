@@ -3,7 +3,7 @@ created: 2022-10-05T13:27:32+03:00
 aliases:
   - "Maware! Setsugekka (TV Size)"
   - "Несокрушимая механическая кукла ED 1"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Harada Hitomi, Kayano Ai & Ogura Yui - Maware! Setsugekka (TV Size).jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

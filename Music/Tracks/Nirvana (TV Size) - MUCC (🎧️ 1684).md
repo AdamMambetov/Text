@@ -3,7 +3,7 @@ created: 2025-06-02T23:45:18+03:00
 aliases:
   - "Nirvana (TV Size)"
   - "Я и лис из секретной службы OP 1"
-Cover: "[[MUCC - Nirvana (TV Size).jpg]]"
+Cover: "[[MUCC - Nirvana.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

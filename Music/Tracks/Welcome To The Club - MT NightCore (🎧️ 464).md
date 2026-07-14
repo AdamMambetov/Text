@@ -2,7 +2,7 @@
 created: 2022-10-05T13:40:34+03:00
 aliases:
   - "Welcome To The Club"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[MT NightCore - Welcome To The Club.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

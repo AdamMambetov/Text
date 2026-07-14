@@ -4,7 +4,7 @@ aliases:
   - "Connect (TV Size)"
   - "Madoka OP 1"
   - "Мадока OP 1"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[ClariS - Connect.jpg]]"
 Year: 2011
 Album: ""
 CoverOf: ""

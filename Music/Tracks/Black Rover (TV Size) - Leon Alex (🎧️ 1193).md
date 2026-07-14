@@ -4,7 +4,7 @@ aliases:
   - "Black Rover (TV Size)"
   - "Black Clover OP 3"
   - "Чёрный клевер OP 3"
-Cover: "[[Leon Alex - Black Rover.jpg]]"
+Cover: "[[Leon Alex - Black Clover Guitar Collection.jpg]]"
 Year: 2021
 Album: ""
 CoverOf: "[[Black Rover (TV Size) - Vickeblanka (🎧️ 1073)]]"

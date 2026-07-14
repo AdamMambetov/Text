@@ -2,7 +2,7 @@
 created: 2023-09-29T16:29:24+03:00
 aliases:
   - "You're Welcome"
-Cover: "[[Moana OST - You're Welcome.jpg]]"
+Cover: "[[_No Album Art.jpg]]"
 Year: 2016
 Album: "[[Moana]]"
 CoverOf: ""

@@ -1,8 +1,8 @@
 ---
 created: 2024-10-13T23:13:46+03:00
 aliases:
-  - "Dance, Dance"
-Cover: "[[Fall Out Boy - Dance, Dance.jpg]]"
+  - Dance, Dance
+Cover: "[[Fall Out Boy - From Under the Cork Tree.jpg]]"
 Year: 2005
 Album: "[[From Under the Cork Tree]]"
 CoverOf: ""
