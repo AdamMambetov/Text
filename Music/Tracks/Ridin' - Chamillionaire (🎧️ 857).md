@@ -2,7 +2,7 @@
 created: 2023-09-29T16:24:15+03:00
 aliases:
   - "Ridin'"
-Cover: ""
+Cover: "[[Chamillionaire - The Sound of Revenge.jpg]]"
 Year: 2005
 Album: "[[The Sound of Revenge]]"
 CoverOf: ""

@@ -2,7 +2,7 @@
 created: 2024-10-05T15:41:26+03:00
 aliases:
   - "Red Swan"
-Cover: ""
+Cover: "[[Jackie-O - Red Swan.jpg]]"
 Year: 2019
 Album: "[[Red Swan]]"
 CoverOf: ""

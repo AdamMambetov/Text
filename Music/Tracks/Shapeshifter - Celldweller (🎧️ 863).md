@@ -2,7 +2,7 @@
 created: 2023-09-29T16:24:20+03:00
 aliases:
   - "Shapeshifter"
-Cover: ""
+Cover: "[[Celldweller - Celldweller.jpg]]"
 Year: 2003
 Album: "[[Celldweller]]"
 CoverOf: ""

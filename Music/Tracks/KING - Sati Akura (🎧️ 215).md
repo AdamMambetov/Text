@@ -2,7 +2,7 @@
 created: 2022-04-22T21:31:04+03:00
 aliases:
   - "KING"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Sati Akura - KING.jpg]]"
 Year: 2021
 Album: ""
 CoverOf: "[[KING - Kanaria]]"

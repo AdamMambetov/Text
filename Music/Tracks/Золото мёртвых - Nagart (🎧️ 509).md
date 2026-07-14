@@ -2,7 +2,7 @@
 created: 2022-12-09T06:55:04+03:00
 aliases:
   - "Золото мёртвых"
-Cover: ""
+Cover: "[[Nagart - Вы это слышали.jpg]]"
 Year: 2021
 Album: "[[Вы это слышали?]]"
 CoverOf: ""

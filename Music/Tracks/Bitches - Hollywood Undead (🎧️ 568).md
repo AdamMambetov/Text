@@ -2,7 +2,7 @@
 created: 2022-12-20T23:36:58+03:00
 aliases:
   - "Bitches"
-Cover: ""
+Cover: "[[Hollywood Undead - Swan Songs.jpg]]"
 Year: 2008
 Album: "[[Swan Songs]]"
 CoverOf: ""

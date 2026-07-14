@@ -2,7 +2,7 @@
 created: 2024-10-08T15:51:06+03:00
 aliases:
   - "Wake Me Up When September Ends"
-Cover: ""
+Cover: "[[Green Day - American Idiot.jpg]]"
 Year: 2004
 Album: "[[American Idiot]]"
 CoverOf: ""

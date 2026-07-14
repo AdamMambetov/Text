@@ -2,7 +2,7 @@
 created: 2022-10-05T14:08:44+03:00
 aliases:
   - "One Room Sugar Life"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Nanawo Akari - One Room Sugar Life_1.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

@@ -4,7 +4,7 @@ aliases:
   - "Again"
   - "Fullmetal Alchemist Brotherhood OP 1"
   - "Стальной алхимик Братство OP 1"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[YUI - Again.jpg]]"
 Year: 2009
 Album: ""
 CoverOf: ""

@@ -2,7 +2,7 @@
 created: 2024-10-23T14:58:30+03:00
 aliases:
   - "Enemy"
-Cover: ""
+Cover: "[[Imagine Dragons - Mercury.jpg]]"
 Year: 2021
 Album: "[[Mercury - Act 1]]"
 CoverOf: ""

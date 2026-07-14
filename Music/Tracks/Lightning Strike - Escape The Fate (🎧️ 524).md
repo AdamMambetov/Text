@@ -2,7 +2,7 @@
 created: 2022-12-20T10:42:28+03:00
 aliases:
   - "Lightning Strike"
-Cover: ""
+Cover: "[[Escape The Fate - Chemical Warfare.jpg]]"
 Year: 2021
 Album: "[[Chemical Warfare]]"
 CoverOf: ""

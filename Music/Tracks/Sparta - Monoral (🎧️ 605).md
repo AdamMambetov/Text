@@ -2,7 +2,7 @@
 created: 2023-07-09T18:50:24+03:00
 aliases:
   - "Sparta"
-Cover: ""
+Cover: "[[Monoral - Sparta.jpg]]"
 Year: 2007
 Album: "[[Turbulence (International)]]"
 CoverOf: ""

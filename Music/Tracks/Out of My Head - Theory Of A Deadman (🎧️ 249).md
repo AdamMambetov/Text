@@ -2,7 +2,7 @@
 created: 2022-04-22T21:44:00+03:00
 aliases:
   - "Out of My Head"
-Cover: ""
+Cover: "[[Theory Of A Deadman - The Truth Is.jpg]]"
 Year: 2011
 Album: "[[The Truth Is... [2011] {Theory Of A Deadman}]]"
 CoverOf: ""

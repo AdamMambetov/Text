@@ -2,7 +2,7 @@
 created: 2024-10-13T23:14:48+03:00
 aliases:
   - "Dancin (Krono Remix) feat. Luvli"
-Cover: ""
+Cover: "[[Krono - Dancin.jpg]]"
 Year: 2014
 Album: "[[Dancin (Krono Remix) [feat. Luvli]]]"
 CoverOf: ""

@@ -2,7 +2,7 @@
 created: 2025-01-08T19:24:01+03:00
 aliases:
   - "Bad Piggies"
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: "[[Bad Piggies (🎧️ 1568)]]"

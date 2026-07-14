@@ -2,7 +2,7 @@
 created: 2024-10-10T22:54:02+03:00
 aliases:
   - "Be Somebody"
-Cover: ""
+Cover: "[[Thousand Foot Krutch - Be Somebody.jpg]]"
 Year: 2012
 Album: "[[The End Is Where We Begin]]"
 CoverOf: ""

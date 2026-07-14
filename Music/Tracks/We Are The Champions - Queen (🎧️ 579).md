@@ -2,7 +2,7 @@
 created: 2023-03-31T17:02:50+03:00
 aliases:
   - "We Are The Champions"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Queen.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

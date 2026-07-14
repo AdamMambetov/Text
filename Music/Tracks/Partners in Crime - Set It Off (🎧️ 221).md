@@ -2,7 +2,7 @@
 created: 2022-04-22T21:33:06+03:00
 aliases:
   - "Partners in Crime"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Set It Off - Cinematics.jpg]]"
 Year: 2013
 Album: ""
 CoverOf: ""

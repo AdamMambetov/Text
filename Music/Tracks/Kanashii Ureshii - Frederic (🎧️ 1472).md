@@ -16,7 +16,6 @@ related:
   - "[[Kanashii Ureshii (TV Size) - Frederic]]"
 source: ""
 SourceFile: "[[Frederic - Kanashii Ureshii.mp3]]"
-undefinedCover: "[[_No Album Art.jpg]]"
 ---
 
 # Frederic - Kanashii Ureshii

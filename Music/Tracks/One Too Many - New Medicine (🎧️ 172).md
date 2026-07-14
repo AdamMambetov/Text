@@ -2,7 +2,7 @@
 created: 2022-04-22T21:13:18+03:00
 aliases:
   - "One Too Many"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[New Medicine - Breaking The Model.jpg]]"
 Year: 2014
 Album: ""
 CoverOf: ""

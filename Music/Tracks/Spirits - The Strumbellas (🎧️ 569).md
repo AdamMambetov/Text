@@ -2,7 +2,7 @@
 created: 2022-12-21T00:07:28+03:00
 aliases:
   - "Spirits"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[The Strumbellas - Hope.jpg]]"
 Year: 2016
 Album: "[[Hope]]"
 CoverOf: ""

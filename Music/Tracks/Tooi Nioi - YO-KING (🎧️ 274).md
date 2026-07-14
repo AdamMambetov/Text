@@ -2,7 +2,7 @@
 created: 2022-04-22T21:52:48+03:00
 aliases:
   - "Tooi Nioi"
-Cover: ""
+Cover: "[[YO-KING - Tooi Nioi.jpg]]"
 Year: 2013
 Album: "[[Tooi Nioi [2013] {YO-KING}]]"
 CoverOf: ""

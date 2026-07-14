@@ -2,7 +2,7 @@
 created: 2022-04-22T21:20:10+03:00
 aliases:
   - "She's Loud"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Pigeon John - She's Loud.jpg]]"
 Year: 2016
 Album: ""
 CoverOf: ""

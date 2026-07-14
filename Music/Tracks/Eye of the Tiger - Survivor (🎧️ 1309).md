@@ -2,7 +2,7 @@
 created: 2024-10-23T15:10:26+03:00
 aliases:
   - "Eye of the Tiger"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Survivor - Eye of the Tiger.jpg]]"
 Year: 1982
 Album: "[[Eye of the Tiger]]"
 CoverOf: ""

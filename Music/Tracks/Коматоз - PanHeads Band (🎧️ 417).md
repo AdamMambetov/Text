@@ -2,7 +2,7 @@
 created: 2022-05-16T07:55:00+03:00
 aliases:
   - "Коматоз"
-Cover: ""
+Cover: "[[PANHEADS BAND - Коматоз_1.jpg]]"
 Year: 0
 Album: ""
 CoverOf: "[[Comatose - Skillet (🎧️ 1217)]]"

@@ -2,7 +2,7 @@
 created: 2023-09-29T16:23:03+03:00
 aliases:
   - "Drop Dead Cynical"
-Cover: ""
+Cover: "[[Amaranthe - Massive Addictive.jpg]]"
 Year: 2014
 Album: "[[Massive Addictive]]"
 CoverOf: ""

@@ -6,7 +6,7 @@ aliases:
   - "Domekano 1 OP"
   - "Домекано 1 OP"
   - "Crying for Rain"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Sati Akura - Kawaki wo Ameku.jpg]]"
 Year: 2021
 Album: ""
 CoverOf: "[[Kawaki wo Ameku - Minami (🎧️ 8)]]"

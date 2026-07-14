@@ -2,7 +2,7 @@
 created: 2023-09-29T16:25:17+03:00
 aliases:
   - "Я знаю тысячи миров"
-Cover: ""
+Cover: "[[AIRES - Цена войны.jpg]]"
 Year: 2017
 Album: "[[Цена войны]]"
 CoverOf: ""

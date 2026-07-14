@@ -2,7 +2,7 @@
 created: 2022-04-22T21:00:46+03:00
 aliases:
   - "Wavin'  Flag"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[K'NAAN - Troubadour.jpg]]"
 Year: 2010
 Album: ""
 CoverOf: ""

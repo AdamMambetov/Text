@@ -2,7 +2,7 @@
 created: 2023-09-29T16:24:02+03:00
 aliases:
   - "Only Man"
-Cover: ""
+Cover: "[[Audio Bullys - Higher Than the Eiffel.jpg]]"
 Year: 2010
 Album: "[[Higher Than the Eiffel]]"
 CoverOf: ""

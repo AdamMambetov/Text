@@ -2,7 +2,7 @@
 created: 2022-04-22T21:39:10+03:00
 aliases:
   - "Walk Like an Egyptian"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[The Bangles - We Are The '80s.jpg]]"
 Year: 2006
 Album: "[[We Are The '80s [2006] {The Bangles}]]"
 CoverOf: ""

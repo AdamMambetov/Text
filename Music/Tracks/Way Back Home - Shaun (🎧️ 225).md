@@ -2,7 +2,7 @@
 created: 2022-04-22T21:33:50+03:00
 aliases:
   - "Way Back Home"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Shaun - Take.jpg]]"
 Year: 2018
 Album: ""
 CoverOf: ""

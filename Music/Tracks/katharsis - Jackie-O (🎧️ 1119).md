@@ -4,7 +4,7 @@ aliases:
   - "katharsis"
   - "Tokyo Ghoul OP 4"
   - "Токийский гуль OP 4"
-Cover: ""
+Cover: "[[Jackie-O - Katharsis.jpg]]"
 Year: 2019
 Album: "[[Katharsis]]"
 CoverOf: ""

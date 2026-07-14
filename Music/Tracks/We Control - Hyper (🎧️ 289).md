@@ -2,7 +2,7 @@
 created: 2022-04-23T01:55:08+03:00
 aliases:
   - "We Control"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Hyper - We Control.jpg]]"
 Year: 2006
 Album: "[[We Control [2006] {Hyper}]]"
 CoverOf: ""

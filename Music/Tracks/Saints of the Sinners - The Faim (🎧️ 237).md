@@ -2,7 +2,7 @@
 created: 2022-04-22T21:39:46+03:00
 aliases:
   - "Saints of the Sinners"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[The Faim - Saints of the Sinners.jpg]]"
 Year: 2018
 Album: "[[Saints of the Sinners [2018] {The Faim}]]"
 CoverOf: ""

@@ -3,7 +3,7 @@ created: 2025-07-31T15:52:12+03:00
 aliases:
   - "Vitality"
   - "Helltaker"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Mittsies - Vitality.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

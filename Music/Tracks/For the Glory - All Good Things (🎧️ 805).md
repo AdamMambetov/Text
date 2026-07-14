@@ -2,7 +2,7 @@
 created: 2023-09-29T16:22:57+03:00
 aliases:
   - "For the Glory"
-Cover: ""
+Cover: "[[All Good Things - Machines.jpg]]"
 Year: 2017
 Album: "[[Machines]]"
 CoverOf: ""

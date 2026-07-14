@@ -2,7 +2,7 @@
 created: 2022-04-22T21:11:52+03:00
 aliases:
   - "The Sharpest Lives"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[My Chemical Romance - The Black Parade  Living with Ghosts.jpg]]"
 Year: 2016
 Album: ""
 CoverOf: ""

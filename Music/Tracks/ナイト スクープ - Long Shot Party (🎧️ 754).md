@@ -2,7 +2,7 @@
 created: 2024-06-14T12:53:21+03:00
 aliases:
   - "ナイト スクープ"
-Cover: ""
+Cover: "[[Long Shot Party - NIGHT SKOOP.jpg]]"
 Year: 2008
 Album: "[[distance]]"
 CoverOf: ""

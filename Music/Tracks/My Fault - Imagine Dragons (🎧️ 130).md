@@ -2,7 +2,7 @@
 created: 2022-04-22T20:55:14+03:00
 aliases:
   - "My Fault"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Imagine Dragons - Night Visions.jpg]]"
 Year: 2013
 Album: ""
 CoverOf: ""

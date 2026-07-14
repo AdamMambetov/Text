@@ -2,7 +2,7 @@
 created: 2025-10-28T22:15:00+03:00
 aliases:
   - "lomb_TV_LombTV - Rhythm_Tengoku_-_Cosmo_Dance_Cosmic_Dance"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[lomb_TV_LombTV - Rhythm_Tengoku_-_Cosmo_Dance_Cosmic_Dance.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

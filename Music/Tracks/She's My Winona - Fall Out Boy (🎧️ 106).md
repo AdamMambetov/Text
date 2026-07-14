@@ -2,7 +2,7 @@
 created: 2022-04-22T20:43:36+03:00
 aliases:
   - "She's My Winona"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Fall Out Boy - Folie a Deux.png]]"
 Year: 2008
 Album: ""
 CoverOf: ""

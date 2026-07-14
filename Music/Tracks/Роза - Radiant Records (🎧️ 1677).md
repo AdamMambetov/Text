@@ -3,7 +3,7 @@ created: 2025-06-30T08:08:15+03:00
 aliases:
   - "Роза"
   - "Rose"
-Cover: ""
+Cover: "[[Radiant Records - Плач цикад.jpg]]"
 Year: 0
 Album: ""
 CoverOf: "[[Rose - Tsuchiya Anna]]"

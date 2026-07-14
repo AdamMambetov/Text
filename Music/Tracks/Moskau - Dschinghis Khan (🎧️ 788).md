@@ -2,7 +2,7 @@
 created: 2023-09-29T16:23:55+03:00
 aliases:
   - "Moskau"
-Cover: ""
+Cover: "[[Dschinghis Khan - Dschinghis Khan.png]]"
 Year: 1979
 Album: "[[Dschinghis Khan]]"
 CoverOf: ""

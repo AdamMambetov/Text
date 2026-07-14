@@ -2,7 +2,7 @@
 created: 2023-09-29T16:25:04+03:00
 aliases:
   - "Дубак"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Anacondaz - Я тебя никогда.jpg]]"
 Year: 2018
 Album: "[[Я тебя никогда]]"
 CoverOf: ""

@@ -4,7 +4,7 @@ aliases:
   - "Kaikai Kitan"
   - "Jujutsu Kaisen OP 1"
   - "Магическая битва OP 1"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Eve - Kaikai Kitan.jpg]]"
 Year: 2020
 Album: ""
 CoverOf: ""

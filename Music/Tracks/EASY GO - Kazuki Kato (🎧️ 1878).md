@@ -4,7 +4,7 @@ aliases:
   - "EASY GO"
   - "Katekyou Hitman Reborn OP 6"
   - "Репетитор-киллер Реборн OP 6"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Kazuki Kato - EASY GO.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

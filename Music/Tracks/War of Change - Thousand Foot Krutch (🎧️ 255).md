@@ -2,7 +2,7 @@
 created: 2022-04-22T21:46:28+03:00
 aliases:
   - "War of Change"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Thousand Foot Krutch - The End Is Where We Begin.jpg]]"
 Year: 2012
 Album: ""
 CoverOf: ""

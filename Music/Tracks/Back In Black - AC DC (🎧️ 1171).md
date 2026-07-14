@@ -2,7 +2,7 @@
 created: 2024-10-10T22:48:28+03:00
 aliases:
   - "Back In Black"
-Cover: ""
+Cover: "[[AC DC - Back in Black.jpg]]"
 Year: 1980
 Album: "[[Back In Black]]"
 CoverOf: ""

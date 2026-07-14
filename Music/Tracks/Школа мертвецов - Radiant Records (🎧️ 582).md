@@ -3,7 +3,7 @@ created: 2023-07-09T17:53:10+03:00
 aliases:
   - "Школа мертвецов"
   - "Highschool of the Dead"
-Cover: ""
+Cover: "[[Radiant Records - Магия_1.jpg]]"
 Year: 0
 Album: ""
 CoverOf: "[[Highschool of the Dead - The Akeboshi Rockets (🎧️ 1449)]]"

@@ -2,7 +2,7 @@
 created: 2022-04-22T20:45:58+03:00
 aliases:
   - "Remember We Die"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Gemini Syndrome - Memento Mori.jpg]]"
 Year: 2016
 Album: ""
 CoverOf: ""

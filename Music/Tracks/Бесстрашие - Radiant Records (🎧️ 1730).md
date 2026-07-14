@@ -5,7 +5,7 @@ aliases:
   - "Bravely You"
   - "Charlotte OP 1"
   - "Шарлотта OP 1"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Radiant Records - Ты принёс мечту.jpg]]"
 Year: 0
 Album: ""
 CoverOf: "[[Bravely You - Lia (🎧️ 1753)]]"

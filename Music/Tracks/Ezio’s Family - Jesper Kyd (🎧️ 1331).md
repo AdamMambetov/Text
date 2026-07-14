@@ -2,7 +2,7 @@
 created: 2024-10-30T19:10:08+03:00
 aliases:
   - "Ezio’s Family"
-Cover: ""
+Cover: "[[Assassin's Creed 2 OST - Ezio's Family.jpg]]"
 Year: 2009
 Album: "[[Assassin’s Creed II]]"
 CoverOf: ""

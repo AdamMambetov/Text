@@ -2,7 +2,7 @@
 created: 2022-12-09T06:57:32+03:00
 aliases:
   - "La Seine"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Hits Variété Pop - La Seine.jpg]]"
 Year: 2017
 Album: ""
 CoverOf: ""

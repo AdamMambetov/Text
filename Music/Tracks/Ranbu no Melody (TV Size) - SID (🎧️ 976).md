@@ -2,7 +2,7 @@
 created: 2024-07-21T15:56:18+03:00
 aliases:
   - "Ranbu no Melody (TV Size)"
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

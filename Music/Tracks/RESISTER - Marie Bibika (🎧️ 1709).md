@@ -6,7 +6,7 @@ aliases:
   - "SAO OP 6"
   - "Мастера меча онлайн OP 6"
   - "САО OP 6"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Marie Bibika - RESISTER.jpg]]"
 Year: 0
 Album: ""
 CoverOf: "[[RESISTER - ASCA (🎧️ 739)]]"

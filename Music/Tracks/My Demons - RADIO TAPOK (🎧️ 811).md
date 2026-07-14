@@ -2,7 +2,7 @@
 created: 2023-09-29T16:26:05+03:00
 aliases:
   - "My Demons"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[RADIO TAPOK - My Demons.jpg]]"
 Year: 2020
 Album: ""
 CoverOf: "[[My Demons - STARSET (🎧️ 30)]]"

@@ -2,7 +2,7 @@
 created: 2024-10-13T22:46:14+03:00
 aliases:
   - "Carry On Wayward Son"
-Cover: ""
+Cover: "[[Kansas - Carry on Wayward Son.jpg]]"
 Year: 1976
 Album: "[[The Best of Kansas]]"
 CoverOf: ""

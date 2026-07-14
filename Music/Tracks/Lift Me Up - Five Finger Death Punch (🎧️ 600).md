@@ -2,7 +2,7 @@
 created: 2023-07-09T18:49:48+03:00
 aliases:
   - "Lift Me Up"
-Cover: ""
+Cover: "[[Five Finger Death Punch - Lift Me Up.jpg]]"
 Year: 2017
 Album: "[[A Decade of Destruction]]"
 CoverOf: ""

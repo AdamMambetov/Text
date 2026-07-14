@@ -2,7 +2,7 @@
 created: 2022-11-18T14:50:08+03:00
 aliases:
   - "Fire"
-Cover: ""
+Cover: "[[The Score - Carry On.jpg]]"
 Year: 2020
 Album: "[[Carry On]]"
 CoverOf: ""

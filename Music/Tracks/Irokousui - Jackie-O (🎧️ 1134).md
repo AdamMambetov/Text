@@ -4,7 +4,7 @@ aliases:
   - "Irokousui"
   - "Horimiya OP 1"
   - "Хоримия OP 1"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Jackie-O - Irokousui.jpg]]"
 Year: 2022
 Album: ""
 CoverOf: "[[Irokousui - Yoh Kamiyama (🎧️ 1693)]]"

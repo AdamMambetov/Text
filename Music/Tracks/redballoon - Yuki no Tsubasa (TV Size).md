@@ -2,7 +2,7 @@
 created: 2025-06-02T23:28:49+03:00
 aliases:
   - "redballoon - Yuki no Tsubasa (TV Size)"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[redballoon - Yuki no Tsubasa (TV Size).jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

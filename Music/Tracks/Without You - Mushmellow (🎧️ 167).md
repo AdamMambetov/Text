@@ -2,7 +2,7 @@
 created: 2022-04-22T21:11:22+03:00
 aliases:
   - "Without You"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Mushmellow - Hollow Memories.jpg]]"
 Year: 2008
 Album: ""
 CoverOf: ""

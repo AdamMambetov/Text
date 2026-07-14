@@ -2,7 +2,7 @@
 created: 2023-09-29T16:24:48+03:00
 aliases:
   - "Wake Me Up"
-Cover: ""
+Cover: "[[Aloe Blacc - Lift Your Spirit.jpg]]"
 Year: 2013
 Album: "[[Lift Your Spirit]]"
 CoverOf: ""

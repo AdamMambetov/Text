@@ -2,7 +2,7 @@
 created: 2022-04-21T01:54:03+03:00
 aliases:
   - "Улыбайся"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[IOWA - Улыбайся.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

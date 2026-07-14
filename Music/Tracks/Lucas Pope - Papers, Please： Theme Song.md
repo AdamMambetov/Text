@@ -1,0 +1,24 @@
+---
+created: 2026-06-11T22:57:55+03:00
+aliases:
+  - "Lucas Pope - Papers, Please： Theme Song"
+Cover: "[[Lucas Pope - Papers, Please： Theme Song.jpg]]"
+Year: 0
+Album: ""
+Creators: []
+NumberInAlbum: 0
+source: ""
+SourceFile: "[[Lucas Pope - Papers, Please： Theme Song.mp3]]"
+related: []
+ListenInSec: 0
+CoverOf: ""
+---
+
+`$=dv.header(1, dv.current().aliases[0])`
+
+![[Lucas Pope - Papers, Please： Theme Song.mp3]]
+
+## Related Tracks
+
+![[related tracks.base]]
+

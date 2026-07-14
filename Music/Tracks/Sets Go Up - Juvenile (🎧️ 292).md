@@ -2,7 +2,7 @@
 created: 2022-04-23T02:06:48+03:00
 aliases:
   - "Sets Go Up"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Juvenile - Reality Check.jpg]]"
 Year: 2006
 Album: "[[Reality Check [2006] {Juvenile; Wacko}]]"
 CoverOf: ""

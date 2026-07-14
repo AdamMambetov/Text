@@ -6,7 +6,7 @@ aliases:
   - "SAO OP 4"
   - "Мастера меча онлайн OP 4"
   - "САО OP 4"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Haruka Tomatsu - Courage.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

@@ -3,7 +3,7 @@ created: 2022-12-20T22:41:36+03:00
 aliases:
   - "For You"
   - "And Your Denial"
-Cover: ""
+Cover: "[[Yellowcard - When You're Through Thinking, Say Yes.jpg]]"
 Year: 2011
 Album: "[[When You're Through Thinking, Say Yes]]"
 CoverOf: ""

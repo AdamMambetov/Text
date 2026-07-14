@@ -2,7 +2,7 @@
 created: 2022-05-02T03:40:04+03:00
 aliases:
   - "Harumachi Clover (Swing Arrangement)"
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

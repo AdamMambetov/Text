@@ -2,7 +2,7 @@
 created: 2025-02-03T08:14:16+03:00
 aliases:
   - "1Coma"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Kabaneri of the Iron Fortress OST - 1Coma.jpg]]"
 Year: 2016
 Album: "[[Kabaneri of the Iron Fortress OST]]"
 CoverOf: ""

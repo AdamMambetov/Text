@@ -2,7 +2,7 @@
 created: 2022-04-21T04:00:20+03:00
 aliases:
   - "Начало нового круга"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[LOUNA - Начало нового круга.jpg]]"
 Year: 2020
 Album: ""
 CoverOf: ""

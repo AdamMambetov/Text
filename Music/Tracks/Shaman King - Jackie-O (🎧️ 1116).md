@@ -2,7 +2,7 @@
 created: 2024-10-05T15:15:38+03:00
 aliases:
   - "Shaman King"
-Cover: ""
+Cover: "[[Jackie-O - Shaman King.jpg]]"
 Year: 2021
 Album: "[[Shaman King]]"
 CoverOf: ""

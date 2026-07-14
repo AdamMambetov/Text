@@ -2,7 +2,7 @@
 created: 2024-10-23T14:24:40+03:00
 aliases:
   - "Oingo Boingo Brothers"
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: "[[Oingo Boingo Brothers]]"
 CoverOf: ""

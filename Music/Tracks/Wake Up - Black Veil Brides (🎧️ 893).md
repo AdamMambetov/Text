@@ -2,7 +2,7 @@
 created: 2023-09-29T16:24:49+03:00
 aliases:
   - "Wake Up"
-Cover: ""
+Cover: "[[Black Veil Brides - Vale.jpg]]"
 Year: 2018
 Album: "[[Vale]]"
 CoverOf: ""

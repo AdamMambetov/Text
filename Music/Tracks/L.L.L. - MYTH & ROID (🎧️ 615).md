@@ -2,7 +2,7 @@
 created: 2023-07-09T19:27:08+03:00
 aliases:
   - "L.L.L."
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

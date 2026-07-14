@@ -4,7 +4,7 @@ aliases:
   - "Broken Youth"
   - "Naruto Shippuuden ED 6"
   - "Наруто Ураганные хроники ED 6"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Nico Touches the Walls - Broken Youth.jpg]]"
 Year: 2008
 Album: ""
 CoverOf: ""

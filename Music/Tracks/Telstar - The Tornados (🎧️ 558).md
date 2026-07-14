@@ -2,7 +2,7 @@
 created: 2022-12-20T23:24:44+03:00
 aliases:
   - "Telstar"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[The Tornados - Ridin' The Wind - The Anthology.jpg]]"
 Year: 2002
 Album: ""
 CoverOf: ""

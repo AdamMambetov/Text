@@ -3,7 +3,7 @@ created: 2025-01-19T21:51:30+03:00
 aliases:
   - "Higurashi no Naku Koro ni"
   - "Когда плачут цикады OP 1"
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

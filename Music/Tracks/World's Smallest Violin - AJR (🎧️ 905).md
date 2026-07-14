@@ -2,7 +2,7 @@
 created: 2023-09-29T16:25:01+03:00
 aliases:
   - "World's Smallest Violin"
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 Year: 2021
 Album: "[[OK Orchestra]]"
 CoverOf: ""

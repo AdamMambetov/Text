@@ -2,7 +2,7 @@
 created: 2022-04-22T21:38:56+03:00
 aliases:
   - "Hangover"
-Cover: ""
+Cover: "[[Taio Cruz - TY.O.jpg]]"
 Year: 2011
 Album: "[[TY.O [2011] {Taio Cruz; Flo Rida}]]"
 CoverOf: ""

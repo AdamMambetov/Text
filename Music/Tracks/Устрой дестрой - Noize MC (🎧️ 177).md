@@ -2,7 +2,7 @@
 created: 2022-04-22T21:15:22+03:00
 aliases:
   - "Устрой дестрой"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Noize MC - Устрой дестрой.jpg]]"
 Year: 2010
 Album: ""
 CoverOf: ""

@@ -1,7 +1,7 @@
 ---
 created: 2025-01-27T19:37:34+03:00
 aliases: []
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

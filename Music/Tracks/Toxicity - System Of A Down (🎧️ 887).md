@@ -2,7 +2,7 @@
 created: 2023-09-29T16:26:51+03:00
 aliases:
   - "Toxicity"
-Cover: ""
+Cover: "[[System Of A Down - Toxicity.jpg]]"
 Year: 2001
 Album: "[[Toxicity]]"
 CoverOf: ""

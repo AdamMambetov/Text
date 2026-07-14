@@ -2,7 +2,7 @@
 created: 2023-09-29T16:23:54+03:00
 aliases:
   - "More Than You Know"
-Cover: ""
+Cover: "[[Axwell Ingrosso - More Than You Know.jpg]]"
 Year: 2017
 Album: "[[More Than You Know]]"
 CoverOf: ""

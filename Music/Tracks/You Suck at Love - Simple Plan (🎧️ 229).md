@@ -2,7 +2,7 @@
 created: 2022-04-22T21:34:30+03:00
 aliases:
   - "You Suck at Love"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Simple Plan - Get Your Heart On!.png]]"
 Year: 2011
 Album: ""
 CoverOf: ""

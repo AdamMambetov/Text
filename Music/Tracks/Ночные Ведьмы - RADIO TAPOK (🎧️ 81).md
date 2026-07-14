@@ -3,7 +3,7 @@ created: 2022-04-21T04:23:54+03:00
 aliases:
   - "Ночные Ведьмы"
   - "Night Witches"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[RADIO TAPOK - The Kids Aren't Alright.jpg]]"
 Year: 2018
 Album: ""
 CoverOf: "[[Night Witches - Sabaton (🎧️ 211)]]"

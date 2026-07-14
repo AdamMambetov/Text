@@ -2,7 +2,7 @@
 created: 2024-10-10T22:58:20+03:00
 aliases:
   - "Bills"
-Cover: ""
+Cover: "[[LunchMoney Lewis - Bills_1.jpg]]"
 Year: 2015
 Album: "[[Bills]]"
 CoverOf: ""

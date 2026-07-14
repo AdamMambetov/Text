@@ -2,7 +2,7 @@
 created: 2022-04-22T21:49:34+03:00
 aliases:
   - "Frame of Mind"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Tristam - Frame of Mind.jpg]]"
 Year: 2014
 Album: ""
 CoverOf: ""

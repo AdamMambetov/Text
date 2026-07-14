@@ -2,7 +2,7 @@
 created: 2023-09-29T16:24:53+03:00
 aliases:
   - "We Are One"
-Cover: ""
+Cover: "[[12 Stones - The Only Easy Day Was Yesterday.jpg]]"
 Year: 2010
 Album: "[[The Only Easy Day Was Yesterday]]"
 CoverOf: ""

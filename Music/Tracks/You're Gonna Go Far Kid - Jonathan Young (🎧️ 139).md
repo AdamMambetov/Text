@@ -2,7 +2,7 @@
 created: 2022-04-22T20:59:10+03:00
 aliases:
   - "You're Gonna Go Far Kid"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Jonathan Young - Young's Old Covers (2019-2021).jpg]]"
 Year: 0
 Album: ""
 CoverOf: "[[You're Gonna Go Far, Kid - The Offspring (🎧️ 245)]]"

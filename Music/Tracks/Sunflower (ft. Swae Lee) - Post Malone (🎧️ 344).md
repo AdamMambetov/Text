@@ -2,7 +2,7 @@
 created: 2022-04-28T14:57:50+03:00
 aliases:
   - "Sunflower (ft. Swae Lee)"
-Cover: ""
+Cover: "[[Spider-Man Into the Spider-Verse OST - Sunflower.jpg]]"
 Year: 2018
 Album: "[[Spider-Man Into the Spider-Verse OST (📀 24)]]"
 CoverOf: ""

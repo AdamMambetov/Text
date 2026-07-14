@@ -2,7 +2,7 @@
 created: 2022-04-28T17:39:16+03:00
 aliases:
   - "Kakashi's Theme"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Naruto.jpg]]"
 Year: 2003
 Album: "[[Naruto OST 1 (📀 15)]]"
 CoverOf: ""

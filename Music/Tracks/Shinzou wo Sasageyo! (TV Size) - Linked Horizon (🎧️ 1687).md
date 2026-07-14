@@ -4,7 +4,7 @@ aliases:
   - "Shinzou wo Sasageyo! (TV Size)"
   - "Attack on Titan OP 3"
   - "Атака титанов OP 3"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Linked Horizon - Shinzou wo Sasageyo (TV Size).jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

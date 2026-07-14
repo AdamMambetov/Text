@@ -2,7 +2,7 @@
 created: 2025-01-07T18:24:37+03:00
 aliases:
   - "Dragonborn Song"
-Cover: ""
+Cover: "[[TES V Skyrim OST - Dragonborn.png]]"
 Year: 2011
 Album: ""
 CoverOf: ""

@@ -2,7 +2,7 @@
 created: 2023-09-29T16:23:20+03:00
 aliases:
   - "Fire"
-Cover: ""
+Cover: "[[BTS - The Most Beautiful Moment in Life Young Forever.jpg]]"
 Year: 2016
 Album: "[[The Most Beautiful Moment in Life: Young Forever]]"
 CoverOf: ""

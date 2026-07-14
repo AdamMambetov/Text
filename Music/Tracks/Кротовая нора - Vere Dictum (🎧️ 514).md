@@ -2,7 +2,7 @@
 created: 2022-12-09T06:57:06+03:00
 aliases:
   - "Кротовая нора"
-Cover: ""
+Cover: "[[Vere Dictum - Один во вселенной.jpg]]"
 Year: 2020
 Album: "[[Один во вселенной]]"
 CoverOf: ""

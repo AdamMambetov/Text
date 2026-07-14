@@ -2,7 +2,7 @@
 created: 2023-09-29T16:23:11+03:00
 aliases:
   - "Livin' La Vida Loca"
-Cover: ""
+Cover: "[[Autumn Kings - Silver Screens.jpg]]"
 Year: 2017
 Album: "[[Silver Screens]]"
 CoverOf: ""

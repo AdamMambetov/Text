@@ -2,7 +2,7 @@
 created: 2022-12-20T22:40:50+03:00
 aliases:
   - "Fuyu No Hanashi"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Jackie-O - Fuyu No Hanashi.png]]"
 Year: 2020
 Album: ""
 CoverOf: "[[Fuyu No Hanashi - Given]]"

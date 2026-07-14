@@ -2,7 +2,7 @@
 created: 2022-12-20T23:19:28+03:00
 aliases:
   - "How Far I'll Go"
-Cover: ""
+Cover: "[[No Resolve - Surface Pressure.jpg]]"
 Year: 2022
 Album: "[[Surface Pressure]]"
 CoverOf: ""

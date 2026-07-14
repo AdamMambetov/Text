@@ -4,7 +4,7 @@ aliases:
   - "aLIEz"
   - "Aldnoah.Zero ED 2"
   - "Альдноа.Зеро ED 2"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[SawanoHiroyuki_nZk_mizuki - aLIEz.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

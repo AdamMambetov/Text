@@ -2,7 +2,7 @@
 created: 2023-09-29T16:23:14+03:00
 aliases:
   - "Make Merry"
-Cover: ""
+Cover: "[[Amphibious Zoo Music - Indie Anthems, Vol. 1.jpg]]"
 Year: 2013
 Album: "[[Indie Anthems, Vol. 1]]"
 CoverOf: ""

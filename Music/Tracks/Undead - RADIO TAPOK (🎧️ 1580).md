@@ -2,7 +2,7 @@
 created: 2025-01-08T20:41:29+03:00
 aliases:
   - "Undead"
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: "[[Undead - Hollywood Undead (🎧️ 121)]]"

@@ -2,7 +2,7 @@
 created: 2024-10-05T15:15:48+03:00
 aliases:
   - "阿婆擦れ"
-Cover: ""
+Cover: "[[Creepy Nuts - 阿婆擦れ.png]]"
 Year: 2019
 Album: ""
 CoverOf: ""

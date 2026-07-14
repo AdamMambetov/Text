@@ -2,7 +2,7 @@
 created: 2025-01-07T20:04:34+03:00
 aliases:
   - "Old Black Train"
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

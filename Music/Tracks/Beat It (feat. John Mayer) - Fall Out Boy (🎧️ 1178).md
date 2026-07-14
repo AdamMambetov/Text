@@ -2,7 +2,7 @@
 created: 2024-10-10T22:55:58+03:00
 aliases:
   - "Beat It (feat. John Mayer)"
-Cover: ""
+Cover: "[[Fall Out Boy - Beat It.jpg]]"
 Year: 2008
 Album: "[[Believers Never Die - Greatest Hits]]"
 CoverOf: ""

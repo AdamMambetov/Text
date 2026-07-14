@@ -4,7 +4,7 @@ aliases:
   - "New Page"
   - "Black Clover ED 10"
   - "Чёрный клевер ED 10"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Leon Alex - Black Clover Guitar Collection.jpg]]"
 Year: 2021
 Album: ""
 CoverOf: ""

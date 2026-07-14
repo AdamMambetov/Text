@@ -2,7 +2,7 @@
 created: 2022-05-02T03:31:04+03:00
 aliases:
   - "Moonlight Sonata"
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 Year: 2015
 Album: ""
 CoverOf: ""

@@ -2,7 +2,7 @@
 created: 2022-04-22T21:50:44+03:00
 aliases:
   - "TaKillYa"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Vinnie Maniscalco - TaKillYa.jpg]]"
 Year: 2017
 Album: "[[TaKillYa [2017] {Vinnie Maniscalco}]]"
 CoverOf: ""

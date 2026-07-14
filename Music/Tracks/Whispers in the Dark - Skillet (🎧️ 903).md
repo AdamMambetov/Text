@@ -2,7 +2,7 @@
 created: 2023-09-29T16:26:34+03:00
 aliases:
   - "Whispers in the Dark"
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 Year: 2006
 Album: "[[Comatose]]"
 CoverOf: ""

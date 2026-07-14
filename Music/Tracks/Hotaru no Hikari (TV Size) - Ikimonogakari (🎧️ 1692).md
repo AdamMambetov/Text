@@ -4,7 +4,7 @@ aliases:
   - "Hotaru no Hikari (TV Size)"
   - "Naruto Shippuuden OP 5"
   - "Наруто Ураганные хроники OP 5"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Ikimonogakari - Hotaru no Hikari (TV Size).jpg]]"
 Year: 2009
 Album: ""
 CoverOf: ""

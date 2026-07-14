@@ -2,7 +2,7 @@
 created: 2024-12-06T00:07:20+03:00
 aliases:
   - "Lagtrain"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Sati Akura - Lagtrain.png]]"
 Year: 2021
 Album: ""
 CoverOf: "[[Lagtrain - inabakumori (🎧️ 4)]]"

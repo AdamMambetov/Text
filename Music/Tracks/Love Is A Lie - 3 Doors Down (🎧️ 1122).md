@@ -2,7 +2,7 @@
 created: 2023-09-29T16:22:46+03:00
 aliases:
   - "Love Is A Lie"
-Cover: ""
+Cover: "[[3 Doors Down - Us and the Night.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

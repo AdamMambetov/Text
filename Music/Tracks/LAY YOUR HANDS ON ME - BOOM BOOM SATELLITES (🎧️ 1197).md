@@ -5,7 +5,7 @@ aliases:
   - "Kiznaiver OP 1"
   - "Кизнайвер OP 1"
   - "Связанные OP 1"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[BOOM BOOM SATELLITES – LAY YOUR HANDS ON ME.jpg]]"
 Year: 2016
 Album: ""
 CoverOf: ""

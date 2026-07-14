@@ -4,7 +4,7 @@ aliases:
   - "Hotaru no Hikari"
   - "Naruto Shippuuden OP 5"
   - "Наруто Ураганные хроники OP 5"
-Cover: ""
+Cover: "[[Ikimonogakari - Hotaru no Hikari.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

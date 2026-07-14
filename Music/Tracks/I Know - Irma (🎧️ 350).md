@@ -2,7 +2,7 @@
 created: 2022-04-28T16:51:42+03:00
 aliases:
   - "I Know"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Youssoupha - Letter to the Lord.jpg]]"
 Year: 2011
 Album: "[[Letter to the Lord [2011] {Youssoupha; Irma}]]"
 CoverOf: ""

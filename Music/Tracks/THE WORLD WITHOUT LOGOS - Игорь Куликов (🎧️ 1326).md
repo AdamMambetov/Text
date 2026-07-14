@@ -2,7 +2,7 @@
 created: 2024-10-23T15:27:34+03:00
 aliases:
   - "THE WORLD WITHOUT LOGOS"
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 Year: 2023
 Album: "[[THE WORLD WITHOUT LOGOS]]"
 CoverOf: ""

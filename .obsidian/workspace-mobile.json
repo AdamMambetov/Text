@@ -22,34 +22,35 @@
             }
           },
           {
-            "id": "8bbd05faeffbb9a0",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "Music/tracks.base",
-                "viewName": "Validation"
-              },
-              "icon": "lucide-table",
-              "title": "tracks"
-            }
-          },
-          {
             "id": "f44b520e1490a797",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Music/Tracks/DANGANRONPA (🎧️ 1508).md",
+                "file": "Music/Tracks/'Till I Collapse - Eminem (🎧️ 1141).md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "'Till I Collapse - Eminem (🎧️ 1141)"
+            }
+          },
+          {
+            "id": "3a1fa6dd67e273c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Music/Tracks/natsuki1023 - 志方あきこ　「片翼の鳥」　歌詞付.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "DANGANRONPA (🎧️ 1508)"
+              "title": "natsuki1023 - 志方あきこ　「片翼の鳥」　歌詞付"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -140,7 +141,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Music/tracks.base",
+            "file": "Music/Tracks/natsuki1023 - 志方あきこ　「片翼の鳥」　歌詞付.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -213,17 +214,33 @@
       "obsidian-excalidraw-plugin:New drawing": true
     }
   },
-  "active": "8bbd05faeffbb9a0",
+  "active": "3a1fa6dd67e273c2",
   "lastOpenFiles": [
+    "Music/tracks.base",
+    "Music/Tracks/Rapa - Hadou -Kono Koe- ~guitar vocal ver.~ (without vocal) - Umineko Arrange Album ＂Akoustika IV＂.md",
+    "Music/Tracks/Rapa - Hadou -Kono Koe- ~guitar vocal ver.~ - Umineko no Naku Koro ni Arrange Album ＂Akoustika IV＂.md",
+    "Music/Tracks/'Till I Collapse - Eminem (🎧️ 1141).md",
+    "Music/Covers/Eminem - The Eminem Show.jpg",
+    "Note/content/@Адам Мамбетов.md",
+    "Music/Covers/_No Album Art.jpg",
+    "Music/Tracks/Затмение - U2 Akiyama (🎧️ 1000).md",
+    "Music/Tracks/Плач цикад (TV Size) - Radiant Records (🎧️ 1457).md",
+    "Music/Covers/MADKID OFFICIAL - MADKID ⧸ RISE [Music Video] ('The Rising of the Shield Hero' Opening Theme).jpg",
+    "Music/Covers/Chi_exe - Happy! Lucky! Dochy! (Full Version).jpg",
+    "Music/Covers/ymetsys - Plants vs Zombies Soundtrack. [Main Menu].jpg",
+    "Music/Covers/coldrain - coldrain - VENGEANCE (Official Music Video).jpg",
+    "Music/Covers/Vale ou não vale？ - Naruto Shippuuden - Original Sound Track - Sasori's Theme.jpg",
+    "Music/Covers/LM.C Official - BOYS & GIRLS.jpg",
+    "Music/Covers/Harmony Team – аниме-п - [Kousetsujou no Kabaneri RUS cover] Ai – Kabaneri Of The Iron Fortress [Harmony Team].jpg",
+    "Music/Covers/GOING UNDER GROUND official - LISTEN TO THE STEREO!!.jpg",
+    "Music/Albums/ReZero 2 OST 2 (📀 42).md",
+    "Music/Tracks/Kanashii Ureshii - Frederic (🎧️ 1472).md",
+    "Music/Tracks/natsuki1023 - 志方あきこ　「片翼の鳥」　歌詞付.md",
     "Music/Tracks/DANGANRONPA (🎧️ 1508).md",
     "Music/Albums/DANGANRONPA V3 OST BLACK (📀 45).md",
     "Music/Albums/DANGANRONPA V3 OST WHITE  (📀 44).md",
     "Music/Albums/DANGANRONPA OST (📀 43).md",
-    "Music/Covers/danganronpa_v3_ost_black_cover.jpg",
-    "Music/Covers/danganronpa_v3_ost_white_cover.jpg",
-    "Music/Covers/danganronpa_ost_cover.jpg",
     "Music/Creators/Masafumi Takada (🎙️ 792).md",
-    "Music/tracks.base",
     "Music/Tracks/Kuchizuke (TV Size) - BUCK-TICK (🎧️ 1483).md",
     "Music/Albums/Shiki OST (📀 1).md",
     "Music/Tracks/Crimson - Yasuharu Takanashi (🎧️ 1814).md",
@@ -235,31 +252,14 @@
     "Music/Tracks/Fir Trees - Yasuharu Takanashi (🎧️ 1808).md",
     "Music/Tracks/Dead Sea - Yasuharu Takanashi (🎧️ 1807).md",
     "Music/Tracks/Muddy Water - Yasuharu Takanashi (🎧️ 1806).md",
-    "Music/Tracks/Mosaic - Yasuharu Takanashi (🎧️ 1805).md",
-    "Music/Tracks/Epitaph - Yasuharu Takanashi (🎧️ 1804).md",
-    "Music/Tracks/Twilight - Yasuharu Takanashi (🎧️ 1803).md",
-    "Music/Tracks/13th Floor - Yasuharu Takanashi (🎧️ 1802).md",
-    "Music/Tracks/Eau de Vie - Yasuharu Takanashi (🎧️ 1801).md",
-    "Music/Tracks/Day and Night - Yasuharu Takanashi (🎧️ 1800).md",
-    "Music/Tracks/SHI-KI - Yasuharu Takanashi (🎧️ 1815).md",
-    "Music/Tracks/Requiem - Yasuharu Takanashi (🎧️ 1816).md",
-    "Music/Covers/shiki_ost_cover.jpg",
-    "Music/Tracks/Loop Version (🎧️ 1521).md",
-    "Music/Tracks/I'll Make A Man Out Of You (Russian version) (🎧️ 1452).md",
     "Text/Note/excalidraw",
     "Text/Note",
     "Text",
-    "Music/files/Pasted image 20251119232251.png",
     "Art/art.base",
     "Music/templates/related tracks.base",
     "Music/templates/tracklist.base",
     "Text/Note/home/_art base.base",
     "Text/Note/home",
-    "Art/_art base.base",
-    "Image/Album Art Changer/Onsa Media - Sono Chi no Kioku end of THE WORLD.jpg",
-    "Text/Music/Covers/Onsa Media - Мы за Предков Отомстим.jpg",
-    "Text/Art/covers/douluo_dalu_anime_cover.jpg",
-    "Text/Art/covers/jigokuraku_2_anime_cover.jpg",
-    "Text/Art/covers/dekin_no_mogura_anime_cover.jpg"
+    "Art/_art base.base"
   ]
 }

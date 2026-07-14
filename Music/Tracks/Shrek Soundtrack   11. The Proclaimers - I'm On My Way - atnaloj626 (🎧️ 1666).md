@@ -2,7 +2,7 @@
 created: 2025-05-04T01:32:54+03:00
 aliases:
   - "Shrek Soundtrack   11. The Proclaimers - I'm On My Way"
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 Year: 2009
 Album: ""
 CoverOf: ""

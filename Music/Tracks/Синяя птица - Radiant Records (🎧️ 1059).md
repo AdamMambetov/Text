@@ -5,7 +5,7 @@ aliases:
   - "Blue Bird"
   - "Naruto Shippuuden OP 3"
   - "Наруто Ураганные хроники OP 3"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Radiant Records - Ты принёс мечту.jpg]]"
 Year: 0
 Album: ""
 CoverOf: "[[Blue Bird - Ikimonogakari (🎧️ 1459)]]"

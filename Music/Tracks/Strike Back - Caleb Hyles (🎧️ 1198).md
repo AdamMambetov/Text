@@ -2,7 +2,7 @@
 created: 2024-10-13T22:37:02+03:00
 aliases:
   - "Strike Back"
-Cover: ""
+Cover: "[[Caleb Hyles - Strike Back.jpg]]"
 Year: 2017
 Album: "[[Strike Back - Single]]"
 CoverOf: ""

@@ -2,7 +2,7 @@
 created: 2023-09-29T16:23:52+03:00
 aliases:
   - "Innocently Annoying"
-Cover: ""
+Cover: "[[Elysewood - Innocently Annoying.jpg]]"
 Year: 2022
 Album: "[[Innocently Annoying]]"
 CoverOf: ""

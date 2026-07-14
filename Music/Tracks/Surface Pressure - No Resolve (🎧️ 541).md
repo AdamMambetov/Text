@@ -2,7 +2,7 @@
 created: 2022-12-20T22:43:40+03:00
 aliases:
   - "Surface Pressure"
-Cover: ""
+Cover: "[[No Resolve - Surface Pressure.jpg]]"
 Year: 2022
 Album: "[[Surface Pressure]]"
 CoverOf: ""

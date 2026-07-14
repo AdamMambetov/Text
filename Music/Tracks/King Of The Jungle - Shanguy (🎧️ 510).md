@@ -3,7 +3,7 @@ created: 2022-12-09T06:55:22+03:00
 aliases:
   - "King Of The Jungle"
   - "FlexAir 1"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Shanguy - King of the Jungle.jpg]]"
 Year: 2018
 Album: ""
 CoverOf: ""

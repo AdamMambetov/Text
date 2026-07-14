@@ -2,7 +2,7 @@
 created: 2023-09-29T16:22:49+03:00
 aliases:
   - "Omoide wa Kirei de (The Memories Are Beautiful)"
-Cover: ""
+Cover: "[[Aimer - Black Bird.jpg]]"
 Year: 2018
 Album: "[[Black Bird]]"
 CoverOf: ""

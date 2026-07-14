@@ -4,7 +4,7 @@ aliases:
   - "HUNTING FOR YOUR DREAM"
   - "Hunter x Hunter ED 1"
   - "Хантер х Хантер ED 1"
-Cover: ""
+Cover: "[[GALNERYUS - HUNTING FOR YOUR DREAM.jpg]]"
 Year: 2012
 Album: "[[ANGEL OF SALVATION]]"
 CoverOf: ""

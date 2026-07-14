@@ -4,7 +4,7 @@ aliases:
   - "Toki wo Kizamu Uta (TV Size)"
   - "Clannad OP 2"
   - "Кланнад OP 2"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Lia - Toki wo Kizamu Uta.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

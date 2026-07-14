@@ -2,7 +2,7 @@
 created: 2022-04-23T02:28:42+03:00
 aliases:
   - "Renai Circulation"
-Cover: ""
+Cover: "[[Kana Hanazawa - Renai Circulation_1.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

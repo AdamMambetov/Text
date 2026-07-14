@@ -3,7 +3,7 @@ created: 2022-04-21T05:10:22+03:00
 aliases:
   - "Сопротивление"
   - "The Resistance"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[PANHEADS BAND - Сопротивление.jpg]]"
 Year: 2021
 Album: ""
 CoverOf: "[[The Resistance - Skillet (🎧️ 318)]]"

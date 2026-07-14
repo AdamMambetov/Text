@@ -2,7 +2,7 @@
 created: 2024-10-13T22:36:00+03:00
 aliases:
   - "Bullet"
-Cover: ""
+Cover: "[[Hollywood Undead - Bullet.jpg]]"
 Year: 2010
 Album: "[[American Tragedy]]"
 CoverOf: ""

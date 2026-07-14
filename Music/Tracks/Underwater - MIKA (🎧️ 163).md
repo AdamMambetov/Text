@@ -2,7 +2,7 @@
 created: 2022-04-22T21:09:52+03:00
 aliases:
   - "Underwater"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[MIKA - The Origin Of Love.jpg]]"
 Year: 2012
 Album: ""
 CoverOf: ""

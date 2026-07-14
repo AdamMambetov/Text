@@ -2,7 +2,7 @@
 created: 2022-12-09T06:51:56+03:00
 aliases:
   - "C'mon Down"
-Cover: ""
+Cover: "[[Poor Mans Poison - Providence.jpg]]"
 Year: 2014
 Album: "[[Providence]]"
 CoverOf: ""

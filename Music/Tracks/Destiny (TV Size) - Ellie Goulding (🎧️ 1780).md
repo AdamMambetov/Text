@@ -4,7 +4,7 @@ aliases:
   - "Destiny (TV Size)"
   - "Clevatess ED 1"
   - "Клеватесс ED 1"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Ellie Goulding - Destiny (TV Size).jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

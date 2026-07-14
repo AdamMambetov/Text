@@ -3,7 +3,7 @@ created: 2022-04-22T20:40:50+03:00
 aliases:
   - "Трон"
   - "Throne"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Everblack Melodies - Трон.png]]"
 Year: 2021
 Album: ""
 CoverOf: "[[Throne - Bring Me The Horizon]]"

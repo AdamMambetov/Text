@@ -2,7 +2,7 @@
 created: 2025-01-08T20:46:45+03:00
 aliases:
   - "In The End"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[RADIO TAPOK - In the End.jpg]]"
 Year: 2022
 Album: "[[In The End]]"
 CoverOf: "[[In The End - Black Veil Brides (🎧️ 786)]]"

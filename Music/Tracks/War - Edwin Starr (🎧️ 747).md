@@ -2,7 +2,7 @@
 created: 2023-09-29T16:24:50+03:00
 aliases:
   - "War"
-Cover: ""
+Cover: "[[Edwin Starr - War & Peace.jpg]]"
 Year: 1970
 Album: "[[War & Peace]]"
 CoverOf: ""

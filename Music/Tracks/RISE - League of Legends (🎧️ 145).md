@@ -2,7 +2,7 @@
 created: 2022-04-22T21:01:52+03:00
 aliases:
   - "RISE"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[League of Legends - RISE.jpg]]"
 Year: 2018
 Album: ""
 CoverOf: ""

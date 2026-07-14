@@ -4,7 +4,7 @@ aliases:
   - "In My World"
   - "Blue Exorcist OP 2"
   - "Синий экзорцист OP 2"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[ROOKiEZ is PUNK'D - From Dusk Till Dawn.png]]"
 Year: 2012
 Album: ""
 CoverOf: ""

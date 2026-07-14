@@ -2,7 +2,7 @@
 created: 2024-10-30T19:16:28+03:00
 aliases:
   - "Fired Up"
-Cover: ""
+Cover: "[[Hush - Fired Up.jpg]]"
 Year: 2005
 Album: "[[Bulletproof]]"
 CoverOf: ""

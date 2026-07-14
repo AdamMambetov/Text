@@ -2,7 +2,7 @@
 created: 2022-04-28T17:38:58+03:00
 aliases:
   - "I Said I'm Naruto"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Naruto.jpg]]"
 Year: 2003
 Album: "[[Naruto OST 1 (📀 15)]]"
 CoverOf: ""

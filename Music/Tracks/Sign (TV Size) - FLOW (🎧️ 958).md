@@ -2,7 +2,7 @@
 created: 2024-07-21T15:17:06+03:00
 aliases:
   - "Sign (TV Size)"
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

@@ -2,7 +2,7 @@
 created: 2022-12-20T23:10:58+03:00
 aliases:
   - "Low"
-Cover: ""
+Cover: "[[Flo Rida - Low.jpg]]"
 Year: 2008
 Album: "[[Low]]"
 CoverOf: ""

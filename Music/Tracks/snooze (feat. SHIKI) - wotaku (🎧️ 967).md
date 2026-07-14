@@ -2,7 +2,7 @@
 created: 2024-07-12T16:43:14+03:00
 aliases:
   - "snooze"
-Cover: ""
+Cover: "[[wotaku feat. SHIKI - snooze.jpg]]"
 Year: 0
 Album: "[[snooze (feat. SHIKI)]]"
 CoverOf: ""

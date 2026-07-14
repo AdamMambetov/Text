@@ -2,7 +2,7 @@
 created: 2024-10-10T22:49:22+03:00
 aliases:
   - "Bad Girlfriend"
-Cover: ""
+Cover: "[[Theory Of A Deadman - Bad Girlfriend.jpg]]"
 Year: 2008
 Album: "[[Scars & Souvenirs]]"
 CoverOf: ""

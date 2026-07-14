@@ -3,7 +3,7 @@ created: 2025-07-14T23:07:24+03:00
 aliases:
   - "ODDTAXI (TV Size)"
   - "Случайное такси OP 1"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Skirt & PUNPEE - ODDTAXI (TV Size).jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

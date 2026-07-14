@@ -2,7 +2,7 @@
 created: 2024-10-13T23:04:30+03:00
 aliases:
   - "Country Song"
-Cover: ""
+Cover: "[[Seether - Country Song.jpg]]"
 Year: 2011
 Album: "[[Holding Onto Strings Better Left to Fray]]"
 CoverOf: ""

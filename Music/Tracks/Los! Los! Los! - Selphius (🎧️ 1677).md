@@ -2,7 +2,7 @@
 created: 2025-05-04T01:11:51+03:00
 aliases:
   - "Los! Los! Los!"
-Cover: ""
+Cover: "[[Selphius - Los! Los! Los!.jpg]]"
 Year: 2019
 Album: ""
 CoverOf: ""

@@ -2,7 +2,7 @@
 created: 2025-01-09T22:50:13+03:00
 aliases:
   - "HEYYEYAAEYAAAEYAEYAA"
-Cover: ""
+Cover: "[[He-Man - HEYYEYAAEYAAAEYAEYAA.png]]"
 Year: 2010
 Album: ""
 CoverOf: ""

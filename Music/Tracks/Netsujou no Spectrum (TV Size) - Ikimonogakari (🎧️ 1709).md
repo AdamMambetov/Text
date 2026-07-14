@@ -5,7 +5,7 @@ aliases:
   - "Nanatsu no Taizai OP 1"
   - "Seven Deadly Sins OP 1"
   - "Семь смертных грехов OP 1"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Ikimonogakari - Netsujou no Spectrum (TV Size).jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

@@ -2,7 +2,7 @@
 created: 2023-09-29T16:24:27+03:00
 aliases:
   - "Stayin Alive"
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 Year: 1977
 Album: "[[Saturday Night Fever]]"
 CoverOf: ""

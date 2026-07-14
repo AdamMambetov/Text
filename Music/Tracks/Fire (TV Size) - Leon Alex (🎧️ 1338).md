@@ -4,7 +4,7 @@ aliases:
   - "Fire (TV Size)"
   - "Dororo OP 1"
   - "Дороро OP 1"
-Cover: ""
+Cover: "[[Leon Alex - Fire.jpg]]"
 Year: 2019
 Album: "[[Anime & Movie Soundtracks]]"
 CoverOf: "[[Fire (TV Size) - Kaen (🎧️ 1746)]]"

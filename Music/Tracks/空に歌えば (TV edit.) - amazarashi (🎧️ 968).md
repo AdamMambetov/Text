@@ -2,7 +2,7 @@
 created: 2024-07-21T15:43:26+03:00
 aliases:
   - "空に歌えば (TV edit.)"
-Cover: ""
+Cover: "[[Sora ni Utaeba (TV Size).jpg]]"
 Year: 0
 Album: "[[空に歌えば (TV edit.)]]"
 CoverOf: ""

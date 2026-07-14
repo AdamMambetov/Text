@@ -1,0 +1,24 @@
+---
+created: 2026-06-11T22:28:23+03:00
+aliases:
+  - "Linkin Park - Faint (Official Music Video) [4K UPGRADE] – Linkin Park"
+Cover: "[[Linkin Park - Faint (Official Music Video) [4K UPGRADE] – Linkin Park.jpg]]"
+Year: 0
+Album: ""
+Creators: []
+NumberInAlbum: 0
+source: ""
+SourceFile: "[[Linkin Park - Faint (Official Music Video) [4K UPGRADE] – Linkin Park.mp3]]"
+related: []
+ListenInSec: 0
+CoverOf: ""
+---
+
+`$=dv.header(1, dv.current().aliases[0])`
+
+![[Linkin Park - Faint (Official Music Video) [4K UPGRADE] – Linkin Park.mp3]]
+
+## Related Tracks
+
+![[related tracks.base]]
+

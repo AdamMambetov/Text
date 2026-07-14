@@ -4,7 +4,7 @@ aliases:
   - "aLIEz"
   - "Aldnoah.Zero ED 2"
   - "Альдноа.Зеро ED 2"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Влад Токарев - aLIEz.jpg]]"
 Year: 0
 Album: ""
 CoverOf: "[[aLIEz - Hiroyuki Sawano (🎧️ 1785)]]"

@@ -2,7 +2,7 @@
 created: 2022-04-22T21:01:28+03:00
 aliases:
   - "Walk"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Kwabs - Walk EP.jpg]]"
 Year: 2014
 Album: ""
 CoverOf: ""

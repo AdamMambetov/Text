@@ -2,7 +2,7 @@
 created: 2025-01-08T23:00:07+03:00
 aliases:
   - "You're My Heart, You're My Soul"
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

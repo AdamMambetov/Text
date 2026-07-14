@@ -2,7 +2,7 @@
 created: 2024-10-13T22:41:32+03:00
 aliases:
   - "Can You Feel My Heart"
-Cover: ""
+Cover: "[[Bring Me The Horizon - Can You Feel My Heart.jpg]]"
 Year: 2013
 Album: "[[Sempiternal]]"
 CoverOf: ""

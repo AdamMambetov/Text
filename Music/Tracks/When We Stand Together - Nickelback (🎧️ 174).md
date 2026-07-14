@@ -2,7 +2,7 @@
 created: 2022-04-22T21:13:38+03:00
 aliases:
   - "When We Stand Together"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Nickelback - Here and Now.jpg]]"
 Year: 2011
 Album: ""
 CoverOf: ""

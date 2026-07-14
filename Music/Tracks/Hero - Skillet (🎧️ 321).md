@@ -2,7 +2,7 @@
 created: 2022-04-26T01:38:50+03:00
 aliases:
   - "Hero"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Skillet - Rise_1.jpg]]"
 Year: 2009
 Album: ""
 CoverOf: ""

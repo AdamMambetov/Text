@@ -2,7 +2,7 @@
 created: 2024-01-03T00:07:28+03:00
 aliases:
   - "Sacrifice"
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 Year: 2017
 Album: ""
 CoverOf: "[[Sacrifice - 9mm Parabellum Bullet (🎧️ 861)]]"

@@ -2,7 +2,7 @@
 created: 2023-09-29T16:24:16+03:00
 aliases:
   - "Run"
-Cover: ""
+Cover: "[[Disturbed - Indestructible.jpg]]"
 Year: 2008
 Album: "[[Indestructible]]"
 CoverOf: ""

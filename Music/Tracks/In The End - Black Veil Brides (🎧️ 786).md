@@ -2,7 +2,7 @@
 created: 2023-09-29T16:23:16+03:00
 aliases:
   - "In The End"
-Cover: ""
+Cover: "[[Black Veil Brides - Wretched and Divine The Story of the Wild Ones.jpg]]"
 Year: 2013
 Album: "[[Wretched and Divine The Story of the Wild Ones]]"
 CoverOf: ""

@@ -2,7 +2,7 @@
 created: 2024-12-12T21:10:50+03:00
 aliases:
   - "My Folk's Place"
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 Year: 2021
 Album: "[[Rotten Apples (Original Animation Soundtrack)]]"
 CoverOf: ""

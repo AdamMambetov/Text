@@ -2,7 +2,7 @@
 created: 2023-09-29T16:24:17+03:00
 aliases:
   - "Runaway Baby"
-Cover: ""
+Cover: "[[Bruno Mars - Doo-Wops & Hooligans.jpg]]"
 Year: 2010
 Album: "[[Doo-Wops & Hooligans]]"
 CoverOf: ""

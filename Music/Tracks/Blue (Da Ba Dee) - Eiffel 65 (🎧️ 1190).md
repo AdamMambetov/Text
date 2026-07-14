@@ -2,7 +2,7 @@
 created: 2024-10-13T22:26:38+03:00
 aliases:
   - "Blue (Da Ba Dee)"
-Cover: ""
+Cover: "[[Eiffel 65 - Blue (Da Ba Dee).jpg]]"
 Year: 1998
 Album: "[[Blue (Da Ba Dee)]]"
 CoverOf: ""

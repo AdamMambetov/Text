@@ -2,7 +2,7 @@
 created: 2024-01-04T12:14:07+03:00
 aliases:
   - "I'm Dangerous"
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

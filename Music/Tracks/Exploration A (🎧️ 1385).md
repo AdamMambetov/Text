@@ -2,7 +2,7 @@
 created: 2024-12-12T20:42:38+03:00
 aliases:
   - "Exploration A"
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

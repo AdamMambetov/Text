@@ -2,7 +2,7 @@
 created: 2024-10-13T23:02:54+03:00
 aliases:
   - "Contradiction (feat. Tyler Carter)"
-Cover: ""
+Cover: "[[Ksuke - Contradiction_1.jpg]]"
 Year: 2020
 Album: "[[Contradiction (feat. Tyler Carter)]]"
 CoverOf: ""

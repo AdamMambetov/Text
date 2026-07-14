@@ -2,7 +2,7 @@
 created: 2022-04-22T21:36:40+03:00
 aliases:
   - "Make It Bun Dem"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Skrillex - Make It Bun Dem After Hours EP.jpg]]"
 Year: 2012
 Album: ""
 CoverOf: ""

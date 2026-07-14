@@ -2,7 +2,7 @@
 created: 2022-04-22T21:44:12+03:00
 aliases:
   - "World War Me"
-Cover: ""
+Cover: "[[Theory Of A Deadman - Savages.jpg]]"
 Year: 2014
 Album: "[[Savages [2014] {Theory Of A Deadman}]]"
 CoverOf: ""

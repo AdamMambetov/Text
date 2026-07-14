@@ -5,7 +5,7 @@ aliases:
   - "No Cry"
   - "Naruto OP 6"
   - "Наруто OP 6"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[STANCE PUNKS - No Boy, No Cry.jpg]]"
 Year: 2005
 Album: ""
 CoverOf: ""

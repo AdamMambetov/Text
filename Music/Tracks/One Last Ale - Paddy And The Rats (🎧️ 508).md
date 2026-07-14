@@ -2,7 +2,7 @@
 created: 2022-12-09T06:54:36+03:00
 aliases:
   - "One Last Ale"
-Cover: ""
+Cover: "[[Paddy And The Rats - One Last Ale.jpg]]"
 Year: 2018
 Album: "[[Riot City Outlaws]]"
 CoverOf: ""

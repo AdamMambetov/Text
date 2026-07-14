@@ -2,7 +2,7 @@
 created: 2022-06-09T01:54:54+03:00
 aliases:
   - "The Big Black"
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 Year: 2009
 Album: "[[TQBF - Speedkore 4 Kidz!]]"
 CoverOf: ""

@@ -3,7 +3,7 @@ created: 2025-12-13T16:27:09+03:00
 aliases:
   - "HIGHEST (TV Size)"
   - "Восхождение в тени OP 1"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[OxT - HIGHEST (TV Size).jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

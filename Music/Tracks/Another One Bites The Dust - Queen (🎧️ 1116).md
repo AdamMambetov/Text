@@ -2,7 +2,7 @@
 created: 2024-10-05T14:49:26+03:00
 aliases:
   - "Another One Bites The Dust"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Queen.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

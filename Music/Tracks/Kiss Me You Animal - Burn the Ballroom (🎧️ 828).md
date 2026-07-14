@@ -2,7 +2,7 @@
 created: 2023-09-29T16:23:23+03:00
 aliases:
   - "Kiss Me You Animal"
-Cover: ""
+Cover: "[[Burn The Ballroom - Kiss Me You Animal.jpg]]"
 Year: 2019
 Album: "[[Kiss Me You Animal]]"
 CoverOf: ""

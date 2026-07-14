@@ -2,7 +2,7 @@
 created: 2024-10-05T14:25:42+03:00
 aliases:
   - "Outsider"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Eve - Outsider.png]]"
 Year: 2018
 Album: ""
 CoverOf: ""

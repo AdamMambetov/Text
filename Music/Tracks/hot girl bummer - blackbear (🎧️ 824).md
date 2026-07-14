@@ -2,7 +2,7 @@
 created: 2023-09-29T16:23:18+03:00
 aliases:
   - "hot girl bummer"
-Cover: ""
+Cover: "[[blackbear - everything means nothing.jpg]]"
 Year: 2020
 Album: "[[everything means nothing]]"
 CoverOf: ""

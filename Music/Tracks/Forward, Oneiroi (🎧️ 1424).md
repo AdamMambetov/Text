@@ -2,7 +2,7 @@
 created: 2025-01-07T20:03:40+03:00
 aliases:
   - "Forward, Oneiroi"
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

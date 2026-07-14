@@ -2,7 +2,7 @@
 created: 2022-04-28T15:00:52+03:00
 aliases:
   - "Scared of the Dark"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Spider-Man Into the Spider-Verse.jpg]]"
 Year: 2018
 Album: "[[Spider-Man Into the Spider-Verse OST (📀 24)]]"
 CoverOf: ""

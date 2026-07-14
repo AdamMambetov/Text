@@ -2,7 +2,7 @@
 created: 2024-10-08T15:30:58+03:00
 aliases:
   - "7 Minutes In Heaven (Atavan Halen)"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Fall Out Boy - From Under the Cork Tree.png]]"
 Year: 2005
 Album: "[[From Under the Cork Tree]]"
 CoverOf: ""

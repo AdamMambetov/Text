@@ -2,7 +2,7 @@
 created: 2023-09-29T16:25:05+03:00
 aliases:
   - "False Mirror"
-Cover: ""
+Cover: "[[LIZER - False Mirror.png]]"
 Year: 2017
 Album: "[[False Mirror]]"
 CoverOf: ""

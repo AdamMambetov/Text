@@ -2,7 +2,7 @@
 created: 2023-09-29T16:23:26+03:00
 aliases:
   - "Leave It All Behind"
-Cover: ""
+Cover: "[[Cult To Follow - Leave It All Behind - Elements.jpg]]"
 Year: 2011
 Album: "[[Leave It All Behind - Elements]]"
 CoverOf: ""

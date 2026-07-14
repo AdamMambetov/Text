@@ -4,7 +4,7 @@ aliases:
   - "Pre-Parade"
   - "Toradora! OP 1"
   - "Торадора! OP 1"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Kugimiya Rie, Horie Yui, Kitamura Eri - Pre-Parade.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

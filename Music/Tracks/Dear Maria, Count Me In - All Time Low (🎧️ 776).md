@@ -2,7 +2,7 @@
 created: 2023-09-29T16:22:56+03:00
 aliases:
   - "Dear Maria, Count Me In"
-Cover: ""
+Cover: "[[All Time Low - So Wrong, It's Right.jpg]]"
 Year: 2007
 Album: "[[So Wrong, It's Right]]"
 CoverOf: ""

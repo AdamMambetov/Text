@@ -4,7 +4,7 @@ aliases:
   - "Irokousui"
   - "Horimiya OP 1"
   - "Хоримия OP 1"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Yoh Kamiyama - Irokousui.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

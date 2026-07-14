@@ -2,7 +2,7 @@
 created: 2024-10-05T14:52:06+03:00
 aliases:
   - "Tokyo Ghetto"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Eve - Tokyo Ghetto.jpg]]"
 Year: 2019
 Album: ""
 CoverOf: ""

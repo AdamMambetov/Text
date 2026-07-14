@@ -2,7 +2,7 @@
 created: 2024-10-05T15:53:04+03:00
 aliases:
   - "Vital"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Jackie-O - Vital.jpg]]"
 Year: 2019
 Album: ""
 CoverOf: "[[Vital - Endoh Masaaki]]"

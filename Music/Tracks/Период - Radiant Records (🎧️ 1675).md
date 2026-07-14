@@ -3,7 +3,7 @@ created: 2025-06-30T08:07:29+03:00
 aliases:
   - "Период"
   - "Period"
-Cover: ""
+Cover: "[[Radiant Records - Плач цикад.jpg]]"
 Year: 0
 Album: ""
 CoverOf: "[[Period - Chemistry]]"

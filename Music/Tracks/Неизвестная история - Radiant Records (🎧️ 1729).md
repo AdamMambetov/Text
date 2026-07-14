@@ -5,7 +5,7 @@ aliases:
   - "Kimi no Shiranai Monogatari"
   - "Bakemonogatari ED 1"
   - "Истории монстров ED 1"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Radiant Records - Ты принёс мечту.jpg]]"
 Year: 0
 Album: "[[ПЕРЕПУТЬЕ (📀 33)]]"
 CoverOf: "[[Kimi no Shiranai Monogatari - supercell (🎧️ 1653)]]"

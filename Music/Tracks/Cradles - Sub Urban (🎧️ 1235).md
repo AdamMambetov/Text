@@ -2,7 +2,7 @@
 created: 2024-10-13T23:08:02+03:00
 aliases:
   - "Cradles"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Sub Urban - Cradles_1.jpg]]"
 Year: 2019
 Album: ""
 CoverOf: ""

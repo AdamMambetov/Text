@@ -2,7 +2,7 @@
 created: 2024-08-03T18:05:43+03:00
 aliases:
   - "Senkyou no Igreja"
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 Year: 2007
 Album: "[[Umineko no Naku Koro ni OST (📀 30)]]"
 CoverOf: ""

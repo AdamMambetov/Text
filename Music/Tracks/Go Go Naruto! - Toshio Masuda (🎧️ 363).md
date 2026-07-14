@@ -2,7 +2,7 @@
 created: 2022-04-28T17:39:21+03:00
 aliases:
   - "Go Go Naruto!"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Naruto.jpg]]"
 Year: 2003
 Album: "[[Naruto OST 1 (📀 15)]]"
 CoverOf: ""

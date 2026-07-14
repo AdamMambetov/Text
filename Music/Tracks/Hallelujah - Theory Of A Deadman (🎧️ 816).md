@@ -2,7 +2,7 @@
 created: 2023-09-29T16:27:04+03:00
 aliases:
   - "Hallelujah"
-Cover: ""
+Cover: "[[Theory Of A Deadman - Hallelujah.jpg]]"
 Year: 2016
 Album: "[[Hallelujah]]"
 CoverOf: ""

@@ -2,7 +2,7 @@
 created: 2022-12-20T23:28:18+03:00
 aliases:
   - "Whistle"
-Cover: ""
+Cover: "[[Flo Rida - Wild Ones.jpg]]"
 Year: 2012
 Album: "[[Wild Ones]]"
 CoverOf: ""

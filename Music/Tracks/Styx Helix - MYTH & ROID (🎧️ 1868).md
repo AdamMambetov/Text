@@ -4,7 +4,7 @@ aliases:
   - "Styx Helix"
   - "ReZero ED 1"
   - "РеЗеро ED 1"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[MYTH_ROID_Official_Channel - Styx_Helix.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

@@ -2,7 +2,7 @@
 created: 2024-07-21T15:58:20+03:00
 aliases:
   - "Just Awake (TV Size)"
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

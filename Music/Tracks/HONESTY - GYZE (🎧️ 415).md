@@ -2,7 +2,7 @@
 created: 2022-05-11T18:16:52+03:00
 aliases:
   - "HONESTY"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[GYZE - HONESTY.jpg]]"
 Year: 2015
 Album: ""
 CoverOf: ""

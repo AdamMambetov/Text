@@ -2,7 +2,7 @@
 created: 2024-04-12T15:02:33+03:00
 aliases:
   - "Роза"
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 Year: 2007
 Album: "[[Umineko no Naku Koro ni OST (📀 30)]]"
 CoverOf: ""

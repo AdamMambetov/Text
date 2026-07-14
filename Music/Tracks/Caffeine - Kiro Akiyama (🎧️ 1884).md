@@ -2,7 +2,7 @@
 created: 2026-03-06T01:13:19+03:00
 aliases:
   - "Caffeine"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Kiro Akiyama - Caffeine.jpg]]"
 Year: 2020
 Album: ""
 CoverOf: ""

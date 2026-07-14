@@ -2,7 +2,7 @@
 created: 2022-04-22T21:29:52+03:00
 aliases:
   - "Ihr sollt nicht trauern"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Santiano - Haithabu - Im Auge des Sturms.jpg]]"
 Year: 2018
 Album: ""
 CoverOf: ""

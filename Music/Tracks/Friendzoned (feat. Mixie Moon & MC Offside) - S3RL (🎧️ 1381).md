@@ -2,7 +2,7 @@
 created: 2024-12-06T00:37:18+03:00
 aliases:
   - "Friendzoned"
-Cover: ""
+Cover: "[[S3RL,Mixie Moon,MC Offside - Friendzoned.jpg]]"
 Year: 2013
 Album: "[[Friendzoned]]"
 CoverOf: ""

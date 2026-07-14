@@ -3,7 +3,7 @@ created: 2025-07-14T23:12:46+03:00
 aliases:
   - "ODDTAXI"
   - "Случайное такси OP 1"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Skirt & PUNPEE - ODDTAXI.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

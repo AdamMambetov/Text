@@ -2,7 +2,7 @@
 created: 2022-05-02T03:29:18+03:00
 aliases:
   - "MEGALOVANIA"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Toby Fox - MEGALOVANIA.jpg]]"
 Year: 2015
 Album: "[[UNDERTALE Soundtrack]]"
 CoverOf: ""

@@ -2,7 +2,7 @@
 created: 2023-09-29T16:24:23+03:00
 aliases:
   - "Stay Alive"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Andy Black - The Shadow Side.jpg]]"
 Year: 2016
 Album: "[[The Shadow Side]]"
 CoverOf: ""

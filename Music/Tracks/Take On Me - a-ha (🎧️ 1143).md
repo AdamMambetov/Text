@@ -2,7 +2,7 @@
 created: 2024-10-08T15:36:44+03:00
 aliases:
   - "Take On Me"
-Cover: ""
+Cover: "[[a-ha - Take on Me.jpg]]"
 Year: 1985
 Album: "[[Hunting High and Low]]"
 CoverOf: ""

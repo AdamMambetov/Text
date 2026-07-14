@@ -2,7 +2,7 @@
 created: 2024-10-13T22:53:58+03:00
 aliases:
   - "Cocaine"
-Cover: ""
+Cover: "[[Nomy - Cocaine.jpg]]"
 Year: 2008
 Album: "[[Song Or Suicide]]"
 CoverOf: ""

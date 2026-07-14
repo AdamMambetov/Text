@@ -4,7 +4,7 @@ aliases:
   - "Fire (TV Size)"
   - "Dororo OP 1"
   - "Дороро OP 1"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Kaen - Fire (TV Size).jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

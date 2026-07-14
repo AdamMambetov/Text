@@ -2,7 +2,7 @@
 created: 2023-09-29T16:24:01+03:00
 aliases:
   - "On My Own"
-Cover: ""
+Cover: "[[Ashes Remain - What I've Become.jpg]]"
 Year: 2011
 Album: "[[What I've Become]]"
 CoverOf: ""

@@ -2,7 +2,7 @@
 created: 2022-12-20T10:49:52+03:00
 aliases:
   - "Freaks"
-Cover: ""
+Cover: "[[Surf Curse - Freaks.png]]"
 Year: 2021
 Album: "[[Freaks]]"
 CoverOf: ""

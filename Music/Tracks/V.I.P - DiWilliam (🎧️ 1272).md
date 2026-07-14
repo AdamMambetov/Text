@@ -2,7 +2,7 @@
 created: 2024-10-23T13:49:02+03:00
 aliases:
   - "V.I.P"
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: "[[V.I.P]]"
 CoverOf: ""

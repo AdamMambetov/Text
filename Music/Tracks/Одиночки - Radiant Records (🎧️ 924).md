@@ -2,7 +2,7 @@
 created: 2024-06-21T05:22:16+03:00
 aliases:
   - "Одиночки"
-Cover: ""
+Cover: "[[Radiant Records - Алая стрела.jpg]]"
 Year: 0
 Album: ""
 CoverOf: "[[Alones - Aqua Timez]]"

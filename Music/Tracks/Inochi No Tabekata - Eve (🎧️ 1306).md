@@ -4,7 +4,7 @@ aliases:
   - "Inochi No Tabekata"
   - "How to Eat Life"
   - "Способ поедания жизни"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Eve - Inochi no Tabekata.jpg]]"
 Year: 2020
 Album: ""
 CoverOf: ""

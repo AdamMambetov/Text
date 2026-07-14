@@ -2,7 +2,7 @@
 created: 2023-09-29T16:24:26+03:00
 aliases:
   - "End Credits"
-Cover: ""
+Cover: "[[Pirates of the Caribbean On Stranger Tides.jpg]]"
 Year: 2011
 Album: "[[Pirates of the Caribbean: On Stranger Tides]]"
 CoverOf: ""

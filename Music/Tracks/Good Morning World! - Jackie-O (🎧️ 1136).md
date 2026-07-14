@@ -4,7 +4,7 @@ aliases:
   - "Good Morning World!"
   - "Dr. Stone OP 1"
   - "Доктор Стоун OP 1"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Jackie-O - Good Morning World!.jpg]]"
 Year: 2020
 Album: ""
 CoverOf: "[[Good Morning World! - BURNOUT SYNDROMES]]"

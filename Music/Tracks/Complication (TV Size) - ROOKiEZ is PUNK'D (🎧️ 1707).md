@@ -4,7 +4,7 @@ aliases:
   - "Complication (TV Size)"
   - "Durarara OP 2"
   - "Дюрарара OP 2"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[ROOKiEZ is PUNK'D - Complication (TV Size).jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

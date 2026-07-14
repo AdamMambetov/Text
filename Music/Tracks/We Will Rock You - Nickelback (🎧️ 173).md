@@ -2,7 +2,7 @@
 created: 2022-04-22T21:13:28+03:00
 aliases:
   - "We Will Rock You"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Nickelback - Photograph - Single.jpg]]"
 Year: 2008
 Album: ""
 CoverOf: ""

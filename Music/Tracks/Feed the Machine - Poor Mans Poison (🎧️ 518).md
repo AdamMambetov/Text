@@ -2,7 +2,7 @@
 created: 2022-12-09T06:58:38+03:00
 aliases:
   - "Feed the Machine"
-Cover: ""
+Cover: "[[Poor Mans Poison - Feed the Machine.png]]"
 Year: 2020
 Album: "[[Feed the Machine]]"
 CoverOf: ""

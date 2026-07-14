@@ -2,7 +2,7 @@
 created: 2025-01-08T20:36:59+03:00
 aliases:
   - "Thunder"
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: "[[Thunder - Imagine Dragons (🎧️ 134)]]"

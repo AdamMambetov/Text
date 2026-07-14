@@ -2,7 +2,7 @@
 created: 2024-10-30T19:17:10+03:00
 aliases:
   - "Firestarter"
-Cover: ""
+Cover: "[[Manafest - Firestarter.jpg]]"
 Year: 2017
 Album: "[[Stones]]"
 CoverOf: ""

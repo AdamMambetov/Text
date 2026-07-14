@@ -2,7 +2,7 @@
 created: 2025-05-04T01:42:09+03:00
 aliases:
   - "Accidentally in Love"
-Cover: ""
+Cover: "[[Shrek 2 OST - 01 Accidentally in Love.jpg]]"
 Year: 2009
 Album: ""
 CoverOf: ""

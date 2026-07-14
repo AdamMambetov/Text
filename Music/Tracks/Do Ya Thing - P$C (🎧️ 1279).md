@@ -2,7 +2,7 @@
 created: 2024-10-23T14:26:26+03:00
 aliases:
   - "Do Ya Thing"
-Cover: ""
+Cover: "[[P$C - Do Ya Thing.jpg]]"
 Year: 2005
 Album: "[[25 to Life]]"
 CoverOf: ""

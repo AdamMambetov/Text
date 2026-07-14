@@ -2,7 +2,7 @@
 created: 2023-09-29T16:25:15+03:00
 aliases:
   - "Смерть луны"
-Cover: ""
+Cover: "[[Asper X - Asper X.jpg]]"
 Year: 2016
 Album: "[[Asper X]]"
 CoverOf: ""

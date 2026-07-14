@@ -2,7 +2,7 @@
 created: 2023-09-29T16:22:54+03:00
 aliases:
   - "Miss Kiss Kiss Bang"
-Cover: ""
+Cover: "[[Alex Swings Oscar Sings! - Heart 4 Sale.jpg]]"
 Year: 2009
 Album: "[[Heart 4 Sale]]"
 CoverOf: ""

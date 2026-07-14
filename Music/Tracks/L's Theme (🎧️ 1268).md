@@ -2,7 +2,7 @@
 created: 2024-10-13T23:33:10+03:00
 aliases:
   - "L's Theme"
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: "[[Death Note OST]]"
 CoverOf: ""

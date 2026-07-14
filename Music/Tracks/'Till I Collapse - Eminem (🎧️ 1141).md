@@ -2,7 +2,7 @@
 created: 2024-10-08T15:26:32+03:00
 aliases:
   - "'Till I Collapse"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Eminem - The Eminem Show.jpg]]"
 Year: 2002
 Album: "[[The Eminem Show]]"
 CoverOf: ""

@@ -2,7 +2,7 @@
 created: 2025-01-08T16:58:10+03:00
 aliases:
   - "Discussion -HEAT UP-"
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

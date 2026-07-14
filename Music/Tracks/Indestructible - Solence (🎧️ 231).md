@@ -2,7 +2,7 @@
 created: 2022-04-22T21:37:58+03:00
 aliases:
   - "Indestructible"
-Cover: ""
+Cover: "[[Solence - Deafening.png]]"
 Year: 2021
 Album: "[[Deafening [2021] {Solence}]]"
 CoverOf: ""

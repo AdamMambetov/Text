@@ -2,7 +2,7 @@
 created: 2025-01-08T20:35:14+03:00
 aliases:
   - "Radioactive"
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: "[[Radioactive - Imagine Dragons (🎧️ 132)]]"

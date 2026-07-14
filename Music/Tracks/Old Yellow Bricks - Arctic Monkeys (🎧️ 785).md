@@ -2,7 +2,7 @@
 created: 2023-09-29T16:24:00+03:00
 aliases:
   - "Old Yellow Bricks"
-Cover: ""
+Cover: "[[Arctic Monkeys - Favourite Worst Nightmare.jpg]]"
 Year: 2007
 Album: "[[Favourite Worst Nightmare]]"
 CoverOf: ""

@@ -2,7 +2,7 @@
 created: 2024-10-30T19:27:34+03:00
 aliases:
   - "Get Out Alive"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Three Days Grace - Get Out Alive.jpg]]"
 Year: 2006
 Album: ""
 CoverOf: ""

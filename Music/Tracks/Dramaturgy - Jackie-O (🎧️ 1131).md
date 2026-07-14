@@ -2,7 +2,7 @@
 created: 2024-10-05T15:33:12+03:00
 aliases:
   - "Dramaturgy"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Jackie-O - Dramaturgy.jpg]]"
 Year: 2022
 Album: ""
 CoverOf: "[[Dramaturgy - Eve (🎧️ 531)]]"

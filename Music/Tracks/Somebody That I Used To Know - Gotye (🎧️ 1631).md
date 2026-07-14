@@ -2,7 +2,7 @@
 created: 2025-05-04T01:59:08+03:00
 aliases:
   - "Somebody That I Used To Know"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Gotye feat. Kimbra - Somebody That I Used To Know.jpg]]"
 Year: 2011
 Album: ""
 CoverOf: ""

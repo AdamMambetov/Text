@@ -2,7 +2,7 @@
 created: 2022-04-22T20:51:30+03:00
 aliases:
   - "Gravity"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Hollywood Undead - Day Of The Dead.jpg]]"
 Year: 2015
 Album: ""
 CoverOf: ""

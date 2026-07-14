@@ -3,7 +3,7 @@ created: 2024-10-05T15:44:08+03:00
 aliases:
   - "HIGHEST"
   - "Восхождение в тени OP 1"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Jackie-O - HIGHEST.jpg]]"
 Year: 2023
 Album: ""
 CoverOf: "[[HIGHEST - OxT (🎧️ 590)]]"

@@ -2,7 +2,7 @@
 created: 2023-09-29T16:24:24+03:00
 aliases:
   - "Stay With Me"
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: "[[Stay With Me]]"
 CoverOf: ""

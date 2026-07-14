@@ -2,7 +2,7 @@
 created: 2024-12-12T20:41:48+03:00
 aliases:
   - "Your Turn to Go"
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

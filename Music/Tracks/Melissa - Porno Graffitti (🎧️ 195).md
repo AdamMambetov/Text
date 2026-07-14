@@ -4,7 +4,7 @@ aliases:
   - "Melissa"
   - "Fullmetal Alchemist OP 1"
   - "Стальной алхимик OP 1"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Porno Graffitti - Melissa.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

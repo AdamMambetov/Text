@@ -2,7 +2,7 @@
 created: 2022-04-22T20:52:28+03:00
 aliases:
   - "Young"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Hollywood Undead - Swan Songs.jpg]]"
 Year: 2008
 Album: ""
 CoverOf: ""

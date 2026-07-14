@@ -4,7 +4,7 @@ aliases:
   - "As You Like It"
   - "Okinimesumama"
   - "Как тебе будет угодно"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Jackie-O - As You Like It.jpg]]"
 Year: 2023
 Album: ""
 CoverOf: "[[Okinimesumama - Eve (🎧️ 1133)]]"

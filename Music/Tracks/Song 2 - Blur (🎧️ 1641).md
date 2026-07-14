@@ -2,7 +2,7 @@
 created: 2025-05-04T02:20:43+03:00
 aliases:
   - "Song 2"
-Cover: ""
+Cover: "[[Blur - Song 2.jpg]]"
 Year: 2009
 Album: ""
 CoverOf: ""

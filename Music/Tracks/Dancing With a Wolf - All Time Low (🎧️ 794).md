@@ -2,7 +2,7 @@
 created: 2023-09-29T16:22:55+03:00
 aliases:
   - "Dancing With a Wolf"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[All Time Low - Future Hearts.jpg]]"
 Year: 2015
 Album: "[[Future Hearts]]"
 CoverOf: ""

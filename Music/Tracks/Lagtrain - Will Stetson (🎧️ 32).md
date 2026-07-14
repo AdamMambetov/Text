@@ -2,7 +2,7 @@
 created: 2022-04-21T01:53:42+03:00
 aliases:
   - "Lagtrain"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Will Stetson - Lagtrain.jpg]]"
 Year: 2021
 Album: "[[Rainy Tunes]]"
 CoverOf: "[[Lagtrain - inabakumori (🎧️ 4)]]"

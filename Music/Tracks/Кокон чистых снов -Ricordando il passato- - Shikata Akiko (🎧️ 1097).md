@@ -2,7 +2,7 @@
 created: 2024-08-04T17:33:41+03:00
 aliases:
   - "Кокон чистых снов -Ricordando il passato-"
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 Year: 2007
 Album: "[[Umineko no Naku Koro ni OST (📀 30)]]"
 CoverOf: ""

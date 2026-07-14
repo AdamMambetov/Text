@@ -2,7 +2,7 @@
 created: 2023-09-29T16:24:33+03:00
 aliases:
   - "Shame on You"
-Cover: ""
+Cover: "[[Hot Hot Heat - Elevator.png]]"
 Year: 2005
 Album: "[[Elevator]]"
 CoverOf: ""

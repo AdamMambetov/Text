@@ -4,7 +4,7 @@ aliases:
   - "Onegai Muscle (TV Size)"
   - "Насколько тяжёлые гантели ты сможешь поднять OP 1"
   - "Сколько кило тянешь OP 1"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Ai Fairouz - Onegai Muscle (TV Size).jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

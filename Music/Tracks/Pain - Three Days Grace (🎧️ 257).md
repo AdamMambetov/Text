@@ -2,7 +2,7 @@
 created: 2022-04-22T21:47:32+03:00
 aliases:
   - "Pain"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Three Days Grace - One-X.jpg]]"
 Year: 2006
 Album: ""
 CoverOf: ""

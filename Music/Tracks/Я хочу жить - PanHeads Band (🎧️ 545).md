@@ -2,7 +2,7 @@
 created: 2022-12-20T23:15:30+03:00
 aliases:
   - "Я хочу жить"
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 Year: 2021
 Album: ""
 CoverOf: "[[I Want to Live - Skillet (🎧️ 317)]]"

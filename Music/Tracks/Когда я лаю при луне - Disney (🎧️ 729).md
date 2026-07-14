@@ -2,7 +2,7 @@
 created: 2023-09-29T16:25:06+03:00
 aliases:
   - "Когда я лаю при луне"
-Cover: ""
+Cover: "[[Bolt.jpg]]"
 Year: 2008
 Album: "[[Bolt OST (📀 8)]]"
 CoverOf: ""

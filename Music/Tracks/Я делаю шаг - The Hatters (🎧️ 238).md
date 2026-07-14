@@ -2,7 +2,7 @@
 created: 2022-04-22T21:39:58+03:00
 aliases:
   - "Я делаю шаг"
-Cover: ""
+Cover: "[[The Hatters - Shoot Me.jpg]]"
 Year: 2020
 Album: "[[Shoot Me [2020] {The Hatters}]]"
 CoverOf: ""

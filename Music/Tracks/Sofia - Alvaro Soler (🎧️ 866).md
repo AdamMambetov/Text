@@ -2,7 +2,7 @@
 created: 2023-09-29T16:24:21+03:00
 aliases:
   - "Sofia"
-Cover: ""
+Cover: "[[Alvaro Soler - Eterno Agosto.jpg]]"
 Year: 2015
 Album: "[[Eterno Agosto]]"
 CoverOf: ""

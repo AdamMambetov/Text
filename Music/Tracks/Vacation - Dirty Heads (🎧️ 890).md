@@ -2,7 +2,7 @@
 created: 2023-09-29T16:24:47+03:00
 aliases:
   - "Vacation"
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 Year: 2017
 Album: "[[Swim Team]]"
 CoverOf: ""

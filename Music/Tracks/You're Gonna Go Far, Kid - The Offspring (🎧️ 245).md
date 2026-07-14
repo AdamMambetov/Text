@@ -2,7 +2,7 @@
 created: 2022-04-22T21:41:22+03:00
 aliases:
   - "You're Gonna Go Far, Kid"
-Cover: ""
+Cover: "[[The Offspring - Rise And Fall, Rage And Grace.jpg]]"
 Year: 2008
 Album: "[[Rise And Fall, Rage And Grace [2008] {The Offspring}]]"
 CoverOf: ""

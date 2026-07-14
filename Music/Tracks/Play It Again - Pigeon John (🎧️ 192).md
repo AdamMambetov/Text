@@ -2,7 +2,7 @@
 created: 2022-04-22T21:20:00+03:00
 aliases:
   - "Play It Again"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Pigeon John - Play It Again.png]]"
 Year: 2020
 Album: ""
 CoverOf: ""

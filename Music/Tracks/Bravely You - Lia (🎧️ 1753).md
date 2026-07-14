@@ -4,7 +4,7 @@ aliases:
   - "Bravely You"
   - "Charlotte OP 1"
   - "Шарлотта OP 1"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Lia - Bravely You.jpg]]"
 Year: 0
 Album: ""
 CoverOf: "[[Bravely You (TV Size) - Lia (🎧️ 1079)]]"

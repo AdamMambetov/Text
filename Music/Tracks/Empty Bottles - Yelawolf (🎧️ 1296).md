@@ -2,7 +2,7 @@
 created: 2024-10-23T14:56:28+03:00
 aliases:
   - "Empty Bottles"
-Cover: ""
+Cover: "[[Yelawolf - Empty Bottles.jpg]]"
 Year: 2015
 Album: "[[Love Story]]"
 CoverOf: ""

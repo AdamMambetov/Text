@@ -2,7 +2,7 @@
 created: 2022-04-22T21:48:12+03:00
 aliases:
   - "On Top of the World"
-Cover: ""
+Cover: "[[Tim McMorris - On Top of the World.jpg]]"
 Year: 2015
 Album: "[[On Top of the World [2015] {Tim McMorris}]]"
 CoverOf: ""

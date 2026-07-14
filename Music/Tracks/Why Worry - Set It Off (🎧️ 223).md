@@ -2,7 +2,7 @@
 created: 2022-04-22T21:33:26+03:00
 aliases:
   - "Why Worry"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Set It Off - Duality.png]]"
 Year: 2015
 Album: ""
 CoverOf: ""

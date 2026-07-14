@@ -2,7 +2,7 @@
 created: 2024-10-13T23:29:48+03:00
 aliases:
   - "Datte Atashino Hero"
-Cover: ""
+Cover: "[[LiSA - Datte Atashino Hero.png]]"
 Year: 2017
 Album: "[[Datte Atashino Hero]]"
 CoverOf: ""

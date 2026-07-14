@@ -2,7 +2,7 @@
 created: 2022-04-28T17:50:32+03:00
 aliases:
   - "Fooling Mode"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Naruto OST - Fooling Mode.jpg]]"
 Year: 2004
 Album: "[[Naruto OST 2 (📀 16)]]"
 CoverOf: ""

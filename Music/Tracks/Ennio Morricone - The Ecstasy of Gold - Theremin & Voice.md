@@ -2,7 +2,7 @@
 created: 2025-07-31T19:27:56+03:00
 aliases:
   - "Ennio Morricone - The Ecstasy of Gold - Theremin & Voice"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Ennio Morricone - The Ecstasy of Gold - Theremin & Voice.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

@@ -4,7 +4,7 @@ aliases:
   - "Shinzou wo Sasageyo!"
   - "Attack on Titan OP 3"
   - "Атака титанов OP 3"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Jackie-O - Shinzou wo Sasageyo!.jpg]]"
 Year: 2017
 Album: ""
 CoverOf: "[[Shinzou wo Sasageyo! - Linked Horizon]]"

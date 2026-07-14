@@ -2,7 +2,7 @@
 created: 2024-10-13T23:08:56+03:00
 aliases:
   - "Creepin' Towards the Door"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Griffinilla - Creepin' Towards the Door.jpg]]"
 Year: 2015
 Album: "[[Creepin' Towards the Door (📀 9)]]"
 CoverOf: ""

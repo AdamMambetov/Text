@@ -4,7 +4,7 @@ aliases:
   - "Colors of the Heart"
   - "Blood+ OP 3"
   - "Кровь+ OP 3"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Jackie-O - Colors of the Heart.jpg]]"
 Year: 2020
 Album: ""
 CoverOf: "[[Colors of the Heart - UVERworld (🎧️ 1264)]]"

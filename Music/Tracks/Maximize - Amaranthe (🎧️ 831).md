@@ -2,7 +2,7 @@
 created: 2023-09-29T16:23:35+03:00
 aliases:
   - "Maximize"
-Cover: ""
+Cover: "[[Amaranthe - Maximalism.jpg]]"
 Year: 2016
 Album: "[[Maximalism]]"
 CoverOf: ""

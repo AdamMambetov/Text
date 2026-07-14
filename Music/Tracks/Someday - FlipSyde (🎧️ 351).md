@@ -2,7 +2,7 @@
 created: 2022-04-28T17:21:56+03:00
 aliases:
   - "Someday"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[FlipSyde - We The People.jpg]]"
 Year: 2005
 Album: "[[We The People]]"
 CoverOf: ""

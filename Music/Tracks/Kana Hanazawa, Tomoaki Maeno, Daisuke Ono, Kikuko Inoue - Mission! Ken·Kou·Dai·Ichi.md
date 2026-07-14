@@ -5,7 +5,7 @@ aliases:
   - "Tomoaki Maeno"
   - "Daisuke Ono"
   - "Kikuko Inoue - Mission! Ken·Kou·Dai·Ichi"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Kana Hanazawa, Tomoaki Maeno, Daisuke Ono, Kikuko Inoue - Mission! Ken·Kou·Dai·Ichi.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

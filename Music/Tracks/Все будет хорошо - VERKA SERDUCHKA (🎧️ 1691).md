@@ -2,7 +2,7 @@
 created: 2025-05-04T02:24:53+03:00
 aliases:
   - "Все будет хорошо"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[VERKA SERDUCHKA - Все будет хорошо.jpg]]"
 Year: 2012
 Album: ""
 CoverOf: ""

@@ -2,7 +2,7 @@
 created: 2022-04-28T01:59:38+03:00
 aliases:
   - "Сам"
-Cover: ""
+Cover: "[[Noize MC - Сам.jpg]]"
 Year: 2012
 Album: "[[Новый альбом]]"
 CoverOf: ""

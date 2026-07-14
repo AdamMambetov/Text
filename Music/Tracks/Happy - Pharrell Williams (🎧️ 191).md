@@ -2,7 +2,7 @@
 created: 2022-04-22T21:19:50+03:00
 aliases:
   - "Happy"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Pharrell Williams - GIRL.png]]"
 Year: 2014
 Album: ""
 CoverOf: ""

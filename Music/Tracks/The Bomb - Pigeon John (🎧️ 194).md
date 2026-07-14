@@ -2,7 +2,7 @@
 created: 2022-04-22T21:20:18+03:00
 aliases:
   - "The Bomb"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Pigeon John - Dragon Slayer.jpg]]"
 Year: 2011
 Album: ""
 CoverOf: ""

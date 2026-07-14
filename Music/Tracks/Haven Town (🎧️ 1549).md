@@ -2,7 +2,7 @@
 created: 2025-01-08T18:37:10+03:00
 aliases:
   - "Haven Theme"
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

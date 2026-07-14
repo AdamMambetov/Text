@@ -2,7 +2,7 @@
 created: 2023-09-29T16:23:58+03:00
 aliases:
   - "No Friends"
-Cover: ""
+Cover: "[[Cadmium - No Friends.jpg]]"
 Year: 2020
 Album: "[[No Friends]]"
 CoverOf: ""

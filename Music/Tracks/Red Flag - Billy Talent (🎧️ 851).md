@@ -2,7 +2,7 @@
 created: 2023-09-29T16:24:10+03:00
 aliases:
   - "Red Flag"
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 Year: 2006
 Album: "[[Billy Talent II]]"
 CoverOf: ""

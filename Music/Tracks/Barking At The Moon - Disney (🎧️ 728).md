@@ -2,7 +2,7 @@
 created: 2023-09-29T16:23:45+03:00
 aliases:
   - "Barking At The Moon"
-Cover: ""
+Cover: "[[Bolt.jpg]]"
 Year: 2008
 Album: "[[Bolt OST (📀 8)]]"
 CoverOf: ""

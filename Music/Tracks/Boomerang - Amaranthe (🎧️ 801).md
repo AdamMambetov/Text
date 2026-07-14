@@ -2,7 +2,7 @@
 created: 2023-09-29T16:23:01+03:00
 aliases:
   - "Boomerang"
-Cover: ""
+Cover: "[[Amaranthe - Maximalism.jpg]]"
 Year: 2016
 Album: "[[Maximalism]]"
 CoverOf: ""

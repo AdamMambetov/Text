@@ -2,7 +2,7 @@
 created: 2022-04-26T01:34:22+03:00
 aliases:
   - "Rebirthing"
-Cover: ""
+Cover: "[[Skillet - Rise_1.jpg]]"
 Year: 2006
 Album: "[[Comatose [2006] {Skillet}]]"
 CoverOf: ""

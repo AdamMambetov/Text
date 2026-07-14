@@ -2,7 +2,7 @@
 created: 2025-11-14T12:04:10+03:00
 aliases:
   - "Serena_-3 - ReZero_kara_Hajimeru_Isekai_Seikatsu_Ost_07_Appa"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Serena_-3 - ReZero_kara_Hajimeru_Isekai_Seikatsu_Ost_04_Timbre_of_the_Beginning.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

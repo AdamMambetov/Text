@@ -2,7 +2,7 @@
 created: 2022-12-09T06:56:16+03:00
 aliases:
   - "All Eyes"
-Cover: ""
+Cover: "[[Imagine Dragons - Hell And Silence EP.jpg]]"
 Year: 2010
 Album: "[[Hell And Silence EP]]"
 CoverOf: ""

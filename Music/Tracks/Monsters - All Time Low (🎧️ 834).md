@@ -2,7 +2,7 @@
 created: 2023-09-29T16:23:50+03:00
 aliases:
   - "Monsters"
-Cover: ""
+Cover: "[[All Time Low - Wake Up, Sunshine.jpg]]"
 Year: 2020
 Album: "[[Wake Up, Sunshine]]"
 CoverOf: ""

@@ -2,7 +2,7 @@
 created: 2022-04-22T20:48:10+03:00
 aliases:
   - "Holiday"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Green Day - Holiday.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

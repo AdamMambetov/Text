@@ -3,7 +3,7 @@ created: 2025-06-02T23:47:12+03:00
 aliases:
   - "Nirvana"
   - "Я и лис из секретной службы OP 1"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[MUCC - Nirvana.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

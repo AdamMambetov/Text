@@ -2,7 +2,7 @@
 created: 2024-06-14T19:18:08+03:00
 aliases:
   - "Dungeon Town Theme"
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

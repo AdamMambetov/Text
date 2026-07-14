@@ -2,7 +2,7 @@
 created: 2024-10-08T15:35:04+03:00
 aliases:
   - "Ame to Kusari"
-Cover: ""
+Cover: "[[Onsa Media - Ame to Kusari.png]]"
 Year: 2021
 Album: "[[Ame to Kusari]]"
 CoverOf: ""

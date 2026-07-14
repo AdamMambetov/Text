@@ -2,7 +2,7 @@
 created: 2024-10-08T15:35:56+03:00
 aliases:
   - "Re:Re:"
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 Year: 2019
 Album: "[[Re:Re:]]"
 CoverOf: ""

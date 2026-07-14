@@ -2,7 +2,7 @@
 created: 2023-10-26T20:24:39+03:00
 aliases:
   - "Radio"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Rammstein - Ramstein.jpg]]"
 Year: 2019
 Album: ""
 CoverOf: ""

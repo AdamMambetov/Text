@@ -2,7 +2,7 @@
 created: 2024-10-13T23:21:12+03:00
 aliases:
   - "Hurricane (Yamai Battle Theme)"
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: "[[Date A Live 2 OST]]"
 CoverOf: ""

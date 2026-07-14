@@ -2,7 +2,7 @@
 created: 2022-04-22T21:31:24+03:00
 aliases:
   - "Never Looking Back"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Scarlet White - Scarlet White.jpg]]"
 Year: 2012
 Album: ""
 CoverOf: ""

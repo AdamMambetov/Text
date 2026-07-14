@@ -2,7 +2,7 @@
 created: 2024-12-06T00:57:22+03:00
 aliases:
   - "River Flows In You (A Love Note)"
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

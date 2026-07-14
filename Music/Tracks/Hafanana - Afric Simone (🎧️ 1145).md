@@ -2,7 +2,7 @@
 created: 2024-10-08T15:40:42+03:00
 aliases:
   - "Hafanana"
-Cover: ""
+Cover: "[[Afric Simone - Hafanana.jpg]]"
 Year: 1976
 Album: "[[Hafanana / Vagabundo]]"
 CoverOf: ""

@@ -2,7 +2,7 @@
 created: 2023-09-29T16:23:21+03:00
 aliases:
   - "Hand of Blood"
-Cover: ""
+Cover: "[[Bullet For My Valentine - Hand of Blood.jpg]]"
 Year: 2005
 Album: "[[Hand of Blood]]"
 CoverOf: ""

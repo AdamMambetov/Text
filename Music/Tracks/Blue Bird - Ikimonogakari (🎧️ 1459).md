@@ -4,7 +4,7 @@ aliases:
   - "Blue Bird"
   - "Naruto Shippuuden OP 3"
   - "Наруто Ураганные хроники OP 3"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Ikimonogakari - Blue Bird.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

@@ -2,7 +2,7 @@
 created: 2022-04-22T21:04:46+03:00
 aliases:
   - "Roundtable Rival"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Lindsey Stirling - Shatter Me.jpg]]"
 Year: 2014
 Album: ""
 CoverOf: ""

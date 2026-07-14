@@ -2,7 +2,7 @@
 created: 2025-02-03T08:19:24+03:00
 aliases:
   - "7 -seven- (TV Size)"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[FLOW - 7 -seven- (TV SIZE).jpg]]"
 Year: 2014
 Album: "[[7 -seven-]]"
 CoverOf: ""

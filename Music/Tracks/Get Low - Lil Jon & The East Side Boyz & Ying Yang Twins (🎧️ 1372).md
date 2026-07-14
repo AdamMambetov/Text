@@ -2,7 +2,7 @@
 created: 2024-10-30T19:26:48+03:00
 aliases:
   - "Get Low"
-Cover: ""
+Cover: "[[Lil Jon & The East Side Boyz - Get Low.jpg]]"
 Year: 2002
 Album: "[[Kings of Crunk]]"
 CoverOf: ""

@@ -2,7 +2,7 @@
 created: 2022-04-22T21:49:56+03:00
 aliases:
   - "Stressed Out"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[twenty one pilots - Blurryface.jpg]]"
 Year: 2015
 Album: ""
 CoverOf: ""

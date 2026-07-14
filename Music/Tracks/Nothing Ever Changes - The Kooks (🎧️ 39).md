@@ -2,7 +2,7 @@
 created: 2022-04-21T01:54:02+03:00
 aliases:
   - "Nothing Ever Changes"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[The Kooks - Konk (Deluxe).jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

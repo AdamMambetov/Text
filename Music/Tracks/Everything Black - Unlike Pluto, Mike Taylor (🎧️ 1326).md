@@ -2,7 +2,7 @@
 created: 2024-10-23T15:05:20+03:00
 aliases:
   - "Everything Black"
-Cover: ""
+Cover: "[[Everything Black.png]]"
 Year: 2017
 Album: "[[Everything Black]]"
 CoverOf: ""

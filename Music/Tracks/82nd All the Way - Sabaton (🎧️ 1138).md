@@ -2,7 +2,7 @@
 created: 2024-10-08T15:32:10+03:00
 aliases:
   - "82nd All the Way"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Sabaton - The Great War.jpg]]"
 Year: 2019
 Album: "[[The Great War]]"
 CoverOf: ""

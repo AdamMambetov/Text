@@ -3,7 +3,7 @@ created: 2022-12-09T21:37:04+03:00
 aliases:
   - "Kiminosei"
   - "Этот глупый свин не понимает мечту девочки-зайки OP 1"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[the peggies - Hell Like Heaven.jpg]]"
 Year: 2019
 Album: ""
 CoverOf: ""

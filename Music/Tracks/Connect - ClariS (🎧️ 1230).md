@@ -4,7 +4,7 @@ aliases:
   - "Connect"
   - "Madoka OP 1"
   - "Мадока OP 1"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[ClariS - Connect.jpg]]"
 Year: 2012
 Album: ""
 CoverOf: ""

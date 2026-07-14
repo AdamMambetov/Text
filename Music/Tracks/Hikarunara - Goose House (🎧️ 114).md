@@ -4,7 +4,7 @@ aliases:
   - "Hikarunara"
   - "My April Lie OP 1"
   - "Моя апрельская ложь OP 1"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Goose House - Milk.jpg]]"
 Year: 2015
 Album: ""
 CoverOf: ""

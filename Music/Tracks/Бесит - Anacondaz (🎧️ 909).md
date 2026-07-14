@@ -2,7 +2,7 @@
 created: 2023-09-29T16:25:03+03:00
 aliases:
   - "Бесит"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Anacondaz - Байки инсайдера.jpg]]"
 Year: 2015
 Album: "[[Байки инсайдера]]"
 CoverOf: ""

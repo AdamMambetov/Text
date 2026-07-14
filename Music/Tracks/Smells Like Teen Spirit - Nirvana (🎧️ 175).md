@@ -2,7 +2,7 @@
 created: 2022-04-22T21:14:18+03:00
 aliases:
   - "Smells Like Teen Spirit"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Nirvana - Nirvana.jpg]]"
 Year: 2002
 Album: ""
 CoverOf: ""

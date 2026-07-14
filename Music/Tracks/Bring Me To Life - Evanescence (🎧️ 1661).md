@@ -2,7 +2,7 @@
 created: 2025-05-04T02:21:33+03:00
 aliases:
   - "Bring Me To Life"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Evanescence - Bring Me To Life.jpg]]"
 Year: 2009
 Album: ""
 CoverOf: ""

@@ -2,7 +2,7 @@
 created: 2023-09-29T16:27:19+03:00
 aliases:
   - "Touch off"
-Cover: ""
+Cover: "[[UVERworld - Touch off.jpg]]"
 Year: 2019
 Album: "[[Touch off]]"
 CoverOf: ""

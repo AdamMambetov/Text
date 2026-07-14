@@ -2,7 +2,7 @@
 created: 2022-04-22T21:18:40+03:00
 aliases:
   - "I Write Sins Not Tragedies"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Panic! At The Disco - A Fever You Can't Sweat Out.jpg]]"
 Year: 2005
 Album: ""
 CoverOf: ""

@@ -6,7 +6,7 @@ aliases:
   - "SAO OP 8"
   - "Мастера меча онлайн OP 8"
   - "САО OP 8"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Sati Akura - ANIMA_1.jpg]]"
 Year: 2020
 Album: ""
 CoverOf: "[[ANIMA - ReoNa]]"

@@ -2,7 +2,7 @@
 created: 2023-09-29T16:22:44+03:00
 aliases:
   - "Heart ni Hi wo Tsukete"
-Cover: ""
+Cover: "[[9mm Parabellum Bullet - Heart ni Hi wo Tsukete.jpg]]"
 Year: 2012
 Album: "[[Heart ni Hi wo Tsukete]]"
 CoverOf: ""

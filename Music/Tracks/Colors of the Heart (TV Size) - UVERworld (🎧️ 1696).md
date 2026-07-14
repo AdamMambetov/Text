@@ -4,7 +4,7 @@ aliases:
   - "Colors of the Heart (TV Size)"
   - "Blood+ OP 3"
   - "Кровь+ OP 3"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[UVERworld - Colors of the Heart (TV Size).jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

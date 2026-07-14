@@ -2,7 +2,7 @@
 created: 2022-05-02T04:00:48+03:00
 aliases:
   - "Coward Killing Time"
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 Year: 2008
 Album: "[[The Quick Brown Fox]]"
 CoverOf: ""

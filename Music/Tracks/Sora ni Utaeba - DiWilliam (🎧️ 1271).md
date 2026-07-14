@@ -2,7 +2,7 @@
 created: 2024-10-23T13:48:10+03:00
 aliases:
   - "Sora ni Utaeba"
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 Year: 2019
 Album: "[[Sora ni Utaeba]]"
 CoverOf: ""

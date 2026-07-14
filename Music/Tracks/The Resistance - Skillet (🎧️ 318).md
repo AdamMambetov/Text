@@ -2,7 +2,7 @@
 created: 2022-04-26T01:32:28+03:00
 aliases:
   - "The Resistance"
-Cover: ""
+Cover: "[[Skillet - Unleashed.jpg]]"
 Year: 2016
 Album: "[[Unleashed [2016] {Skillet}]]"
 CoverOf: ""

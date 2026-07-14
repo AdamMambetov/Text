@@ -2,7 +2,7 @@
 created: 2022-04-28T17:23:10+03:00
 aliases:
   - "Someday"
-Cover: ""
+Cover: "[[OneRepublic - Someday.jpg]]"
 Year: 2021
 Album: "[[Human]]"
 CoverOf: ""

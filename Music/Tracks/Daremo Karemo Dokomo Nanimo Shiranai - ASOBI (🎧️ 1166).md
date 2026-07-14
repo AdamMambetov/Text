@@ -2,7 +2,7 @@
 created: 2024-10-10T22:28:34+03:00
 aliases:
   - "Daremo Karemo Dokomo Nanimo Shiranai"
-Cover: ""
+Cover: "[[ASOBI - Daremo Karemo Dokomo Nanimo Shiranai.jpg]]"
 Year: 2023
 Album: "[[Tengoku-Daimakyo the Animation ending Theme - Daremo Karemo Dokomo Nanimo Shiranai - Single]]"
 CoverOf: ""

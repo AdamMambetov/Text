@@ -3,7 +3,7 @@ created: 2022-04-21T04:42:14+03:00
 aliases:
   - "Перерождение"
   - "Rebirthing"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Everblack Melodies - Перерождение.png]]"
 Year: 2022
 Album: ""
 CoverOf: "[[Rebirthing - Skillet (🎧️ 319)]]"

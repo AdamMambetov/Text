@@ -2,7 +2,7 @@
 created: 2022-12-20T22:33:16+03:00
 aliases:
   - "Dramaturgy"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Eve - Bunka.jpg]]"
 Year: 2017
 Album: ""
 CoverOf: ""

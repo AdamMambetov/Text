@@ -2,7 +2,7 @@
 created: 2024-12-12T21:15:06+03:00
 aliases:
   - "Alberto Baldan Bembo - Nostalgia per Eva"
-Cover: ""
+Cover: "[[Alberto Baldan Bembo - Nostalgia per Eva.png]]"
 Year: 2017
 Album: ""
 CoverOf: ""

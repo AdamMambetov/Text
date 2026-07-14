@@ -2,7 +2,7 @@
 created: 2022-04-22T20:55:44+03:00
 aliases:
   - "Roots"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Imagine Dragons - Roots.jpg]]"
 Year: 2015
 Album: ""
 CoverOf: ""

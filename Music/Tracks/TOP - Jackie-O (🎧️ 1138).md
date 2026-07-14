@@ -4,7 +4,7 @@ aliases:
   - "TOP"
   - "Tower of God OP 1"
   - "Башня Бога OP 1"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Jackie-O - TOP.jpg]]"
 Year: 2020
 Album: ""
 CoverOf: "[[TOP - Stray Kids]]"

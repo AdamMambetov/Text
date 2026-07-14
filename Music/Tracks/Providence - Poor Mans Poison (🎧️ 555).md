@@ -2,7 +2,7 @@
 created: 2022-12-20T23:22:42+03:00
 aliases:
   - "Providence"
-Cover: ""
+Cover: "[[Poor Mans Poison - Providence.jpg]]"
 Year: 2014
 Album: "[[Providence]]"
 CoverOf: ""

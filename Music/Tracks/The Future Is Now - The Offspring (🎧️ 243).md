@@ -2,7 +2,7 @@
 created: 2022-04-22T21:40:56+03:00
 aliases:
   - "The Future Is Now"
-Cover: ""
+Cover: "[[The Offspring - Secrets From The Underground.jpg]]"
 Year: 2012
 Album: "[[Days Go By [2012] {The Offspring}]]"
 CoverOf: ""

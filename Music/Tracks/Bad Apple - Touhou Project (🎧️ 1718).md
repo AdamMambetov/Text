@@ -2,7 +2,7 @@
 created: 2025-06-29T22:02:33+03:00
 aliases:
   - "Bad Apple"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Touhou Project - Bad Apple.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

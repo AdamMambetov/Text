@@ -2,7 +2,7 @@
 created: 2022-04-21T01:52:59+03:00
 aliases:
   - "Astronaut In The Ocean"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Our Last Night - Astronaut In The Ocean.jpg]]"
 Year: 2021
 Album: ""
 CoverOf: ""

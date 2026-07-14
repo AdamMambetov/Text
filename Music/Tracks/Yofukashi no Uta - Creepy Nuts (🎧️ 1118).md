@@ -2,7 +2,7 @@
 created: 2024-10-05T15:15:47+03:00
 aliases:
   - "Yofukashi no Uta"
-Cover: ""
+Cover: "[[Creepy Nuts - Yofukashi no Uta.png]]"
 Year: 2019
 Album: ""
 CoverOf: ""

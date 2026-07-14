@@ -2,7 +2,7 @@
 created: 2025-02-03T08:18:16+03:00
 aliases:
   - "Knew day"
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 Year: 2016
 Album: ""
 CoverOf: ""

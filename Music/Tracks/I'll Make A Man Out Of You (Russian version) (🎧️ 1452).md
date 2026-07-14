@@ -6,7 +6,7 @@ Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""
-Creators:
+Creators: []
 ListenInSec: 363
 NumberInAlbum: 1
 related:

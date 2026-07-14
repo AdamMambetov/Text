@@ -2,7 +2,7 @@
 created: 2025-01-07T20:03:08+03:00
 aliases:
   - "More Bones to Sort"
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

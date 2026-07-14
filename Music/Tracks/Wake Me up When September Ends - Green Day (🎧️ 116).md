@@ -2,7 +2,7 @@
 created: 2022-04-22T20:48:24+03:00
 aliases:
   - "Wake Me up When September Ends"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Green Day - Holiday.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

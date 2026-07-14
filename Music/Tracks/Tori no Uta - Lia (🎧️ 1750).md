@@ -5,7 +5,7 @@ aliases:
   - "Птичья песнь"
   - "Air OP 1"
   - "Высь OP 1"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Lia - Tori no Uta (Full).jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

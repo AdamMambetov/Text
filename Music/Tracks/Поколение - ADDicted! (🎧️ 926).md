@@ -2,7 +2,7 @@
 created: 2023-09-29T16:25:09+03:00
 aliases:
   - "Поколение"
-Cover: ""
+Cover: "[[ADDicted! - Поколение.jpg]]"
 Year: 2020
 Album: "[[Поколение]]"
 CoverOf: ""

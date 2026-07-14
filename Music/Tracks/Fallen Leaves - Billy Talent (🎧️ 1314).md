@@ -2,7 +2,7 @@
 created: 2024-10-23T15:14:22+03:00
 aliases:
   - "Fallen Leaves"
-Cover: ""
+Cover: "[[Billy Talent - Fallen Leaves.jpg]]"
 Year: 2006
 Album: "[[Billy Talent II]]"
 CoverOf: ""

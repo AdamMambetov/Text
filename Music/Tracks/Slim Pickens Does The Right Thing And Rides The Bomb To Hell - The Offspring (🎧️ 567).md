@@ -2,7 +2,7 @@
 created: 2022-12-20T23:36:30+03:00
 aliases:
   - "Slim Pickens Does The Right Thing And Rides The Bomb To Hell"
-Cover: ""
+Cover: "[[The Offspring - Secrets From The Underground.jpg]]"
 Year: 2012
 Album: "[[Days Go By]]"
 CoverOf: ""

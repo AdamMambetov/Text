@@ -2,7 +2,7 @@
 created: 2022-04-22T20:55:06+03:00
 aliases:
   - "Lonely"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Imagine Dragons - Mercury.jpg]]"
 Year: 2021
 Album: ""
 CoverOf: ""

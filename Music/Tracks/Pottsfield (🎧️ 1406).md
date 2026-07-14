@@ -2,7 +2,7 @@
 created: 2025-01-07T19:56:32+03:00
 aliases:
   - "Pottsfield"
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

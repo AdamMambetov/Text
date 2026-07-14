@@ -2,7 +2,7 @@
 created: 2025-01-07T20:01:40+03:00
 aliases:
   - "Over the Garden Wall"
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

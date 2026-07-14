@@ -2,7 +2,7 @@
 created: 2023-09-29T16:24:08+03:00
 aliases:
   - "Private Eye"
-Cover: ""
+Cover: "[[Alkaline Trio - From Here To Infirmary.jpg]]"
 Year: 2001
 Album: "[[From Here To Infirmary]]"
 CoverOf: ""

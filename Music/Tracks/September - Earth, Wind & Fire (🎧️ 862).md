@@ -2,7 +2,7 @@
 created: 2023-09-29T16:24:19+03:00
 aliases:
   - "September"
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 Year: 1978
 Album: "[[The Best Of Earth, Wind & Fire Vol. 1]]"
 CoverOf: ""

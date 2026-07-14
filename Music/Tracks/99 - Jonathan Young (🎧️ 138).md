@@ -4,7 +4,7 @@ aliases:
   - "99"
   - "Mob Psycho 100 OP 1"
   - "Моб Психо 100 OP 1"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Jonathan Young - Young's Old Covers (Anime).jpg]]"
 Year: 0
 Album: ""
 CoverOf: "[[99 - Mob Choir (🎧️ 1452)]]"

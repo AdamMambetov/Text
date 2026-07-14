@@ -3,7 +3,7 @@ created: 2022-04-21T03:46:50+03:00
 aliases:
   - "Война перемен"
   - "War of Change"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Everblack Melodies - Вопреки всему.jpg]]"
 Year: 2020
 Album: ""
 CoverOf: "[[War of Change - Thousand Foot Krutch (🎧️ 255)]]"

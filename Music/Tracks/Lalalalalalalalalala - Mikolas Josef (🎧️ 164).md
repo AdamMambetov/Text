@@ -2,7 +2,7 @@
 created: 2022-04-22T21:10:04+03:00
 aliases:
   - "Lalalalalalalalalala"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Mikolas Josef - Lalalalalalalalalala.jpg]]"
 Year: 2020
 Album: ""
 CoverOf: ""

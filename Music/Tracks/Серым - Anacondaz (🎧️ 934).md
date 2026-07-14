@@ -2,7 +2,7 @@
 created: 2023-09-29T16:25:13+03:00
 aliases:
   - "Серым"
-Cover: ""
+Cover: "[[Anacondaz - Перезвони мне +79995771202 (Deluxe).jpg]]"
 Year: 2022
 Album: "[[Перезвони мне +79995771202 (Deluxe)]]"
 CoverOf: ""

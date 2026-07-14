@@ -5,7 +5,7 @@ aliases:
   - "Mirai Nikki OP 1"
   - "Futute Diary OP 1"
   - "Дневник будущего OP 1"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[PelleK & Raon Lee - Mirai Nikki.png]]"
 Year: 2015
 Album: ""
 CoverOf: "[[Kuusou Mesorogiwi - Yousei Teikoku (🎧️ 640)]]"

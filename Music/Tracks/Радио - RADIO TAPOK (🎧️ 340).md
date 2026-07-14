@@ -3,7 +3,7 @@ created: 2022-04-28T01:59:42+03:00
 aliases:
   - "Радио"
   - "Radio"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[RADIO TAPOK - Радио.jpg]]"
 Year: 2020
 Album: ""
 CoverOf: "[[Radio - Rammstein (🎧️ 869)]]"

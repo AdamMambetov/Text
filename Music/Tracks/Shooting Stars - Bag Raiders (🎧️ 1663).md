@@ -2,7 +2,7 @@
 created: 2025-05-04T02:08:34+03:00
 aliases:
   - "Shooting Stars"
-Cover: ""
+Cover: "[[Bag Raiders - Shooting Stars.jpg]]"
 Year: 2018
 Album: "[[Shooting Stars]]"
 CoverOf: ""

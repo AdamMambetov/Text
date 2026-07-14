@@ -2,7 +2,7 @@
 created: 2023-09-29T16:33:25+03:00
 aliases:
   - "Kiri"
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 Year: 2007
 Album: "[[Ergo Proxy OST opus 01]]"
 CoverOf: ""

@@ -2,7 +2,7 @@
 created: 2024-10-13T22:55:46+03:00
 aliases:
   - "Comatose"
-Cover: ""
+Cover: "[[Skillet - Comatose.jpg]]"
 Year: 2006
 Album: "[[Comatose]]"
 CoverOf: ""

@@ -4,7 +4,7 @@ aliases:
   - "The Day"
   - "My Hero Academia OP 1"
   - "Моя геройская академия OP 1"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Porno Graffitti - The Day.jpg]]"
 Year: 2017
 Album: ""
 CoverOf: ""

@@ -2,7 +2,7 @@
 created: 2024-10-23T15:06:38+03:00
 aliases:
   - "Everywhere I Go"
-Cover: ""
+Cover: "[[Hollywood Undead - Swan Songs.jpg]]"
 Year: 2008
 Album: "[[Swan Songs]]"
 CoverOf: ""

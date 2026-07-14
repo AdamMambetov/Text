@@ -2,7 +2,7 @@
 created: 2025-11-19T02:11:50+03:00
 aliases:
   - "Offbeat Steps"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[ReZero 2 OST 2 - 15 Contract.jpg]]"
 Year: 2021
 Album: "[[ReZero 2 OST 2 (📀 42)]]"
 CoverOf: ""

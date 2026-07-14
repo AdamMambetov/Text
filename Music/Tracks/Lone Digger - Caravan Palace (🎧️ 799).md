@@ -2,7 +2,7 @@
 created: 2023-09-29T16:23:27+03:00
 aliases:
   - "Lone Digger"
-Cover: ""
+Cover: "[[Caravan Palace - Robot Face.jpg]]"
 Year: 2015
 Album: "[[<I°_°I>]]"
 CoverOf: ""

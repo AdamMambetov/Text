@@ -2,7 +2,7 @@
 created: 2023-09-29T16:24:18+03:00
 aliases:
   - "Sacrifice"
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 Year: 2017
 Album: "[[Sacrifice]]"
 CoverOf: ""

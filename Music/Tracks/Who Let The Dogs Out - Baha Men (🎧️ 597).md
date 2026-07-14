@@ -2,7 +2,7 @@
 created: 2023-07-09T18:49:08+03:00
 aliases:
   - "Who Let The Dogs Out"
-Cover: ""
+Cover: "[[Baha Men - Who Let The Dogs Out.jpg]]"
 Year: 2010
 Album: "[[10 Great Songs]]"
 CoverOf: ""

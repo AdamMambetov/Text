@@ -2,7 +2,7 @@
 created: 2023-09-29T16:24:43+03:00
 aliases:
   - "Umbrella"
-Cover: ""
+Cover: "[[All Time Low - Umbrella.jpg]]"
 Year: 2009
 Album: "[[Umbrella]]"
 CoverOf: ""

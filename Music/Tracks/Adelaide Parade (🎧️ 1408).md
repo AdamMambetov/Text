@@ -2,7 +2,7 @@
 created: 2025-01-07T19:57:32+03:00
 aliases:
   - "Adelaide Parade"
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

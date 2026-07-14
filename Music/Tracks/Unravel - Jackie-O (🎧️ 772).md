@@ -4,7 +4,7 @@ aliases:
   - "Unravel"
   - "Tokyo Ghoul OP 1"
   - "Токийский гуль OP 1"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Jackie-O - Unravel.jpg]]"
 Year: 2014
 Album: ""
 CoverOf: "[[Unravel - TK from Ling tosite sigure (🎧️ 1438)]]"

@@ -4,7 +4,7 @@ aliases:
   - "Flashback"
   - "Kokkoku OP 1"
   - "Миг за мигом OP 1"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Miyavi - SAMURAI SESSIONS vol.2.jpg]]"
 Year: 2017
 Album: "[[SAMURAI SESSIONS vol.2]]"
 CoverOf: ""

@@ -2,7 +2,7 @@
 created: 2022-04-22T21:26:36+03:00
 aliases:
   - "Sonne"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Rammstein - Mutter.jpg]]"
 Year: 2001
 Album: ""
 CoverOf: ""

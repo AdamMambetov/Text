@@ -2,7 +2,7 @@
 created: 2023-09-29T20:14:59+03:00
 aliases:
   - "Rewrite"
-Cover: ""
+Cover: "[[ASIAN KUNG-FU GENERATION - Sol-fa.jpg]]"
 Year: 2004
 Album: "[[Sol-fa]]"
 CoverOf: ""

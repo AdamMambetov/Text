@@ -2,7 +2,7 @@
 created: 2022-12-20T23:16:20+03:00
 aliases:
   - "Higher Ground"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Reach - The Promise of a Life.jpg]]"
 Year: 2021
 Album: ""
 CoverOf: ""

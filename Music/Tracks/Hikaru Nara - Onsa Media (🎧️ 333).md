@@ -4,7 +4,7 @@ aliases:
   - "Hikaru Nara"
   - "My April Lie OP 1"
   - "Моя апрельская ложь OP 1"
-Cover: ""
+Cover: "[[Onsa Media - Hikaru Nara.png]]"
 Year: 2022
 Album: "[[Hikaru Nara]]"
 CoverOf: ""

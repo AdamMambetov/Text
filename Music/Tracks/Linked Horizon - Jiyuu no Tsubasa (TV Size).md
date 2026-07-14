@@ -2,7 +2,7 @@
 created: 2025-06-03T00:48:19+03:00
 aliases:
   - "Linked Horizon - Jiyuu no Tsubasa (TV Size)"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Linked Horizon - Jiyuu no Tsubasa (TV Size).jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

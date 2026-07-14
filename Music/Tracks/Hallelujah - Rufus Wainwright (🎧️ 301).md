@@ -2,7 +2,7 @@
 created: 2022-04-23T02:37:28+03:00
 aliases:
   - "Hallelujah"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Rufus Wainwright - Hallelujah.jpg]]"
 Year: 2001
 Album: "[[Shrek [2001]]]"
 CoverOf: ""

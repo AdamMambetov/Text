@@ -6,7 +6,7 @@ aliases:
   - "Boku Dake ga Inai Machi OP 1"
   - "Erased OP 1"
   - "Город в котором меня нет OP 1"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[ASIAN KUNG-FU GENERATION - Sol-fa.jpg]]"
 Year: 2004
 Album: ""
 CoverOf: ""

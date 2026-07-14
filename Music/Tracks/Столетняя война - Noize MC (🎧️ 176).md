@@ -2,7 +2,7 @@
 created: 2022-04-22T21:15:10+03:00
 aliases:
   - "Столетняя война"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Noize MC - Столетняя война.jpg]]"
 Year: 2021
 Album: ""
 CoverOf: ""

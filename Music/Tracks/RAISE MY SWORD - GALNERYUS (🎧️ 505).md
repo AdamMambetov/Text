@@ -2,7 +2,7 @@
 created: 2022-12-05T23:53:18+03:00
 aliases:
   - "RAISE MY SWORD"
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

@@ -2,7 +2,7 @@
 created: 2024-04-12T15:03:12+03:00
 aliases:
   - "Затмение"
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 Year: 2007
 Album: "[[Umineko no Naku Koro ni OST (📀 30)]]"
 CoverOf: ""

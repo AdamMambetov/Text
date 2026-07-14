@@ -2,7 +2,7 @@
 created: 2022-04-22T21:11:32+03:00
 aliases:
   - "Na Na Na (Na Na Na Na Na Na Na Na Na)"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[My Chemical Romance - May Death Never Stop You.jpg]]"
 Year: 2014
 Album: ""
 CoverOf: ""

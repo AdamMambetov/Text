@@ -2,7 +2,7 @@
 created: 2022-04-26T19:53:26+03:00
 aliases:
   - "Thnks fr th Mmrs"
-Cover: ""
+Cover: "[[Fall Out Boy - I Don't Care.jpg]]"
 Year: 2007
 Album: "[[Infinity on High [2007] {Fall Out Boy}]]"
 CoverOf: ""

@@ -2,7 +2,7 @@
 created: 2022-04-22T21:10:40+03:00
 aliases:
   - "Voices"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Motionless In White - Graveyard Shift.jpg]]"
 Year: 2017
 Album: ""
 CoverOf: ""

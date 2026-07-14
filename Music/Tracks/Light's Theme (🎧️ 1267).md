@@ -2,7 +2,7 @@
 created: 2024-10-13T23:32:30+03:00
 aliases:
   - "Light's Theme"
-Cover: ""
+Cover: "[[Death Note OST - 03 Light's Theme.jpg]]"
 Year: 0
 Album: "[[Death Note OST]]"
 CoverOf: ""

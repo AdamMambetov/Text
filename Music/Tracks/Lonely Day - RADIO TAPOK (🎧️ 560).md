@@ -2,7 +2,7 @@
 created: 2022-12-20T23:25:48+03:00
 aliases:
   - "Lonely Day"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[RADIO TAPOK - Everywhere I Go.jpg]]"
 Year: 2020
 Album: ""
 CoverOf: "[[Lonely Day - System Of A Down (🎧️ 561)]]"

@@ -2,7 +2,7 @@
 created: 2022-04-21T01:56:10+03:00
 aliases:
   - "Music Is My Saviour"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[S3RL - Music Is My Savior.jpg]]"
 Year: 0
 Album: "[[Music Is My Savior]]"
 CoverOf: ""

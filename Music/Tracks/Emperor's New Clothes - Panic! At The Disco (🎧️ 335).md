@@ -2,7 +2,7 @@
 created: 2022-04-28T01:59:16+03:00
 aliases:
   - "Emperor's New Clothes"
-Cover: ""
+Cover: "[[Panic! At The Disco - House of Memories.jpg]]"
 Year: 2016
 Album: "[[Death of a Bachelor]]"
 CoverOf: ""

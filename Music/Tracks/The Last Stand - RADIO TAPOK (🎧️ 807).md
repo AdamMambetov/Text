@@ -2,7 +2,7 @@
 created: 2023-09-29T16:25:59+03:00
 aliases:
   - "The Last Stand"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[RADIO TAPOK - The Last Stand.jpg]]"
 Year: 2021
 Album: ""
 CoverOf: ""

@@ -6,7 +6,7 @@ aliases:
   - "SAO OP 6"
   - "Мастера меча онлайн OP 6"
   - "САО OP 6"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[ASCA - Resister.jpg]]"
 Year: 2019
 Album: ""
 CoverOf: ""

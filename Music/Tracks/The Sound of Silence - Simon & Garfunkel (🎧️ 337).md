@@ -2,7 +2,7 @@
 created: 2022-04-28T01:59:24+03:00
 aliases:
   - "The Sound of Silence"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Simon & Garfunkel - Old Friends.jpg]]"
 Year: 1997
 Album: "[[Old Friends]]"
 CoverOf: ""

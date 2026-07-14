@@ -2,7 +2,7 @@
 created: 2022-04-22T20:52:46+03:00
 aliases:
   - "Sea Shanty Medley"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Home Free - Sea Shanty Medley.jpg]]"
 Year: 2021
 Album: ""
 CoverOf: ""

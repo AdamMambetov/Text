@@ -2,7 +2,7 @@
 created: 2023-09-29T16:25:10+03:00
 aliases:
   - "Поцелуй Прямо В Сердце"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[COMEDOZ - время.jpg]]"
 Year: 2014
 Album: "[[время]]"
 CoverOf: ""

@@ -2,7 +2,7 @@
 created: 2024-10-13T23:36:52+03:00
 aliases:
   - "Teloelogy of Death"
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: "[[Death Note OST]]"
 CoverOf: ""

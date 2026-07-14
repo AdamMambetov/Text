@@ -2,7 +2,7 @@
 created: 2025-01-07T20:02:18+03:00
 aliases:
   - "Send Me a Peach"
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

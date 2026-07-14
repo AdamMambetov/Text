@@ -2,7 +2,7 @@
 created: 2023-09-29T16:22:59+03:00
 aliases:
   - "Archangel"
-Cover: ""
+Cover: "[[Amaranthe - Manifest.jpg]]"
 Year: 2020
 Album: "[[Manifest]]"
 CoverOf: ""

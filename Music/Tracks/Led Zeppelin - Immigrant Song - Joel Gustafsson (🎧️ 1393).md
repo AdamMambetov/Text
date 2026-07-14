@@ -2,7 +2,7 @@
 created: 2025-01-07T18:28:05+03:00
 aliases:
   - "Led Zeppelin - Immigrant Song"
-Cover: ""
+Cover: "[[Led Zeppelin - Immigrant Song.png]]"
 Year: 2017
 Album: ""
 CoverOf: ""

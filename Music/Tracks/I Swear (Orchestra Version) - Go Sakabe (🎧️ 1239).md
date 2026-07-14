@@ -2,7 +2,7 @@
 created: 2024-10-13T23:23:32+03:00
 aliases:
   - "I Swear (Orchestra Version)"
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: "[[Date A Live 3 OST]]"
 CoverOf: ""

@@ -2,7 +2,7 @@
 created: 2023-09-29T16:22:53+03:00
 aliases:
   - "Runnin'"
-Cover: ""
+Cover: "[[Adam Lambert - Trespassing.jpg]]"
 Year: 2012
 Album: "[[Trespassing]]"
 CoverOf: ""

@@ -2,7 +2,7 @@
 created: 2024-10-23T14:35:28+03:00
 aliases:
   - "Ducktales"
-Cover: ""
+Cover: "[[Jonathan Young - Ducktales.jpg]]"
 Year: 2017
 Album: "[[Young's Old Covers (Nostalgic Movies)]]"
 CoverOf: ""

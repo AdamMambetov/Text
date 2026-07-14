@@ -2,7 +2,7 @@
 created: 2022-12-09T06:55:36+03:00
 aliases:
   - "Love Is Light"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[The Dark Tenor - Symphony Of Light.jpg]]"
 Year: 2015
 Album: ""
 CoverOf: ""

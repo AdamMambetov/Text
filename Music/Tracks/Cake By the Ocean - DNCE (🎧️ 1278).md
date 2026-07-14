@@ -2,7 +2,7 @@
 created: 2024-10-23T14:25:28+03:00
 aliases:
   - "Cake By the Ocean"
-Cover: ""
+Cover: "[[DNCE - Cake By The Ocean.jpg]]"
 Year: 2015
 Album: "[[DNCE]]"
 CoverOf: ""

@@ -2,7 +2,7 @@
 created: 2024-12-06T00:32:43+03:00
 aliases:
   - "This Is Gospel"
-Cover: ""
+Cover: "[[Panic! At The Disco - This Is Gospel.jpg]]"
 Year: 2013
 Album: "[[Too Weird to Live, Too Rare to Die!]]"
 CoverOf: ""

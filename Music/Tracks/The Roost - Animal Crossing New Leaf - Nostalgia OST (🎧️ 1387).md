@@ -2,7 +2,7 @@
 created: 2024-12-12T21:09:01+03:00
 aliases:
   - "The Roost - Animal Crossing: New Leaf"
-Cover: ""
+Cover: "[[The Roost - Animal Crossing. New Leaf.png]]"
 Year: 2022
 Album: ""
 CoverOf: ""

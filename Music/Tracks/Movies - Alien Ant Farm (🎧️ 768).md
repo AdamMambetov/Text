@@ -2,7 +2,7 @@
 created: 2023-09-29T16:23:56+03:00
 aliases:
   - "Movies"
-Cover: ""
+Cover: "[[Alien Ant Farm - Greatest Hits.jpg]]"
 Year: 1999
 Album: "[[Greatest Hits]]"
 CoverOf: ""

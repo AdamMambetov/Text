@@ -2,7 +2,7 @@
 created: 2025-01-07T19:58:30+03:00
 aliases:
   - "Potatoes and Molasses"
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

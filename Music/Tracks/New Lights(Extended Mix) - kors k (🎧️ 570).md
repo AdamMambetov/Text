@@ -2,7 +2,7 @@
 created: 2023-02-14T02:14:56+03:00
 aliases:
   - "New Lights(Extended Mix)"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[kors k - New Lights (Extended Mix).jpg]]"
 Year: 2015
 Album: "[[Let's Do It Again!!]]"
 CoverOf: ""

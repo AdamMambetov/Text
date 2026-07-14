@@ -2,7 +2,7 @@
 created: 2024-10-08T15:48:12+03:00
 aliases:
   - "Ameno"
-Cover: ""
+Cover: "[[Era - Era.png]]"
 Year: 1996
 Album: "[[Era]]"
 CoverOf: ""

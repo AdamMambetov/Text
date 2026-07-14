@@ -2,7 +2,7 @@
 created: 2022-04-22T21:06:56+03:00
 aliases:
   - "Midnight City"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[M83 - Hurry up, We're Dreaming.jpg]]"
 Year: 2011
 Album: ""
 CoverOf: ""

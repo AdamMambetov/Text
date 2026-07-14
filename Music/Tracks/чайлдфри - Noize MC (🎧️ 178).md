@@ -2,7 +2,7 @@
 created: 2022-04-22T21:15:36+03:00
 aliases:
   - "чайлдфри"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Noize MC - чайлдфри.jpg]]"
 Year: 2016
 Album: ""
 CoverOf: ""

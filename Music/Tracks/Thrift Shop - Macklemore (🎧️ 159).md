@@ -2,7 +2,7 @@
 created: 2022-04-22T21:07:54+03:00
 aliases:
   - "Thrift Shop"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Macklemore - The Heist.jpg]]"
 Year: 2012
 Album: ""
 CoverOf: ""

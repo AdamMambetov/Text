@@ -2,7 +2,7 @@
 created: 2024-10-10T22:26:42+03:00
 aliases:
   - "Army of the Night"
-Cover: ""
+Cover: "[[Powerwolf - Army of the Night.jpg]]"
 Year: 2015
 Album: "[[Blessed & Possessed]]"
 CoverOf: ""

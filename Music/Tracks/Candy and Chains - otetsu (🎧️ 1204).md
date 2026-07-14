@@ -2,7 +2,7 @@
 created: 2024-10-13T22:43:24+03:00
 aliases:
   - "Candy and Chains"
-Cover: ""
+Cover: "[[otetsu - Ame to Kusari (Short Version).jpg]]"
 Year: 2015
 Album: "[[Candy and Chains]]"
 CoverOf: ""

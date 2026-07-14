@@ -2,7 +2,7 @@
 created: 2024-12-12T21:18:50+03:00
 aliases:
   - "Lagtrain"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Jinja - Lagtrain (German Version).png]]"
 Year: 2023
 Album: ""
 CoverOf: "[[Lagtrain - inabakumori (🎧️ 4)]]"

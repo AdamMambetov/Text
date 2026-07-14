@@ -2,7 +2,7 @@
 created: 2022-04-22T21:34:22+03:00
 aliases:
   - "Take My Hand"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Simple Plan - Simple Plan.jpg]]"
 Year: 2008
 Album: ""
 CoverOf: ""

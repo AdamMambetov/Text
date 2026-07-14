@@ -2,7 +2,7 @@
 created: 2022-12-09T06:54:32+03:00
 aliases:
   - "Nightmare"
-Cover: ""
+Cover: "[[Set It Off - Cinematics.jpg]]"
 Year: 2013
 Album: "[[Cinematics]]"
 CoverOf: ""

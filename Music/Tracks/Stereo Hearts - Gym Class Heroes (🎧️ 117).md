@@ -2,7 +2,7 @@
 created: 2022-04-22T20:49:14+03:00
 aliases:
   - "Stereo Hearts"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Gym Class Heroes - The Papercut Chronicles II.jpg]]"
 Year: 2011
 Album: ""
 CoverOf: ""

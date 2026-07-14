@@ -2,7 +2,7 @@
 created: 2022-04-22T21:06:32+03:00
 aliases:
   - "Sweet Home Alabama"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Lynyrd Skynyrd - Playlist Plus.jpg]]"
 Year: 2008
 Album: ""
 CoverOf: ""

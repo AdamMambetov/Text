@@ -2,7 +2,7 @@
 created: 2025-06-02T22:45:52+03:00
 aliases:
   - "Jean-Baptiste Dupont - Toccata and Fuga D minor BWV 565"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Jean-Baptiste Dupont - Toccata and Fuga D minor BWV 565.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

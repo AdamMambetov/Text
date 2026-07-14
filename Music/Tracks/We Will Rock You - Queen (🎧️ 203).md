@@ -2,7 +2,7 @@
 created: 2022-04-22T21:23:22+03:00
 aliases:
   - "We Will Rock You"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Queen.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

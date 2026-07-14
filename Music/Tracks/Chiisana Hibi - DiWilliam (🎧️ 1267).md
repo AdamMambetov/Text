@@ -2,7 +2,7 @@
 created: 2024-10-23T13:43:28+03:00
 aliases:
   - "Chiisana Hibi"
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: "[[Chiisana Hibi]]"
 CoverOf: "[[Chiisana Hibi (TV Size) (🎧️ 1612)]]"

@@ -4,7 +4,7 @@ aliases:
   - "Inochi no Tabekata"
   - "Сособ поедания жизни"
   - "How to Eat Life"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[NotADub - Inochi no Tabekata.png]]"
 Year: 2022
 Album: ""
 CoverOf: "[[Inochi No Tabekata - Eve (🎧️ 1306)]]"

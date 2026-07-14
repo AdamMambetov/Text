@@ -2,7 +2,7 @@
 created: 2024-10-23T15:24:38+03:00
 aliases:
   - "Not Long For This World"
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 Year: 2024
 Album: "[[Not Long For This World]]"
 CoverOf: ""

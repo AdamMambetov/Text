@@ -6,7 +6,7 @@ aliases:
   - "Demon Slayer OP 1"
   - "Клинок рассекающий демонов OP 1"
   - "Истребитель демонов OP 1"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[LiSA - Gurenge.jpg]]"
 Year: 2019
 Album: ""
 CoverOf: ""

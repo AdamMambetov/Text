@@ -2,7 +2,7 @@
 created: 2024-10-13T23:07:02+03:00
 aliases:
   - "Courtesy Call"
-Cover: ""
+Cover: "[[Thousand Foot Krutch - Courtesy Call.jpg]]"
 Year: 2012
 Album: "[[The End Is Where We Begin]]"
 CoverOf: ""

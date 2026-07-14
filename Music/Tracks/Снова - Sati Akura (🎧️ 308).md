@@ -5,7 +5,7 @@ aliases:
   - "Again"
   - "Fullmetal Alchemist Brotherhood OP 1"
   - "Стальной алхимик Братство OP 1"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Sati Akura - Again.jpg]]"
 Year: 2021
 Album: ""
 CoverOf: "[[Again - YUI (🎧️ 1153)]]"

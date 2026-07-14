@@ -2,7 +2,7 @@
 created: 2025-12-18T01:43:22+03:00
 aliases:
   - "mazyaka - Негры все пидорасы"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Luiz Henrique - Mas Que Nada.png]]"
 Year: 0
 Album: ""
 CoverOf: "[[Bad Piggies (🎧️ 1568)]]"

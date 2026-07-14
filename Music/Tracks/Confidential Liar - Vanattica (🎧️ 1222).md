@@ -2,7 +2,7 @@
 created: 2024-10-13T22:59:46+03:00
 aliases:
   - "Confidential Liar"
-Cover: ""
+Cover: "[[Vanattica - Confidential Liar.jpg]]"
 Year: 2011
 Album: "[[The King or Me - EP]]"
 CoverOf: ""

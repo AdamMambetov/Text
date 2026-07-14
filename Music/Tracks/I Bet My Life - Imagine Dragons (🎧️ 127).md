@@ -2,7 +2,7 @@
 created: 2022-04-22T20:54:50+03:00
 aliases:
   - "I Bet My Life"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Imagine Dragons - Smoke + Mirrors.jpg]]"
 Year: 2015
 Album: ""
 CoverOf: ""

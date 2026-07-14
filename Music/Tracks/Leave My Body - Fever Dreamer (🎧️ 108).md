@@ -2,7 +2,7 @@
 created: 2022-04-22T20:45:16+03:00
 aliases:
   - "Leave My Body"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Fever Dreamer - Sumerian Ceremonials Florence + the Sphinx.jpg]]"
 Year: 2014
 Album: ""
 CoverOf: ""

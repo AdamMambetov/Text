@@ -6,7 +6,7 @@ aliases:
   - "SAO OP 3"
   - "Мастера меча онлайн OP 3"
   - "САО OP 3"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Sati Akura - IGNITE.jpg]]"
 Year: 2022
 Album: ""
 CoverOf: "[[IGNITE - Aoi Eir]]"

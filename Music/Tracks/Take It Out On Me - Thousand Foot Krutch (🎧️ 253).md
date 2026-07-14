@@ -2,7 +2,7 @@
 created: 2022-04-22T21:45:54+03:00
 aliases:
   - "Take It Out On Me"
-Cover: ""
+Cover: "[[Thousand Foot Krutch - Thousand Foot Krutch Collection.jpg]]"
 Year: 2021
 Album: "[[Thousand Foot Krutch Collection [2021] {Thousand Foot Krutch}]]"
 CoverOf: ""

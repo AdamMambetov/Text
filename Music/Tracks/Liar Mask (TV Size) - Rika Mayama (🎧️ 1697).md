@@ -4,7 +4,7 @@ aliases:
   - "Liar Mask (TV Size)"
   - "Akame ga Kill OP 2"
   - "Убийца Акамэ OP 2"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Rika Mayama - Liar Mask (TV Size).jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

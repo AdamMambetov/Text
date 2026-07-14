@@ -2,7 +2,7 @@
 created: 2022-04-26T01:25:42+03:00
 aliases:
   - "Legend"
-Cover: ""
+Cover: "[[The Score - ATLAS.jpg]]"
 Year: 2017
 Album: "[[Atlas [2017] {The Score}]]"
 CoverOf: ""

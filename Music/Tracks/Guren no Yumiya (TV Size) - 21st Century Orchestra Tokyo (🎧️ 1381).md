@@ -4,7 +4,7 @@ aliases:
   - "Guren no Yumiya (TV Size)"
   - "Attack on Titan OP 1"
   - "Атака титанов OP 1"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[21st Century Orchestra Tokyo - Guren no Yumiya.png]]"
 Year: 2018
 Album: ""
 CoverOf: "[[Guren no Yumiya (TV Size) - Linked Horizon (🎧️ 1084)]]"

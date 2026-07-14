@@ -2,7 +2,7 @@
 created: 2025-11-19T03:19:12+03:00
 aliases:
   - "nonoc_Official - Memento"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[nonoc_Official - Memento.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

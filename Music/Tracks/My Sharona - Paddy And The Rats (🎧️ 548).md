@@ -2,7 +2,7 @@
 created: 2022-12-20T23:17:42+03:00
 aliases:
   - "My Sharona"
-Cover: ""
+Cover: "[[Paddy And The Rats - Lonely Hearts' Boulevard.jpg]]"
 Year: 2015
 Album: "[[Lonely Hearts' Boulevard]]"
 CoverOf: ""

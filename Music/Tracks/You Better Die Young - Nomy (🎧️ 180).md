@@ -2,7 +2,7 @@
 created: 2022-04-22T21:16:34+03:00
 aliases:
   - "You Better Die Young"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Nomy - Cocaine.jpg]]"
 Year: 2008
 Album: ""
 CoverOf: ""

@@ -4,7 +4,7 @@ aliases:
   - "Ruler (TV Size)"
   - "Clevatess OP 1"
   - "Клеватесс OP 1"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Mayu Maeshima - Ruler (TV Size).jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

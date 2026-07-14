@@ -2,7 +2,7 @@
 created: 2024-01-04T12:57:03+03:00
 aliases:
   - "Feel Good Inc."
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[RADIO TAPOK - Feel Good Inc.jpg]]"
 Year: 2016
 Album: ""
 CoverOf: "[[Feel Good Inc. - Gorillaz (🎧️ 423)]]"

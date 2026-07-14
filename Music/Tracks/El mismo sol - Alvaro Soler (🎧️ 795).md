@@ -2,7 +2,7 @@
 created: 2023-09-29T16:23:07+03:00
 aliases:
   - "El mismo sol"
-Cover: ""
+Cover: "[[Alvaro Soler - Eterno Agosto.jpg]]"
 Year: 2015
 Album: "[[Eterno Agosto]]"
 CoverOf: ""

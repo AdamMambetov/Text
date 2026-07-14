@@ -2,7 +2,7 @@
 created: 2024-10-23T14:37:50+03:00
 aliases:
   - "E.T."
-Cover: ""
+Cover: "[[Katy Perry - E.T..jpg]]"
 Year: 2010
 Album: "[[Teenage Dream]]"
 CoverOf: ""

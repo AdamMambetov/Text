@@ -2,7 +2,7 @@
 created: 2023-09-29T16:26:14+03:00
 aliases:
   - "Rick and Morty Theme"
-Cover: ""
+Cover: "[[Rick and Morty OST - Main Theme.jpg]]"
 Year: 2018
 Album: "[[Rick and Morty]]"
 CoverOf: ""

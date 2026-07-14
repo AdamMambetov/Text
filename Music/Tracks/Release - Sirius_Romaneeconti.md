@@ -2,7 +2,7 @@
 created: 2025-11-19T02:30:56+03:00
 aliases:
   - "Release - Sirius_Romaneeconti"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Release - Rye_Batenkaitos.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

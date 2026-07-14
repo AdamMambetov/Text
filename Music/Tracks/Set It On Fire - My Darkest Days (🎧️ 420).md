@@ -2,7 +2,7 @@
 created: 2022-06-15T22:10:48+03:00
 aliases:
   - "Set It On Fire"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[My Darkest Days - Set It On Fire.jpg]]"
 Year: 2010
 Album: "[[My Darkest Days [2010] {My Darkest Days}]]"
 CoverOf: ""

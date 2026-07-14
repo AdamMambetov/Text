@@ -2,7 +2,7 @@
 created: 2023-09-29T16:23:19+03:00
 aliases:
   - "Hooked on a Feeling"
-Cover: ""
+Cover: "[[Blue Swede - Hooked on a Feeling.jpg]]"
 Year: 1973
 Album: "[[Hooked on a Feeling]]"
 CoverOf: ""

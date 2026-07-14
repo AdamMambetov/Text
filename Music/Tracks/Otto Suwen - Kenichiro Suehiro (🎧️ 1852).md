@@ -2,7 +2,7 @@
 created: 2025-11-19T01:52:04+03:00
 aliases:
   - "Otto Suwen"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[ReZero 2 OST 2 - 15 Contract.jpg]]"
 Year: 2021
 Album: "[[ReZero 2 OST 2 (📀 42)]]"
 CoverOf: ""

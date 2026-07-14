@@ -2,7 +2,7 @@
 created: 2024-10-10T23:00:22+03:00
 aliases:
   - "Bitch Came Back"
-Cover: ""
+Cover: "[[Theory Of A Deadman - Bitch Came Back.jpg]]"
 Year: 2011
 Album: "[[The Truth Is...]]"
 CoverOf: ""

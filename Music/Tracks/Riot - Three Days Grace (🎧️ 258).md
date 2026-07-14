@@ -2,7 +2,7 @@
 created: 2022-04-22T21:47:42+03:00
 aliases:
   - "Riot"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Three Days Grace - One-X.jpg]]"
 Year: 2006
 Album: ""
 CoverOf: ""

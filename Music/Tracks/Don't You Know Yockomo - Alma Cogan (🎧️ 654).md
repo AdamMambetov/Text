@@ -2,7 +2,7 @@
 created: 2023-09-29T16:22:58+03:00
 aliases:
   - "Don't You Know Yockomo"
-Cover: ""
+Cover: "[[Alma Cogan - Alma.jpg]]"
 Year: 1967
 Album: "[[Alma]]"
 CoverOf: ""

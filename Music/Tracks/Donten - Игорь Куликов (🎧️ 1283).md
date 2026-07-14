@@ -2,7 +2,7 @@
 created: 2024-10-23T14:31:54+03:00
 aliases:
   - "Donten"
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 Year: 2022
 Album: "[[Donten]]"
 CoverOf: ""

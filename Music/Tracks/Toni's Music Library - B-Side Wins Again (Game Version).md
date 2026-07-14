@@ -2,7 +2,7 @@
 created: 2025-09-25T13:11:12+03:00
 aliases:
   - "Toni's Music Library - B-Side Wins Again (Game Version)"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Toni's Music Library - Skinnyman (Game Version) (Clean).jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

@@ -2,7 +2,7 @@
 created: 2023-09-29T16:24:29+03:00
 aliases:
   - "Tears of a Dragonheart"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Bloodbound - War of Dragons.jpg]]"
 Year: 2017
 Album: "[[War of Dragons]]"
 CoverOf: ""

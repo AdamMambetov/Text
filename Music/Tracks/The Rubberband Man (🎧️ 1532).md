@@ -1,7 +1,7 @@
 ---
 created: 2025-01-08T17:59:38+03:00
 aliases: []
-Cover: ""
+Cover: "[[The Spinners - The Rubberband Man.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

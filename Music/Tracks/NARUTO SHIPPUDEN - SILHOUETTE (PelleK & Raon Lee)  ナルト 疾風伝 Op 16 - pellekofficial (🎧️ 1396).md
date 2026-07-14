@@ -2,7 +2,7 @@
 created: 2025-01-07T19:20:11+03:00
 aliases:
   - "NARUTO SHIPPUDEN - SILHOUETTE (PelleK & Raon Lee)  ナルト 疾風伝 Op 16"
-Cover: ""
+Cover: "[[PelleK & Raon Lee - Silhouette.png]]"
 Year: 2016
 Album: ""
 CoverOf: ""

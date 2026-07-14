@@ -2,7 +2,7 @@
 created: 2025-05-04T02:56:44+03:00
 aliases:
   - "Why Does My Heart Feel So Bad?"
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 Year: 2012
 Album: ""
 CoverOf: ""

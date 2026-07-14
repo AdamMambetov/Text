@@ -2,7 +2,7 @@
 created: 2022-04-26T01:41:18+03:00
 aliases:
   - "Rise"
-Cover: ""
+Cover: "[[Skillet - Rise_1.jpg]]"
 Year: 2013
 Album: "[[Rise [2013] {Skillet}]]"
 CoverOf: ""

@@ -4,7 +4,7 @@ aliases:
   - "Peace Sign"
   - "My Hero Academia OP 2"
   - "Моя геройская академия OP 2"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Kenshi Yonezu - BOOTLEG.jpg]]"
 Year: 2017
 Album: ""
 CoverOf: ""

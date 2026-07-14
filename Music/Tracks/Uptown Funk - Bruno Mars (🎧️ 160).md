@@ -2,7 +2,7 @@
 created: 2022-04-22T21:09:06+03:00
 aliases:
   - "Uptown Funk"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Mark Ronson - Uptown Special.jpg]]"
 Year: 2015
 Album: ""
 CoverOf: ""

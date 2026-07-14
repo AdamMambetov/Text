@@ -2,7 +2,7 @@
 created: 2022-10-05T13:58:16+03:00
 aliases:
   - "Tear Rain"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[cYsmix ft. Emmy - Tear Rain.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

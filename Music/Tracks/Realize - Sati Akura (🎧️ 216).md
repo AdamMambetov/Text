@@ -4,7 +4,7 @@ aliases:
   - "Realize"
   - "ReZero OP 3"
   - "РеЗеро OP 3"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Sati Akura - Realize.jpg]]"
 Year: 2020
 Album: ""
 CoverOf: "[[Realize - Konomi Suzuki (🎧️ 1632)]]"

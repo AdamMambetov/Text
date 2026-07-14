@@ -2,7 +2,7 @@
 created: 2022-12-20T23:35:56+03:00
 aliases:
   - "Barrels of Whiskey"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[The O'Reillys and the Paddyhats - Seven Hearts One Soul.jpg]]"
 Year: 2017
 Album: "[[Seven Hearts One Soul]]"
 CoverOf: ""

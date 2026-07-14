@@ -2,7 +2,7 @@
 created: 2023-07-09T18:50:20+03:00
 aliases:
   - "Colours on My Shield"
-Cover: ""
+Cover: "[[Civil War - Colours on My Shield.jpg]]"
 Year: 2015
 Album: "[[Gods & Generals]]"
 CoverOf: ""

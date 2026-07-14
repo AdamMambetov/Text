@@ -2,7 +2,7 @@
 created: 2022-06-15T22:58:52+03:00
 aliases:
   - "Feel Good Inc."
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Gorillaz - Feel Good Inc.jpg]]"
 Year: 2005
 Album: ""
 CoverOf: ""

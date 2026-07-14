@@ -2,7 +2,7 @@
 created: 2023-09-29T16:22:47+03:00
 aliases:
   - "Drifting"
-Cover: ""
+Cover: "[[Adelitas Way - Live, Love, Life.jpg]]"
 Year: 2018
 Album: "[[Live, Love, Life]]"
 CoverOf: ""

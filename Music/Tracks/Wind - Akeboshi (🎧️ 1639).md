@@ -2,7 +2,7 @@
 created: 2025-02-03T08:28:50+03:00
 aliases:
   - "Wind"
-Cover: ""
+Cover: "[[Akeboshi - Wind.jpg]]"
 Year: 2005
 Album: "[[Akeboshi]]"
 CoverOf: ""

@@ -30,6 +30,7 @@ views:
         - aliases.isEmpty()
         - aliases == null
         - '!file.hasProperty("aliases")'
+        - Cover.isEmpty()
     order:
       - file.name
     sort:

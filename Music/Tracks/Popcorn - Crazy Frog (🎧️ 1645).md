@@ -2,7 +2,7 @@
 created: 2025-05-04T02:58:29+03:00
 aliases:
   - "Popcorn"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Crazy Frog - Popcorn.jpg]]"
 Year: 2011
 Album: ""
 CoverOf: ""

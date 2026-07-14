@@ -2,7 +2,7 @@
 created: 2022-04-22T20:52:06+03:00
 aliases:
   - "We Are"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Hollywood Undead - Notes From The Underground - Unabridged.jpg]]"
 Year: 2012
 Album: ""
 CoverOf: ""

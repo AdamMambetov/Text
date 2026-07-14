@@ -3,7 +3,7 @@ created: 2022-04-21T05:08:12+03:00
 aliases:
   - "Солнце"
   - "Sonne"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[RADIO TAPOK - Everywhere I Go.jpg]]"
 Year: 2020
 Album: ""
 CoverOf: "[[Sonne - Rammstein (🎧️ 205)]]"

@@ -4,7 +4,7 @@ aliases:
   - "Tsukiakari No Michishirube (TV Size)"
   - "Darker than Black OP 3"
   - "Темнее чёрного OP 3"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Stereopony - Tsukiakari No Michishirube (TV Size).jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

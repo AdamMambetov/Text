@@ -2,7 +2,7 @@
 created: 2022-04-22T21:26:26+03:00
 aliases:
   - "Human"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Rag'n'Bone Man - Human.jpg]]"
 Year: 2017
 Album: ""
 CoverOf: ""

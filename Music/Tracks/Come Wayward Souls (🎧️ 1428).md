@@ -2,7 +2,7 @@
 created: 2025-01-07T20:05:04+03:00
 aliases:
   - "Come Wayward Souls"
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

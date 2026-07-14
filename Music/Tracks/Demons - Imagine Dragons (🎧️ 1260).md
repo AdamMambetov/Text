@@ -2,7 +2,7 @@
 created: 2024-10-13T23:41:04+03:00
 aliases:
   - "Demons"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Imagine Dragons - Demons.jpg]]"
 Year: 2012
 Album: ""
 CoverOf: ""

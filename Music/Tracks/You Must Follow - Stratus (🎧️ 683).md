@@ -2,7 +2,7 @@
 created: 2023-09-30T15:55:23+03:00
 aliases:
   - "You Must Follow"
-Cover: ""
+Cover: "[[Stratus - You Must Follow.jpg]]"
 Year: 2008
 Album: "[[The Dungeonmaster's Guide]]"
 CoverOf: ""

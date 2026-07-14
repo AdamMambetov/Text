@@ -2,7 +2,7 @@
 created: 2022-12-20T22:42:50+03:00
 aliases:
   - "Песнь пустыни"
-Cover: ""
+Cover: "[[RADIO TAPOK - Наследие.jpg]]"
 Year: 2022
 Album: "[[Наследие]]"
 CoverOf: ""

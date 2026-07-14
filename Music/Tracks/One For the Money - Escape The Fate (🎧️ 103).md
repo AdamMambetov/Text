@@ -2,7 +2,7 @@
 created: 2022-04-22T20:38:36+03:00
 aliases:
   - "One For the Money"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Escape The Fate - Ungrateful.jpg]]"
 Year: 2013
 Album: ""
 CoverOf: ""

@@ -2,7 +2,7 @@
 created: 2022-04-22T21:29:30+03:00
 aliases:
   - "Night Witches"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Sabaton - Heroes.jpg]]"
 Year: 2014
 Album: ""
 CoverOf: ""

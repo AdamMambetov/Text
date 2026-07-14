@@ -2,7 +2,7 @@
 created: 2022-04-21T01:53:57+03:00
 aliases:
   - "Intro - from the X"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[t+pazolite - Answer from X Girlz.jpg]]"
 Year: 2011
 Album: "[[Answer from X Girlz]]"
 CoverOf: ""

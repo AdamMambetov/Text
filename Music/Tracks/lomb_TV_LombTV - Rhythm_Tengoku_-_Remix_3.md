@@ -2,7 +2,7 @@
 created: 2025-10-28T22:34:36+03:00
 aliases:
   - "lomb_TV_LombTV - Rhythm_Tengoku_-_Remix_3"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[lomb_TV_LombTV - Rhythm_Tengoku_-_Remix_3.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

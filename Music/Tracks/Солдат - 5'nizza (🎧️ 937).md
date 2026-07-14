@@ -2,7 +2,7 @@
 created: 2023-09-29T16:25:16+03:00
 aliases:
   - "Солдат"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[5'nizza - Пятница.jpg]]"
 Year: 2003
 Album: "[[Пятница]]"
 CoverOf: ""

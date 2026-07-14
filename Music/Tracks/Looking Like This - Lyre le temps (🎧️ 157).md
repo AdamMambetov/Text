@@ -2,7 +2,7 @@
 created: 2022-04-22T21:06:42+03:00
 aliases:
   - "Looking Like This"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Lyre le temps - Looking Like This EP.jpg]]"
 Year: 2013
 Album: ""
 CoverOf: ""

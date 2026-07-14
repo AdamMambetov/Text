@@ -4,7 +4,7 @@ aliases:
   - "Steppin' Out"
   - "Durarara OP 4"
   - "Дюрарара OP 4"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[FLOW - Steppin' Out.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

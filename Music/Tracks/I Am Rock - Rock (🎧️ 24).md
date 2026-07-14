@@ -2,7 +2,7 @@
 created: 2022-04-21T01:53:04+03:00
 aliases:
   - "I Am Rock"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Rock - I Am Rock.jpg]]"
 Year: 2005
 Album: ""
 CoverOf: ""

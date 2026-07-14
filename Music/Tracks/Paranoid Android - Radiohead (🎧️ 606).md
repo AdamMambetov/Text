@@ -2,7 +2,7 @@
 created: 2023-07-09T18:50:36+03:00
 aliases:
   - "Paranoid Android"
-Cover: ""
+Cover: "[[Radiohead - Paranoid Android.jpg]]"
 Year: 2017
 Album: "[[OK Computer OKNOTOK 1997 2017]]"
 CoverOf: ""

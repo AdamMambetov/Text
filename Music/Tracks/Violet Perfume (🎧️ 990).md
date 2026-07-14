@@ -2,7 +2,7 @@
 created: 2024-07-21T15:44:18+03:00
 aliases:
   - "Violet Perfume"
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

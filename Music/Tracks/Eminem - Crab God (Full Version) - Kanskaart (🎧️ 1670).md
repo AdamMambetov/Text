@@ -2,7 +2,7 @@
 created: 2025-05-04T02:07:54+03:00
 aliases:
   - "Crab God"
-Cover: ""
+Cover: "[[Kanskaart - Crab God (Lose Yourself, Crab Rave Mashup).jpg]]"
 Year: 2019
 Album: ""
 CoverOf: ""

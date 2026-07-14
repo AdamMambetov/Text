@@ -2,7 +2,7 @@
 created: 2022-04-22T21:17:00+03:00
 aliases:
   - "Here It Goes Again"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[OK Go - Here It Goes Again.jpg]]"
 Year: 2006
 Album: ""
 CoverOf: ""

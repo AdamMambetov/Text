@@ -2,7 +2,7 @@
 created: 2023-09-30T15:56:32+03:00
 aliases:
   - "Broken Sword"
-Cover: ""
+Cover: "[[Evol Intent - Broken Sword.jpg]]"
 Year: 2006
 Album: "[[The Human Resource]]"
 CoverOf: ""

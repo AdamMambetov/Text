@@ -5,7 +5,7 @@ aliases:
   - "Jigokuraku OP 1"
   - "Hells Paradise OP 1"
   - "Адский рай OP 1"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[millennium parade - WORK (TV Size).jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

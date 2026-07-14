@@ -2,7 +2,7 @@
 created: 2022-04-22T21:42:28+03:00
 aliases:
   - "Who I Am"
-Cover: ""
+Cover: "[[The Score - ATLAS.jpg]]"
 Year: 2017
 Album: "[[ATLAS [2017] {The Score}]]"
 CoverOf: ""

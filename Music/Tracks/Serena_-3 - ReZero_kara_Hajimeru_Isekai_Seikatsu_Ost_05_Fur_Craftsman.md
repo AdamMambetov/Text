@@ -2,7 +2,7 @@
 created: 2025-11-14T12:49:00+03:00
 aliases:
   - "Serena_-3 - ReZero_kara_Hajimeru_Isekai_Seikatsu_Ost_05_Fur_Craftsman"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Serena_-3 - Re_-Zero_kara_Hajimeru_Isekai_Seikatsu_Ost_24_Takt_of_Heroes.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

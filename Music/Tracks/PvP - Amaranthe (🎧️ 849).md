@@ -2,7 +2,7 @@
 created: 2023-09-29T16:24:09+03:00
 aliases:
   - "PvP"
-Cover: ""
+Cover: "[[Amaranthe - PVP.jpg]]"
 Year: 2021
 Album: "[[PVP]]"
 CoverOf: ""

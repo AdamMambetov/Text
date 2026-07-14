@@ -2,7 +2,7 @@
 created: 2022-04-22T21:42:52+03:00
 aliases:
   - "Hall of Fame"
-Cover: ""
+Cover: "[[The Script - #3.jpg]]"
 Year: 2012
 Album: "[[#3 [2012] {The Script; will.i.am}]]"
 CoverOf: ""

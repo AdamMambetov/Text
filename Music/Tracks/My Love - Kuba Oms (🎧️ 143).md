@@ -2,7 +2,7 @@
 created: 2022-04-22T21:01:10+03:00
 aliases:
   - "My Love"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Kuba Oms - My Love.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

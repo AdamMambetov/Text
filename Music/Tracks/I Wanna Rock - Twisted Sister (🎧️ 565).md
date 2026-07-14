@@ -2,7 +2,7 @@
 created: 2022-12-20T23:34:26+03:00
 aliases:
   - "I Wanna Rock"
-Cover: ""
+Cover: "[[Twisted Sister - Twisted Sister Essentials.jpg]]"
 Year: 2002
 Album: "[[Twisted Sister: Essentials]]"
 CoverOf: ""

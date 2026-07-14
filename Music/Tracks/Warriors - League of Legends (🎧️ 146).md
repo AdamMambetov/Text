@@ -2,7 +2,7 @@
 created: 2022-04-22T21:02:24+03:00
 aliases:
   - "Warriors"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[League of Legends - Warriors.png]]"
 Year: 2020
 Album: ""
 CoverOf: "[[Warriors - Imagine Dragons (🎧️ 290)]]"

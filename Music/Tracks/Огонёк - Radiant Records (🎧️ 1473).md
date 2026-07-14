@@ -3,7 +3,7 @@ created: 2025-01-08T01:24:05+03:00
 aliases:
   - "Огонёк"
   - "Hotaru no Hikari"
-Cover: ""
+Cover: "[[Radiant Records - Огонёк.jpg]]"
 Year: 0
 Album: ""
 CoverOf: "[[Hotaru no Hikari - Ikimonogakari (🎧️ 1680)]]"

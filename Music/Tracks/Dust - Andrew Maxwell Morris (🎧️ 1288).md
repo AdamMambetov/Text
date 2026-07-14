@@ -2,7 +2,7 @@
 created: 2024-10-23T14:37:06+03:00
 aliases:
   - "Dust"
-Cover: ""
+Cover: "[[Andrew Morris - Dust.jpg]]"
 Year: 2007
 Album: "[[Live & Unsigned 2]]"
 CoverOf: ""

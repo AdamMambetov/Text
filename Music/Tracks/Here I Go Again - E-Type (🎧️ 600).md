@@ -2,7 +2,7 @@
 created: 2023-07-09T18:49:40+03:00
 aliases:
   - "Here I Go Again"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[E-Type - Here I Go Again.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

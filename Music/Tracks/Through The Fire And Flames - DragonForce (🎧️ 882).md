@@ -2,7 +2,7 @@
 created: 2023-09-29T16:24:37+03:00
 aliases:
   - "Through The Fire And Flames"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[DragonForce - Through The Fire And Flames.jpg]]"
 Year: 2005
 Album: "[[Inhuman Rampage]]"
 CoverOf: ""

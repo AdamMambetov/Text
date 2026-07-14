@@ -2,7 +2,7 @@
 created: 2024-10-13T23:28:30+03:00
 aliases:
   - "Daten"
-Cover: ""
+Cover: "[[Creepy Nuts - DATEN.jpg]]"
 Year: 2022
 Album: "[[Ensemble Play]]"
 CoverOf: ""

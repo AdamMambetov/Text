@@ -2,7 +2,7 @@
 created: 2022-04-22T21:49:44+03:00
 aliases:
   - "Heathens"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Suicide Squad The Album.jpg]]"
 Year: 2016
 Album: ""
 CoverOf: ""

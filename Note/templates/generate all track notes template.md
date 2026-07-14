@@ -23,7 +23,8 @@ for (let i in tracks) {
 
 const trackTemplate = `---
 created: {created}
-aliases: ["{title}"]
+aliases:
+  - "{title}"
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
@@ -50,11 +51,17 @@ sourceFiles.forEach(async (track) => {
 	const created = moment(new Date(track.stat.ctime))
 		.format("YYYY-MM-DDTHH:mm:ssZ")
 	const title = track.basename
+		.replaceAll('"', "'")
+	const filename = track.basename
 		.replaceAll("?", "")
 		.replaceAll("#", "")
+		.replaceAll(":", ".")
+		.replaceAll("[", "(")
+		.replaceAll("]", ")")
+		.replaceAll(" / ", " - ")
 		.replaceAll("/", "")
 		.replaceAll("\\", "")
-		.replaceAll("\"", "'")
+		.replaceAll('"', "'")
 	const content = trackTemplate
 		.replaceAll("{created}", created)
 		.replaceAll("{title}", title)
@@ -62,7 +69,7 @@ sourceFiles.forEach(async (track) => {
 	await tp
 		.app
 		.vault
-		.create(`Text/Music/Tracks/${title}.md`, content)
+		.create(`Text/Music/Tracks/${filename}.md`, content)
 	new Notice(title, 50000)
 })
 -%>

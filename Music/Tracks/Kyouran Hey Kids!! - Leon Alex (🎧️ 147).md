@@ -4,7 +4,7 @@ aliases:
   - "Kyouran Hey Kids!!"
   - "Noragami OP 2"
   - "Бездомный бог OP 2"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Leon Alex - Kyouran Hey Kids!!.jpg]]"
 Year: 2019
 Album: ""
 CoverOf: ""

@@ -2,7 +2,7 @@
 created: 2024-10-23T13:20:48+03:00
 aliases:
   - "Monster Made of Memories"
-Cover: ""
+Cover: "[[Citizen Soldier - Monster Made of Memories.jpg]]"
 Year: 2022
 Album: "[[Scarecrow]]"
 CoverOf: ""

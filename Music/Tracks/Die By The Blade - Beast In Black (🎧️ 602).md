@@ -2,7 +2,7 @@
 created: 2023-07-09T18:49:58+03:00
 aliases:
   - "Die By The Blade"
-Cover: ""
+Cover: "[[Beast In Black - Die By The Blade.jpg]]"
 Year: 2019
 Album: "[[From Hell With Love]]"
 CoverOf: ""

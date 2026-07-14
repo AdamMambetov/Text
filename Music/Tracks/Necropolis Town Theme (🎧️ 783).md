@@ -2,7 +2,7 @@
 created: 2024-06-14T19:06:34+03:00
 aliases:
   - "Necropolis Town Theme"
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

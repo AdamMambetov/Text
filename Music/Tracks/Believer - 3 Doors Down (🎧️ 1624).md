@@ -2,7 +2,7 @@
 created: 2023-09-29T16:22:43+03:00
 aliases:
   - "Believer"
-Cover: ""
+Cover: "[[3 Doors Down - Time of My Life.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

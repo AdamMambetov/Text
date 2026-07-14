@@ -2,7 +2,7 @@
 created: 2025-01-07T19:54:04+03:00
 aliases:
   - "Into the Unknown"
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

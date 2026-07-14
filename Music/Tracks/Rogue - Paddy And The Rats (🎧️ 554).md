@@ -2,7 +2,7 @@
 created: 2022-12-20T23:21:24+03:00
 aliases:
   - "Rogue"
-Cover: ""
+Cover: "[[Paddy And The Rats - Lonely Hearts' Boulevard.jpg]]"
 Year: 2015
 Album: "[[Lonely Hearts' Boulevard]]"
 CoverOf: ""

@@ -2,7 +2,7 @@
 created: 2025-01-08T19:02:56+03:00
 aliases:
   - "Kami Nomi zo Shiru Sekai"
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

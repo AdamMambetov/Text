@@ -2,7 +2,7 @@
 created: 2024-10-13T23:05:14+03:00
 aliases:
   - "Courage"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Jim Yosef - Courage.jpg]]"
 Year: 2017
 Album: ""
 CoverOf: ""

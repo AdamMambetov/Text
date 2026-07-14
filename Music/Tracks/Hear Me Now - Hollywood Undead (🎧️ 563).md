@@ -2,7 +2,7 @@
 created: 2022-12-20T23:29:46+03:00
 aliases:
   - "Hear Me Now"
-Cover: ""
+Cover: "[[Hollywood Undead - American Tragedy.jpg]]"
 Year: 2011
 Album: "[[American Tragedy]]"
 CoverOf: ""

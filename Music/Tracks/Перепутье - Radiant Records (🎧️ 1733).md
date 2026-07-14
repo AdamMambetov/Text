@@ -7,7 +7,7 @@ aliases:
   - "SAO OP 1"
   - "Мастера меча онлайн OP 1"
   - "САО OP 1"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Radiant Records - Ты принёс мечту.jpg]]"
 Year: 0
 Album: "[[ПЕРЕПУТЬЕ (📀 33)]]"
 CoverOf: "[[Crossing Field - LiSA (🎧️ 1445)]]"

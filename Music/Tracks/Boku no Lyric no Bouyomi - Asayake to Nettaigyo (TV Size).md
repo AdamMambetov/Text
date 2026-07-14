@@ -4,7 +4,7 @@ aliases:
   - "Asayake to Nettaigyo (TV Size)"
   - "Kokkoku ED 1 (TV Size)"
   - "Миг за мигом ED 1 (TV Size)"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Boku no Lyric no Bouyomi - Asayake to Nettaigyo (TV Size).jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

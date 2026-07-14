@@ -2,7 +2,7 @@
 created: 2022-04-28T01:59:22+03:00
 aliases:
   - "Come Hell or High Water"
-Cover: ""
+Cover: "[[Native Construct - Quiet World.jpg]]"
 Year: 2015
 Album: "[[Quiet World]]"
 CoverOf: ""

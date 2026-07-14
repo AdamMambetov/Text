@@ -2,7 +2,7 @@
 created: 2022-04-22T21:18:30+03:00
 aliases:
   - "House of Memories"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Panic! At The Disco - House of Memories.jpg]]"
 Year: 2016
 Album: ""
 CoverOf: ""

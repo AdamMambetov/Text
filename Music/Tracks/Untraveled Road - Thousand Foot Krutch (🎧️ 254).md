@@ -2,7 +2,7 @@
 created: 2022-04-22T21:46:08+03:00
 aliases:
   - "Untraveled Road"
-Cover: ""
+Cover: "[[Thousand Foot Krutch - Oxygen Inhale.jpg]]"
 Year: 2014
 Album: "[[Oxygen: Inhale [2014] {Thousand Foot Krutch}]]"
 CoverOf: ""

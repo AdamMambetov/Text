@@ -2,7 +2,7 @@
 created: 2024-10-13T22:56:30+03:00
 aliases:
   - "Come and Get Your Love"
-Cover: ""
+Cover: "[[Redbone - Come And Get Your Love.jpg]]"
 Year: 1973
 Album: "[[The Essential Redbone]]"
 CoverOf: ""

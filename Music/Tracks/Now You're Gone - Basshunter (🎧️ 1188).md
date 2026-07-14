@@ -2,7 +2,7 @@
 created: 2024-10-13T22:22:44+03:00
 aliases:
   - "Now You're Gone"
-Cover: ""
+Cover: "[[Basshunter - Now You're Gone.jpg]]"
 Year: 2008
 Album: "[[Now You're Gone]]"
 CoverOf: ""

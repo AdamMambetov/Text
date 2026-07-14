@@ -2,7 +2,7 @@
 created: 2024-10-05T15:26:50+03:00
 aliases:
   - "The Rumbling"
-Cover: ""
+Cover: "[[Jackie-O - The Rumbling.jpg]]"
 Year: 2022
 Album: "[[The Rumbling]]"
 CoverOf: ""

@@ -2,7 +2,7 @@
 created: 2024-10-05T15:22:36+03:00
 aliases:
   - "STAND PROUD"
-Cover: ""
+Cover: "[[Coconut Dog - STAND PROUD.png]]"
 Year: 2023
 Album: ""
 CoverOf: ""

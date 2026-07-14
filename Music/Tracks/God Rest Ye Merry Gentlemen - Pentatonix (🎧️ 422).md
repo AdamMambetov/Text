@@ -2,7 +2,7 @@
 created: 2022-06-15T22:19:36+03:00
 aliases:
   - "God Rest Ye Merry Gentlemen"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Pentatonix - God Rest Ye Merry Gentlemen.jpg]]"
 Year: 2019
 Album: "[[The Best Of Pentatonix Christmas]]"
 CoverOf: ""

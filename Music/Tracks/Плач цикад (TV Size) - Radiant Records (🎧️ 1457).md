@@ -2,7 +2,7 @@
 created: 2025-01-08T01:01:12+03:00
 aliases:
   - "Плач цикад (TV Size)"
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

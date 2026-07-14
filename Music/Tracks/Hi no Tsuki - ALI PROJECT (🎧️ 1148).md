@@ -4,7 +4,7 @@ aliases:
   - "Hi no Tsuki"
   - "Tsuki to Laika to Nosferatu OP 1"
   - "Луна, Лайка и Носферату OP 1"
-Cover: ""
+Cover: "[[ALI PROJECT - Hi no Tsuki.jpg]]"
 Year: 2021
 Album: "[[Hi no Tsuki]]"
 CoverOf: ""

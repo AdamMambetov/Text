@@ -2,7 +2,7 @@
 created: 2022-04-22T20:49:30+03:00
 aliases:
   - "I Miss the Misery"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Halestorm - The Strange Case of.jpg]]"
 Year: 2012
 Album: ""
 CoverOf: ""

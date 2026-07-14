@@ -2,7 +2,7 @@
 created: 2024-10-13T23:42:58+03:00
 aliases:
   - "Departure!"
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 Year: 2020
 Album: "[[Departure!]]"
 CoverOf: ""

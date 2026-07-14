@@ -2,7 +2,7 @@
 created: 2024-10-10T22:22:34+03:00
 aliases:
   - "Animal in Me"
-Cover: ""
+Cover: "[[Solence - Animal In Me.jpg]]"
 Year: 2020
 Album: "[[Direction]]"
 CoverOf: ""

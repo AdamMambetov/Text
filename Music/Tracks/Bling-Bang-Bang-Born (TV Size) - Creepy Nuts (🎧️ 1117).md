@@ -2,7 +2,7 @@
 created: 2024-10-05T15:15:46+03:00
 aliases:
   - "Bling-Bang-Bang-Born (TV Size)"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Creepy Nuts - Bling-Bang-Bang-Born (TV Size).png]]"
 Year: 2024
 Album: ""
 CoverOf: ""

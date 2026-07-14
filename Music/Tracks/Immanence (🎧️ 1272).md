@@ -2,7 +2,7 @@
 created: 2024-10-13T23:38:32+03:00
 aliases:
   - "Immanence"
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: "[[Death Note OST]]"
 CoverOf: ""

@@ -2,7 +2,7 @@
 created: 2023-09-29T16:25:11+03:00
 aliases:
   - "I WANNA BE YOUR SLAVE"
-Cover: ""
+Cover: "[[Maneskin - Teatro d’ira Vol. I.jpg]]"
 Year: 2021
 Album: "[[Teatro d’ira: Vol. I]]"
 CoverOf: ""

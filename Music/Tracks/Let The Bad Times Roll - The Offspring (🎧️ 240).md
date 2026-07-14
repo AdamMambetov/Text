@@ -2,7 +2,7 @@
 created: 2022-04-22T21:40:28+03:00
 aliases:
   - "Let The Bad Times Roll"
-Cover: ""
+Cover: "[[The Offspring - Let The Bad Times Roll.jpg]]"
 Year: 2021
 Album: "[[Let The Bad Times Roll [2021] {The Offspring}]]"
 CoverOf: ""

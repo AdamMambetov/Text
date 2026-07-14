@@ -2,7 +2,7 @@
 created: 2025-11-19T01:08:34+03:00
 aliases:
   - "Serena_-3 - Re_-Zero_kara_Hajimeru_Isekai_Seikatsu_Ost_17_Requiem_of_Silence"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Serena_-3 - Re_-Zero_kara_Hajimeru_Isekai_Seikatsu_Ost_17_Requiem_of_Silence.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

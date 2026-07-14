@@ -2,7 +2,7 @@
 created: 2022-12-20T23:24:24+03:00
 aliases:
   - "YMCA"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Village People - YMCA.jpg]]"
 Year: 1978
 Album: ""
 CoverOf: ""

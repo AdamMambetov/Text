@@ -2,7 +2,7 @@
 created: 2025-01-08T20:33:48+03:00
 aliases:
   - "Wrong Side of Heaven"
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: "[[Wrong Side of Heaven - Five Finger Death Punch (🎧️ 1574)]]"

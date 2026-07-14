@@ -2,7 +2,7 @@
 created: 2025-01-08T19:13:40+03:00
 aliases:
   - "Story"
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: "[[Story - Mayu Maeshima (🎧️ 1553)]]"

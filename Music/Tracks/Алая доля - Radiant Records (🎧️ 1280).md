@@ -5,7 +5,7 @@ aliases:
   - "Red Fraction"
   - "Black Lagoon OP 1"
   - "Пираты Чёрной лагуны OP 1"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Radiant Records - Магия_1.jpg]]"
 Year: 0
 Album: ""
 CoverOf: "[[Red Fraction - MELL (🎧️ 1571)]]"

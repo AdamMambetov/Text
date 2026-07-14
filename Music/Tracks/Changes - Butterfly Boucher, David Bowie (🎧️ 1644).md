@@ -2,7 +2,7 @@
 created: 2025-05-04T01:28:49+03:00
 aliases:
   - "Changes"
-Cover: ""
+Cover: "[[Shrek 2 OST - 03 Changes.jpg]]"
 Year: 2018
 Album: "[[Shrek 2]]"
 CoverOf: ""

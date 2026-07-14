@@ -6,7 +6,7 @@ aliases:
   - "Ритм души"
   - "Angel Beats OP 1"
   - "Ангельские ритмы OP 1"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Lia - My Soul, Your Beats!.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

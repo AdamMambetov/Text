@@ -2,7 +2,7 @@
 created: 2022-04-22T21:29:04+03:00
 aliases:
   - "Start a Fire"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Ryan Star - 11 59.jpg]]"
 Year: 2010
 Album: ""
 CoverOf: ""

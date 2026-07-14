@@ -2,7 +2,7 @@
 created: 2022-04-28T15:07:20+03:00
 aliases:
   - "Mas Que Nada"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Luiz Henrique - Mas Que Nada.png]]"
 Year: 1967
 Album: "[[Barra Limpa [1967] {Luiz Henrique}]]"
 CoverOf: ""

@@ -2,7 +2,7 @@
 created: 2022-05-02T03:12:08+03:00
 aliases:
   - "Fright March"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[cYsmix - Fright March.jpg]]"
 Year: 2015
 Album: ""
 CoverOf: ""

@@ -2,7 +2,7 @@
 created: 2022-04-22T21:40:36+03:00
 aliases:
   - "Million Miles Away"
-Cover: ""
+Cover: "[[The Offspring - Conspiracy Of One.jpg]]"
 Year: 2000
 Album: "[[Conspiracy Of One [2000] {The Offspring}]]"
 CoverOf: ""

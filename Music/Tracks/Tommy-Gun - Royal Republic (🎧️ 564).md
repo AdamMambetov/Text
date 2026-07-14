@@ -2,7 +2,7 @@
 created: 2022-12-20T23:31:52+03:00
 aliases:
   - "Tommy-Gun"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Royal Republic - Tommy-Gun.jpg]]"
 Year: 2010
 Album: "[[Tommy-Gun]]"
 CoverOf: ""

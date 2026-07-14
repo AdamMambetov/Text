@@ -4,7 +4,7 @@ aliases:
   - "MUKANJYO"
   - "Vinland Saga OP 1"
   - "Сага о Винланде OP 1"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Survive Said the Prophet - MUKANJYO_1.jpg]]"
 Year: 2019
 Album: ""
 CoverOf: ""

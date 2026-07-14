@@ -2,7 +2,7 @@
 created: 2022-04-22T21:23:06+03:00
 aliases:
   - "We Drink Your Blood"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Powerwolf - We Drink Your Blood.jpg]]"
 Year: 2011
 Album: ""
 CoverOf: ""

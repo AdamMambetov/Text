@@ -2,7 +2,7 @@
 created: 2022-04-22T20:46:40+03:00
 aliases:
   - "Hootsforce"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Gloryhammer - Legends from Beyond the Galactic Terrorvortex.jpg]]"
 Year: 2019
 Album: ""
 CoverOf: ""

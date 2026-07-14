@@ -4,7 +4,7 @@ aliases:
   - "Haruka Kanata"
   - "Naruto OP 2"
   - "Наруто OP 2"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Jackie-O - Haruka Kanata.jpg]]"
 Year: 2021
 Album: ""
 CoverOf: "[[Haruka Kanata - ASIAN KUNG-FU GENERATION (🎧️ 644)]]"

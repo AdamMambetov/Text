@@ -3,7 +3,7 @@ created: 2025-06-30T18:54:27+03:00
 aliases:
   - "Асимметрия"
   - "Asymmetry"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Radiant Records - Ты принёс мечту.jpg]]"
 Year: 0
 Album: ""
 CoverOf: "[[Asymmetry - Yui Horie]]"

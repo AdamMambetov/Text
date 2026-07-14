@@ -2,7 +2,7 @@
 created: 2022-04-22T21:39:30+03:00
 aliases:
   - "I Just Wanna Run"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[The Downtown Fiction - Let's Be Animals.jpg]]"
 Year: 2011
 Album: "[[Let's Be Animals [2011] {The Downtown Fiction}]]"
 CoverOf: ""

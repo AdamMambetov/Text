@@ -2,7 +2,7 @@
 created: 2022-12-20T10:45:42+03:00
 aliases:
   - "For My Sake"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Shinedown - For My Sake.jpg]]"
 Year: 2013
 Album: ""
 CoverOf: ""

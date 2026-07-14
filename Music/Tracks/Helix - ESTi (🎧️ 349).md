@@ -2,7 +2,7 @@
 created: 2022-04-28T15:49:20+03:00
 aliases:
   - "Helix"
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 Year: 2013
 Album: "[[Helix [2013] {ESTi}]]"
 CoverOf: ""

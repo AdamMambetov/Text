@@ -2,7 +2,7 @@
 created: 2025-02-03T08:30:12+03:00
 aliases:
   - "Alone"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Naruto OST - Fooling Mode.jpg]]"
 Year: 2004
 Album: "[[Naruto OST 2 (📀 16)]]"
 CoverOf: ""

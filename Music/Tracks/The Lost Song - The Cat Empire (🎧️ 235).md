@@ -2,7 +2,7 @@
 created: 2022-04-22T21:39:20+03:00
 aliases:
   - "The Lost Song"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[The Cat Empire - The Cat Empire.jpg]]"
 Year: 2012
 Album: "[[The Cat Empire [2012] {The Cat Empire}]]"
 CoverOf: ""

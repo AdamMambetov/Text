@@ -2,7 +2,7 @@
 created: 2022-04-23T02:56:48+03:00
 aliases:
   - "Nine Thou"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Styles of Beyond - Nine Thou.jpg]]"
 Year: 2008
 Album: "[[Nine Thou [2008] {Styles of Beyond}]]"
 CoverOf: ""

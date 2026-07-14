@@ -2,7 +2,7 @@
 created: 2024-10-13T22:44:14+03:00
 aliases:
   - "Maniac (feat. Yann Ligner)"
-Cover: ""
+Cover: "[[Carpenter Brut feat. Yann Ligner - Maniac.jpg]]"
 Year: 2020
 Album: "[[Maniac (feat. Yann Ligner) - Single]]"
 CoverOf: ""

@@ -2,7 +2,7 @@
 created: 2024-10-10T22:45:32+03:00
 aliases:
   - "Kings & Queens"
-Cover: ""
+Cover: "[[Ava Max - Kings & Queens.jpg]]"
 Year: 2020
 Album: "[[Heaven & Hell]]"
 CoverOf: ""

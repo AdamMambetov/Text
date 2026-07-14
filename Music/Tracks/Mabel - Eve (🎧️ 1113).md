@@ -2,7 +2,7 @@
 created: 2024-10-05T14:36:20+03:00
 aliases:
   - "Mabel"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Eve - Mabel.jpg]]"
 Year: 2022
 Album: ""
 CoverOf: "[[Mabel - Sou]]"

@@ -2,7 +2,7 @@
 created: 2025-05-04T01:53:58+03:00
 aliases:
   - "Careless Whisper"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[George Michael - Careless Whisper.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

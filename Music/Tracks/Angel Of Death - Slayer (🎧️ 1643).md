@@ -2,7 +2,7 @@
 created: 2025-05-04T02:24:00+03:00
 aliases:
   - "Angel Of Death"
-Cover: ""
+Cover: "[[Slayer - Angel Of Death.jpg]]"
 Year: 2018
 Album: "[[Reign In Blood]]"
 CoverOf: ""

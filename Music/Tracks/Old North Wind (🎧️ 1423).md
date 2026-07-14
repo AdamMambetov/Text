@@ -2,7 +2,7 @@
 created: 2025-01-07T20:03:22+03:00
 aliases:
   - "Old North Wind"
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

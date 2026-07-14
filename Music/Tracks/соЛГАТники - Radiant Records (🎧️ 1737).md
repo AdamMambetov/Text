@@ -4,7 +4,7 @@ aliases:
   - "соЛГАТники"
   - "aLIEz"
   - "солгатники"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Radiant Records - Ты принёс мечту.jpg]]"
 Year: 0
 Album: ""
 CoverOf: "[[aLIEz - Hiroyuki Sawano (🎧️ 1785)]]"

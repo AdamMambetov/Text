@@ -2,7 +2,7 @@
 created: 2024-12-12T20:18:14+03:00
 aliases:
   - "Your Turn To Die Ost EXTENDED .06 Exploration B"
-Cover: ""
+Cover: "[[Your Turn To Die OST - 06 Exploration B [EXTENDED].png]]"
 Year: 2019
 Album: ""
 CoverOf: ""

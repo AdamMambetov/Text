@@ -2,7 +2,7 @@
 created: 2022-04-22T20:36:04+03:00
 aliases:
   - "Not Afraid"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Eminem - Recovery.jpg]]"
 Year: 2010
 Album: ""
 CoverOf: ""

@@ -2,7 +2,7 @@
 created: 2024-10-05T14:17:26+03:00
 aliases:
   - "MASQUERADE"
-Cover: ""
+Cover: "[[Versailles - MASQUERADE.jpg]]"
 Year: 2016
 Album: "[[The Greatest Hits 2007-2016]]"
 CoverOf: ""

@@ -2,7 +2,7 @@
 created: 2023-09-29T16:27:59+03:00
 aliases:
   - "Воха и Лёха"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Сметана band - Всё очень плохо.jpg]]"
 Year: 2017
 Album: "[[Всё очень плохо]]"
 CoverOf: ""

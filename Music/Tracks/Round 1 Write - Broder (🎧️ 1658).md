@@ -3,7 +3,7 @@ created: 2025-05-04T02:52:34+03:00
 aliases:
   - "Round 1 Write (Quiplash)"
   - "Round 1 Write (Смехлыст)"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Quiplash OST - 05 Round 2 Write.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

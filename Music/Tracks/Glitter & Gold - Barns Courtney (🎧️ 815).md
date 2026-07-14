@@ -2,7 +2,7 @@
 created: 2023-09-29T16:23:13+03:00
 aliases:
   - "Glitter & Gold"
-Cover: ""
+Cover: "[[Barns Courtney - The Attractions Of Youth.jpg]]"
 Year: 2017
 Album: "[[The Attractions Of Youth]]"
 CoverOf: ""

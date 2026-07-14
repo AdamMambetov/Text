@@ -2,7 +2,7 @@
 created: 2022-04-22T21:48:04+03:00
 aliases:
   - "Life Is Beautiful"
-Cover: ""
+Cover: "[[Tim McMorris - Alive.jpg]]"
 Year: 2014
 Album: "[[Alive [2014] {Tim McMorris}]]"
 CoverOf: ""

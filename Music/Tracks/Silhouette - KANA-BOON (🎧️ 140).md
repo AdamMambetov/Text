@@ -4,7 +4,7 @@ aliases:
   - "Silhouette"
   - "Naruto Shippuuden OP 16"
   - "Наруто Ураганные хроники OP 16"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[KANA-BOON - Silhouette.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

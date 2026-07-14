@@ -2,7 +2,7 @@
 created: 2025-01-08T19:45:12+03:00
 aliases:
   - "Gourmet Race Theme 1"
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: "[[Kirby Super Star]]"
 CoverOf: ""

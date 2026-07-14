@@ -2,7 +2,7 @@
 created: 2023-09-29T16:23:46+03:00
 aliases:
   - "Losing You"
-Cover: ""
+Cover: "[[Dead by April - Dead by April.jpg]]"
 Year: 2009
 Album: "[[Dead by April]]"
 CoverOf: ""

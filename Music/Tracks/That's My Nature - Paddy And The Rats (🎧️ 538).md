@@ -2,7 +2,7 @@
 created: 2022-12-20T22:42:04+03:00
 aliases:
   - "That's My Nature"
-Cover: ""
+Cover: "[[Paddy And The Rats - Lonely Hearts' Boulevard.jpg]]"
 Year: 2015
 Album: "[[Lonely Hearts' Boulevard]]"
 CoverOf: ""

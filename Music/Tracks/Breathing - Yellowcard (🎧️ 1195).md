@@ -2,7 +2,7 @@
 created: 2024-10-13T22:32:36+03:00
 aliases:
   - "Breathing"
-Cover: ""
+Cover: "[[Yellowcard - Breathing.jpg]]"
 Year: 2003
 Album: "[[Ocean Avenue]]"
 CoverOf: ""

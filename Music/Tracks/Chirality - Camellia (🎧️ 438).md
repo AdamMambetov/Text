@@ -2,7 +2,7 @@
 created: 2022-10-05T13:04:44+03:00
 aliases:
   - "Chirality"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Camellia - Chirality_1.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

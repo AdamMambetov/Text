@@ -2,7 +2,7 @@
 created: 2022-04-22T20:35:32+03:00
 aliases:
   - "Survivor"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Emil Bulls - Mixtape.jpg]]"
 Year: 2019
 Album: ""
 CoverOf: ""

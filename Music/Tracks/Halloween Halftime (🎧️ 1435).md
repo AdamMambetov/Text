@@ -2,7 +2,7 @@
 created: 2025-01-07T20:09:56+03:00
 aliases:
   - "Halloween Halftime"
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

@@ -4,7 +4,7 @@ aliases:
   - "Okinimesumama"
   - "As You Like It"
   - "Как тебе будет угодно"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Eve - Bunka.jpg]]"
 Year: 2017
 Album: ""
 CoverOf: ""

@@ -2,7 +2,7 @@
 created: 2023-09-29T16:24:28+03:00
 aliases:
   - "Sweet Dreams (Are Made of This)"
-Cover: ""
+Cover: "[[Eurythmics - Ultimate Collection.jpg]]"
 Year: 2005
 Album: "[[Ultimate Collection]]"
 CoverOf: ""

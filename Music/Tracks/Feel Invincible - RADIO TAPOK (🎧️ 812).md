@@ -2,7 +2,7 @@
 created: 2024-01-04T13:17:42+03:00
 aliases:
   - "Feel Invincible"
-Cover: ""
+Cover: "[[RADIO TAPOK - Everywhere I Go.jpg]]"
 Year: 2019
 Album: "[[Feel Invincible]]"
 CoverOf: ""

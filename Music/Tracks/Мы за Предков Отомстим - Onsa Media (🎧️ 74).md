@@ -2,7 +2,7 @@
 created: 2022-04-21T04:15:46+03:00
 aliases:
   - "Мы за Предков Отомстим"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Onsa Media - Sono Chi no Kioku end of THE WORLD.jpg]]"
 Year: 0
 Album: "[[Sono Chi no Kioku end of THE WORLD [2021] {Coconut Dog, Марк Счётчиков, Seraph}]]"
 CoverOf: ""

@@ -2,7 +2,7 @@
 created: 2024-10-23T15:13:32+03:00
 aliases:
   - "Fallen Angel"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Three Days Grace - Fallen Angel.jpg]]"
 Year: 2015
 Album: ""
 CoverOf: ""

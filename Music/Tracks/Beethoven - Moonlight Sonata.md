@@ -2,7 +2,7 @@
 created: 2025-06-02T22:50:49+03:00
 aliases:
   - "Beethoven - Moonlight Sonata"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Beethoven - Moonlight Sonata.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

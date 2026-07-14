@@ -2,7 +2,7 @@
 created: 2025-01-08T22:27:48+03:00
 aliases:
   - "Blood Circulator"
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

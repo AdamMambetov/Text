@@ -2,7 +2,7 @@
 created: 2022-12-20T23:19:08+03:00
 aliases:
   - "Reflections"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[We Are The In Crowd - Weird Kids.jpg]]"
 Year: 2014
 Album: ""
 CoverOf: ""

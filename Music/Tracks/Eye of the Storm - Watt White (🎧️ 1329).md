@@ -2,7 +2,7 @@
 created: 2024-10-23T15:09:20+03:00
 aliases:
   - "Eye of the Storm"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Watt White - Eye Of The Storm.jpg]]"
 Year: 2017
 Album: "[[Eye of the Storm]]"
 CoverOf: ""

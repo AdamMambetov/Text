@@ -2,7 +2,7 @@
 created: 2025-01-07T19:59:30+03:00
 aliases:
   - "The Beast Is Out There"
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

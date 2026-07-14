@@ -2,7 +2,7 @@
 created: 2022-04-22T21:41:52+03:00
 aliases:
   - "Head Up"
-Cover: ""
+Cover: "[[The Score - Metamorph.jpg]]"
 Year: 2022
 Album: "[[Metamorph [2022] {The Score}]]"
 CoverOf: ""

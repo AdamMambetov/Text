@@ -2,7 +2,7 @@
 created: 2025-05-04T02:22:33+03:00
 aliases:
   - "Eromanga Slipknot"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Usolie Records - Eromanga Slipknot (Hitorigoto, Psychosocial Mashup).jpg]]"
 Year: 2020
 Album: ""
 CoverOf: ""

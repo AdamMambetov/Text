@@ -2,7 +2,7 @@
 created: 2025-11-19T02:40:30+03:00
 aliases:
   - "Release - Rage"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Release - Rye_Batenkaitos.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

@@ -2,7 +2,7 @@
 created: 2022-12-20T22:35:08+03:00
 aliases:
   - "Don't Stop Me Now"
-Cover: ""
+Cover: "[[Queen.jpg]]"
 Year: 2000
 Album: "[[The Platinum Collection]]"
 CoverOf: ""

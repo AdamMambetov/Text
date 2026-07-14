@@ -4,7 +4,7 @@ aliases:
   - "Extra Magic Hour"
   - "Amagi Brilliant Park OP 1"
   - "Великолепный парк Амаги OP 1"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[AKINO with bless4 - Extra Magic Hour.jpg]]"
 Year: 2015
 Album: ""
 CoverOf: ""

@@ -2,7 +2,7 @@
 created: 2022-04-22T21:12:42+03:00
 aliases:
   - "Soldiers Requiem"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Naked Raygun - Jettison.jpg]]"
 Year: 1988
 Album: ""
 CoverOf: ""

@@ -2,7 +2,7 @@
 created: 2025-11-19T02:40:06+03:00
 aliases:
   - "Release - Theatrical_Malice"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Release - Rye_Batenkaitos.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

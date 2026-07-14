@@ -3,7 +3,7 @@ created: 2025-05-04T14:48:28+03:00
 aliases:
   - "Lobby (Trivia Murder Party 2)"
   - "Lobby (Смертельная вечеринка 2)"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Trivia Murder Party 2 OST - 06 Saxy.jpg]]"
 Year: 2019
 Album: "[[The Jackbox Party Pack 6 (Original Soundtrack)]]"
 CoverOf: ""

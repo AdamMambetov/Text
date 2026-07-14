@@ -2,7 +2,7 @@
 created: 2022-04-22T21:09:16+03:00
 aliases:
   - "Lucky Strike"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Maroon 5 - Overexposed.jpg]]"
 Year: 2012
 Album: ""
 CoverOf: ""

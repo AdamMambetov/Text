@@ -2,7 +2,7 @@
 created: 2022-04-26T01:01:40+03:00
 aliases:
   - "I'm A Believer"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Smash Mouth - I'm A Believer.jpg]]"
 Year: 2001
 Album: ""
 CoverOf: ""

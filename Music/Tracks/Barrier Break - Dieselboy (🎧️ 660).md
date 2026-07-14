@@ -2,7 +2,7 @@
 created: 2023-09-30T15:54:10+03:00
 aliases:
   - "Barrier Break"
-Cover: ""
+Cover: "[[Dieselboy - Barrier Break.jpg]]"
 Year: 2003
 Album: "[[Barrier Break]]"
 CoverOf: ""

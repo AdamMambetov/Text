@@ -2,7 +2,7 @@
 created: 2023-08-23T13:17:02+03:00
 aliases:
   - "Let It Go"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Scatman John - Let It Go.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

@@ -2,7 +2,7 @@
 created: 2024-10-30T19:11:56+03:00
 aliases:
   - "Fight for Liberty"
-Cover: ""
+Cover: "[[UVERworld - Fight for Liberty.jpg]]"
 Year: 2013
 Album: "[[All Time Best]]"
 CoverOf: ""

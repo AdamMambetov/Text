@@ -2,7 +2,7 @@
 created: 2022-04-22T20:46:12+03:00
 aliases:
   - "Sarcasm"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Get Scared - Best Kind Of Mess.jpg]]"
 Year: 2010
 Album: ""
 CoverOf: ""

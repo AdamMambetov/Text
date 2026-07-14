@@ -2,7 +2,7 @@
 created: 2022-12-20T23:20:50+03:00
 aliases:
   - "Геймер"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Plamenev - Gamer.png]]"
 Year: 2021
 Album: ""
 CoverOf: ""

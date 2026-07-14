@@ -2,7 +2,7 @@
 created: 2024-10-13T23:25:12+03:00
 aliases:
   - "Nightmare Session (Kurumi Theme)"
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: "[[Date A Live 3 OST]]"
 CoverOf: ""

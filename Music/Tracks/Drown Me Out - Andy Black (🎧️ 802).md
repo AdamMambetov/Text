@@ -2,7 +2,7 @@
 created: 2023-09-29T16:23:05+03:00
 aliases:
   - "Drown Me Out"
-Cover: ""
+Cover: "[[Andy Black - The Shadow Side.jpg]]"
 Year: 2016
 Album: "[[The Shadow Side]]"
 CoverOf: ""

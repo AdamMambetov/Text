@@ -5,7 +5,7 @@ aliases:
   - "Solo Leveling OP 1"
   - "Поднятие уровня в одиночку OP 1"
   - "Соло Левелинг OP 1"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Hiroyuki Sawano - LEvel (TV Size).jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

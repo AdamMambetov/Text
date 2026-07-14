@@ -4,7 +4,7 @@ aliases:
   - "Kimi no Shiranai Monogatari"
   - "Bakemonogatari ED 1"
   - "Истории монстров ED 1"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[supercell - Kimi no Shiranai.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

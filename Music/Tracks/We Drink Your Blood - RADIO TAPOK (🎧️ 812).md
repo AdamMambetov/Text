@@ -3,7 +3,7 @@ created: 2023-09-29T16:26:06+03:00
 aliases:
   - "We Drink Your Blood"
   - "Мы выпьем кровь"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[RADIO TAPOK - We Drink Your Blood.jpg]]"
 Year: 2021
 Album: ""
 CoverOf: "[[We Drink Your Blood - Powerwolf (🎧️ 202)]]"

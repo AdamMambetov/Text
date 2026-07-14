@@ -4,7 +4,7 @@ aliases:
   - "Unravel"
   - "Tokyo Ghoul OP 1"
   - "Токийский гуль OP 1"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Leon Alex - Unravel.jpg]]"
 Year: 2020
 Album: ""
 CoverOf: "[[Unravel - TK from Ling tosite sigure (🎧️ 1438)]]"

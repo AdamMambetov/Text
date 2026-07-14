@@ -2,7 +2,7 @@
 created: 2022-05-02T03:05:52+03:00
 aliases:
   - "Deep In The Night"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Snails & Pegboard Nerds - Deep In The Night.png]]"
 Year: 2016
 Album: ""
 CoverOf: ""

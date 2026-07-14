@@ -2,7 +2,7 @@
 created: 2022-04-22T21:50:20+03:00
 aliases:
   - "Эффект соляриса"
-Cover: ""
+Cover: "[[Vere Dictum - Один во вселенной.jpg]]"
 Year: 2020
 Album: "[[Один во вселенной [2020] {Vere Dictum}]]"
 CoverOf: ""

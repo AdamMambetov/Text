@@ -2,7 +2,7 @@
 created: 2025-01-07T21:55:40+03:00
 aliases:
   - "MIIRO (TV Size)"
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

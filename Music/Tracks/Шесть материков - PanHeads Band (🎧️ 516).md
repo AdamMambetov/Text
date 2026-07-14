@@ -2,7 +2,7 @@
 created: 2022-12-09T06:57:48+03:00
 aliases:
   - "Шесть материков"
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 Year: 2018
 Album: "[[Шесть материков]]"
 CoverOf: ""

@@ -2,7 +2,7 @@
 created: 2023-09-29T16:23:42+03:00
 aliases:
   - "Hey Mama"
-Cover: ""
+Cover: "[[David Guetta - Listen.jpg]]"
 Year: 2014
 Album: "[[Listen]]"
 CoverOf: ""

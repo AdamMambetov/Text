@@ -2,7 +2,7 @@
 created: 2023-05-23T21:41:18+03:00
 aliases:
   - "Fairytale"
-Cover: ""
+Cover: "[[Александр Рыбак - Fairytale.jpg]]"
 Year: 2009
 Album: "[[Fairytale]]"
 CoverOf: ""

@@ -2,7 +2,7 @@
 created: 2024-10-13T22:39:24+03:00
 aliases:
   - "California"
-Cover: ""
+Cover: "[[Hollywood Undead - California.jpg]]"
 Year: 2008
 Album: "[[Swan Songs]]"
 CoverOf: ""

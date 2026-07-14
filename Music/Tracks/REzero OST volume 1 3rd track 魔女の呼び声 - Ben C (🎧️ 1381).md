@@ -2,7 +2,7 @@
 created: 2025-01-07T19:49:23+03:00
 aliases:
   - "REzero OST volume 1 3rd track 魔女の呼び声"
-Cover: ""
+Cover: "[[ReZero OST - 15 Il Richiamo della Strega.png]]"
 Year: 2017
 Album: ""
 CoverOf: ""

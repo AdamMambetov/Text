@@ -2,7 +2,7 @@
 created: 2022-04-22T21:17:34+03:00
 aliases:
   - "hot girl bummer"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Our Last Night - hot girl bummer.jpg]]"
 Year: 2020
 Album: ""
 CoverOf: ""

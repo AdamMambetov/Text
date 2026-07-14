@@ -3,7 +3,7 @@ created: 2024-10-10T22:59:04+03:00
 aliases:
   - "innocent arrogance"
   - "Иллюзия рая OP 1"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[BiSH - innocent arrogance.jpg]]"
 Year: 2023
 Album: ""
 CoverOf: ""

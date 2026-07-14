@@ -2,7 +2,7 @@
 created: 2022-04-23T02:33:16+03:00
 aliases:
   - "Sparkle"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[RADWIMPS - Sparkle.jpg]]"
 Year: 2016
 Album: "[[Human Bloom [2016] {RADWIMPS}]]"
 CoverOf: ""

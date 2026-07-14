@@ -2,7 +2,7 @@
 created: 2024-10-13T22:58:06+03:00
 aliases:
   - "Compared Child"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Sati Akura - Compared Child_1.jpg]]"
 Year: 2020
 Album: ""
 CoverOf: "[[Compared Child - TUYU]]"

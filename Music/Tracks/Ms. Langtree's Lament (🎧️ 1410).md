@@ -2,7 +2,7 @@
 created: 2025-01-07T19:58:12+03:00
 aliases:
   - "Ms. Langtree's Lament"
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

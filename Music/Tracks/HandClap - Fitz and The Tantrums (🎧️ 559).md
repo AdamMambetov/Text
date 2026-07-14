@@ -2,7 +2,7 @@
 created: 2022-12-20T23:25:04+03:00
 aliases:
   - "HandClap"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Fitz & The Tantrums - Fitz and The Tantrums.png]]"
 Year: 2017
 Album: ""
 CoverOf: ""

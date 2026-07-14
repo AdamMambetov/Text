@@ -7,7 +7,7 @@ aliases:
   - "Boku Dake ga Inai Machi OP 1"
   - "Erased OP 1"
   - "Город в котором меня нет OP 1"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Radiant Records - Ты принёс мечту.jpg]]"
 Year: 0
 Album: ""
 CoverOf: "[[ReRe - ASIAN KUNG-FU GENERATION (🎧️ 803)]]"

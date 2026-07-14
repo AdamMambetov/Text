@@ -2,7 +2,7 @@
 created: 2023-09-29T16:32:50+03:00
 aliases:
   - "Kokou no Sousei"
-Cover: ""
+Cover: "[[Yousei Teikoku - GOTHIC LOLITA PROPAGANDA.jpg]]"
 Year: 2007
 Album: "[[Kokou no Sousei]]"
 CoverOf: ""

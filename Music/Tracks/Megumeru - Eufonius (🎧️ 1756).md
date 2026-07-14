@@ -4,7 +4,7 @@ aliases:
   - "Megumeru"
   - "Clannad OP 1"
   - "Кланнад OP 1"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Eufonius - Megumeru.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

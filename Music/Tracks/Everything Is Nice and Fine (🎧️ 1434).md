@@ -2,7 +2,7 @@
 created: 2025-01-07T20:09:06+03:00
 aliases:
   - "Everything Is Nice and Fine"
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

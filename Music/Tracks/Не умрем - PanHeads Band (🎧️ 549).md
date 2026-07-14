@@ -2,7 +2,7 @@
 created: 2022-12-20T23:17:58+03:00
 aliases:
   - "Не умрем"
-Cover: ""
+Cover: "[[PANHEADS BAND - Не умрем.jpg]]"
 Year: 2021
 Album: "[[Не умрем]]"
 CoverOf: ""

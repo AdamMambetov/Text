@@ -2,7 +2,7 @@
 created: 2025-05-04T02:14:12+03:00
 aliases:
   - "BLUR x СМЕШАРИКИ - AIRPLANE 2"
-Cover: ""
+Cover: "[[mashup - AIRPLANE 2 (Song 2, От Винта Mashup).jpg]]"
 Year: 2020
 Album: ""
 CoverOf: ""

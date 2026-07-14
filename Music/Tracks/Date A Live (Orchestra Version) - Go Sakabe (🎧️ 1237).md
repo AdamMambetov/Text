@@ -2,7 +2,7 @@
 created: 2024-10-13T23:21:44+03:00
 aliases:
   - "Date A Live (Orchestra Version)"
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: "[[Date A Live 1 OST]]"
 CoverOf: ""

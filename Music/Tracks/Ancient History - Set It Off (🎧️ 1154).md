@@ -2,7 +2,7 @@
 created: 2024-10-08T15:51:52+03:00
 aliases:
   - "Ancient History"
-Cover: ""
+Cover: "[[Set It Off - Ancient History.jpg]]"
 Year: 2014
 Album: "[[Duality]]"
 CoverOf: ""

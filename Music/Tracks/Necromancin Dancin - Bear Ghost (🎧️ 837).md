@@ -2,7 +2,7 @@
 created: 2023-09-29T16:23:57+03:00
 aliases:
   - "Necromancin Dancin"
-Cover: ""
+Cover: "[[Bear Ghost - Blasterpiece.jpg]]"
 Year: 2016
 Album: "[[Blasterpiece]]"
 CoverOf: ""

@@ -2,7 +2,7 @@
 created: 2024-10-13T23:03:38+03:00
 aliases:
   - "Counting Stars"
-Cover: ""
+Cover: "[[OneRepublic - Counting Stars.jpg]]"
 Year: 2013
 Album: "[[Native]]"
 CoverOf: ""

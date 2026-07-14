@@ -2,7 +2,7 @@
 created: 2022-08-08T11:08:24+03:00
 aliases:
   - "Проснулся и живой"
-Cover: ""
+Cover: "[[_No Album Art.jpg]]"
 Year: 2014
 Album: ""
 CoverOf: "[[Awake and Alive - Skillet (🎧️ 1170)]]"

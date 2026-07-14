@@ -2,7 +2,7 @@
 created: 2023-09-30T15:54:25+03:00
 aliases:
   - "Decadence"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Disturbed - Decadence.jpg]]"
 Year: 2005
 Album: ""
 CoverOf: ""

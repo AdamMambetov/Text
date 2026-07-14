@@ -5,7 +5,7 @@ aliases:
   - "Mashle OP 2"
   - "Магия и Мускулы OP 2"
   - "Мэшл OP 2"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Creepy Nuts - Bling-Bang-Bang-Born.jpg]]"
 Year: 2024
 Album: ""
 CoverOf: ""
