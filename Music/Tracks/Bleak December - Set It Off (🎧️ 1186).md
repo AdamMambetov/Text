@@ -2,7 +2,7 @@
 created: 2024-10-10T23:03:54+03:00
 aliases:
   - "Bleak December"
-Cover: "[[Set It Off - Ancient History.jpg]]"
+Cover: "[[Set It Off - Duality.jpg]]"
 Year: 2014
 Album: "[[Duality]]"
 CoverOf: ""

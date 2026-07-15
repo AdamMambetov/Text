@@ -2,7 +2,7 @@
 created: 2023-09-29T18:30:26+03:00
 aliases:
   - "All Hallow's Eve Ball"
-Cover: "[[Van Helsing.jpg]]"
+Cover: "[[Van Helsing OST.jpg]]"
 Year: 2004
 Album: "[[Van Helsing OST (📀 26)]]"
 CoverOf: ""

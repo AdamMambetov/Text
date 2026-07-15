@@ -5,13 +5,13 @@ aliases:
 Cover: "[[FortuneArterial01 - 白夢の繭-~Ricordando-il-passato~-Lyrics.jpg]]"
 Year: 0
 Album: ""
+CoverOf: ""
 Creators: []
+ListenInSec: 0
 NumberInAlbum: 0
+related: []
 source: ""
 SourceFile: "[[FortuneArterial01 - 白夢の繭-~Ricordando-il-passato~-Lyrics.mp3]]"
-related: []
-ListenInSec: 0
-CoverOf: ""
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

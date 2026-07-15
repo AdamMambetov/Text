@@ -2,7 +2,7 @@
 created: 2022-10-05T13:05:26+03:00
 aliases:
   - "circles!"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[nekodex - circles!.jpg]]"
 Year: 2015
 Album: ""
 CoverOf: ""

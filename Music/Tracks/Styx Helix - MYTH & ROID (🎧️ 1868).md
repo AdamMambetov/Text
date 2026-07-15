@@ -1,9 +1,9 @@
 ---
 created: 2025-11-19T03:16:38+03:00
 aliases:
-  - Styx Helix
-  - ReZero ED 1
-  - РеЗеро ED 1
+  - "Styx Helix"
+  - "ReZero ED 1"
+  - "РеЗеро ED 1"
 Cover: "[[MYTH & ROID - Styx Helix.jpg]]"
 Year: 0
 Album: ""

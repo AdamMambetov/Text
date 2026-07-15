@@ -5,13 +5,13 @@ aliases:
 Cover: "[[KADOKAWAanime - TVアニメ「オーバーロードⅢ」ノンクレジットOP映像【MYTH&ROID「VORACITY」】.jpg]]"
 Year: 0
 Album: ""
+CoverOf: ""
 Creators: []
+ListenInSec: 0
 NumberInAlbum: 0
+related: []
 source: ""
 SourceFile: "[[KADOKAWAanime - TVアニメ「オーバーロードⅢ」ノンクレジットOP映像【MYTH&ROID「VORACITY」】.mp3]]"
-related: []
-ListenInSec: 0
-CoverOf: ""
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

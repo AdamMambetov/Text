@@ -3,8 +3,8 @@ created: 2024-01-04T12:15:09+03:00
 aliases:
   - "Out of Death"
   - "Вне смерти"
-Cover: "[[_No Album Art.jpg]]"
-Year: 0
+Cover: "[[Plamenev - Вне смерти.jpg]]"
+Year: 2017
 Album: ""
 CoverOf: ""
 Creators:
@@ -12,7 +12,7 @@ Creators:
 ListenInSec: 221
 NumberInAlbum: 0
 related:
-  - "[[Вне смерти - Plamenev (🎧️ 547)]]"
+  - "[[Вне смерти - Plamenev (🎧️ 545)]]"
 source: ""
 SourceFile: "[[Plamenev - Out of Death.mp3]]"
 ---

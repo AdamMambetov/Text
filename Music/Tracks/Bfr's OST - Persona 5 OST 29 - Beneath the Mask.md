@@ -1,17 +1,17 @@
 ---
 created: 2026-06-11T22:36:28+03:00
 aliases:
-  - Bfr's OST - Persona 5 OST 29 - Beneath the Mask
+  - "Bfr's OST - Persona 5 OST 29 - Beneath the Mask"
 Cover: "[[Persona 5 OST.jpg]]"
 Year: 0
 Album: ""
+CoverOf: ""
 Creators: []
+ListenInSec: 0
 NumberInAlbum: 0
+related: []
 source: ""
 SourceFile: "[[Bfr's OST - Persona 5 OST 29 - Beneath the Mask.mp3]]"
-related: []
-ListenInSec: 0
-CoverOf: ""
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

@@ -1,7 +1,7 @@
 ---
 created: 2022-04-28T17:53:40+03:00
 aliases:
-  - Sneaking Nightmare
+  - "Sneaking Nightmare"
 Cover: "[[Naruto OST 3.jpg]]"
 Year: 2005
 Album: "[[Naruto OST 3 (📀 17)]]"

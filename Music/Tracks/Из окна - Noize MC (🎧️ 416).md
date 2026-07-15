@@ -2,7 +2,7 @@
 created: 2022-05-11T23:11:14+03:00
 aliases:
   - "Из окна"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Noize MC - The Greatest Hits.jpg]]"
 Year: 2008
 Album: "[[The Greatest Hits [2008] {Noize MC}]]"
 CoverOf: ""

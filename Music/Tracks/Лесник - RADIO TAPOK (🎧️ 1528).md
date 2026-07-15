@@ -5,7 +5,7 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
-CoverOf: "[[Лесник - Король и Шут (🎧️ 534)]]"
+CoverOf: "[[Лесник - Король и Шут (🎧️ 532)]]"
 Creators:
   - "[[RADIO TAPOK (🎙️ 421)]]"
 ListenInSec: 190

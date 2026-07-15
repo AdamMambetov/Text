@@ -2,7 +2,7 @@
 created: 2025-11-19T02:40:06+03:00
 aliases:
   - "Release - Theatrical_Malice"
-Cover: "[[Release - Rye_Batenkaitos.jpg]]"
+Cover: "[[ReZero 3 OST.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

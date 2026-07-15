@@ -2,7 +2,7 @@
 created: 2025-11-19T01:27:06+03:00
 aliases:
   - "Natsuki_Subaru - Re_-Zero_2nd_Season_OST_-_Disc_1_-_16._Take_Care"
-Cover: "[[Natsuki_Subaru - Re_-Zero_2nd_Season_OST_-_Disc_1_-_16._Take_Care.jpg]]"
+Cover: "[[ReZero 2 OST 1.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

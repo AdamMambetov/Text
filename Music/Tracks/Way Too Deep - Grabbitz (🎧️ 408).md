@@ -15,6 +15,6 @@ source:
 SourceFile: "[[Grabbitz - Way Too Deep.mp3]]"
 ---
 
-#  - Way Too Deep
+# Way Too Deep
 
 ![[Grabbitz - Way Too Deep.mp3]]

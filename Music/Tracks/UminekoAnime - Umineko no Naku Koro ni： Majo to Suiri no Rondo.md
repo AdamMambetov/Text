@@ -5,13 +5,13 @@ aliases:
 Cover: "[[UminekoAnime - Umineko no Naku Koro ni： Majo to Suiri no Rondo.jpg]]"
 Year: 0
 Album: ""
+CoverOf: ""
 Creators: []
+ListenInSec: 0
 NumberInAlbum: 0
+related: []
 source: ""
 SourceFile: "[[UminekoAnime - Umineko no Naku Koro ni： Majo to Suiri no Rondo.mp3]]"
-related: []
-ListenInSec: 0
-CoverOf: ""
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

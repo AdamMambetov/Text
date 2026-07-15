@@ -3,7 +3,7 @@ created: 2022-10-05T12:59:12+03:00
 aliases:
   - "Blade of Hope (TV Size)"
   - "По велению адской сестры OP 1"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[sweet ARMS - Blade of Hope (TV Size).jpg]]"
 Year: 2015
 Album: ""
 CoverOf: ""

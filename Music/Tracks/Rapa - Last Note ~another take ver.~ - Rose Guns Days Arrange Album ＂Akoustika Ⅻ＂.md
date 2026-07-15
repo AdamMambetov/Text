@@ -5,13 +5,13 @@ aliases:
 Cover: "[[Rapa - Ai wa Omertà ~guitar vocal ver.~ [without vocal] - Rose Guns Days Arrange Album ＂Akoustika Ⅻ＂.jpg]]"
 Year: 0
 Album: ""
+CoverOf: ""
 Creators: []
+ListenInSec: 0
 NumberInAlbum: 0
+related: []
 source: ""
 SourceFile: "[[Rapa - Last Note ~another take ver.~ - Rose Guns Days Arrange Album ＂Akoustika Ⅻ＂.mp3]]"
-related: []
-ListenInSec: 0
-CoverOf: ""
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

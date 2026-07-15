@@ -5,13 +5,13 @@ aliases:
 Cover: "[[Rapa - Shoujo≠M ～piano inst ver.～ - Umineko no Naku Koro ni Arrange Album ＂Akoustika V＂.jpg]]"
 Year: 0
 Album: ""
+CoverOf: ""
 Creators: []
+ListenInSec: 0
 NumberInAlbum: 0
+related: []
 source: ""
 SourceFile: "[[Rapa - scenario-rider - Umineko no Naku Koro ni Arrange Album ＂Akoustika V＂.mp3]]"
-related: []
-ListenInSec: 0
-CoverOf: ""
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

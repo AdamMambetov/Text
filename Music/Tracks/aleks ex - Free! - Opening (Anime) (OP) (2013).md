@@ -5,13 +5,13 @@ aliases:
 Cover: "[[aleks ex - Free! - Opening [Anime] [OP] [2013].jpg]]"
 Year: 0
 Album: ""
+CoverOf: ""
 Creators: []
+ListenInSec: 0
 NumberInAlbum: 0
+related: []
 source: ""
 SourceFile: "[[aleks ex - Free! - Opening [Anime] [OP] [2013].mp3]]"
-related: []
-ListenInSec: 0
-CoverOf: ""
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

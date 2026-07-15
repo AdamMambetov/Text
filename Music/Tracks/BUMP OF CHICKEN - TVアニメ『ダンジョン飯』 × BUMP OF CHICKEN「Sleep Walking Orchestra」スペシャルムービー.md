@@ -5,13 +5,13 @@ aliases:
 Cover: "[[BUMP OF CHICKEN - TVアニメ『ダンジョン飯』 × BUMP OF CHICKEN「Sleep Walking Orchestra」スペシャルムービー.jpg]]"
 Year: 0
 Album: ""
+CoverOf: ""
 Creators: []
+ListenInSec: 0
 NumberInAlbum: 0
+related: []
 source: ""
 SourceFile: "[[BUMP OF CHICKEN - TVアニメ『ダンジョン飯』 × BUMP OF CHICKEN「Sleep Walking Orchestra」スペシャルムービー.mp3]]"
-related: []
-ListenInSec: 0
-CoverOf: ""
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

@@ -5,13 +5,13 @@ aliases:
 Cover: "[[TwoFeet - Two Feet - Love is a Bitch.jpg]]"
 Year: 0
 Album: ""
+CoverOf: ""
 Creators: []
+ListenInSec: 0
 NumberInAlbum: 0
+related: []
 source: ""
 SourceFile: "[[TwoFeet - Two Feet - Love is a Bitch.mp3]]"
-related: []
-ListenInSec: 0
-CoverOf: ""
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

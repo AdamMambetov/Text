@@ -1,7 +1,7 @@
 ---
 created: 2025-11-19T02:13:30+03:00
 aliases:
-  - Anime_Ost_Archive - Re_-Zero_The_Frozen_Bond_OST_-_6._Eerie
+  - "Anime_Ost_Archive - Re_-Zero_The_Frozen_Bond_OST_-_6._Eerie"
 Cover: "[[Kenichiro Suehiro - ReZero The Frozen Bond OST.jpg]]"
 Year: 0
 Album: ""

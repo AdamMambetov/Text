@@ -1,8 +1,8 @@
 ---
 created: 2024-06-10T02:55:00
 aliases:
-  - Интерстеллар
-  - Interstellar
+  - "Интерстеллар"
+  - "Interstellar"
 Status: complete
 Type: film
 Rating:
@@ -10,7 +10,7 @@ Rating:
 Year: 2014
 Views: 1
 tags:
-  - ❤
+  - "❤"
 ---
 
 # Интерстеллар

@@ -3,7 +3,7 @@ created: 2024-06-21T05:22:22+03:00
 aliases:
   - "Рядом"
   - "Closer"
-Cover: "[[Radiant Records - Плач цикад.jpg]]"
+Cover: "[[Radiant Records - Септима.jpg]]"
 Year: 0
 Album: ""
 CoverOf: "[[Closer - Inoue Joe]]"

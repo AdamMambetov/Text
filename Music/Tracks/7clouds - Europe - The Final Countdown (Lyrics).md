@@ -2,16 +2,16 @@
 created: 2026-06-11T22:39:48+03:00
 aliases:
   - "7clouds - Europe - The Final Countdown (Lyrics)"
-Cover: "[[7clouds - Europe - The Final Countdown (Lyrics).jpg]]"
+Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
+CoverOf: ""
 Creators: []
+ListenInSec: 0
 NumberInAlbum: 0
+related: []
 source: ""
 SourceFile: "[[7clouds - Europe - The Final Countdown (Lyrics).mp3]]"
-related: []
-ListenInSec: 0
-CoverOf: ""
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

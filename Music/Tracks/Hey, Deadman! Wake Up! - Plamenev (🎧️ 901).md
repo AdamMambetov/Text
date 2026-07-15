@@ -3,7 +3,7 @@ created: 2024-01-04T12:14:57+03:00
 aliases:
   - "Hey, Deadman! Wake Up!"
   - "Эй, мёртвый! проснись!"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Plamenev - Hey, Deadman! Wake Up!.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

@@ -2,7 +2,7 @@
 created: 2024-10-23T15:13:32+03:00
 aliases:
   - "Fallen Angel"
-Cover: "[[Three Days Grace - Fallen Angel.jpg]]"
+Cover: "[[Three Days Grace - Human.jpg]]"
 Year: 2015
 Album: ""
 CoverOf: ""

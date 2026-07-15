@@ -5,13 +5,13 @@ aliases:
 Cover: "[[Silentium - La Signora Battle Theme [All Phases] ｜ RUS cover ｜ Silentium.jpg]]"
 Year: 0
 Album: ""
+CoverOf: ""
 Creators: []
+ListenInSec: 0
 NumberInAlbum: 0
+related: []
 source: ""
 SourceFile: "[[Silentium - La Signora Battle Theme [All Phases] ｜ RUS cover ｜ Silentium.mp3]]"
-related: []
-ListenInSec: 0
-CoverOf: ""
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

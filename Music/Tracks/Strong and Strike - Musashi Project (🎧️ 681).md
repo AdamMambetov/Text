@@ -1,7 +1,7 @@
 ---
 created: 2023-09-29T16:25:21+03:00
 aliases:
-  - Strong and Strike
+  - "Strong and Strike"
 Cover: "[[Naruto OST 1.jpg]]"
 Year: 2002
 Album: "[[Naruto OST 1 (📀 15)]]"

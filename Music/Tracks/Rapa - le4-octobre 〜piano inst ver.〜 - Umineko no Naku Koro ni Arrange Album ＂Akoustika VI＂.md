@@ -5,13 +5,13 @@ aliases:
 Cover: "[[Rapa - en-counse 〜guitar vocal ver.〜 - Umineko no Naku Koro ni Arrange Album ＂Akoustika VI＂.jpg]]"
 Year: 0
 Album: ""
+CoverOf: ""
 Creators: []
+ListenInSec: 0
 NumberInAlbum: 0
+related: []
 source: ""
 SourceFile: "[[Rapa - le4-octobre 〜piano inst ver.〜 - Umineko no Naku Koro ni Arrange Album ＂Akoustika VI＂.mp3]]"
-related: []
-ListenInSec: 0
-CoverOf: ""
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

@@ -1,17 +1,17 @@
 ---
 created: 2026-06-11T22:27:11+03:00
 aliases:
-  - bah1mas - Робертино Лоретти - Ямайка
+  - "bah1mas - Робертино Лоретти - Ямайка"
 Cover: "[[Робертино Лоретти - Ямайка.jpg]]"
 Year: 0
 Album: ""
+CoverOf: ""
 Creators: []
+ListenInSec: 0
 NumberInAlbum: 0
+related: []
 source: ""
 SourceFile: "[[bah1mas - Робертино Лоретти - Ямайка.mp3]]"
-related: []
-ListenInSec: 0
-CoverOf: ""
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

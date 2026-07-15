@@ -3,7 +3,7 @@ created: 2025-05-04T02:55:16+03:00
 aliases:
   - "Saxy (Trivia Murder Party 2)"
   - "Saxy (Смертельная вечеринка 2)"
-Cover: "[[Trivia Murder Party 2 OST - 06 Saxy.jpg]]"
+Cover: "[[Trivia Murder Party 2 OST.jpg]]"
 Year: 2019
 Album: "[[The Jackbox Party Pack 6 (Original Soundtrack)]]"
 CoverOf: ""

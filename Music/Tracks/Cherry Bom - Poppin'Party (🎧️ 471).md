@@ -2,7 +2,7 @@
 created: 2022-10-05T13:48:38+03:00
 aliases:
   - "Cherry Bom"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Poppin'Party - Cherry Bomb.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

@@ -2,7 +2,7 @@
 created: 2022-10-05T13:02:40+03:00
 aliases:
   - "Call me it. (500 Tortures)"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[t+pazolite - Call me it. (500 Tortures).jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

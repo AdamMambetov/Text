@@ -2,7 +2,7 @@
 created: 2024-10-08T15:46:04+03:00
 aliases:
   - "All Eyes on You"
-Cover: "[[Smash Into Pieces - All Eyes On You.jpg]]"
+Cover: "[[Smash Into Pieces - Arcadia.jpg]]"
 Year: 2020
 Album: "[[Arcadia]]"
 CoverOf: ""

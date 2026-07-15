@@ -2,7 +2,7 @@
 created: 2025-11-14T03:26:48+03:00
 aliases:
   - "Twilight"
-Cover: "[[shiki_ost_cover.jpg]]"
+Cover: "[[Shiki OST.jpg]]"
 Year: 2011
 Album: "[[Shiki OST (📀 1)]]"
 CoverOf: ""

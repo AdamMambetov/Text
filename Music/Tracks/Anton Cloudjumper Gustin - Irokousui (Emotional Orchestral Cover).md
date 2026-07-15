@@ -1,7 +1,7 @@
 ---
 created: 2025-06-03T00:22:44+03:00
 aliases:
-  - Anton Cloudjumper Gustin - Irokousui (Emotional Orchestral Cover)
+  - "Anton Cloudjumper Gustin - Irokousui (Emotional Orchestral Cover)"
 Cover: "[[Cloudjumper - Irokousui (Emotional Orchestral Cover).jpg]]"
 Year: 0
 Album: ""

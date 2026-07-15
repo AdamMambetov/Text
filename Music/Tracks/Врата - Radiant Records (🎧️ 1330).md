@@ -3,7 +3,7 @@ created: 2024-10-23T15:39:16+03:00
 aliases:
   - "Врата"
   - "Hacking to the Gate"
-Cover: "[[Radiant Records - Плач цикад.jpg]]"
+Cover: "[[Radiant Records - Септима.jpg]]"
 Year: 0
 Album: ""
 CoverOf: "[[Hacking To The Gate - Itou Kanako (🎧️ 1452)]]"

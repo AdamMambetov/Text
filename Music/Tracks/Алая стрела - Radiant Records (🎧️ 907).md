@@ -5,7 +5,7 @@ aliases:
   - "Guren no Yumiya"
   - "Attack on Titan OP 1"
   - "Атака титанов OP 1"
-Cover: "[[Radiant Records - Алая стрела.jpg]]"
+Cover: "[[Radiant Records - Солнце.jpg]]"
 Year: 0
 Album: ""
 CoverOf: "[[Guren no Yumiya - Linked Horizon]]"

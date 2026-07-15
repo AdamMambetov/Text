@@ -2,7 +2,7 @@
 created: 2023-09-29T16:24:31+03:00
 aliases:
   - "The Avengers"
-Cover: "[[The Avengers.jpg]]"
+Cover: "[[The Avengers OST.jpg]]"
 Year: 2012
 Album: ""
 CoverOf: ""

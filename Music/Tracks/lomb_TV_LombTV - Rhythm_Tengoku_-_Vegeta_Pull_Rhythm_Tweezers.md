@@ -1,7 +1,7 @@
 ---
 created: 2025-10-28T22:03:00+03:00
 aliases:
-  - lomb_TV_LombTV - Rhythm_Tengoku_-_Vegeta_Pull_Rhythm_Tweezers
+  - "lomb_TV_LombTV - Rhythm_Tengoku_-_Vegeta_Pull_Rhythm_Tweezers"
 Cover: "[[Rhythm Tengoku - Vegeta Pull.jpg]]"
 Year: 0
 Album: ""

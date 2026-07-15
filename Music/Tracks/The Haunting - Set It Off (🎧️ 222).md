@@ -2,7 +2,7 @@
 created: 2022-04-22T21:33:16+03:00
 aliases:
   - "The Haunting"
-Cover: "[[Set It Off - Duality.png]]"
+Cover: "[[Set It Off - Duality.jpg]]"
 Year: 2015
 Album: ""
 CoverOf: ""

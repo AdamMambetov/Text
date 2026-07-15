@@ -3,7 +3,7 @@ created: 2025-06-30T18:54:26+03:00
 aliases:
   - "Гнев"
   - "Rage on"
-Cover: "[[Radiant Records - Ты принёс мечту.jpg]]"
+Cover: "[[Radiant Records - ПЕРЕПУТЬЕ.jpg]]"
 Year: 0
 Album: ""
 CoverOf: "[[Rage on - OLDCODEX]]"

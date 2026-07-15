@@ -3,7 +3,7 @@ created: 2022-04-21T04:23:04+03:00
 aliases:
   - "Никогда Не Поздно"
   - "Never Too Late"
-Cover: "[[RADIO TAPOK - Everywhere I Go.jpg]]"
+Cover: "[[RADIO TAPOK - RADIO TAPOK.jpg]]"
 Year: 2020
 Album: ""
 CoverOf: "[[Never Too Late - Three Days Grace (🎧️ 256)]]"

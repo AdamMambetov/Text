@@ -6,7 +6,7 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
-CoverOf: ""
+CoverOf: "[[Если в сердце живёт любовь - Юлия Савичева (🎧️ 2079)]]"
 Creators:
   - "[[Rikani (🎙️ 801)]]"
   - "[[Sati Akura (🎙️ 357)]]"

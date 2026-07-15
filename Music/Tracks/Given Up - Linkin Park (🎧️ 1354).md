@@ -1,7 +1,7 @@
 ---
 created: 2024-10-30T19:29:12+03:00
 aliases:
-  - Given Up
+  - "Given Up"
 Cover: "[[Linkin Park - Minutes to Midnight.jpg]]"
 Year: 2007
 Album: "[[Minutes to Midnight]]"

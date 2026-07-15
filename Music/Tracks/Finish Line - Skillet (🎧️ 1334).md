@@ -2,7 +2,7 @@
 created: 2024-10-30T19:12:28+03:00
 aliases:
   - "Finish Line"
-Cover: "[[Skillet - Finish Line.jpg]]"
+Cover: "[[Skillet - Victorious.jpg]]"
 Year: 2019
 Album: "[[Victorious]]"
 CoverOf: ""

@@ -2,7 +2,7 @@
 created: 2024-10-30T19:31:24+03:00
 aliases:
   - "Good F**King Music"
-Cover: "[[Solence - Good F__King Music.jpg]]"
+Cover: "[[Solence - Deafening.jpg]]"
 Year: 2021
 Album: "[[Deafening]]"
 CoverOf: ""

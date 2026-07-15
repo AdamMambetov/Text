@@ -2,7 +2,7 @@
 created: 2025-11-19T02:32:58+03:00
 aliases:
   - "Release - Rye_Batenkaitos"
-Cover: "[[Release - Rye_Batenkaitos.jpg]]"
+Cover: "[[ReZero 3 OST.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

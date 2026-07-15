@@ -5,13 +5,13 @@ aliases:
 Cover: "[[Кот Мурлыка - Лунная соната Бетховена, I Adagio sostenuto.jpg]]"
 Year: 0
 Album: ""
+CoverOf: ""
 Creators: []
+ListenInSec: 0
 NumberInAlbum: 0
+related: []
 source: ""
 SourceFile: "[[Кот Мурлыка - Лунная соната Бетховена, I Adagio sostenuto.mp3]]"
-related: []
-ListenInSec: 0
-CoverOf: ""
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

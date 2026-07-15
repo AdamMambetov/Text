@@ -5,7 +5,7 @@ aliases:
   - "Pre-Parade"
   - "Toradora OP 1"
   - "Торадора OP 1"
-Cover: "[[Radiant Records - Магия_1.jpg]]"
+Cover: "[[Radiant Records - Магия.jpg]]"
 Year: 0
 Album: "[[Магия (📀 35)]]"
 CoverOf: "[[Pre-Parade - Kugimiya Rie (🎧️ 1722)]]"

@@ -5,13 +5,13 @@ aliases:
 Cover: "[[SOLIDEMO with Sakuramen - My Song My Days.jpg]]"
 Year: 0
 Album: ""
+CoverOf: ""
 Creators: []
+ListenInSec: 0
 NumberInAlbum: 0
+related: []
 source: ""
 SourceFile: "[[SOLIDEMO with Sakuramen - My Song My Days.mp3]]"
-related: []
-ListenInSec: 0
-CoverOf: ""
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

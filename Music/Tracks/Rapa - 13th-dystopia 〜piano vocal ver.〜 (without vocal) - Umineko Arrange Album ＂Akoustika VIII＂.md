@@ -5,13 +5,13 @@ aliases:
 Cover: "[[Rapa - Lanede Bell 〜guitar vocal ver.〜 [without vocal] - Umineko Arrange Album ＂Akoustika VIII＂.jpg]]"
 Year: 0
 Album: ""
+CoverOf: ""
 Creators: []
+ListenInSec: 0
 NumberInAlbum: 0
+related: []
 source: ""
 SourceFile: "[[Rapa - 13th-dystopia 〜piano vocal ver.〜 [without vocal] - Umineko Arrange Album ＂Akoustika VIII＂.mp3]]"
-related: []
-ListenInSec: 0
-CoverOf: ""
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

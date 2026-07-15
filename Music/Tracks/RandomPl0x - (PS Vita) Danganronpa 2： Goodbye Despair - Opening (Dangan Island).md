@@ -5,13 +5,13 @@ aliases:
 Cover: "[[RandomPl0x - [PS Vita] Danganronpa 2： Goodbye Despair - Opening (Dangan Island).jpg]]"
 Year: 0
 Album: ""
+CoverOf: ""
 Creators: []
+ListenInSec: 0
 NumberInAlbum: 0
+related: []
 source: ""
 SourceFile: "[[RandomPl0x - [PS Vita] Danganronpa 2： Goodbye Despair - Opening (Dangan Island).mp3]]"
-related: []
-ListenInSec: 0
-CoverOf: ""
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

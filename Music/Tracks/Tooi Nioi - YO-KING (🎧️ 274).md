@@ -2,6 +2,8 @@
 created: 2022-04-22T21:52:48+03:00
 aliases:
   - "Tooi Nioi"
+  - "Gintama OP 2"
+  - "Гинтама OP 2"
 Cover: "[[YO-KING - Tooi Nioi.jpg]]"
 Year: 2013
 Album: "[[Tooi Nioi [2013] {YO-KING}]]"

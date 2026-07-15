@@ -2,7 +2,7 @@
 created: 2025-11-19T02:40:30+03:00
 aliases:
   - "Release - Rage"
-Cover: "[[Release - Rye_Batenkaitos.jpg]]"
+Cover: "[[ReZero 3 OST.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

@@ -4,7 +4,7 @@ aliases:
   - "Sakura Mitsutsuki"
   - "Gintama 13 OP"
   - "Гинтама OP 13"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[SPYAIR - Sakura Mitsuki.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""
@@ -13,7 +13,7 @@ Creators:
 ListenInSec: 1967
 NumberInAlbum: 0
 related:
-  - "[[Sakura Mitsutsuki (TV Size) - SPYAIR]]"
+  - "[[Sakura Mitsutsuki (TV Size) - SPYAIR (🎧️ 2163)]]"
 source: ""
 SourceFile: "[[SPYAIR - Sakura Mitsutsuki.mp3]]"
 ---

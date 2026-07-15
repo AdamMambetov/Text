@@ -1,7 +1,7 @@
 ---
 created: 2022-04-28T17:50:38+03:00
 aliases:
-  - It's the Training!
+  - "It's the Training!"
 Cover: "[[Naruto OST 2.jpg]]"
 Year: 2004
 Album: "[[Naruto OST 2 (📀 16)]]"

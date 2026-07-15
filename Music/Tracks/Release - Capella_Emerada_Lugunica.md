@@ -2,7 +2,7 @@
 created: 2025-11-19T02:33:38+03:00
 aliases:
   - "Release - Capella_Emerada_Lugunica"
-Cover: "[[Release - Rye_Batenkaitos.jpg]]"
+Cover: "[[ReZero 3 OST.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

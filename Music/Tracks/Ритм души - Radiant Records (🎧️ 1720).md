@@ -6,7 +6,7 @@ aliases:
   - "Your Beats!"
   - "Angel Beats OP 1"
   - "Ангельские ритмы OP 1"
-Cover: "[[Radiant Records - Ритм души.jpg]]"
+Cover: "[[Radiant Records - Летний сон.jpg]]"
 Year: 0
 Album: ""
 CoverOf: "[[My Soul, Your Beats! - Lia (🎧️ 1754)]]"

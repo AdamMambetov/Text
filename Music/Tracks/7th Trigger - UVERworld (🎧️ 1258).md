@@ -2,7 +2,7 @@
 created: 2024-10-23T13:26:28+03:00
 aliases:
   - "7th Trigger"
-Cover: "[[UVERworld - 7th Trigger.jpg]]"
+Cover: "[[UVERworld - All Time Best.jpg]]"
 Year: 2007
 Album: "[[All Time Best]]"
 CoverOf: ""

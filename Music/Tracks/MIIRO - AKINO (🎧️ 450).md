@@ -8,10 +8,10 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[AKINO (🎙️ 160)]]"
-  - "[[bless4 (🎙️ 161)]]"
 ListenInSec: 255
 NumberInAlbum: 0
-related: []
+related:
+  - "[[MIIRO (TV Size) - AKINO (🎧️ 1428)]]"
 source: ""
 SourceFile: "[[AKINO from bless4 - MIIRO.mp3]]"
 ---

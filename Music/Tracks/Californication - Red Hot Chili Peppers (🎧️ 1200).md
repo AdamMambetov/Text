@@ -2,7 +2,7 @@
 created: 2024-10-13T22:40:18+03:00
 aliases:
   - "Californication"
-Cover: "[[Red Hot Chili Peppers - Californication.jpg]]"
+Cover: "[[_No Album Art.jpg]]"
 Year: 1999
 Album: "[[Californication]]"
 CoverOf: ""

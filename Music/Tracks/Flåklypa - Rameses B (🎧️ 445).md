@@ -3,7 +3,7 @@ created: 2022-10-05T13:24:34+03:00
 aliases:
   - "Flåklypa"
   - "Flaklypa"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Rameses B - Flaklypa.jpg]]"
 Year: 2013
 Album: ""
 CoverOf: ""

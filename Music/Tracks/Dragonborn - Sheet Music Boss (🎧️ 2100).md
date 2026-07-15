@@ -1,0 +1,25 @@
+---
+created: 2026-06-11T22:56:42+03:00
+aliases:
+  - "Dragonborn"
+Cover: "[[Sheet Music Boss - DRAGONBORN.jpg]]"
+Year: 0
+Album: ""
+CoverOf: "[[Dragonborn Song (🎧️ 1392)]]"
+Creators:
+  - "[[Sheet Music Boss (🎙️ 648)]]"
+ListenInSec: 0
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[Sheet Music Boss - DRAGONBORN - SKYRIM THEME - Piano Tutorial.mp3]]"
+---
+
+`$=dv.header(1, dv.current().aliases[0])`
+
+![[Sheet Music Boss - DRAGONBORN - SKYRIM THEME - Piano Tutorial.mp3]]
+
+## Related Tracks
+
+![[related tracks.base]]
+

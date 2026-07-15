@@ -2,7 +2,7 @@
 created: 2024-10-10T22:29:30+03:00
 aliases:
   - "Astral Dogma"
-Cover: "[[Yousei Teikoku - Astral Dogma_1.jpg]]"
+Cover: "[[Yousei Teikoku - Pax Vesania.jpg]]"
 Year: 2013
 Album: "[[Pax Vesania]]"
 CoverOf: ""

@@ -1,7 +1,7 @@
 ---
 created: 2024-10-10T22:24:30+03:00
 aliases:
-  - Another Way Out
+  - "Another Way Out"
 Cover: "[[Hollywood Undead - Notes From The Underground - Unabridged.jpg]]"
 Year: 2013
 Album: "[[Notes from the Underground: Unabridged]]"

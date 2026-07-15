@@ -4,67 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "56d9c399d5d6b9ac",
+        "id": "fa7e5f3532645328",
         "type": "tabs",
         "children": [
           {
-            "id": "9483095c63e24292",
+            "id": "7b19afebd9c8c3a2",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Music/Covers/nekodex - circles!.jpg"
+                "file": "Note/home/homepage.md",
+                "mode": "preview",
+                "source": true
               },
-              "icon": "lucide-image",
-              "title": "nekodex - circles!"
-            }
-          },
-          {
-            "id": "5d3f6b8ccc674931",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Music/Covers/Natsuki_Subaru - Re_-Zero_2nd_Season_OST_-_Disc_1_-_01._Signs_of_an_Oath_-2nd_Main_Theme-.jpg"
-              },
-              "icon": "lucide-image",
-              "title": "Natsuki_Subaru - Re_-Zero_2nd_Season_OST_-_Disc_1_-_01._Signs_of_an_Oath_-2nd_Main_Theme-"
-            }
-          },
-          {
-            "id": "c2885906923a56ed",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Music/Covers/Natsuki_Subaru - Re_-Zero_2nd_Season_OST_-_Disc_1_-_05._New_Maid.jpg"
-              },
-              "icon": "lucide-image",
-              "title": "Natsuki_Subaru - Re_-Zero_2nd_Season_OST_-_Disc_1_-_05._New_Maid"
-            }
-          },
-          {
-            "id": "ac2f8ffa7c2d7cde",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Music/Covers/Natsuki_Subaru - Re_-Zero_2nd_Season_OST_-_Disc_1_-_16._Take_Care.jpg"
-              },
-              "icon": "lucide-image",
-              "title": "Natsuki_Subaru - Re_-Zero_2nd_Season_OST_-_Disc_1_-_16._Take_Care"
-            }
-          },
-          {
-            "id": "e3e00270f9cd5f48",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Music/Covers/Natsuki_Subaru - Re_-Zero_2nd_Season_OST_-_Disc_2_-_05._Rural_Flute.jpg"
-              },
-              "icon": "lucide-image",
-              "title": "Natsuki_Subaru - Re_-Zero_2nd_Season_OST_-_Disc_2_-_05._Rural_Flute"
+              "icon": "lucide-file",
+              "title": "homepage"
             }
           }
         ]
@@ -135,7 +89,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Music/Tracks/99 - HaruWei (🎧️ 873).md",
+                "file": "Note/home/homepage.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -163,7 +117,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 99 - HaruWei (🎧️ 873)"
+              "title": "Graph of homepage"
             }
           }
         ]
@@ -205,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Music/Covers/nekodex - circles!.jpg",
+                "file": "Note/home/homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +169,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for nekodex - circles!"
+              "title": "Backlinks for homepage"
             }
           },
           {
@@ -224,12 +178,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Music/Tracks/99 - HaruWei (🎧️ 873).md",
+                "file": "Music/Tracks/Rapa - miragecoordinator  - Music collection from ＂Umineko When They Cry＂ for Clarinet Quintet and piano.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 99 - HaruWei (🎧️ 873)"
+              "title": "Outgoing links from Rapa - miragecoordinator  - Music collection from ＂Umineko When They Cry＂ for Clarinet Quintet and piano"
             }
           },
           {
@@ -238,13 +192,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Music/Tracks/99 - HaruWei (🎧️ 873).md",
+                "file": "Music/Tracks/Rapa - peace-eases - Umineko no Naku Koro ni Arrange Album ＂Akoustika Ⅱ＂.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 99 - HaruWei (🎧️ 873)"
+              "title": "Outline of Rapa - peace-eases - Umineko no Naku Koro ni Arrange Album ＂Akoustika Ⅱ＂"
             }
           },
           {
@@ -253,11 +207,22 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "advanced-tables-toolbar"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "9b36385a2325dfca",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "3185b9fecf878a15",
@@ -329,50 +294,52 @@
       "modalforms:Edit forms": false,
       "omnisearch:Omnisearch": false,
       "3d-graph-new:Global 3D Graph": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9483095c63e24292",
+  "active": "7b19afebd9c8c3a2",
   "lastOpenFiles": [
-    "Music/Covers/NayutalieN - Alien Alien (Nhato Remix)_1.jpg",
-    "Music/Covers/NayutalieN - Alien Alien (Nhato Remix).jpg",
-    "Music/Covers/Natsuki_Subaru - Re_-Zero_2nd_Season_OST_-_Disc_1_-_01._Signs_of_an_Oath_-2nd_Main_Theme-.jpg",
-    "Music/Tracks/Alien Alien (Nhato Remix) - Nayutan Seijin (🎧️ 1170).md",
-    "Music/Covers/Nayugorou - White Promise.jpg",
-    "Music/Tracks/White Promise - Nayugorou (🎧️ 460).md",
-    "Music/Covers/natsuki1023 - 志方あきこ　「片翼の鳥」　歌詞付.jpg",
-    "Music/Covers/Natsuki_Subaru - Re_-Zero_2nd_Season_OST_-_Disc_2_-_05._Rural_Flute.jpg",
-    "Music/Covers/Natsuki_Subaru - Re_-Zero_2nd_Season_OST_-_Disc_1_-_16._Take_Care.jpg",
-    "Music/Covers/Natsuki_Subaru - Re_-Zero_2nd_Season_OST_-_Disc_1_-_05._New_Maid.jpg",
-    "Music/Tracks/Если в сердце живет любовь - Rikani (🎧️ 2080).md",
-    "Music/Tracks/natsuki1023 - 志方あきこ　「片翼の鳥」　歌詞付.md",
-    "Music/Covers/Native Construct - Quiet World.jpg",
-    "Music/Covers/Native Construct - Come Hell or High Water.jpg",
-    "Music/Creators/Rikani (🎙️ 801).md",
-    "Music/Tracks/One Room Sugar Life - Nanawo Akari (🎧️ 494).md",
-    "Music/Tracks/One Room Sugar Life - Nanawo Akari (🎧️ 496).md",
-    "Music/Tracks/Nirvana (TV Size) - MUCC (🎧️ 1684).md",
-    "Music/Tracks/I'll Make A Man Out Of You (Russian version) (🎧️ 1452).md",
-    "Music/Tracks/I'll Make A Man Out Of You - Disney (🎧️ 667).md",
-    "Music/Tracks/Welcome To The Club - MT NightCore (🎧️ 464).md",
-    "Music/Tracks/You're Welcome - Disney (🎧️ 668).md",
-    "Music/Tracks/Koko kara, Koko kara (TV Size) - Kana Hanazawa (🎧️ 463).md",
-    "Music/Creators/Hayami Saori (🎙️ 800).md",
-    "Music/Tracks/Monster (DotEXE Dubstep Remix) - Meg & Dia (🎧️ 462).md",
-    "Music/Tracks/Ruler (TV Size) - Mayu Maeshima (🎧️ 1781).md",
-    "Music/Tracks/Masami Mitsuoka - last cross.md",
-    "Music/Creators/Masami Mitsuoka (🎙️ 799).md",
-    "Music/Tracks/LISTEN TO THE STEREO!! - GOING UNDER GROUND (🎧️ 2051).md",
-    "Music/Tracks/Thrift Shop - Macklemore (🎧️ 159).md",
-    "Music/Tracks/Bills - LunchMoney Lewis (🎧️ 1201).md",
-    "Music/Tracks/Lucas Pope - Papers, Please： Theme Song.md",
-    "Music/Tracks/lomb_TV_LombTV - Rhythm_Tengoku_-_The_Bon_Odori.md",
-    "Music/Tracks/Linked Horizon - Jiyuu no Tsubasa (TV Size).md",
-    "Music/Tracks/Get Low - Lil Jon & The East Side Boyz & Ying Yang Twins (🎧️ 1372).md",
-    "Music/Tracks/Way Up - Jaden Smith.txt",
+    "Music/Playlists/100% Шедевр (💿 6).md",
+    "Music/Creators/-45 (🎙️ 6).md",
+    "Music/Albums/8 Mile OST (📀 2).md",
+    "Music/Tracks/Карты, деньги, два хвоста - Rotten Toten (🎧️ 617).md",
+    "Music/Tracks/Inferno - Onsa Media (🎧️ 1).md",
+    "Note/templates/_track update all capture.md",
+    "Music/Tracks/Astral Dogma - Yousei Teikoku (🎧️ 1167).md",
+    "Music/Tracks/أغانى الزمن الجم - Hassan El Asmar   La Ya Alby   حسن الأسمر   لا يا قلبي.md",
+    "Music/Tracks/New Type of Hero (Long ver.) - Griff Clawson (🎧️ 2134).md",
+    "Music/Creators/Griff Clawson (🎙️ 815).md",
+    "Music/Covers/To Be Hero X OST - New Type of Hero.jpg",
+    "Music/Tracks/KONTINUUM (TV Size) - SennaRin (🎧️ 2139).md",
+    "Music/Covers/To Be Hero X OST - KONTINUUM (TV Size).jpg",
+    "Music/Creators/SennaRin (🎙️ 814).md",
+    "Music/Tracks/Zettai Zetsumei (TV Size) - Cö Shu Nie (🎧️ 2143).md",
+    "Music/Covers/Cö Shu Nie - Zettai Zetsumei.jpg",
+    "Music/Tracks/Aporia (TV Size) - Yorushika (🎧️ 2113).md",
+    "Music/Covers/Yorushika - Aporia (TV Size).jpg",
+    "Music/Creators/Yorushika (🎙️ 813).md",
+    "Music/Tracks/Kaijuu (TV Size) - Sakanaction (🎧️ 2125).md",
+    "Music/Covers/Sakanaction - Kaijuu (TV Size).jpg",
+    "Music/Creators/Sakanaction (🎙️ 812).md",
+    "Music/Covers/Louis Armstrong - The Very Best Of Louis Armstrong.jpg",
+    "Music/Tracks/INTERTIA (TV Size) - Hiroyuki Sawano (🎧️ 2141).md",
+    "Music/Creators/Long Shot Party (🎙️ 366).md",
+    "Music/Covers/Long Shot Party - distance.jpg",
+    "Music/Tracks/distance - Long Shot Party (🎧️ 753).md",
+    "Music/Tracks/NIGHT SKOOP - Long Shot Party (🎧️ 1050).md",
+    "Music/Tracks/Grand Blue - Shonan no Kaze (🎧️ 2152).md",
+    "Music/Covers/Shonan no Kaze - Grand Blue.jpg",
+    "Music/Creators/Shonan no Kaze (🎙️ 811).md",
+    "Note/templates/lint all tracks capture.md",
+    "Music/Tracks/INTERTIA - Hiroyuki Sawano (🎧️ 2138).md",
+    "Music/Covers/To Be Hero X OST - INTERTIA (TV Size).jpg",
+    "Music/Covers/To Be Hero X OST - INTERTIA.jpg",
+    "Art/content/Interstellar (🇺🇸🎞 207).md",
     "Text/Note/files",
     "Text/Note",
     "Text",
+    "Music/Tracks/Way Up - Jaden Smith.txt",
     "Video/18+/Hentai/2101_video_voice_HentaiZ_720.mp4.mp4",
     "Audio/Music/Your Turn To Die OST - 08 Even in Tragedy [EXTENDED].mp3",
     "Audio/Music/Your Turn To Die OST - 09 Kind Moment [EXTENDED].mp3",

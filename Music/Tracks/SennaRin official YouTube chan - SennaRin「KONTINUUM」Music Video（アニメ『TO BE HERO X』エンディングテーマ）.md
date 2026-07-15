@@ -5,13 +5,13 @@ aliases:
 Cover: "[[SennaRin official YouTube chan - SennaRin「KONTINUUM」Music Video（アニメ『TO BE HERO X』エンディングテーマ）.jpg]]"
 Year: 0
 Album: ""
+CoverOf: ""
 Creators: []
+ListenInSec: 0
 NumberInAlbum: 0
+related: []
 source: ""
 SourceFile: "[[SennaRin official YouTube chan - SennaRin「KONTINUUM」Music Video（アニメ『TO BE HERO X』エンディングテーマ）.mp3]]"
-related: []
-ListenInSec: 0
-CoverOf: ""
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

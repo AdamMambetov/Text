@@ -2,7 +2,7 @@
 created: 2024-10-23T15:02:34+03:00
 aliases:
   - "Everybody Loves Me"
-Cover: "[[OneRepublic - Everybody Loves Me.jpg]]"
+Cover: "[[OneRepublic - Waking Up.jpg]]"
 Year: 2009
 Album: "[[Waking Up]]"
 CoverOf: ""

@@ -2,7 +2,7 @@
 created: 2024-10-13T22:50:12+03:00
 aliases:
   - "Circus for a Psycho"
-Cover: "[[Skillet - Circus for a Psycho.jpg]]"
+Cover: "[[Skillet - Rise.jpg]]"
 Year: 2013
 Album: "[[Rise]]"
 CoverOf: ""

@@ -6,7 +6,7 @@ aliases:
 Cover: "[[Jackie-O - HIGHEST.jpg]]"
 Year: 2023
 Album: ""
-CoverOf: "[[HIGHEST - OxT (🎧️ 590)]]"
+CoverOf: "[[HIGHEST - OxT (🎧️ 588)]]"
 Creators:
   - "[[Jackie-O (🎙️ 339)]]"
 ListenInSec: 423

@@ -2,7 +2,7 @@
 created: 2024-10-23T15:03:06+03:00
 aliases:
   - "Everybody Talks"
-Cover: "[[Neon Trees - Everybody Talks.jpg]]"
+Cover: "[[Neon Trees - Picture Show.jpg]]"
 Year: 2012
 Album: "[[Picture Show]]"
 CoverOf: ""

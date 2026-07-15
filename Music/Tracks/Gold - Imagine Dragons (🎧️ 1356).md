@@ -1,7 +1,7 @@
 ---
 created: 2024-10-30T19:30:48+03:00
 aliases:
-  - Gold
+  - "Gold"
 Cover: "[[Imagine Dragons - Smoke + Mirrors.jpg]]"
 Year: 2014
 Album: "[[Smoke + Mirrors]]"

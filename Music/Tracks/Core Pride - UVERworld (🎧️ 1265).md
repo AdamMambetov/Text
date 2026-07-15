@@ -5,7 +5,7 @@ aliases:
   - "Ao no Exorcist OP 1"
   - "Blue Exorcist OP 1"
   - "Синий экзорцист OP 1"
-Cover: "[[UVERworld - Colors of the Heart.jpg]]"
+Cover: "[[UVERworld - All Time Best.jpg]]"
 Year: 2011
 Album: ""
 CoverOf: ""

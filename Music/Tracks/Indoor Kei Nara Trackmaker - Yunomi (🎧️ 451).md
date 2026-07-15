@@ -2,7 +2,7 @@
 created: 2022-10-05T13:29:42+03:00
 aliases:
   - "Indoor Kei Nara Trackmaker"
-Cover: "[[Yunomi & nicamoq - Indoor Kei Nara Trackmaker (curryrice Remix)_1.jpg]]"
+Cover: "[[Yunomi & nicamoq - Indoor Kei Nara Trackmaker.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

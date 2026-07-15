@@ -3,7 +3,7 @@ created: 2022-04-26T01:35:12+03:00
 aliases:
   - "Monster"
   - "Монстр"
-Cover: "[[Skillet - Rise_1.jpg]]"
+Cover: "[[Skillet - Vital Signs.jpg]]"
 Year: 2009
 Album: ""
 CoverOf: ""

@@ -2,7 +2,7 @@
 created: 2025-06-12T03:47:55+03:00
 aliases:
   - "TimeShift OST - 3 Drop Like Flies"
-Cover: "[[TimeShift OST - 3 Drop Like Flies.jpg]]"
+Cover: "[[TimeShift OST.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

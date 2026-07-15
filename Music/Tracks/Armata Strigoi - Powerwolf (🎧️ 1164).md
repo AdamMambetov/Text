@@ -2,7 +2,7 @@
 created: 2024-10-10T22:25:50+03:00
 aliases:
   - "Armata Strigoi"
-Cover: "[[Powerwolf - Army of the Night.jpg]]"
+Cover: "[[Powerwolf - Blessed & Possessed.jpg]]"
 Year: 2015
 Album: "[[Blessed & Possessed]]"
 CoverOf: ""

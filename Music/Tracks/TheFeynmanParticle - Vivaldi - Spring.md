@@ -5,13 +5,13 @@ aliases:
 Cover: "[[TheFeynmanParticle - Vivaldi - Spring.jpg]]"
 Year: 0
 Album: ""
+CoverOf: ""
 Creators: []
+ListenInSec: 0
 NumberInAlbum: 0
+related: []
 source: ""
 SourceFile: "[[TheFeynmanParticle - Vivaldi - Spring.mp3]]"
-related: []
-ListenInSec: 0
-CoverOf: ""
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

@@ -7,7 +7,7 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 2013
 Album: ""
-CoverOf: ""
+CoverOf: "[[Drawing Days - SPLAY (🎧️ 2049)]]"
 Creators:
   - "[[Jackie-O (🎙️ 339)]]"
 ListenInSec: 278

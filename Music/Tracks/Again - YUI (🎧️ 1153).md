@@ -4,7 +4,7 @@ aliases:
   - "Again"
   - "Fullmetal Alchemist Brotherhood OP 1"
   - "Стальной алхимик Братство OP 1"
-Cover: "[[YUI - Again.jpg]]"
+Cover: "[[Yui - Green Garden Pop.jpg]]"
 Year: 2009
 Album: ""
 CoverOf: ""

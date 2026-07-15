@@ -1,7 +1,7 @@
 ---
 created: 2025-10-28T22:15:00+03:00
 aliases:
-  - lomb_TV_LombTV - Rhythm_Tengoku_-_Cosmo_Dance_Cosmic_Dance
+  - "lomb_TV_LombTV - Rhythm_Tengoku_-_Cosmo_Dance_Cosmic_Dance"
 Cover: "[[Rhythm Tengoku - Cosmo Dance.jpg]]"
 Year: 0
 Album: ""

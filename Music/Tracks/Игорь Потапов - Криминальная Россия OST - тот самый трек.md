@@ -1,17 +1,17 @@
 ---
 created: 2026-06-11T23:11:54+03:00
 aliases:
-  - Игорь Потапов - Криминальная Россия OST - тот самый трек
+  - "Игорь Потапов - Криминальная Россия OST - тот самый трек"
 Cover: "[[Криминальная Россия OST.jpg]]"
 Year: 0
 Album: ""
+CoverOf: ""
 Creators: []
+ListenInSec: 0
 NumberInAlbum: 0
+related: []
 source: ""
 SourceFile: "[[Игорь Потапов - Криминальная Россия OST - тот самый трек.mp3]]"
-related: []
-ListenInSec: 0
-CoverOf: ""
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

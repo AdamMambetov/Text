@@ -5,7 +5,7 @@ aliases:
   - "Kimi Ga Yume Wo Tsuretekita"
   - "Sakurasou no Pet na Kanojo OP 1"
   - "Кошечка из Сакурасо OP 1"
-Cover: "[[Radiant Records - Ты принёс мечту.jpg]]"
+Cover: "[[Radiant Records - ПЕРЕПУТЬЕ.jpg]]"
 Year: 0
 Album: ""
 CoverOf: "[[Kimi Ga Yume Wo Tsuretekita - Kayano Ai]]"

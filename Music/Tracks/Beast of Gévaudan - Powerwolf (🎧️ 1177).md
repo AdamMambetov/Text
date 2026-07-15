@@ -2,7 +2,7 @@
 created: 2024-10-10T22:54:36+03:00
 aliases:
   - "Beast of Gévaudan"
-Cover: "[[Powerwolf - Beast of Gevaudan.jpg]]"
+Cover: "[[Powerwolf - Call of the Wild.jpg]]"
 Year: 2021
 Album: "[[Call of the Wild]]"
 CoverOf: ""

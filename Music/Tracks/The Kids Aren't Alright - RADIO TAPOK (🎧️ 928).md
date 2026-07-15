@@ -2,7 +2,7 @@
 created: 2024-01-04T13:22:58+03:00
 aliases:
   - "The Kids Aren't Alright"
-Cover: "[[RADIO TAPOK - The Kids Aren't Alright.jpg]]"
+Cover: "[[RADIO TAPOK - RADIO TAPOK.jpg]]"
 Year: 2019
 Album: ""
 CoverOf: "[[The Kids Aren't Alright - The Offspring (🎧️ 31)]]"

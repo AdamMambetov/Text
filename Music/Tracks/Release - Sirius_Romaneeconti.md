@@ -2,7 +2,7 @@
 created: 2025-11-19T02:30:56+03:00
 aliases:
   - "Release - Sirius_Romaneeconti"
-Cover: "[[Release - Rye_Batenkaitos.jpg]]"
+Cover: "[[ReZero 3 OST.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

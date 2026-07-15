@@ -2,7 +2,7 @@
 created: 2022-10-05T13:43:34+03:00
 aliases:
   - "Answer is Near"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[ONE OK ROCK - Answer is Near.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

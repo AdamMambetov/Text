@@ -1,7 +1,7 @@
 ---
 created: 2022-04-28T17:39:10+03:00
 aliases:
-  - Sadness and Sorrow
+  - "Sadness and Sorrow"
 Cover: "[[Naruto OST 1.jpg]]"
 Year: 2003
 Album: "[[Naruto OST 1 (📀 15)]]"

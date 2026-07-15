@@ -2,7 +2,7 @@
 aliases:
   - "Shiki OST"
   - "SHI KI OST"
-Cover: "[[shiki_ost_cover.jpg]]"
+Cover: "[[Shiki OST.jpg]]"
 Creators:
   - "[[Yasuharu Takanashi (🎙️ 751)]]"
 source: https://vgmdb.net/album/25115
@@ -38,7 +38,7 @@ tracklist:
 
 # Shiki OST
 
-![[shiki_ost_cover.jpg]]
+![[Shiki OST.jpg]]
 
 ## Tracklist
 

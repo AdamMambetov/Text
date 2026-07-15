@@ -2,7 +2,7 @@
 created: 2022-04-22T21:22:34+03:00
 aliases:
   - "Sanctified with Dynamite"
-Cover: "[[Powerwolf - We Drink Your Blood.jpg]]"
+Cover: "[[Powerwolf - Blood of the Saints.jpg]]"
 Year: 2011
 Album: ""
 CoverOf: ""

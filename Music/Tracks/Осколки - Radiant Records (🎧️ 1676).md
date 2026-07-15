@@ -3,7 +3,7 @@ created: 2025-06-30T08:08:14+03:00
 aliases:
   - "Осколки"
   - "Omoide Kakera"
-Cover: "[[Radiant Records - Плач цикад.jpg]]"
+Cover: "[[Radiant Records - Септима.jpg]]"
 Year: 0
 Album: "[[Септима (📀 36)]]"
 CoverOf: "[[Omoide Kakera - DevilishP]]"

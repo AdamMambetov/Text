@@ -5,7 +5,7 @@ aliases:
   - "Magia"
   - "Madoka ED 1"
   - "Мадока ED 1"
-Cover: "[[Radiant Records - Магия_1.jpg]]"
+Cover: "[[Radiant Records - Магия.jpg]]"
 Year: 0
 Album: ""
 CoverOf: "[[Magia - Kalafina (🎧️ 1563)]]"

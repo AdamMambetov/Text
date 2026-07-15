@@ -5,13 +5,13 @@ aliases:
 Cover: "[[Rapa - Higurashi Breakout! ~guitar vocal ver.~ - Higurashi no Naku Koro ni Arrange Album ＂Akoustika XI＂.jpg]]"
 Year: 0
 Album: ""
+CoverOf: ""
 Creators: []
+ListenInSec: 0
 NumberInAlbum: 0
+related: []
 source: ""
 SourceFile: "[[Rapa - Higurashi Breakout! ~guitar vocal ver.~ [without vocals] - Higurashi Arrange Album ＂Akoustika XI＂.mp3]]"
-related: []
-ListenInSec: 0
-CoverOf: ""
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

@@ -3,7 +3,7 @@ created: 2025-01-08T00:53:40+03:00
 aliases:
   - "B.Y.O.B."
   - "BYOB"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[System Of A Down - Hypnotize.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

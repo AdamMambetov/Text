@@ -5,13 +5,13 @@ aliases:
 Cover: "[[eichi's borgar - 【Grand Blue】Konpeki no al Fine ｜ Full Ending【ROM】.jpg]]"
 Year: 0
 Album: ""
+CoverOf: ""
 Creators: []
+ListenInSec: 0
 NumberInAlbum: 0
+related: []
 source: ""
 SourceFile: "[[eichi's borgar - 【Grand Blue】Konpeki no al Fine ｜ Full Ending【ROM】.mp3]]"
-related: []
-ListenInSec: 0
-CoverOf: ""
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

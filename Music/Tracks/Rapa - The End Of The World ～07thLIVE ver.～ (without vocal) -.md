@@ -5,13 +5,13 @@ aliases:
 Cover: "[[Rapa - Hadou -Kono Koe- ~guitar vocal ver.~ [without vocal] - Umineko Arrange Album ＂Akoustika IV＂.jpg]]"
 Year: 0
 Album: ""
+CoverOf: ""
 Creators: []
+ListenInSec: 0
 NumberInAlbum: 0
+related: []
 source: ""
 SourceFile: "[[Rapa - The End Of The World ～07thLIVE ver.～ [without vocal] -.mp3]]"
-related: []
-ListenInSec: 0
-CoverOf: ""
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

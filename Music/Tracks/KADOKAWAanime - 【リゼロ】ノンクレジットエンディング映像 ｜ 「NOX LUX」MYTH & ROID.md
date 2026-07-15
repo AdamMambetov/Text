@@ -5,13 +5,13 @@ aliases:
 Cover: "[[KADOKAWAanime - NOX_LUX_MYTH_ROID.jpg]]"
 Year: 0
 Album: ""
+CoverOf: ""
 Creators: []
+ListenInSec: 0
 NumberInAlbum: 0
+related: []
 source: ""
 SourceFile: "[[KADOKAWAanime - 【リゼロ】ノンクレジットエンディング映像 ｜ 「NOX LUX」MYTH & ROID.mp3]]"
-related: []
-ListenInSec: 0
-CoverOf: ""
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

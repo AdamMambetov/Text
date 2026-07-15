@@ -1,17 +1,17 @@
 ---
 created: 2026-06-11T23:45:25+03:00
 aliases:
-  - AVIAND - Colors ｜ Code Geass Honorary Orchestral Version
+  - "AVIAND - Colors ｜ Code Geass Honorary Orchestral Version"
 Cover: "[[AVIAND - Colors.jpg]]"
 Year: 0
 Album: ""
+CoverOf: ""
 Creators: []
+ListenInSec: 0
 NumberInAlbum: 0
+related: []
 source: ""
 SourceFile: "[[AVIAND - Colors ｜ Code Geass Honorary Orchestral Version.mp3]]"
-related: []
-ListenInSec: 0
-CoverOf: ""
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

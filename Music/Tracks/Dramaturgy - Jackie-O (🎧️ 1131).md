@@ -5,7 +5,7 @@ aliases:
 Cover: "[[Jackie-O - Dramaturgy.jpg]]"
 Year: 2022
 Album: ""
-CoverOf: "[[Dramaturgy - Eve (🎧️ 531)]]"
+CoverOf: "[[Dramaturgy - Eve (🎧️ 529)]]"
 Creators:
   - "[[Jackie-O (🎙️ 339)]]"
 ListenInSec: 5

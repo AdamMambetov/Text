@@ -2,16 +2,16 @@
 created: 2026-06-11T23:35:12+03:00
 aliases:
   - "Utsukushī - Gintama OST - Madao"
-Cover: "[[Utsukushī - Gintama OST - Madao.jpg]]"
+Cover: "[[Gintama OST - Madao.jpg]]"
 Year: 0
 Album: ""
+CoverOf: ""
 Creators: []
+ListenInSec: 0
 NumberInAlbum: 0
+related: []
 source: ""
 SourceFile: "[[Utsukushī - Gintama OST - Madao.mp3]]"
-related: []
-ListenInSec: 0
-CoverOf: ""
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

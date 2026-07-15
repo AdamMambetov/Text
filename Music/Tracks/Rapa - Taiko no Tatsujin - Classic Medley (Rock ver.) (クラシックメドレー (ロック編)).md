@@ -5,13 +5,13 @@ aliases:
 Cover: "[[Rapa - Taiko no Tatsujin - Classic Medley (Rock ver.) (クラシックメドレー (ロック編)).jpg]]"
 Year: 0
 Album: ""
+CoverOf: ""
 Creators: []
+ListenInSec: 0
 NumberInAlbum: 0
+related: []
 source: ""
 SourceFile: "[[Rapa - Taiko no Tatsujin - Classic Medley (Rock ver.) (クラシックメドレー (ロック編)).mp3]]"
-related: []
-ListenInSec: 0
-CoverOf: ""
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

@@ -2,7 +2,7 @@
 created: 2025-11-14T03:33:30+03:00
 aliases:
   - "Dead Sea"
-Cover: "[[shiki_ost_cover.jpg]]"
+Cover: "[[Shiki OST.jpg]]"
 Year: 2011
 Album: "[[Shiki OST (📀 1)]]"
 CoverOf: ""

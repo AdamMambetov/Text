@@ -3,7 +3,7 @@ created: 2025-01-08T01:00:28+03:00
 aliases:
   - "Плач цикад"
   - "Higurashi no Naku Koro ni"
-Cover: "[[Radiant Records - Плач цикад.jpg]]"
+Cover: "[[Radiant Records - Септима.jpg]]"
 Year: 0
 Album: ""
 CoverOf: "[[Higurashi no Naku Koro ni - Shimamiya Eiko (🎧️ 1623)]]"

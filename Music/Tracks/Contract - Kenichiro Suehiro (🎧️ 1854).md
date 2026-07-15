@@ -2,7 +2,7 @@
 created: 2025-11-19T02:11:51+03:00
 aliases:
   - "Contract"
-Cover: "[[ReZero 2 OST 2 - 15 Contract.jpg]]"
+Cover: "[[ReZero 2 OST 2.jpg]]"
 Year: 2021
 Album: "[[ReZero 2 OST 2 (📀 42)]]"
 CoverOf: ""

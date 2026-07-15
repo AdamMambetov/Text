@@ -2,7 +2,7 @@
 created: 2022-04-21T01:54:01+03:00
 aliases:
   - "Greetings"
-Cover: "[[VINXIS - Greetings_1.jpg]]"
+Cover: "[[VINXIS - Greetings.jpg]]"
 Year: 0
 Album: "[[Greetings]]"
 CoverOf: ""

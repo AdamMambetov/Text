@@ -2,7 +2,7 @@
 created: 2022-10-05T13:02:22+03:00
 aliases:
   - "Byoumei wa Ai Datta"
-Cover: "[[Neru - Byoumei wa Ai Datta_1.jpg]]"
+Cover: "[[Neru - Byoumei wa Ai Datta.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

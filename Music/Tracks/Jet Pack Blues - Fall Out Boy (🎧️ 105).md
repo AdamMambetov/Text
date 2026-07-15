@@ -1,7 +1,7 @@
 ---
 created: 2022-04-22T20:42:58+03:00
 aliases:
-  - Jet Pack Blues
+  - "Jet Pack Blues"
 Cover: "[[Fall Out Boy - American Beauty - American Psycho.jpg]]"
 Year: 2015
 Album: ""

@@ -1,7 +1,7 @@
 ---
 created: 2022-04-28T15:03:16+03:00
 aliases:
-  - Home
+  - "Home"
 Cover: "[[Spider-Man Into the Spider-Verse OST.jpg]]"
 Year: 2018
 Album: "[[Spider-Man Into the Spider-Verse OST (📀 24)]]"

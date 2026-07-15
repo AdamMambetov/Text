@@ -5,7 +5,7 @@ aliases:
   - "EASY GO"
   - "Katekyou Hitman Reborn OP 6"
   - "Репетитор-киллер Реборн OP 6"
-Cover: "[[Radiant Records - Ты принёс мечту.jpg]]"
+Cover: "[[Radiant Records - ПЕРЕПУТЬЕ.jpg]]"
 Year: 0
 Album: "[[ПЕРЕПУТЬЕ (📀 33)]]"
 CoverOf: "[[EASY GO - Kazuki Kato (🎧️ 1878)]]"

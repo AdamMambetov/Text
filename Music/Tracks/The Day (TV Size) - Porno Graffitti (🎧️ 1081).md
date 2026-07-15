@@ -4,8 +4,8 @@ aliases:
   - "The Day (TV Size)"
   - "My Hero Academia OP 1"
   - "Моя геройская академия OP 1"
-Cover: "[[_No Album Art.jpg]]"
-Year: 0
+Cover: "[[Porno Graffitti - The Day.jpg]]"
+Year: 2017
 Album: ""
 CoverOf: ""
 Creators:

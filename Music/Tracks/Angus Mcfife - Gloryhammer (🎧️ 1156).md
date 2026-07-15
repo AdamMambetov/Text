@@ -1,7 +1,7 @@
 ---
 created: 2024-10-08T15:53:58+03:00
 aliases:
-  - Angus Mcfife
+  - "Angus Mcfife"
 Cover: "[[Gloryhammer - Tales from the Kingdom of Fife.jpg]]"
 Year: 2013
 Album: "[[Tales from the Kingdom of Fife]]"

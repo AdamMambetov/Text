@@ -2,7 +2,7 @@
 created: 2024-10-13T22:58:56+03:00
 aliases:
   - "Complicate You"
-Cover: "[[Thousand Foot Krutch - Complicate You.jpg]]"
+Cover: "[[Thousand Foot Krutch - Thousand Foot Krutch Collection.jpg]]"
 Year: 2013
 Album: "[[Thousand Foot Krutch Collection]]"
 CoverOf: ""

@@ -1,7 +1,7 @@
 ---
 created: 2023-09-29T16:26:49+03:00
 aliases:
-  - The Girl in Byakkoya - White Tiger Field
+  - "The Girl in Byakkoya - White Tiger Field"
 Cover: "[[Paprika OST.jpg]]"
 Year: 2006
 Album: "[[Paprika OST (📀 21)]]"

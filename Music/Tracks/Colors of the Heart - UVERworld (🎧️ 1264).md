@@ -4,7 +4,7 @@ aliases:
   - "Colors of the Heart"
   - "Blood+ OP 3"
   - "Кровь+ OP 3"
-Cover: "[[UVERworld - Colors of the Heart.jpg]]"
+Cover: "[[UVERworld - All Time Best.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

@@ -10,7 +10,7 @@ arr.forEach(async (p, i) => {
 	let file = tp.file.find_tfile(p.file.path)
 	try {
 		let creator = dv.page(p.Creators[0])
-		let trackName = current.aliases[0]
+		let trackName = p.aliases[0]
 			.replaceAll("?", "")
 			.replaceAll("#", "")
 			.replaceAll(" / ", " - ")
@@ -42,6 +42,7 @@ arr.forEach(async (p, i) => {
 			title,
 		)
 	} catch(e) {
+		new Notice(e, 15000)
 		tp.app.workspace
 			.getLeaf()
 			.openFile(file)

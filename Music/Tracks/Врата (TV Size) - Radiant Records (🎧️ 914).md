@@ -2,7 +2,7 @@
 created: 2023-09-29T16:21:59+03:00
 aliases:
   - "Врата (TV Size)"
-Cover: "[[Radiant Records - Врата (TV Size).jpg]]"
+Cover: "[[Radiant Records - Септима.jpg]]"
 Year: 0
 Album: ""
 CoverOf: "[[Hacking to the Gate (TV Size) - Itou Kanako (🎧️ 973)]]"

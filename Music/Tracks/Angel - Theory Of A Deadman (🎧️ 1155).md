@@ -2,7 +2,7 @@
 created: 2024-10-08T15:53:06+03:00
 aliases:
   - "Angel"
-Cover: "[[Theory Of A Deadman - Angel.jpg]]"
+Cover: "[[Theory Of A Deadman - Savages.jpg]]"
 Year: 2014
 Album: "[[Savages]]"
 CoverOf: ""

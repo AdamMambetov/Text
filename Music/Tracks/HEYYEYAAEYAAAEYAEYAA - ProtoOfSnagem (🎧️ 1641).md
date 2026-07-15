@@ -5,7 +5,7 @@ aliases:
 Cover: "[[He-Man - HEYYEYAAEYAAAEYAEYAA.png]]"
 Year: 2010
 Album: ""
-CoverOf: ""
+CoverOf: "[[What's Up - 4 Non Blondes (🎧️ 2118)]]"
 Creators: []
 ListenInSec: 1045
 NumberInAlbum: 1

@@ -5,13 +5,13 @@ aliases:
 Cover: "[[Rapa - CORE BLUE ~guitar vocal ver.~ - Umineko no Naku Koro ni Arrange Album ＂Akoustika X＂.jpg]]"
 Year: 0
 Album: ""
+CoverOf: ""
 Creators: []
+ListenInSec: 0
 NumberInAlbum: 0
+related: []
 source: ""
 SourceFile: "[[Rapa - Rokkenjima Bojou ~guitar vocal ver.~ [without vocal] - Umineko Arrange Album ＂Akoustika X＂.mp3]]"
-related: []
-ListenInSec: 0
-CoverOf: ""
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

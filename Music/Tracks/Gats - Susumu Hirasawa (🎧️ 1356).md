@@ -1,8 +1,8 @@
 ---
 created: 2024-10-30T19:26:02+03:00
 aliases:
-  - Gats
-  - Guts
+  - "Gats"
+  - "Guts"
 Cover: "[[BERSERK OST.jpg]]"
 Year: 1997
 Album: "[[BERSERK OST (📀 6)]]"

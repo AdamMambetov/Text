@@ -5,13 +5,13 @@ aliases:
 Cover: "[[jennykiba - Wolf's Rain Opening.jpg]]"
 Year: 0
 Album: ""
+CoverOf: ""
 Creators: []
+ListenInSec: 0
 NumberInAlbum: 0
+related: []
 source: ""
 SourceFile: "[[jennykiba - Wolf's Rain Opening.mp3]]"
-related: []
-ListenInSec: 0
-CoverOf: ""
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

@@ -2,7 +2,7 @@
 created: 2024-01-04T12:14:26+03:00
 aliases:
   - "Motherland"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Reach - The Promise of a Life.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

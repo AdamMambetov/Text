@@ -5,9 +5,9 @@ aliases:
   - "Blue Bird (TV Size)"
   - "Naruto Shippuuden OP 3"
   - "Наруто Ураганные хроники OP 3"
-Cover: "[[Radiant Records - Синяя птица (TV Size).jpg]]"
+Cover: "[[Radiant Records - ПЕРЕПУТЬЕ.jpg]]"
 Year: 0
-Album: ""
+Album: "[[ПЕРЕПУТЬЕ (📀 33)]]"
 CoverOf: "[[Blue Bird (TV Size) - Ikimonogakari]]"
 Creators:
   - "[[Radiant Records (🎙️ 39)]]"

@@ -1,7 +1,7 @@
 ---
 created: 2025-10-28T22:19:00+03:00
 aliases:
-  - lomb_TV_LombTV - Rhythm_Tengoku_-_Hopping_Road_Bouncy_Road
+  - "lomb_TV_LombTV - Rhythm_Tengoku_-_Hopping_Road_Bouncy_Road"
 Cover: "[[Rhythm Tengoku - Bouncy Road.jpg]]"
 Year: 0
 Album: ""

@@ -5,13 +5,13 @@ aliases:
 Cover: "[[Kiranime - Attack on Titan Final Season Part 2 – Opening Full「The Rumbling ⧸ SiM」(Lyrics).jpg]]"
 Year: 0
 Album: ""
+CoverOf: ""
 Creators: []
+ListenInSec: 0
 NumberInAlbum: 0
+related: []
 source: ""
 SourceFile: "[[Kiranime - Attack on Titan Final Season Part 2 – Opening Full「The Rumbling ⧸ SiM」(Lyrics).mp3]]"
-related: []
-ListenInSec: 0
-CoverOf: ""
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

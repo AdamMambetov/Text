@@ -2,7 +2,7 @@
 created: 2024-10-30T19:11:20+03:00
 aliases:
   - "Feel Invincible"
-Cover: "[[Skillet - Feel Invincible.jpg]]"
+Cover: "[[Skillet - Unleashed.jpg]]"
 Year: 2016
 Album: "[[Unleashed]]"
 CoverOf: ""

@@ -2,7 +2,7 @@
 created: 2024-07-18T15:34:45+03:00
 aliases:
   - "Van Helsing OST"
-Cover: "[[Van Helsing.jpg]]"
+Cover: "[[Van Helsing OST.jpg]]"
 Year: 2004
 Creators:
   - "[[Alan Silvestri (🎙️ 162)]]"
@@ -21,6 +21,6 @@ tracklist:
   - "Who Are They to Judge"
 ---
 
-![[Van Helsing.jpg]]
+![[Van Helsing OST.jpg]]
 
 ![[tracklist.base]]

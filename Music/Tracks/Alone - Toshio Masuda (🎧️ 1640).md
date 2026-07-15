@@ -1,7 +1,7 @@
 ---
 created: 2025-02-03T08:30:12+03:00
 aliases:
-  - Alone
+  - "Alone"
 Cover: "[[Naruto OST 2.jpg]]"
 Year: 2004
 Album: "[[Naruto OST 2 (📀 16)]]"

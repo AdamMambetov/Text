@@ -4,7 +4,7 @@ aliases:
   - "Platinum Disco (TV Size)"
   - "Bakemonogatari OP 8"
   - "Истории монстров OP 8"
-Cover: "[[Yuka Iguchi - Platinum Disco (TV Size).jpg]]"
+Cover: "[[Yuka Iguchi - Platinum Disco.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

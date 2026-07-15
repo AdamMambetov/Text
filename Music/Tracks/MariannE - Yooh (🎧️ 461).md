@@ -2,7 +2,7 @@
 created: 2022-10-05T13:37:52+03:00
 aliases:
   - "MariannE"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Yooh - MariannE.jpg]]"
 Year: 2014
 Album: ""
 CoverOf: ""

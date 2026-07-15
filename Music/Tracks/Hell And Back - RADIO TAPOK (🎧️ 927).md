@@ -2,7 +2,7 @@
 created: 2024-01-04T13:19:15+03:00
 aliases:
   - "Hell And Back"
-Cover: "[[RADIO TAPOK - My Demons.jpg]]"
+Cover: "[[RADIO TAPOK - RADIO TAPOK.jpg]]"
 Year: 2019
 Album: ""
 CoverOf: ""

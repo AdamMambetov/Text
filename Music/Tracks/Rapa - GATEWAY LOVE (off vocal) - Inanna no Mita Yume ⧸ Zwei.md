@@ -5,13 +5,13 @@ aliases:
 Cover: "[[Rapa - GATEWAY LOVE - Inanna no Mita Yume ⧸ Zwei.jpg]]"
 Year: 0
 Album: ""
+CoverOf: ""
 Creators: []
+ListenInSec: 0
 NumberInAlbum: 0
+related: []
 source: ""
 SourceFile: "[[Rapa - GATEWAY LOVE (off vocal) - Inanna no Mita Yume ⧸ Zwei.mp3]]"
-related: []
-ListenInSec: 0
-CoverOf: ""
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

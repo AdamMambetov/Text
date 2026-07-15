@@ -1,17 +1,17 @@
 ---
 created: 2026-06-11T22:56:00+03:00
 aliases:
-  - Beyond The Guitar - Skyrim： Dragonborn - Main Title Theme Classical Guitar Cover
+  - "Beyond The Guitar - Skyrim： Dragonborn - Main Title Theme Classical Guitar Cover"
 Cover: "[[Beyond The Guitar - Dragonborn.jpg]]"
 Year: 0
 Album: ""
+CoverOf: ""
 Creators: []
+ListenInSec: 0
 NumberInAlbum: 0
+related: []
 source: ""
 SourceFile: "[[Beyond The Guitar - Skyrim： Dragonborn - Main Title Theme Classical Guitar Cover.mp3]]"
-related: []
-ListenInSec: 0
-CoverOf: ""
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

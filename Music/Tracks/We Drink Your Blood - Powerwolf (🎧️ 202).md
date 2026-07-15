@@ -2,7 +2,7 @@
 created: 2022-04-22T21:23:06+03:00
 aliases:
   - "We Drink Your Blood"
-Cover: "[[Powerwolf - We Drink Your Blood.jpg]]"
+Cover: "[[Powerwolf - Blood of the Saints.jpg]]"
 Year: 2011
 Album: ""
 CoverOf: ""

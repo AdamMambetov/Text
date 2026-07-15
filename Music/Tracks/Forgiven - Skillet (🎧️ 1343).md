@@ -2,7 +2,7 @@
 created: 2024-10-30T19:20:24+03:00
 aliases:
   - "Forgiven"
-Cover: "[[Skillet - Forgiven.jpg]]"
+Cover: "[[Skillet - Awake.jpg]]"
 Year: 2009
 Album: "[[Awake]]"
 CoverOf: ""

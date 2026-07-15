@@ -2,7 +2,7 @@
 created: 2022-10-05T13:44:38+03:00
 aliases:
   - "Over Drive"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[OVER DRIVE.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

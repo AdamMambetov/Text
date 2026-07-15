@@ -12,7 +12,8 @@ Creators:
   - "[[GING NANG BOYS (🎙️ 670)]]"
 ListenInSec: 860
 NumberInAlbum: 1
-related: []
+related:
+  - "[[Shounen Shoujo (TV Size) - GING NANG BOYS (🎧️ 2179)]]"
 source: ""
 SourceFile: "[[Sonny Boy OST - Shounen Shoujo.mp3]]"
 ---

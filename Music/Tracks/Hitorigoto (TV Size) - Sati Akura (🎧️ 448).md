@@ -4,7 +4,7 @@ aliases:
   - "Hitorigoto (TV Size)"
   - "Eromanga-sensei OP 1"
   - "Эроманга-сэнсей OP 1"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Sati Akura - Hitorigoto.jpg]]"
 Year: 0
 Album: ""
 CoverOf: "[[Hitorigoto (TV Size) - ClariS (🎧️ 1077)]]"

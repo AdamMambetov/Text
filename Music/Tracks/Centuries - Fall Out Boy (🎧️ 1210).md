@@ -1,7 +1,7 @@
 ---
 created: 2024-10-13T22:48:52+03:00
 aliases:
-  - Centuries
+  - "Centuries"
 Cover: "[[Fall Out Boy - American Beauty - American Psycho.jpg]]"
 Year: 2014
 Album: "[[American Beauty / American Psycho]]"

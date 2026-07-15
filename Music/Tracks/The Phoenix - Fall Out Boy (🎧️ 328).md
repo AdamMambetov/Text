@@ -1,7 +1,7 @@
 ---
 created: 2022-04-26T19:56:02+03:00
 aliases:
-  - The Phoenix
+  - "The Phoenix"
 Cover: "[[Fall Out Boy - Greatest Hits. Believers Never Die - Volume Two.jpg]]"
 Year: 2013
 Album: "[[Save Rock and Roll [2013] {Fall Out Boy}]]"

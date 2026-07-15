@@ -3,7 +3,7 @@ created: 2024-10-23T15:38:07+03:00
 aliases:
   - "Гнилое яблоко"
   - "Bad Apple"
-Cover: "[[Radiant Records - Ты принёс мечту.jpg]]"
+Cover: "[[Radiant Records - ПЕРЕПУТЬЕ.jpg]]"
 Year: 0
 Album: ""
 CoverOf: "[[Bad Apple - Touhou Project (🎧️ 1718)]]"

@@ -2,7 +2,7 @@
 created: 2022-10-05T13:16:20+03:00
 aliases:
   - "Teiketsu Bolt"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Zutto Mayonaka de Ii no ni - Teiketsu Bolt.png]]"
 Year: 2020
 Album: ""
 CoverOf: ""

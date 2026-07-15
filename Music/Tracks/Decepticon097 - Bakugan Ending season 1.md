@@ -5,13 +5,13 @@ aliases:
 Cover: "[[Decepticon097 - Bakugan Ending season 1.jpg]]"
 Year: 0
 Album: ""
+CoverOf: ""
 Creators: []
+ListenInSec: 0
 NumberInAlbum: 0
+related: []
 source: ""
 SourceFile: "[[Decepticon097 - Bakugan Ending season 1.mp3]]"
-related: []
-ListenInSec: 0
-CoverOf: ""
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

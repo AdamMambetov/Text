@@ -1,7 +1,7 @@
 ---
 created: 2022-04-28T17:53:26+03:00
 aliases:
-  - Jiraiya's Theme
+  - "Jiraiya's Theme"
 Cover: "[[Naruto OST 3.jpg]]"
 Year: 2005
 Album: "[[Naruto OST 3 (📀 17)]]"

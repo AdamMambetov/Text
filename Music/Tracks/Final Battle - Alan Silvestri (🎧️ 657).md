@@ -2,7 +2,7 @@
 created: 2023-09-29T16:22:51+03:00
 aliases:
   - "Final Battle"
-Cover: "[[Van Helsing.jpg]]"
+Cover: "[[Van Helsing OST.jpg]]"
 Year: 2004
 Album: "[[Van Helsing OST (📀 26)]]"
 CoverOf: ""

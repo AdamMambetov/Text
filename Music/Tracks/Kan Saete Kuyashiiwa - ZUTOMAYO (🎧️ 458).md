@@ -2,7 +2,7 @@
 created: 2022-10-05T13:34:14+03:00
 aliases:
   - "Kan Saete Kuyashiiwa"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[ZUTOMAYO - Kan Saete Kuyashiiwa.png]]"
 Year: 2019
 Album: ""
 CoverOf: ""
