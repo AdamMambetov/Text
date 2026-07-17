@@ -2,7 +2,7 @@
 created: 2025-11-19T23:18:43+03:00
 aliases:
   - "Horie Yui"
-ListenInSec: 3059
+ListenInSec: 3262
 ---
 
 # Horie Yui

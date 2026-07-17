@@ -9,7 +9,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[MADKID (🎙️ 795)]]"
-ListenInSec: 0
+ListenInSec: 1016
 NumberInAlbum: 0
 related:
   - "[[RISE - MADKID (🎧️ 2163)]]"

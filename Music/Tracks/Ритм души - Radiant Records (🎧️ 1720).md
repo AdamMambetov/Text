@@ -13,7 +13,7 @@ CoverOf: "[[My Soul, Your Beats! - Lia (🎧️ 1754)]]"
 Creators:
   - "[[Radiant Records (🎙️ 39)]]"
   - "[[Camellia (🎙️ 53)]]"
-ListenInSec: 3837
+ListenInSec: 3932
 NumberInAlbum: 0
 related: []
 source: ""

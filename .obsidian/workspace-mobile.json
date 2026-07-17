@@ -22,35 +22,21 @@
             }
           },
           {
-            "id": "f44b520e1490a797",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Music/Tracks/'Till I Collapse - Eminem (🎧️ 1141).md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "'Till I Collapse - Eminem (🎧️ 1141)"
-            }
-          },
-          {
             "id": "3a1fa6dd67e273c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Music/Tracks/natsuki1023 - 志方あきこ　「片翼の鳥」　歌詞付.md",
+                "file": "Music/Tracks/NOX LUX - MYTH & ROID (🎧️ 1870).md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "natsuki1023 - 志方あきこ　「片翼の鳥」　歌詞付"
+              "title": "NOX LUX - MYTH & ROID (🎧️ 1870)"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -141,7 +127,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Music/Tracks/natsuki1023 - 志方あきこ　「片翼の鳥」　歌詞付.md",
+            "file": "Music/Tracks/NOX LUX - MYTH & ROID (🎧️ 1870).md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -198,6 +184,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": true,
       "graph:Open graph view": true,
       "daily-notes:Open today's daily note": true,
@@ -216,12 +203,22 @@
   },
   "active": "3a1fa6dd67e273c2",
   "lastOpenFiles": [
+    "Music/Tracks/Christopher Tin - Christopher Tin - Baba Yetu (Official Video) feat. Soweto Gospel Choir.md",
+    "Music/Tracks/Die, Die My Darling - Metallica (🎧️ 13).md",
+    "Note/content/@Адам Мамбетов.md",
+    "Music/Tracks/DEDTALES - LINS (🎧️ 2055).md",
+    "Music/Tracks/'Till I Collapse - Eminem (🎧️ 1141).md",
+    "Music/Tracks/MILF BOY - LINS (🎧️ 2183).md",
+    "Music/Tracks/СОФИЯ - LINS (🎧️ 2053).md",
+    "Music/Creators/LINS (🎙️ 816).md",
+    "Music/Tracks/Надо радоваться! - Александр Пушной (🎧️ 2123).md",
+    "Music/Covers/Александр Пушной - Пушной.ru.jpg",
+    "Music/Tracks/21 Guns - RADIO TAPOK (🎧️ 1516).md",
+    "Music/Tracks/natsuki1023 - 志方あきこ　「片翼の鳥」　歌詞付.md",
     "Music/tracks.base",
     "Music/Tracks/Rapa - Hadou -Kono Koe- ~guitar vocal ver.~ (without vocal) - Umineko Arrange Album ＂Akoustika IV＂.md",
     "Music/Tracks/Rapa - Hadou -Kono Koe- ~guitar vocal ver.~ - Umineko no Naku Koro ni Arrange Album ＂Akoustika IV＂.md",
-    "Music/Tracks/'Till I Collapse - Eminem (🎧️ 1141).md",
     "Music/Covers/Eminem - The Eminem Show.jpg",
-    "Note/content/@Адам Мамбетов.md",
     "Music/Covers/_No Album Art.jpg",
     "Music/Tracks/Затмение - U2 Akiyama (🎧️ 1000).md",
     "Music/Tracks/Плач цикад (TV Size) - Radiant Records (🎧️ 1457).md",
@@ -232,10 +229,8 @@
     "Music/Covers/Vale ou não vale？ - Naruto Shippuuden - Original Sound Track - Sasori's Theme.jpg",
     "Music/Covers/LM.C Official - BOYS & GIRLS.jpg",
     "Music/Covers/Harmony Team – аниме-п - [Kousetsujou no Kabaneri RUS cover] Ai – Kabaneri Of The Iron Fortress [Harmony Team].jpg",
-    "Music/Covers/GOING UNDER GROUND official - LISTEN TO THE STEREO!!.jpg",
     "Music/Albums/ReZero 2 OST 2 (📀 42).md",
     "Music/Tracks/Kanashii Ureshii - Frederic (🎧️ 1472).md",
-    "Music/Tracks/natsuki1023 - 志方あきこ　「片翼の鳥」　歌詞付.md",
     "Music/Tracks/DANGANRONPA (🎧️ 1508).md",
     "Music/Albums/DANGANRONPA V3 OST BLACK (📀 45).md",
     "Music/Albums/DANGANRONPA V3 OST WHITE  (📀 44).md",
@@ -245,13 +240,6 @@
     "Music/Albums/Shiki OST (📀 1).md",
     "Music/Tracks/Crimson - Yasuharu Takanashi (🎧️ 1814).md",
     "Music/Tracks/Dry Lake - Yasuharu Takanashi (🎧️ 1813).md",
-    "Music/Tracks/Echo - Yasuharu Takanashi (🎧️ 1812).md",
-    "Music/Tracks/Youth - Yasuharu Takanashi (🎧️ 1811).md",
-    "Music/Tracks/Blue Bell - Yasuharu Takanashi (🎧️ 1810).md",
-    "Music/Tracks/Thirteen Moons - Yasuharu Takanashi (🎧️ 1809).md",
-    "Music/Tracks/Fir Trees - Yasuharu Takanashi (🎧️ 1808).md",
-    "Music/Tracks/Dead Sea - Yasuharu Takanashi (🎧️ 1807).md",
-    "Music/Tracks/Muddy Water - Yasuharu Takanashi (🎧️ 1806).md",
     "Text/Note/excalidraw",
     "Text/Note",
     "Text",

@@ -8,17 +8,13 @@ aliases:
 Cover: "[[Radiant Records - ПЕРЕПУТЬЕ.jpg]]"
 Year: 0
 Album: ""
-CoverOf: "[[Bravely You - Lia (🎧️ 1753)]]"
 Creators:
   - "[[Radiant Records (🎙️ 39)]]"
   - "[[Camellia (🎙️ 53)]]"
-ListenInSec: 6512
 NumberInAlbum: 0
 related: []
-source: ""
 SourceFile: "[[Radiant Records - Бесстрашие.mp3]]"
+ListenInSec: 6838
+CoverOf: "[[Bravely You - Lia (🎧️ 1753)]]"
 ---
 
-# Бесстрашие
-
-![[Radiant Records - Бесстрашие.mp3]]

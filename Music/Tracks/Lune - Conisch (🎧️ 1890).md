@@ -8,7 +8,7 @@ Album: "[[Sonny Boy OST (📀 41)]]"
 CoverOf: ""
 Creators:
   - "[[Conisch (🎙️ 697)]]"
-ListenInSec: 0
+ListenInSec: 18
 NumberInAlbum: 17
 related: []
 source: ""

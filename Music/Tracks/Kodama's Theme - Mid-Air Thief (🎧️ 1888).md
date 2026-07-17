@@ -8,7 +8,7 @@ Album: "[[Sonny Boy OST (📀 41)]]"
 CoverOf: ""
 Creators:
   - "[[Mid-Air Thief (🎙️ 698)]]"
-ListenInSec: 0
+ListenInSec: 478
 NumberInAlbum: 10
 related: []
 source: ""

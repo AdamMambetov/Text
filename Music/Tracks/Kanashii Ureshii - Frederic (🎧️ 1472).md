@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Frederic (🎙️ 740)]]"
-ListenInSec: 1710
+ListenInSec: 1848
 NumberInAlbum: 0
 related:
   - "[[Kanashii Ureshii (TV Size) - Frederic]]"

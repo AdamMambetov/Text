@@ -12,7 +12,7 @@ CoverOf: "[[Renai Circulation - Kana Hanazawa (🎧️ 298)]]"
 Creators:
   - "[[Radiant Records (🎙️ 39)]]"
   - "[[Lilaria (🎙️ 54)]]"
-ListenInSec: 3005
+ListenInSec: 3042
 NumberInAlbum: 0
 related: []
 source: ""

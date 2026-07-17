@@ -8,7 +8,7 @@ Album: "[[The Great Divide]]"
 CoverOf: ""
 Creators:
   - "[[Allen Lande (🎙️ 170)]]"
-ListenInSec: 235
+ListenInSec: 477
 NumberInAlbum: 1
 related: []
 source: ""

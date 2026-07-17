@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Ikimonogakari (🎙️ 57)]]"
-ListenInSec: 968
+ListenInSec: 977
 NumberInAlbum: 3
 related:
   - "[[Hotaru no Hikari - Ikimonogakari (🎧️ 1680)]]"

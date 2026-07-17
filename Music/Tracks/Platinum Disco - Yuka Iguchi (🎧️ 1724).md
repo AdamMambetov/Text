@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Yuka Iguchi (🎙️ 674)]]"
-ListenInSec: 1402
+ListenInSec: 1658
 NumberInAlbum: 0
 related: []
 source: ""

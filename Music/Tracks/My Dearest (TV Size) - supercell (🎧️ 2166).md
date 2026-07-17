@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[supercell (🎙️ 59)]]"
-ListenInSec: 0
+ListenInSec: 1144
 NumberInAlbum: 0
 related: []
 source: ""

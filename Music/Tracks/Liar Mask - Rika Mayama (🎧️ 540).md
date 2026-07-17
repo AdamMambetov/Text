@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Rika Mayama (🎙️ 428)]]"
-ListenInSec: 594
+ListenInSec: 750
 NumberInAlbum: 0
 related: []
 source: ""

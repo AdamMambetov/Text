@@ -39,6 +39,21 @@ tracklist:
   - "[[Memento (TV Size) - nonoc (🎧️ 1866)]]"
   - "[[Memento - nonoc (🎧️ 1865)]]"
   - "[[Styx Helix - MYTH & ROID (🎧️ 1868)]]"
+  - "[[seto akuchi - Beelzebub Ending 1 HD]]"
+  - "[[Shounen Shoujo (TV Size) - GING NANG BOYS (🎧️ 2179)]]"
+  - "[[Release - Don't say ＂lazy＂]]"
+  - "[[SennaRin official YouTube chan - SennaRin「KONTINUUM」Music Video（アニメ『TO BE HERO X』エンディングテーマ）]]"
+  - "[[STANCE PUNKS - I Wanna be]]"
+  - "[[SOLIDEMO with Sakuramen - My Song My Days]]"
+  - "[[KONTINUUM (TV Size) - SennaRin (🎧️ 2139)]]"
+  - "[[Decepticon097 - Bakugan Ending season 1]]"
+  - "[[Aporia (TV Size) - Yorushika (🎧️ 2113)]]"
+  - "[[eichi's borgar - 【Grand Blue】Konpeki no al Fine ｜ Full Ending【ROM】]]"
+  - "[[Frefo - Gungrave - Ending HD (1080p) Akane iro-Ga Moeru Toki]]"
+  - "[[Zettai Zetsumei (TV Size) - Cö Shu Nie (🎧️ 2143)]]"
+  - "[[Hitohira No Hanabira - Stereopony (🎧️ 2103)]]"
+  - "[[No Sleeves - Answer]]"
+  - "[[tradedgy - La Divina Tragedia Makyoku--Jimang (WITH LYRICS!)]]"
 ---
 
 # Anime Endings

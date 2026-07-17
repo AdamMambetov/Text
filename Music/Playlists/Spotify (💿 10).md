@@ -4,6 +4,7 @@ aliases:
   - "Spotify"
 tracklist:
   - "[[Ducktales - Jonathan Young (🎧️ 1286)]]"
+  - "[[Feeling Fine - Ocie Elliott (🎧️ 2052)]]"
 ---
 
 # Spotify

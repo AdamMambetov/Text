@@ -8,7 +8,7 @@ Album: "[[ADAMAS]]"
 CoverOf: ""
 Creators:
   - "[[LiSA (🎙️ 65)]]"
-ListenInSec: 847
+ListenInSec: 935
 NumberInAlbum: 2
 related: []
 source: ""

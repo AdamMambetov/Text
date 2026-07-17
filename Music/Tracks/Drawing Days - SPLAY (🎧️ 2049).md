@@ -7,21 +7,12 @@ aliases:
 Cover: "[[SPLAY - Drawing days.jpg]]"
 Year: 0
 Album: ""
-CoverOf: ""
 Creators:
   - "[[SPLAY (🎙️ 803)]]"
-ListenInSec: 0
 NumberInAlbum: 0
 related: []
-source: ""
 SourceFile: "[[ponycanyon - SPLAY ／ Drawing days 【Official Music Video】.mp3]]"
+ListenInSec: 3073
+CoverOf: ""
 ---
-
-`$=dv.header(1, dv.current().aliases[0])`
-
-![[ponycanyon - SPLAY ／ Drawing days 【Official Music Video】.mp3]]
-
-## Related Tracks
-
-![[related tracks.base]]
 

@@ -9,7 +9,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Griff Clawson (🎙️ 815)]]"
-ListenInSec: 0
+ListenInSec: 755
 NumberInAlbum: 0
 related: []
 source: ""

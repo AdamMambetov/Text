@@ -7,7 +7,7 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators: []
-ListenInSec: 1456
+ListenInSec: 1728
 NumberInAlbum: 1
 related:
   - "[[Tomadoi Recipe (TV Size) (🎧️ 1640)]]"

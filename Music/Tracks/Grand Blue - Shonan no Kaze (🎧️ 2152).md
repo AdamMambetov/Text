@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Shonan no Kaze (🎙️ 811)]]"
-ListenInSec: 0
+ListenInSec: 312
 NumberInAlbum: 0
 related: []
 source: ""

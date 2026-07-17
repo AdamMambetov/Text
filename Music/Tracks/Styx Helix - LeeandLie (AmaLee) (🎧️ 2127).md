@@ -10,7 +10,7 @@ Album: ""
 CoverOf: "[[Styx Helix - MYTH & ROID (🎧️ 1868)]]"
 Creators:
   - "[[LeeandLie (AmaLee) (🎙️ 728)]]"
-ListenInSec: 0
+ListenInSec: 1196
 NumberInAlbum: 0
 related: []
 source: ""

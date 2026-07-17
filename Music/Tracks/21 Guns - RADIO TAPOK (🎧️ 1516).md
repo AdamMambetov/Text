@@ -2,7 +2,7 @@
 created: 2025-01-08T17:57:34+03:00
 aliases:
   - "21 Guns"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[RADIO TAPOK - RADIO TAPOK.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

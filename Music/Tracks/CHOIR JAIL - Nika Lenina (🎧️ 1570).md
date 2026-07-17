@@ -11,7 +11,7 @@ Album: ""
 CoverOf: "[[CHOIR JAIL - Konomi Suzuki (🎧️ 1572)]]"
 Creators:
   - "[[Nika Lenina (🎙️ 45)]]"
-ListenInSec: 1394
+ListenInSec: 1628
 NumberInAlbum: 0
 related:
   - "[[CHOIR JAIL (TV Size) - Nika Lenina (🎧️ 1571)]]"

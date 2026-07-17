@@ -8,7 +8,7 @@ Album: "[[Assassin’s Creed II]]"
 CoverOf: ""
 Creators:
   - "[[Jesper Kyd (🎙️ 341)]]"
-ListenInSec: 476
+ListenInSec: 538
 NumberInAlbum: 3
 related: []
 source: ""

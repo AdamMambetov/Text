@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Avenged Sevenfold (🎙️ 201)]]"
-ListenInSec: 474
+ListenInSec: 507
 NumberInAlbum: 0
 related: []
 source: ""
