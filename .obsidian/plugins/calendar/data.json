@@ -4,7 +4,7 @@
   "wordsPerDot": 250,
   "showWeeklyNote": true,
   "weeklyNoteFormat": "",
-  "weeklyNoteTemplate": "Text/Note/templates/weekly template",
-  "weeklyNoteFolder": "Text/Note/periodic/weekly",
+  "weeklyNoteTemplate": "Note/templates/weekly template",
+  "weeklyNoteFolder": "Note/periodic/weekly",
   "localeOverride": "ru"
 }

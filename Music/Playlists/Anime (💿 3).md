@@ -1,8 +1,8 @@
 ---
 created: 2025-12-01T00:17:00+03:00
 aliases:
-  - "Anime"
-  - "Аниме"
+  - Anime
+  - Аниме
 tracklist:
   - "[[ADAMAS - LiSA (🎧️ 1144)]]"
   - "[[1Coma - Hiroyuki Sawano (🎧️ 1631)]]"
@@ -486,10 +486,10 @@ tracklist:
   - "[[RevolutionLetsPlayGER - Rainbow： Nisha Rokubou no Shichinin Ending ＂A Far-Off Distance＂ (720pHD)]]"
   - "[[DanTheMan 2150AD - Rainbow： Nisha Rokubō no Shichinin OP (HD) + Lyrics]]"
   - "[[coldrain - We're not alone]]"
-  - "[[MYTH & ROID feat. TK (凛と - Ender Ember]]"
-  - "[[Konomi Suzuki Official, 「Re： - 鈴木このみ feat. Ashnikko「Recollect」MV（TVアニメ『Re：ゼロから始める異世界生活』4th season OPテーマ）]]"
-  - "[[「Re：ゼロから始める異 - 【リゼロ】4th seasonノンクレジットエンディング映像│「Ender Ember」MYTH & ROID feat. TK（凛として時雨）]]"
-  - "[[「Re：ゼロから始める異 - 【リゼロ】4th seasonノンクレジットオープニング映像│「Recollect」鈴木このみ feat. Ashnikko]]"
+  - "[[Ender Ember - MYTH & ROID (🎧️ 2207)]]"
+  - "[[Recollect - Konomi Suzuki (🎧️ 2206)]]"
+  - "[[Ender Ember (TV Size) - MYTH & ROID (🎧️ 2205)]]"
+  - "[[Recollect (TV Size) - Konomi Suzuki (🎧️ 2204)]]"
   - "[[X0Mariex0X - Openig 1 Kenichi  Ver.. 3]]"
   - "[[Kana Yazumi - Be Strong]]"
 ---

@@ -1,8 +1,8 @@
 ---
 created: 2025-12-01T00:17:00+03:00
 aliases:
-  - "Anime Openings"
-  - "Аниме опенинги"
+  - Anime Openings
+  - Аниме опенинги
 tracklist:
   - "[[99 - Mob Choir (🎧️ 1452)]]"
   - "[[Hotaru no Hikari (TV Size) - Ikimonogakari (🎧️ 1692)]]"
@@ -264,8 +264,8 @@ tracklist:
   - "[[LISTEN TO THE STEREO!! - GOING UNDER GROUND (🎧️ 2051)]]"
   - "[[DanTheMan 2150AD - Rainbow： Nisha Rokubō no Shichinin OP (HD) + Lyrics]]"
   - "[[coldrain - We're not alone]]"
-  - "[[Konomi Suzuki Official, 「Re： - 鈴木このみ feat. Ashnikko「Recollect」MV（TVアニメ『Re：ゼロから始める異世界生活』4th season OPテーマ）]]"
-  - "[[「Re：ゼロから始める異 - 【リゼロ】4th seasonノンクレジットオープニング映像│「Recollect」鈴木このみ feat. Ashnikko]]"
+  - "[[Recollect - Konomi Suzuki (🎧️ 2206)]]"
+  - "[[Recollect (TV Size) - Konomi Suzuki (🎧️ 2204)]]"
   - "[[X0Mariex0X - Openig 1 Kenichi  Ver.. 3]]"
   - "[[Kana Yazumi - Be Strong]]"
 ---

@@ -1,7 +1,7 @@
 ---
 created: 2025-11-30T23:14:00+03:00
 aliases:
-  - "Anime Endings"
+  - Anime Endings
 tracklist:
   - "[[7 -seven- (TV Size) - FLOW (🎧️ 1633)]]"
   - "[[Kimi no Shiranai Monogatari - supercell (🎧️ 1653)]]"
@@ -58,8 +58,8 @@ tracklist:
   - "[[RevolutionLetsPlayGER - Rainbow： Nisha Rokubou no Shichinin Ending ＂A Far-Off Distance＂ (720pHD)]]"
   - "[[NOX LUX - MYTH & ROID (🎧️ 1870)]]"
   - "[[KADOKAWAanime - 【リゼロ】ノンクレジットエンディング映像 ｜ 「NOX LUX」MYTH & ROID]]"
-  - "[[MYTH & ROID feat. TK (凛と - Ender Ember]]"
-  - "[[「Re：ゼロから始める異 - 【リゼロ】4th seasonノンクレジットエンディング映像│「Ender Ember」MYTH & ROID feat. TK（凛として時雨）]]"
+  - "[[Ender Ember - MYTH & ROID (🎧️ 2207)]]"
+  - "[[Ender Ember (TV Size) - MYTH & ROID (🎧️ 2205)]]"
 ---
 
 # Anime Endings

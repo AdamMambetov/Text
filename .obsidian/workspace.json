@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fa7e5f3532645328",
+        "id": "6dd1871acf1f90e0",
         "type": "tabs",
         "children": [
           {
-            "id": "7b19afebd9c8c3a2",
+            "id": "b3a59af5ec577a28",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note/home/homepage.md",
+                "file": "Music/Tracks/Recollect - Konomi Suzuki (🎧️ 2206).md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "homepage"
+              "title": "Recollect - Konomi Suzuki (🎧️ 2206)"
             }
           }
         ]
@@ -89,7 +89,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Note/home/homepage.md",
+                "file": "Music/Tracks/Recollect - Konomi Suzuki (🎧️ 2206).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -117,7 +117,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of homepage"
+              "title": "Graph of Recollect - Konomi Suzuki (🎧️ 2206)"
             }
           }
         ]
@@ -275,7 +275,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 390.5
+    "width": 380.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -298,10 +298,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7b19afebd9c8c3a2",
+  "active": "b3a59af5ec577a28",
   "lastOpenFiles": [
-    "Note/content/ffmpeg.md",
+    "Music/Tracks/Recollect (TV Size) - Konomi Suzuki (🎧️ 2204).md",
+    "Music/Tracks/Recollect - Konomi Suzuki (🎧️ 2206).md",
+    "Music/Creators/Ashnikko (🎙️ 817).md",
+    "Music/Tracks/Extra Magic Hour - AKINO (🎧️ 1314).md",
+    "Text/Note/files",
+    "Text/Note",
+    "Text",
+    "Music/Tracks/СОФИЯ - LINS (🎧️ 2053).md",
+    "Music/Tracks/Надо радоваться! - Александр Пушной (🎧️ 2123).md",
+    "Music/Tracks/MILF BOY - LINS (🎧️ 2183).md",
+    "Music/Tracks/Die, Die My Darling - Metallica (🎧️ 13).md",
+    "Music/Tracks/DEDTALES - LINS (🎧️ 2055).md",
+    "Music/Creators/LINS (🎙️ 816).md",
     "Note/home/homepage.md",
+    "Note/content/ffmpeg.md",
     "Music/Playlists/100% Шедевр (💿 6).md",
     "Music/Creators/-45 (🎙️ 6).md",
     "Music/Albums/8 Mile OST (📀 2).md",
@@ -320,25 +333,12 @@
     "Music/Covers/Cö Shu Nie - Zettai Zetsumei.jpg",
     "Music/Tracks/Aporia (TV Size) - Yorushika (🎧️ 2113).md",
     "Music/Covers/Yorushika - Aporia (TV Size).jpg",
-    "Music/Creators/Yorushika (🎙️ 813).md",
-    "Music/Tracks/Kaijuu (TV Size) - Sakanaction (🎧️ 2125).md",
     "Music/Covers/Sakanaction - Kaijuu (TV Size).jpg",
-    "Music/Creators/Sakanaction (🎙️ 812).md",
     "Music/Covers/Louis Armstrong - The Very Best Of Louis Armstrong.jpg",
-    "Music/Tracks/INTERTIA (TV Size) - Hiroyuki Sawano (🎧️ 2141).md",
-    "Music/Creators/Long Shot Party (🎙️ 366).md",
     "Music/Covers/Long Shot Party - distance.jpg",
-    "Music/Tracks/distance - Long Shot Party (🎧️ 753).md",
-    "Music/Tracks/NIGHT SKOOP - Long Shot Party (🎧️ 1050).md",
-    "Music/Tracks/Grand Blue - Shonan no Kaze (🎧️ 2152).md",
     "Music/Covers/Shonan no Kaze - Grand Blue.jpg",
-    "Music/Creators/Shonan no Kaze (🎙️ 811).md",
-    "Note/templates/lint all tracks capture.md",
     "Music/Covers/To Be Hero X OST - INTERTIA (TV Size).jpg",
     "Music/Covers/To Be Hero X OST - INTERTIA.jpg",
-    "Text/Note/files",
-    "Text/Note",
-    "Text",
     "Music/Tracks/Way Up - Jaden Smith.txt",
     "Video/18+/Hentai/2101_video_voice_HentaiZ_720.mp4.mp4",
     "Audio/Music/Your Turn To Die OST - 08 Even in Tragedy [EXTENDED].mp3",
