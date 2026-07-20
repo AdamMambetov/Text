@@ -9,7 +9,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Rameses B (🎙️ 423)]]"
-ListenInSec: 1567
+ListenInSec: 1748
 NumberInAlbum: 0
 related: []
 source: ""

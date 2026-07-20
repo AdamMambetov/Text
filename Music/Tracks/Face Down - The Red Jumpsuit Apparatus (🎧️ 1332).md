@@ -5,15 +5,11 @@ aliases:
 Cover: "[[The Red Jumpsuit Apparatus - Don't You Fake It.jpg]]"
 Year: 2006
 Album: "[[Don't You Fake It]]"
-CoverOf: ""
 Creators: []
-ListenInSec: 2
 NumberInAlbum: 4
 related: []
-source: ""
 SourceFile: "[[The Red Jumpsuit Apparatus - Face Down.mp3]]"
+ListenInSec: 194
+CoverOf: ""
 ---
 
-# The Red Jumpsuit Apparatus - Face Down
-
-![[The Red Jumpsuit Apparatus - Face Down.mp3]]

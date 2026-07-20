@@ -8,7 +8,7 @@ Album: "[[Spider-Man Into the Spider-Verse OST (📀 24)]]"
 CoverOf: ""
 Creators:
   - "[[Vince Staples (🎙️ 554)]]"
-ListenInSec: 2
+ListenInSec: 53
 NumberInAlbum: 13
 related: []
 source:

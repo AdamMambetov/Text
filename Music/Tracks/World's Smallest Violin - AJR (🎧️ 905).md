@@ -8,7 +8,7 @@ Album: "[[OK Orchestra]]"
 CoverOf: ""
 Creators:
   - "[[AJR (🎙️ 149)]]"
-ListenInSec: 1
+ListenInSec: 106
 NumberInAlbum: 11
 related: []
 source: ""

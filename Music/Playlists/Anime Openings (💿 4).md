@@ -238,7 +238,6 @@ tracklist:
   - "[[Grand Blue - Shonan no Kaze (🎧️ 2152)]]"
   - "[[Snow fairy - FUNKIST (🎧️ 2065)]]"
   - "[[My Dearest (TV Size) - supercell (🎧️ 2166)]]"
-  - "[[KADOKAWAanime - 【リゼロ】ノンクレジットエンディング映像 ｜ 「NOX LUX」MYTH & ROID]]"
   - "[[PAPERMOON (TV Size) - Tommy heavenly6 (🎧️ 2069)]]"
   - "[[PAPERMOON - Tommy heavenly6 (🎧️ 2074)]]"
   - "[[Kaijuu (TV Size) - Sakanaction (🎧️ 2125)]]"
@@ -263,6 +262,12 @@ tracklist:
   - "[[Gabriel Tozzi - Beelzebub Opening 1 - HD]]"
   - "[[WORK - millennium parade (🎧️ 1716)]]"
   - "[[LISTEN TO THE STEREO!! - GOING UNDER GROUND (🎧️ 2051)]]"
+  - "[[DanTheMan 2150AD - Rainbow： Nisha Rokubō no Shichinin OP (HD) + Lyrics]]"
+  - "[[coldrain - We're not alone]]"
+  - "[[Konomi Suzuki Official, 「Re： - 鈴木このみ feat. Ashnikko「Recollect」MV（TVアニメ『Re：ゼロから始める異世界生活』4th season OPテーマ）]]"
+  - "[[「Re：ゼロから始める異 - 【リゼロ】4th seasonノンクレジットオープニング映像│「Recollect」鈴木このみ feat. Ashnikko]]"
+  - "[[X0Mariex0X - Openig 1 Kenichi  Ver.. 3]]"
+  - "[[Kana Yazumi - Be Strong]]"
 ---
 
 # Anime Openings

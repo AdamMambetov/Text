@@ -8,7 +8,7 @@ Album: "[[Billy Talent II]]"
 CoverOf: ""
 Creators:
   - "[[Billy Talent (🎙️ 221)]]"
-ListenInSec: 1
+ListenInSec: 200
 NumberInAlbum: 6
 related: []
 source: ""

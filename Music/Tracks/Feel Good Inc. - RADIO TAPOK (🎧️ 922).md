@@ -8,7 +8,7 @@ Album: ""
 CoverOf: "[[Feel Good Inc. - Gorillaz (🎧️ 423)]]"
 Creators:
   - "[[RADIO TAPOK (🎙️ 421)]]"
-ListenInSec: 2
+ListenInSec: 229
 NumberInAlbum: 0
 related: []
 source: ""

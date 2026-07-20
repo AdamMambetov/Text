@@ -8,7 +8,7 @@ Album: "[[Swan Songs]]"
 CoverOf: ""
 Creators:
   - "[[Hollywood Undead (🎙️ 330)]]"
-ListenInSec: 3
+ListenInSec: 162
 NumberInAlbum: 10
 related: []
 source: ""

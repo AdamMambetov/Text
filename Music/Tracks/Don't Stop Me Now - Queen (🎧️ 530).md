@@ -8,7 +8,7 @@ Album: "[[The Platinum Collection]]"
 CoverOf: ""
 Creators:
   - "[[Queen (🎙️ 420)]]"
-ListenInSec: 3
+ListenInSec: 211
 NumberInAlbum: 7
 related: []
 source: ""

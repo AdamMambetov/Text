@@ -8,7 +8,7 @@ Album: "[[Rainy Tunes]]"
 CoverOf: "[[Lagtrain - inabakumori (🎧️ 4)]]"
 Creators:
   - "[[Will Stetson (🎙️ 481)]]"
-ListenInSec: 7
+ListenInSec: 119
 NumberInAlbum: 1
 related: []
 source: https://youtu.be/BEnZ0VgQAXw?si=TMjxl_MWg7yteCs9

@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[HO-KAGO TEA TIME (🎙️ 583)]]"
-ListenInSec: 2
+ListenInSec: 96
 NumberInAlbum: 0
 related: []
 source: ""

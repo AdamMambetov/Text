@@ -10,7 +10,7 @@ Album: ""
 CoverOf: "[[Irokousui - Yoh Kamiyama (🎧️ 1693)]]"
 Creators:
   - "[[DiWilliam (🎙️ 60)]]"
-ListenInSec: 1
+ListenInSec: 94
 NumberInAlbum: 0
 related: []
 source: ""

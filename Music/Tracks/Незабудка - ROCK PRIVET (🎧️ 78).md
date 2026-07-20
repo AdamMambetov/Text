@@ -8,7 +8,7 @@ Album: ""
 CoverOf: "[[Незабудка - Тима Белорусских (🎧️ 923)]]"
 Creators:
   - "[[ROCK PRIVET (🎙️ 430)]]"
-ListenInSec: 1
+ListenInSec: 7
 NumberInAlbum: 0
 related: []
 source: ""

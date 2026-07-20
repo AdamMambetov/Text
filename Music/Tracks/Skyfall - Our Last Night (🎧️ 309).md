@@ -8,7 +8,7 @@ Album: "[[Age Of Ignorance [2012] {Our Last Night}]]"
 CoverOf: ""
 Creators:
   - "[[Our Last Night (🎙️ 493)]]"
-ListenInSec: 2
+ListenInSec: 242
 NumberInAlbum: 13
 related: []
 source: ""

@@ -7,16 +7,12 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
-CoverOf: "[[Lilium - Kumiko Noma (🎧️ 780)]]"
 Creators:
   - "[[Fortex (🎙️ 313)]]"
-ListenInSec: 3
 NumberInAlbum: 0
 related: []
-source: ""
 SourceFile: "[[Fortex - Lilium.mp3]]"
+ListenInSec: 226
+CoverOf: "[[Lilium - Kumiko Noma (🎧️ 780)]]"
 ---
 
-# Fortex - Lilium
-
-![[Fortex - Lilium.mp3]]

@@ -8,7 +8,7 @@ Album: "[[We Control [2006] {Hyper}]]"
 CoverOf: ""
 Creators:
   - "[[Hyper (🎙️ 540)]]"
-ListenInSec: 2
+ListenInSec: 191
 NumberInAlbum: 1
 related: []
 source:

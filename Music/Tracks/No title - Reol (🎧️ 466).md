@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Reol (🎙️ 427)]]"
-ListenInSec: 3
+ListenInSec: 94
 NumberInAlbum: 0
 related: []
 source: ""

@@ -54,6 +54,12 @@ tracklist:
   - "[[Hitohira No Hanabira - Stereopony (🎧️ 2103)]]"
   - "[[No Sleeves - Answer]]"
   - "[[tradedgy - La Divina Tragedia Makyoku--Jimang (WITH LYRICS!)]]"
+  - "[[GALNERYUS ⧸ ガルネリウス - A FAR-OFF DISTANCE]]"
+  - "[[RevolutionLetsPlayGER - Rainbow： Nisha Rokubou no Shichinin Ending ＂A Far-Off Distance＂ (720pHD)]]"
+  - "[[NOX LUX - MYTH & ROID (🎧️ 1870)]]"
+  - "[[KADOKAWAanime - 【リゼロ】ノンクレジットエンディング映像 ｜ 「NOX LUX」MYTH & ROID]]"
+  - "[[MYTH & ROID feat. TK (凛と - Ender Ember]]"
+  - "[[「Re：ゼロから始める異 - 【リゼロ】4th seasonノンクレジットエンディング映像│「Ender Ember」MYTH & ROID feat. TK（凛として時雨）]]"
 ---
 
 # Anime Endings

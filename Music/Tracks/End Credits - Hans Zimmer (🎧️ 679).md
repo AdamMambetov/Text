@@ -8,7 +8,7 @@ Album: "[[Pirates of the Caribbean: On Stranger Tides]]"
 CoverOf: ""
 Creators:
   - "[[Hans Zimmer (🎙️ 326)]]"
-ListenInSec: 3
+ListenInSec: 122
 NumberInAlbum: 11
 related: []
 source: ""

@@ -2,9 +2,6 @@
 created: 2025-11-19T22:00:06+03:00
 aliases:
   - "Monoral"
-ListenInSec: 753
+ListenInSec: 1262
 ---
-
-# Monoral
-
 

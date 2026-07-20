@@ -8,7 +8,7 @@ Album: "[[The King or Me - EP]]"
 CoverOf: ""
 Creators:
   - "[[Vanattica (🎙️ 476)]]"
-ListenInSec: 2
+ListenInSec: 222
 NumberInAlbum: 0
 related: []
 source: ""

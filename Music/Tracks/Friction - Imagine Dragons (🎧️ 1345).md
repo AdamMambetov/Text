@@ -8,7 +8,7 @@ Album: "[[Smoke + Mirrors]]"
 CoverOf: ""
 Creators:
   - "[[Imagine Dragons (🎙️ 334)]]"
-ListenInSec: 2
+ListenInSec: 203
 NumberInAlbum: 7
 related: []
 source: ""

@@ -5,16 +5,12 @@ aliases:
 Cover: "[[Skillet - Comatose.jpg]]"
 Year: 2006
 Album: "[[Comatose]]"
-CoverOf: ""
 Creators:
   - "[[Skillet (🎙️ 440)]]"
-ListenInSec: 2
 NumberInAlbum: 5
 related: []
-source: ""
 SourceFile: "[[Skillet - Comatose.mp3]]"
+ListenInSec: 302
+CoverOf: ""
 ---
 
-# Skillet - Comatose
-
-![[Skillet - Comatose.mp3]]

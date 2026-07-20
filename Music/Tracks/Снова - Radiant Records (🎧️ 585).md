@@ -10,17 +10,13 @@ aliases:
 Cover: "[[Radiant Records - ПЕРЕПУТЬЕ.jpg]]"
 Year: 0
 Album: ""
-CoverOf: "[[ReRe - ASIAN KUNG-FU GENERATION (🎧️ 803)]]"
 Creators:
   - "[[Radiant Records (🎙️ 39)]]"
   - "[[Radiant (🎙️ 40)]]"
-ListenInSec: 3
 NumberInAlbum: 0
 related: []
-source: ""
 SourceFile: "[[Radiant Records - Снова.mp3]]"
+ListenInSec: 229
+CoverOf: "[[ReRe - ASIAN KUNG-FU GENERATION (🎧️ 803)]]"
 ---
 
-# Снова
-
-![[Radiant Records - Снова.mp3]]

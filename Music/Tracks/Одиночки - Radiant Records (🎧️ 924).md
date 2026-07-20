@@ -9,7 +9,7 @@ CoverOf: "[[Alones - Aqua Timez]]"
 Creators:
   - "[[Radiant Records (🎙️ 39)]]"
   - "[[Genji (🎙️ 43)]]"
-ListenInSec: 1
+ListenInSec: 259
 NumberInAlbum: 0
 related: []
 source: ""

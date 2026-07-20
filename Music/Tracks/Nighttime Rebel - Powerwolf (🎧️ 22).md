@@ -8,7 +8,7 @@ Album: "[[The Sacrament of Sin (📀 39)]]"
 CoverOf: ""
 Creators:
   - "[[Powerwolf (🎙️ 418)]]"
-ListenInSec: 2133
+ListenInSec: 2145
 NumberInAlbum: 10
 related: []
 source: ""

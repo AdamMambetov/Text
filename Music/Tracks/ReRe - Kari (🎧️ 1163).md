@@ -8,7 +8,7 @@ Album: "[[Re:Re:]]"
 CoverOf: ""
 Creators:
   - "[[Kari (🎙️ 349)]]"
-ListenInSec: 3
+ListenInSec: 184
 NumberInAlbum: 1
 related: []
 source: ""
@@ -18,3 +18,4 @@ SourceFile: "[[Kari - Re Re.mp3]]"
 # Kari - Re Re
 
 ![[Kari - Re Re.mp3]]
+

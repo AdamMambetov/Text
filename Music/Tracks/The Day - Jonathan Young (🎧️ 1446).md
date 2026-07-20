@@ -7,17 +7,13 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
-CoverOf: "[[The Day - Porno Graffitti (🎧️ 196)]]"
 Creators:
   - "[[Jonathan Young (🎙️ 343)]]"
-ListenInSec: 3
 NumberInAlbum: 0
 related:
   - "[[The Day (TV Size) - Jonathan Young (🎧️ 1447)]]"
-source: ""
 SourceFile: "[[Jonathan Young - The Day.mp3]]"
+ListenInSec: 211
+CoverOf: "[[The Day - Porno Graffitti (🎧️ 196)]]"
 ---
 
-# Jonathan Young - The Day
-
-![[Jonathan Young - The Day.mp3]]

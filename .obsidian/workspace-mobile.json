@@ -25,14 +25,13 @@
             "id": "3a1fa6dd67e273c2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Music/Tracks/NOX LUX - MYTH & ROID (🎧️ 1870).md",
-                "mode": "source",
-                "source": true
+                "file": "Music/tracks.base",
+                "viewName": "Validation"
               },
-              "icon": "lucide-file",
-              "title": "NOX LUX - MYTH & ROID (🎧️ 1870)"
+              "icon": "lucide-table",
+              "title": "tracks"
             }
           }
         ],
@@ -203,6 +202,15 @@
   },
   "active": "3a1fa6dd67e273c2",
   "lastOpenFiles": [
+    "Music/Tracks/Mad Monster (🎧️ 1646).md",
+    "Music/tracks.base",
+    "Music/Tracks/In Time of War (🎧️ 1578).md",
+    "Music/Tracks/Fired up (🎧️ 1558).md",
+    "Music/Tracks/Ame to Kusari (🎧️ 1547).md",
+    "Music/Tracks/The Rubberband Man (🎧️ 1532).md",
+    "Music/Tracks/Sweet Child O' Mine (🎧️ 1535).md",
+    "Music/Tracks/GALNERYUS ⧸ ガルネリウス - A FAR-OFF DISTANCE.md",
+    "Music/Tracks/NOX LUX - MYTH & ROID (🎧️ 1870).md",
     "Music/Tracks/Christopher Tin - Christopher Tin - Baba Yetu (Official Video) feat. Soweto Gospel Choir.md",
     "Music/Tracks/Die, Die My Darling - Metallica (🎧️ 13).md",
     "Note/content/@Адам Мамбетов.md",
@@ -215,7 +223,6 @@
     "Music/Covers/Александр Пушной - Пушной.ru.jpg",
     "Music/Tracks/21 Guns - RADIO TAPOK (🎧️ 1516).md",
     "Music/Tracks/natsuki1023 - 志方あきこ　「片翼の鳥」　歌詞付.md",
-    "Music/tracks.base",
     "Music/Tracks/Rapa - Hadou -Kono Koe- ~guitar vocal ver.~ (without vocal) - Umineko Arrange Album ＂Akoustika IV＂.md",
     "Music/Tracks/Rapa - Hadou -Kono Koe- ~guitar vocal ver.~ - Umineko no Naku Koro ni Arrange Album ＂Akoustika IV＂.md",
     "Music/Covers/Eminem - The Eminem Show.jpg",
@@ -232,14 +239,6 @@
     "Music/Albums/ReZero 2 OST 2 (📀 42).md",
     "Music/Tracks/Kanashii Ureshii - Frederic (🎧️ 1472).md",
     "Music/Tracks/DANGANRONPA (🎧️ 1508).md",
-    "Music/Albums/DANGANRONPA V3 OST BLACK (📀 45).md",
-    "Music/Albums/DANGANRONPA V3 OST WHITE  (📀 44).md",
-    "Music/Albums/DANGANRONPA OST (📀 43).md",
-    "Music/Creators/Masafumi Takada (🎙️ 792).md",
-    "Music/Tracks/Kuchizuke (TV Size) - BUCK-TICK (🎧️ 1483).md",
-    "Music/Albums/Shiki OST (📀 1).md",
-    "Music/Tracks/Crimson - Yasuharu Takanashi (🎧️ 1814).md",
-    "Music/Tracks/Dry Lake - Yasuharu Takanashi (🎧️ 1813).md",
     "Text/Note/excalidraw",
     "Text/Note",
     "Text",

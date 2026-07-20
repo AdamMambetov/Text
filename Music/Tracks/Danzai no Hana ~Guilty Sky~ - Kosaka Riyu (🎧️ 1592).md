@@ -7,17 +7,13 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
-CoverOf: ""
 Creators:
   - "[[Kosaka Riyu (🎙️ 703)]]"
-ListenInSec: 1626
 NumberInAlbum: 0
 related:
   - "[[Danzai no Hana ~Guilty Sky~ (TV Size) - Kosaka Riyu]]"
-source: ""
 SourceFile: "[[Kosaka Riyu - Danzai no Hana ~Guilty Sky~.mp3]]"
+ListenInSec: 1886
+CoverOf: ""
 ---
 
-# Kosaka Riyu - Danzai no Hana ~Guilty Sky~
-
-![[Kosaka Riyu - Danzai no Hana ~Guilty Sky~.mp3]]

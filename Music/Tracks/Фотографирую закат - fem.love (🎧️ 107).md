@@ -5,16 +5,12 @@ aliases:
 Cover: "[[fem.love - Разбитые сердца.jpg]]"
 Year: 2020
 Album: ""
-CoverOf: ""
 Creators:
   - "[[fem.love (🎙️ 308)]]"
-ListenInSec: 2
 NumberInAlbum: 0
 related: []
-source: ""
 SourceFile: "[[fem.love - Фотографирую закат.mp3]]"
+ListenInSec: 157
+CoverOf: ""
 ---
 
-# fem.love - Фотографирую закат
-
-![[fem.love - Фотографирую закат.mp3]]

@@ -8,7 +8,7 @@ Album: "[[Blasterpiece]]"
 CoverOf: ""
 Creators:
   - "[[Bear Ghost (🎙️ 215)]]"
-ListenInSec: 3
+ListenInSec: 230
 NumberInAlbum: 2
 related: []
 source: ""

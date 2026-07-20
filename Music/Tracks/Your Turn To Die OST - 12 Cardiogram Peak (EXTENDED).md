@@ -5,20 +5,11 @@ aliases:
 Cover: "[[Your Turn To Die OST - 21 Samurai Woman [EXTENDED].jpg]]"
 Year: 0
 Album: ""
-CoverOf: ""
 Creators: []
-ListenInSec: 3082
 NumberInAlbum: 0
 related: []
-source: ""
 SourceFile: "[[Your Turn To Die OST - 12 Cardiogram Peak [EXTENDED].mp3]]"
+ListenInSec: 3505
+CoverOf: ""
 ---
-
-`$=dv.header(1, dv.current().aliases[0])`
-
-![[Your Turn To Die OST - 12 Cardiogram Peak [EXTENDED].mp3]]
-
-## Related Tracks
-
-![[related tracks.base]]
 

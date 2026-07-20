@@ -8,7 +8,7 @@ Album: "[[Enemy]]"
 CoverOf: "[[Enemy - Imagine Dragons (🎧️ 1297)]]"
 Creators:
   - "[[Bardcore (🎙️ 211)]]"
-ListenInSec: 2
+ListenInSec: 140
 NumberInAlbum: 1
 related: []
 source: ""

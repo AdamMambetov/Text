@@ -6,21 +6,12 @@ aliases:
 Cover: "[[Casey Edwards - Devil May Cry 5 OST.jpg]]"
 Year: 0
 Album: ""
-CoverOf: ""
 Creators:
   - "[[Casey Edwards (🎙️ 793)]]"
-ListenInSec: 2780
 NumberInAlbum: 0
 related: []
-source: ""
 SourceFile: "[[Casey Edwards - Devil Trigger - Nero's battle theme from Devil May Cry 5 [OFFICIAL AUDIO].mp3]]"
+ListenInSec: 3178
+CoverOf: ""
 ---
-
-`$=dv.header(1, dv.current().aliases[0])`
-
-![[Casey Edwards - Devil Trigger - Nero's battle theme from Devil May Cry 5 [OFFICIAL AUDIO].mp3]]
-
-## Related Tracks
-
-![[related tracks.base]]
 

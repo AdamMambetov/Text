@@ -8,7 +8,7 @@ Album: "[[Rise]]"
 CoverOf: ""
 Creators:
   - "[[Skillet (🎙️ 440)]]"
-ListenInSec: 3
+ListenInSec: 184
 NumberInAlbum: 5
 related: []
 source: ""

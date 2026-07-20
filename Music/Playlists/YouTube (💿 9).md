@@ -263,6 +263,11 @@ tracklist:
   - "[[Rapa - you (from： Higurashi no Naku Koro ni) - Naku Naku Solo Guitar]]"
   - "[[Rapa - l&d-circulation 〜guitar inst ver.〜 - Umineko no Naku Koro ni Arrange Album ＂Akoustika VII＂]]"
   - "[[Rapa - rainy-report 〜piano guitar vocal ver.〜 - Umineko no Naku Koro ni Arrange Album ＂Akoustika IX＂]]"
+  - "[[My Folk's Place - Packtion (🎧️ 1388)]]"
+  - "[[Воха и Лёха - Сметана Band (🎧️ 913)]]"
+  - "[[Colors of the Heart - Jackie-O (🎧️ 768)]]"
+  - "[[Пробил час - RADIO TAPOK (🎧️ 1463)]]"
+  - "[[ReRe - Kari (🎧️ 1163)]]"
 ---
 
 # YouTube

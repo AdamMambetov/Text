@@ -5,16 +5,12 @@ aliases:
 Cover: "[[Milkdrop - No More.jpg]]"
 Year: 2017
 Album: "[[No More [2017] {Milkdrop}]]"
-CoverOf: ""
 Creators:
   - "[[Milkdrop (🎙️ 544)]]"
-ListenInSec: 2
 NumberInAlbum: 1
 related: []
-source:
 SourceFile: "[[Milkdrop - No More.mp3]]"
+ListenInSec: 177
+CoverOf: ""
 ---
 
-# Milkdrop - No More
-
-![[Milkdrop - No More.mp3]]

@@ -10,7 +10,7 @@ Creators:
   - "[[Lil Wayne (🎙️ 551)]]"
   - "[[Ty Dolla $ign (🎙️ 552)]]"
   - "[[XXXTentacion (🎙️ 553)]]"
-ListenInSec: 2
+ListenInSec: 26
 NumberInAlbum: 11
 related: []
 source:

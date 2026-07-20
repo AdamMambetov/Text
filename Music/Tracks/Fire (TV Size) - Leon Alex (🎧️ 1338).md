@@ -10,7 +10,7 @@ Album: "[[Anime & Movie Soundtracks]]"
 CoverOf: "[[Fire (TV Size) - Kaen (🎧️ 1746)]]"
 Creators:
   - "[[Leon Alex (🎙️ 361)]]"
-ListenInSec: 3
+ListenInSec: 97
 NumberInAlbum: 1
 related: []
 source: ""

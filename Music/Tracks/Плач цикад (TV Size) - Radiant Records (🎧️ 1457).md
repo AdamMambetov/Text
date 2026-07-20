@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Radiant Records (🎙️ 39)]]"
-ListenInSec: 3
+ListenInSec: 92
 NumberInAlbum: 0
 related: []
 source: ""

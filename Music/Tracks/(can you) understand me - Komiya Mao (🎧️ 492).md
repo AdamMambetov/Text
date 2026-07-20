@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Komiya Mao (🎙️ 620)]]"
-ListenInSec: 266
+ListenInSec: 272
 NumberInAlbum: 0
 related: []
 source: ""

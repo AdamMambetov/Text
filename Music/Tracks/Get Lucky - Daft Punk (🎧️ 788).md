@@ -8,7 +8,7 @@ Album: "[[Random Access Memories]]"
 CoverOf: ""
 Creators:
   - "[[Daft Punk (🎙️ 274)]]"
-ListenInSec: 2
+ListenInSec: 250
 NumberInAlbum: 8
 related: []
 source: ""

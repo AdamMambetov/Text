@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Ryan Star (🎙️ 528)]]"
-ListenInSec: 1
+ListenInSec: 200
 NumberInAlbum: 0
 related: []
 source: ""

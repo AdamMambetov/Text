@@ -8,7 +8,7 @@ Album: "[[Saturday Night Fever]]"
 CoverOf: ""
 Creators:
   - "[[Bee Gees (🎙️ 218)]]"
-ListenInSec: 2
+ListenInSec: 287
 NumberInAlbum: 1
 related: []
 source: ""

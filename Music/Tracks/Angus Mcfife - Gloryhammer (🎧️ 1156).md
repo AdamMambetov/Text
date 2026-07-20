@@ -8,7 +8,7 @@ Album: "[[Tales from the Kingdom of Fife]]"
 CoverOf: ""
 Creators:
   - "[[Gloryhammer (🎙️ 316)]]"
-ListenInSec: 3
+ListenInSec: 15
 NumberInAlbum: 3
 related: []
 source: ""

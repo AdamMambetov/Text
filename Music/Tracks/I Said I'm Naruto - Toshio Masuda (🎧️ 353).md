@@ -8,7 +8,7 @@ Album: "[[Naruto OST 1 (📀 15)]]"
 CoverOf: ""
 Creators:
   - "[[Toshio Masuda (🎙️ 559)]]"
-ListenInSec: 105
+ListenInSec: 113
 NumberInAlbum: 2
 related: []
 source:

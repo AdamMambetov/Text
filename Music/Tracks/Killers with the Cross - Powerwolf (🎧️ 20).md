@@ -5,16 +5,12 @@ aliases:
 Cover: "[[Powerwolf - The Sacrament of Sin.jpg]]"
 Year: 2018
 Album: "[[The Sacrament of Sin (📀 39)]]"
-CoverOf: ""
 Creators:
   - "[[Powerwolf (🎙️ 418)]]"
-ListenInSec: 5
 NumberInAlbum: 3
 related: []
-source: ""
 SourceFile: "[[Powerwolf - Killers with the Cross.mp3]]"
+ListenInSec: 3488
+CoverOf: ""
 ---
 
-# Powerwolf - Killers with the Cross
-
-![[Powerwolf - Killers with the Cross.mp3]]

@@ -1541,6 +1541,13 @@ tracklist:
   - "[[Rapa - About Face - Naku Naku Solo Guitar 2]]"
   - "[[InstrumentManiac - Persona 5 - Beneath the Mask]]"
   - "[[Rapa - l&d-circulation 〜guitar inst ver.〜 - Umineko no Naku Koro ni Arrange Album ＂Akoustika VII＂]]"
+  - "[[GALNERYUS ⧸ ガルネリウス - A FAR-OFF DISTANCE]]"
+  - "[[RevolutionLetsPlayGER - Rainbow： Nisha Rokubou no Shichinin Ending ＂A Far-Off Distance＂ (720pHD)]]"
+  - "[[DanTheMan 2150AD - Rainbow： Nisha Rokubō no Shichinin OP (HD) + Lyrics]]"
+  - "[[Konomi Suzuki Official, 「Re： - 鈴木このみ feat. Ashnikko「Recollect」MV（TVアニメ『Re：ゼロから始める異世界生活』4th season OPテーマ）]]"
+  - "[[「Re：ゼロから始める異 - 【リゼロ】4th seasonノンクレジットエンディング映像│「Ender Ember」MYTH & ROID feat. TK（凛として時雨）]]"
+  - "[[「Re：ゼロから始める異 - 【リゼロ】4th seasonノンクレジットオープニング映像│「Recollect」鈴木このみ feat. Ashnikko]]"
+  - "[[X0Mariex0X - Openig 1 Kenichi  Ver.. 3]]"
 ---
 
 # Favorites

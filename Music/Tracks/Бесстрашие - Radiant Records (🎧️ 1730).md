@@ -14,7 +14,7 @@ Creators:
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Radiant Records - Бесстрашие.mp3]]"
-ListenInSec: 6838
+ListenInSec: 7208
 CoverOf: "[[Bravely You - Lia (🎧️ 1753)]]"
 ---
 

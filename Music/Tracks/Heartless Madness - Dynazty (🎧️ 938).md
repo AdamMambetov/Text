@@ -7,7 +7,7 @@ Year: 2020
 Album: "[[The Dark Delight]]"
 CoverOf: ""
 Creators: []
-ListenInSec: 2
+ListenInSec: 241
 NumberInAlbum: 6
 related: []
 source: ""

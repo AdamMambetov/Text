@@ -14,7 +14,7 @@ Creators:
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Radiant Records - Птичья песнь.mp3]]"
-ListenInSec: 12313
+ListenInSec: 12553
 CoverOf: "[[Tori no Uta - Lia (🎧️ 1750)]]"
 ---
 

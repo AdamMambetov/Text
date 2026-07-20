@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Kumiko Noma (🎙️ 356)]]"
-ListenInSec: 1350
+ListenInSec: 1576
 NumberInAlbum: 0
 related:
   - "[[Lilium (TV Size) - Kumiko Noma]]"

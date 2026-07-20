@@ -6,7 +6,7 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators: []
-ListenInSec: 7
+ListenInSec: 72
 NumberInAlbum: 1
 related: []
 source: ""

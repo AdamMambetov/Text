@@ -8,7 +8,7 @@ Album: "[[Surfers Paradise]]"
 CoverOf: ""
 Creators:
   - "[[Cody Simpson (🎙️ 266)]]"
-ListenInSec: 1
+ListenInSec: 197
 NumberInAlbum: 1
 related: []
 source: ""

@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Poppin'Party (🎙️ 602)]]"
-ListenInSec: 3
+ListenInSec: 109
 NumberInAlbum: 1
 related: []
 source: ""

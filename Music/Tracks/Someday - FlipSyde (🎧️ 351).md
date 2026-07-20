@@ -8,7 +8,7 @@ Album: "[[We The People]]"
 CoverOf: ""
 Creators:
   - "[[FlipSyde (🎙️ 558)]]"
-ListenInSec: 2
+ListenInSec: 16
 NumberInAlbum: 1
 related: []
 source:

@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Meg & Dia (🎙️ 598)]]"
-ListenInSec: 3
+ListenInSec: 130
 NumberInAlbum: 0
 related: []
 source: ""

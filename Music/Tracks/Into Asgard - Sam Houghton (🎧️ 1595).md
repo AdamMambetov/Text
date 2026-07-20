@@ -5,17 +5,13 @@ aliases:
 Cover: "[[BPM OST.jpg]]"
 Year: 2020
 Album: "[[BPM OST (📀 40)]]"
-CoverOf: ""
 Creators:
   - "[[Sam Houghton (🎙️ 675)]]"
   - "[[Joe Collinson (🎙️ 676)]]"
-ListenInSec: 4104
 NumberInAlbum: 8
 related: []
-source: ""
 SourceFile: "[[BPM OST - 01 Into Asgard.mp3]]"
+ListenInSec: 4442
+CoverOf: ""
 ---
 
-# BPM OST - 08 Into Asgard
-
-![[BPM OST - 01 Into Asgard.mp3]]

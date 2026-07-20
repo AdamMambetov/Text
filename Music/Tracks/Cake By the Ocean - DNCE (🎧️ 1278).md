@@ -8,7 +8,7 @@ Album: "[[DNCE]]"
 CoverOf: ""
 Creators:
   - "[[DNCE (🎙️ 291)]]"
-ListenInSec: 1
+ListenInSec: 220
 NumberInAlbum: 1
 related: []
 source: ""

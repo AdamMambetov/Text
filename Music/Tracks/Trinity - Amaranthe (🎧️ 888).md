@@ -8,7 +8,7 @@ Album: "[[Massive Addictive]]"
 CoverOf: ""
 Creators:
   - "[[Amaranthe (🎙️ 174)]]"
-ListenInSec: 2
+ListenInSec: 193
 NumberInAlbum: 3
 related: []
 source: ""
@@ -18,3 +18,4 @@ SourceFile: "[[Amaranthe - Trinity.mp3]]"
 # Amaranthe - Trinity
 
 ![[Amaranthe - Trinity.mp3]]
+

@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Our Last Night (🎙️ 493)]]"
-ListenInSec: 2
+ListenInSec: 160
 NumberInAlbum: 0
 related: []
 source: ""

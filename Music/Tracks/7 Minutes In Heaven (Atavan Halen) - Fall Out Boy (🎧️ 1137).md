@@ -8,7 +8,7 @@ Album: "[[From Under the Cork Tree]]"
 CoverOf: ""
 Creators:
   - "[[Fall Out Boy (🎙️ 306)]]"
-ListenInSec: 3
+ListenInSec: 179
 NumberInAlbum: 7
 related: []
 source: ""

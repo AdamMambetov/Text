@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Depeche Mode (🎙️ 283)]]"
-ListenInSec: 2
+ListenInSec: 229
 NumberInAlbum: 0
 related: []
 source: ""

@@ -5,16 +5,12 @@ aliases:
 Cover: "[[Reach - The Promise of a Life.jpg]]"
 Year: 0
 Album: ""
-CoverOf: ""
 Creators:
   - "[[Reach (🎙️ 425)]]"
-ListenInSec: 3
 NumberInAlbum: 1
 related: []
-source: ""
 SourceFile: "[[Reach - Motherland.mp3]]"
+ListenInSec: 250
+CoverOf: ""
 ---
 
-# Reach - Motherland
-
-![[Reach - Motherland.mp3]]

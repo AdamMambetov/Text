@@ -8,7 +8,7 @@ Album: "[[Era]]"
 CoverOf: ""
 Creators:
   - "[[Era (🎙️ 302)]]"
-ListenInSec: 1
+ListenInSec: 4
 NumberInAlbum: 1
 related: []
 source: ""

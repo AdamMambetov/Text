@@ -9,7 +9,7 @@ CoverOf: ""
 Creators:
   - "[[Yunomi (🎙️ 584)]]"
   - "[[nicamoq (🎙️ 585)]]"
-ListenInSec: 3
+ListenInSec: 18
 NumberInAlbum: 0
 related: []
 source: ""

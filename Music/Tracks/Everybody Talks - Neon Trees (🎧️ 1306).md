@@ -8,7 +8,7 @@ Album: "[[Picture Show]]"
 CoverOf: ""
 Creators:
   - "[[Neon Trees (🎙️ 758)]]"
-ListenInSec: 2
+ListenInSec: 179
 NumberInAlbum: 3
 related: []
 source: ""

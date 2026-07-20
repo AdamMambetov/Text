@@ -8,7 +8,7 @@ Album: "[[Barrier Break]]"
 CoverOf: ""
 Creators:
   - "[[Dieselboy (🎙️ 284)]]"
-ListenInSec: 2
+ListenInSec: 34
 NumberInAlbum: 1
 related: []
 source: ""

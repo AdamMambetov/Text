@@ -12,7 +12,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Haruka Tomatsu (🎙️ 687)]]"
-ListenInSec: 1508
+ListenInSec: 1760
 NumberInAlbum: 0
 related:
   - "[[Courage (TV Size) - Haruka Tomatsu (🎧️ 1698)]]"

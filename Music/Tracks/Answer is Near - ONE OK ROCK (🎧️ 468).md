@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[ONE OK ROCK (🎙️ 400)]]"
-ListenInSec: 3
+ListenInSec: 221
 NumberInAlbum: 0
 related: []
 source: ""

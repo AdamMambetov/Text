@@ -5,16 +5,12 @@ aliases:
 Cover: "[[9mm Parabellum Bullet - Heart ni Hi wo Tsukete.jpg]]"
 Year: 2012
 Album: "[[Heart ni Hi wo Tsukete]]"
-CoverOf: ""
 Creators:
   - "[[9mm Parabellum Bullet (🎙️ 76)]]"
-ListenInSec: 3
 NumberInAlbum: 1
 related: []
-source: ""
 SourceFile: "[[9mm Parabellum Bullet - Heart ni Hi wo Tsukete.mp3]]"
+ListenInSec: 244
+CoverOf: ""
 ---
 
-# 9mm Parabellum Bullet - Heart ni Hi wo Tsukete
-
-![[9mm Parabellum Bullet - Heart ni Hi wo Tsukete.mp3]]

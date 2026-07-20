@@ -8,7 +8,7 @@ Album: ""
 CoverOf: "[[Personal Jesus - Depeche Mode (🎧️ 731)]]"
 Creators:
   - "[[RADIO TAPOK (🎙️ 421)]]"
-ListenInSec: 2
+ListenInSec: 206
 NumberInAlbum: 0
 related: []
 source: ""

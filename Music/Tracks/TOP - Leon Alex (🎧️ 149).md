@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Leon Alex (🎙️ 361)]]"
-ListenInSec: 1
+ListenInSec: 33
 NumberInAlbum: 0
 related: []
 source: ""

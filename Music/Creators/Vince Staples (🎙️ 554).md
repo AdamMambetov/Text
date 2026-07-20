@@ -2,7 +2,7 @@
 created: 2026-01-24T14:29:46+03:00
 aliases:
   - "Vince Staples"
-ListenInSec: 0
+ListenInSec: 53
 ---
 
 # Vince Staples

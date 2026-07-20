@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Set It Off (🎙️ 436)]]"
-ListenInSec: 1
+ListenInSec: 200
 NumberInAlbum: 0
 related: []
 source: ""

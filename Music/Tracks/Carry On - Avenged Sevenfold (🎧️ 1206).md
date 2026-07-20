@@ -8,7 +8,7 @@ Album: "[[Black Reign - EP]]"
 CoverOf: ""
 Creators:
   - "[[Avenged Sevenfold (🎙️ 201)]]"
-ListenInSec: 2
+ListenInSec: 256
 NumberInAlbum: 2
 related: []
 source: ""

@@ -8,7 +8,7 @@ Album: "[[Maximalism]]"
 CoverOf: ""
 Creators:
   - "[[Amaranthe (🎙️ 174)]]"
-ListenInSec: 2
+ListenInSec: 8
 NumberInAlbum: 2
 related: []
 source: ""

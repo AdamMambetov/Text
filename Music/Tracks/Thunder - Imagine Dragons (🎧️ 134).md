@@ -5,16 +5,12 @@ aliases:
 Cover: "[[Imagine Dragons - Evolve.jpg]]"
 Year: 2017
 Album: ""
-CoverOf: ""
 Creators:
   - "[[Imagine Dragons (🎙️ 334)]]"
-ListenInSec: 1
 NumberInAlbum: 0
 related: []
-source: ""
 SourceFile: "[[Imagine Dragons - Thunder.mp3]]"
+ListenInSec: 187
+CoverOf: ""
 ---
 
-# Imagine Dragons - Thunder
-
-![[Imagine Dragons - Thunder.mp3]]

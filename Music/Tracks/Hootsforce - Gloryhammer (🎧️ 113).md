@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Gloryhammer (🎙️ 316)]]"
-ListenInSec: 2
+ListenInSec: 48
 NumberInAlbum: 0
 related: []
 source: ""

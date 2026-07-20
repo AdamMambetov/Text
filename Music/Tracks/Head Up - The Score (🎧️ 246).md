@@ -8,7 +8,7 @@ Album: "[[Metamorph [2022] {The Score}]]"
 CoverOf: ""
 Creators:
   - "[[The Score (🎙️ 463)]]"
-ListenInSec: 1
+ListenInSec: 170
 NumberInAlbum: 2
 related: []
 source: ""

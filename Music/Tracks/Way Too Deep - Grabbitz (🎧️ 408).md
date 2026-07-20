@@ -8,7 +8,7 @@ Album: "[[Monstercat 022 - Contact]]"
 CoverOf: ""
 Creators:
   - "[[Grabbitz (🎙️ 568)]]"
-ListenInSec: 1361
+ListenInSec: 1702
 NumberInAlbum: 23
 related: []
 source:

@@ -8,7 +8,7 @@ Album: "[[Take Over [2020] {League of Legends; Jeremy McKinnon; MAX; Henry}]]"
 CoverOf: ""
 Creators:
   - "[[League of Legends (🎙️ 73)]]"
-ListenInSec: 2
+ListenInSec: 213
 NumberInAlbum: 1
 related: []
 source: ""

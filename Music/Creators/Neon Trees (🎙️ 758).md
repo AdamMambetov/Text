@@ -2,11 +2,6 @@
 created: 2026-07-08T10:04:26+03:00
 aliases:
   - "Neon Trees"
-ListenInSec: 0
+ListenInSec: 179
 ---
 
-# Neon Trees
-
-## Tracklist
-
-![[tracklist.base]]

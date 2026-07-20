@@ -7,7 +7,7 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators: []
-ListenInSec: 816
+ListenInSec: 931
 NumberInAlbum: 0
 related:
   - "[[Linked Horizon - Jiyuu no Tsubasa (TV Size)]]"

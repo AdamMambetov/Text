@@ -8,7 +8,7 @@ Album: "[[Epica vs. Attack on Titan Songs [2017] {Epica}]]"
 CoverOf: ""
 Creators:
   - "[[Epica (🎙️ 294)]]"
-ListenInSec: 2
+ListenInSec: 332
 NumberInAlbum: 2
 related: []
 source: ""

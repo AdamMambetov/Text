@@ -7,7 +7,7 @@ Year: 2021
 Album: "[[Rotten Apples (Original Animation Soundtrack)]]"
 CoverOf: ""
 Creators: []
-ListenInSec: 1
+ListenInSec: 91
 NumberInAlbum: 1
 related: []
 source: ""

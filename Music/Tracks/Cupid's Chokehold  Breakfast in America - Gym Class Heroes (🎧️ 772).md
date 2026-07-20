@@ -8,7 +8,7 @@ Album: "[[The Papercut Chronicles]]"
 CoverOf: ""
 Creators:
   - "[[Gym Class Heroes (🎙️ 324)]]"
-ListenInSec: 3
+ListenInSec: 8
 NumberInAlbum: 10
 related: []
 source: ""

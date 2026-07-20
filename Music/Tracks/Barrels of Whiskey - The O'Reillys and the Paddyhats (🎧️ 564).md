@@ -8,7 +8,7 @@ Album: "[[Seven Hearts One Soul]]"
 CoverOf: ""
 Creators:
   - "[[The O'Reillys and the Paddyhats (🎙️ 643)]]"
-ListenInSec: 2
+ListenInSec: 238
 NumberInAlbum: 6
 related: []
 source: ""

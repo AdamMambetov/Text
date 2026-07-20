@@ -8,7 +8,7 @@ Album: "[[Шёпот в темноте]]"
 CoverOf: ""
 Creators:
   - "[[Everblack Melodies (🎙️ 305)]]"
-ListenInSec: 3
+ListenInSec: 210
 NumberInAlbum: 1
 related: []
 source: ""

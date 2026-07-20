@@ -9,7 +9,7 @@ Album: ""
 CoverOf: "[[Fukashigi no Carte - Asami Seto (🎧️ 1774)]]"
 Creators:
   - "[[Onsa Media (🎙️ 402)]]"
-ListenInSec: 1
+ListenInSec: 255
 NumberInAlbum: 1
 related: []
 source: ""

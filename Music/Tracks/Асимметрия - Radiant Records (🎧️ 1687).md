@@ -10,7 +10,7 @@ CoverOf: "[[Asymmetry - Yui Horie]]"
 Creators:
   - "[[Radiant Records (🎙️ 39)]]"
   - "[[Lilaria (🎙️ 54)]]"
-ListenInSec: 1344
+ListenInSec: 1345
 NumberInAlbum: 0
 related: []
 source: ""

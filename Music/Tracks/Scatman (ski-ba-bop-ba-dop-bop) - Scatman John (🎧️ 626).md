@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Scatman John (🎙️ 434)]]"
-ListenInSec: 1663
+ListenInSec: 1878
 NumberInAlbum: 0
 related: []
 source: ""

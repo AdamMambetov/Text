@@ -8,7 +8,7 @@ Album: "[[Deafening [2021] {Solence}]]"
 CoverOf: ""
 Creators:
   - "[[Solence (🎙️ 443)]]"
-ListenInSec: 2
+ListenInSec: 203
 NumberInAlbum: 1
 related: []
 source: ""

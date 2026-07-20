@@ -8,7 +8,7 @@ Album: "[[Saints of the Sinners [2018] {The Faim}]]"
 CoverOf: ""
 Creators:
   - "[[The Faim (🎙️ 537)]]"
-ListenInSec: 2
+ListenInSec: 184
 NumberInAlbum: 1
 related: []
 source:

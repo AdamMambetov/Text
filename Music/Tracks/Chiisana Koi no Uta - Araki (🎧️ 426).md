@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Araki (🎙️ 187)]]"
-ListenInSec: 3
+ListenInSec: 233
 NumberInAlbum: 0
 related: []
 source: ""

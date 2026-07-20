@@ -5,16 +5,12 @@ aliases:
 Cover: "[[Three Days Grace - One-X.jpg]]"
 Year: 2006
 Album: ""
-CoverOf: ""
 Creators:
   - "[[Three Days Grace (🎙️ 469)]]"
-ListenInSec: 2
 NumberInAlbum: 0
 related: []
-source: ""
 SourceFile: "[[Three Days Grace - Time of Dying.mp3]]"
+ListenInSec: 184
+CoverOf: ""
 ---
 
-# Three Days Grace - Time of Dying
-
-![[Three Days Grace - Time of Dying.mp3]]

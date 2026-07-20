@@ -8,7 +8,7 @@ Album: "[[Bolt OST (📀 8)]]"
 CoverOf: ""
 Creators:
   - "[[Disney (🎙️ 286)]]"
-ListenInSec: 1
+ListenInSec: 199
 NumberInAlbum: 2
 related:
   - "[[Когда я лаю при луне - Disney (🎧️ 729)]]"

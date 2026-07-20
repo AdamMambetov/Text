@@ -8,7 +8,7 @@ Album: "[[Wild Ones]]"
 CoverOf: ""
 Creators:
   - "[[Flo Rida (🎙️ 310)]]"
-ListenInSec: 2
+ListenInSec: 106
 NumberInAlbum: 1
 related: []
 source: ""
