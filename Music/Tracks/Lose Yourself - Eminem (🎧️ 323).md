@@ -4,11 +4,11 @@ aliases:
   - "Lose Yourself"
 Cover: "[[Eminem - Lose Yourself.jpg]]"
 Year: 2002
-Album: "[[8 Mile [2002] {Eminem}]]"
+Album: "[[8 Mile OST (📀 2)]]"
 CoverOf: ""
 Creators:
   - "[[Eminem (🎙️ 292)]]"
-ListenInSec: 478
+ListenInSec: 665
 NumberInAlbum: 1
 related: []
 source: ""
@@ -18,3 +18,4 @@ SourceFile: "[[Eminem - Lose Yourself.mp3]]"
 # Eminem - Lose Yourself
 
 ![[Eminem - Lose Yourself.mp3]]
+]]

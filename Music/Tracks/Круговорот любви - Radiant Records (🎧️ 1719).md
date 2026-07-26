@@ -8,17 +8,13 @@ aliases:
 Cover: "[[Radiant Records - Летний сон.jpg]]"
 Year: 0
 Album: "[[Летний сон (📀 37)]]"
-CoverOf: "[[Renai Circulation - Kana Hanazawa (🎧️ 298)]]"
 Creators:
   - "[[Radiant Records (🎙️ 39)]]"
   - "[[Lilaria (🎙️ 54)]]"
-ListenInSec: 3042
 NumberInAlbum: 0
 related: []
-source: ""
 SourceFile: "[[Radiant Records - Круговорот любви.mp3]]"
+ListenInSec: 3190
+CoverOf: "[[Renai Circulation - Kana Hanazawa (🎧️ 298)]]"
 ---
 
-# Круговорот любви
-
-![[Radiant Records - Круговорот любви.mp3]]

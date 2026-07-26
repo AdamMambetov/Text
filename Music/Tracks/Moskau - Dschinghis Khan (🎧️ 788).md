@@ -7,7 +7,7 @@ Year: 1979
 Album: "[[Dschinghis Khan]]"
 CoverOf: ""
 Creators: []
-ListenInSec: 5
+ListenInSec: 13
 NumberInAlbum: 1
 related: []
 source: ""

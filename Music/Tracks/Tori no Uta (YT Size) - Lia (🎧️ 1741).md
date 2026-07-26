@@ -11,7 +11,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Lia (🎙️ 658)]]"
-ListenInSec: 1855
+ListenInSec: 2047
 NumberInAlbum: 0
 related:
   - "[[Tori no Uta - Lia (🎧️ 1750)]]"

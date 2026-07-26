@@ -5,13 +5,13 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
+CoverOf: ""
 Creators: []
+ListenInSec: 2308
 NumberInAlbum: 0
+related: []
 source: ""
 SourceFile: "[[X0Mariex0X - Openig 1 Kenichi  Ver.. 3.opus]]"
-related: []
-ListenInSec: 2133
-CoverOf: ""
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

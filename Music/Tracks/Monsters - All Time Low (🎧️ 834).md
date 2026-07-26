@@ -9,7 +9,7 @@ CoverOf: ""
 Creators:
   - "[[All Time Low (🎙️ 169)]]"
   - "[[blackbear (🎙️ 225)]]"
-ListenInSec: 5
+ListenInSec: 6
 NumberInAlbum: 7
 related: []
 source: ""

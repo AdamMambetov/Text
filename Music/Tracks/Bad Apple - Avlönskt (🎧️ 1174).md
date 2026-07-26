@@ -5,12 +5,12 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
+CoverOf: "[[Bad Apple - Touhou Project (🎧️ 1718)]]"
 Creators:
   - "[[Avlönskt (🎙️ 1)]]"
+ListenInSec: 4330
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Avlonskt - Bad Apple.mp3]]"
-ListenInSec: 4002
-CoverOf: "[[Bad Apple - Touhou Project (🎧️ 1718)]]"
 ---
 

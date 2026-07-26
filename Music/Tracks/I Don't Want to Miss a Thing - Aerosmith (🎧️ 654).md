@@ -8,7 +8,7 @@ Album: "[[Armageddon OST (📀 4)]]"
 CoverOf: ""
 Creators:
   - "[[Aerosmith (🎙️ 154)]]"
-ListenInSec: 2055
+ListenInSec: 2073
 NumberInAlbum: 0
 related: []
 source: ""

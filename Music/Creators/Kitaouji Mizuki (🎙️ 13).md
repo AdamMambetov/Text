@@ -4,7 +4,7 @@ aliases:
   - "Kitaouji Mizuki"
   - "北大路瑞希"
   - "グラサンねこ"
-ListenInSec: 3264
+ListenInSec: 3648
 ---
 
 # Kitaouji Mizuki

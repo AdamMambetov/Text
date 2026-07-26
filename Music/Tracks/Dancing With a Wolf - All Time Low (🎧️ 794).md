@@ -8,7 +8,7 @@ Album: "[[Future Hearts]]"
 CoverOf: ""
 Creators:
   - "[[All Time Low (🎙️ 169)]]"
-ListenInSec: 6
+ListenInSec: 8
 NumberInAlbum: 11
 related: []
 source: ""

@@ -8,7 +8,7 @@ Album: "[[Vale]]"
 CoverOf: ""
 Creators:
   - "[[Black Veil Brides (🎙️ 224)]]"
-ListenInSec: 6
+ListenInSec: 12
 NumberInAlbum: 7
 related: []
 source: ""

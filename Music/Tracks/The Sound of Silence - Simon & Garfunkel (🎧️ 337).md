@@ -8,7 +8,7 @@ Album: "[[Old Friends]]"
 CoverOf: ""
 Creators:
   - "[[Simon & Garfunkel (🎙️ 549)]]"
-ListenInSec: 4
+ListenInSec: 272
 NumberInAlbum: 14
 related: []
 source:

@@ -8,7 +8,7 @@ Album: "[[All Time Best]]"
 CoverOf: ""
 Creators:
   - "[[UVERworld (🎙️ 475)]]"
-ListenInSec: 8
+ListenInSec: 260
 NumberInAlbum: 2
 related: []
 source: ""
@@ -18,3 +18,4 @@ SourceFile: "[[UVERworld - Fight for Liberty.mp3]]"
 # UVERworld - Fight for Liberty
 
 ![[UVERworld - Fight for Liberty.mp3]]
+

@@ -8,7 +8,7 @@ Album: "[[The Sacrament of Sin (📀 39)]]"
 CoverOf: ""
 Creators:
   - "[[Epica (🎙️ 294)]]"
-ListenInSec: 3
+ListenInSec: 305
 NumberInAlbum: 0
 related: []
 source: ""

@@ -8,7 +8,7 @@ Album: "[[El Disco de Tu Corazón]]"
 CoverOf: ""
 Creators:
   - "[[Miranda! (🎙️ 646)]]"
-ListenInSec: 6
+ListenInSec: 11
 NumberInAlbum: 1
 related: []
 source: ""

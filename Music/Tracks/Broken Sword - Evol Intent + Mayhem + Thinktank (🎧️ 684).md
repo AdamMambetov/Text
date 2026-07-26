@@ -7,7 +7,7 @@ Year: 2006
 Album: "[[The Human Resource]]"
 CoverOf: ""
 Creators: []
-ListenInSec: 4
+ListenInSec: 10
 NumberInAlbum: 10
 related: []
 source: ""

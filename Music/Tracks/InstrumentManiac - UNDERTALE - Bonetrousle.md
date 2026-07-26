@@ -5,20 +5,11 @@ aliases:
 Cover: "[[InstrumentManiac - UNDERTALE - Bonetrousle.jpg]]"
 Year: 0
 Album: ""
-CoverOf: ""
 Creators: []
-ListenInSec: 4102
 NumberInAlbum: 0
 related: []
-source: ""
 SourceFile: "[[InstrumentManiac - UNDERTALE - Bonetrousle.mp3]]"
+ListenInSec: 4273
+CoverOf: ""
 ---
-
-`$=dv.header(1, dv.current().aliases[0])`
-
-![[InstrumentManiac - UNDERTALE - Bonetrousle.mp3]]
-
-## Related Tracks
-
-![[related tracks.base]]
 

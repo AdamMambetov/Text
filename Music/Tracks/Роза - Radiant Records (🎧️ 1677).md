@@ -6,19 +6,13 @@ aliases:
 Cover: "[[Radiant Records - Септима.jpg]]"
 Year: 0
 Album: ""
-CoverOf: "[[Rose - Tsuchiya Anna]]"
 Creators:
   - "[[Radiant Records (🎙️ 39)]]"
   - "[[Miaka (🎙️ 55)]]"
-ListenInSec: 1922
 NumberInAlbum: 0
 related: []
-source:
 SourceFile: "[[Radiant Records - Роза.mp3]]"
+ListenInSec: 2146
+CoverOf: "[[Rose - Tsuchiya Anna]]"
 ---
 
-# Роза
-
-![[Radiant Records - Роза.mp3]]
-
-NANA (OP)

@@ -10,7 +10,7 @@ CoverOf: "[[Wareta Ringo - Taneda Risa]]"
 Creators:
   - "[[Radiant Records (🎙️ 39)]]"
   - "[[Nanami (🎙️ 41)]]"
-ListenInSec: 4040
+ListenInSec: 4147
 NumberInAlbum: 0
 related: []
 source: ""

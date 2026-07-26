@@ -9,7 +9,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Slipknot (🎙️ 429)]]"
-ListenInSec: 1773
+ListenInSec: 1788
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Slipknot - Psychosocial.mp3]]"

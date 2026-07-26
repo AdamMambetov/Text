@@ -1,9 +1,9 @@
 ---
 created: 2025-11-19T01:20:06+03:00
 aliases:
-  - "Natsuki_Subaru - Re_-Zero_2nd_Season_OST_-_Disc_1_-_05._New_Maid"
+  - "New Maid"
 Cover: "[[ReZero 2 OST 1.jpg]]"
-Year: 0
+Year: 2020
 Album: ""
 CoverOf: ""
 Creators: []

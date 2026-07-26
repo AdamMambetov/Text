@@ -11,9 +11,10 @@ CoverOf: ""
 Creators:
   - "[[AKINO (🎙️ 160)]]"
   - "[[bless4 (🎙️ 161)]]"
-ListenInSec: 1799
+ListenInSec: 2054
 NumberInAlbum: 0
-related: []
+related:
+  - "[[Extra Magic Hour (TV Size) - AKINO (🎧️ 2217)]]"
 source: ""
 SourceFile: "[[AKINO with bless4 - Extra Magic Hour.mp3]]"
 ---

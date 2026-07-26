@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[KANA-BOON (🎙️ 345)]]"
-ListenInSec: 6
+ListenInSec: 246
 NumberInAlbum: 0
 related:
   - "[[Silhouette (TV Size) - KANA-BOON (🎧️ 1090)]]"

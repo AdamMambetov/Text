@@ -8,14 +8,14 @@ aliases:
 Cover: "[[Radiant Records - ПЕРЕПУТЬЕ.jpg]]"
 Year: 0
 Album: "[[ПЕРЕПУТЬЕ (📀 33)]]"
+CoverOf: "[[Kimi no Shiranai Monogatari - supercell (🎧️ 1653)]]"
 Creators:
   - "[[Radiant Records (🎙️ 39)]]"
   - "[[Felya (🎙️ 58)]]"
   - "[[Miki (🎙️ 64)]]"
+ListenInSec: 4091
 NumberInAlbum: 3
 related: []
 SourceFile: "[[Radiant Records - Неизвестная история.mp3]]"
-ListenInSec: 3645
-CoverOf: "[[Kimi no Shiranai Monogatari - supercell (🎧️ 1653)]]"
 ---
 

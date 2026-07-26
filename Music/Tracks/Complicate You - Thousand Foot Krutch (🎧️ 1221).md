@@ -8,7 +8,7 @@ Album: "[[Thousand Foot Krutch Collection]]"
 CoverOf: ""
 Creators:
   - "[[Thousand Foot Krutch (🎙️ 468)]]"
-ListenInSec: 4
+ListenInSec: 190
 NumberInAlbum: 38
 related: []
 source: ""

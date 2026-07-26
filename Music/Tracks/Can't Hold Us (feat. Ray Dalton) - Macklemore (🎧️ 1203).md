@@ -5,18 +5,14 @@ aliases:
 Cover: "[[Macklemore - The Heist.jpg]]"
 Year: 2011
 Album: "[[The Heist]]"
-CoverOf: ""
 Creators:
   - "[[Macklemore (🎙️ 515)]]"
   - "[[Ryan Lewis (🎙️ 516)]]"
   - "[[Ray Dalton (🎙️ 518)]]"
-ListenInSec: 5
 NumberInAlbum: 2
 related: []
-source:
 SourceFile: "[[Macklemore - Can't Hold Us.mp3]]"
+ListenInSec: 3025
+CoverOf: ""
 ---
 
-# Macklemore - Can't Hold Us
-
-![[Macklemore - Can't Hold Us.mp3]]

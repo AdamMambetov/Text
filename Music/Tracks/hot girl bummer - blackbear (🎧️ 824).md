@@ -8,7 +8,7 @@ Album: "[[everything means nothing]]"
 CoverOf: ""
 Creators:
   - "[[blackbear (🎙️ 225)]]"
-ListenInSec: 6
+ListenInSec: 7
 NumberInAlbum: 1
 related: []
 source: ""

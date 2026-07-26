@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Lynyrd Skynyrd (🎙️ 513)]]"
-ListenInSec: 4
+ListenInSec: 9
 NumberInAlbum: 0
 related: []
 source: ""

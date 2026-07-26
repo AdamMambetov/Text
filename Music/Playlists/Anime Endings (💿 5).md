@@ -1,7 +1,7 @@
 ---
 created: 2025-11-30T23:14:00+03:00
 aliases:
-  - Anime Endings
+  - "Anime Endings"
 tracklist:
   - "[[7 -seven- (TV Size) - FLOW (🎧️ 1633)]]"
   - "[[Kimi no Shiranai Monogatari - supercell (🎧️ 1653)]]"
@@ -17,7 +17,7 @@ tracklist:
   - "[[The Wolf Whistling Song (TV Size) - Ringo Biyori (🎧️ 1512)]]"
   - "[[Яблоки - Алена Беседа (🎧️ 1511)]]"
   - "[[LOST IN PARADISE (TV Size) - ALI (🎧️ 1422)]]"
-  - "[[Ano Hi no mama no Bokura - Sora Amamiya (🎧️ 1391)]]"
+  - "[[Ano Hi no mama no Bokura - Sora Amamiya (🎧️ 1373)]]"
   - "[[HUNTING FOR YOUR DREAM - GALNERYUS (🎧️ 1347)]]"
   - "[[Yofukashi no Uta - Creepy Nuts (🎧️ 1118)]]"
   - "[[Just Awake (TV Size) - Fear and Loathing in Las Vegas (🎧️ 978)]]"
@@ -60,6 +60,8 @@ tracklist:
   - "[[KADOKAWAanime - 【リゼロ】ノンクレジットエンディング映像 ｜ 「NOX LUX」MYTH & ROID]]"
   - "[[Ender Ember - MYTH & ROID (🎧️ 2207)]]"
   - "[[Ender Ember (TV Size) - MYTH & ROID (🎧️ 2205)]]"
+  - "[[Kesenai Tsumi (TV Size) - Nana Kitade (🎧️ 2215)]]"
+  - "[[heeno Mirin feat. Aile The Shota - Kenou (TV Size)]]"
 ---
 
 # Anime Endings

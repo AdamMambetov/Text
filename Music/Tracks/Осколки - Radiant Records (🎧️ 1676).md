@@ -6,13 +6,13 @@ aliases:
 Cover: "[[Radiant Records - Септима.jpg]]"
 Year: 0
 Album: "[[Септима (📀 36)]]"
+CoverOf: "[[Omoide Kakera - DevilishP]]"
 Creators:
   - "[[Radiant Records (🎙️ 39)]]"
   - "[[Tooniegirl (🎙️ 46)]]"
+ListenInSec: 3689
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Radiant Records - Осколки.mp3]]"
-ListenInSec: 3419
-CoverOf: "[[Omoide Kakera - DevilishP]]"
 ---
 

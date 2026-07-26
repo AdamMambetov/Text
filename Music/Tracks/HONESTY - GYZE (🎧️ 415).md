@@ -9,7 +9,7 @@ CoverOf: ""
 Creators:
   - "[[GYZE (🎙️ 325)]]"
   - "[[Ettore Rigotti (🎙️ 742)]]"
-ListenInSec: 2555
+ListenInSec: 2859
 NumberInAlbum: 0
 related: []
 source: ""

@@ -5,11 +5,11 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
+CoverOf: ""
 Creators: []
+ListenInSec: 787
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Kana Yazumi - Be Strong.opus]]"
-ListenInSec: 518
-CoverOf: ""
 ---
 

@@ -6,17 +6,13 @@ aliases:
 Cover: "[[Radiant Records - Солнце.jpg]]"
 Year: 0
 Album: ""
-CoverOf: "[[Wind - Akeboshi (🎧️ 1639)]]"
 Creators:
   - "[[Radiant Records (🎙️ 39)]]"
   - "[[Nibiru (🎙️ 44)]]"
-ListenInSec: 5
 NumberInAlbum: 0
 related: []
-source: ""
 SourceFile: "[[Radiant Records - Ветер.mp3]]"
+ListenInSec: 226
+CoverOf: "[[Wind - Akeboshi (🎧️ 1639)]]"
 ---
 
-# Ветер
-
-![[Radiant Records - Ветер.mp3]]

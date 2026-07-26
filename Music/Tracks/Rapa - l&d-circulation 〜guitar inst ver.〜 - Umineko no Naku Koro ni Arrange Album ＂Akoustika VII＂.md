@@ -5,11 +5,11 @@ aliases:
 Cover: "[[Rapa - Last Note 〜Full piano vocal ver.〜 - Umineko no Naku Koro ni Arrange Album ＂Akoustika VII＂.jpg]]"
 Year: 0
 Album: ""
+CoverOf: ""
 Creators: []
+ListenInSec: 2120
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Rapa - l&d-circulation 〜guitar inst ver.〜 - Umineko no Naku Koro ni Arrange Album ＂Akoustika VII＂.mp3]]"
-ListenInSec: 1855
-CoverOf: ""
 ---
 

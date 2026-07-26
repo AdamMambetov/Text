@@ -9,7 +9,7 @@ CoverOf: ""
 Creators:
   - "[[Eminem (🎙️ 292)]]"
   - "[[Rihanna (🎙️ 656)]]"
-ListenInSec: 3
+ListenInSec: 5
 NumberInAlbum: 0
 related: []
 source: ""

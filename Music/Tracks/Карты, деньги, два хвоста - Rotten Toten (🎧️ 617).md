@@ -5,15 +5,11 @@ aliases:
 Cover: "[[Ужин у вдовы.jpg]]"
 Year: 2019
 Album: "[[Ужин у вдовы]]"
-CoverOf: ""
 Creators: []
-ListenInSec: 8
 NumberInAlbum: 7
 related: []
-source: ""
 SourceFile: "[[Rotten Toten - Карты, деньги, два хвоста.mp3]]"
+ListenInSec: 182
+CoverOf: ""
 ---
 
-# Rotten Toten - Карты, деньги, два хвоста
-
-![[Rotten Toten - Карты, деньги, два хвоста.mp3]]

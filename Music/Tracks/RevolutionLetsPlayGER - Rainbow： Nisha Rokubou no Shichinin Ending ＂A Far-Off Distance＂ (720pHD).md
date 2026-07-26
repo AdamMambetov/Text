@@ -5,13 +5,13 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
+CoverOf: ""
 Creators: []
+ListenInSec: 209
 NumberInAlbum: 0
+related: []
 source: ""
 SourceFile: "[[RevolutionLetsPlayGER - Rainbow： Nisha Rokubou no Shichinin Ending ＂A Far-Off Distance＂ [720pHD].mp3]]"
-related: []
-ListenInSec: 139
-CoverOf: ""
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

@@ -8,7 +8,7 @@ Album: "[[Day of the Dead]]"
 CoverOf: ""
 Creators:
   - "[[Hollywood Undead (🎙️ 330)]]"
-ListenInSec: 8
+ListenInSec: 107
 NumberInAlbum: 3
 related: []
 source: ""

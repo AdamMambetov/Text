@@ -2,9 +2,6 @@
 created: 2025-11-20T00:25:14+03:00
 aliases:
   - "System Of A Down"
-ListenInSec: 1250
+ListenInSec: 2121
 ---
-
-# System Of A Down
-
 

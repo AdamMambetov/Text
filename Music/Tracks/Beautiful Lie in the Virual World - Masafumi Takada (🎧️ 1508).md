@@ -9,7 +9,7 @@ Album: "[[DANGANRONPA V3 OST BLACK (📀 45)]]"
 CoverOf: ""
 Creators:
   - "[[Masafumi Takada (🎙️ 792)]]"
-ListenInSec: 1761
+ListenInSec: 1929
 NumberInAlbum: 46
 related: []
 source: ""

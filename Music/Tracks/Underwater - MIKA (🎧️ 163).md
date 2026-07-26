@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[MIKA (🎙️ 519)]]"
-ListenInSec: 3
+ListenInSec: 27
 NumberInAlbum: 0
 related: []
 source: ""

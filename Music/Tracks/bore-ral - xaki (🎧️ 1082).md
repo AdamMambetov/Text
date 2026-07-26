@@ -5,16 +5,12 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 2007
 Album: "[[Umineko no Naku Koro ni OST (📀 30)]]"
-CoverOf: ""
 Creators:
   - "[[xaki (🎙️ 12)]]"
-ListenInSec: 4799
 NumberInAlbum: 168
 related: []
-source: ""
 SourceFile: "[[Umineko no Naku Koro ni OST - 168 bore-ral.ogg]]"
+ListenInSec: 5845
+CoverOf: ""
 ---
 
-# Umineko no Naku Koro ni OST - 168 bore-ral
-
-![[Umineko no Naku Koro ni OST - 168 bore-ral.ogg]]

@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Touhou Project (🎙️ 37)]]"
-ListenInSec: 2360
+ListenInSec: 2574
 NumberInAlbum: 0
 related: []
 source: https://youtu.be/FtutLA63Cp8?si=RRle_RkfrEbkSec1

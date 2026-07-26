@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Kankaku Piero (🎙️ 710)]]"
-ListenInSec: 5
+ListenInSec: 1061
 NumberInAlbum: 0
 related:
   - "[[Haruka Mirai - Kankaku Piero]]"

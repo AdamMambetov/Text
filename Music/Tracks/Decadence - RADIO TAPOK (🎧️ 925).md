@@ -5,12 +5,12 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 2018
 Album: ""
+CoverOf: "[[Decadence - Disturbed (🎧️ 864)]]"
 Creators:
   - "[[RADIO TAPOK (🎙️ 421)]]"
+ListenInSec: 198
 NumberInAlbum: 0
 related: []
 SourceFile: "[[RADIO TAPOK - Decadence.mp3]]"
-ListenInSec: 198
-CoverOf: "[[Decadence - Disturbed (🎧️ 864)]]"
 ---
 

@@ -8,7 +8,7 @@ Album: "[[Всё очень плохо]]"
 CoverOf: ""
 Creators:
   - "[[Сметана Band (🎙️ 133)]]"
-ListenInSec: 5
+ListenInSec: 208
 NumberInAlbum: 8
 related: []
 source: ""

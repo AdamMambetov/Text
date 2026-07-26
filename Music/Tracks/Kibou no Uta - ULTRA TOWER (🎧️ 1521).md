@@ -9,7 +9,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[ULTRA TOWER (🎙️ 764)]]"
-ListenInSec: 5
+ListenInSec: 2736
 NumberInAlbum: 1
 related:
   - "[[Kibou no Uta (TV Size) - ULTRA TOWER (🎧️ 1522)]]"

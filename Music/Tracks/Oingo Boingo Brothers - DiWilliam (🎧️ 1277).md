@@ -9,7 +9,7 @@ CoverOf: ""
 Creators:
   - "[[DiWilliam (🎙️ 60)]]"
   - "[[Felya (🎙️ 58)]]"
-ListenInSec: 5
+ListenInSec: 95
 NumberInAlbum: 1
 related: []
 source: ""

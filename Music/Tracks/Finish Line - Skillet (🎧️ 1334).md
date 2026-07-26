@@ -8,7 +8,7 @@ Album: "[[Victorious]]"
 CoverOf: ""
 Creators:
   - "[[Skillet (🎙️ 440)]]"
-ListenInSec: 7
+ListenInSec: 10
 NumberInAlbum: 11
 related: []
 source: ""

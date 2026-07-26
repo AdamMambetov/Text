@@ -7,21 +7,12 @@ aliases:
 Cover: "[[Lia - Bravely You.jpg]]"
 Year: 0
 Album: ""
-CoverOf: "[[Bravely You (TV Size) - Lia (🎧️ 1079)]]"
 Creators:
   - "[[Lia (🎙️ 658)]]"
-ListenInSec: 2255
 NumberInAlbum: 0
 related: []
-source: ""
 SourceFile: "[[Lia - Bravely You.mp3]]"
+ListenInSec: 2582
+CoverOf: "[[Bravely You (TV Size) - Lia (🎧️ 1079)]]"
 ---
-
-`$=dv.header(1, dv.current().aliases[0])`
-
-![[Lia - Bravely You.mp3]]
-
-## Related Tracks
-
-![[related tracks.base]]
 

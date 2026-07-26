@@ -5,20 +5,11 @@ aliases:
 Cover: "[[MELO MANIA - Может, знает лес - Любэ, Наталья Княжинская.jpg]]"
 Year: 0
 Album: ""
-CoverOf: ""
 Creators: []
-ListenInSec: 2616
 NumberInAlbum: 0
 related: []
-source: ""
 SourceFile: "[[MELO MANIA - Может, знает лес - Любэ, Наталья Княжинская.mp3]]"
+ListenInSec: 3104
+CoverOf: ""
 ---
-
-`$=dv.header(1, dv.current().aliases[0])`
-
-![[MELO MANIA - Может, знает лес - Любэ, Наталья Княжинская.mp3]]
-
-## Related Tracks
-
-![[related tracks.base]]
 

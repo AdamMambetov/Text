@@ -5,12 +5,12 @@ aliases:
 Cover: "[[Papa Roach - Getting Away With Murder.png]]"
 Year: 2004
 Album: ""
+CoverOf: ""
 Creators:
   - "[[Papa Roach (🎙️ 411)]]"
+ListenInSec: 208
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Papa Roach - Take Me.mp3]]"
-ListenInSec: 208
-CoverOf: ""
 ---
 

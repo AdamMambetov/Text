@@ -10,7 +10,7 @@ Album: ""
 CoverOf: "[[Raison d'etre - NIGHTMARE (🎧️ 1594)]]"
 Creators:
   - "[[Игорь Куликов (🎙️ 71)]]"
-ListenInSec: 1913
+ListenInSec: 2144
 NumberInAlbum: 0
 related: []
 source: ""

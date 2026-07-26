@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Rock (🎙️ 494)]]"
-ListenInSec: 7
+ListenInSec: 242
 NumberInAlbum: 0
 related: []
 source: ""

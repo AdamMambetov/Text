@@ -5,16 +5,12 @@ aliases:
 Cover: "[[Seether - Vicennial. 2 Decades of Seether.jpg]]"
 Year: 2007
 Album: "[[Vicennial: 2 Decades of Seether]]"
-CoverOf: ""
 Creators:
   - "[[Seether (🎙️ 435)]]"
-ListenInSec: 4
 NumberInAlbum: 1
 related: []
-source: ""
 SourceFile: "[[Seether - Fake It.mp3]]"
+ListenInSec: 2204
+CoverOf: ""
 ---
 
-# Seether - Fake It
-
-![[Seether - Fake It.mp3]]

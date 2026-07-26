@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Gemini Syndrome (🎙️ 505)]]"
-ListenInSec: 6
+ListenInSec: 16
 NumberInAlbum: 0
 related: []
 source: ""

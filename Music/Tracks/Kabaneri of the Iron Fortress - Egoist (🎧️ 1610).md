@@ -9,7 +9,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Egoist (🎙️ 763)]]"
-ListenInSec: 2610
+ListenInSec: 2901
 NumberInAlbum: 1
 related: []
 source: ""

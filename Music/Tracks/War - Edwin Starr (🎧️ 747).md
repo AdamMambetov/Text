@@ -8,7 +8,7 @@ Album: "[[War & Peace]]"
 CoverOf: ""
 Creators:
   - "[[Edwin Starr (🎙️ 299)]]"
-ListenInSec: 5
+ListenInSec: 33
 NumberInAlbum: 1
 related: []
 source: ""

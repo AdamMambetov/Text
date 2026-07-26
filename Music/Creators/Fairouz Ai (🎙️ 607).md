@@ -2,11 +2,6 @@
 created: 2026-02-12T11:23:27+03:00
 aliases:
   - "Fairouz Ai"
-ListenInSec: 2084
+ListenInSec: 2212
 ---
 
-# Fairouz Ai
-
-## Tracklist
-
-![[tracklist.base]]

@@ -1,8 +1,8 @@
 ---
 created: 2025-12-01T00:17:00+03:00
 aliases:
-  - Anime Openings
-  - Аниме опенинги
+  - "Anime Openings"
+  - "Аниме опенинги"
 tracklist:
   - "[[99 - Mob Choir (🎧️ 1452)]]"
   - "[[Hotaru no Hikari (TV Size) - Ikimonogakari (🎧️ 1692)]]"
@@ -113,7 +113,7 @@ tracklist:
   - "[[Hacking to the Gate (TV Size) - Itou Kanako (🎧️ 973)]]"
   - "[[Connect (TV Size) - ClariS (🎧️ 1097)]]"
   - "[[Black Catcher (TV Size) - Vickeblanka (🎧️ 976)]]"
-  - "[[JUSTadICE (TV Size) (🎧️ 991)]]"
+  - "[[JUSTadICE (TV Size) - Oomori Seiko (🎧️ 1092)]]"
   - "[[Sora ni Utaeba (TV Size) - amazarashi (🎧️ 1090)]]"
   - "[[asphyxia (TV Size) - Cö Shu Nie (🎧️ 1093)]]"
   - "[[Haruka Mirai (TV Size) - Kankaku Piero (🎧️ 1091)]]"
@@ -268,6 +268,12 @@ tracklist:
   - "[[Recollect (TV Size) - Konomi Suzuki (🎧️ 2204)]]"
   - "[[X0Mariex0X - Openig 1 Kenichi  Ver.. 3]]"
   - "[[Kana Yazumi - Be Strong]]"
+  - "[[Skyreach - Sora Amamiya (🎧️ 2219)]]"
+  - "[[Skyreach (TV Size) - Sora Amamiya (🎧️ 2218)]]"
+  - "[[Extra Magic Hour (TV Size) - AKINO (🎧️ 2217)]]"
+  - "[[Here (TV Size) - JUNNA (🎧️ 2216)]]"
+  - "[[Masatoshi Ono - departure!]]"
+  - "[[Crunchyroll - Hunter X Hunter Opening 1 ｜ Departure!]]"
 ---
 
 # Anime Openings

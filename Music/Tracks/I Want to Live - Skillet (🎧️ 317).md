@@ -5,12 +5,12 @@ aliases:
 Cover: "[[Skillet - Unleashed.jpg]]"
 Year: 2016
 Album: "[[Unleashed [2016] {Skillet}]]"
+CoverOf: ""
 Creators:
   - "[[Skillet (🎙️ 440)]]"
+ListenInSec: 209
 NumberInAlbum: 4
 related: []
 SourceFile: "[[Skillet - I Want to Live.mp3]]"
-ListenInSec: 209
-CoverOf: ""
 ---
 

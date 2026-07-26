@@ -5,13 +5,13 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
+CoverOf: ""
 Creators: []
+ListenInSec: 712
 NumberInAlbum: 0
+related: []
 source: ""
 SourceFile: "[[coldrain - We're not alone.opus]]"
-related: []
-ListenInSec: 476
-CoverOf: ""
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

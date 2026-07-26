@@ -8,7 +8,7 @@ Album: "[[Life Is Good]]"
 CoverOf: ""
 Creators:
   - "[[Григорий Лепс (🎙️ 100)]]"
-ListenInSec: 8
+ListenInSec: 18
 NumberInAlbum: 1
 related: []
 source: ""

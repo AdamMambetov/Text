@@ -11,7 +11,7 @@ Album: ""
 CoverOf: "[[Flyers (TV Size) - BRADIO (🎧️ 1688)]]"
 Creators:
   - "[[Игорь Куликов (🎙️ 71)]]"
-ListenInSec: 8
+ListenInSec: 99
 NumberInAlbum: 0
 related: []
 source: ""

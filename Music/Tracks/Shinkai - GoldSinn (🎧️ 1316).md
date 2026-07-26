@@ -7,7 +7,7 @@ Year: 2004
 Album: "[[Elfen Lied OST]]"
 CoverOf: ""
 Creators: []
-ListenInSec: 6
+ListenInSec: 181
 NumberInAlbum: 1
 related: []
 source: ""

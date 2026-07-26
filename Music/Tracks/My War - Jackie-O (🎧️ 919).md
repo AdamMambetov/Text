@@ -10,7 +10,7 @@ Album: ""
 CoverOf: "[[My War - Shinsei Kamattechan (🎧️ 920)]]"
 Creators:
   - "[[Jackie-O (🎙️ 339)]]"
-ListenInSec: 6
+ListenInSec: 281
 NumberInAlbum: 1
 related: []
 source: ""

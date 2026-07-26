@@ -8,7 +8,7 @@ Album: "[[Alma]]"
 CoverOf: ""
 Creators:
   - "[[Alma Cogan (🎙️ 171)]]"
-ListenInSec: 7
+ListenInSec: 285
 NumberInAlbum: 11
 related: []
 source: ""
@@ -18,3 +18,4 @@ SourceFile: "[[Alma Cogan - Don't You Know Yockomo.mp3]]"
 # Alma Cogan - Don't You Know Yockomo
 
 ![[Alma Cogan - Don't You Know Yockomo.mp3]]
+]

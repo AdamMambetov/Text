@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Everything Fantasy (🎙️ 788)]]"
-ListenInSec: 5
+ListenInSec: 138
 NumberInAlbum: 1
 related: []
 source: "https://youtu.be/cOvwS77Bkgk?si=qcFIX0TSuTMbbSPs"

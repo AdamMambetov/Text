@@ -10,7 +10,7 @@ Album: ""
 CoverOf: "[[aLIEz - Hiroyuki Sawano (🎧️ 1785)]]"
 Creators:
   - "[[Влад Токарев (🎙️ 736)]]"
-ListenInSec: 2261
+ListenInSec: 2525
 NumberInAlbum: 0
 related: []
 source: ""

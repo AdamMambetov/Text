@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Fall Out Boy (🎙️ 306)]]"
-ListenInSec: 6
+ListenInSec: 930
 NumberInAlbum: 0
 related: []
 source: ""

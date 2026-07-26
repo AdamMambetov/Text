@@ -7,7 +7,7 @@ Year: 0
 Album: "[[Death Note OST]]"
 CoverOf: ""
 Creators: []
-ListenInSec: 8
+ListenInSec: 89
 NumberInAlbum: 1
 related: []
 source: ""

@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[KNOWER (🎙️ 352)]]"
-ListenInSec: 2200
+ListenInSec: 2432
 NumberInAlbum: 0
 related: []
 source: ""

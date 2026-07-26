@@ -12,7 +12,6 @@ Creators:
   - "[[Kazuki Kato (🎙️ 739)]]"
 ListenInSec: 1082
 NumberInAlbum: 0
-  - "[[EASY GO (TV Size) - Kazuki Kato (🎧️ 1879)]]"
 related:
   - "[[EASY GO (TV Size) - Kazuki Kato (🎧️ 1879)]]"
 source: ""

@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Rise Against (🎙️ 769)]]"
-ListenInSec: 5
+ListenInSec: 81
 NumberInAlbum: 1
 related: []
 source: ""

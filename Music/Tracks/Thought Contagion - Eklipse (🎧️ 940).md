@@ -7,7 +7,7 @@ Year: 2020
 Album: "[[In Portrait]]"
 CoverOf: ""
 Creators: []
-ListenInSec: 4
+ListenInSec: 220
 NumberInAlbum: 3
 related: []
 source: ""

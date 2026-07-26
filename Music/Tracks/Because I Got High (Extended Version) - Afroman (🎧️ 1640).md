@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Afroman (🎙️ 157)]]"
-ListenInSec: 1941
+ListenInSec: 2251
 NumberInAlbum: 0
 related: []
 source: ""

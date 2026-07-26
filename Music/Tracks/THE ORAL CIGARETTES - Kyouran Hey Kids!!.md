@@ -5,20 +5,11 @@ aliases:
 Cover: "[[THE ORAL CIGARETTES - Kyouran Hey Kids!!.jpg]]"
 Year: 0
 Album: ""
-CoverOf: ""
 Creators: []
-ListenInSec: 2452
 NumberInAlbum: 0
 related: []
-source: ""
 SourceFile: "[[THE ORAL CIGARETTES - Kyouran Hey Kids!!.mp3]]"
+ListenInSec: 2937
+CoverOf: ""
 ---
-
-`$=dv.header(1, dv.current().aliases[0])`
-
-![[THE ORAL CIGARETTES - Kyouran Hey Kids!!.mp3]]
-
-## Related Tracks
-
-![[related tracks.base]]
 

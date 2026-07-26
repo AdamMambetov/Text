@@ -5,16 +5,12 @@ aliases:
 Cover: "[[Sonny Boy OST.jpg]]"
 Year: 2021
 Album: "[[Sonny Boy OST (📀 41)]]"
-CoverOf: ""
 Creators:
   - "[[mitsume (🎙️ 693)]]"
-ListenInSec: 2805
 NumberInAlbum: 12
 related: []
-source: ""
 SourceFile: "[[Sonny Boy OST - Sou and Seiji.mp3]]"
+ListenInSec: 3308
+CoverOf: ""
 ---
 
-# Sonny Boy OST - Sou and Seiji
-
-![[Sonny Boy OST - Sou and Seiji.mp3]]

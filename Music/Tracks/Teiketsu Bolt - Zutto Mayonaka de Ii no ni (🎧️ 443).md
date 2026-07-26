@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Zutto Mayonaka de Ii no ni (🎙️ 577)]]"
-ListenInSec: 5
+ListenInSec: 219
 NumberInAlbum: 0
 related: []
 source: ""

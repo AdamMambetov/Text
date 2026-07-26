@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[batta (🎙️ 744)]]"
-ListenInSec: 4
+ListenInSec: 861
 NumberInAlbum: 0
 related:
   - "[[chase - batta (🎧️ 1520)]]"

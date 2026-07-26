@@ -5,16 +5,12 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 2007
 Album: "[[Umineko no Naku Koro ni OST (📀 30)]]"
-CoverOf: ""
 Creators:
   - "[[Luck Ganriki (🎙️ 4)]]"
-ListenInSec: 686
 NumberInAlbum: 112
 related: []
-source: ""
 SourceFile: "[[Umineko no Naku Koro ni OST - 112 Лазурный смех.ogg]]"
+ListenInSec: 920
+CoverOf: ""
 ---
 
-# Umineko no Naku Koro ni OST - 112 Лазурный смех
-
-![[Umineko no Naku Koro ni OST - 112 Лазурный смех.ogg]]

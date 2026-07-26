@@ -7,7 +7,7 @@ Year: 2014
 Album: "[[Awaken the Fire]]"
 CoverOf: ""
 Creators: []
-ListenInSec: 7
+ListenInSec: 218
 NumberInAlbum: 9
 related: []
 source: ""

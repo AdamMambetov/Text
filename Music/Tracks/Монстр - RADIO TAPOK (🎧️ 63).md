@@ -9,7 +9,7 @@ Album: ""
 CoverOf: "[[Monster - Skillet (🎧️ 320)]]"
 Creators:
   - "[[RADIO TAPOK (🎙️ 421)]]"
-ListenInSec: 3
+ListenInSec: 184
 NumberInAlbum: 0
 related: []
 source: ""

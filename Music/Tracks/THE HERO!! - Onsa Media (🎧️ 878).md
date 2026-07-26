@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Onsa Media (🎙️ 402)]]"
-ListenInSec: 7
+ListenInSec: 28
 NumberInAlbum: 1
 related: []
 source: ""

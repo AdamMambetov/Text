@@ -5,13 +5,13 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
+CoverOf: ""
 Creators: []
+ListenInSec: 207
 NumberInAlbum: 0
+related: []
 source: ""
 SourceFile: "[[DanTheMan 2150AD - Rainbow： Nisha Rokubō no Shichinin OP (HD) + Lyrics.opus]]"
-related: []
-ListenInSec: 138
-CoverOf: ""
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

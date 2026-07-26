@@ -8,7 +8,7 @@ Album: "[[Red Swan]]"
 CoverOf: ""
 Creators:
   - "[[Jackie-O (🎙️ 339)]]"
-ListenInSec: 5
+ListenInSec: 299
 NumberInAlbum: 1
 related: []
 source: ""

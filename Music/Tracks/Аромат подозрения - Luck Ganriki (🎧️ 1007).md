@@ -5,21 +5,13 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 2007
 Album: "[[Umineko no Naku Koro ni OST (📀 30)]]"
-CoverOf: ""
 Creators:
   - "[[Luck Ganriki (🎙️ 4)]]"
-ListenInSec: 1328
 NumberInAlbum: 19
 related:
   - "[[АРОМАТ ПОДОЗРЕНИЯ - Luck Ganriki (🎧️ 1099)]]"
-source: ""
 SourceFile: "[[Umineko no Naku Koro ni OST - 019 Аромат подозрения.ogg]]"
+ListenInSec: 1521
+CoverOf: ""
 ---
 
-# Umineko no Naku Koro ni OST - 019 Аромат подозрения
-
-![[Umineko no Naku Koro ni OST - 019 Аромат подозрения.ogg]]
-
-## Related Tracks
-
-![[related tracks.base]]

@@ -8,7 +8,7 @@ Album: "[[Dark Side]]"
 CoverOf: ""
 Creators:
   - "[[Blind Channel (🎙️ 227)]]"
-ListenInSec: 7
+ListenInSec: 189
 NumberInAlbum: 1
 related: []
 source: ""

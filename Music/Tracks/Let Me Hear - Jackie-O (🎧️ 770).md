@@ -7,16 +7,12 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 2016
 Album: ""
-CoverOf: "[[Let Me Hear - Fear and Loathing in Las Vegas]]"
 Creators:
   - "[[Jackie-O (🎙️ 339)]]"
-ListenInSec: 2301
 NumberInAlbum: 0
 related: []
-source: ""
 SourceFile: "[[Jackie-O - Let Me Hear.m4a]]"
+ListenInSec: 2547
+CoverOf: "[[Let Me Hear - Fear and Loathing in Las Vegas]]"
 ---
 
-# Jackie-O - Let Me Hear
-
-![[Jackie-O - Let Me Hear.m4a]]

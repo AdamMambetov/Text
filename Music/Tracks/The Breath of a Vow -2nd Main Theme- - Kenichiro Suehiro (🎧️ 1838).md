@@ -1,0 +1,25 @@
+---
+created: 2025-11-19T01:15:46+03:00
+aliases:
+  - "The Breath of a Vow -2nd Main Theme-"
+Cover: "[[ReZero 2 OST 1.jpg]]"
+Year: 2020
+Album: ""
+CoverOf: ""
+Creators:
+  - "[[Kenichiro Suehiro (🎙️ 750)]]"
+ListenInSec: 494
+NumberInAlbum: 1
+related: []
+source: ""
+SourceFile: "[[ReZero 2 OST 1 - 01 The Breath of a Vow -2nd Main Theme-.mp3]]"
+---
+
+`$=dv.header(1, dv.current().aliases[0])`
+
+![[ReZero 2 OST 1 - 01 The Breath of a Vow -2nd Main Theme-.mp3]]
+
+## Related Tracks
+
+![[related tracks.base]]
+

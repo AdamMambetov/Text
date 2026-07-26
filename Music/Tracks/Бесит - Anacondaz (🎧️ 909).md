@@ -8,7 +8,7 @@ Album: "[[Байки инсайдера]]"
 CoverOf: ""
 Creators:
   - "[[Anacondaz (🎙️ 179)]]"
-ListenInSec: 7
+ListenInSec: 8
 NumberInAlbum: 6
 related: []
 source: ""

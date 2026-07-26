@@ -5,17 +5,13 @@ aliases:
 Cover: "[[BPM OST.jpg]]"
 Year: 2020
 Album: "[[BPM OST (📀 40)]]"
-CoverOf: ""
 Creators:
   - "[[Sam Houghton (🎙️ 675)]]"
   - "[[Joe Collinson (🎙️ 676)]]"
-ListenInSec: 3600
 NumberInAlbum: 2
 related: []
-source: ""
 SourceFile: "[[BPM OST - 03 The Rhythm King.mp3]]"
+ListenInSec: 3963
+CoverOf: ""
 ---
 
-# BPM OST - 02 The Rhythm King
-
-![[BPM OST - 03 The Rhythm King.mp3]]

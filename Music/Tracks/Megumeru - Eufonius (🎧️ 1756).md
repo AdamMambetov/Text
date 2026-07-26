@@ -7,22 +7,13 @@ aliases:
 Cover: "[[Eufonius - Megumeru.jpg]]"
 Year: 0
 Album: ""
-CoverOf: ""
 Creators:
   - "[[Eufonius (🎙️ 706)]]"
-ListenInSec: 2245
 NumberInAlbum: 0
 related:
   - "[[Megumeru (TV Size) - Eufonius (🎧️ 1754)]]"
-source: ""
 SourceFile: "[[Eufonius - Megumeru.mp3]]"
+ListenInSec: 2526
+CoverOf: ""
 ---
-
-`$=dv.header(1, dv.current().aliases[0])`
-
-![[Eufonius - Megumeru.mp3]]
-
-## Related Tracks
-
-![[related tracks.base]]
 

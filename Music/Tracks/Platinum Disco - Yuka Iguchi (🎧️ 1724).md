@@ -7,21 +7,12 @@ aliases:
 Cover: "[[Yuka Iguchi - Platinum Disco.jpg]]"
 Year: 0
 Album: ""
-CoverOf: ""
 Creators:
   - "[[Yuka Iguchi (🎙️ 674)]]"
-ListenInSec: 1913
 NumberInAlbum: 0
 related: []
-source: ""
 SourceFile: "[[Yuka Iguchi - Platinum Disco.mp3]]"
+ListenInSec: 2169
+CoverOf: ""
 ---
-
-`$=dv.header(1, dv.current().aliases[0])`
-
-![[Yuka Iguchi - Platinum Disco.mp3]]
-
-## Related Tracks
-
-![[related tracks.base]]
 

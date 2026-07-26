@@ -7,7 +7,7 @@ Year: 1973
 Album: "[[The Essential Redbone]]"
 CoverOf: ""
 Creators: []
-ListenInSec: 1808
+ListenInSec: 2014
 NumberInAlbum: 2
 related: []
 source: ""

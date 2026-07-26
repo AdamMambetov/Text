@@ -5,13 +5,13 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
+CoverOf: ""
 Creators: []
+ListenInSec: 372
 NumberInAlbum: 0
+related: []
 source: ""
 SourceFile: "[[Unique Sound - Sia - Chandelier (Lyrics) ＂I'm gonna swing from the chandelier From the chandelier＂.opus]]"
-related: []
-ListenInSec: 156
-CoverOf: ""
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

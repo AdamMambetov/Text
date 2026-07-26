@@ -9,7 +9,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Sakanaction (🎙️ 812)]]"
-ListenInSec: 1890
+ListenInSec: 1980
 NumberInAlbum: 0
 related: []
 source: ""

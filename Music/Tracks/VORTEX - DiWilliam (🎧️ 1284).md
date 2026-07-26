@@ -8,7 +8,7 @@ Album: ""
 CoverOf: "[[VORTEX - JAWS (🎧️ 1548)]]"
 Creators:
   - "[[DiWilliam (🎙️ 60)]]"
-ListenInSec: 4
+ListenInSec: 1081
 NumberInAlbum: 0
 related: []
 source: ""

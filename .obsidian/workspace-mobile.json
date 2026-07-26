@@ -22,20 +22,35 @@
             }
           },
           {
-            "id": "3a1fa6dd67e273c2",
+            "id": "6fb0891b82e2bdc5",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Music/tracks.base",
-                "viewName": "Validation"
+                "file": "Note/PostgreSQL.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "lucide-table",
-              "title": "tracks"
+              "icon": "lucide-file",
+              "title": "PostgreSQL"
+            }
+          },
+          {
+            "id": "f7391b79c506ead4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Music/Albums/Naruto OST 3 (📀 17).md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Naruto OST 3 (📀 17)"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,7 +141,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Music/Tracks/NOX LUX - MYTH & ROID (🎧️ 1870).md",
+            "file": "Music/Tracks/'Till I Collapse - Eminem (🎧️ 1141).md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -200,45 +215,45 @@
       "obsidian-excalidraw-plugin:New drawing": true
     }
   },
-  "active": "3a1fa6dd67e273c2",
+  "active": "f7391b79c506ead4",
   "lastOpenFiles": [
-    "Music/Tracks/Mad Monster (🎧️ 1646).md",
-    "Music/tracks.base",
-    "Music/Tracks/In Time of War (🎧️ 1578).md",
-    "Music/Tracks/Fired up (🎧️ 1558).md",
-    "Music/Tracks/Ame to Kusari (🎧️ 1547).md",
-    "Music/Tracks/The Rubberband Man (🎧️ 1532).md",
-    "Music/Tracks/Sweet Child O' Mine (🎧️ 1535).md",
-    "Music/Tracks/GALNERYUS ⧸ ガルネリウス - A FAR-OFF DISTANCE.md",
-    "Music/Tracks/NOX LUX - MYTH & ROID (🎧️ 1870).md",
-    "Music/Tracks/Christopher Tin - Christopher Tin - Baba Yetu (Official Video) feat. Soweto Gospel Choir.md",
-    "Music/Tracks/Die, Die My Darling - Metallica (🎧️ 13).md",
-    "Note/content/@Адам Мамбетов.md",
-    "Music/Tracks/DEDTALES - LINS (🎧️ 2055).md",
+    "Music/Covers/Nana Kitade - 18 -eighteen-.jpg",
+    "Note/PostgreSQL.md",
     "Music/Tracks/'Till I Collapse - Eminem (🎧️ 1141).md",
-    "Music/Tracks/MILF BOY - LINS (🎧️ 2183).md",
-    "Music/Tracks/СОФИЯ - LINS (🎧️ 2053).md",
-    "Music/Creators/LINS (🎙️ 816).md",
-    "Music/Tracks/Надо радоваться! - Александр Пушной (🎧️ 2123).md",
+    "Music/Playlists/Anime (💿 3).md",
+    "Music/Tracks/Ano Hi no mama no Bokura - Sora Amamiya (🎧️ 1373).md",
+    "Music/Covers/Sora Amamiya, Rie Takahashi, Ai Kayano - Ano Hi no mama no Bokura.png",
+    "Music/Tracks/Watashi no Tenshi - HoneyWorks (🎧️ 493).md",
+    "Music/Creators/HoneyWorks (🎙️ 259).md",
+    "Music/Tracks/Hishoku no Sora - Kawada Mami (🎧️ 1552).md",
+    "Music/Tracks/Kesenai Tsumi (TV Size) - Nana Kitade (🎧️ 2215).md",
+    "Music/Tracks/JUSTadICE (TV Size) - Oomori Seiko (🎧️ 1092).md",
+    "Music/Creators/Oomori Seiko (🎙️ 821).md",
+    "Note/content/@Адам Мамбетов.md",
+    "Music/Creators/Nana Kitade (🎙️ 820).md",
+    "Music/Tracks/Here (TV Size) - JUNNA (🎧️ 2216).md",
+    "Music/Creators/JUNNA (🎙️ 819).md",
+    "Music/Tracks/Extra Magic Hour (TV Size) - AKINO (🎧️ 2217).md",
+    "Music/Tracks/Extra Magic Hour - AKINO (🎧️ 1314).md",
+    "Music/Tracks/Skyreach - Sora Amamiya (🎧️ 2219).md",
+    "Music/Tracks/Skyreach (TV Size) - Sora Amamiya (🎧️ 2218).md",
+    "Music/tracks.base",
+    "Music/Albums/8 Mile OST (📀 2).md",
+    "Music/Creators/Sora Amamiya (🎙️ 818).md",
+    "Music/Creators/-45 (🎙️ 6).md",
+    "Music/Playlists/YouTube (💿 9).md",
+    "Music/Tracks/Rapa - miragecoordinator - Music collection from ＂Umineko When They Cry＂ for Clarinet Quintet and piano.md",
+    "Music/Playlists/100% Шедевр (💿 6).md",
+    "Music/Tracks/1Coma - Hiroyuki Sawano (🎧️ 1631).md",
+    "Music/Covers/Gemini Syndrome - Memento Mori.jpg",
     "Music/Covers/Александр Пушной - Пушной.ru.jpg",
-    "Music/Tracks/21 Guns - RADIO TAPOK (🎧️ 1516).md",
-    "Music/Tracks/natsuki1023 - 志方あきこ　「片翼の鳥」　歌詞付.md",
-    "Music/Tracks/Rapa - Hadou -Kono Koe- ~guitar vocal ver.~ (without vocal) - Umineko Arrange Album ＂Akoustika IV＂.md",
-    "Music/Tracks/Rapa - Hadou -Kono Koe- ~guitar vocal ver.~ - Umineko no Naku Koro ni Arrange Album ＂Akoustika IV＂.md",
     "Music/Covers/Eminem - The Eminem Show.jpg",
     "Music/Covers/_No Album Art.jpg",
-    "Music/Tracks/Затмение - U2 Akiyama (🎧️ 1000).md",
-    "Music/Tracks/Плач цикад (TV Size) - Radiant Records (🎧️ 1457).md",
     "Music/Covers/MADKID OFFICIAL - MADKID ⧸ RISE [Music Video] ('The Rising of the Shield Hero' Opening Theme).jpg",
     "Music/Covers/Chi_exe - Happy! Lucky! Dochy! (Full Version).jpg",
     "Music/Covers/ymetsys - Plants vs Zombies Soundtrack. [Main Menu].jpg",
     "Music/Covers/coldrain - coldrain - VENGEANCE (Official Music Video).jpg",
     "Music/Covers/Vale ou não vale？ - Naruto Shippuuden - Original Sound Track - Sasori's Theme.jpg",
-    "Music/Covers/LM.C Official - BOYS & GIRLS.jpg",
-    "Music/Covers/Harmony Team – аниме-п - [Kousetsujou no Kabaneri RUS cover] Ai – Kabaneri Of The Iron Fortress [Harmony Team].jpg",
-    "Music/Albums/ReZero 2 OST 2 (📀 42).md",
-    "Music/Tracks/Kanashii Ureshii - Frederic (🎧️ 1472).md",
-    "Music/Tracks/DANGANRONPA (🎧️ 1508).md",
     "Text/Note/excalidraw",
     "Text/Note",
     "Text",
