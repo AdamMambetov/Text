@@ -1,23 +1,23 @@
 ---
-created: 2025-11-19T01:08:34+03:00
+created: 2025-11-14T12:43:24+03:00
 aliases:
-  - "Requiem of Silence"
+  - "EMT!!"
 Cover: "[[ReZero 1 OST.jpg]]"
 Year: 2016
 Album: "[[ReZero 1 OST (📀 46)]]"
 CoverOf: ""
 Creators:
   - "[[Kenichiro Suehiro (🎙️ 750)]]"
-ListenInSec: 687
-NumberInAlbum: 40
+ListenInSec: 204
+NumberInAlbum: 8
 related: []
 source: ""
-SourceFile: "[[ReZero 1 OST - 40 Requiem of Silence.mp3]]"
+SourceFile: "[[ReZero 1 OST - 08 EMT!!.mp3]]"
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`
 
-![[ReZero 1 OST - 40 Requiem of Silence.mp3]]
+![[ReZero 1 OST - 08 EMT!!.mp3]]
 
 ## Related Tracks
 

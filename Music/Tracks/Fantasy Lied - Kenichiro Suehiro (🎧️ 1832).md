@@ -4,20 +4,20 @@ aliases:
   - "Fantasy Lied"
 Cover: "[[ReZero 1 OST.jpg]]"
 Year: 2016
-Album: ""
+Album: "[[ReZero 1 OST (📀 46)]]"
 CoverOf: ""
 Creators:
   - "[[Kenichiro Suehiro (🎙️ 750)]]"
 ListenInSec: 982
-NumberInAlbum: 10
+NumberInAlbum: 34
 related: []
 source: ""
-SourceFile: "[[ReZero 1 OST - 10 Fantasy Lied.mp3]]"
+SourceFile: "[[ReZero 1 OST - 34 Fantasy Lied.mp3]]"
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`
 
-![[ReZero 1 OST - 10 Fantasy Lied.mp3]]
+![[ReZero 1 OST - 34 Fantasy Lied.mp3]]
 
 ## Related Tracks
 

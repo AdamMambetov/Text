@@ -1,7 +1,7 @@
 ---
 created: 2025-11-30T23:14:00+03:00
 aliases:
-  - "Anime Endings"
+  - Anime Endings
 tracklist:
   - "[[7 -seven- (TV Size) - FLOW (🎧️ 1633)]]"
   - "[[Kimi no Shiranai Monogatari - supercell (🎧️ 1653)]]"
@@ -38,7 +38,7 @@ tracklist:
   - "[[redballoon - Yuki no Tsubasa (TV Size)]]"
   - "[[Memento (TV Size) - nonoc (🎧️ 1866)]]"
   - "[[Memento - nonoc (🎧️ 1865)]]"
-  - "[[Styx Helix - MYTH & ROID (🎧️ 1868)]]"
+  - "[[STYX HELIX - MYTH & ROID (🎧️ 1861)]]"
   - "[[seto akuchi - Beelzebub Ending 1 HD]]"
   - "[[Shounen Shoujo (TV Size) - GING NANG BOYS (🎧️ 2179)]]"
   - "[[Release - Don't say ＂lazy＂]]"

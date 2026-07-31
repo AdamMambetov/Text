@@ -4,20 +4,20 @@ aliases:
   - "Dragon Kingdom Lugnica"
 Cover: "[[ReZero 1 OST.jpg]]"
 Year: 2016
-Album: ""
+Album: "[[ReZero 1 OST (📀 46)]]"
 CoverOf: ""
 Creators:
   - "[[Kenichiro Suehiro (🎙️ 750)]]"
 ListenInSec: 329
-NumberInAlbum: 4
+NumberInAlbum: 28
 related: []
 source: ""
-SourceFile: "[[ReZero 1 OST - 04 Dragon Kingdom Lugnica.mp3]]"
+SourceFile: "[[ReZero 1 OST - 28 Dragon Kingdom Lugnica.mp3]]"
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`
 
-![[ReZero 1 OST - 04 Dragon Kingdom Lugnica.mp3]]
+![[ReZero 1 OST - 28 Dragon Kingdom Lugnica.mp3]]
 
 ## Related Tracks
 

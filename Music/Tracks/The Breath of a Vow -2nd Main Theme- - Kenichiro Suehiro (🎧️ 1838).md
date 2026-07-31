@@ -2,9 +2,10 @@
 created: 2025-11-19T01:15:46+03:00
 aliases:
   - "The Breath of a Vow -2nd Main Theme-"
+  - "Signs of an Oath -2nd Main Theme-"
 Cover: "[[ReZero 2 OST 1.jpg]]"
 Year: 2020
-Album: ""
+Album: "[[ReZero 2 OST 1 (📀 47)]]"
 CoverOf: ""
 Creators:
   - "[[Kenichiro Suehiro (🎙️ 750)]]"

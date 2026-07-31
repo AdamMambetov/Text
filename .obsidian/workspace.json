@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6dd1871acf1f90e0",
+        "id": "aa7f676e09ed184e",
         "type": "tabs",
         "children": [
           {
-            "id": "b3a59af5ec577a28",
+            "id": "d429bfa709362a1e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Music/Tracks/Recollect - Konomi Suzuki (🎧️ 2206).md",
-                "mode": "preview",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Recollect - Konomi Suzuki (🎧️ 2206)"
+              "title": "New tab"
             }
           }
         ]
@@ -89,7 +85,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Music/Tracks/Recollect - Konomi Suzuki (🎧️ 2206).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -117,7 +112,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Recollect - Konomi Suzuki (🎧️ 2206)"
+              "title": "Graph view"
             }
           }
         ]
@@ -159,7 +154,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note/home/homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +163,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for homepage"
+              "title": "Backlinks"
             }
           },
           {
@@ -178,12 +172,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Music/Tracks/Rapa - miragecoordinator  - Music collection from ＂Umineko When They Cry＂ for Clarinet Quintet and piano.md",
+                "file": "Music/Covers/Sora Amamiya, Rie Takahashi, Ai Kayano - Ano Hi no mama no Bokura.png",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Rapa - miragecoordinator  - Music collection from ＂Umineko When They Cry＂ for Clarinet Quintet and piano"
+              "title": "Outgoing links from Sora Amamiya, Rie Takahashi, Ai Kayano - Ano Hi no mama no Bokura"
             }
           },
           {
@@ -221,8 +215,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "3185b9fecf878a15",
@@ -275,7 +268,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 380.5
+    "width": 380.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -298,47 +292,46 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b3a59af5ec577a28",
+  "active": "d429bfa709362a1e",
   "lastOpenFiles": [
-    "Music/Tracks/Recollect (TV Size) - Konomi Suzuki (🎧️ 2204).md",
-    "Music/Tracks/Recollect - Konomi Suzuki (🎧️ 2206).md",
-    "Music/Creators/Ashnikko (🎙️ 817).md",
-    "Music/Tracks/Extra Magic Hour - AKINO (🎧️ 1314).md",
+    "Music/Covers/ReZero OST - 15 Il Richiamo della Strega.png",
+    "Music/Tracks/REzero OST volume 1 3rd track 魔女の呼び声 - Ben C (🎧️ 1381).md",
+    "Music/Tracks/Call of the Witch - Kenichiro Suehiro (🎧️ 1384).md",
+    "Note/templates/_track update capture.md",
+    "Note/ReZero OST - 15 Il Richiamo della Strega.mp3.md",
+    "Music/Creators/Ben C (🎙️ 219).md",
+    "Music/Covers/Serena_-3 - ReZero_kara_Hajimeru_Isekai_Seikatsu_Ost_04_Timbre_of_the_Beginning.jpg",
+    "Music/Covers/Serena_-3 - ReZero_kara_Hajimeru_Isekai_Seikatsu_Ost_03_Call_of_the_Witch.jpg",
+    "Music/Covers/Serena_-3 - ReZero_kara_Hajimeru_Isekai_Seikatsu_Ost_01_Rondo_of_Love_and_Darkness_Main_Theme.jpg",
+    "Music/Covers/Serena_-3 - Re_-Zero_kara_Hajimeru_Isekai_Seikatsu_Ost_24_Takt_of_Heroes.jpg",
+    "Music/Tracks/heeno Mirin feat. Aile The Shota - Kenou (TV Size).md",
+    "Music/Tracks/Waltz of Rage - Kenichiro Suehiro (🎧️ 1837).md",
+    "Music/Tracks/Theatrical Malice - Kenichiro Suehiro (🎧️ 1859).md",
+    "Music/Tracks/The Breath of a Vow -2nd Main Theme- - Kenichiro Suehiro (🎧️ 1838).md",
+    "Music/Tracks/Takt of Heroes -Origin- - Kenichiro Suehiro (🎧️ 1825).md",
+    "Music/Tracks/THE ORAL CIGARETTES - ＜ノラガミARAGOTO＞OPテーマ  THE ORAL CIGARETTES「狂乱 Hey Kids!!」MusicVideo.md",
+    "Music/Tracks/Suffering - Kenichiro Suehiro (🎧️ 1861).md",
+    "Music/Tracks/Start of Fate - Kenichiro Suehiro (🎧️ 1835).md",
+    "Music/Tracks/Skyreach - Sora Amamiya (🎧️ 2219).md",
+    "Music/Tracks/Skyreach (TV Size) - Sora Amamiya (🎧️ 2218).md",
+    "Music/Tracks/Sirius Romaneeconti - Kenichiro Suehiro (🎧️ 1854).md",
+    "Music/Tracks/Rye Batenkaitos - Kenichiro Suehiro (🎧️ 1856).md",
+    "Music/Tracks/Rondo of Love and Darkness -MainTheme- - Kenichiro Suehiro (🎧️ 2129).md",
+    "Music/Tracks/Requiem of Silence - Kenichiro Suehiro (🎧️ 1836).md",
+    "Music/Tracks/Regulus Corneus - Kenichiro Suehiro (🎧️ 1855).md",
+    "Music/Tracks/Rapa - miragecoordinator - Music collection from ＂Umineko When They Cry＂ for Clarinet Quintet and piano.md",
+    "Music/Tracks/Rage - Kenichiro Suehiro (🎧️ 1860).md",
+    "Music/Tracks/Promenade of Whistles and Creation - Kenichiro Suehiro (🎧️ 1830).md",
+    "Music/Tracks/Priscilla Barielle - Kenichiro Suehiro (🎧️ 1853).md",
+    "Music/Tracks/Operation to recapture - Kenichiro Suehiro (🎧️ 1858).md",
+    "Music/Covers/ReZero 1 OST.jpg",
+    "Music/Covers/Nana Kitade - 18 -eighteen-.jpg",
+    "Art/covers/kino_no_tabi_the_beautiful_world_2017_anime_cover.jpeg",
+    "Music/Covers/Sora Amamiya, Rie Takahashi, Ai Kayano - Ano Hi no mama no Bokura.png",
     "Text/Note/files",
     "Text/Note",
     "Text",
-    "Music/Tracks/СОФИЯ - LINS (🎧️ 2053).md",
-    "Music/Tracks/Надо радоваться! - Александр Пушной (🎧️ 2123).md",
-    "Music/Tracks/MILF BOY - LINS (🎧️ 2183).md",
-    "Music/Tracks/Die, Die My Darling - Metallica (🎧️ 13).md",
-    "Music/Tracks/DEDTALES - LINS (🎧️ 2055).md",
-    "Music/Creators/LINS (🎙️ 816).md",
-    "Note/home/homepage.md",
-    "Note/content/ffmpeg.md",
-    "Music/Playlists/100% Шедевр (💿 6).md",
-    "Music/Creators/-45 (🎙️ 6).md",
-    "Music/Albums/8 Mile OST (📀 2).md",
-    "Music/Tracks/Карты, деньги, два хвоста - Rotten Toten (🎧️ 617).md",
-    "Music/Tracks/Inferno - Onsa Media (🎧️ 1).md",
-    "Note/templates/_track update all capture.md",
-    "Music/Tracks/Astral Dogma - Yousei Teikoku (🎧️ 1167).md",
-    "Music/Tracks/أغانى الزمن الجم - Hassan El Asmar   La Ya Alby   حسن الأسمر   لا يا قلبي.md",
-    "Music/Tracks/New Type of Hero (Long ver.) - Griff Clawson (🎧️ 2134).md",
-    "Music/Creators/Griff Clawson (🎙️ 815).md",
     "Music/Covers/To Be Hero X OST - New Type of Hero.jpg",
-    "Music/Tracks/KONTINUUM (TV Size) - SennaRin (🎧️ 2139).md",
-    "Music/Covers/To Be Hero X OST - KONTINUUM (TV Size).jpg",
-    "Music/Creators/SennaRin (🎙️ 814).md",
-    "Music/Tracks/Zettai Zetsumei (TV Size) - Cö Shu Nie (🎧️ 2143).md",
-    "Music/Covers/Cö Shu Nie - Zettai Zetsumei.jpg",
-    "Music/Tracks/Aporia (TV Size) - Yorushika (🎧️ 2113).md",
-    "Music/Covers/Yorushika - Aporia (TV Size).jpg",
-    "Music/Covers/Sakanaction - Kaijuu (TV Size).jpg",
-    "Music/Covers/Louis Armstrong - The Very Best Of Louis Armstrong.jpg",
-    "Music/Covers/Long Shot Party - distance.jpg",
-    "Music/Covers/Shonan no Kaze - Grand Blue.jpg",
-    "Music/Covers/To Be Hero X OST - INTERTIA (TV Size).jpg",
-    "Music/Covers/To Be Hero X OST - INTERTIA.jpg",
     "Music/Tracks/Way Up - Jaden Smith.txt",
     "Video/18+/Hentai/2101_video_voice_HentaiZ_720.mp4.mp4",
     "Audio/Music/Your Turn To Die OST - 08 Even in Tragedy [EXTENDED].mp3",

@@ -4,19 +4,20 @@ aliases:
   - "New Maid"
 Cover: "[[ReZero 2 OST 1.jpg]]"
 Year: 2020
-Album: ""
+Album: "[[ReZero 2 OST 1 (📀 47)]]"
 CoverOf: ""
-Creators: []
+Creators:
+  - "[[Kenichiro Suehiro (🎙️ 750)]]"
 ListenInSec: 118
-NumberInAlbum: 0
+NumberInAlbum: 5
 related: []
 source: ""
-SourceFile: "[[Natsuki_Subaru - Re_-Zero_2nd_Season_OST_-_Disc_1_-_05._New_Maid.mp3]]"
+SourceFile: "[[ReZero 2 OST 1 - 05 New Maid.mp3]]"
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`
 
-![[Natsuki_Subaru - Re_-Zero_2nd_Season_OST_-_Disc_1_-_05._New_Maid.mp3]]
+![[ReZero 2 OST 1 - 05 New Maid.mp3]]
 
 ## Related Tracks
 

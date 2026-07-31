@@ -4,14 +4,14 @@ aliases:
   - "Redo"
   - "ReZero OP 1"
   - "РеЗеро OP 1"
-Cover: "[[_No Album Art.jpg]]"
-Year: 0
-Album: ""
+Cover: "[[Konomi Suzuki - Redo.jpg]]"
+Year: 2016
+Album: "[[Redo (📀 49)]]"
 CoverOf: ""
 Creators:
   - "[[Konomi Suzuki (🎙️ 353)]]"
 ListenInSec: 2579
-NumberInAlbum: 0
+NumberInAlbum: 1
 related:
   - "[[Redo (TV Size) - Konomi Suzuki (🎧️ 1073)]]"
 source: ""

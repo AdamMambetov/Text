@@ -4,7 +4,7 @@ aliases:
   - "Sirius Romaneeconti"
 Cover: "[[ReZero 3 OST.jpg]]"
 Year: 2025
-Album: ""
+Album: "[[ReZero 3 OST (📀 48)]]"
 CoverOf: ""
 Creators:
   - "[[Kenichiro Suehiro (🎙️ 750)]]"

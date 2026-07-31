@@ -2,7 +2,7 @@
 created: 2026-07-06T22:48:04+03:00
 aliases:
   - "ReZero 2 OST 2"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[ReZero 2 OST 2.jpg]]"
 Year: 2021
 Creators:
   - "[[Kenichiro Suehiro (🎙️ 750)]]"

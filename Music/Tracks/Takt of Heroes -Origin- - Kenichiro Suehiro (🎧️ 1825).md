@@ -4,20 +4,20 @@ aliases:
   - "Takt of Heroes -Origin-"
 Cover: "[[ReZero 1 OST.jpg]]"
 Year: 2016
-Album: ""
+Album: "[[ReZero 1 OST (📀 46)]]"
 CoverOf: ""
 Creators:
   - "[[Kenichiro Suehiro (🎙️ 750)]]"
 ListenInSec: 357
-NumberInAlbum: 2
+NumberInAlbum: 26
 related: []
 source: ""
-SourceFile: "[[ReZero 1 OST - 02 Takt of Heroes -Origin-.mp3]]"
+SourceFile: "[[ReZero 1 OST - 26 Takt of Heroes -Origin-.mp3]]"
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`
 
-![[ReZero 1 OST - 02 Takt of Heroes -Origin-.mp3]]
+![[ReZero 1 OST - 26 Takt of Heroes -Origin-.mp3]]
 
 ## Related Tracks
 

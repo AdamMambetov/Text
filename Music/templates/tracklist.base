@@ -17,7 +17,7 @@ views:
       - property: NumberInAlbum
         direction: ASC
     columnSize:
-      note.NumberInAlbum: 38
+      note.NumberInAlbum: 73
   - type: list
     name: List
     filters:
