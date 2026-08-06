@@ -5,12 +5,12 @@ aliases:
 Cover: "[[Paprika OST.jpg]]"
 Year: 0
 Album: ""
-CoverOf: ""
 Creators:
   - "[[Susumu Hirasawa (🎙️ 452)]]"
-ListenInSec: 4510
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Crizz “Chisp” Boi - Susumu Hirasawa - Parade.mp3]]"
+ListenInSec: 5194
+CoverOf: ""
 ---
 

@@ -5,20 +5,11 @@ aliases:
 Cover: "[[Shenjiro - Yasushi Ishii - The World without Logos.jpg]]"
 Year: 0
 Album: ""
-CoverOf: ""
 Creators: []
-ListenInSec: 2783
 NumberInAlbum: 0
 related: []
-source: ""
 SourceFile: "[[Shenjiro - Yasushi Ishii - The World without Logos.mp3]]"
+ListenInSec: 3026
+CoverOf: ""
 ---
-
-`$=dv.header(1, dv.current().aliases[0])`
-
-![[Shenjiro - Yasushi Ishii - The World without Logos.mp3]]
-
-## Related Tracks
-
-![[related tracks.base]]
 

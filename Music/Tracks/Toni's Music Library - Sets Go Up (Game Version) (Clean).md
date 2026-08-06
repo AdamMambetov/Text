@@ -5,20 +5,11 @@ aliases:
 Cover: "[[Toni's Music Library - Skinnyman (Game Version) (Clean).jpg]]"
 Year: 0
 Album: ""
-CoverOf: ""
 Creators: []
-ListenInSec: 740
 NumberInAlbum: 0
 related: []
-source: ""
 SourceFile: "[[Toni's Music Library - Sets Go Up (Game Version) (Clean).mp3]]"
+ListenInSec: 960
+CoverOf: ""
 ---
-
-`$=dv.header(1, dv.current().aliases[0])`
-
-![[Toni's Music Library - Sets Go Up (Game Version) (Clean).mp3]]
-
-## Related Tracks
-
-![[related tracks.base]]
 

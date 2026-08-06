@@ -11,7 +11,7 @@ Creators:
   - "[[cap (🎙️ 19)]]"
   - "[[xaki (🎙️ 12)]]"
   - "[[Kimura Kazumi (🎙️ 28)]]"
-ListenInSec: 1430
+ListenInSec: 1460
 NumberInAlbum: 58
 related:
   - "[[Мелодия (инстр. вер.) - sunny (🎧️ 1007)]]"

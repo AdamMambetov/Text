@@ -8,19 +8,15 @@ aliases:
 Cover: "[[Radiant Records - ПЕРЕПУТЬЕ.jpg]]"
 Year: 0
 Album: ""
-CoverOf: "[[Kimi Ga Yume Wo Tsuretekita - Kayano Ai]]"
 Creators:
   - "[[Radiant Records (🎙️ 39)]]"
   - "[[Anyoka (🎙️ 67)]]"
   - "[[Felya (🎙️ 58)]]"
   - "[[Jully (🎙️ 42)]]"
-ListenInSec: 3328
 NumberInAlbum: 0
 related: []
-source: ""
 SourceFile: "[[Radiant Records - Ты принёс мечту.mp3]]"
+ListenInSec: 3587
+CoverOf: "[[Kimi Ga Yume Wo Tsuretekita - Kayano Ai]]"
 ---
 
-# Ты принёс мечту
-
-![[Radiant Records - Ты принёс мечту.mp3]]

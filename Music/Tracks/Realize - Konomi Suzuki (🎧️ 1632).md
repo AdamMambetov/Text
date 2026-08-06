@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Konomi Suzuki (🎙️ 353)]]"
-ListenInSec: 734
+ListenInSec: 977
 NumberInAlbum: 0
 related:
   - "[[Realize (TV Size) - Konomi Suzuki]]"

@@ -13,7 +13,7 @@ NumberInAlbum: 0
 related:
   - "[[Hishoku no Sora (TV Size) - Kawada Mami]]"
 SourceFile: "[[Kawada Mami - Hishoku no Sora.mp3]]"
-ListenInSec: 3041
+ListenInSec: 3295
 CoverOf: ""
 ---
 

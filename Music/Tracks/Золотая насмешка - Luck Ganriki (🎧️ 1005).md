@@ -10,7 +10,7 @@ Creators:
 NumberInAlbum: 44
 related: []
 SourceFile: "[[Umineko no Naku Koro ni OST - 044 Золотая насмешка.ogg]]"
-ListenInSec: 2843
+ListenInSec: 3202
 CoverOf: ""
 ---
 

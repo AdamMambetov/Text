@@ -12,7 +12,7 @@ Creators:
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Radiant Records - Роза.mp3]]"
-ListenInSec: 2146
+ListenInSec: 2371
 CoverOf: "[[Rose - Tsuchiya Anna]]"
 ---
 

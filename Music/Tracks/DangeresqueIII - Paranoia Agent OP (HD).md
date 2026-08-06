@@ -5,20 +5,11 @@ aliases:
 Cover: "[[DangeresqueIII - Paranoia Agent OP (HD).jpg]]"
 Year: 0
 Album: ""
-CoverOf: ""
 Creators: []
-ListenInSec: 2045
 NumberInAlbum: 0
 related: []
-source: ""
 SourceFile: "[[DangeresqueIII - Paranoia Agent OP (HD).mp3]]"
+ListenInSec: 2137
+CoverOf: ""
 ---
-
-`$=dv.header(1, dv.current().aliases[0])`
-
-![[DangeresqueIII - Paranoia Agent OP (HD).mp3]]
-
-## Related Tracks
-
-![[related tracks.base]]
 

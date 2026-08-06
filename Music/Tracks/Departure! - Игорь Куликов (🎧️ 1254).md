@@ -8,7 +8,7 @@ Album: "[[Departure!]]"
 CoverOf: ""
 Creators:
   - "[[Игорь Куликов (🎙️ 71)]]"
-ListenInSec: 744
+ListenInSec: 746
 NumberInAlbum: 1
 related: []
 source: ""

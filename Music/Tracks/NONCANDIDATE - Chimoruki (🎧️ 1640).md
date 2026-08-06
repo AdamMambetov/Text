@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Chimoruki (🎙️ 260)]]"
-ListenInSec: 1324
+ListenInSec: 1346
 NumberInAlbum: 0
 related:
   - "[[Day of Tragedy (🎧️ 1624)]]"

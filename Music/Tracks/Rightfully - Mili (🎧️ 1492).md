@@ -7,17 +7,13 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
-CoverOf: ""
 Creators:
   - "[[Mili (🎙️ 701)]]"
-ListenInSec: 2460
 NumberInAlbum: 0
 related:
   - "[[Rightfully (TV Size) - Mili]]"
-source: ""
 SourceFile: "[[Mili - Rightfully.mp3]]"
+ListenInSec: 2680
+CoverOf: ""
 ---
 
-# Mili - Rightfully
-
-![[Mili - Rightfully.mp3]]

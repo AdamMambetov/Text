@@ -2,11 +2,6 @@
 created: 2026-03-14T23:35:01+03:00
 aliases:
   - "TK from Ling tosite sigure"
-ListenInSec: 3587
+ListenInSec: 4065
 ---
 
-# TK from Ling tosite sigure
-
-## Tracklist
-
-![[tracklist.base]]

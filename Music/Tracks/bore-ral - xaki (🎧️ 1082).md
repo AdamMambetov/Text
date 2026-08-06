@@ -10,7 +10,7 @@ Creators:
 NumberInAlbum: 168
 related: []
 SourceFile: "[[Umineko no Naku Koro ni OST - 168 bore-ral.ogg]]"
-ListenInSec: 5845
+ListenInSec: 6157
 CoverOf: ""
 ---
 

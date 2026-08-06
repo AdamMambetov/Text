@@ -7,17 +7,13 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
-CoverOf: ""
 Creators:
   - "[[TK from Ling tosite sigure (🎙️ 657)]]"
-ListenInSec: 734
 NumberInAlbum: 0
 related:
   - "[[Unravel (TV Size) - TK from Ling tosite sigure (🎧️ 1089)]]"
-source: ""
 SourceFile: "[[TK from Ling tosite sigure - Unravel.mp3]]"
+ListenInSec: 971
+CoverOf: ""
 ---
 
-# TK from Ling tosite sigure - Unravel
-
-![[TK from Ling tosite sigure - Unravel.mp3]]

@@ -6,16 +6,12 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
-CoverOf: ""
 Creators:
   - "[[Mayu Maeshima (🎙️ 681)]]"
-ListenInSec: 720
 NumberInAlbum: 0
 related: []
-source: ""
 SourceFile: "[[Mayu Maeshima - Story.mp3]]"
+ListenInSec: 943
+CoverOf: ""
 ---
 
-# Mayu Maeshima - Story
-
-![[Mayu Maeshima - Story.mp3]]

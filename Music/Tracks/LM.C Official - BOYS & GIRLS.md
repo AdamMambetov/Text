@@ -5,20 +5,11 @@ aliases:
 Cover: "[[LM.C Official - BOYS & GIRLS.jpg]]"
 Year: 0
 Album: ""
-CoverOf: ""
 Creators: []
-ListenInSec: 2878
 NumberInAlbum: 0
 related: []
-source: ""
 SourceFile: "[[LM.C Official - BOYS & GIRLS.mp3]]"
+ListenInSec: 3375
+CoverOf: ""
 ---
-
-`$=dv.header(1, dv.current().aliases[0])`
-
-![[LM.C Official - BOYS & GIRLS.mp3]]
-
-## Related Tracks
-
-![[related tracks.base]]
 

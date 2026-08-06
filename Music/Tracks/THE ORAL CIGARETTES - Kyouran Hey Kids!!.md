@@ -9,7 +9,7 @@ Creators: []
 NumberInAlbum: 0
 related: []
 SourceFile: "[[THE ORAL CIGARETTES - Kyouran Hey Kids!!.mp3]]"
-ListenInSec: 2937
+ListenInSec: 3419
 CoverOf: ""
 ---
 

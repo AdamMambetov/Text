@@ -7,7 +7,7 @@ Year: 0
 Album: "[[Kirby Super Star]]"
 CoverOf: ""
 Creators: []
-ListenInSec: 1106
+ListenInSec: 1112
 NumberInAlbum: 1
 related: []
 source: ""

@@ -12,7 +12,7 @@ Creators:
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Lia - Bravely You.mp3]]"
-ListenInSec: 2582
+ListenInSec: 2768
 CoverOf: "[[Bravely You (TV Size) - Lia (🎧️ 1079)]]"
 ---
 

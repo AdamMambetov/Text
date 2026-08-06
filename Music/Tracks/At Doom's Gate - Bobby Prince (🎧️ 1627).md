@@ -8,7 +8,7 @@ Album: "[[Doom]]"
 CoverOf: ""
 Creators:
   - "[[Bobby Prince (🎙️ 233)]]"
-ListenInSec: 869
+ListenInSec: 954
 NumberInAlbum: 3
 related: []
 source: ""

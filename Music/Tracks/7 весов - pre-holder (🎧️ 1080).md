@@ -10,7 +10,7 @@ Creators:
 NumberInAlbum: 166
 related: []
 SourceFile: "[[Umineko no Naku Koro ni OST - 166 7 весов.ogg]]"
-ListenInSec: 2114
+ListenInSec: 2126
 CoverOf: ""
 ---
 

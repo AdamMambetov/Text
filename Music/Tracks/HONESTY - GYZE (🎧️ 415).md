@@ -5,17 +5,13 @@ aliases:
 Cover: "[[GYZE - HONESTY.jpg]]"
 Year: 2015
 Album: ""
-CoverOf: ""
 Creators:
   - "[[GYZE (🎙️ 325)]]"
   - "[[Ettore Rigotti (🎙️ 742)]]"
-ListenInSec: 2859
 NumberInAlbum: 0
 related: []
-source: ""
 SourceFile: "[[GYZE - HONESTY.mp3]]"
+ListenInSec: 3466
+CoverOf: ""
 ---
 
-# GYZE - HONESTY
-
-![[GYZE - HONESTY.mp3]]

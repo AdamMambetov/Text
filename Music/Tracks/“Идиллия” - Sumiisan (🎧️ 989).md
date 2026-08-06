@@ -8,7 +8,7 @@ Album: "[[Umineko no Naku Koro ni OST (📀 30)]]"
 CoverOf: ""
 Creators:
   - "[[Sumiisan (🎙️ 2)]]"
-ListenInSec: 895
+ListenInSec: 912
 NumberInAlbum: 10
 related: []
 source: ""

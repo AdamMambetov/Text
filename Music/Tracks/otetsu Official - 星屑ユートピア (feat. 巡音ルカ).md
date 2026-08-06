@@ -9,7 +9,7 @@ Creators: []
 NumberInAlbum: 0
 related: []
 SourceFile: "[[otetsu Official - 星屑ユートピア (feat. 巡音ルカ).mp3]]"
-ListenInSec: 3380
+ListenInSec: 3896
 CoverOf: ""
 ---
 

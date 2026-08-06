@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[SPLAY (🎙️ 803)]]"
-ListenInSec: 3341
+ListenInSec: 3609
 NumberInAlbum: 0
 related: []
 SourceFile: "[[ponycanyon - SPLAY ／ Drawing days 【Official Music Video】.mp3]]"

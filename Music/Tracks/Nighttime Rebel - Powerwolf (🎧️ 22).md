@@ -5,16 +5,12 @@ aliases:
 Cover: "[[Powerwolf - The Sacrament of Sin.jpg]]"
 Year: 2018
 Album: "[[The Sacrament of Sin (📀 39)]]"
-CoverOf: ""
 Creators:
   - "[[Powerwolf (🎙️ 418)]]"
-ListenInSec: 2164
 NumberInAlbum: 10
 related: []
-source: ""
 SourceFile: "[[Powerwolf - Nighttime Rebel.mp3]]"
+ListenInSec: 2407
+CoverOf: ""
 ---
 
-# Powerwolf - Nighttime Rebel
-
-![[Powerwolf - Nighttime Rebel.mp3]]
