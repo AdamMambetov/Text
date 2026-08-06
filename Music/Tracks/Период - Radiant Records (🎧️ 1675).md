@@ -10,7 +10,7 @@ CoverOf: "[[Period - Chemistry]]"
 Creators:
   - "[[Radiant Records (🎙️ 39)]]"
   - "[[Radiant (🎙️ 40)]]"
-ListenInSec: 1674
+ListenInSec: 1710
 NumberInAlbum: 0
 related: []
 source:

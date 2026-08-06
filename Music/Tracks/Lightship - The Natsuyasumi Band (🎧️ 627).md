@@ -8,7 +8,7 @@ Album: "[[Sonny Boy OST (📀 41)]]"
 CoverOf: ""
 Creators:
   - "[[The Natsuyasumi Band (🎙️ 692)]]"
-ListenInSec: 1052
+ListenInSec: 1057
 NumberInAlbum: 14
 related: []
 source: ""

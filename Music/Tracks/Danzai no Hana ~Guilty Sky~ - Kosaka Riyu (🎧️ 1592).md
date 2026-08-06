@@ -13,7 +13,7 @@ NumberInAlbum: 0
 related:
   - "[[Danzai no Hana ~Guilty Sky~ (TV Size) - Kosaka Riyu]]"
 SourceFile: "[[Kosaka Riyu - Danzai no Hana ~Guilty Sky~.mp3]]"
-ListenInSec: 2145
+ListenInSec: 2404
 CoverOf: ""
 ---
 

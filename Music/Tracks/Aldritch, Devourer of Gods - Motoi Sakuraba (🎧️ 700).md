@@ -8,7 +8,7 @@ Album: "[[Dark Souls 3 OST (📀 10)]]"
 CoverOf: ""
 Creators:
   - "[[Motoi Sakuraba (🎙️ 31)]]"
-ListenInSec: 968
+ListenInSec: 985
 NumberInAlbum: 16
 related: []
 source: ""

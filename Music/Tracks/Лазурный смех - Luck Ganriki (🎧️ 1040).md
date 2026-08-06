@@ -10,7 +10,7 @@ Creators:
 NumberInAlbum: 112
 related: []
 SourceFile: "[[Umineko no Naku Koro ni OST - 112 Лазурный смех.ogg]]"
-ListenInSec: 920
+ListenInSec: 930
 CoverOf: ""
 ---
 

@@ -6,16 +6,12 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
-CoverOf: ""
 Creators:
   - "[[Shimamiya Eiko (🎙️ 50)]]"
-ListenInSec: 1777
 NumberInAlbum: 0
 related: []
-source: ""
 SourceFile: "[[Shimamiya Eiko - Higurashi no Naku Koro ni.mp3]]"
+ListenInSec: 2044
+CoverOf: ""
 ---
 
-# Higurashi no Naku Koro ni
-
-![[Shimamiya Eiko - Higurashi no Naku Koro ni.mp3]]

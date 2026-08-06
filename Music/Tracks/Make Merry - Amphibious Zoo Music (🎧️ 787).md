@@ -8,7 +8,7 @@ Album: "[[Indie Anthems, Vol. 1]]"
 CoverOf: ""
 Creators:
   - "[[Amphibious Zoo Music (🎙️ 178)]]"
-ListenInSec: 715
+ListenInSec: 958
 NumberInAlbum: 1
 related: []
 source: ""

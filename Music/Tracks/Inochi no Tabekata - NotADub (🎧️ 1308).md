@@ -10,7 +10,7 @@ Album: ""
 CoverOf: "[[Inochi No Tabekata - Eve (🎧️ 1306)]]"
 Creators:
   - "[[NotADub (🎙️ 397)]]"
-ListenInSec: 726
+ListenInSec: 971
 NumberInAlbum: 0
 related: []
 source: ""

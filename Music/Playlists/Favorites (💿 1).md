@@ -1,7 +1,7 @@
 ---
 created: 2025-11-23T23:02:00+03:00
 aliases:
-  - Favorites
+  - "Favorites"
 tracklist:
   - "[[Птичья песнь - Radiant Records (🎧️ 1736)]]"
   - "[[Сорванный плод - Radiant Records (🎧️ 1711)]]"
@@ -1451,7 +1451,6 @@ tracklist:
   - "[[Rapa - Rokkenjima Bojou ~guitar vocal ver.~ (without vocal) - Umineko Arrange Album ＂Akoustika X＂]]"
   - "[[Даня Матвиенко - Александр Пушной 6 кадров]]"
   - "[[RISE - MADKID (🎧️ 2163)]]"
-  - "[[Styx Helix - LeeandLie (AmaLee) (🎧️ 2127)]]"
   - "[[Надо радоваться! - Александр Пушной (🎧️ 2123)]]"
   - "[[Your Turn To Die OST - 21 Samurai Woman (EXTENDED)]]"
   - "[[Rapa - Senritsu -Sirabe- ~guitar vocal ver.~ - Umineko no Naku Koro ni Arrange Album ＂Akoustika Ⅲ＂]]"

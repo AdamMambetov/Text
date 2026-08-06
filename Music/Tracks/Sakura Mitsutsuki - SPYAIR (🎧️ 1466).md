@@ -7,17 +7,13 @@ aliases:
 Cover: "[[SPYAIR - Sakura Mitsuki.jpg]]"
 Year: 0
 Album: ""
-CoverOf: ""
 Creators:
   - "[[SPYAIR (🎙️ 444)]]"
-ListenInSec: 2184
 NumberInAlbum: 0
 related:
   - "[[Sakura Mitsutsuki (TV Size) - SPYAIR (🎧️ 2163)]]"
-source: ""
 SourceFile: "[[SPYAIR - Sakura Mitsutsuki.mp3]]"
+ListenInSec: 2398
+CoverOf: ""
 ---
 
-# SPYAIR - Sakura Mitsutsuki
-
-![[SPYAIR - Sakura Mitsutsuki.mp3]]

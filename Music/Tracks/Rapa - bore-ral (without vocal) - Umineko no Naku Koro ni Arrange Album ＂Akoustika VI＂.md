@@ -5,20 +5,11 @@ aliases:
 Cover: "[[Rapa - en-counse 〜guitar vocal ver.〜 - Umineko no Naku Koro ni Arrange Album ＂Akoustika VI＂.jpg]]"
 Year: 0
 Album: ""
-CoverOf: ""
 Creators: []
-ListenInSec: 2712
 NumberInAlbum: 0
 related: []
-source: ""
 SourceFile: "[[Rapa - bore-ral [without vocal] - Umineko no Naku Koro ni Arrange Album ＂Akoustika VI＂.mp3]]"
+ListenInSec: 3561
+CoverOf: ""
 ---
-
-`$=dv.header(1, dv.current().aliases[0])`
-
-![[Rapa - bore-ral [without vocal] - Umineko no Naku Koro ni Arrange Album ＂Akoustika VI＂.mp3]]
-
-## Related Tracks
-
-![[related tracks.base]]
 

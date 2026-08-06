@@ -14,7 +14,7 @@ Creators:
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Radiant Records - Круговорот любви.mp3]]"
-ListenInSec: 3190
+ListenInSec: 3441
 CoverOf: "[[Renai Circulation - Kana Hanazawa (🎧️ 298)]]"
 ---
 

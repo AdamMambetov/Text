@@ -6,17 +6,13 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
-CoverOf: ""
 Creators:
   - "[[ULTRA TOWER (🎙️ 764)]]"
-ListenInSec: 2736
 NumberInAlbum: 1
 related:
   - "[[Kibou no Uta (TV Size) - ULTRA TOWER (🎧️ 1522)]]"
-source: ""
 SourceFile: "[[ULTRA TOWER - Kibou no Uta.mp3]]"
+ListenInSec: 3219
+CoverOf: ""
 ---
 
-# ULTRA TOWER - Kibou no Uta
-
-![[ULTRA TOWER - Kibou no Uta.mp3]]

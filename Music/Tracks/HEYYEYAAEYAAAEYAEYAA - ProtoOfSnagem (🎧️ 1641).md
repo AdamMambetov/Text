@@ -7,7 +7,7 @@ Year: 2010
 Album: ""
 CoverOf: "[[What's Up - 4 Non Blondes (🎧️ 2118)]]"
 Creators: []
-ListenInSec: 1045
+ListenInSec: 1072
 NumberInAlbum: 1
 related: []
 source: ""

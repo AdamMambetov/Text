@@ -13,7 +13,7 @@ NumberInAlbum: 0
 related:
   - "[[Resonance (TV Size) - T.M. Revolution (🎧️ 1425)]]"
 SourceFile: "[[The Darkesttarget - Soul Eater   OP 1 Resonance Full HD.mp3]]"
-ListenInSec: 2912
+ListenInSec: 3354
 CoverOf: ""
 ---
 

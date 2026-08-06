@@ -11,7 +11,7 @@ NumberInAlbum: 55
 related:
   - "[[Вальс (соч. 34) - Kitaouji Mizuki (🎧️ 971)]]"
 SourceFile: "[[Umineko no Naku Koro ni OST - 055 Черная Лиллиана.ogg]]"
-ListenInSec: 6058
+ListenInSec: 6524
 CoverOf: ""
 ---
 

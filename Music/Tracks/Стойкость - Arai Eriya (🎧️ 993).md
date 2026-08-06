@@ -10,7 +10,7 @@ Creators:
 NumberInAlbum: 16
 related: []
 SourceFile: "[[Umineko no Naku Koro ni OST - 016 Стойкость.ogg]]"
-ListenInSec: 2315
+ListenInSec: 2328
 CoverOf: ""
 ---
 

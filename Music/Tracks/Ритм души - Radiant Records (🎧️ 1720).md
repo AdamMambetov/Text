@@ -15,7 +15,7 @@ Creators:
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Radiant Records - Ритм души.mp3]]"
-ListenInSec: 5345
+ListenInSec: 5616
 CoverOf: "[[My Soul, Your Beats! - Lia (🎧️ 1754)]]"
 ---
 

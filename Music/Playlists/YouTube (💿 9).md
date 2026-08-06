@@ -181,7 +181,6 @@ tracklist:
   - "[[Shenjiro - Yasushi Ishii - The World without Logos]]"
   - "[[Игорь Куликов - Umineko no Naku Koro ni ｜ La Divina Tragedia~Makyoku~ (Russian Cover)]]"
   - "[[Даня Матвиенко - Александр Пушной 6 кадров]]"
-  - "[[Styx Helix - LeeandLie (AmaLee) (🎧️ 2127)]]"
   - "[[Надо радоваться! - Александр Пушной (🎧️ 2123)]]"
   - "[[Harmony Team – аниме-п - (Berserk RUS cover) SpareAlchemist – Forces (Harmony Team)]]"
   - "[[Vasya Oblomov I Вася Об - Вася Обломов - Начальник]]"

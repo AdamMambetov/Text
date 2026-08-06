@@ -6,15 +6,12 @@ aliases:
 Cover: "[[Slipknot - Psychosocial.jpg]]"
 Year: 2009
 Album: ""
-CoverOf: ""
 Creators:
   - "[[Slipknot (🎙️ 429)]]"
-ListenInSec: 1788
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Slipknot - Psychosocial.mp3]]"
+ListenInSec: 2387
+CoverOf: ""
 ---
 
-# Slipknot - Psychosocial
-
-![[Slipknot - Psychosocial.mp3]]

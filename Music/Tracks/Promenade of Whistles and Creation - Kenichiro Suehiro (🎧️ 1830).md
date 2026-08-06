@@ -8,7 +8,7 @@ Album: "[[ReZero 1 OST (📀 46)]]"
 CoverOf: ""
 Creators:
   - "[[Kenichiro Suehiro (🎙️ 750)]]"
-ListenInSec: 770
+ListenInSec: 809
 NumberInAlbum: 31
 related: []
 source: ""

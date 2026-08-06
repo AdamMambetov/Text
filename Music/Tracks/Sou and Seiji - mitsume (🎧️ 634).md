@@ -10,7 +10,7 @@ Creators:
 NumberInAlbum: 12
 related: []
 SourceFile: "[[Sonny Boy OST - Sou and Seiji.mp3]]"
-ListenInSec: 3308
+ListenInSec: 3878
 CoverOf: ""
 ---
 

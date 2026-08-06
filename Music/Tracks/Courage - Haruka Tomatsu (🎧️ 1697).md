@@ -15,7 +15,7 @@ NumberInAlbum: 0
 related:
   - "[[Courage (TV Size) - Haruka Tomatsu (🎧️ 1698)]]"
 SourceFile: "[[Haruka Tomatsu - Courage.mp3]]"
-ListenInSec: 2013
+ListenInSec: 2266
 CoverOf: ""
 ---
 

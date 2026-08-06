@@ -11,7 +11,7 @@ Creators:
 NumberInAlbum: 2
 related: []
 SourceFile: "[[BPM OST - 03 The Rhythm King.mp3]]"
-ListenInSec: 3963
+ListenInSec: 4325
 CoverOf: ""
 ---
 
