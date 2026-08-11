@@ -8,7 +8,7 @@ Album: ""
 CoverOf: "[[Fuyu No Hanashi - Given]]"
 Creators:
   - "[[Jackie-O (🎙️ 339)]]"
-ListenInSec: 218
+ListenInSec: 422
 NumberInAlbum: 0
 related: []
 source: ""

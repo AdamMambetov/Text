@@ -6,12 +6,12 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
+CoverOf: "[[Chitty Chitty Bang Bang - QUEENDOM (🎧️ 1613)]]"
 Creators:
   - "[[Onsa Media (🎙️ 402)]]"
+ListenInSec: 960
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Onsa Media - Chitty Chitty Bang Bang.mp3]]"
-ListenInSec: 960
-CoverOf: "[[Chitty Chitty Bang Bang - QUEENDOM (🎧️ 1613)]]"
 ---
 

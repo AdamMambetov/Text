@@ -7,7 +7,7 @@ Year: 2017
 Album: ""
 CoverOf: ""
 Creators: []
-ListenInSec: 686
+ListenInSec: 724
 NumberInAlbum: 0
 related:
   - "[[All Star - Smash Mouth (🎧️ 25)]]"

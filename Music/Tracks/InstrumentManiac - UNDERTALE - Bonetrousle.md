@@ -5,11 +5,11 @@ aliases:
 Cover: "[[InstrumentManiac - UNDERTALE - Bonetrousle.jpg]]"
 Year: 0
 Album: ""
+CoverOf: ""
 Creators: []
+ListenInSec: 4296
 NumberInAlbum: 0
 related: []
 SourceFile: "[[InstrumentManiac - UNDERTALE - Bonetrousle.mp3]]"
-ListenInSec: 4296
-CoverOf: ""
 ---
 

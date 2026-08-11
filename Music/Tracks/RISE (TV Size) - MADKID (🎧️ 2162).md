@@ -9,19 +9,10 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[MADKID (🎙️ 795)]]"
-ListenInSec: 1016
+ListenInSec: 1116
 NumberInAlbum: 0
 related:
   - "[[RISE - MADKID (🎧️ 2163)]]"
-source: ""
 SourceFile: "[[Crunchyroll - The Rising of the Shield Hero Opening 1 ｜ ＂RISE＂ by MADKID.mp3]]"
 ---
-
-`$=dv.header(1, dv.current().aliases[0])`
-
-![[Crunchyroll - The Rising of the Shield Hero Opening 1 ｜ ＂RISE＂ by MADKID.mp3]]
-
-## Related Tracks
-
-![[related tracks.base]]
 

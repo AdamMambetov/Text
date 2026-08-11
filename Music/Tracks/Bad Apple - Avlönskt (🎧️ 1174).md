@@ -8,7 +8,7 @@ Album: ""
 CoverOf: "[[Bad Apple - Touhou Project (🎧️ 1718)]]"
 Creators:
   - "[[Avlönskt (🎙️ 1)]]"
-ListenInSec: 4990
+ListenInSec: 5320
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Avlonskt - Bad Apple.mp3]]"

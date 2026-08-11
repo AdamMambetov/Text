@@ -1,13 +1,14 @@
 ---
 created: 2026-06-23T14:15:42+03:00
 aliases:
-  - "MIKA - MIKA - Relax, Take It Easy"
+  - "Relax, Take It Easy"
 Cover: "[[MIKA - Relax, Take It Easy.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""
-Creators: []
-ListenInSec: 306
+Creators:
+  - "[[MIKA (🎙️ 519)]]"
+ListenInSec: 331
 NumberInAlbum: 0
 related: []
 source: ""

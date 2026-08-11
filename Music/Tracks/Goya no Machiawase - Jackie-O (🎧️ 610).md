@@ -10,7 +10,7 @@ Album: ""
 CoverOf: "[[Goya no Machiawase - Hello Sleepwalkers (🎧️ 14)]]"
 Creators:
   - "[[Jackie-O (🎙️ 339)]]"
-ListenInSec: 18
+ListenInSec: 188
 NumberInAlbum: 1
 related: []
 source: ""

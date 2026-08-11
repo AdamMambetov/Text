@@ -5,12 +5,12 @@ aliases:
 Cover: "[[Shiki OST.jpg]]"
 Year: 2011
 Album: "[[Shiki OST (📀 1)]]"
+CoverOf: ""
 Creators:
   - "[[Yasuharu Takanashi (🎙️ 751)]]"
+ListenInSec: 4704
 NumberInAlbum: 22
 related: []
 SourceFile: "[[Shiki OST - 22 SHI-KI.mp3]]"
-ListenInSec: 4238
-CoverOf: ""
 ---
 

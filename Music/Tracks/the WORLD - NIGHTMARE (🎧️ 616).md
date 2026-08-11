@@ -7,13 +7,13 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
+CoverOf: ""
 Creators:
   - "[[NIGHTMARE (🎙️ 667)]]"
+ListenInSec: 2704
 NumberInAlbum: 0
 related:
   - "[[the WORLD (TV Size) - NIGHTMARE]]"
 SourceFile: "[[NIGHTMARE - the WORLD.mp3]]"
-ListenInSec: 2462
-CoverOf: ""
 ---
 

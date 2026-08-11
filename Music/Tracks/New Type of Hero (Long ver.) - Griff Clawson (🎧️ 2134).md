@@ -9,18 +9,9 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Griff Clawson (🎙️ 815)]]"
-ListenInSec: 1123
+ListenInSec: 1490
 NumberInAlbum: 0
 related: []
-source: ""
 SourceFile: "[[アニプレックス チャ - 「TO BE HERO X」コンセプトムービー（Long ver.）／bilibili × Aniplex 新プロジェクト.mp3]]"
 ---
-
-`$=dv.header(1, dv.current().aliases[0])`
-
-![[アニプレックス チャ - 「TO BE HERO X」コンセプトムービー（Long ver.）／bilibili × Aniplex 新プロジェクト.mp3]]
-
-## Related Tracks
-
-![[related tracks.base]]
 

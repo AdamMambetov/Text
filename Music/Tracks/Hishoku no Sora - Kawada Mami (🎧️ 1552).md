@@ -7,13 +7,13 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
+CoverOf: ""
 Creators:
   - "[[Kawada Mami (🎙️ 745)]]"
+ListenInSec: 3295
 NumberInAlbum: 0
 related:
   - "[[Hishoku no Sora (TV Size) - Kawada Mami]]"
 SourceFile: "[[Kawada Mami - Hishoku no Sora.mp3]]"
-ListenInSec: 3295
-CoverOf: ""
 ---
 

@@ -9,13 +9,13 @@ aliases:
 Cover: "[[Radiant Records - Летний сон.jpg]]"
 Year: 0
 Album: "[[Летний сон (📀 37)]]"
+CoverOf: "[[My Soul, Your Beats! - Lia (🎧️ 1754)]]"
 Creators:
   - "[[Radiant Records (🎙️ 39)]]"
   - "[[Camellia (🎙️ 53)]]"
+ListenInSec: 6158
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Radiant Records - Ритм души.mp3]]"
-ListenInSec: 5616
-CoverOf: "[[My Soul, Your Beats! - Lia (🎧️ 1754)]]"
 ---
 

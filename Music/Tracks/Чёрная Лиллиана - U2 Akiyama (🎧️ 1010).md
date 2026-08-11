@@ -5,13 +5,13 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 2007
 Album: "[[Umineko no Naku Koro ni OST (📀 30)]]"
+CoverOf: ""
 Creators:
   - "[[U2 Akiyama (🎙️ 26)]]"
+ListenInSec: 6989
 NumberInAlbum: 55
 related:
   - "[[Вальс (соч. 34) - Kitaouji Mizuki (🎧️ 971)]]"
 SourceFile: "[[Umineko no Naku Koro ni OST - 055 Черная Лиллиана.ogg]]"
-ListenInSec: 6524
-CoverOf: ""
 ---
 

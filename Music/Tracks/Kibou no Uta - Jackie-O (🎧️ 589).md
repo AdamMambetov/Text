@@ -9,13 +9,9 @@ Album: ""
 CoverOf: "[[Kibou no Uta - ULTRA TOWER (🎧️ 1521)]]"
 Creators:
   - "[[Jackie-O (🎙️ 339)]]"
-ListenInSec: 553
+ListenInSec: 825
 NumberInAlbum: 1
 related: []
-source: ""
 SourceFile: "[[Jackie-O - Kibou no Uta.mp3]]"
 ---
 
-# Jackie-O - Kibou no Uta
-
-![[Jackie-O - Kibou no Uta.mp3]]

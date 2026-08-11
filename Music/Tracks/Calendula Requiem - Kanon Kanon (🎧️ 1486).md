@@ -7,13 +7,13 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
+CoverOf: ""
 Creators:
   - "[[Kanon Kanon (🎙️ 727)]]"
+ListenInSec: 952
 NumberInAlbum: 0
 related:
   - "[[Calendula Requiem (TV Size) - Kanon Kanon]]"
 SourceFile: "[[Kanon Kanon - Calendula Requiem.mp3]]"
-ListenInSec: 952
-CoverOf: ""
 ---
 

@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Cö Shu Nie (🎙️ 688)]]"
-ListenInSec: 990
+ListenInSec: 1080
 NumberInAlbum: 0
 related: []
 source: ""

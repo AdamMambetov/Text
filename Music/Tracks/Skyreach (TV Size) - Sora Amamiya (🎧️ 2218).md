@@ -10,19 +10,10 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Sora Amamiya (🎙️ 818)]]"
-ListenInSec: 1198
+ListenInSec: 1379
 NumberInAlbum: 0
 related:
   - "[[Skyreach - Sora Amamiya (🎧️ 2219)]]"
-source: ""
 SourceFile: "[[Sora Amamiya - Skyreach (TV Size).opus]]"
 ---
-
-`$=dv.header(1, dv.current().aliases[0])`
-
-![[Sora Amamiya - Skyreach (TV Size).opus]]
-
-## Related Tracks
-
-![[related tracks.base]]
 

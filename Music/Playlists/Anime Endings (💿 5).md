@@ -1,7 +1,7 @@
 ---
 created: 2025-11-30T23:14:00+03:00
 aliases:
-  - Anime Endings
+  - "Anime Endings"
 tracklist:
   - "[[7 -seven- (TV Size) - FLOW (🎧️ 1633)]]"
   - "[[Kimi no Shiranai Monogatari - supercell (🎧️ 1653)]]"

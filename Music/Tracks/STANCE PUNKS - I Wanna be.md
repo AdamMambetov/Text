@@ -1,24 +1,18 @@
 ---
 created: 2026-06-23T13:59:12+03:00
 aliases:
-  - "STANCE PUNKS - I Wanna be"
+  - "I Wanna be"
+  - "Soul Eater ED 1"
+  - "Пожиратель душ ED 1"
 Cover: "[[STANCE PUNKS - I Wanna be.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""
-Creators: []
-ListenInSec: 638
+Creators:
+  - "[[STANCE PUNKS (🎙️ 445)]]"
+ListenInSec: 906
 NumberInAlbum: 0
 related: []
-source: ""
 SourceFile: "[[STANCE PUNKS - I Wanna be.mp3]]"
 ---
-
-`$=dv.header(1, dv.current().aliases[0])`
-
-![[STANCE PUNKS - I Wanna be.mp3]]
-
-## Related Tracks
-
-![[related tracks.base]]
 

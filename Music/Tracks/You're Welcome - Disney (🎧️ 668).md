@@ -5,12 +5,12 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 2016
 Album: "[[Moana]]"
+CoverOf: ""
 Creators:
   - "[[Disney (🎙️ 286)]]"
+ListenInSec: 170
 NumberInAlbum: 7
 related: []
 SourceFile: "[[Moana OST - You're Welcome.mp3]]"
-ListenInSec: 170
-CoverOf: ""
 ---
 

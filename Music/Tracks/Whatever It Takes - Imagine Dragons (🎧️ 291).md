@@ -5,12 +5,12 @@ aliases:
 Cover: "[[Imagine Dragons - Evolve.jpg]]"
 Year: 2017
 Album: "[[Evolve [2017] {Imagine Dragons}]]"
+CoverOf: ""
 Creators:
   - "[[Imagine Dragons (🎙️ 334)]]"
+ListenInSec: 137
 NumberInAlbum: 2
 related: []
 SourceFile: "[[Imagine Dragons - Whatever It Takes.mp3]]"
-ListenInSec: 137
-CoverOf: ""
 ---
 

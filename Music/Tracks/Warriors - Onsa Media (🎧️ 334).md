@@ -9,7 +9,7 @@ CoverOf: "[[Warriors - Imagine Dragons (🎧️ 290)]]"
 Creators:
   - "[[Onsa Media (🎙️ 402)]]"
   - "[[Jackie-O (🎙️ 339)]]"
-ListenInSec: 335
+ListenInSec: 339
 NumberInAlbum: 0
 related: []
 source: ""

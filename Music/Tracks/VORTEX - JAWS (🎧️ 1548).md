@@ -7,12 +7,12 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
+CoverOf: ""
 Creators:
   - "[[JAWS (🎙️ 680)]]"
+ListenInSec: 2852
 NumberInAlbum: 0
 related: []
 SourceFile: "[[JAWS - VORTEX.mp3]]"
-ListenInSec: 2603
-CoverOf: ""
 ---
 

@@ -1,15 +1,17 @@
 ---
 created: 2026-06-23T14:08:15+03:00
 aliases:
-  - "A A - Susumu Hirasawa - Parade (Live Hybrid Phonon)"
+  - "Parade (Live Hybrid Phonon)"
 Cover: "[[Susumu Hirasawa - Parade (Live Hybrid Phonon).jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""
-Creators: []
-ListenInSec: 3992
+Creators:
+  - "[[Susumu Hirasawa (🎙️ 452)]]"
+ListenInSec: 4379
 NumberInAlbum: 0
-related: []
+related:
+  - "[[Parade - Susumu Hirasawa (🎧️ 2059)]]"
 source: ""
 SourceFile: "[[A A - Susumu Hirasawa - Parade (Live Hybrid Phonon).mp3]]"
 ---

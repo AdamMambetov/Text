@@ -9,13 +9,13 @@ aliases:
 Cover: "[[Haruka Tomatsu - Courage.jpg]]"
 Year: 0
 Album: ""
+CoverOf: ""
 Creators:
   - "[[Haruka Tomatsu (🎙️ 687)]]"
+ListenInSec: 2266
 NumberInAlbum: 0
 related:
   - "[[Courage (TV Size) - Haruka Tomatsu (🎧️ 1698)]]"
 SourceFile: "[[Haruka Tomatsu - Courage.mp3]]"
-ListenInSec: 2266
-CoverOf: ""
 ---
 

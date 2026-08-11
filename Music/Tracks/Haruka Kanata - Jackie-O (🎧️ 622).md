@@ -10,7 +10,7 @@ Album: ""
 CoverOf: "[[Haruka Kanata - ASIAN KUNG-FU GENERATION (🎧️ 644)]]"
 Creators:
   - "[[Jackie-O (🎙️ 339)]]"
-ListenInSec: 236
+ListenInSec: 237
 NumberInAlbum: 0
 related: []
 source: ""

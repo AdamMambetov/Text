@@ -10,13 +10,13 @@ aliases:
 Cover: "[[Radiant Records - ПЕРЕПУТЬЕ.jpg]]"
 Year: 0
 Album: "[[ПЕРЕПУТЬЕ (📀 33)]]"
+CoverOf: "[[Crossing Field - LiSA (🎧️ 1445)]]"
 Creators:
   - "[[Radiant Records (🎙️ 39)]]"
   - "[[Hono (🎙️ 51)]]"
+ListenInSec: 4033
 NumberInAlbum: 1
 related: []
 SourceFile: "[[Radiant Records - Перепутье.mp3]]"
-ListenInSec: 3787
-CoverOf: "[[Crossing Field - LiSA (🎧️ 1445)]]"
 ---
 

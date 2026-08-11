@@ -11,7 +11,7 @@ CoverOf: ""
 Creators:
   - "[[Hiroyuki Sawano (🎙️ 329)]]"
   - "[[Rei (🎙️ 810)]]"
-ListenInSec: 199
+ListenInSec: 398
 NumberInAlbum: 0
 related: []
 source: ""

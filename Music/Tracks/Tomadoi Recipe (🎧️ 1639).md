@@ -5,12 +5,12 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
+CoverOf: ""
 Creators: []
+ListenInSec: 2139
 NumberInAlbum: 1
 related:
   - "[[Tomadoi Recipe (TV Size) (🎧️ 1640)]]"
 SourceFile: "[[Mikakuning! - Tomadoi Recipe.mp3]]"
-ListenInSec: 2139
-CoverOf: ""
 ---
 

@@ -11,7 +11,7 @@ CoverOf: "[[aLIEz - Hiroyuki Sawano (🎧️ 1785)]]"
 Creators:
   - "[[Radiant Records (🎙️ 39)]]"
   - "[[Molli (🎙️ 47)]]"
-ListenInSec: 3187
+ListenInSec: 3455
 NumberInAlbum: 0
 related: []
 source: ""

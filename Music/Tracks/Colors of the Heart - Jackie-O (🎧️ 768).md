@@ -10,7 +10,7 @@ Album: ""
 CoverOf: "[[Colors of the Heart - UVERworld (🎧️ 1264)]]"
 Creators:
   - "[[Jackie-O (🎙️ 339)]]"
-ListenInSec: 228
+ListenInSec: 455
 NumberInAlbum: 0
 related: []
 source: ""

@@ -10,13 +10,9 @@ Album: ""
 CoverOf: "[[Drawing Days - SPLAY (🎧️ 2049)]]"
 Creators:
   - "[[Jackie-O (🎙️ 339)]]"
-ListenInSec: 278
+ListenInSec: 823
 NumberInAlbum: 0
 related: []
-source: ""
 SourceFile: "[[Jackie-O - Drawing Days.mp3]]"
 ---
 
-# Jackie-O - Drawing Days
-
-![[Jackie-O - Drawing Days.mp3]]

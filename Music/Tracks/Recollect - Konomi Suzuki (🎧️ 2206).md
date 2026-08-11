@@ -11,19 +11,10 @@ CoverOf: ""
 Creators:
   - "[[Konomi Suzuki (🎙️ 353)]]"
   - "[[Ashnikko (🎙️ 817)]]"
-ListenInSec: 622
+ListenInSec: 1036
 NumberInAlbum: 0
 related:
   - "[[Recollect (TV Size) - Konomi Suzuki (🎧️ 2204)]]"
-source: ""
 SourceFile: "[[Konomi Suzuki feat. Ashnikko - Recollect.opus]]"
 ---
-
-`$=dv.header(1, dv.current().aliases[0])`
-
-![[Konomi Suzuki feat. Ashnikko - Recollect.opus]]
-
-## Related Tracks
-
-![[related tracks.base]]
 

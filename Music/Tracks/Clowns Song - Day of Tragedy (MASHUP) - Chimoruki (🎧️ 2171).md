@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Chimoruki (🎙️ 260)]]"
-ListenInSec: 11
+ListenInSec: 318
 NumberInAlbum: 0
 related:
   - "[[Your Turn To Die OST - 23 Clown's Song (EXTENDED)]]"

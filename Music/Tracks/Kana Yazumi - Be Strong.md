@@ -7,7 +7,7 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators: []
-ListenInSec: 787
+ListenInSec: 1322
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Kana Yazumi - Be Strong.opus]]"

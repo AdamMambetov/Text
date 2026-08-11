@@ -7,18 +7,9 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators: []
-ListenInSec: 290
+ListenInSec: 350
 NumberInAlbum: 0
 related: []
-source: ""
 SourceFile: "[[nobodyknows+ - Hero's Come Back!!.mp3]]"
 ---
-
-`$=dv.header(1, dv.current().aliases[0])`
-
-![[nobodyknows+ - Hero's Come Back!!.mp3]]
-
-## Related Tracks
-
-![[related tracks.base]]
 

@@ -9,7 +9,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[JUNNA (🎙️ 819)]]"
-ListenInSec: 359
+ListenInSec: 1439
 NumberInAlbum: 0
 related: []
 source: ""

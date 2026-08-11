@@ -11,7 +11,7 @@ Album: ""
 CoverOf: "[[Driver's High - L'Arc-en-Ciel (🎧️ 592)]]"
 Creators:
   - "[[Jackie-O (🎙️ 339)]]"
-ListenInSec: 276
+ListenInSec: 528
 NumberInAlbum: 0
 related: []
 source: ""

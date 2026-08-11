@@ -48,9 +48,37 @@
               "icon": "lucide-file",
               "title": "Naruto OST 3 (📀 17)"
             }
+          },
+          {
+            "id": "89ad2f666846d8b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Note/projects/homelab/homelab.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "homelab"
+            }
+          },
+          {
+            "id": "5222092bf6bcd7b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Music/Tracks/'Till I Collapse - Eminem (🎧️ 1141).md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "'Till I Collapse - Eminem (🎧️ 1141)"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -66,7 +94,9 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical",
-            "autoReveal": false
+            "autoReveal": false,
+            "showSearch": false,
+            "searchQuery": ""
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
@@ -215,8 +245,10 @@
       "obsidian-excalidraw-plugin:New drawing": true
     }
   },
-  "active": "f7391b79c506ead4",
+  "active": "5222092bf6bcd7b6",
   "lastOpenFiles": [
+    "Note/projects/homelab/homelab.md",
+    "Music/Albums/Naruto OST 3 (📀 17).md",
     "Music/Covers/Nana Kitade - 18 -eighteen-.jpg",
     "Note/PostgreSQL.md",
     "Music/Tracks/'Till I Collapse - Eminem (🎧️ 1141).md",
@@ -244,7 +276,6 @@
     "Music/Playlists/YouTube (💿 9).md",
     "Music/Tracks/Rapa - miragecoordinator - Music collection from ＂Umineko When They Cry＂ for Clarinet Quintet and piano.md",
     "Music/Playlists/100% Шедевр (💿 6).md",
-    "Music/Tracks/1Coma - Hiroyuki Sawano (🎧️ 1631).md",
     "Music/Covers/Gemini Syndrome - Memento Mori.jpg",
     "Music/Covers/Александр Пушной - Пушной.ru.jpg",
     "Music/Covers/Eminem - The Eminem Show.jpg",
@@ -253,7 +284,6 @@
     "Music/Covers/Chi_exe - Happy! Lucky! Dochy! (Full Version).jpg",
     "Music/Covers/ymetsys - Plants vs Zombies Soundtrack. [Main Menu].jpg",
     "Music/Covers/coldrain - coldrain - VENGEANCE (Official Music Video).jpg",
-    "Music/Covers/Vale ou não vale？ - Naruto Shippuuden - Original Sound Track - Sasori's Theme.jpg",
     "Text/Note/excalidraw",
     "Text/Note",
     "Text",

@@ -7,12 +7,12 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
+CoverOf: ""
 Creators:
   - "[[Rika Mayama (🎙️ 428)]]"
+ListenInSec: 1043
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Rika Mayama - Liar Mask.mp3]]"
-ListenInSec: 1043
-CoverOf: ""
 ---
 

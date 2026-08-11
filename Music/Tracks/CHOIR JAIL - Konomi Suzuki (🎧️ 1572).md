@@ -8,13 +8,13 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
+CoverOf: ""
 Creators:
   - "[[Konomi Suzuki (🎙️ 353)]]"
+ListenInSec: 2535
 NumberInAlbum: 1
 related:
   - "[[CHOIR JAIL (TV Size) - Konomi Suzuki (🎧️ 1573)]]"
 SourceFile: "[[Konomi Suzuki - CHOIR JAIL.mp3]]"
-ListenInSec: 2535
-CoverOf: ""
 ---
 

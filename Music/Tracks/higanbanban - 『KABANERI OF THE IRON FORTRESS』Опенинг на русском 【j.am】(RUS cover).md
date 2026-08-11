@@ -5,9 +5,9 @@ aliases:
 Cover: "[[higanbanban - KABANERI OF THE IRON FORTRESS.jpg]]"
 Year: 0
 Album: ""
-CoverOf: ""
+CoverOf: "[[Kabaneri of the Iron Fortress - Egoist (🎧️ 1610)]]"
 Creators: []
-ListenInSec: 351
+ListenInSec: 640
 NumberInAlbum: 0
 related: []
 source: ""

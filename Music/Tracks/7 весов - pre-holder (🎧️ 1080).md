@@ -5,12 +5,12 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 2007
 Album: "[[Umineko no Naku Koro ni OST (📀 30)]]"
+CoverOf: ""
 Creators:
   - "[[pre-holder (🎙️ 5)]]"
+ListenInSec: 2126
 NumberInAlbum: 166
 related: []
 SourceFile: "[[Umineko no Naku Koro ni OST - 166 7 весов.ogg]]"
-ListenInSec: 2126
-CoverOf: ""
 ---
 

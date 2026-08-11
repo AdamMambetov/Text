@@ -5,11 +5,11 @@ aliases:
 Cover: "[[Persona 3 Reload - It's Going Down Now.jpg]]"
 Year: 0
 Album: ""
+CoverOf: ""
 Creators: []
+ListenInSec: 2586
 NumberInAlbum: 0
 related: []
 SourceFile: "[[tilinmaster777gameplays - Persona 3 Reload - It's Going Down Now (with Lyrics).mp3]]"
-ListenInSec: 2420
-CoverOf: ""
 ---
 

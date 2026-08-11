@@ -7,12 +7,12 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
+CoverOf: "[[Complication - ROOKiEZ is PUNK'D (🎧️ 1710)]]"
 Creators:
   - "[[Jackie-O (🎙️ 339)]]"
+ListenInSec: 978
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Jackie-O - Complication.mp3]]"
-ListenInSec: 978
-CoverOf: "[[Complication - ROOKiEZ is PUNK'D (🎧️ 1710)]]"
 ---
 

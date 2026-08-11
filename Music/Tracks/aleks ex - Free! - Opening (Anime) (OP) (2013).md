@@ -7,18 +7,9 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators: []
-ListenInSec: 89
+ListenInSec: 178
 NumberInAlbum: 0
 related: []
-source: ""
 SourceFile: "[[aleks ex - Free! - Opening [Anime] [OP] [2013].mp3]]"
 ---
-
-`$=dv.header(1, dv.current().aliases[0])`
-
-![[aleks ex - Free! - Opening [Anime] [OP] [2013].mp3]]
-
-## Related Tracks
-
-![[related tracks.base]]
 

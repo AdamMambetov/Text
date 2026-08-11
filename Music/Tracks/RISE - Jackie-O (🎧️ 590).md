@@ -8,13 +8,9 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Jackie-O (🎙️ 339)]]"
-ListenInSec: 231
+ListenInSec: 455
 NumberInAlbum: 1
 related: []
-source: ""
 SourceFile: "[[Jackie-O - RISE.mp3]]"
 ---
 
-# Jackie-O - RISE
-
-![[Jackie-O - RISE.mp3]]

@@ -7,12 +7,12 @@ aliases:
 Cover: "[[Round Table - Puzzle.jpg]]"
 Year: 0
 Album: ""
+CoverOf: ""
 Creators:
   - "[[Round Table (🎙️ 805)]]"
+ListenInSec: 2778
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Round Table - Puzzle.mp3]]"
-ListenInSec: 2778
-CoverOf: ""
 ---
 

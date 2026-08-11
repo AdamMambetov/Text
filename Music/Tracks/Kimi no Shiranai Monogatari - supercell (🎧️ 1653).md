@@ -7,13 +7,13 @@ aliases:
 Cover: "[[supercell - Kimi no Shiranai.jpg]]"
 Year: 0
 Album: ""
+CoverOf: ""
 Creators:
   - "[[supercell (🎙️ 59)]]"
+ListenInSec: 1733
 NumberInAlbum: 0
 related:
   - "[[Kimi no Shiranai Monogatari (TV Size) - supercell (🎧️ 1646)]]"
 SourceFile: "[[supercell - Kimi no Shiranai.mp3]]"
-ListenInSec: 1733
-CoverOf: ""
 ---
 

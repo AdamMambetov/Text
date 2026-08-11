@@ -7,18 +7,9 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators: []
-ListenInSec: 584
+ListenInSec: 866
 NumberInAlbum: 0
 related: []
-source: ""
 SourceFile: "[[Masatoshi Ono - departure!.opus]]"
 ---
-
-`$=dv.header(1, dv.current().aliases[0])`
-
-![[Masatoshi Ono - departure!.opus]]
-
-## Related Tracks
-
-![[related tracks.base]]
 

@@ -10,7 +10,7 @@ Album: ""
 CoverOf: "[[Button - PENGUIN RESEARCH (🎧️ 614)]]"
 Creators:
   - "[[Jackie-O (🎙️ 339)]]"
-ListenInSec: 242
+ListenInSec: 483
 NumberInAlbum: 0
 related: []
 source: ""

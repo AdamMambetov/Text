@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Nana Kitade (🎙️ 820)]]"
-ListenInSec: 313
+ListenInSec: 468
 NumberInAlbum: 0
 related: []
 source: ""

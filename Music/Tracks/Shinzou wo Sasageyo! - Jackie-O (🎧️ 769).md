@@ -10,7 +10,7 @@ Album: ""
 CoverOf: "[[Shinzou wo Sasageyo! - Linked Horizon]]"
 Creators:
   - "[[Jackie-O (🎙️ 339)]]"
-ListenInSec: 381
+ListenInSec: 722
 NumberInAlbum: 0
 related: []
 source: ""

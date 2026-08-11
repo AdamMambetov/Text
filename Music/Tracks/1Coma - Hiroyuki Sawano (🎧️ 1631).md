@@ -5,12 +5,12 @@ aliases:
 Cover: "[[Hiroyuki Sawano - Kabaneri of the Iron Fortress OST.jpg]]"
 Year: 2016
 Album: "[[Kabaneri of the Iron Fortress OST]]"
+CoverOf: ""
 Creators:
   - "[[Hiroyuki Sawano (🎙️ 329)]]"
+ListenInSec: 2407
 NumberInAlbum: 15
 related: []
 SourceFile: "[[Kabaneri of the Iron Fortress OST - 1Coma.mp3]]"
-ListenInSec: 2407
-CoverOf: ""
 ---
 

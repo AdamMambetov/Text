@@ -5,12 +5,12 @@ aliases:
 Cover: "[[Scatman John - Scatman (ski-ba-bop-ba-dop-bop).jpg]]"
 Year: 0
 Album: ""
+CoverOf: ""
 Creators:
   - "[[Scatman John (🎙️ 434)]]"
+ListenInSec: 2306
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Scatman John - Scatman (ski-ba-bop-ba-dop-bop).mp3]]"
-ListenInSec: 2306
-CoverOf: ""
 ---
 

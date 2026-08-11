@@ -8,7 +8,7 @@ Album: "[[Oxygen: Inhale [2014] {Thousand Foot Krutch}]]"
 CoverOf: ""
 Creators:
   - "[[Thousand Foot Krutch (🎙️ 468)]]"
-ListenInSec: 2471
+ListenInSec: 2705
 NumberInAlbum: 2
 related: []
 source: ""

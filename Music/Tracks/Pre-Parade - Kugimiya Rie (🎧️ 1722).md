@@ -7,15 +7,15 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
+CoverOf: ""
 Creators:
   - "[[Kugimiya Rie (🎙️ 331)]]"
   - "[[Horie Yui (🎙️ 332)]]"
   - "[[Kitamura Eri (🎙️ 333)]]"
+ListenInSec: 4100
 NumberInAlbum: 0
 related:
   - "[[Pre-Parade (TV Size) - Kugimiya Rie]]"
 SourceFile: "[[Kugimiya Rie, Horie Yui, Kitamura Eri - Pre-Parade.mp3]]"
-ListenInSec: 4100
-CoverOf: ""
 ---
 

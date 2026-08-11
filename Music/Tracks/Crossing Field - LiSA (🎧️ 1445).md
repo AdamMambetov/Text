@@ -9,13 +9,13 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
+CoverOf: ""
 Creators:
   - "[[LiSA (🎙️ 65)]]"
+ListenInSec: 2046
 NumberInAlbum: 0
 related:
   - "[[Crossing Field (TV Size) (🎧️ 1459)]]"
 SourceFile: "[[LiSA - Crossing Field.mp3]]"
-ListenInSec: 2046
-CoverOf: ""
 ---
 

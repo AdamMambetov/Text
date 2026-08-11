@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[UVERworld (🎙️ 475)]]"
-ListenInSec: 289
+ListenInSec: 376
 NumberInAlbum: 0
 related: []
 source: ""

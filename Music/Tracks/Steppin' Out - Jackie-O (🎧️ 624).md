@@ -10,7 +10,7 @@ Album: ""
 CoverOf: "[[Steppin' Out - FLOW (🎧️ 109)]]"
 Creators:
   - "[[Jackie-O (🎙️ 339)]]"
-ListenInSec: 545
+ListenInSec: 813
 NumberInAlbum: 0
 related: []
 source: ""

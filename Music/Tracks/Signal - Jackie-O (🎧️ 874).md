@@ -10,7 +10,7 @@ Album: ""
 CoverOf: "[[Signal - TK from Ling tosite sigure (🎧️ 1467)]]"
 Creators:
   - "[[Jackie-O (🎙️ 339)]]"
-ListenInSec: 282
+ListenInSec: 715
 NumberInAlbum: 0
 related: []
 source: ""

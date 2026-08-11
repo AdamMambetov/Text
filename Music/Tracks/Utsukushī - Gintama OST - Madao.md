@@ -7,18 +7,9 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators: []
-ListenInSec: 50
+ListenInSec: 179
 NumberInAlbum: 0
 related: []
-source: ""
 SourceFile: "[[Utsukushī - Gintama OST - Madao.mp3]]"
 ---
-
-`$=dv.header(1, dv.current().aliases[0])`
-
-![[Utsukushī - Gintama OST - Madao.mp3]]
-
-## Related Tracks
-
-![[related tracks.base]]
 
