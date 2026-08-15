@@ -1,9 +1,9 @@
 ---
 created: 2026-01-29T23:25:57+03:00
 aliases:
-  - Адский рай 2
-  - Jigokuraku 2
-  - Hell's Paradise 2
+  - "Адский рай 2"
+  - "Jigokuraku 2"
+  - "Hell's Paradise 2"
 Status: watch
 Type: anime
 Rating:

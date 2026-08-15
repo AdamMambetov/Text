@@ -1,15 +1,16 @@
 ---
 created: 2026-02-04T23:05:55+03:00
 aliases:
-  - Исюра 2
-  - Ishura 2
-Status: watch
+  - "Исюра 2"
+  - "Ishura 2"
+Status: complete
 Type: anime
 Rating:
   - "[[®️16|R-17]]"
 Cover: "[[ishura_2_anime_cover.jpg]]"
 Year: 2025
-Episode: 3
+Episode: 12
+Views: 1
 Предыстория: "[[Ishura (🇯🇵📺 795)]]"
 ---
 

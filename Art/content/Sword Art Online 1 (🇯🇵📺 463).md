@@ -1,10 +1,10 @@
 ---
 created: 2024-10-29T22:01:13+03:00
 aliases:
-  - Мастера Меча Онлайн
-  - Sword Art Online
-  - SAO
-  - САО
+  - "Мастера Меча Онлайн"
+  - "Sword Art Online"
+  - "SAO"
+  - "САО"
 Status: complete
 Type: anime
 Rating:
@@ -15,7 +15,7 @@ Year: 2012
 Episode: 25
 Views: 3
 tags:
-  - ❤
+  - "❤"
 related:
   - "[[Sword Art Online. Progressive Movie - Hoshi Naki Yoru no Aria (🇯🇵📺 464)]]"
 Продолжение: "[[Sword Art Online 2 (🇯🇵📺 466)]]"

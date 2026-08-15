@@ -61,3 +61,12 @@ fn main() {
 }
 
 ```
+
+## Приколюхи
+
+> [!note]- Как посмотреть все фичи у крейта
+> ```bash
+> cargo install cargo-whatfeatures
+> cargo whatfeatures <CRATE>
+> ```
+
