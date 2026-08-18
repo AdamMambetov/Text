@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[SPYAIR (🎙️ 444)]]"
-ListenInSec: 200
+ListenInSec: 300
 NumberInAlbum: 0
 related:
   - "[[Sakura Mitsutsuki - SPYAIR (🎧️ 1466)]]"

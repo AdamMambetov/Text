@@ -9,7 +9,7 @@ Album: ""
 CoverOf: "[[War of Change - Thousand Foot Krutch (🎧️ 255)]]"
 Creators:
   - "[[Everblack Melodies (🎙️ 305)]]"
-ListenInSec: 433
+ListenInSec: 643
 NumberInAlbum: 1
 related: []
 source: ""

@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Powerwolf (🎙️ 418)]]"
-ListenInSec: 654
+ListenInSec: 919
 NumberInAlbum: 0
 related: []
 source: ""

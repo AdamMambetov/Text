@@ -1,14 +1,14 @@
 ---
 created: 2024-07-18T15:34:45+03:00
 aliases:
-  - "Naruto OST 2"
+  - Naruto OST 2
 Year: 2004
 Creators:
   - "[[Toshio Masuda (🎙️ 559)]]"
   - "[[Musashi Project (🎙️ 560)]]"
 source: https://vgmdb.net/album/24240
 tracklist:
-  - "[[Haruka Kanata - ASIAN KUNG-FU GENERATION (🎧️ 644)]]"
+  - "[[Haruka Kanata - ASIAN KUNG-FU GENERATION (🎧️ 641)]]"
   - "[[Daylight of Konoha - Musashi Project (🎧️ 369)]]"
   - "[[Confrontment - Toshio Masuda (🎧️ 368)]]"
   - "[[Evil - Musashi Project (🎧️ 370)]]"
@@ -21,12 +21,12 @@ tracklist:
   - "[[Gai's Theme - Toshio Masuda (🎧️ 376)]]"
   - "[[Hinata vs Neji - Musashi Project (🎧️ 377)]]"
   - "[[Orochimaru's Theme - Musashi Project (🎧️ 378)]]"
-  - "Avenger"
+  - Avenger
   - "[[Orochimaru Fight - Musashi Project (🎧️ 379)]]"
-  - "Raikiri"
+  - Raikiri
   - "[[Sasuke Destiny - Musashi Project (🎧️ 381)]]"
   - "[[Alone - Toshio Masuda (🎧️ 1640)]]"
-  - "Harmonia"
+  - Harmonia
 ---
 
 

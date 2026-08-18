@@ -7,13 +7,9 @@ Year: 1973
 Album: "[[The Essential Redbone]]"
 CoverOf: ""
 Creators: []
-ListenInSec: 2014
+ListenInSec: 2426
 NumberInAlbum: 2
 related: []
-source: ""
 SourceFile: "[[Redbone - Come And Get Your Love.mp3]]"
 ---
 
-# Redbone - Come And Get Your Love
-
-![[Redbone - Come And Get Your Love.mp3]]

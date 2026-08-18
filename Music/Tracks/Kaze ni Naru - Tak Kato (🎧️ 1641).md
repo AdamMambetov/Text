@@ -1,12 +1,12 @@
 ---
 created: 2025-02-03T08:24:20+03:00
 aliases:
-  - "Kaze ni Naru"
-  - "Возвращение кота ED 1"
+  - Kaze ni Naru
+  - Возвращение кота ED 1
 Cover: "[[Tak Kato - Kaze Ni Naru.png]]"
 Year: 2019
 Album: ""
-CoverOf: "[[Kaze Ni Naru - Ayano Tsuji (🎧️ 822)]]"
+CoverOf: "[[Kaze Ni Naru - Ayano Tsuji (🎧️ 817)]]"
 Creators:
   - "[[Tak Kato (🎙️ 666)]]"
 ListenInSec: 531

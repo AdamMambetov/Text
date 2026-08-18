@@ -9,6 +9,8 @@ aliases:
 
 # Windows
 
+Окно на весь экран: `Alt + Enter`
+
 ## Список программ
 
 - DuckDuckGo Browser

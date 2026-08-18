@@ -1,13 +1,14 @@
 ---
 created: 2026-07-18T00:34:05+03:00
 aliases:
-  - "coldrain - We're not alone"
+  - "We're not alone"
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""
-Creators: []
-ListenInSec: 1186
+Creators:
+  - "[[coldrain (🎙️ 821)]]"
+ListenInSec: 2687
 NumberInAlbum: 0
 related: []
 source: ""

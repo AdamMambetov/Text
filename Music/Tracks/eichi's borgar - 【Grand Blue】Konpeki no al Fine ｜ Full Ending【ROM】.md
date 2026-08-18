@@ -1,13 +1,15 @@
 ---
 created: 2026-06-11T23:33:57+03:00
 aliases:
-  - "eichi's borgar - 【Grand Blue】Konpeki no al Fine ｜ Full Ending【ROM】"
+  - "Konpeki no al Fine"
+  - "Grand Blue ED 1"
+  - "Необъятный океан ED 1"
 Cover: "[[eichi's borgar - 【Grand Blue】Konpeki no al Fine ｜ Full Ending【ROM】.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""
 Creators: []
-ListenInSec: 899
+ListenInSec: 1105
 NumberInAlbum: 0
 related: []
 source: ""

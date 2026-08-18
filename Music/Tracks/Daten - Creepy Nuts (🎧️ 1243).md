@@ -8,13 +8,9 @@ Album: "[[Ensemble Play]]"
 CoverOf: ""
 Creators:
   - "[[Creepy Nuts (🎙️ 269)]]"
-ListenInSec: 519
+ListenInSec: 688
 NumberInAlbum: 1
 related: []
-source: ""
 SourceFile: "[[Creepy Nuts - DATEN.mp3]]"
 ---
 
-# Creepy Nuts - DATEN
-
-![[Creepy Nuts - DATEN.mp3]]

@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Mili (🎙️ 701)]]"
-ListenInSec: 2680
+ListenInSec: 2681
 NumberInAlbum: 0
 related:
   - "[[Rightfully (TV Size) - Mili]]"

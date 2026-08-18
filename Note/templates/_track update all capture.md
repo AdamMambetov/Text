@@ -19,6 +19,10 @@ arr.forEach(async (p, i) => {
 			.replaceAll("\"", "'")
 			.replaceAll("[", "(")
 			.replaceAll("]", ")")
+			.replaceAll(":", "")
+			.replaceAll("*", "_")
+			.replaceAll("<", "(")
+			.replaceAll(">", ")")
 		let creatorName = creator.aliases[0]
 			.replaceAll("?", "")
 			.replaceAll("#", "")
@@ -28,6 +32,10 @@ arr.forEach(async (p, i) => {
 			.replaceAll("\"", "'")
 			.replaceAll("[", "(")
 			.replaceAll("]", ")")
+			.replaceAll(":", "")
+			.replaceAll("*", "_")
+			.replaceAll("<", "(")
+			.replaceAll(">", ")")
 		let num = i + 1
 		let title = `${trackName} - ${creatorName} (🎧️ ${num}).md`
 		

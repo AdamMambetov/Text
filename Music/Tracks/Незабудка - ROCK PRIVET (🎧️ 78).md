@@ -1,14 +1,14 @@
 ---
 created: 2022-04-21T04:20:54+03:00
 aliases:
-  - "Незабудка"
+  - Незабудка
 Cover: "[[_No Album Art.jpg]]"
 Year: 2019
 Album: ""
-CoverOf: "[[Незабудка - Тима Белорусских (🎧️ 923)]]"
+CoverOf: "[[Незабудка - Тима Белорусских (🎧️ 841)]]"
 Creators:
   - "[[ROCK PRIVET (🎙️ 430)]]"
-ListenInSec: 250
+ListenInSec: 258
 NumberInAlbum: 0
 related: []
 source: ""

@@ -1,8 +1,8 @@
 ---
 created: 2025-10-23T16:00:20+03:00
 aliases:
-  - "Fukashigi no Carte"
-  - "Этот глупый свин не понимает мечту девочки-зайки ED"
+  - Fukashigi no Carte
+  - Этот глупый свин не понимает мечту девочки-зайки ED
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
@@ -17,7 +17,7 @@ Creators:
 ListenInSec: 323
 NumberInAlbum: 0
 related:
-  - "[[Fukashigi no Carte (TV Size) - Nao Touyama (🎧️ 1100)]]"
+  - "[[Fukashigi no Carte (TV Size) - Nao Touyama (🎧️ 1098)]]"
 source: ""
 SourceFile: "[[Fukashigi no Carte.mp3]]"
 ---

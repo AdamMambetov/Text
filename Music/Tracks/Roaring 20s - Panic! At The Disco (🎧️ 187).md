@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Panic! At The Disco (🎙️ 410)]]"
-ListenInSec: 187
+ListenInSec: 243
 NumberInAlbum: 0
 related: []
 source: ""

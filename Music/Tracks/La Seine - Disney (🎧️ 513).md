@@ -8,6 +8,8 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Disney (🎙️ 286)]]"
+  - "[[Vanessa Paradis (🎙️ 842)]]"
+  - "[[-M- (🎙️ 843)]]"
 ListenInSec: 493
 NumberInAlbum: 0
 related: []

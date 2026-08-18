@@ -278,7 +278,7 @@
   "displayChanged": true,
   "suppressMessageWhenNoChange": true,
   "suppressLintAllFilesConfirmationModal": false,
-  "suppressLintAllFilesInFolderConfirmationModal": false,
+  "suppressLintAllFilesInFolderConfirmationModal": true,
   "lintOnFileChange": true,
   "displayLintOnFileChangeNotice": true,
   "settingsConvertedToConfigKeyValues": true,

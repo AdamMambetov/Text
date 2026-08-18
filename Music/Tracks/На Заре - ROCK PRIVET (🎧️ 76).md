@@ -10,7 +10,8 @@ Creators:
   - "[[ROCK PRIVET (🎙️ 430)]]"
 ListenInSec: 245
 NumberInAlbum: 75
-related: []
+related:
+  - "[[На заре - Мэd Dог (🎧️ 75)]]"
 source: ""
 SourceFile: "[[ROCK PRIVET - На Заре.mp3]]"
 ---

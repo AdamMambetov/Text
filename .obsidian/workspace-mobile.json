@@ -36,49 +36,21 @@
             }
           },
           {
-            "id": "f7391b79c506ead4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Music/Albums/Naruto OST 3 (📀 17).md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Naruto OST 3 (📀 17)"
-            }
-          },
-          {
             "id": "89ad2f666846d8b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note/projects/homelab/homelab.md",
-                "mode": "source",
+                "file": "Music/Tracks/Bamboleo - Gipsy Kings (🎧️ 1196).md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "homelab"
-            }
-          },
-          {
-            "id": "5222092bf6bcd7b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Music/Tracks/'Till I Collapse - Eminem (🎧️ 1141).md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "'Till I Collapse - Eminem (🎧️ 1141)"
+              "title": "Bamboleo - Gipsy Kings (🎧️ 1196)"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -171,7 +143,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Music/Tracks/'Till I Collapse - Eminem (🎧️ 1141).md",
+            "file": "Music/Tracks/Bamboleo - Gipsy Kings (🎧️ 1196).md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -245,45 +217,45 @@
       "obsidian-excalidraw-plugin:New drawing": true
     }
   },
-  "active": "5222092bf6bcd7b6",
+  "active": "89ad2f666846d8b2",
   "lastOpenFiles": [
-    "Note/projects/homelab/homelab.md",
-    "Music/Albums/Naruto OST 3 (📀 17).md",
+    "Music/Tracks/Bad To the Bone - George Thorogood & The Destroyers (🎧️ 1176).md",
+    "Music/Creators/George Thorogood & The Destroyers (🎙️ 874).md",
+    "Music/Tracks/Bad Romance - Jay Smith (🎧️ 1175).md",
+    "Music/Creators/Jay Smith (🎙️ 873).md",
+    "Music/Tracks/Incredibox The Love - HellYeahPlay (🎧️ 1886).md",
+    "Music/Tracks/Incredibox Sunrise (hey, oh yeah) - HellYeahPlay (🎧️ 1888).md",
+    "Music/Tracks/Incredibox Sunrise - HellYeahPlay (🎧️ 1885).md",
+    "Music/Tracks/Incredibox Little Miss - HellYeahPlay (🎧️ 1887).md",
+    "Music/Tracks/Incredibox Alpha - HellYeahPlay (🎧️ 1884).md",
+    "Music/Creators/LINS (🎙️ 816).md",
+    "Music/Tracks/MILF BOY - LINS (🎧️ 2183).md",
+    "Music/Tracks/DEDTALES - LINS (🎧️ 2055).md",
+    "Music/Tracks/ЧАТ УМРЁТ - LINS (🎧️ 2218).md",
+    "Music/Tracks/ХИККАН (хочется потрогать) - LINS (🎧️ 2216).md",
+    "Music/Tracks/СОФИЯ - LINS (🎧️ 2053).md",
+    "Music/Creators/HellYeahPlay (🎙️ 871).md",
+    "Music/Tracks/СЕНСЕЙ - LINS (🎧️ 2215).md",
+    "Music/Tracks/АЛЁНА ДАСТ - LINS (🎧️ 2217).md",
+    "Music/Tracks/All Eyes on You - Smash Into Pieces (🎧️ 1152).md",
+    "Music/Creators/Smash Into Pieces (🎙️ 872).md",
+    "Music/Tracks/Alien Alien (Nhato Remix) - NayutalieN (🎧️ 1151).md",
+    "Music/Creators/Nhato (🎙️ 870).md",
+    "Music/Creators/NayutalieN (🎙️ 869).md",
+    "Music/Tracks/Age of the Dragon - Miracle of Sound (🎧️ 1149).md",
+    "Music/Creators/Miracle of Sound (🎙️ 868).md",
+    "Music/Tracks/Senkyou no Igreja - Chiyomaru Shikura (🎧️ 1101).md",
+    "Music/Covers/Rotten Toten - Ужин у вдовы.jpg",
+    "Music/Covers/Hiroyuki Sawano - LEveL (TV Size).jpg",
     "Music/Covers/Nana Kitade - 18 -eighteen-.jpg",
-    "Note/PostgreSQL.md",
-    "Music/Tracks/'Till I Collapse - Eminem (🎧️ 1141).md",
-    "Music/Playlists/Anime (💿 3).md",
-    "Music/Tracks/Ano Hi no mama no Bokura - Sora Amamiya (🎧️ 1373).md",
     "Music/Covers/Sora Amamiya, Rie Takahashi, Ai Kayano - Ano Hi no mama no Bokura.png",
-    "Music/Tracks/Watashi no Tenshi - HoneyWorks (🎧️ 493).md",
-    "Music/Creators/HoneyWorks (🎙️ 259).md",
-    "Music/Tracks/Hishoku no Sora - Kawada Mami (🎧️ 1552).md",
-    "Music/Tracks/Kesenai Tsumi (TV Size) - Nana Kitade (🎧️ 2215).md",
-    "Music/Tracks/JUSTadICE (TV Size) - Oomori Seiko (🎧️ 1092).md",
-    "Music/Creators/Oomori Seiko (🎙️ 821).md",
-    "Note/content/@Адам Мамбетов.md",
-    "Music/Creators/Nana Kitade (🎙️ 820).md",
-    "Music/Tracks/Here (TV Size) - JUNNA (🎧️ 2216).md",
-    "Music/Creators/JUNNA (🎙️ 819).md",
-    "Music/Tracks/Extra Magic Hour (TV Size) - AKINO (🎧️ 2217).md",
-    "Music/Tracks/Extra Magic Hour - AKINO (🎧️ 1314).md",
-    "Music/Tracks/Skyreach - Sora Amamiya (🎧️ 2219).md",
-    "Music/Tracks/Skyreach (TV Size) - Sora Amamiya (🎧️ 2218).md",
     "Music/tracks.base",
-    "Music/Albums/8 Mile OST (📀 2).md",
-    "Music/Creators/Sora Amamiya (🎙️ 818).md",
-    "Music/Creators/-45 (🎙️ 6).md",
-    "Music/Playlists/YouTube (💿 9).md",
-    "Music/Tracks/Rapa - miragecoordinator - Music collection from ＂Umineko When They Cry＂ for Clarinet Quintet and piano.md",
-    "Music/Playlists/100% Шедевр (💿 6).md",
     "Music/Covers/Gemini Syndrome - Memento Mori.jpg",
     "Music/Covers/Александр Пушной - Пушной.ru.jpg",
     "Music/Covers/Eminem - The Eminem Show.jpg",
     "Music/Covers/_No Album Art.jpg",
     "Music/Covers/MADKID OFFICIAL - MADKID ⧸ RISE [Music Video] ('The Rising of the Shield Hero' Opening Theme).jpg",
     "Music/Covers/Chi_exe - Happy! Lucky! Dochy! (Full Version).jpg",
-    "Music/Covers/ymetsys - Plants vs Zombies Soundtrack. [Main Menu].jpg",
-    "Music/Covers/coldrain - coldrain - VENGEANCE (Official Music Video).jpg",
     "Text/Note/excalidraw",
     "Text/Note",
     "Text",

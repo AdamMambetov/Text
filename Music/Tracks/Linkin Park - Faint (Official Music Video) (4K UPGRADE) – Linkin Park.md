@@ -1,12 +1,13 @@
 ---
 created: 2026-06-11T22:28:23+03:00
 aliases:
-  - "Linkin Park - Faint (Official Music Video) [4K UPGRADE] – Linkin Park"
+  - "Faint"
 Cover: "[[Linkin Park - Faint.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""
-Creators: []
+Creators:
+  - "[[Linkin Park (🎙️ 363)]]"
 ListenInSec: 189
 NumberInAlbum: 0
 related: []

@@ -8,7 +8,7 @@ Album: "[[Spider-Man Into the Spider-Verse OST (📀 24)]]"
 CoverOf: ""
 Creators:
   - "[[Post Malone (🎙️ 417)]]"
-ListenInSec: 525
+ListenInSec: 632
 NumberInAlbum: 2
 related: []
 source: ""

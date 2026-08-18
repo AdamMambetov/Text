@@ -1,7 +1,7 @@
 ---
 created: 2025-01-08T19:12:00+03:00
 aliases:
-  - "Kina No Kaori ~Ai No Shiren!~"
+  - Kina No Kaori ~Ai No Shiren!~
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
@@ -11,7 +11,7 @@ Creators:
 ListenInSec: 931
 NumberInAlbum: 1
 related:
-  - "[[Сверху вниз, наискосок - Luck Ganriki (🎧️ 1060)]]"
+  - "[[Сверху вниз, наискосок - Luck Ganriki (🎧️ 956)]]"
 source: ""
 SourceFile: "[[Kino Nei - Kina No Kaori ~Ai No Shiren!~.mp3]]"
 ---

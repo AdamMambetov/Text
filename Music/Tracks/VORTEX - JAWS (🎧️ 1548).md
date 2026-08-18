@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[JAWS (🎙️ 680)]]"
-ListenInSec: 2852
+ListenInSec: 3288
 NumberInAlbum: 0
 related: []
 SourceFile: "[[JAWS - VORTEX.mp3]]"

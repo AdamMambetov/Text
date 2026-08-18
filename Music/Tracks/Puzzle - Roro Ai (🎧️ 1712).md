@@ -1,6 +1,7 @@
 ---
 created: 2025-06-06T16:34:50+03:00
 aliases:
+  - "Головоломка"
   - "Puzzle"
   - "Welcome to the NHK OP 1"
   - "Добро пожаловать в NHK OP 1"
@@ -11,7 +12,7 @@ CoverOf: "[[Puzzle - Round Table (🎧️ 1913)]]"
 Creators:
   - "[[Roro Ai (🎙️ 717)]]"
   - "[[Ryrynoli (🎙️ 718)]]"
-ListenInSec: 483
+ListenInSec: 727
 NumberInAlbum: 0
 related: []
 source: ""

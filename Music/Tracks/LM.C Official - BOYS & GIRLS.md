@@ -1,13 +1,16 @@
 ---
 created: 2026-06-12T00:17:57+03:00
 aliases:
-  - "LM.C Official - BOYS & GIRLS"
+  - "BOYS & GIRLS"
+  - "Katekyo Hitman Reborn OP 2"
+  - "Репетитор киллер Реборн OP 2"
 Cover: "[[LM.C Official - BOYS & GIRLS.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""
-Creators: []
-ListenInSec: 3625
+Creators:
+  - "[[LM.C (🎙️ 826)]]"
+ListenInSec: 3853
 NumberInAlbum: 0
 related: []
 SourceFile: "[[LM.C Official - BOYS & GIRLS.mp3]]"

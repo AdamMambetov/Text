@@ -1,13 +1,16 @@
 ---
 created: 2026-06-11T23:37:45+03:00
 aliases:
-  - "Chi_exe - Happy! Lucky! Dochy! (Full Version)"
+  - "Happy! Lucky! Dochy!"
 Cover: "[[Chi_exe - Happy! Lucky! Dochy! (Full Version).jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""
-Creators: []
-ListenInSec: 1015
+Creators:
+  - "[[Tamura Yukari (🎙️ 830)]]"
+  - "[[Kanai Mika (🎙️ 831)]]"
+  - "[[Horie Yui (🎙️ 332)]]"
+ListenInSec: 1392
 NumberInAlbum: 0
 related: []
 source: ""

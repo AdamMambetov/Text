@@ -5,7 +5,7 @@ aliases:
 Cover: "[[Jean-Baptiste Dupont - Toccata and Fuga D minor BWV 565.jpg]]"
 Year: 0
 Album: ""
-CoverOf: ""
+CoverOf: "[[J.S. Bach - Toccata and Fugue in D Minor, BWV 565]]"
 Creators: []
 ListenInSec: 1715
 NumberInAlbum: 0

@@ -7,7 +7,7 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators: []
-ListenInSec: 588
+ListenInSec: 855
 NumberInAlbum: 0
 related: []
 SourceFile: "[[THE ORAL CIGARETTES - ＜ノラガミARAGOTO＞OPテーマ  THE ORAL CIGARETTES「狂乱 Hey Kids!!」MusicVideo.opus]]"

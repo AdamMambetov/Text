@@ -1,13 +1,17 @@
 ---
 created: 2026-06-11T23:38:42+03:00
 aliases:
-  - "Crunchyroll - DARLING in the FRANXX Opening 1 ｜ KISS OF DEATH"
+  - "KISS OF DEATH (TV Size)"
+  - "DARLING in the FRANXX OP 1"
+  - "Милый во Франксе OP 1"
 Cover: "[[Crunchyroll - DARLING in the FRANXX Opening 1 ｜ KISS OF DEATH.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""
-Creators: []
-ListenInSec: 175
+Creators:
+  - "[[Mika Nakashima (🎙️ 829)]]"
+  - "[[HYDE (🎙️ 828)]]"
+ListenInSec: 198
 NumberInAlbum: 0
 related: []
 source: ""

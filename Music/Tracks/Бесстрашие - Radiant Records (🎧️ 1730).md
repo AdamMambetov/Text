@@ -12,7 +12,7 @@ CoverOf: "[[Bravely You - Lia (🎧️ 1753)]]"
 Creators:
   - "[[Radiant Records (🎙️ 39)]]"
   - "[[Camellia (🎙️ 53)]]"
-ListenInSec: 7535
+ListenInSec: 8891
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Radiant Records - Бесстрашие.mp3]]"

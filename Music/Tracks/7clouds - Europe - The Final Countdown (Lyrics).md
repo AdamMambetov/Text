@@ -1,7 +1,7 @@
 ---
 created: 2026-06-11T22:39:48+03:00
 aliases:
-  - "7clouds - Europe - The Final Countdown (Lyrics)"
+  - "Europe - The Final Countdown"
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""

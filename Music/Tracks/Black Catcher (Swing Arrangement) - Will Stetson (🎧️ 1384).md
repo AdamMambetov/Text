@@ -1,11 +1,11 @@
 ---
 created: 2025-01-07T19:37:43+03:00
 aliases:
-  - "Black Catcher (Swing Arrangement)"
+  - Black Catcher (Swing Arrangement)
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
-CoverOf: "[[Black Catcher (TV Size) - Vickeblanka (🎧️ 976)]]"
+CoverOf: "[[Black Catcher (TV Size) - Vickeblanka (🎧️ 1092)]]"
 Creators:
   - "[[Will Stetson (🎙️ 481)]]"
 ListenInSec: 178

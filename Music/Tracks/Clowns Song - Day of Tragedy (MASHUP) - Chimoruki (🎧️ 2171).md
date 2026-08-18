@@ -8,20 +8,11 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Chimoruki (🎙️ 260)]]"
-ListenInSec: 318
+ListenInSec: 625
 NumberInAlbum: 0
 related:
   - "[[Your Turn To Die OST - 23 Clown's Song (EXTENDED)]]"
   - "[[Your Turn To Die OST - 07 Day of Tragedy (EXTENDED)]]"
-source: ""
 SourceFile: "[[Chimoruki - [YTTD] Clowns Song ⧸ Day of Tragedy [MASHUP].mp3]]"
 ---
-
-`$=dv.header(1, dv.current().aliases[0])`
-
-![[Chimoruki - [YTTD] Clowns Song ⧸ Day of Tragedy [MASHUP].mp3]]
-
-## Related Tracks
-
-![[related tracks.base]]
 

@@ -1,0 +1,20 @@
+---
+created: 2024-04-12T14:59:10+03:00
+aliases:
+  - "Путальница-ложь"
+Cover: "[[_No Album Art.jpg]]"
+Year: 2007
+Album: "[[Umineko no Naku Koro ni OST (📀 30)]]"
+CoverOf: ""
+Creators:
+  - "[[xaki (🎙️ 12)]]"
+ListenInSec: 1259
+NumberInAlbum: 171
+related: []
+source: ""
+SourceFile: "[[Umineko no Naku Koro ni OST - 171 Путальница-ложь.ogg]]"
+---
+
+# Umineko no Naku Koro ni OST - 171 Путальница-ложь
+
+![[Umineko no Naku Koro ni OST - 171 Путальница-ложь.ogg]]

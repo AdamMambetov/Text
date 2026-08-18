@@ -1,12 +1,15 @@
 ---
 created: 2026-06-01T13:54:30+03:00
 aliases:
-  - "Rapa - Inanna no Mita Yume - Inanna no Mita Yume ⧸ Zwei"
+  - "Inanna no Mita Yume"
+  - "Umineko no Naku Koro ni OP 2"
+  - "Когда плачут чайки OP 2"
 Cover: "[[Rapa - GATEWAY LOVE - Inanna no Mita Yume ⧸ Zwei.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""
-Creators: []
+Creators:
+  - "[[Zwei (🎙️ 837)]]"
 ListenInSec: 1209
 NumberInAlbum: 0
 related: []

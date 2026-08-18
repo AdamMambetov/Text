@@ -1,7 +1,7 @@
 ---
 created: 2024-10-10T23:02:16+03:00
 aliases:
-  - "Black Catcher"
+  - Black Catcher
 Cover: "[[Vickeblanka - Black Catcher.jpg]]"
 Year: 2020
 Album: ""
@@ -11,7 +11,7 @@ Creators:
 ListenInSec: 380
 NumberInAlbum: 5
 related:
-  - "[[Black Catcher (TV Size) - Vickeblanka (🎧️ 976)]]"
+  - "[[Black Catcher (TV Size) - Vickeblanka (🎧️ 1092)]]"
 source: ""
 SourceFile: "[[Vickeblanka - Black Catcher.mp3]]"
 ---

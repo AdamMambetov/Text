@@ -8,7 +8,7 @@ Album: "[[Pray [2006] {Tommy heavenly6}]]"
 CoverOf: ""
 Creators:
   - "[[Tommy heavenly6 (🎙️ 471)]]"
-ListenInSec: 279
+ListenInSec: 369
 NumberInAlbum: 1
 related:
   - "[[Pray (TV Size) - Tommy heavenly6]]"

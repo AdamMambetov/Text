@@ -1,13 +1,13 @@
 ---
 created: 2025-01-08T00:29:28+03:00
 aliases:
-  - "The Day (TV Size)"
-  - "My Hero Academia OP 1"
-  - "Моя геройская академия OP 1"
+  - The Day (TV Size)
+  - My Hero Academia OP 1
+  - Моя геройская академия OP 1
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
-CoverOf: "[[The Day (TV Size) - Porno Graffitti (🎧️ 1081)]]"
+CoverOf: "[[The Day (TV Size) - Porno Graffitti (🎧️ 1077)]]"
 Creators:
   - "[[Jonathan Young (🎙️ 343)]]"
 ListenInSec: 99

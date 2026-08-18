@@ -8,7 +8,7 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
-CoverOf: "[[VORACITY (TV Size) - MYTH & ROID]]"
+CoverOf: "[[KADOKAWAanime - TVアニメ「オーバーロードⅢ」ノンクレジットOP映像【MYTH&ROID「VORACITY」】]]"
 Creators:
   - "[[Marie Bibika (🎙️ 374)]]"
 ListenInSec: 91

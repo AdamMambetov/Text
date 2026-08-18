@@ -1,14 +1,14 @@
 ---
 created: 2025-11-19T03:21:11+03:00
 aliases:
-  - "NOX LUX"
+  - "NOX LUX (TV Size)"
 Cover: "[[KADOKAWAanime - NOX_LUX_MYTH_ROID.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""
 Creators:
   - "[[MYTH & ROID (🎙️ 384)]]"
-ListenInSec: 113
+ListenInSec: 203
 NumberInAlbum: 0
 related: []
 source: ""

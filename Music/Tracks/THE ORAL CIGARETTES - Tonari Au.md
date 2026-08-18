@@ -1,13 +1,17 @@
 ---
 created: 2026-06-26T15:32:36+03:00
 aliases:
-  - "THE ORAL CIGARETTES - Tonari Au"
+  - "Tonari Au"
+  - "Перезапуск Сакурады ED 1"
+  - "Sakurada Reset ED 1"
+  - "Sagrada Reset ED 1"
 Cover: "[[THE ORAL CIGARETTES - Tonari Au.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""
-Creators: []
-ListenInSec: 689
+Creators:
+  - "[[THE ORAL CIGARETTES (🎙️ 824)]]"
+ListenInSec: 1234
 NumberInAlbum: 0
 related: []
 source: ""

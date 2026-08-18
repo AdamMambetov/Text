@@ -1,7 +1,7 @@
 ---
 created: 2025-10-28T21:51:43+03:00
 aliases:
-  - "lomb_TV_LombTV - Rhythm_Tengoku_-_Spaceball_Game"
+  - "Rhythm Tengoku OST - Spaceball Game"
 Cover: "[[Rhythm Tengoku - Spaceball.jpg]]"
 Year: 0
 Album: ""

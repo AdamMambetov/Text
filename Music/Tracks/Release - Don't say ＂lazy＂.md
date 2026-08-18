@@ -7,18 +7,9 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators: []
-ListenInSec: 840
+ListenInSec: 1103
 NumberInAlbum: 0
 related: []
-source: ""
 SourceFile: "[[Release - Don't say ＂lazy＂.mp3]]"
 ---
-
-`$=dv.header(1, dv.current().aliases[0])`
-
-![[Release - Don't say ＂lazy＂.mp3]]
-
-## Related Tracks
-
-![[related tracks.base]]
 

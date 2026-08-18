@@ -1,13 +1,13 @@
 ---
 created: 2026-06-11T23:50:58+03:00
 aliases:
-  - "The toy Thief - Teenage Mutant Ninja Turtles 2003 intro 4k"
+  - "Teenage Mutant Ninja Turtles 2003 Opening"
 Cover: "[[The toy Thief - Teenage Mutant Ninja Turtles 2003 intro 4k.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""
 Creators: []
-ListenInSec: 350
+ListenInSec: 420
 NumberInAlbum: 0
 related: []
 source: ""

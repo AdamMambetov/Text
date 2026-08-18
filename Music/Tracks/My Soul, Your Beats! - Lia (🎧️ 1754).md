@@ -1,8 +1,7 @@
 ---
 created: 2025-08-01T15:28:50+03:00
 aliases:
-  - "My Soul"
-  - "Your Beats!"
+  - "My Soul, Your Beats!"
   - "Ритм души"
   - "Angel Beats OP 1"
   - "Ангельские ритмы OP 1"

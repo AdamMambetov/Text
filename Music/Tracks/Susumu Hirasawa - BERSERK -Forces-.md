@@ -1,12 +1,13 @@
 ---
 created: 2026-06-11T23:26:55+03:00
 aliases:
-  - "Susumu Hirasawa - BERSERK -Forces-"
+  - "-Forces-"
 Cover: "[[Susumu Hirasawa - BERSERK -Forces-.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""
-Creators: []
+Creators:
+  - "[[Susumu Hirasawa (🎙️ 452)]]"
 ListenInSec: 1039
 NumberInAlbum: 0
 related: []

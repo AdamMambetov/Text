@@ -8,7 +8,7 @@ Album: ""
 CoverOf: "[[Peace Sign - Kenshi Yonezu (🎧️ 141)]]"
 Creators:
   - "[[Jackie-O (🎙️ 339)]]"
-ListenInSec: 305
+ListenInSec: 542
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Jackie-O - Моя геройская академия опенинг 2 [Peace Sign] (Русский кавер от Jackie-O).mp3]]"

@@ -1,9 +1,9 @@
 ---
 created: 2022-05-02T03:40:20+03:00
 aliases:
-  - "Haruka Kanata (TV Size)"
-  - "Naruto OP 2"
-  - "Наруто OP 2"
+  - Haruka Kanata (TV Size)
+  - Naruto OP 2
+  - Наруто OP 2
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
@@ -13,7 +13,7 @@ Creators:
 ListenInSec: 111
 NumberInAlbum: 0
 related:
-  - "[[Haruka Kanata - ASIAN KUNG-FU GENERATION (🎧️ 644)]]"
+  - "[[Haruka Kanata - ASIAN KUNG-FU GENERATION (🎧️ 641)]]"
 source: ""
 SourceFile: "[[ASIAN KUNG-FU GENERATION - Haruka Kanata (TV Size).mp3]]"
 ---

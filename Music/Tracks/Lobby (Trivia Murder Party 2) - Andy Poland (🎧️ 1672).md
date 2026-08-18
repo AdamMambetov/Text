@@ -9,7 +9,7 @@ Album: "[[The Jackbox Party Pack 6 (Original Soundtrack)]]"
 CoverOf: ""
 Creators:
   - "[[Andy Poland (🎙️ 183)]]"
-ListenInSec: 1012
+ListenInSec: 1095
 NumberInAlbum: 0
 related: []
 source: ""

@@ -9,7 +9,7 @@ CoverOf: ""
 Creators:
   - "[[Sam Houghton (🎙️ 675)]]"
   - "[[Joe Collinson (🎙️ 676)]]"
-ListenInSec: 3227
+ListenInSec: 3502
 NumberInAlbum: 9
 related: []
 SourceFile: "[[BPM OST - 05 Paradox.mp3]]"

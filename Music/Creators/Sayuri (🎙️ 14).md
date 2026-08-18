@@ -4,8 +4,6 @@ aliases:
   - "Sayuri"
   - "Silver Forest"
   - "さゆり"
-ListenInSec: 540
+ListenInSec: 811
 ---
-
-# Sayuri
 

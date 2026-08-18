@@ -9,7 +9,7 @@ Album: ""
 CoverOf: "[[Everywhere I Go - Hollywood Undead (🎧️ 1306)]]"
 Creators:
   - "[[RADIO TAPOK (🎙️ 421)]]"
-ListenInSec: 16
+ListenInSec: 190
 NumberInAlbum: 0
 related: []
 source: ""

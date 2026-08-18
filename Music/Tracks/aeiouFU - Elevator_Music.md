@@ -1,7 +1,7 @@
 ---
 created: 2025-10-28T21:51:42+03:00
 aliases:
-  - "aeiouFU - Elevator_Music"
+  - "Elevator Music"
 Cover: "[[aeiouFU - Elevator_Music.jpg]]"
 Year: 0
 Album: ""

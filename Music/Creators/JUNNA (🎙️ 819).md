@@ -2,6 +2,6 @@
 created: 2026-07-24T07:48:38+03:00
 aliases:
   - "JUNNA"
-ListenInSec: 1439
+ListenInSec: 1894
 ---
 

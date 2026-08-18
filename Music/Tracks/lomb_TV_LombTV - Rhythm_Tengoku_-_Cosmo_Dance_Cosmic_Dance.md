@@ -1,13 +1,14 @@
 ---
 created: 2025-10-28T22:15:00+03:00
 aliases:
-  - "lomb_TV_LombTV - Rhythm_Tengoku_-_Cosmo_Dance_Cosmic_Dance"
+  - "Rhythm Tengoku OST - Cosmo Dance"
+  - "Cosmic Dance"
 Cover: "[[Rhythm Tengoku - Cosmo Dance.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""
 Creators: []
-ListenInSec: 896
+ListenInSec: 918
 NumberInAlbum: 0
 related: []
 source: ""

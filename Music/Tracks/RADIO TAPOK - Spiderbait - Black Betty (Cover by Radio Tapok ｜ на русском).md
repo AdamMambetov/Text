@@ -1,13 +1,14 @@
 ---
 created: 2026-06-11T23:46:21+03:00
 aliases:
-  - "RADIO TAPOK - Spiderbait - Black Betty (Cover by Radio Tapok ｜ на русском)"
+  - "Black Betty"
 Cover: "[[RADIO TAPOK - Black Betty.jpg]]"
 Year: 0
 Album: ""
-CoverOf: ""
-Creators: []
-ListenInSec: 241
+CoverOf: "[[Black Betty - Spiderbait (🎧️ 1204)]]"
+Creators:
+  - "[[RADIO TAPOK (🎙️ 421)]]"
+ListenInSec: 320
 NumberInAlbum: 0
 related: []
 source: ""

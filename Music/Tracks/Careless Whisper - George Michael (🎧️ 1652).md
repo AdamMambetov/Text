@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[George Michael (🎙️ 746)]]"
-ListenInSec: 2771
+ListenInSec: 2912
 NumberInAlbum: 0
 related: []
 SourceFile: "[[George Michael - Careless Whisper.mp3]]"

@@ -1,7 +1,7 @@
 ---
 created: 2025-10-28T22:25:20+03:00
 aliases:
-  - "Grade-AMasterpiece - Fate_Apocrypha_-_Fate_Apocrypha_Extended"
+  - "Fate Apocrypha Extended"
 Cover: "[[Grade-AMasterpiece - Fate_Apocrypha_-_Fate_Apocrypha_Extended.jpg]]"
 Year: 0
 Album: ""

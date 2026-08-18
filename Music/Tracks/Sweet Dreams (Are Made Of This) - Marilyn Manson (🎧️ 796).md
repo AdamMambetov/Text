@@ -6,7 +6,8 @@ Cover: "[[Marilyn Manson - Smells Like Children.jpg]]"
 Year: 1995
 Album: "[[Smells Like Children]]"
 CoverOf: ""
-Creators: []
+Creators:
+  - "[[Marilyn Manson (🎙️ 852)]]"
 ListenInSec: 203
 NumberInAlbum: 6
 related: []

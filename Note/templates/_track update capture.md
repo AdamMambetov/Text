@@ -14,6 +14,10 @@ let trackName = current.aliases[0]
 	.replaceAll("\"", "'")
 	.replaceAll("[", "(")
 	.replaceAll("]", ")")
+	.replaceAll(":", "")
+	.replaceAll("*", "_")
+	.replaceAll("<", "(")
+	.replaceAll(">", ")")
 let creatorName = creator.aliases[0]
 	.replaceAll("?", "")
 	.replaceAll("#", "")
@@ -23,6 +27,10 @@ let creatorName = creator.aliases[0]
 	.replaceAll("\"", "'")
 	.replaceAll("[", "(")
 	.replaceAll("]", ")")
+	.replaceAll(":", "")
+	.replaceAll("*", "_")
+	.replaceAll("<", "(")
+	.replaceAll(">", ")")
 let num = arr.indexOf(current) + 1
 let title = `${trackName} - ${creatorName} (🎧️ ${num})`
 new Notice(title, 5000)

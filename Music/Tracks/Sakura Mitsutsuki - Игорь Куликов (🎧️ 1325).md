@@ -10,13 +10,9 @@ Album: ""
 CoverOf: "[[Sakura Mitsutsuki - SPYAIR (🎧️ 1466)]]"
 Creators:
   - "[[Игорь Куликов (🎙️ 71)]]"
-ListenInSec: 1950
+ListenInSec: 2330
 NumberInAlbum: 0
 related: []
-source: ""
 SourceFile: "[[Игорь Куликов - Sakura Mitsutsuki.mp3]]"
 ---
 
-# Игорь Куликов - Sakura Mitsutsuki
-
-![[Игорь Куликов - Sakura Mitsutsuki.mp3]]

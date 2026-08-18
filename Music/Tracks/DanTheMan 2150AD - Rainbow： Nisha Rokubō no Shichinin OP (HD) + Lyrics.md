@@ -1,13 +1,17 @@
 ---
 created: 2026-07-18T00:36:06+03:00
 aliases:
-  - "DanTheMan 2150AD - Rainbow： Nisha Rokubō no Shichinin OP (HD) + Lyrics"
+  - "We're not alone (TV Size)"
+  - "Радуга Семеро из шестой камеры второго блока OP 1"
+  - "Радуга OP 1"
+  - "Rainbow OP 1"
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""
-Creators: []
-ListenInSec: 345
+Creators:
+  - "[[coldrain (🎙️ 821)]]"
+ListenInSec: 552
 NumberInAlbum: 0
 related: []
 source: ""

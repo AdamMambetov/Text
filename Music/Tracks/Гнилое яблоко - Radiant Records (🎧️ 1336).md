@@ -1,8 +1,8 @@
 ---
 created: 2024-10-23T15:38:07+03:00
 aliases:
-  - "Гнилое яблоко"
-  - "Bad Apple"
+  - Гнилое яблоко
+  - Bad Apple
 Cover: "[[Radiant Records - ПЕРЕПУТЬЕ.jpg]]"
 Year: 0
 Album: ""
@@ -13,7 +13,7 @@ Creators:
 ListenInSec: 320
 NumberInAlbum: 0
 related:
-  - "[[Гнилое яблоко (YT Size) - Radiant Records (🎧️ 647)]]"
+  - "[[Гнилое яблоко (YT Size) - Radiant Records (🎧️ 644)]]"
 source: ""
 SourceFile: "[[Radiant Records - Гнилое яблоко.mp3]]"
 ---

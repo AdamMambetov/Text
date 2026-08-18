@@ -2,11 +2,6 @@
 created: 2026-07-24T07:31:26+03:00
 aliases:
   - "Sora Amamiya"
-ListenInSec: 4206
+ListenInSec: 5790
 ---
 
-# Sora Amamiya
-
-## Tracklist
-
-![[tracklist.base]]

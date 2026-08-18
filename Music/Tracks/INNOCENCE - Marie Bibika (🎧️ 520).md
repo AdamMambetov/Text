@@ -12,7 +12,7 @@ Album: ""
 CoverOf: "[[INNOCENCE - Aoi Eir (🎧️ 1444)]]"
 Creators:
   - "[[Marie Bibika (🎙️ 374)]]"
-ListenInSec: 612
+ListenInSec: 616
 NumberInAlbum: 0
 related: []
 source: ""

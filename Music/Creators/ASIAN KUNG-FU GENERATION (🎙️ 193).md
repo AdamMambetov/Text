@@ -2,7 +2,7 @@
 created: 2025-11-19T22:38:43+03:00
 aliases:
   - "ASIAN KUNG-FU GENERATION"
-ListenInSec: 1638
+ListenInSec: 2598
 ---
 
 # ASIAN KUNG-FU GENERATION

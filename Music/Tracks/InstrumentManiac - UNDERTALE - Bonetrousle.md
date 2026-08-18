@@ -1,13 +1,14 @@
 ---
 created: 2026-06-11T22:52:00+03:00
 aliases:
-  - "InstrumentManiac - UNDERTALE - Bonetrousle"
+  - "Bonetrousle"
 Cover: "[[InstrumentManiac - UNDERTALE - Bonetrousle.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""
-Creators: []
-ListenInSec: 4296
+Creators:
+  - "[[Luke Pickman (🎙️ 779)]]"
+ListenInSec: 4827
 NumberInAlbum: 0
 related: []
 SourceFile: "[[InstrumentManiac - UNDERTALE - Bonetrousle.mp3]]"

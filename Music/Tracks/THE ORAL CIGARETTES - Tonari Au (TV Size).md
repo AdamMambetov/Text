@@ -1,13 +1,17 @@
 ---
 created: 2026-06-26T15:31:08+03:00
 aliases:
-  - "THE ORAL CIGARETTES - Tonari Au (TV Size)"
+  - "Tonari Au (TV Size)"
+  - "Перезапуск Сакурады ED 1"
+  - "Sakurada Reset ED 1"
+  - "Sagrada Reset ED 1"
 Cover: "[[THE ORAL CIGARETTES - Tonari Au (TV Size).jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""
-Creators: []
-ListenInSec: 267
+Creators:
+  - "[[THE ORAL CIGARETTES (🎙️ 824)]]"
+ListenInSec: 445
 NumberInAlbum: 0
 related: []
 source: ""

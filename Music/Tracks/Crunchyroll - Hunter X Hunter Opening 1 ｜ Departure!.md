@@ -1,13 +1,16 @@
 ---
 created: 2026-07-18T01:04:05+03:00
 aliases:
-  - "Crunchyroll - Hunter X Hunter Opening 1 ｜ Departure!"
+  - "departure! (TV Size)"
+  - "Hunter X Hunter OP 1"
+  - "Хантер х Хантер OP 1"
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""
-Creators: []
-ListenInSec: 286
+Creators:
+  - "[[GALNERYUS (🎙️ 315)]]"
+ListenInSec: 400
 NumberInAlbum: 0
 related: []
 source: ""

@@ -1,7 +1,8 @@
 ---
 created: 2026-06-11T22:49:14+03:00
 aliases:
-  - "ymetsys - Plants vs Zombies Soundtrack. [Mini Games]"
+  - "Plants vs Zombies OST - Loonbon"
+  - "Mini Games"
 Cover: "[[ymetsys - Plants vs Zombies Soundtrack. [Mini Games].jpg]]"
 Year: 0
 Album: ""

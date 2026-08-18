@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[T.M. Revolution (🎙️ 807)]]"
-ListenInSec: 3578
+ListenInSec: 3675
 NumberInAlbum: 0
 related:
   - "[[Resonance (TV Size) - T.M. Revolution (🎧️ 1425)]]"

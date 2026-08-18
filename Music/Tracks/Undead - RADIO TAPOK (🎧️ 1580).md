@@ -8,7 +8,7 @@ Album: ""
 CoverOf: "[[Undead - Hollywood Undead (🎧️ 121)]]"
 Creators:
   - "[[RADIO TAPOK (🎙️ 421)]]"
-ListenInSec: 775
+ListenInSec: 778
 NumberInAlbum: 1
 related: []
 source: ""

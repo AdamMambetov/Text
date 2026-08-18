@@ -9,7 +9,7 @@ Album: ""
 CoverOf: "[[Hero - Skillet (🎧️ 321)]]"
 Creators:
   - "[[PanHeads Band (🎙️ 409)]]"
-ListenInSec: 1006
+ListenInSec: 1107
 NumberInAlbum: 0
 related: []
 source: ""

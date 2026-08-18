@@ -8,7 +8,7 @@ Album: "[[Uragirimono no Requiem [2022] {Kari}]]"
 CoverOf: ""
 Creators:
   - "[[Onsa Media (🎙️ 402)]]"
-ListenInSec: 394
+ListenInSec: 409
 NumberInAlbum: 0
 related: []
 source: ""

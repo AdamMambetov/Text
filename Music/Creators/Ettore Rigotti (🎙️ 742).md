@@ -2,11 +2,6 @@
 created: 2026-03-25T23:43:50+03:00
 aliases:
   - "Ettore Rigotti"
-ListenInSec: 4072
+ListenInSec: 4984
 ---
 
-# Ettore Rigotti
-
-## Tracklist
-
-![[tracklist.base]]

@@ -7,7 +7,7 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators: []
-ListenInSec: 3982
+ListenInSec: 4831
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Rapa - bore-ral [without vocal] - Umineko no Naku Koro ni Arrange Album ＂Akoustika VI＂.mp3]]"

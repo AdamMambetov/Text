@@ -1,24 +1,19 @@
 ---
 created: 2026-06-26T15:54:34+03:00
 aliases:
-  - "Yui Makino - Reset"
+  - "Reset"
+  - "Sakurada Reset OP 1"
+  - "Перезапуск Сакурады OP 1"
+  - "Sagrada Reset OP 1"
 Cover: "[[Yui Makino - Reset.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""
-Creators: []
-ListenInSec: 983
+Creators:
+  - "[[Yui Makino (🎙️ 825)]]"
+ListenInSec: 1973
 NumberInAlbum: 0
 related: []
-source: ""
 SourceFile: "[[Yui Makino - Reset.mp3]]"
 ---
-
-`$=dv.header(1, dv.current().aliases[0])`
-
-![[Yui Makino - Reset.mp3]]
-
-## Related Tracks
-
-![[related tracks.base]]
 

@@ -1,13 +1,13 @@
 ---
 created: 2025-01-07T23:47:46+03:00
 aliases:
-  - "Black Rover (TV Size)"
-  - "Black Clover OP 3"
-  - "Чёрный клевер OP 3"
+  - Black Rover (TV Size)
+  - Black Clover OP 3
+  - Чёрный клевер OP 3
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
-CoverOf: "[[Black Rover (TV Size) - Vickeblanka (🎧️ 1073)]]"
+CoverOf: "[[Black Rover (TV Size) - Vickeblanka (🎧️ 1069)]]"
 Creators:
   - "[[Will Stetson (🎙️ 481)]]"
 ListenInSec: 95

@@ -1,15 +1,15 @@
 ---
 created: 2025-06-05T00:07:15+03:00
 aliases:
-  - "RESISTER"
-  - "Sword Art Online OP 6"
-  - "SAO OP 6"
-  - "Мастера меча онлайн OP 6"
-  - "САО OP 6"
+  - RESISTER
+  - Sword Art Online OP 6
+  - SAO OP 6
+  - Мастера меча онлайн OP 6
+  - САО OP 6
 Cover: "[[Marie Bibika - RESISTER.jpg]]"
 Year: 0
 Album: ""
-CoverOf: "[[RESISTER - ASCA (🎧️ 739)]]"
+CoverOf: "[[RESISTER - ASCA (🎧️ 735)]]"
 Creators:
   - "[[Marie Bibika (🎙️ 374)]]"
 ListenInSec: 242

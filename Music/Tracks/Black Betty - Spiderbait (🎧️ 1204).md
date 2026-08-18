@@ -6,7 +6,8 @@ Cover: "[[Spiderbait - Black Betty.jpg]]"
 Year: 2004
 Album: "[[Tonight Alright]]"
 CoverOf: ""
-Creators: []
+Creators:
+  - "[[Spiderbait (🎙️ 827)]]"
 ListenInSec: 429
 NumberInAlbum: 46
 related: []

@@ -1,13 +1,16 @@
 ---
 created: 2026-06-11T23:50:30+03:00
 aliases:
-  - "coldrain - coldrain - VENGEANCE (Official Music Video)"
+  - "VENGEANCE"
+  - "Ниндзя Камуи OP 1"
+  - "Ninja Kamui OP 1"
 Cover: "[[coldrain - VENGEANCE.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""
-Creators: []
-ListenInSec: 508
+Creators:
+  - "[[coldrain (🎙️ 821)]]"
+ListenInSec: 511
 NumberInAlbum: 0
 related: []
 source: ""

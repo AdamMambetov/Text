@@ -1,7 +1,7 @@
 ---
 created: 2025-10-28T22:38:20+03:00
 aliases:
-  - "lomb_TV_LombTV - Rhythm_Tengoku_-_Built_to_Scale_GBA"
+  - "Rhythm Tengoku OST - Built to Scale"
 Cover: "[[Rhythm Tengoku - Built to Scale.jpg]]"
 Year: 0
 Album: ""

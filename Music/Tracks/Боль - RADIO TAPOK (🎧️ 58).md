@@ -9,7 +9,7 @@ Album: ""
 CoverOf: "[[Pain - Three Days Grace (🎧️ 257)]]"
 Creators:
   - "[[RADIO TAPOK (🎙️ 421)]]"
-ListenInSec: 8
+ListenInSec: 207
 NumberInAlbum: 0
 related: []
 source: ""

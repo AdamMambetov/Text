@@ -1,7 +1,7 @@
 ---
 created: 2026-06-11T23:12:35+03:00
 aliases:
-  - "7clouds Rock - Britney Spears - Toxic (Lyrics)"
+  - "Britney Spears - Toxic"
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""

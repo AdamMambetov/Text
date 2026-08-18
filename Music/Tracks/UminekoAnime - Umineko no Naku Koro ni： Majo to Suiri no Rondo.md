@@ -1,13 +1,13 @@
 ---
 created: 2026-06-12T00:14:57+03:00
 aliases:
-  - "UminekoAnime - Umineko no Naku Koro ni： Majo to Suiri no Rondo"
+  - "Umineko no Naku Koro ni Opening"
 Cover: "[[UminekoAnime - Umineko no Naku Koro ni： Majo to Suiri no Rondo.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""
 Creators: []
-ListenInSec: 485
+ListenInSec: 486
 NumberInAlbum: 0
 related: []
 source: ""

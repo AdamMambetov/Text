@@ -1,11 +1,11 @@
 ---
 created: 2024-10-23T13:45:56+03:00
 aliases:
-  - "Insane"
+  - Insane
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
-CoverOf: "[[Insane - Black GryphOn (🎧️ 688)]]"
+CoverOf: "[[Insane - Black GryphOn (🎧️ 685)]]"
 Creators:
   - "[[DiWilliam (🎙️ 60)]]"
 ListenInSec: 159
