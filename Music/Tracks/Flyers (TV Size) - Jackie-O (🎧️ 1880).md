@@ -8,7 +8,7 @@ aliases:
 Cover: "[[Jackie-O - Flyers (TV Size).jpg]]"
 Year: 0
 Album: ""
-CoverOf: "[[Flyers (TV Size) - BRADIO (🎧️ 1688)]]"
+CoverOf: "[[Flyers (TV Size) - BRADIO (🎧️ 1682)]]"
 Creators:
   - "[[Jackie-O (🎙️ 339)]]"
 ListenInSec: 901

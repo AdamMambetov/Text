@@ -13,7 +13,7 @@ Creators:
 ListenInSec: 96
 NumberInAlbum: 0
 related:
-  - "[[Connect - ClariS (🎧️ 1230)]]"
+  - "[[Connect - ClariS (🎧️ 1225)]]"
 source: ""
 SourceFile: "[[ClariS - Connect (TV Size).mp3]]"
 ---

@@ -7,7 +7,7 @@ aliases:
 Cover: "[[Jonathan Young - Young's Old Covers (Anime).jpg]]"
 Year: 0
 Album: ""
-CoverOf: "[[99 - Mob Choir (🎧️ 1452)]]"
+CoverOf: "[[99 - Mob Choir (🎧️ 1447)]]"
 Creators:
   - "[[Jonathan Young (🎙️ 343)]]"
 ListenInSec: 254

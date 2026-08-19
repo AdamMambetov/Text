@@ -9,10 +9,11 @@ CoverOf: ""
 Creators:
   - "[[S3RL (🎙️ 501)]]"
   - "[[Mixie Moon (🎙️ 502)]]"
+  - "[[MC Offside (🎙️ 907)]]"
 ListenInSec: 512
 NumberInAlbum: 1
 related:
-  - "[[Friendzoned (feat. Mixie Moon & MC Offside) - S3RL (🎧️ 1381)]]"
+  - "[[Friendzoned - S3RL (🎧️ 1361)]]"
 source: ""
 SourceFile: "[[S3RL ft. Mixie Moon - FriendZoned (osu ver).mp3]]"
 ---

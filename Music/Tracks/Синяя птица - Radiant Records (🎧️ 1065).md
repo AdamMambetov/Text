@@ -8,7 +8,7 @@ aliases:
 Cover: "[[Radiant Records - ПЕРЕПУТЬЕ.jpg]]"
 Year: 0
 Album: ""
-CoverOf: "[[Blue Bird - Ikimonogakari (🎧️ 1459)]]"
+CoverOf: "[[Blue Bird - Ikimonogakari (🎧️ 1474)]]"
 Creators:
   - "[[Radiant Records (🎙️ 39)]]"
   - "[[Nanami (🎙️ 41)]]"

@@ -4,12 +4,14 @@ aliases:
   - "Mashup"
 tracklist:
   - "[[Clowns Song - Day of Tragedy (MASHUP) - Chimoruki (🎧️ 2171)]]"
-  - "[[Nominalo Galop (INFERNAL GALOP, NOMINALO Mashup) - checkoff (🎧️ 1654)]]"
-  - "[[BLUR x СМЕШАРИКИ — AIRPLANE 2 [MASHUP] - mashup (🎧️ 1642)]]"
-  - "[[Slayer feat. Аида Ведищева. - Petr Gorst (🎧️ 1674)]]"
-  - "[[Ed Sheeran - 'Shape of You' but it's Smash Mouth singing 'All Star' - Engvall Music (🎧️ 1666)]]"
-  - "[[Eromanga Slipknot - Usolie Records (🎧️ 1690)]]"
-  - "[[Eminem - Crab God (Full Version) - Kanskaart (🎧️ 1670)]]"
-  - "[[NONCANDIDATE - Chimoruki (🎧️ 1640)]]"
+  - "[[Nominalo Galop (INFERNAL GALOP, NOMINALO Mashup) - checkoff (🎧️ 1652)]]"
+  - "[[BLUR x СМЕШАРИКИ - AIRPLANE 2 - mashup (🎧️ 1653)]]"
+  - "[[Slayer feat. Аида Ведищева - Petr Gorst (🎧️ 1649)]]"
+  - "[['Shape of You' but it's Smash Mouth singing 'All Star' - Engval Music (🎧️ 1648)]]"
+  - "[[Eromanga Slipknot - Usolie Records (🎧️ 1656)]]"
+  - "[[Crab God - Kanskaart (🎧️ 1650)]]"
+  - "[[NONCANDIDATE - Chimoruki (🎧️ 1633)]]"
+  - "[[HEYYEYAAEYAAAEYAEYAA - slackcircus (🎧️ 1621)]]"
+  - "[[Slipknot's Bizarre Adventure - Metronome Senpai (🎧️ 1660)]]"
 ---
 

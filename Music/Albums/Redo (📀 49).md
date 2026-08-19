@@ -8,7 +8,7 @@ Creators:
   - "[[Konomi Suzuki (🎙️ 353)]]"
 source: https://vgmdb.net/album/57297
 tracklist:
-  - "[[Redo - Konomi Suzuki (🎧️ 1469)]]"
+  - "[[Redo - Konomi Suzuki (🎧️ 1466)]]"
   - "Mobius"
   - "Sekai wa Kizu wo Dakishimeru (Acoustic ver.)"
   - "Redo (instrumental)"

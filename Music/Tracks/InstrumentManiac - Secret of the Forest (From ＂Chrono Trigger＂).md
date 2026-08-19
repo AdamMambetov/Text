@@ -5,7 +5,7 @@ aliases:
 Cover: "[[InstrumentManiac - Secret of the Forest (From 'Chrono Trigger').jpg]]"
 Year: 0
 Album: ""
-CoverOf: "[[Secret of the Forest (🎧️ 1589)]]"
+CoverOf: "[[Secret of the Forest - Yasunori Mitsuda (🎧️ 1569)]]"
 Creators:
   - "[[Luke Pickman (🎙️ 779)]]"
 ListenInSec: 1584

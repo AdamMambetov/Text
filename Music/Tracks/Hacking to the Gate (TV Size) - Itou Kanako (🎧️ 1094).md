@@ -13,7 +13,7 @@ Creators:
 ListenInSec: 88
 NumberInAlbum: 1
 related:
-  - "[[Hacking To The Gate - Itou Kanako (🎧️ 1452)]]"
+  - "[[Hacking To The Gate - Itou Kanako (🎧️ 1454)]]"
 source: ""
 SourceFile: "[[Itou Kanako - Hacking to the Gate (TV Size).mp3]]"
 ---

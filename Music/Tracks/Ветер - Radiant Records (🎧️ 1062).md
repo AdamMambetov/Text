@@ -6,7 +6,7 @@ aliases:
 Cover: "[[Radiant Records - Солнце.jpg]]"
 Year: 0
 Album: ""
-CoverOf: "[[Wind - Akeboshi (🎧️ 1639)]]"
+CoverOf: "[[Wind - Akeboshi (🎧️ 1635)]]"
 Creators:
   - "[[Radiant Records (🎙️ 39)]]"
   - "[[Nibiru (🎙️ 44)]]"

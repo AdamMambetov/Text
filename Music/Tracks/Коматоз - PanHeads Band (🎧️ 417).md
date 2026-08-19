@@ -5,7 +5,7 @@ aliases:
 Cover: "[[PANHEADS BAND - Коматоз.jpg]]"
 Year: 0
 Album: ""
-CoverOf: "[[Comatose - Skillet (🎧️ 1217)]]"
+CoverOf: "[[Comatose - Skillet (🎧️ 1219)]]"
 Creators:
   - "[[PanHeads Band (🎙️ 409)]]"
 ListenInSec: 231

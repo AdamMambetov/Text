@@ -1,19 +1,19 @@
 ---
 created: 2025-11-30T23:14:00+03:00
 aliases:
-  - osu!
+  - "osu!"
 tracklist:
   - "[[(can you) understand me - Komiya Mao (🎧️ 492)]]"
-  - "[[7 -seven- (TV Size) - FLOW (🎧️ 1633)]]"
+  - "[[7 -seven- (TV Size) - FLOW (🎧️ 1629)]]"
   - "[[Kokou no Sousei - Yousei Teikoku (🎧️ 852)]]"
-  - "[[River Flows In You (A Love Note) (🎧️ 1650)]]"
+  - "[[River Flows In You (A Love Note) - Yiruma (🎧️ 1362)]]"
   - "[[Time Traveler - KNOWER (🎧️ 854)]]"
   - "[[Darkish - Aki (🎧️ 425)]]"
   - "[[Deep In The Night - Snails (🎧️ 395)]]"
-  - "[[MIIRO (TV Size) - AKINO (🎧️ 1428)]]"
-  - "[[Friendzoned (feat. Mixie Moon & MC Offside) - S3RL (🎧️ 1381)]]"
-  - "[[Chandelier - King - Cranky (🎧️ 1265)]]"
-  - "[[Cross Time!! - Brandy (🎧️ 1268)]]"
+  - "[[MIIRO (TV Size) - AKINO (🎧️ 1427)]]"
+  - "[[Friendzoned - S3RL (🎧️ 1361)]]"
+  - "[[Chandelier - King - Cranky (🎧️ 1263)]]"
+  - "[[Cross Time!! - Brandy (🎧️ 1262)]]"
   - "[[Alien Alien (Nhato Remix) - NayutalieN (🎧️ 1151)]]"
   - "[[Just Awake (TV Size) - Fear and Loathing in Las Vegas (🎧️ 1099)]]"
   - "[[Violet Perfume - SHK (🎧️ 1090)]]"

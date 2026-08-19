@@ -7,9 +7,9 @@ tracklist:
   - "[[DEDTALES - LINS (🎧️ 2055)]]"
   - "[[СОФИЯ - LINS (🎧️ 2053)]]"
   - "[[Alien Alien (Nhato Remix) - NayutalieN (🎧️ 1151)]]"
-  - "[[Dancin (Krono Remix) - Aaron Smith (🎧️ 1233)]]"
+  - "[[Dancin (Krono Remix) feat. Luvli - Aaron Smith (🎧️ 1235)]]"
   - "[[Liquid (Paul Rosenthal Remix) - Rostik (🎧️ 476)]]"
-  - "[[Majority Rules Orchestral Remix - Everything Fantasy (🎧️ 1368)]]"
+  - "[[Majority Rules Orchestral Remix - Everything Fantasy (🎧️ 1366)]]"
   - "[[Monster (DotEXE Dubstep Remix) - Meg & Dia (🎧️ 462)]]"
   - "[[Nine Thou (Superstars Remix) - Styles of Beyond (🎧️ 862)]]"
   - "[[Rhythm Heaven - Remix 5]]"
@@ -21,5 +21,6 @@ tracklist:
   - "[[Toni's Music Library - Tao Of The Machine (Scott Humphrey's Remix) (Game Version) (Clean)]]"
   - "[[What Hurts The Most (Nightcore Remix) - Cascada (🎧️ 490)]]"
   - "[[Indoor Kei Nara Trackmaker - Yunomi (🎧️ 451)]]"
+  - "[[River Flows In You (A Love Note) - Yiruma (🎧️ 1362)]]"
 ---
 

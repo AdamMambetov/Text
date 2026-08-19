@@ -6,7 +6,7 @@ aliases:
 Cover: "[[RADIO TAPOK - RADIO TAPOK.jpg]]"
 Year: 2020
 Album: ""
-CoverOf: "[[Everywhere I Go - Hollywood Undead (🎧️ 1306)]]"
+CoverOf: "[[Everywhere I Go - Hollywood Undead (🎧️ 1308)]]"
 Creators:
   - "[[RADIO TAPOK (🎙️ 421)]]"
 ListenInSec: 190

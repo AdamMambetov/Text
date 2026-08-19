@@ -7,7 +7,7 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
-CoverOf: "[[Fatima - Itou Kanako (🎧️ 1462)]]"
+CoverOf: "[[Fatima - Itou Kanako (🎧️ 1455)]]"
 Creators:
   - "[[Onsa Media (🎙️ 402)]]"
 ListenInSec: 245

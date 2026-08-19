@@ -1,7 +1,7 @@
 ---
 created: 2024-07-21T15:50:18+03:00
 aliases:
-  - Black Catcher (TV Size)
+  - "Black Catcher (TV Size)"
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""

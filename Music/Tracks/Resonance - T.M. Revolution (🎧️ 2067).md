@@ -13,7 +13,7 @@ Creators:
 ListenInSec: 3675
 NumberInAlbum: 0
 related:
-  - "[[Resonance (TV Size) - T.M. Revolution (🎧️ 1425)]]"
+  - "[[Resonance (TV Size) - T.M. Revolution (🎧️ 1424)]]"
 SourceFile: "[[The Darkesttarget - Soul Eater   OP 1 Resonance Full HD.mp3]]"
 ---
 

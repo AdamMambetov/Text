@@ -6,7 +6,7 @@ aliases:
 Cover: "[[Jackie-O - Work.jpg]]"
 Year: 2023
 Album: ""
-CoverOf: "[[WORK - millennium parade (🎧️ 1716)]]"
+CoverOf: "[[WORK - millennium parade (🎧️ 1708)]]"
 Creators:
   - "[[Jackie-O (🎙️ 339)]]"
 ListenInSec: 997

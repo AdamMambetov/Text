@@ -9,7 +9,7 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
-CoverOf: "[[INNOCENCE - Aoi Eir (🎧️ 1444)]]"
+CoverOf: "[[INNOCENCE - Aoi Eir (🎧️ 1438)]]"
 Creators:
   - "[[Marie Bibika (🎙️ 374)]]"
 ListenInSec: 616

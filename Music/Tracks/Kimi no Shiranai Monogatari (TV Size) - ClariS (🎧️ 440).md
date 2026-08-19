@@ -7,7 +7,7 @@ aliases:
 Cover: "[[ClariS - Kimi no Shiranai Monogatari.jpg]]"
 Year: 0
 Album: ""
-CoverOf: "[[Kimi no Shiranai Monogatari (TV Size) - supercell (🎧️ 1646)]]"
+CoverOf: "[[Kimi no Shiranai Monogatari (TV Size) - supercell (🎧️ 1637)]]"
 Creators:
   - "[[ClariS (🎙️ 264)]]"
 ListenInSec: 138

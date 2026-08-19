@@ -11,7 +11,7 @@ Creators:
 ListenInSec: 95
 NumberInAlbum: 0
 related:
-  - "[[Врата - Radiant Records (🎧️ 1330)]]"
+  - "[[Врата - Radiant Records (🎧️ 1331)]]"
 source: ""
 SourceFile: "[[Radiant Records - Врата (TV Size).mp3]]"
 ---

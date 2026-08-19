@@ -5,7 +5,7 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 2017
 Album: ""
-CoverOf: "[[Demons - Imagine Dragons (🎧️ 1260)]]"
+CoverOf: "[[Demons - Imagine Dragons (🎧️ 1254)]]"
 Creators:
   - "[[RADIO TAPOK (🎙️ 421)]]"
 ListenInSec: 174

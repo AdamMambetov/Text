@@ -7,7 +7,7 @@ aliases:
 Cover: "[[Jackie-O - Unravel.jpg]]"
 Year: 2014
 Album: ""
-CoverOf: "[[Unravel - TK from Ling tosite sigure (🎧️ 1438)]]"
+CoverOf: "[[Unravel - TK from Ling tosite sigure (🎧️ 1432)]]"
 Creators:
   - "[[Jackie-O (🎙️ 339)]]"
 ListenInSec: 470

@@ -14,7 +14,7 @@ tracklist:
   - "[[Evil - Musashi Project (🎧️ 370)]]"
   - "[[Sasuke's Theme - Toshio Masuda (🎧️ 371)]]"
   - "[[Survival Examination - Toshio Masuda (🎧️ 372)]]"
-  - "[[Afternoon of Konoha - Musashi Project (🎧️ 1635)]]"
+  - "[[Afternoon of Konoha - Musashi Project (🎧️ 1631)]]"
   - "[[Fooling Mode - Toshio Masuda (🎧️ 373)]]"
   - "[[Konohamaru's Theme - Toshio Masuda (🎧️ 374)]]"
   - "[[It's the Training! - Toshio Masuda (🎧️ 375)]]"
@@ -25,7 +25,7 @@ tracklist:
   - "[[Orochimaru Fight - Musashi Project (🎧️ 379)]]"
   - "Raikiri"
   - "[[Sasuke Destiny - Musashi Project (🎧️ 381)]]"
-  - "[[Alone - Toshio Masuda (🎧️ 1640)]]"
+  - "[[Alone - Toshio Masuda (🎧️ 1636)]]"
   - "Harmonia"
 ---
 

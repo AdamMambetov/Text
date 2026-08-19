@@ -5,7 +5,7 @@ aliases:
 Cover: "[[Sheet Music Boss - DRAGONBORN.jpg]]"
 Year: 0
 Album: ""
-CoverOf: "[[Dragonborn Song (🎧️ 1392)]]"
+CoverOf: "[[Dragonborn Song - Jeremy Soule (🎧️ 1373)]]"
 Creators:
   - "[[Sheet Music Boss (🎙️ 648)]]"
 ListenInSec: 263

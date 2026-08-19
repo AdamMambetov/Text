@@ -11,7 +11,7 @@ Creators:
 ListenInSec: 267
 NumberInAlbum: 1
 related:
-  - "[[Bling-Bang-Bang-Born - Creepy Nuts (🎧️ 1239)]]"
+  - "[[Bling-Bang-Bang-Born - Creepy Nuts (🎧️ 1233)]]"
 source: ""
 SourceFile: "[[Creepy Nuts - Bling-Bang-Bang-Born (TV Size).mp3]]"
 ---

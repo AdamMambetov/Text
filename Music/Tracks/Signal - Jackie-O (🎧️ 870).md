@@ -7,7 +7,7 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
-CoverOf: "[[Signal - TK from Ling tosite sigure (🎧️ 1467)]]"
+CoverOf: "[[Signal - TK from Ling tosite sigure (🎧️ 1462)]]"
 Creators:
   - "[[Jackie-O (🎙️ 339)]]"
 ListenInSec: 715

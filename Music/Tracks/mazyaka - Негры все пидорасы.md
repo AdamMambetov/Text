@@ -5,7 +5,7 @@ aliases:
 Cover: "[[Luiz Henrique - Mas Que Nada.png]]"
 Year: 0
 Album: ""
-CoverOf: "[[Bad Piggies (🎧️ 1568)]]"
+CoverOf: "[[Bad Piggies - Ilmari Hakkola (🎧️ 1547)]]"
 Creators: []
 ListenInSec: 868
 NumberInAlbum: 0

@@ -13,12 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Music/Tracks/Can't Be Touched - Roy Jones Jr. (🎧️ 1223).md",
+                "file": "Music/Tracks/Ennio Morricone - The Ecstasy of Gold - Theremin & Voice.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Can't Be Touched - Roy Jones Jr. (🎧️ 1223)"
+              "title": "Ennio Morricone - The Ecstasy of Gold - Theremin & Voice"
+            }
+          }
+        ]
+      },
+      {
+        "id": "05777c34c7c242ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b36385a2325dfca",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ]
@@ -89,7 +105,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Music/Tracks/Can't Be Touched - Roy Jones Jr. (🎧️ 1223).md",
+                "file": "Music/Tracks/Ennio Morricone - The Ecstasy of Gold - Theremin & Voice.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -141,7 +157,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 336.5
+    "width": 336.5,
+    "collapsed": true
   },
   "right": {
     "id": "fa85d1514c56552d",
@@ -158,6 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Music/Tracks/Ennio Morricone - The Ecstasy of Gold - Theremin & Voice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,12 +194,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Music/Covers/Sora Amamiya, Rie Takahashi, Ai Kayano - Ano Hi no mama no Bokura.png",
+                "file": "Music/Tracks/Ennio Morricone - The Ecstasy of Gold - Theremin & Voice.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Sora Amamiya, Rie Takahashi, Ai Kayano - Ano Hi no mama no Bokura"
+              "title": "Outgoing links"
             }
           },
           {
@@ -208,19 +226,8 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
-          },
-          {
-            "id": "9b36385a2325dfca",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "3185b9fecf878a15",
@@ -275,7 +282,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 380.5
+    "width": 484.08984375
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -300,45 +307,45 @@
   },
   "active": "d429bfa709362a1e",
   "lastOpenFiles": [
-    "Music/Tracks/Break It Down - Kidz In The Hall (🎧️ 1196).md",
-    "Music/Creators/Kidz In The Hall (🎙️ 878).md",
-    "Music/Tracks/Blood and Thunder - Mastodon (🎧️ 1191).md",
-    "Music/Creators/Mastodon (🎙️ 877).md",
-    "Music/Tracks/Bills - LunchMoney Lewis (🎧️ 1182).md",
-    "Music/Creators/LunchMoney Lewis (🎙️ 876).md",
-    "Music/Tracks/Bamboleo - Gipsy Kings (🎧️ 1177).md",
-    "Music/Creators/Gipsy Kings (🎙️ 875).md",
-    "Note/templates/_track update all capture.md",
-    "Music/Tracks/'Till I Collapse - Eminem (🎧️ 1138).md",
+    "Music/Tracks/History Maker (TV Size) - Dean Fujioka (🎧️ 1733).md",
+    "Music/Creators/Dean Fujioka (🎙️ 976).md",
+    "Music/Tracks/TimeShift OST - 3 Drop Like Flies - Gabriel Mann (🎧️ 1707).md",
+    "Music/Creators/Rebecca Kneubuhl (🎙️ 975).md",
+    "Music/Creators/Gabriel Mann (🎙️ 974).md",
+    "Music/Tracks/Миссия! Здо·ровье·глав·ное - Roro Ai (🎧️ 1695).md",
+    "Music/Tracks/Mission! Ken·Kou·Dai·Ichi (TV Size) - Kana Hanazawa (🎧️ 1702).md",
+    "Music/Creators/Kikuko Inoue (🎙️ 973).md",
+    "Music/Creators/Daisuke Ono (🎙️ 972).md",
+    "Music/Creators/Tomoaki Maeno (🎙️ 971).md",
+    "Music/Creators/Kana Hanazawa (🎙️ 186).md",
+    "Music/Creators/Kari (🎙️ 664).md",
+    "Music/Tracks/Jiyuu no Tsubasa (TV Size) - Linked Horizon (🎧️ 1693).md",
+    "Music/Tracks/Jiyuu no Tsubasa - Linked Horizon (🎧️ 1694).md",
+    "Music/Tracks/Irokousui (Emotional Orchestral Cover) - Anton Cloudjumper Gustin (🎧️ 1686).md",
+    "Music/Tracks/Bad Apple - Anton Cloudjumper Gustin (🎧️ 2166).md",
+    "Music/Creators/Un3h (🎙️ 970).md",
+    "Music/Creators/Anton Cloudjumper Gustin (🎙️ 969).md",
+    "Music/Tracks/Uragirimono no Requiem - Daisuke Hasegawa (🎧️ 1683).md",
+    "Music/Creators/Daisuke Hasegawa (🎙️ 968).md",
+    "Music/Tracks/Yuki no Tsubasa (TV Size) - redballoon (🎧️ 1676).md",
+    "Music/Creators/redballoon (🎙️ 967).md",
+    "Music/Tracks/Guardian of the Galaxy OST - The Rubberband Man - The Spinners (🎧️ 1674).md",
+    "Music/Tracks/Moonlight Sonata - Beethoven (🎧️ 1672).md",
+    "Music/Creators/Beethoven (🎙️ 966).md",
+    "Music/Tracks/Toccata and Fuga D minor BWV 565 - Jean-Baptiste Dupont (🎧️ 1671).md",
+    "Music/Covers/Masayoshi Soken - Find the Flame.jpg",
+    "Music/Covers/_No Album Art.jpg",
+    "Music/Covers/Animal Crossing. New Leaf OST.png",
+    "Music/Covers/Robin Berrygold - Don't Think I Could Forgive You (They Will All Heal).png",
     "Music/Covers/ReZero OST - 15 Il Richiamo della Strega.png",
-    "Music/Tracks/REzero OST volume 1 3rd track 魔女の呼び声 - Ben C (🎧️ 1381).md",
-    "Music/Tracks/Call of the Witch - Kenichiro Suehiro (🎧️ 1384).md",
-    "Note/templates/_track update capture.md",
-    "Note/ReZero OST - 15 Il Richiamo della Strega.mp3.md",
-    "Music/Creators/Ben C (🎙️ 219).md",
     "Music/Covers/Serena_-3 - ReZero_kara_Hajimeru_Isekai_Seikatsu_Ost_04_Timbre_of_the_Beginning.jpg",
     "Music/Covers/Serena_-3 - ReZero_kara_Hajimeru_Isekai_Seikatsu_Ost_03_Call_of_the_Witch.jpg",
     "Music/Covers/Serena_-3 - ReZero_kara_Hajimeru_Isekai_Seikatsu_Ost_01_Rondo_of_Love_and_Darkness_Main_Theme.jpg",
     "Music/Covers/Serena_-3 - Re_-Zero_kara_Hajimeru_Isekai_Seikatsu_Ost_24_Takt_of_Heroes.jpg",
-    "Music/Tracks/heeno Mirin feat. Aile The Shota - Kenou (TV Size).md",
-    "Music/Tracks/Waltz of Rage - Kenichiro Suehiro (🎧️ 1837).md",
-    "Music/Tracks/Theatrical Malice - Kenichiro Suehiro (🎧️ 1859).md",
-    "Music/Tracks/The Breath of a Vow -2nd Main Theme- - Kenichiro Suehiro (🎧️ 1838).md",
-    "Music/Tracks/Takt of Heroes -Origin- - Kenichiro Suehiro (🎧️ 1825).md",
-    "Music/Tracks/THE ORAL CIGARETTES - ＜ノラガミARAGOTO＞OPテーマ  THE ORAL CIGARETTES「狂乱 Hey Kids!!」MusicVideo.md",
-    "Music/Tracks/Suffering - Kenichiro Suehiro (🎧️ 1861).md",
-    "Music/Tracks/Start of Fate - Kenichiro Suehiro (🎧️ 1835).md",
-    "Music/Tracks/Skyreach - Sora Amamiya (🎧️ 2219).md",
-    "Music/Tracks/Skyreach (TV Size) - Sora Amamiya (🎧️ 2218).md",
-    "Music/Tracks/Sirius Romaneeconti - Kenichiro Suehiro (🎧️ 1854).md",
     "Music/Covers/ReZero 1 OST.jpg",
-    "Music/Covers/Nana Kitade - 18 -eighteen-.jpg",
-    "Art/covers/kino_no_tabi_the_beautiful_world_2017_anime_cover.jpeg",
-    "Music/Covers/Sora Amamiya, Rie Takahashi, Ai Kayano - Ano Hi no mama no Bokura.png",
     "Text/Note/files",
     "Text/Note",
     "Text",
-    "Music/Covers/To Be Hero X OST - New Type of Hero.jpg",
     "Music/Tracks/Way Up - Jaden Smith.txt",
     "Video/18+/Hentai/2101_video_voice_HentaiZ_720.mp4.mp4",
     "Audio/Music/Your Turn To Die OST - 08 Even in Tragedy [EXTENDED].mp3",

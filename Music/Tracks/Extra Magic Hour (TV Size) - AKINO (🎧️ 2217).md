@@ -14,7 +14,7 @@ Creators:
 ListenInSec: 792
 NumberInAlbum: 0
 related:
-  - "[[Extra Magic Hour - AKINO (🎧️ 1314)]]"
+  - "[[Extra Magic Hour - AKINO (🎧️ 1309)]]"
 SourceFile: "[[AKINO with bless4 - Extra Magic Hour (TV Size).opus]]"
 ---
 

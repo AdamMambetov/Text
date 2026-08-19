@@ -13,7 +13,7 @@ Creators:
 ListenInSec: 268
 NumberInAlbum: 0
 related:
-  - "[[Hitorigoto - ClariS (🎧️ 1418)]]"
+  - "[[Hitorigoto - ClariS (🎧️ 1429)]]"
 source: ""
 SourceFile: "[[ClariS - Hitorigoto (TV Size).mp3]]"
 ---

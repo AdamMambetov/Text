@@ -5,7 +5,7 @@ aliases:
 Cover: "[[Harmony Team - Kabaneri Of The Iron Fortress.jpg]]"
 Year: 0
 Album: ""
-CoverOf: "[[Kabaneri of the Iron Fortress - Egoist (🎧️ 1610)]]"
+CoverOf: "[[Kabaneri of the Iron Fortress - Egoist (🎧️ 1605)]]"
 Creators:
   - "[[Harmony Team (🎙️ 704)]]"
 ListenInSec: 674

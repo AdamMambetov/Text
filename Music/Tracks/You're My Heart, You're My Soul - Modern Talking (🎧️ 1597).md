@@ -1,0 +1,20 @@
+---
+created: 2025-01-08T23:00:07+03:00
+aliases:
+  - "You're My Heart, You're My Soul"
+Cover: "[[_No Album Art.jpg]]"
+Year: 0
+Album: ""
+CoverOf: ""
+Creators:
+  - "[[Modern Talking (🎙️ 946)]]"
+ListenInSec: 281
+NumberInAlbum: 1
+related: []
+source: ""
+SourceFile: "[[Modern Talking - You're My Heart, You're My Soul.mp3]]"
+---
+
+# Modern Talking - You're My Heart, You're My Soul
+
+![[Modern Talking - You're My Heart, You're My Soul.mp3]]

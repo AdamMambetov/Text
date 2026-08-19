@@ -30,7 +30,7 @@ tracklist:
   - "Reversal"
   - "Victory"
   - "[[Naruto Main Theme - Musashi Project (🎧️ 367)]]"
-  - "[[Wind - Akeboshi (🎧️ 1639)]]"
+  - "[[Wind - Akeboshi (🎧️ 1635)]]"
 ---
 
 ![[Naruto OST 1.jpg]]

@@ -10,7 +10,7 @@ Creators:
 tracklist:
   - "[[Rondo of Love and Darkness -Main Theme- - Kenichiro Suehiro (🎧️ 2128)]]"
   - "[[Death Ballet - Kenichiro Suehiro (🎧️ 1813)]]"
-  - "[[Call of the Witch - Kenichiro Suehiro (🎧️ 1384)]]"
+  - "[[Call of the Witch - Kenichiro Suehiro (🎧️ 1383)]]"
   - "[[Timbre of the Beginning - Kenichiro Suehiro (🎧️ 1814)]]"
   - "[[Fur Craftsman - Kenichiro Suehiro (🎧️ 1820)]]"
   - "[[Fool - Kenichiro Suehiro (🎧️ 1816)]]"

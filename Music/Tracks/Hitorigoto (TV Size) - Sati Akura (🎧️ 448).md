@@ -13,7 +13,7 @@ Creators:
 ListenInSec: 248
 NumberInAlbum: 0
 related:
-  - "[[Hitorigoto - Sati Akura (🎧️ 1417)]]"
+  - "[[Hitorigoto - Sati Akura (🎧️ 1428)]]"
 source: ""
 SourceFile: "[[Sati Akura - Hitorigoto (TV Size).mp3]]"
 ---

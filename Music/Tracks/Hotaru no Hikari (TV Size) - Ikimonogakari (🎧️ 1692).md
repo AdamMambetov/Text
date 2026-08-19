@@ -13,7 +13,7 @@ Creators:
 ListenInSec: 977
 NumberInAlbum: 3
 related:
-  - "[[Hotaru no Hikari - Ikimonogakari (🎧️ 1680)]]"
+  - "[[Hotaru no Hikari - Ikimonogakari (🎧️ 1719)]]"
 source: ""
 SourceFile: "[[Ikimonogakari - Hotaru no Hikari (TV Size).mp3]]"
 ---

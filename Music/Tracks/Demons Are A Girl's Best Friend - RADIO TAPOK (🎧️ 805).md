@@ -5,7 +5,7 @@ aliases:
 Cover: "[[RADIO TAPOK - Demons Are A Girl's Best Friend.jpg]]"
 Year: 2021
 Album: ""
-CoverOf: "[[Demons Are a Girl's Best Friend - Powerwolf (🎧️ 1261)]]"
+CoverOf: "[[Demons Are a Girl's Best Friend - Powerwolf (🎧️ 1255)]]"
 Creators:
   - "[[RADIO TAPOK (🎙️ 421)]]"
 ListenInSec: 19

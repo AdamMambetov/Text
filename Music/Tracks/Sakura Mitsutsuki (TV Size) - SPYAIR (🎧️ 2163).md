@@ -13,7 +13,7 @@ Creators:
 ListenInSec: 300
 NumberInAlbum: 0
 related:
-  - "[[Sakura Mitsutsuki - SPYAIR (🎧️ 1466)]]"
+  - "[[Sakura Mitsutsuki - SPYAIR (🎧️ 1460)]]"
 source: ""
 SourceFile: "[[Crunchyroll - Gintama - Opening 13 ｜ Sakuramitsutsuki.mp3]]"
 ---

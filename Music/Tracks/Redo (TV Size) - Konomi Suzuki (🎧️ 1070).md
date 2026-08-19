@@ -13,7 +13,7 @@ Creators:
 ListenInSec: 887
 NumberInAlbum: 1
 related:
-  - "[[Redo - Konomi Suzuki (🎧️ 1469)]]"
+  - "[[Redo - Konomi Suzuki (🎧️ 1466)]]"
 source: ""
 SourceFile: "[[Konomi Suzuki - Redo (TV Size).mp3]]"
 ---

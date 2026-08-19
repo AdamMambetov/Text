@@ -7,8 +7,8 @@ Year: 2018
 Creators:
   - "[[Powerwolf (🎙️ 418)]]"
 tracklist:
-  - "[[Fire & Forgive - Powerwolf (🎧️ 1336)]]"
-  - "[[Demons Are a Girl's Best Friend - Powerwolf (🎧️ 1261)]]"
+  - "[[Fire & Forgive - Powerwolf (🎧️ 1337)]]"
+  - "[[Demons Are a Girl's Best Friend - Powerwolf (🎧️ 1255)]]"
   - "[[Killers with the Cross - Powerwolf (🎧️ 20)]]"
   - "[[Incense & Iron - Powerwolf (🎧️ 198)]]"
   - "Where the Wild Wolves Have Gone"
@@ -17,7 +17,7 @@ tracklist:
   - "[[The Sacrament of Sin - Powerwolf (🎧️ 200)]]"
   - "[[Venom of Venus - Powerwolf (🎧️ 201)]]"
   - "[[Nighttime Rebel - Powerwolf (🎧️ 22)]]"
-  - "[[Fist by Fist (Sacralize or Strike) - Powerwolf (🎧️ 1340)]]"
+  - "[[Fist by Fist (Sacralize or Strike) - Powerwolf (🎧️ 1341)]]"
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

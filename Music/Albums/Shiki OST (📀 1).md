@@ -30,7 +30,7 @@ tracklist:
   - "Untitled"
   - "[[SHI-KI - Yasuharu Takanashi (🎧️ 1815)]]"
   - "[[Requiem - Yasuharu Takanashi (🎧️ 1816)]]"
-  - "[[Kuchizuke (TV Size) - BUCK-TICK (🎧️ 1483)]]"
+  - "[[Kuchizuke (TV Size) - BUCK-TICK (🎧️ 1481)]]"
   - "walk no yakusoku (TV Size)"
   - "[[Calendula Requiem (TV Size) - Kanon Kanon]]"
   - "Gekka Reijin (TV Size)"

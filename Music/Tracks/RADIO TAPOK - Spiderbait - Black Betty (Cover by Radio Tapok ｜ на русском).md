@@ -1,7 +1,7 @@
 ---
 created: 2026-06-11T23:46:21+03:00
 aliases:
-  - Black Betty
+  - "Black Betty"
 Cover: "[[RADIO TAPOK - Black Betty.jpg]]"
 Year: 0
 Album: ""

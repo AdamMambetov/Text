@@ -5,7 +5,7 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
-CoverOf: "[[Story - Mayu Maeshima (🎧️ 1553)]]"
+CoverOf: "[[Story - Mayu Maeshima (🎧️ 1545)]]"
 Creators:
   - "[[HaruWei (🎙️ 327)]]"
 ListenInSec: 888

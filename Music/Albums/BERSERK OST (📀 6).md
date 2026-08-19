@@ -6,7 +6,7 @@ Year: 1997
 Creators:
   - "[[Susumu Hirasawa (🎙️ 452)]]"
 tracklist:
-  - "[[Gats - Susumu Hirasawa (🎧️ 1356)]]"
+  - "[[Gats - Susumu Hirasawa (🎧️ 1351)]]"
 ---
 
 1. [[BERSERK OST - Gats.mp3| Gats]]

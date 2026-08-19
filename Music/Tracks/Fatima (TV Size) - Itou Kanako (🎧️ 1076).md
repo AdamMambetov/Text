@@ -13,7 +13,7 @@ Creators:
 ListenInSec: 237
 NumberInAlbum: 1
 related:
-  - "[[Fatima - Itou Kanako (🎧️ 1462)]]"
+  - "[[Fatima - Itou Kanako (🎧️ 1455)]]"
 source: ""
 SourceFile: "[[Ito Kanako - Fatima (TV Size).mp3]]"
 ---
