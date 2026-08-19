@@ -1,11 +1,11 @@
 ---
 created: 2024-10-23T13:29:26+03:00
 aliases:
-  - "Blinded in Chains"
+  - Blinded in Chains
 Cover: "[[_No Album Art.jpg]]"
 Year: 2021
 Album: ""
-CoverOf: "[[Blinded In Chains - Avenged Sevenfold (🎧️ 1195)]]"
+CoverOf: "[[Blinded In Chains - Avenged Sevenfold (🎧️ 1189)]]"
 Creators:
   - "[[Игорь Куликов (🎙️ 71)]]"
 ListenInSec: 229

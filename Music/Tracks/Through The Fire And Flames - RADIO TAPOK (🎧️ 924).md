@@ -1,7 +1,7 @@
 ---
 created: 2024-01-04T13:24:28+03:00
 aliases:
-  - Through The Fire And Flames
+  - "Through The Fire And Flames"
 Cover: "[[_No Album Art.jpg]]"
 Year: 2019
 Album: ""

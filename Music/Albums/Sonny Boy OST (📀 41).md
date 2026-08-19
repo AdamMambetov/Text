@@ -1,7 +1,7 @@
 ---
 created: 2026-03-20T01:16:24+03:00
 aliases:
-  - Sonny Boy OST
+  - "Sonny Boy OST"
 Cover: "[[Sonny Boy OST.jpg]]"
 Year: 2021
 Creators:

@@ -4,9 +4,10 @@ aliases:
   - "Bamboleo"
 Cover: "[[Gipsy Kings - Bamboleo.jpg]]"
 Year: 1988
-Album: "[[Gipsy Kings]]"
+Album:
 CoverOf: ""
-Creators: []
+Creators:
+  - "[[Gipsy Kings (🎙️ 875)]]"
 ListenInSec: 233
 NumberInAlbum: 1
 related: []

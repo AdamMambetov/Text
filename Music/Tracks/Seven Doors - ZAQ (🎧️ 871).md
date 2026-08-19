@@ -1,9 +1,9 @@
 ---
 created: 2023-11-11T12:15:23+03:00
 aliases:
-  - Seven Doors
-  - Trinity Seven OP 1
-  - Тринити семеро магов OP 1
+  - "Seven Doors"
+  - "Trinity Seven OP 1"
+  - "Тринити семеро магов OP 1"
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""

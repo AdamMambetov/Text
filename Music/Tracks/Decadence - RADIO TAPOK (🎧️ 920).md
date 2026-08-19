@@ -1,7 +1,7 @@
 ---
 created: 2024-01-04T13:09:53+03:00
 aliases:
-  - Decadence
+  - "Decadence"
 Cover: "[[_No Album Art.jpg]]"
 Year: 2018
 Album: ""

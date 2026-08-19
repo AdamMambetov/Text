@@ -1,10 +1,10 @@
 ---
 created: 2024-06-21T05:22:25+03:00
 aliases:
-  - Синяя птица
-  - Blue Bird
-  - Naruto Shippuuden OP 3
-  - Наруто Ураганные хроники OP 3
+  - "Синяя птица"
+  - "Blue Bird"
+  - "Naruto Shippuuden OP 3"
+  - "Наруто Ураганные хроники OP 3"
 Cover: "[[Radiant Records - ПЕРЕПУТЬЕ.jpg]]"
 Year: 0
 Album: ""

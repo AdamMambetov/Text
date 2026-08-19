@@ -1,7 +1,7 @@
 ---
 created: 2026-08-18T21:55:49+03:00
 aliases:
-  - Remix
+  - "Remix"
 tracklist:
   - "[[MILF BOY - LINS (🎧️ 2183)]]"
   - "[[DEDTALES - LINS (🎧️ 2055)]]"

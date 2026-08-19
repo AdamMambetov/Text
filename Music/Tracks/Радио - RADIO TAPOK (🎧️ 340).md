@@ -1,8 +1,8 @@
 ---
 created: 2022-04-28T01:59:42+03:00
 aliases:
-  - Радио
-  - Radio
+  - "Радио"
+  - "Radio"
 Cover: "[[RADIO TAPOK - Радио.jpg]]"
 Year: 2020
 Album: ""

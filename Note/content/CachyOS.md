@@ -9,38 +9,34 @@ source: https://cachyos.org/
 
 # CachyOS
 
-CachyOS - [[Linux]] дистрибутив на основе [[Arch Linux]]. У него много окружений рабочего стола. Я использую Hyprland.
+CachyOS - [[Linux]] дистрибутив на основе [[Arch Linux]]. У него много окружений рабочего стола. Я использую KDE Plasma, для тайлинга использую расширение Krohnkite.
 
 ## Горячие клавиши
 
-```bash
-~/.config/hypr/config/hyperland.conf
-```
-
  - Запуск приложений
 	 - `Super + Enter`
-		 - Терминал alacritty
+		 - Терминал kitty  
 	 - `Ctrl + Shift + Escape`
-		 - Диспетчер задач sysmontask
+		 - Диспетчер задач plasma-systemmonitor
 	 - `Super + E`
-		 - Файловый менеджер caja
+		 - Файловый менеджер delphin
 	 - `Super + Shift + E`
 		 - Emoji Toolbar
-	 - `Super + Space`
-		 - App Launcher wofi
+	 - `Alt + Space`
+		 - App Launcher KRunner
 	 - `Print Screen`
 		 - Скриншот области
 	 - `Ctrl + Print Screen`
 		 - Скриншот окна
 	 - `Alt + Print Screen`
 		 - Скриншот экрана
+	 - `Super + V`
+		 - Буфер обмена
  - Управление системой
 	 - `Super + Q`
 		 - Закрыть приложение
-	 - `Super + V`
-		 - Плавающее окно
 	 - `Super + F`
-		 - На весь экран
+		 - Плавающее окно
 	 - `Super + Y`
 		 - Закрепить плавающее окно
 	 - `Super + J`

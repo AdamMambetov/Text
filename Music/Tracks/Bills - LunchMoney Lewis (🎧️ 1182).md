@@ -6,7 +6,8 @@ Cover: "[[LunchMoney Lewis - Bills.jpg]]"
 Year: 2015
 Album: "[[Bills]]"
 CoverOf: ""
-Creators: []
+Creators:
+  - "[[LunchMoney Lewis (🎙️ 876)]]"
 ListenInSec: 616
 NumberInAlbum: 1
 related: []

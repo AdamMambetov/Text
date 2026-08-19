@@ -1,9 +1,9 @@
 ---
 created: 2025-01-07T19:27:00+03:00
 aliases:
-  - Guren no Yumiya (TV Size)
-  - Attack on Titan OP 1
-  - Атака титанов OP 1
+  - "Guren no Yumiya (TV Size)"
+  - "Attack on Titan OP 1"
+  - "Атака титанов OP 1"
 Cover: "[[21st Century Orchestra Tokyo - Guren no Yumiya.png]]"
 Year: 2018
 Album: ""

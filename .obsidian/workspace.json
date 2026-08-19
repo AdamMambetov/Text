@@ -11,10 +11,14 @@
             "id": "d429bfa709362a1e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Music/Tracks/Can't Be Touched - Roy Jones Jr. (🎧️ 1223).md",
+                "mode": "preview",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Can't Be Touched - Roy Jones Jr. (🎧️ 1223)"
             }
           }
         ]
@@ -85,6 +89,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Music/Tracks/Can't Be Touched - Roy Jones Jr. (🎧️ 1223).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -112,7 +117,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Local graph"
             }
           }
         ]
@@ -136,8 +141,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 336.5,
-    "collapsed": true
+    "width": 336.5
   },
   "right": {
     "id": "fa85d1514c56552d",
@@ -215,7 +219,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "3185b9fecf878a15",
@@ -229,7 +234,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -268,8 +275,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 380.5,
-    "collapsed": true
+    "width": 380.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -294,6 +300,16 @@
   },
   "active": "d429bfa709362a1e",
   "lastOpenFiles": [
+    "Music/Tracks/Break It Down - Kidz In The Hall (🎧️ 1196).md",
+    "Music/Creators/Kidz In The Hall (🎙️ 878).md",
+    "Music/Tracks/Blood and Thunder - Mastodon (🎧️ 1191).md",
+    "Music/Creators/Mastodon (🎙️ 877).md",
+    "Music/Tracks/Bills - LunchMoney Lewis (🎧️ 1182).md",
+    "Music/Creators/LunchMoney Lewis (🎙️ 876).md",
+    "Music/Tracks/Bamboleo - Gipsy Kings (🎧️ 1177).md",
+    "Music/Creators/Gipsy Kings (🎙️ 875).md",
+    "Note/templates/_track update all capture.md",
+    "Music/Tracks/'Till I Collapse - Eminem (🎧️ 1138).md",
     "Music/Covers/ReZero OST - 15 Il Richiamo della Strega.png",
     "Music/Tracks/REzero OST volume 1 3rd track 魔女の呼び声 - Ben C (🎧️ 1381).md",
     "Music/Tracks/Call of the Witch - Kenichiro Suehiro (🎧️ 1384).md",
@@ -315,15 +331,6 @@
     "Music/Tracks/Skyreach - Sora Amamiya (🎧️ 2219).md",
     "Music/Tracks/Skyreach (TV Size) - Sora Amamiya (🎧️ 2218).md",
     "Music/Tracks/Sirius Romaneeconti - Kenichiro Suehiro (🎧️ 1854).md",
-    "Music/Tracks/Rye Batenkaitos - Kenichiro Suehiro (🎧️ 1856).md",
-    "Music/Tracks/Rondo of Love and Darkness -MainTheme- - Kenichiro Suehiro (🎧️ 2129).md",
-    "Music/Tracks/Requiem of Silence - Kenichiro Suehiro (🎧️ 1836).md",
-    "Music/Tracks/Regulus Corneus - Kenichiro Suehiro (🎧️ 1855).md",
-    "Music/Tracks/Rapa - miragecoordinator - Music collection from ＂Umineko When They Cry＂ for Clarinet Quintet and piano.md",
-    "Music/Tracks/Rage - Kenichiro Suehiro (🎧️ 1860).md",
-    "Music/Tracks/Promenade of Whistles and Creation - Kenichiro Suehiro (🎧️ 1830).md",
-    "Music/Tracks/Priscilla Barielle - Kenichiro Suehiro (🎧️ 1853).md",
-    "Music/Tracks/Operation to recapture - Kenichiro Suehiro (🎧️ 1858).md",
     "Music/Covers/ReZero 1 OST.jpg",
     "Music/Covers/Nana Kitade - 18 -eighteen-.jpg",
     "Art/covers/kino_no_tabi_the_beautiful_world_2017_anime_cover.jpeg",

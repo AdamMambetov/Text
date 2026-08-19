@@ -1,9 +1,9 @@
 ---
 created: 2023-07-09T19:01:26+03:00
 aliases:
-  - Button
-  - ReLIFE OP 1
-  - Повторная жизнь OP 1
+  - "Button"
+  - "ReLIFE OP 1"
+  - "Повторная жизнь OP 1"
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""

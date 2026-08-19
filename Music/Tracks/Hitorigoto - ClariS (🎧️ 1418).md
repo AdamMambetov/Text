@@ -1,9 +1,9 @@
 ---
 created: 2025-01-07T23:46:20+03:00
 aliases:
-  - Hitorigoto
-  - Eromanga-sensei OP 1
-  - Эроманга-сэнсей OP 1
+  - "Hitorigoto"
+  - "Eromanga-sensei OP 1"
+  - "Эроманга-сэнсей OP 1"
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""

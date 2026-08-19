@@ -1,9 +1,9 @@
 ---
 created: 2024-06-14T18:43:50+03:00
 aliases:
-  - Trip -innocent of D-
-  - Highschool of DxD OP 1
-  - Старшая школа DxD OP 1
+  - "Trip -innocent of D-"
+  - "Highschool of DxD OP 1"
+  - "Старшая школа DxD OP 1"
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""

@@ -1,7 +1,7 @@
 ---
 created: 2024-04-12T15:03:49+03:00
 aliases:
-  - 599 миллионов крахов
+  - "599 миллионов крахов"
 Cover: "[[_No Album Art.jpg]]"
 Year: 2007
 Album: "[[Umineko no Naku Koro ni OST (📀 30)]]"

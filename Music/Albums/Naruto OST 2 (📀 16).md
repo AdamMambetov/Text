@@ -1,7 +1,7 @@
 ---
 created: 2024-07-18T15:34:45+03:00
 aliases:
-  - Naruto OST 2
+  - "Naruto OST 2"
 Year: 2004
 Creators:
   - "[[Toshio Masuda (🎙️ 559)]]"
@@ -21,12 +21,12 @@ tracklist:
   - "[[Gai's Theme - Toshio Masuda (🎧️ 376)]]"
   - "[[Hinata vs Neji - Musashi Project (🎧️ 377)]]"
   - "[[Orochimaru's Theme - Musashi Project (🎧️ 378)]]"
-  - Avenger
+  - "Avenger"
   - "[[Orochimaru Fight - Musashi Project (🎧️ 379)]]"
-  - Raikiri
+  - "Raikiri"
   - "[[Sasuke Destiny - Musashi Project (🎧️ 381)]]"
   - "[[Alone - Toshio Masuda (🎧️ 1640)]]"
-  - Harmonia
+  - "Harmonia"
 ---
 
 

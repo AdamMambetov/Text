@@ -1,10 +1,10 @@
 ---
 created: 2025-01-07T18:46:55+03:00
 aliases:
-  - Kuusou Mesorogiwi
-  - Mirai Nikki OP 1
-  - Futute Diary OP 1
-  - Дневник будущего OP 1
+  - "Kuusou Mesorogiwi"
+  - "Mirai Nikki OP 1"
+  - "Futute Diary OP 1"
+  - "Дневник будущего OP 1"
 Cover: "[[PelleK & Raon Lee - Mirai Nikki.png]]"
 Year: 2015
 Album: ""

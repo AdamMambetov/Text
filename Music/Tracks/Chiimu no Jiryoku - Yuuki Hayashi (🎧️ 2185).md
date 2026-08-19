@@ -1,7 +1,7 @@
 ---
 created: 2026-06-12T00:18:49+03:00
 aliases:
-  - Chiimu no Jiryoku
+  - "Chiimu no Jiryoku"
 Cover: "[[Haikyuu OST 2.jpg]]"
 Year: 0
 Album: ""

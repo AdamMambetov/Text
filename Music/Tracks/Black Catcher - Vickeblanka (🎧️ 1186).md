@@ -1,7 +1,7 @@
 ---
 created: 2024-10-10T23:02:16+03:00
 aliases:
-  - Black Catcher
+  - "Black Catcher"
 Cover: "[[Vickeblanka - Black Catcher.jpg]]"
 Year: 2020
 Album: ""

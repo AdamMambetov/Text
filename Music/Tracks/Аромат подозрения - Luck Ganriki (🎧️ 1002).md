@@ -1,7 +1,7 @@
 ---
 created: 2024-04-12T15:02:56+03:00
 aliases:
-  - Аромат подозрения
+  - "Аромат подозрения"
 Cover: "[[_No Album Art.jpg]]"
 Year: 2007
 Album: "[[Umineko no Naku Koro ni OST (📀 30)]]"

@@ -1,9 +1,9 @@
 ---
 created: 2025-01-08T00:08:26+03:00
 aliases:
-  - Unravel
-  - Tokyo Ghoul OP 1
-  - Токийский гуль OP 1
+  - "Unravel"
+  - "Tokyo Ghoul OP 1"
+  - "Токийский гуль OP 1"
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""

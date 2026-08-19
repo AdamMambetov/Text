@@ -1,7 +1,7 @@
 ---
 created: 2025-12-08T05:49:17+03:00
 aliases:
-  - YouTube
+  - "YouTube"
 tracklist:
   - "[[Departure! - Игорь Куликов (🎧️ 1254)]]"
   - "[[Бесчувственный - Everblack Melodies (🎧️ 286)]]"

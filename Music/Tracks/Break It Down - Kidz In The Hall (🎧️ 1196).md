@@ -6,7 +6,8 @@ Cover: "[[Kidz In The Hall - Occasion.jpg]]"
 Year: 2011
 Album: "[[Occasion]]"
 CoverOf: ""
-Creators: []
+Creators:
+  - "[[Kidz In The Hall (🎙️ 878)]]"
 ListenInSec: 553
 NumberInAlbum: 3
 related: []

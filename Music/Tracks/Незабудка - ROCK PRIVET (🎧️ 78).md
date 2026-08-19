@@ -1,7 +1,7 @@
 ---
 created: 2022-04-21T04:20:54+03:00
 aliases:
-  - Незабудка
+  - "Незабудка"
 Cover: "[[_No Album Art.jpg]]"
 Year: 2019
 Album: ""

@@ -34,7 +34,7 @@ tracklist:
   - "[[aLIEz - Hiroyuki Sawano (🎧️ 1785)]]"
   - "[[Fukashigi no Carte - Asami Seto (🎧️ 1774)]]"
   - "[[Destiny (TV Size) - Ellie Goulding (🎧️ 1780)]]"
-  - "[[Broken Youth - NICO Touches the Walls (🎧️ 1204)]]"
+  - "[[Broken Youth - NICO Touches the Walls (🎧️ 1198)]]"
   - "[[redballoon - Yuki no Tsubasa (TV Size)]]"
   - "[[Memento (TV Size) - nonoc (🎧️ 1866)]]"
   - "[[Memento - nonoc (🎧️ 1865)]]"

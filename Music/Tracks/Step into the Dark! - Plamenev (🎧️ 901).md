@@ -1,8 +1,8 @@
 ---
 created: 2024-01-04T12:15:06+03:00
 aliases:
-  - Step into the Dark!
-  - Шаг в темноту!
+  - "Step into the Dark!"
+  - "Шаг в темноту!"
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""

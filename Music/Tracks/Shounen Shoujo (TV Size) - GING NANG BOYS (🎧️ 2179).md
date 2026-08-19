@@ -1,9 +1,9 @@
 ---
 created: 2026-06-12T00:05:48+03:00
 aliases:
-  - Shounen Shoujo (TV Size)
-  - Sonny Boy ED 1
-  - Сонни Бой ED 1
+  - "Shounen Shoujo (TV Size)"
+  - "Sonny Boy ED 1"
+  - "Сонни Бой ED 1"
 Cover: "[[Sonny Boy OST.jpg]]"
 Year: 2021
 Album: "[[Sonny Boy OST (📀 41)]]"

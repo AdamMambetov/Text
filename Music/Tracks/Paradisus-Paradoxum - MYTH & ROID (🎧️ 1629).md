@@ -1,9 +1,9 @@
 ---
 created: 2025-01-16T02:17:58+03:00
 aliases:
-  - Paradisus-Paradoxum
-  - ReZero OP 2
-  - РеЗеро OP 2
+  - "Paradisus-Paradoxum"
+  - "ReZero OP 2"
+  - "РеЗеро OP 2"
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""

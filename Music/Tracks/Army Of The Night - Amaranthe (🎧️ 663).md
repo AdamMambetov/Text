@@ -1,7 +1,7 @@
 ---
 created: 2023-09-29T16:23:00+03:00
 aliases:
-  - Army Of The Night
+  - "Army Of The Night"
 Cover: "[[Amaranthe - Army Of The Night.jpg]]"
 Year: 0
 Album: ""

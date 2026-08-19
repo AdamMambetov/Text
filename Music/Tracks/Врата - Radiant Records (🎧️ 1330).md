@@ -1,8 +1,8 @@
 ---
 created: 2024-10-23T15:39:16+03:00
 aliases:
-  - Врата
-  - Hacking to the Gate
+  - "Врата"
+  - "Hacking to the Gate"
 Cover: "[[Radiant Records - Септима.jpg]]"
 Year: 0
 Album: ""

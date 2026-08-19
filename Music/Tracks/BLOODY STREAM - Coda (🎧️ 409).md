@@ -1,7 +1,7 @@
 ---
 created: 2022-05-02T03:48:44+03:00
 aliases:
-  - BLOODY STREAM
+  - "BLOODY STREAM"
 Cover: "[[_No Album Art.jpg]]"
 Year: 2013
 Album: "[[BLOODY STREAM]]"

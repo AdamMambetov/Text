@@ -1,9 +1,9 @@
 ---
 created: 2022-05-02T03:40:20+03:00
 aliases:
-  - Haruka Kanata (TV Size)
-  - Naruto OP 2
-  - Наруто OP 2
+  - "Haruka Kanata (TV Size)"
+  - "Naruto OP 2"
+  - "Наруто OP 2"
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""

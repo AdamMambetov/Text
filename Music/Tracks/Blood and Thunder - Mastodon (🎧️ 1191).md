@@ -6,7 +6,8 @@ Cover: "[[Mastodon - Leviathan.jpg]]"
 Year: 2004
 Album: "[[Leviathan]]"
 CoverOf: ""
-Creators: []
+Creators:
+  - "[[Mastodon (🎙️ 877)]]"
 ListenInSec: 812
 NumberInAlbum: 1
 related: []

@@ -1,9 +1,9 @@
 ---
 created: 2025-01-08T01:13:12+03:00
 aliases:
-  - Redo
-  - ReZero OP 1
-  - РеЗеро OP 1
+  - "Redo"
+  - "ReZero OP 1"
+  - "РеЗеро OP 1"
 Cover: "[[Konomi Suzuki - Redo.jpg]]"
 Year: 2016
 Album: "[[Redo (📀 49)]]"

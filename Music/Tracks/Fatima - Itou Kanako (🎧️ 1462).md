@@ -1,9 +1,9 @@
 ---
 created: 2025-01-08T00:51:38+03:00
 aliases:
-  - Fatima
-  - Steins Gate 0 OP 1
-  - Врата Штейна 0 OP 1
+  - "Fatima"
+  - "Steins Gate 0 OP 1"
+  - "Врата Штейна 0 OP 1"
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""

@@ -1,9 +1,9 @@
 ---
 created: 2024-10-05T14:44:42+03:00
 aliases:
-  - Danzai no Hana ~Guilty Sky~
-  - Claymore ED 1
-  - Клеймор ED 1
+  - "Danzai no Hana ~Guilty Sky~"
+  - "Claymore ED 1"
+  - "Клеймор ED 1"
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""

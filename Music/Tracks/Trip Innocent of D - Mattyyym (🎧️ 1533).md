@@ -1,7 +1,7 @@
 ---
 created: 2025-01-08T18:32:48+03:00
 aliases:
-  - Trip -innocent of D-
+  - "Trip -innocent of D-"
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""

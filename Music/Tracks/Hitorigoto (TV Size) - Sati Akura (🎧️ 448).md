@@ -1,9 +1,9 @@
 ---
 created: 2022-10-05T13:28:16+03:00
 aliases:
-  - Hitorigoto (TV Size)
-  - Eromanga-sensei OP 1
-  - Эроманга-сэнсей OP 1
+  - "Hitorigoto (TV Size)"
+  - "Eromanga-sensei OP 1"
+  - "Эроманга-сэнсей OP 1"
 Cover: "[[Sati Akura - Hitorigoto.jpg]]"
 Year: 0
 Album: ""

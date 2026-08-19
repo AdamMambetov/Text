@@ -1,10 +1,10 @@
 ---
 created: 2022-04-26T00:56:46+03:00
 aliases:
-  - Снова
-  - Again
-  - Fullmetal Alchemist Brotherhood OP 1
-  - Стальной алхимик Братство OP 1
+  - "Снова"
+  - "Again"
+  - "Fullmetal Alchemist Brotherhood OP 1"
+  - "Стальной алхимик Братство OP 1"
 Cover: "[[Sati Akura - Again.jpg]]"
 Year: 2021
 Album: ""

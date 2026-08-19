@@ -1,9 +1,9 @@
 ---
 created: 2024-10-10T23:03:14+03:00
 aliases:
-  - Black Rover (TV Size)
-  - Black Clover OP 3
-  - Чёрный клевер OP 3
+  - "Black Rover (TV Size)"
+  - "Black Clover OP 3"
+  - "Чёрный клевер OP 3"
 Cover: "[[Leon Alex - Black Clover Guitar Collection.jpg]]"
 Year: 2021
 Album: ""

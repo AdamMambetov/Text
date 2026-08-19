@@ -1,7 +1,7 @@
 ---
 created: 2023-09-29T16:26:04+03:00
 aliases:
-  - Personal Jesus
+  - "Personal Jesus"
 Cover: "[[RADIO TAPOK - Personal Jesus.jpg]]"
 Year: 2021
 Album: ""

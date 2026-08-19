@@ -1,14 +1,14 @@
 ---
 created: 2023-07-09T19:12:12+03:00
 aliases:
-  - "Flyers"
-  - "Death Parade OP 1"
-  - "Смертельный парад OP 1"
-  - "Парад смерти OP 1"
+  - Flyers
+  - Death Parade OP 1
+  - Смертельный парад OP 1
+  - Парад смерти OP 1
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
-CoverOf: "[[Flyers - BRADIO (🎧️ 1198)]]"
+CoverOf: "[[Flyers - BRADIO (🎧️ 1195)]]"
 Creators:
   - "[[Jackie-O (🎙️ 339)]]"
 ListenInSec: 213

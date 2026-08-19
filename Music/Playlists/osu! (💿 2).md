@@ -130,7 +130,7 @@ tracklist:
   - "[[Astral Dogma - Yousei Teikoku (🎧️ 1169)]]"
   - "[[Here I Go Again - E-Type (🎧️ 598)]]"
   - "[[The Girl in Byakkoya - White Tiger Field - Susumu Hirasawa (🎧️ 811)]]"
-  - "[[Strike Back - Caleb Hyles (🎧️ 1198)]]"
+  - "[[Strike Back - Caleb Hyles (🎧️ 1200)]]"
   - "[[One Room Sugar Life - Nanawo Akari (🎧️ 496)]]"
   - "[[Blade of Hope (TV Size) - sweet ARMS (🎧️ 430)]]"
 ---

@@ -1,10 +1,10 @@
 ---
 created: 2023-09-29T16:21:56+03:00
 aliases:
-  - Синяя птица (TV Size)
-  - Blue Bird (TV Size)
-  - Naruto Shippuuden OP 3
-  - Наруто Ураганные хроники OP 3
+  - "Синяя птица (TV Size)"
+  - "Blue Bird (TV Size)"
+  - "Naruto Shippuuden OP 3"
+  - "Наруто Ураганные хроники OP 3"
 Cover: "[[Radiant Records - ПЕРЕПУТЬЕ.jpg]]"
 Year: 0
 Album: "[[ПЕРЕПУТЬЕ (📀 33)]]"

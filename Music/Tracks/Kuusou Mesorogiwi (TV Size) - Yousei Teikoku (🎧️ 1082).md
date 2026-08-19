@@ -1,10 +1,10 @@
 ---
 created: 2024-07-21T15:22:52+03:00
 aliases:
-  - Kuusou Mesorogiwi (TV Size)
-  - Mirai Nikki OP 1
-  - Futute Diary OP 1
-  - Дневник будущего OP 1
+  - "Kuusou Mesorogiwi (TV Size)"
+  - "Mirai Nikki OP 1"
+  - "Futute Diary OP 1"
+  - "Дневник будущего OP 1"
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
