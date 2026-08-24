@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Hayato Matsuo (🎙️ 939)]]"
-ListenInSec: 556
+ListenInSec: 641
 NumberInAlbum: 1
 related: []
 source: ""

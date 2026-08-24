@@ -8,7 +8,7 @@ Album: "[[Umineko no Naku Koro ni OST (📀 30)]]"
 CoverOf: ""
 Creators:
   - "[[Sumiisan (🎙️ 2)]]"
-ListenInSec: 3358
+ListenInSec: 3689
 NumberInAlbum: 7
 related: []
 SourceFile: "[[Umineko no Naku Koro ni OST - 007 Новелетта.ogg]]"

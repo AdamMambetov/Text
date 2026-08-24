@@ -8,7 +8,7 @@ Album: "[[No Friends]]"
 CoverOf: ""
 Creators:
   - "[[Cadmium (🎙️ 246)]]"
-ListenInSec: 10
+ListenInSec: 245
 NumberInAlbum: 1
 related: []
 source: ""

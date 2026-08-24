@@ -7,18 +7,9 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators: []
-ListenInSec: 1732
+ListenInSec: 2137
 NumberInAlbum: 0
 related: []
-source: ""
 SourceFile: "[[Rapa - Sakutarou's Adventure - Naku Naku Solo Guitar.mp3]]"
 ---
-
-`$=dv.header(1, dv.current().aliases[0])`
-
-![[Rapa - Sakutarou's Adventure - Naku Naku Solo Guitar.mp3]]
-
-## Related Tracks
-
-![[related tracks.base]]
 

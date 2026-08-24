@@ -9,7 +9,7 @@ CoverOf: ""
 Creators:
   - "[[Sam Houghton (🎙️ 675)]]"
   - "[[Joe Collinson (🎙️ 676)]]"
-ListenInSec: 3528
+ListenInSec: 3825
 NumberInAlbum: 3
 related: []
 SourceFile: "[[BPM OST - 12 The Crypt.mp3]]"

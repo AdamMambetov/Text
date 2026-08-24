@@ -9,7 +9,7 @@ CoverOf: ""
 Creators:
   - "[[Sam Houghton (🎙️ 675)]]"
   - "[[Joe Collinson (🎙️ 676)]]"
-ListenInSec: 4703
+ListenInSec: 5066
 NumberInAlbum: 2
 related: []
 SourceFile: "[[BPM OST - 03 The Rhythm King.mp3]]"

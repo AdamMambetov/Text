@@ -8,7 +8,7 @@ Album: "[[Let The Bad Times Roll [2021] {The Offspring}]]"
 CoverOf: ""
 Creators:
   - "[[The Offspring (🎙️ 459)]]"
-ListenInSec: 10
+ListenInSec: 208
 NumberInAlbum: 2
 related: []
 source: ""

@@ -1,12 +1,13 @@
 ---
 created: 2025-07-31T19:27:56+03:00
 aliases:
-  - "Ennio Morricone - The Ecstasy of Gold - Theremin & Voice"
+  - "The Ecstasy of Gold - Theremin & Voice"
 Cover: "[[Ennio Morricone - The Ecstasy of Gold - Theremin & Voice.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""
-Creators: []
+Creators:
+  - "[[Carolina Eyck (🎙️ 977)]]"
 ListenInSec: 479
 NumberInAlbum: 0
 related: []

@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Queen (🎙️ 420)]]"
-ListenInSec: 1702
+ListenInSec: 1915
 NumberInAlbum: 0
 related: []
 source: ""

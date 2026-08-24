@@ -9,7 +9,7 @@ Album: "[[8 Mile OST (📀 2)]]"
 CoverOf: ""
 Creators:
   - "[[Sia (🎙️ 823)]]"
-ListenInSec: 1813
+ListenInSec: 2105
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Unique Sound - Sia - Chandelier (Lyrics) ＂I'm gonna swing from the chandelier From the chandelier＂.opus]]"

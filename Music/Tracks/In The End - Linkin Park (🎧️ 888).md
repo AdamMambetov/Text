@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Linkin Park (🎙️ 363)]]"
-ListenInSec: 10
+ListenInSec: 175
 NumberInAlbum: 1
 related: []
 source: ""
@@ -18,3 +18,4 @@ SourceFile: "[[Linkin Park - In the End.mp3]]"
 # Linkin Park - In the End
 
 ![[Linkin Park - In the End.mp3]]
+

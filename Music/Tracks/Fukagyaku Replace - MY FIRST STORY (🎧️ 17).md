@@ -8,11 +8,13 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[MY FIRST STORY (🎙️ 491)]]"
-ListenInSec: 10
+ListenInSec: 215
 NumberInAlbum: 0
 related: []
-source: ""
 SourceFile: "[[MY FIRST STORY - Fukagyaku Replace.mp3]]"
+---
+
+p3]]"
 ---
 
 # MY FIRST STORY - Fukagyaku Replace

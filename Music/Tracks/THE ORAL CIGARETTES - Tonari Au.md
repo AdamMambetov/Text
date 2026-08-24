@@ -11,7 +11,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[THE ORAL CIGARETTES (🎙️ 824)]]"
-ListenInSec: 1234
+ListenInSec: 1780
 NumberInAlbum: 0
 related: []
 source: ""

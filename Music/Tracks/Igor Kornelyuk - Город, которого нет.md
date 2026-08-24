@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Игорь Корнелюк (🎙️ 107)]]"
-ListenInSec: 566
+ListenInSec: 940
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Igor Kornelyuk - Город, которого нет.mp3]]"

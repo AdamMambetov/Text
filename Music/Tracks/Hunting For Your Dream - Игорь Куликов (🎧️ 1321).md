@@ -10,7 +10,7 @@ Album: "[[Hunting For Your Dream]]"
 CoverOf: ""
 Creators:
   - "[[Игорь Куликов (🎙️ 71)]]"
-ListenInSec: 10
+ListenInSec: 311
 NumberInAlbum: 1
 related: []
 source: ""

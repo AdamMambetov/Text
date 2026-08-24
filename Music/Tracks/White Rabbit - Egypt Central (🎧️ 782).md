@@ -8,7 +8,7 @@ Album: "[[White Rabbit]]"
 CoverOf: ""
 Creators:
   - "[[Egypt Central (🎙️ 851)]]"
-ListenInSec: 9
+ListenInSec: 10
 NumberInAlbum: 2
 related: []
 source: ""

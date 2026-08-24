@@ -9,7 +9,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Andy Poland (🎙️ 183)]]"
-ListenInSec: 808
+ListenInSec: 1096
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Quiplash OST - 05 Round 2 Write.mp3]]"

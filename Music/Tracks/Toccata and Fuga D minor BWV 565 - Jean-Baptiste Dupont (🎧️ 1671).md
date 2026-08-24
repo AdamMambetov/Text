@@ -2,10 +2,11 @@
 created: 2025-06-02T22:45:52+03:00
 aliases:
   - "Toccata and Fuga D minor BWV 565"
+  - "Токката и Фуга ре минор"
 Cover: "[[Jean-Baptiste Dupont - Toccata and Fuga D minor BWV 565.jpg]]"
 Year: 2019
 Album: ""
-CoverOf: "[[J.S. Bach - Toccata and Fugue in D Minor, BWV 565]]"
+CoverOf: "[[Toccata and Fugue in D Minor BWV 565 - Bach (🎧️ 1740)]]"
 Creators:
   - "[[Jean-Baptiste Dupont (🎙️ 965)]]"
 ListenInSec: 1715

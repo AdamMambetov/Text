@@ -12,7 +12,7 @@ Creators:
   - "[[Kugimiya Rie (🎙️ 331)]]"
   - "[[Horie Yui (🎙️ 332)]]"
   - "[[Kitamura Eri (🎙️ 333)]]"
-ListenInSec: 4304
+ListenInSec: 4508
 NumberInAlbum: 0
 related:
   - "[[Pre-Parade (TV Size) - Kugimiya Rie]]"

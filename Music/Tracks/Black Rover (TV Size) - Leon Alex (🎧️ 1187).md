@@ -10,7 +10,7 @@ Album: ""
 CoverOf: "[[Black Rover (TV Size) - Vickeblanka (🎧️ 1069)]]"
 Creators:
   - "[[Leon Alex (🎙️ 361)]]"
-ListenInSec: 10
+ListenInSec: 103
 NumberInAlbum: 0
 related: []
 source: ""

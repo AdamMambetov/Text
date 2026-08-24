@@ -11,7 +11,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Yui Makino (🎙️ 825)]]"
-ListenInSec: 455
+ListenInSec: 544
 NumberInAlbum: 0
 related: []
 source: ""

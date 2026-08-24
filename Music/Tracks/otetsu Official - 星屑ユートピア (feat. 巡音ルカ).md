@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[otetsu (🎙️ 403)]]"
-ListenInSec: 4156
+ListenInSec: 4416
 NumberInAlbum: 0
 related: []
 SourceFile: "[[otetsu Official - 星屑ユートピア (feat. 巡音ルカ).mp3]]"

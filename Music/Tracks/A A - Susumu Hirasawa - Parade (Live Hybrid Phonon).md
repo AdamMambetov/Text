@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Susumu Hirasawa (🎙️ 452)]]"
-ListenInSec: 5536
+ListenInSec: 5921
 NumberInAlbum: 0
 related:
   - "[[Parade - Susumu Hirasawa (🎧️ 2059)]]"

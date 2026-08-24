@@ -13,7 +13,7 @@ Creators:
 ListenInSec: 372
 NumberInAlbum: 0
 related:
-  - "[[Megumeru - Eufonius (🎧️ 1756)]]"
+  - "[[Megumeru - Eufonius (🎧️ 1749)]]"
 source: ""
 SourceFile: "[[Eufonius - Megumeru (TV Size).mp3]]"
 ---

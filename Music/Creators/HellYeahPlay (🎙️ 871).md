@@ -4,7 +4,7 @@ aliases:
   - "HellYeahPlay"
   - "Сергей Hell Yeah"
   - "Сергей Беляков"
-ListenInSec: 0
+ListenInSec: 8059
 ---
 
 # HellYeahPlay

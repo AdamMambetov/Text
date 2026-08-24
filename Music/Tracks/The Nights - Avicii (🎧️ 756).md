@@ -8,13 +8,9 @@ Album: "[[The Days / Nights EP]]"
 CoverOf: ""
 Creators:
   - "[[Avicii (🎙️ 202)]]"
-ListenInSec: 10
+ListenInSec: 186
 NumberInAlbum: 2
 related: []
-source: ""
 SourceFile: "[[Avicii - The Nights.mp3]]"
 ---
 
-# Avicii - The Nights
-
-![[Avicii - The Nights.mp3]]

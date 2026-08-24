@@ -8,13 +8,9 @@ Album: "[[Holding Onto Strings Better Left to Fray]]"
 CoverOf: ""
 Creators:
   - "[[Seether (🎙️ 435)]]"
-ListenInSec: 10
+ListenInSec: 239
 NumberInAlbum: 6
 related: []
-source: ""
 SourceFile: "[[Seether - Country Song.mp3]]"
 ---
 
-# Seether - Country Song
-
-![[Seether - Country Song.mp3]]

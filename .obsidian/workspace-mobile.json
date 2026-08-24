@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Music/Tracks/Bamboleo - Gipsy Kings (🎧️ 1196).md",
-                "mode": "preview",
+                "file": "Music/Tracks/My Soul, Your Beats! (TV Size) - Lia (🎧️ 1750).md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Bamboleo - Gipsy Kings (🎧️ 1196)"
+              "title": "My Soul, Your Beats! (TV Size) - Lia (🎧️ 1750)"
             }
           }
         ],
@@ -143,7 +143,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Music/Tracks/Bamboleo - Gipsy Kings (🎧️ 1196).md",
+            "file": "Music/Tracks/My Soul, Your Beats! (TV Size) - Lia (🎧️ 1750).md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Text/Note/content/Noesis.md",
+            "file": "Music/Tracks/My Soul, Your Beats! (TV Size) - Lia (🎧️ 1750).md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -219,6 +219,17 @@
   },
   "active": "89ad2f666846d8b2",
   "lastOpenFiles": [
+    "Music/Covers/Lia - My Soul, Your Beats!.jpg",
+    "Music/Tracks/My Soul, Your Beats! (TV Size) - Lia (🎧️ 1750).md",
+    "Music/Tracks/Ритм души - Radiant Records (🎧️ 1711).md",
+    "Music/Tracks/Tori no Uta - Lia (🎧️ 1741).md",
+    "Music/Playlists/100% Шедевр (💿 6).md",
+    "Music/Tracks/Rhythm Heaven - Remix 5.md",
+    "Music/Tracks/Toccata and Fugue in D Minor BWV 565 - Bach (🎧️ 1740).md",
+    "Music/Creators/Bach (🎙️ 978).md",
+    "Music/Tracks/The Ecstasy of Gold - Theremin & Voice - Carolina Eyck (🎧️ 1739).md",
+    "Music/Creators/Carolina Eyck (🎙️ 977).md",
+    "Music/Tracks/'Shape of You' but it's Smash Mouth singing 'All Star' - Engval Music (🎧️ 1648).md",
     "Music/Tracks/Bad To the Bone - George Thorogood & The Destroyers (🎧️ 1176).md",
     "Music/Creators/George Thorogood & The Destroyers (🎙️ 874).md",
     "Music/Tracks/Bad Romance - Jay Smith (🎧️ 1175).md",
@@ -234,17 +245,6 @@
     "Music/Tracks/ЧАТ УМРЁТ - LINS (🎧️ 2218).md",
     "Music/Tracks/ХИККАН (хочется потрогать) - LINS (🎧️ 2216).md",
     "Music/Tracks/СОФИЯ - LINS (🎧️ 2053).md",
-    "Music/Creators/HellYeahPlay (🎙️ 871).md",
-    "Music/Tracks/СЕНСЕЙ - LINS (🎧️ 2215).md",
-    "Music/Tracks/АЛЁНА ДАСТ - LINS (🎧️ 2217).md",
-    "Music/Tracks/All Eyes on You - Smash Into Pieces (🎧️ 1152).md",
-    "Music/Creators/Smash Into Pieces (🎙️ 872).md",
-    "Music/Tracks/Alien Alien (Nhato Remix) - NayutalieN (🎧️ 1151).md",
-    "Music/Creators/Nhato (🎙️ 870).md",
-    "Music/Creators/NayutalieN (🎙️ 869).md",
-    "Music/Tracks/Age of the Dragon - Miracle of Sound (🎧️ 1149).md",
-    "Music/Creators/Miracle of Sound (🎙️ 868).md",
-    "Music/Tracks/Senkyou no Igreja - Chiyomaru Shikura (🎧️ 1101).md",
     "Music/Covers/Rotten Toten - Ужин у вдовы.jpg",
     "Music/Covers/Hiroyuki Sawano - LEveL (TV Size).jpg",
     "Music/Covers/Nana Kitade - 18 -eighteen-.jpg",

@@ -8,13 +8,9 @@ Album: "[[время]]"
 CoverOf: ""
 Creators:
   - "[[COMEDOZ (🎙️ 267)]]"
-ListenInSec: 9
+ListenInSec: 231
 NumberInAlbum: 7
 related: []
-source: ""
 SourceFile: "[[COMEDOZ - Поцелуй Прямо В Сердце.mp3]]"
 ---
 
-# COMEDOZ - Поцелуй Прямо В Сердце
-
-![[COMEDOZ - Поцелуй Прямо В Сердце.mp3]]

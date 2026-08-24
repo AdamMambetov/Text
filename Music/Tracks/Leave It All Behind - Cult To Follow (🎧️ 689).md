@@ -8,7 +8,7 @@ Album: "[[Leave It All Behind - Elements]]"
 CoverOf: ""
 Creators:
   - "[[Cult To Follow (🎙️ 270)]]"
-ListenInSec: 8
+ListenInSec: 47
 NumberInAlbum: 1
 related: []
 source: ""

@@ -1,9 +1,7 @@
 ---
 created: 2025-08-01T16:10:26+03:00
 aliases:
-  - "My Soul"
-  - "Your Beats! (TV Size)"
-  - "Ритм души"
+  - "My Soul, Your Beats! (TV Size)"
   - "Angel Beats OP 1"
   - "Ангельские ритмы OP 1"
 Cover: "[[Lia - My Soul, Your Beats!.jpg]]"
@@ -15,7 +13,7 @@ Creators:
 ListenInSec: 623
 NumberInAlbum: 0
 related:
-  - "[[My Soul, Your Beats! - Lia (🎧️ 1754)]]"
+  - "[[My Soul, Your Beats! - Lia (🎧️ 1745)]]"
 source: ""
 SourceFile: "[[Lia - My Soul, Your Beats! (TV Size).mp3]]"
 ---

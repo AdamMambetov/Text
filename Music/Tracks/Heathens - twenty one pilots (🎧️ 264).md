@@ -8,13 +8,9 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[twenty one pilots (🎙️ 473)]]"
-ListenInSec: 9
+ListenInSec: 204
 NumberInAlbum: 0
 related: []
-source: ""
 SourceFile: "[[twenty one pilots - Heathens.mp3]]"
 ---
 
-# twenty one pilots - Heathens
-
-![[twenty one pilots - Heathens.mp3]]

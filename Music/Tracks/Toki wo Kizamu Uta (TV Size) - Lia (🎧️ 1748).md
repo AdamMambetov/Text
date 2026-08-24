@@ -13,7 +13,7 @@ Creators:
 ListenInSec: 448
 NumberInAlbum: 0
 related:
-  - "[[Toki wo Kizamu Uta - Lia (🎧️ 1753)]]"
+  - "[[Toki wo Kizamu Uta - Lia (🎧️ 1746)]]"
 source: ""
 SourceFile: "[[Lia - Toki wo Kizamu Uta (TV Size).mp3]]"
 ---

@@ -8,7 +8,7 @@ Album: "[[The Human Resource]]"
 CoverOf: ""
 Creators:
   - "[[Evol Intent (🎙️ 857)]]"
-ListenInSec: 10
+ListenInSec: 11
 NumberInAlbum: 10
 related: []
 source: ""

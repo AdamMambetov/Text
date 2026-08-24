@@ -14,7 +14,7 @@ Creators:
 ListenInSec: 710
 NumberInAlbum: 0
 related:
-  - "[[Tori no Uta - Lia (🎧️ 1750)]]"
+  - "[[Tori no Uta - Lia (🎧️ 1741)]]"
   - "[[Tori no Uta (YT Size) - Lia (🎧️ 1732)]]"
 source: ""
 SourceFile: "[[Lia - Tori no Uta (TV Size).mp3]]"
