@@ -1,7 +1,12 @@
 ---
 created: 2026-06-28T07:37:54+03:00
-aliases: ["PostgreSQL", "psql"]
-category: ["[[Программирование]]"]
+aliases:
+  - PostgreSQL
+  - psql
+category:
+  - "[[Программирование]]"
+related:
+  - https://hub.docker.com/r/sorrell/apache-age-viewer
 ---
 
 # PostgreSQL

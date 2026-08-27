@@ -4,27 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "aa7f676e09ed184e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d429bfa709362a1e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Music/Tracks/Ennio Morricone - The Ecstasy of Gold - Theremin & Voice.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Ennio Morricone - The Ecstasy of Gold - Theremin & Voice"
-            }
-          }
-        ]
-      },
-      {
-        "id": "05777c34c7c242ca",
+        "id": "68d1781783e069ee",
         "type": "tabs",
         "children": [
           {
@@ -105,7 +85,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Music/Tracks/Ennio Morricone - The Ecstasy of Gold - Theremin & Voice.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -175,7 +154,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Music/Tracks/Ennio Morricone - The Ecstasy of Gold - Theremin & Voice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +172,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Music/Tracks/Ennio Morricone - The Ecstasy of Gold - Theremin & Voice.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
@@ -282,7 +259,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 484.08984375
+    "width": 484.08984375,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -305,8 +283,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d429bfa709362a1e",
+  "active": "9b36385a2325dfca",
   "lastOpenFiles": [
+    "Note/Регулярные выражения.md",
+    "Note/PostgreSQL.md",
+    "Note/projects/unreal engine/Unreal Engine.md",
+    "Art/content/1+1 (🇫🇷🎞 193).md",
+    "Personal/Пароли.kdbx.jrReoW",
+    "Music/Tracks/Tori no Uta - Lia (🎧️ 1741).md",
+    "Music/Tracks/Toki wo Kizamu Uta - Lia (🎧️ 1746).md",
+    "Music/Tracks/Toki wo Kizamu Uta (TV Size) - Lia (🎧️ 1748).md",
+    "Music/Tracks/Toccata and Fugue in D Minor BWV 565 - Bach (🎧️ 1740).md",
+    "Music/Tracks/The Ecstasy of Gold - Theremin & Voice - Carolina Eyck (🎧️ 1739).md",
+    "Music/Tracks/Platinum Disco - Yuka Iguchi (🎧️ 1742).md",
+    "Music/Tracks/Platinum Disco (TV Size) - Yuka Iguchi (🎧️ 1743).md",
+    "Music/Tracks/My Soul, Your Beats! - Lia (🎧️ 1745).md",
+    "Music/Tracks/My Soul, Your Beats! (TV Size) - Lia (🎧️ 1750).md",
+    "Music/Tracks/Megumeru - Eufonius (🎧️ 1749).md",
+    "Music/Tracks/Megumeru (TV Size) - Eufonius (🎧️ 1747).md",
+    "Music/Tracks/Bravely You - Lia (🎧️ 1744).md",
+    "Music/Creators/Carolina Eyck (🎙️ 977).md",
+    "Music/Creators/Bach (🎙️ 978).md",
+    "Music/Tracks/Ennio Morricone - The Ecstasy of Gold - Theremin & Voice.md",
     "Music/Tracks/History Maker (TV Size) - Dean Fujioka (🎧️ 1733).md",
     "Music/Creators/Dean Fujioka (🎙️ 976).md",
     "Music/Tracks/TimeShift OST - 3 Drop Like Flies - Gabriel Mann (🎧️ 1707).md",
@@ -314,25 +312,6 @@
     "Music/Creators/Gabriel Mann (🎙️ 974).md",
     "Music/Tracks/Миссия! Здо·ровье·глав·ное - Roro Ai (🎧️ 1695).md",
     "Music/Tracks/Mission! Ken·Kou·Dai·Ichi (TV Size) - Kana Hanazawa (🎧️ 1702).md",
-    "Music/Creators/Kikuko Inoue (🎙️ 973).md",
-    "Music/Creators/Daisuke Ono (🎙️ 972).md",
-    "Music/Creators/Tomoaki Maeno (🎙️ 971).md",
-    "Music/Creators/Kana Hanazawa (🎙️ 186).md",
-    "Music/Creators/Kari (🎙️ 664).md",
-    "Music/Tracks/Jiyuu no Tsubasa (TV Size) - Linked Horizon (🎧️ 1693).md",
-    "Music/Tracks/Jiyuu no Tsubasa - Linked Horizon (🎧️ 1694).md",
-    "Music/Tracks/Irokousui (Emotional Orchestral Cover) - Anton Cloudjumper Gustin (🎧️ 1686).md",
-    "Music/Tracks/Bad Apple - Anton Cloudjumper Gustin (🎧️ 2166).md",
-    "Music/Creators/Un3h (🎙️ 970).md",
-    "Music/Creators/Anton Cloudjumper Gustin (🎙️ 969).md",
-    "Music/Tracks/Uragirimono no Requiem - Daisuke Hasegawa (🎧️ 1683).md",
-    "Music/Creators/Daisuke Hasegawa (🎙️ 968).md",
-    "Music/Tracks/Yuki no Tsubasa (TV Size) - redballoon (🎧️ 1676).md",
-    "Music/Creators/redballoon (🎙️ 967).md",
-    "Music/Tracks/Guardian of the Galaxy OST - The Rubberband Man - The Spinners (🎧️ 1674).md",
-    "Music/Tracks/Moonlight Sonata - Beethoven (🎧️ 1672).md",
-    "Music/Creators/Beethoven (🎙️ 966).md",
-    "Music/Tracks/Toccata and Fuga D minor BWV 565 - Jean-Baptiste Dupont (🎧️ 1671).md",
     "Music/Covers/Masayoshi Soken - Find the Flame.jpg",
     "Music/Covers/_No Album Art.jpg",
     "Music/Covers/Animal Crossing. New Leaf OST.png",
@@ -351,7 +330,6 @@
     "Audio/Music/Your Turn To Die OST - 08 Even in Tragedy [EXTENDED].mp3",
     "Audio/Music/Your Turn To Die OST - 09 Kind Moment [EXTENDED].mp3",
     "Audio/Music/Your Turn To Die OST - 07 Day of Tragedy [EXTENDED].mp3",
-    "Audio/Music/Your Turn To Die OST - 03 Into The Incident [EXTENDED].mp3",
-    "Audio/Music/Your Turn To Die OST - 04 Major Panic [EXTENDED].mp3"
+    "Audio/Music/Your Turn To Die OST - 03 Into The Incident [EXTENDED].mp3"
   ]
 }

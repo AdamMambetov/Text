@@ -47,6 +47,13 @@ C:\UnrealEngine\Binary\UE_5.5\Engine\Build\BatchFiles\RunUAT.bat BuildPlugin -Pl
 
 Если этот плагин требует другой плагин, то надо сначала сбилдить требуемый плагин, затем поместить его в папку с плагинами движка.
 
+## Как собрать бинарную версию движка из исходников
+
+```bash
+./Engine/Build/BatchFiles/RunUAT.sh BuildGraph -target="Make Installed Build Linux" -script="Engine/Build/InstalledEngineBuild.xml" -clean
+```
+
+## Всякое
 
 ![[photo_382406_285 - 20231203174627180.jpg]]
 
