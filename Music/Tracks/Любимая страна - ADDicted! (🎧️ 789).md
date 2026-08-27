@@ -8,7 +8,7 @@ Album: "[[Прозрение]]"
 CoverOf: ""
 Creators:
   - "[[ADDicted! (🎙️ 148)]]"
-ListenInSec: 41
+ListenInSec: 46
 NumberInAlbum: 6
 related: []
 source: ""

@@ -5,7 +5,7 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: "[[Blue]]"
-CoverOf: ""
+CoverOf: "[[Blue (Da Ba Dee) - Eiffel 65 (🎧️ 1192)]]"
 Creators:
   - "[[DiWilliam (🎙️ 60)]]"
 ListenInSec: 688

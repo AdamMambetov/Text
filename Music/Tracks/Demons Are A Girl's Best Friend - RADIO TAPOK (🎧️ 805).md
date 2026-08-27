@@ -8,7 +8,7 @@ Album: ""
 CoverOf: "[[Demons Are a Girl's Best Friend - Powerwolf (🎧️ 1255)]]"
 Creators:
   - "[[RADIO TAPOK (🎙️ 421)]]"
-ListenInSec: 19
+ListenInSec: 277
 NumberInAlbum: 0
 related: []
 source: ""

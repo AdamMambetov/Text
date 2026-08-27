@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Brad Breeck (🎙️ 235)]]"
-ListenInSec: 50
+ListenInSec: 89
 NumberInAlbum: 0
 related: []
 source: ""

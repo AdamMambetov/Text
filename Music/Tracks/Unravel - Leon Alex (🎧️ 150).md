@@ -1,7 +1,7 @@
 ---
 created: 2022-04-22T21:03:38+03:00
 aliases:
-  - "Unravel"
+  - "Unravel (TV Size)"
   - "Tokyo Ghoul OP 1"
   - "Токийский гуль OP 1"
 Cover: "[[Leon Alex - Unravel.jpg]]"

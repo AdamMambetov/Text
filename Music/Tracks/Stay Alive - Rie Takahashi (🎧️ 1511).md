@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Rie Takahashi (🎙️ 683)]]"
-ListenInSec: 19
+ListenInSec: 286
 NumberInAlbum: 0
 related:
   - "[[Stay Alive (TV Size) - Rie Takahashi]]"

@@ -5,20 +5,11 @@ aliases:
 Cover: "[[Red Alert 3 - Red Alert 3 OST - Soviet March.jpg]]"
 Year: 0
 Album: ""
-CoverOf: ""
 Creators: []
-ListenInSec: 1245
 NumberInAlbum: 0
 related: []
-source: ""
 SourceFile: "[[Red Alert 3 - Red Alert 3 OST - Soviet March.mp3]]"
+ListenInSec: 1405
+CoverOf: ""
 ---
-
-`$=dv.header(1, dv.current().aliases[0])`
-
-![[Red Alert 3 - Red Alert 3 OST - Soviet March.mp3]]
-
-## Related Tracks
-
-![[related tracks.base]]
 

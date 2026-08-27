@@ -9,7 +9,7 @@ CoverOf: ""
 Creators:
   - "[[Timmy Trumpet (🎙️ 900)]]"
   - "[[Savage (🎙️ 901)]]"
-ListenInSec: 45
+ListenInSec: 50
 NumberInAlbum: 1
 related: []
 source: ""

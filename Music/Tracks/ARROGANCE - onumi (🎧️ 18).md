@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[onumi (🎙️ 492)]]"
-ListenInSec: 82
+ListenInSec: 89
 NumberInAlbum: 0
 related: []
 source: https://osu.ppy.sh/beatmapsets/940377#osu/2165190

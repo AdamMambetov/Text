@@ -8,7 +8,7 @@ Album: "[[Everything Black]]"
 CoverOf: ""
 Creators:
   - "[[Unlike Pluto (🎙️ 896)]]"
-ListenInSec: 88
+ListenInSec: 120
 NumberInAlbum: 1
 related: []
 source: ""

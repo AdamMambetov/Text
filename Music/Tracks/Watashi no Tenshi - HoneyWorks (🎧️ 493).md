@@ -9,7 +9,7 @@ CoverOf: ""
 Creators:
   - "[[HoneyWorks (🎙️ 259)]]"
   - "[[Sora Amamiya (🎙️ 818)]]"
-ListenInSec: 45
+ListenInSec: 51
 NumberInAlbum: 0
 related: []
 source: ""

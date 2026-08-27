@@ -8,7 +8,7 @@ Album: "[[Kabaneri of the Iron Fortress OST]]"
 CoverOf: ""
 Creators:
   - "[[Hiroyuki Sawano (🎙️ 329)]]"
-ListenInSec: 2409
+ListenInSec: 2742
 NumberInAlbum: 15
 related: []
 SourceFile: "[[Kabaneri of the Iron Fortress OST - 1Coma.mp3]]"

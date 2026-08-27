@@ -11,7 +11,8 @@ Creators:
   - "[[checkoff (🎙️ 257)]]"
 ListenInSec: 707
 NumberInAlbum: 0
-related: []
+related:
+  - "[[Melodic Music Extension - Offenbach - Can Can Extended]]"
 SourceFile: "[[checkoff - Nominalo Galop (INFERNAL GALOP, NOMINALO Mashup).mp3]]"
 ---
 

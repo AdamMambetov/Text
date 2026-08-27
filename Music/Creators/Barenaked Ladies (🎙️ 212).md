@@ -2,7 +2,7 @@
 created: 2025-11-19T22:43:06+03:00
 aliases:
   - "Barenaked Ladies"
-ListenInSec: 16
+ListenInSec: 30
 ---
 
 # Barenaked Ladies

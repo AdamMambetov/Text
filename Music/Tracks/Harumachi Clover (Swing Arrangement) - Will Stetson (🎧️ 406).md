@@ -5,10 +5,10 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
-CoverOf: ""
+CoverOf: "[[Harumachi Clover (TV Size) - Hanasaka Yui (🎧️ 398)]]"
 Creators:
   - "[[Will Stetson (🎙️ 481)]]"
-ListenInSec: 47
+ListenInSec: 82
 NumberInAlbum: 1
 related: []
 source: ""

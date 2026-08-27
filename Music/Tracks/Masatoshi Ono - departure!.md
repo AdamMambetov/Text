@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[GALNERYUS (🎙️ 315)]]"
-ListenInSec: 1038
+ListenInSec: 1294
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Masatoshi Ono - departure!.opus]]"

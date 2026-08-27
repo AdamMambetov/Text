@@ -8,7 +8,7 @@ Album: "[[Blue (Da Ba Dee)]]"
 CoverOf: ""
 Creators:
   - "[[Eiffel 65 (🎙️ 300)]]"
-ListenInSec: 21
+ListenInSec: 303
 NumberInAlbum: 1
 related: []
 source: ""

@@ -10,10 +10,11 @@ CoverOf: "[[Hacking To The Gate - Itou Kanako (🎧️ 1454)]]"
 Creators:
   - "[[Radiant Records (🎙️ 39)]]"
   - "[[Hono (🎙️ 51)]]"
-ListenInSec: 565
+ListenInSec: 600
 NumberInAlbum: 0
 related:
   - "[[Врата (TV Size) - Radiant Records (🎧️ 640)]]"
+  - "[[Hacking to the Gate (TV Size) - Itou Kanako (🎧️ 1094)]]"
 source: ""
 SourceFile: "[[Radiant Records - Врата.mp3]]"
 ---

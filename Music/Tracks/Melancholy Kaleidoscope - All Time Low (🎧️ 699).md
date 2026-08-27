@@ -8,7 +8,7 @@ Album: "[[Wake Up, Sunshine]]"
 CoverOf: ""
 Creators:
   - "[[All Time Low (🎙️ 169)]]"
-ListenInSec: 11
+ListenInSec: 184
 NumberInAlbum: 4
 related: []
 source: ""

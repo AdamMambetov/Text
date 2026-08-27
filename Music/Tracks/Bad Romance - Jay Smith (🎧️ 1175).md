@@ -4,11 +4,11 @@ aliases:
   - "Bad Romance"
 Cover: "[[Jay Smith - Jay Smith.jpg]]"
 Year: 2010
-Album:
+Album: ""
 CoverOf: ""
 Creators:
   - "[[Jay Smith (🎙️ 873)]]"
-ListenInSec: 35
+ListenInSec: 320
 NumberInAlbum: 15
 related: []
 source: ""

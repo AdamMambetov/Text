@@ -2,7 +2,7 @@
 created: 2026-01-22T04:01:24+03:00
 aliases:
   - "Anjulie"
-ListenInSec: 0
+ListenInSec: 37
 ---
 
 # Anjulie

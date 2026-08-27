@@ -9,7 +9,7 @@ CoverOf: ""
 Creators:
   - "[[Camellia (🎙️ 53)]]"
   - "[[Nanahira (🎙️ 248)]]"
-ListenInSec: 15
+ListenInSec: 288
 NumberInAlbum: 0
 related: []
 source: ""

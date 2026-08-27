@@ -10,7 +10,7 @@ Creators:
   - "[[Macklemore (🎙️ 515)]]"
   - "[[Ryan Lewis (🎙️ 516)]]"
   - "[[Ray Dalton (🎙️ 518)]]"
-ListenInSec: 3506
+ListenInSec: 3764
 NumberInAlbum: 2
 related: []
 SourceFile: "[[Macklemore - Can't Hold Us.mp3]]"

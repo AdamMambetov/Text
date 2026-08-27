@@ -9,7 +9,7 @@ CoverOf: ""
 Creators:
   - "[[The Blasting Company (🎙️ 918)]]"
   - "[[Justin Rubenstein (🎙️ 921)]]"
-ListenInSec: 14
+ListenInSec: 136
 NumberInAlbum: 1
 related: []
 source: ""

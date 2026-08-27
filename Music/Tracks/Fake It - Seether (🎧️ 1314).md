@@ -8,7 +8,7 @@ Album: "[[Vicennial: 2 Decades of Seether]]"
 CoverOf: ""
 Creators:
   - "[[Seether (🎙️ 435)]]"
-ListenInSec: 2204
+ListenInSec: 2397
 NumberInAlbum: 1
 related: []
 SourceFile: "[[Seether - Fake It.mp3]]"

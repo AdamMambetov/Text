@@ -5,21 +5,12 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
-CoverOf: ""
 Creators:
   - "[[coldrain (🎙️ 821)]]"
-ListenInSec: 2956
 NumberInAlbum: 0
 related: []
-source: ""
 SourceFile: "[[coldrain - We're not alone.opus]]"
+ListenInSec: 3431
+CoverOf: ""
 ---
-
-`$=dv.header(1, dv.current().aliases[0])`
-
-![[coldrain - We're not alone.opus]]
-
-## Related Tracks
-
-![[related tracks.base]]
 

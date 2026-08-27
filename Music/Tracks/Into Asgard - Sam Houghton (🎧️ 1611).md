@@ -9,7 +9,7 @@ CoverOf: ""
 Creators:
   - "[[Sam Houghton (🎙️ 675)]]"
   - "[[Joe Collinson (🎙️ 676)]]"
-ListenInSec: 6158
+ListenInSec: 6160
 NumberInAlbum: 8
 related: []
 SourceFile: "[[BPM OST - 01 Into Asgard.mp3]]"

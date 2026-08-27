@@ -8,7 +8,7 @@ Album: "[[American Idiot]]"
 CoverOf: ""
 Creators:
   - "[[Green Day (🎙️ 322)]]"
-ListenInSec: 23
+ListenInSec: 197
 NumberInAlbum: 12
 related: []
 source: ""

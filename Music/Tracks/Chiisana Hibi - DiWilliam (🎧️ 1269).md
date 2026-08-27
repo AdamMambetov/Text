@@ -1,7 +1,7 @@
 ---
 created: 2024-10-23T13:43:28+03:00
 aliases:
-  - "Chiisana Hibi"
+  - "Chiisana Hibi (TV Size)"
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: "[[Chiisana Hibi]]"
@@ -10,7 +10,8 @@ Creators:
   - "[[DiWilliam (🎙️ 60)]]"
 ListenInSec: 98
 NumberInAlbum: 1
-related: []
+related:
+  - "[[Chiisana Hibi - flumpool (🎧️ 1591)]]"
 source: ""
 SourceFile: "[[DiWilliam - Chiisana Hibi.mp3]]"
 ---

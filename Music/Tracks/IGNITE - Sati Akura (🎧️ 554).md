@@ -12,7 +12,7 @@ Album: ""
 CoverOf: "[[IGNITE - Aoi Eir]]"
 Creators:
   - "[[Sati Akura (🎙️ 357)]]"
-ListenInSec: 14
+ListenInSec: 260
 NumberInAlbum: 0
 related: []
 source: ""

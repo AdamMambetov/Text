@@ -5,16 +5,12 @@ aliases:
 Cover: "[[Yousei Teikoku - The Creator.jpg]]"
 Year: 2011
 Album: ""
-CoverOf: ""
 Creators:
   - "[[Yousei Teikoku (🎙️ 277)]]"
-ListenInSec: 11
 NumberInAlbum: 0
 related: []
-source: ""
 SourceFile: "[[Yousei Teikoku - The Creator.mp3]]"
+ListenInSec: 242
+CoverOf: ""
 ---
 
-# Yousei Teikoku - The Creator
-
-![[Yousei Teikoku - The Creator.mp3]]

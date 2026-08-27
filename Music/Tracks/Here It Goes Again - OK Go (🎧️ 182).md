@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[OK Go (🎙️ 399)]]"
-ListenInSec: 21
+ListenInSec: 200
 NumberInAlbum: 0
 related: []
 source: ""

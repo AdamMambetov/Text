@@ -11,9 +11,10 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[MYTH & ROID (🎙️ 384)]]"
-ListenInSec: 269
+ListenInSec: 359
 NumberInAlbum: 0
-related: []
+related:
+  - "[[VORACITY - MYTH & ROID (🎧️ 639)]]"
 source: ""
 SourceFile: "[[KADOKAWAanime - TVアニメ「オーバーロードⅢ」ノンクレジットOP映像【MYTH&ROID「VORACITY」】.mp3]]"
 ---

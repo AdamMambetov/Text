@@ -8,7 +8,7 @@ Album: "[[Life & Death]]"
 CoverOf: ""
 Creators:
   - "[[Blowsight (🎙️ 230)]]"
-ListenInSec: 35
+ListenInSec: 53
 NumberInAlbum: 12
 related: []
 source: ""

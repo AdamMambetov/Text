@@ -7,7 +7,7 @@ aliases:
   - "Репетитор-киллер Реборн OP 6"
 Cover: "[[Radiant Records - ПЕРЕПУТЬЕ.jpg]]"
 Year: 0
-Album: "[[ПЕРЕПУТЬЕ (📀 33)]]"
+Album: "[[ПЕРЕПУТЬЕ — Radiant Records]]"
 CoverOf: "[[EASY GO - Kazuki Kato (🎧️ 1878)]]"
 Creators:
   - "[[Radiant Records (🎙️ 39)]]"
@@ -15,7 +15,8 @@ Creators:
   - "[[DiWilliam (🎙️ 60)]]"
 ListenInSec: 2093
 NumberInAlbum: 0
-related: []
+related:
+  - "[[EASY GO (TV Size) - Kazuki Kato (🎧️ 1879)]]"
 source: ""
 SourceFile: "[[Radiant Records - Полный ход.mp3]]"
 ---

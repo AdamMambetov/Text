@@ -9,7 +9,7 @@ Album: "[[DANGANRONPA V3 OST BLACK (📀 45)]]"
 CoverOf: ""
 Creators:
   - "[[Masafumi Takada (🎙️ 792)]]"
-ListenInSec: 2797
+ListenInSec: 3133
 NumberInAlbum: 46
 related: []
 SourceFile: "[[Danganrnopa V3 OST Black - 46 Beautiful Lie in ProgramWorld.mp3]]"

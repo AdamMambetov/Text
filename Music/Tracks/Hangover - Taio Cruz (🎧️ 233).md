@@ -9,7 +9,7 @@ CoverOf: ""
 Creators:
   - "[[Taio Cruz (🎙️ 455)]]"
   - "[[Flo Rida (🎙️ 310)]]"
-ListenInSec: 28
+ListenInSec: 272
 NumberInAlbum: 1
 related: []
 source: ""

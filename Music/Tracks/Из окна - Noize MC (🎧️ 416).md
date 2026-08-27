@@ -8,7 +8,7 @@ Album: "[[The Greatest Hits [2008] {Noize MC}]]"
 CoverOf: ""
 Creators:
   - "[[Noize MC (🎙️ 78)]]"
-ListenInSec: 48
+ListenInSec: 51
 NumberInAlbum: 3
 related: []
 source: ""

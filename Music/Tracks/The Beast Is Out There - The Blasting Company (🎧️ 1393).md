@@ -9,7 +9,7 @@ CoverOf: ""
 Creators:
   - "[[The Blasting Company (🎙️ 918)]]"
   - "[[Audrey Wasilewski (🎙️ 928)]]"
-ListenInSec: 46
+ListenInSec: 49
 NumberInAlbum: 1
 related: []
 source: ""

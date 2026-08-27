@@ -11,7 +11,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[coldrain (🎙️ 821)]]"
-ListenInSec: 690
+ListenInSec: 758
 NumberInAlbum: 0
 related: []
 source: ""

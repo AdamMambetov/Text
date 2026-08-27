@@ -5,11 +5,11 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
-CoverOf:
+CoverOf: ""
 Creators:
   - "[[The Blasting Company (🎙️ 918)]]"
   - "[[Frank Fairfield (🎙️ 929)]]"
-ListenInSec: 84
+ListenInSec: 90
 NumberInAlbum: 1
 related: []
 source: ""

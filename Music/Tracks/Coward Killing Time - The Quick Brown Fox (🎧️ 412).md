@@ -8,7 +8,7 @@ Album: "[[The Quick Brown Fox]]"
 CoverOf: ""
 Creators:
   - "[[The Quick Brown Fox (🎙️ 462)]]"
-ListenInSec: 61
+ListenInSec: 75
 NumberInAlbum: 10
 related: []
 source: ""

@@ -8,7 +8,7 @@ Album: ""
 CoverOf: "[[Carry On - Avenged Sevenfold (🎧️ 1208)]]"
 Creators:
   - "[[Игорь Куликов (🎙️ 71)]]"
-ListenInSec: 83
+ListenInSec: 95
 NumberInAlbum: 1
 related: []
 source: ""

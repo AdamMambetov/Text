@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Naked Raygun (🎙️ 523)]]"
-ListenInSec: 40
+ListenInSec: 364
 NumberInAlbum: 0
 related: []
 source: ""

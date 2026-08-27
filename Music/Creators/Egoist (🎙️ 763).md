@@ -2,11 +2,6 @@
 created: 2026-07-08T11:06:58+03:00
 aliases:
   - "Egoist"
-ListenInSec: 2901
+ListenInSec: 3483
 ---
 
-# Egoist
-
-## Tracklist
-
-![[tracklist.base]]

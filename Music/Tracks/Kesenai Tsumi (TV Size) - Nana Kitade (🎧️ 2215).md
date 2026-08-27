@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Nana Kitade (🎙️ 820)]]"
-ListenInSec: 767
+ListenInSec: 844
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Nana Kitade - Kesenai Tsumi (TV Size).opus]]"

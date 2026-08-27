@@ -8,7 +8,7 @@ Album: "[[Rotation]]"
 CoverOf: ""
 Creators:
   - "[[Cute Is What We Aim For (🎙️ 271)]]"
-ListenInSec: 41
+ListenInSec: 46
 NumberInAlbum: 11
 related: []
 source: ""

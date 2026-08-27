@@ -8,7 +8,7 @@ Album: "[[The Flame In All of Us]]"
 CoverOf: ""
 Creators:
   - "[[Thousand Foot Krutch (🎙️ 468)]]"
-ListenInSec: 12
+ListenInSec: 19
 NumberInAlbum: 8
 related: []
 source: ""

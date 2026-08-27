@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Lindsey Stirling (🎙️ 512)]]"
-ListenInSec: 13
+ListenInSec: 45
 NumberInAlbum: 0
 related: []
 source: ""

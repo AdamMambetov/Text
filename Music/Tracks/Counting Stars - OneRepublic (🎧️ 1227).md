@@ -8,7 +8,7 @@ Album: "[[Native]]"
 CoverOf: ""
 Creators:
   - "[[OneRepublic (🎙️ 401)]]"
-ListenInSec: 40
+ListenInSec: 306
 NumberInAlbum: 1
 related: []
 source: ""

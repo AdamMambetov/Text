@@ -2,7 +2,7 @@
 created: 2026-08-19T16:53:55+03:00
 aliases:
   - "Anton Cloudjumper Gustin"
-ListenInSec: 0
+ListenInSec: 525
 ---
 
 # Anton Cloudjumper Gustin

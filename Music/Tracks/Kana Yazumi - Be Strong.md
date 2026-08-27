@@ -11,7 +11,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Kana Yazumi (🎙️ 822)]]"
-ListenInSec: 3119
+ListenInSec: 3656
 NumberInAlbum: 0
 related:
   - "[[X0Mariex0X - Openig 1 Kenichi  Ver.. 3]]"

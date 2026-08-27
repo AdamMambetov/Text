@@ -1,7 +1,7 @@
 ---
 created: 2022-04-22T21:03:06+03:00
 aliases:
-  - "Kyouran Hey Kids!!"
+  - "Kyouran Hey Kids!! (TV Size)"
   - "Noragami OP 2"
   - "Бездомный бог OP 2"
 Cover: "[[Leon Alex - Kyouran Hey Kids!!.jpg]]"

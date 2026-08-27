@@ -10,7 +10,7 @@ CoverOf: "[[Omoide Kakera - DevilishP]]"
 Creators:
   - "[[Radiant Records (🎙️ 39)]]"
   - "[[Tooniegirl (🎙️ 46)]]"
-ListenInSec: 4503
+ListenInSec: 4773
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Radiant Records - Осколки.mp3]]"

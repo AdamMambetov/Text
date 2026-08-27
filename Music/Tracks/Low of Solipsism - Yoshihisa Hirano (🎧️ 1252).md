@@ -8,7 +8,7 @@ Album: "[[Death Note OST]]"
 CoverOf: ""
 Creators:
   - "[[Yoshihisa Hirano (🎙️ 887)]]"
-ListenInSec: 19
+ListenInSec: 162
 NumberInAlbum: 23
 related: []
 source: ""

@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[GALNERYUS (🎙️ 315)]]"
-ListenInSec: 400
+ListenInSec: 488
 NumberInAlbum: 0
 related: []
 source: ""

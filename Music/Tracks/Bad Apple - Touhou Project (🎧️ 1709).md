@@ -5,18 +5,12 @@ aliases:
 Cover: "[[Touhou Project - Bad Apple.jpg]]"
 Year: 0
 Album: ""
-CoverOf: ""
 Creators:
   - "[[Touhou Project (🎙️ 37)]]"
-ListenInSec: 2574
 NumberInAlbum: 0
 related: []
-source: https://youtu.be/FtutLA63Cp8?si=RRle_RkfrEbkSec1
 SourceFile: "[[Touhou Project - Bad Apple.mp3]]"
+ListenInSec: 2793
+CoverOf: ""
 ---
 
-# Bad Apple
-
-![[Touhou Project - Bad Apple.mp3]]
-
-![[Touhou Project - Bad Apple.mp4]]

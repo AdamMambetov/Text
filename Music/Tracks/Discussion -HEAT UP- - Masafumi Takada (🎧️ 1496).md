@@ -8,11 +8,11 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Masafumi Takada (🎙️ 792)]]"
-ListenInSec: 11
+ListenInSec: 22
 NumberInAlbum: 1
 related: []
 source: ""
-SourceFile: "[[Danganrnopa OST - 2-10- Discussion -HEAT UP-.mp3]]"
+SourceFile: "[[Danganrnopa OST - 2-07- Discussion -MIX- EDGE Version.mp3]]"
 ---
 
 # Danganrnopa OST - 2-10- Discussion -HEAT UP-

@@ -5,16 +5,12 @@ aliases:
 Cover: "[[Imagine Dragons - Evolve.jpg]]"
 Year: 2017
 Album: ""
-CoverOf: ""
 Creators:
   - "[[Imagine Dragons (🎙️ 334)]]"
-ListenInSec: 12
 NumberInAlbum: 0
 related: []
-source: ""
 SourceFile: "[[Imagine Dragons - Walking The Wire.mp3]]"
+ListenInSec: 244
+CoverOf: ""
 ---
 
-# Imagine Dragons - Walking The Wire
-
-![[Imagine Dragons - Walking The Wire.mp3]]

@@ -8,21 +8,12 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
-CoverOf: ""
 Creators:
   - "[[GALNERYUS (🎙️ 315)]]"
-ListenInSec: 2947
 NumberInAlbum: 0
 related: []
-source: ""
 SourceFile: "[[GALNERYUS ⧸ ガルネリウス - A FAR-OFF DISTANCE.opus]]"
+ListenInSec: 3532
+CoverOf: ""
 ---
-
-`$=dv.header(1, dv.current().aliases[0])`
-
-![[GALNERYUS ⧸ ガルネリウス - A FAR-OFF DISTANCE.opus]]
-
-## Related Tracks
-
-![[related tracks.base]]
 

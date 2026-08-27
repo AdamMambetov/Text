@@ -11,7 +11,7 @@ CoverOf: ""
 Creators:
   - "[[Round Table (🎙️ 805)]]"
   - "[[Nino (🎙️ 832)]]"
-ListenInSec: 3349
+ListenInSec: 3593
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Round Table - Puzzle.mp3]]"

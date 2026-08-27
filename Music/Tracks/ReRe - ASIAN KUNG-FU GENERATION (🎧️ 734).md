@@ -9,17 +9,13 @@ aliases:
 Cover: "[[ASIAN KUNG-FU GENERATION - Sol-fa.jpg]]"
 Year: 2004
 Album: ""
-CoverOf: ""
 Creators:
   - "[[ASIAN KUNG-FU GENERATION (🎙️ 193)]]"
-ListenInSec: 976
 NumberInAlbum: 0
 related:
   - "[[ReRe (TV Size) - ASIAN KUNG-FU GENERATION]]"
-source: ""
 SourceFile: "[[ASIAN KUNG-FU GENERATION - Re Re.mp3]]"
+ListenInSec: 1308
+CoverOf: ""
 ---
 
-# ASIAN KUNG-FU GENERATION - Re Re
-
-![[ASIAN KUNG-FU GENERATION - Re Re.mp3]]

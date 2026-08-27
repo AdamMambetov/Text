@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Yasunori Mitsuda (🎙️ 944)]]"
-ListenInSec: 2667
+ListenInSec: 2941
 NumberInAlbum: 1
 related: []
 source: ""

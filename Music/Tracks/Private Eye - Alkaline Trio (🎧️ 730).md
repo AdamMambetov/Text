@@ -8,7 +8,7 @@ Album: "[[From Here To Infirmary]]"
 CoverOf: ""
 Creators:
   - "[[Alkaline Trio (🎙️ 167)]]"
-ListenInSec: 13
+ListenInSec: 222
 NumberInAlbum: 1
 related: []
 source: ""

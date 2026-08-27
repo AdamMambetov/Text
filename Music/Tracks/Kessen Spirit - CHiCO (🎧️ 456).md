@@ -9,7 +9,7 @@ CoverOf: ""
 Creators:
   - "[[CHiCO (🎙️ 258)]]"
   - "[[HoneyWorks (🎙️ 259)]]"
-ListenInSec: 14
+ListenInSec: 285
 NumberInAlbum: 0
 related: []
 source: ""

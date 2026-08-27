@@ -499,6 +499,9 @@ tracklist:
   - "[[Sparkle - RADWIMPS (🎧️ 300)]]"
   - "[[Yui Makino - Reset]]"
   - "[[Yui Makino - Reset (TV Size)]]"
+  - "[[Tour - Conisch (🎧️ 1891)]]"
+  - "[[Love In Sao Paolo - Yuji Ohno (🎧️ 1482)]]"
+  - "[[KADOKAWAanime - TVアニメ「オーバーロードⅢ」ノンクレジットOP映像【MYTH&ROID「VORACITY」】]]"
 ---
 
 # Anime

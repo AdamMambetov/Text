@@ -8,7 +8,7 @@ Album: "[[Dr Manhattan]]"
 CoverOf: ""
 Creators:
   - "[[Dr. Manhattan (🎙️ 295)]]"
-ListenInSec: 27
+ListenInSec: 222
 NumberInAlbum: 1
 related: []
 source: ""

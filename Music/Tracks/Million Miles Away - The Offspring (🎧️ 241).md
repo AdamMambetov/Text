@@ -8,7 +8,7 @@ Album: "[[Conspiracy Of One [2000] {The Offspring}]]"
 CoverOf: ""
 Creators:
   - "[[The Offspring (🎙️ 459)]]"
-ListenInSec: 16
+ListenInSec: 235
 NumberInAlbum: 5
 related: []
 source: ""

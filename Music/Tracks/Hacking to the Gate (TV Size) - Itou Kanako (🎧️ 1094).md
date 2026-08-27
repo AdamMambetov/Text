@@ -10,7 +10,7 @@ Album: "[[Steins;Gate]]"
 CoverOf: ""
 Creators:
   - "[[Itou Kanako (🎙️ 52)]]"
-ListenInSec: 88
+ListenInSec: 267
 NumberInAlbum: 1
 related:
   - "[[Hacking To The Gate - Itou Kanako (🎧️ 1454)]]"

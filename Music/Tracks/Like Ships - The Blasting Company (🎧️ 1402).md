@@ -10,7 +10,7 @@ Creators:
   - "[[The Blasting Company (🎙️ 918)]]"
   - "[[Elijah Wood (🎙️ 926)]]"
   - "[[Shannyn Sossamon (🎙️ 930)]]"
-ListenInSec: 32
+ListenInSec: 62
 NumberInAlbum: 1
 related: []
 source: ""

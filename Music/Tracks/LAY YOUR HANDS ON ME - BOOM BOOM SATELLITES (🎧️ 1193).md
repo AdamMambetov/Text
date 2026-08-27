@@ -8,17 +8,13 @@ aliases:
 Cover: "[[BOOM BOOM SATELLITES – LAY YOUR HANDS ON ME.jpg]]"
 Year: 2016
 Album: ""
-CoverOf: ""
 Creators:
   - "[[BOOM BOOM SATELLITES (🎙️ 234)]]"
-ListenInSec: 2580
 NumberInAlbum: 0
 related:
   - "[[LAY YOUR HANDS ON ME (TV Size) - BOOM BOOM SATELLITES]]"
-source: ""
 SourceFile: "[[BOOM BOOM SATELLITES – LAY YOUR HANDS ON ME.mp3]]"
+ListenInSec: 2896
+CoverOf: ""
 ---
 
-# BOOM BOOM SATELLITES – LAY YOUR HANDS ON ME
-
-![[BOOM BOOM SATELLITES – LAY YOUR HANDS ON ME.mp3]]

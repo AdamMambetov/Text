@@ -8,7 +8,7 @@ Album: "[[Не умрем]]"
 CoverOf: ""
 Creators:
   - "[[PanHeads Band (🎙️ 409)]]"
-ListenInSec: 19
+ListenInSec: 51
 NumberInAlbum: 1
 related: []
 source: ""

@@ -8,7 +8,7 @@ Album: "[[Direction]]"
 CoverOf: ""
 Creators:
   - "[[Solence (🎙️ 443)]]"
-ListenInSec: 13
+ListenInSec: 200
 NumberInAlbum: 2
 related: []
 source: ""

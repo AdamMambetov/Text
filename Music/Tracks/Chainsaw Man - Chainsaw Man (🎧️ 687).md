@@ -8,7 +8,7 @@ Album: "[[Chainsaw Man]]"
 CoverOf: ""
 Creators:
   - "[[Chainsaw Man (🎙️ 253)]]"
-ListenInSec: 30
+ListenInSec: 135
 NumberInAlbum: 1
 related: []
 source: ""

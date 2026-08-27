@@ -7,7 +7,7 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators: []
-ListenInSec: 6407
+ListenInSec: 6408
 NumberInAlbum: 29
 related: []
 SourceFile: "[[Bfr's OST - Persona 5 OST 29 - Beneath the Mask.mp3]]"

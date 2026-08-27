@@ -8,7 +8,7 @@ Album: "[[The Baddest of George Thorogood and the Destroyers]]"
 CoverOf: ""
 Creators:
   - "[[George Thorogood & The Destroyers (🎙️ 874)]]"
-ListenInSec: 86
+ListenInSec: 387
 NumberInAlbum: 6
 related: []
 source: ""

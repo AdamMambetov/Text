@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[The Blasting Company (🎙️ 918)]]"
-ListenInSec: 36
+ListenInSec: 70
 NumberInAlbum: 1
 related: []
 source: ""

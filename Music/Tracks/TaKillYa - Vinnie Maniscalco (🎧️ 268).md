@@ -8,7 +8,7 @@ Album: "[[TaKillYa [2017] {Vinnie Maniscalco}]]"
 CoverOf: ""
 Creators:
   - "[[Vinnie Maniscalco (🎙️ 538)]]"
-ListenInSec: 27
+ListenInSec: 41
 NumberInAlbum: 1
 related: []
 source:

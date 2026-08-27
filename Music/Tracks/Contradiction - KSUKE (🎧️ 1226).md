@@ -10,7 +10,7 @@ CoverOf: ""
 Creators:
   - "[[KSUKE (🎙️ 354)]]"
   - "[[Tyler Carter (🎙️ 798)]]"
-ListenInSec: 20
+ListenInSec: 221
 NumberInAlbum: 1
 related: []
 source: ""

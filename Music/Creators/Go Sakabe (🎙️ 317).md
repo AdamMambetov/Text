@@ -2,7 +2,7 @@
 created: 2025-11-19T23:14:44+03:00
 aliases:
   - "Go Sakabe"
-ListenInSec: 1937
+ListenInSec: 2072
 ---
 
 # Go Sakabe

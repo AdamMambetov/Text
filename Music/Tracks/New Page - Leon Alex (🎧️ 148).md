@@ -1,7 +1,7 @@
 ---
 created: 2022-04-22T21:03:16+03:00
 aliases:
-  - "New Page"
+  - "New Page (TV Size)"
   - "Black Clover ED 10"
   - "Чёрный клевер ED 10"
 Cover: "[[Leon Alex - Black Clover Guitar Collection.jpg]]"

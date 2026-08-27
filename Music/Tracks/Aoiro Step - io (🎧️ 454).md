@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[io (🎙️ 587)]]"
-ListenInSec: 85
+ListenInSec: 88
 NumberInAlbum: 0
 related: []
 source: ""

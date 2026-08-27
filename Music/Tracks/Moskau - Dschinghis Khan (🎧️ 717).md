@@ -4,11 +4,11 @@ aliases:
   - "Moskau"
 Cover: "[[Dschinghis Khan - Dschinghis Khan.png]]"
 Year: 1979
-Album:
+Album: ""
 CoverOf: ""
 Creators:
   - "[[Dschinghis Khan (🎙️ 847)]]"
-ListenInSec: 13
+ListenInSec: 117
 NumberInAlbum: 1
 related: []
 source: ""

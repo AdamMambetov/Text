@@ -8,7 +8,7 @@ Album: "[[American Beauty/American Psycho [2015] {Fall Out Boy}]]"
 CoverOf: ""
 Creators:
   - "[[Fall Out Boy (🎙️ 306)]]"
-ListenInSec: 49
+ListenInSec: 281
 NumberInAlbum: 7
 related: []
 source: ""

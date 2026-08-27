@@ -12,7 +12,7 @@ Album: ""
 CoverOf: "[[Crossing Field - LiSA (🎧️ 1439)]]"
 Creators:
   - "[[Marie Bibika (🎙️ 374)]]"
-ListenInSec: 50
+ListenInSec: 355
 NumberInAlbum: 0
 related: []
 source: ""

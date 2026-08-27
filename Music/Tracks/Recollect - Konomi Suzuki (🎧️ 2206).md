@@ -7,14 +7,14 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
-CoverOf: ""
 Creators:
   - "[[Konomi Suzuki (🎙️ 353)]]"
   - "[[Ashnikko (🎙️ 817)]]"
-ListenInSec: 2774
 NumberInAlbum: 0
 related:
   - "[[Recollect (TV Size) - Konomi Suzuki (🎧️ 2204)]]"
 SourceFile: "[[Konomi Suzuki feat. Ashnikko - Recollect.opus]]"
+ListenInSec: 3395
+CoverOf: ""
 ---
 

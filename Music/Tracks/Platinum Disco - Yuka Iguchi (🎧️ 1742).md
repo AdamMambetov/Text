@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Yuka Iguchi (🎙️ 674)]]"
-ListenInSec: 2169
+ListenInSec: 2425
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Yuka Iguchi - Platinum Disco.mp3]]"

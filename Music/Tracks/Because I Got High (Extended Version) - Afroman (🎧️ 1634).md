@@ -5,16 +5,12 @@ aliases:
 Cover: "[[Afroman - Because I Got High Extended Version.jpg]]"
 Year: 0
 Album: ""
-CoverOf: ""
 Creators:
   - "[[Afroman (🎙️ 157)]]"
-ListenInSec: 2253
 NumberInAlbum: 0
 related: []
-source: ""
 SourceFile: "[[Afroman - Because I Got High Extended Version.mp3]]"
+ListenInSec: 2545
+CoverOf: ""
 ---
 
-# Afroman - Because I Got High Extended Version
-
-![[Afroman - Because I Got High Extended Version.mp3]]

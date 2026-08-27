@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Hollywood Undead (🎙️ 330)]]"
-ListenInSec: 18
+ListenInSec: 238
 NumberInAlbum: 0
 related: []
 source: ""

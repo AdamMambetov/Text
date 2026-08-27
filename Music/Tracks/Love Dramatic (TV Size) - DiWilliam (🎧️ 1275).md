@@ -11,9 +11,10 @@ CoverOf: "[[Love Dramatic (TV Size) - Masayuki Suzuki (🎧️ 1590)]]"
 Creators:
   - "[[DiWilliam (🎙️ 60)]]"
   - "[[Felya (🎙️ 58)]]"
-ListenInSec: 55
+ListenInSec: 146
 NumberInAlbum: 0
-related: []
+related:
+  - "[[Love Dramatic - Masayuki Suzuki (🎧️ 1589)]]"
 source: ""
 SourceFile: "[[DiWilliam - Love Dramatic.mp3]]"
 ---

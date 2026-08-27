@@ -8,7 +8,7 @@ Album: "[[Folie a Deux [2008] {Fall Out Boy}]]"
 CoverOf: ""
 Creators:
   - "[[Fall Out Boy (🎙️ 306)]]"
-ListenInSec: 71
+ListenInSec: 311
 NumberInAlbum: 2
 related: []
 source: ""

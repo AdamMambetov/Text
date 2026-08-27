@@ -9,7 +9,7 @@ CoverOf: "[[Bad Apple - Touhou Project (🎧️ 1709)]]"
 Creators:
   - "[[Anton Cloudjumper Gustin (🎙️ 969)]]"
   - "[[Un3h (🎙️ 970)]]"
-ListenInSec: 56
+ListenInSec: 388
 NumberInAlbum: 0
 related: []
 source: ""

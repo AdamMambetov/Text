@@ -5,20 +5,11 @@ aliases:
 Cover: "[[PowerRangers Brasil - Mighty Morphin Power Rangers Full Theme Song.jpg]]"
 Year: 0
 Album: ""
-CoverOf: ""
 Creators: []
-ListenInSec: 2901
 NumberInAlbum: 0
 related: []
-source: ""
 SourceFile: "[[PowerRangers Brasil - Mighty Morphin Power Rangers Full Theme Song.mp3]]"
+ListenInSec: 3231
+CoverOf: ""
 ---
-
-`$=dv.header(1, dv.current().aliases[0])`
-
-![[PowerRangers Brasil - Mighty Morphin Power Rangers Full Theme Song.mp3]]
-
-## Related Tracks
-
-![[related tracks.base]]
 

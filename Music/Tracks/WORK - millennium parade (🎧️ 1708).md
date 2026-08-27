@@ -6,21 +6,12 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
-CoverOf: ""
 Creators:
   - "[[millennium parade (🎙️ 665)]]"
-ListenInSec: 2875
 NumberInAlbum: 0
 related: []
-source: ""
 SourceFile: "[[millennium parade - WORK.mp3]]"
+ListenInSec: 3076
+CoverOf: ""
 ---
-
-`$=dv.header(1, dv.current().aliases[0])`
-
-![[millennium parade - WORK.mp3]]
-
-## Related Tracks
-
-![[related tracks.base]]
 

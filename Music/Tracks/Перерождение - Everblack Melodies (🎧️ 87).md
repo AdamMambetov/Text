@@ -9,7 +9,7 @@ Album: ""
 CoverOf: "[[Rebirthing - Skillet (🎧️ 319)]]"
 Creators:
   - "[[Everblack Melodies (🎙️ 305)]]"
-ListenInSec: 68
+ListenInSec: 318
 NumberInAlbum: 0
 related: []
 source: ""

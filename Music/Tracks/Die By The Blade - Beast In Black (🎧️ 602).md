@@ -8,7 +8,7 @@ Album: "[[From Hell With Love]]"
 CoverOf: ""
 Creators:
   - "[[Beast In Black (🎙️ 216)]]"
-ListenInSec: 46
+ListenInSec: 247
 NumberInAlbum: 5
 related: []
 source: ""

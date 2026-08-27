@@ -7,7 +7,7 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 2021
 Album: "[[Hunting For Your Dream]]"
-CoverOf: ""
+CoverOf: "[[HUNTING FOR YOUR DREAM - GALNERYUS (🎧️ 1348)]]"
 Creators:
   - "[[Игорь Куликов (🎙️ 71)]]"
 ListenInSec: 311

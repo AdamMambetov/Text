@@ -12,9 +12,10 @@ Album: ""
 CoverOf: "[[IGNITE - Aoi Eir]]"
 Creators:
   - "[[Marie Bibika (🎙️ 374)]]"
-ListenInSec: 31
+ListenInSec: 144
 NumberInAlbum: 0
-related: []
+related:
+  - "[[IGNITE (TV Size) - Marie Bibika (🎧️ 501)]]"
 source: ""
 SourceFile: "[[Marie Bibika - Ignite.mp3]]"
 ---

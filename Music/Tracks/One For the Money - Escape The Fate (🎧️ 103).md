@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Escape The Fate (🎙️ 303)]]"
-ListenInSec: 71
+ListenInSec: 75
 NumberInAlbum: 0
 related: []
 source: ""

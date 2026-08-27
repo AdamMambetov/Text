@@ -1,7 +1,7 @@
 ---
 created: 2025-08-01T16:32:20+03:00
 aliases:
-  - "Rhythm Heaven - Remix 5"
+  - "Rhythm Tengoku OST - Remix 5"
 Cover: "[[Rhythm Tengoku - Remix 5.jpg]]"
 Year: 0
 Album: ""

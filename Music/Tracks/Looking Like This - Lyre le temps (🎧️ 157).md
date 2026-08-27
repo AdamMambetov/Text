@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Lyre le temps (🎙️ 514)]]"
-ListenInSec: 70
+ListenInSec: 293
 NumberInAlbum: 0
 related: []
 source: ""

@@ -10,7 +10,7 @@ CoverOf: "[[Hotaru no Hikari - Ikimonogakari (🎧️ 1719)]]"
 Creators:
   - "[[Radiant Records (🎙️ 39)]]"
   - "[[Jully (🎙️ 42)]]"
-ListenInSec: 1210
+ListenInSec: 1230
 NumberInAlbum: 0
 related: []
 source: ""

@@ -9,7 +9,7 @@ CoverOf: ""
 Creators:
   - "[[Annie Lennox (🎙️ 185)]]"
   - "[[Dave Stewart (🎙️ 278)]]"
-ListenInSec: 14
+ListenInSec: 230
 NumberInAlbum: 3
 related: []
 source: ""

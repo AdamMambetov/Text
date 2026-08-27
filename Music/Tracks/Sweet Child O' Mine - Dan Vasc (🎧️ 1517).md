@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Dan Vasc (🎙️ 938)]]"
-ListenInSec: 72
+ListenInSec: 436
 NumberInAlbum: 1
 related: []
 source: ""

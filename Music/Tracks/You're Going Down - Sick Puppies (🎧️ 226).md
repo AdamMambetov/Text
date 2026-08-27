@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Sick Puppies (🎙️ 533)]]"
-ListenInSec: 13
+ListenInSec: 200
 NumberInAlbum: 0
 related: []
 source: ""

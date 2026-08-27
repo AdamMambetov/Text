@@ -8,7 +8,7 @@ Album: "[[Shrek 2]]"
 CoverOf: ""
 Creators:
   - "[[Butterfly Boucher, David Bowie (🎙️ 245)]]"
-ListenInSec: 3067
+ListenInSec: 3266
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Shrek 2 OST - 03 Changes.mp3]]"

@@ -8,7 +8,7 @@ Album: "[[The Sacrament of Sin (📀 39)]]"
 CoverOf: ""
 Creators:
   - "[[Powerwolf (🎙️ 418)]]"
-ListenInSec: 2650
+ListenInSec: 2652
 NumberInAlbum: 10
 related: []
 SourceFile: "[[Powerwolf - Nighttime Rebel.mp3]]"

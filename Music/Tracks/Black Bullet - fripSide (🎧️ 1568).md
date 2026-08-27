@@ -9,7 +9,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[fripSide (🎙️ 564)]]"
-ListenInSec: 6628
+ListenInSec: 6889
 NumberInAlbum: 0
 related: []
 source: ""

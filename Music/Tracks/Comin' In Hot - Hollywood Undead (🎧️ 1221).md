@@ -8,7 +8,7 @@ Album: "[[American Tragedy]]"
 CoverOf: ""
 Creators:
   - "[[Hollywood Undead (🎙️ 330)]]"
-ListenInSec: 87
+ListenInSec: 320
 NumberInAlbum: 3
 related: []
 source: ""

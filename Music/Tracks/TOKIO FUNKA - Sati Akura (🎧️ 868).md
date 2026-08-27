@@ -8,7 +8,7 @@ Album: ""
 CoverOf: "[[TOKIO FUNKA - Reol (🎧️ 43)]]"
 Creators:
   - "[[Sati Akura (🎙️ 357)]]"
-ListenInSec: 1734
+ListenInSec: 1825
 NumberInAlbum: 0
 related: []
 source: ""

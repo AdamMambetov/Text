@@ -8,7 +8,7 @@ Album: "[[Spider-Man Into the Spider-Verse OST (📀 24)]]"
 CoverOf: ""
 Creators:
   - "[[Amine (🎙️ 177)]]"
-ListenInSec: 25
+ListenInSec: 101
 NumberInAlbum: 5
 related: []
 source: ""

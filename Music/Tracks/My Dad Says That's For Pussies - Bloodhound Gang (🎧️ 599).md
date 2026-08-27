@@ -5,16 +5,12 @@ aliases:
 Cover: "[[Bloodhound Gang - My Dad Says That's For Pussies.jpg]]"
 Year: 2015
 Album: "[[Hard-Off]]"
-CoverOf: ""
 Creators:
   - "[[Bloodhound Gang (🎙️ 229)]]"
-ListenInSec: 30
 NumberInAlbum: 1
 related: []
-source: ""
 SourceFile: "[[Bloodhound Gang - My Dad Says That's For Pussies.mp3]]"
+ListenInSec: 202
+CoverOf: ""
 ---
 
-# Bloodhound Gang - My Dad Says That's For Pussies
-
-![[Bloodhound Gang - My Dad Says That's For Pussies.mp3]]

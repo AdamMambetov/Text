@@ -2,11 +2,6 @@
 created: 2026-02-12T11:07:24+03:00
 aliases:
   - "Mob Choir"
-ListenInSec: 2186
+ListenInSec: 2417
 ---
 
-# Mob Choir
-
-## Tracklist
-
-![[tracklist.base]]

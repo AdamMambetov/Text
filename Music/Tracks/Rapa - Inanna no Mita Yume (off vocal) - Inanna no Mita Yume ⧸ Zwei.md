@@ -1,15 +1,17 @@
 ---
 created: 2026-06-01T13:55:36+03:00
 aliases:
-  - "Rapa - Inanna no Mita Yume (off vocal) - Inanna no Mita Yume ⧸ Zwei"
+  - "Inanna no Mita Yume (off vocal)"
 Cover: "[[Rapa - GATEWAY LOVE - Inanna no Mita Yume ⧸ Zwei.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""
-Creators: []
-ListenInSec: 24
+Creators:
+  - "[[Zwei (🎙️ 837)]]"
+ListenInSec: 318
 NumberInAlbum: 0
-related: []
+related:
+  - "[[Rapa - Inanna no Mita Yume - Inanna no Mita Yume ⧸ Zwei]]"
 source: ""
 SourceFile: "[[Rapa - Inanna no Mita Yume (off vocal) - Inanna no Mita Yume ⧸ Zwei.mp3]]"
 ---

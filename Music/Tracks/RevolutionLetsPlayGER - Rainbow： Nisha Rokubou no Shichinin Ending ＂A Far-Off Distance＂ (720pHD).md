@@ -11,7 +11,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[GALNERYUS (🎙️ 315)]]"
-ListenInSec: 698
+ListenInSec: 767
 NumberInAlbum: 0
 related: []
 SourceFile: "[[RevolutionLetsPlayGER - Rainbow： Nisha Rokubou no Shichinin Ending ＂A Far-Off Distance＂ [720pHD].mp3]]"

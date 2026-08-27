@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[inabakumori (🎙️ 336)]]"
-ListenInSec: 16
+ListenInSec: 267
 NumberInAlbum: 0
 related: []
 source: https://youtu.be/UnIhRpIT7nc?si=Bs4kLOZBXv8XWpS5

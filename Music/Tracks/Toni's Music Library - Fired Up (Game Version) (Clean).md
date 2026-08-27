@@ -7,9 +7,10 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators: []
-ListenInSec: 39
+ListenInSec: 95
 NumberInAlbum: 0
-related: []
+related:
+  - "[[Fired Up - Hush (🎧️ 1339)]]"
 source: ""
 SourceFile: "[[Toni's Music Library - Fired Up (Game Version) (Clean).mp3]]"
 ---

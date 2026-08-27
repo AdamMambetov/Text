@@ -275,6 +275,7 @@ tracklist:
   - "[[Crunchyroll - Hunter X Hunter Opening 1 ｜ Departure!]]"
   - "[[Yui Makino - Reset]]"
   - "[[Yui Makino - Reset (TV Size)]]"
+  - "[[KADOKAWAanime - TVアニメ「オーバーロードⅢ」ノンクレジットOP映像【MYTH&ROID「VORACITY」】]]"
 ---
 
 # Anime Openings

@@ -8,7 +8,7 @@ Album: ""
 CoverOf: "[[Secret of the Forest - Yasunori Mitsuda (🎧️ 1569)]]"
 Creators:
   - "[[Luke Pickman (🎙️ 779)]]"
-ListenInSec: 2471
+ListenInSec: 2762
 NumberInAlbum: 0
 related: []
 SourceFile: "[[InstrumentManiac - Secret of the Forest (From ＂Chrono Trigger＂).mp3]]"
