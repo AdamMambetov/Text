@@ -7,9 +7,9 @@ Year: 2013
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Eminem (🎙️ 292)]]"
-  - "[[Rihanna (🎙️ 656)]]"
-ListenInSec: 5
+  - "[[Eminem (🎙️ 290)]]"
+  - "[[Rihanna (🎙️ 654)]]"
+ListenInSec: 250
 NumberInAlbum: 0
 related: []
 source: ""

@@ -6,12 +6,12 @@ aliases:
 Cover: "[[Hiroyuki Sawano - Kabaneri of the Iron Fortress OST.jpg]]"
 Year: 0
 Album: "[[Kabaneri of the Iron Fortress OST (📀 12)]]"
+CoverOf: ""
 Creators:
-  - "[[Egoist (🎙️ 763)]]"
+  - "[[Egoist (🎙️ 761)]]"
+ListenInSec: 3770
 NumberInAlbum: 1
 related: []
 SourceFile: "[[Egoist - Kabaneri of the Iron Fortress.mp3]]"
-ListenInSec: 3483
-CoverOf: ""
 ---
 

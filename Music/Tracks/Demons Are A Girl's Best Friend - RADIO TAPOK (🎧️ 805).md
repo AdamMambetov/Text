@@ -7,7 +7,7 @@ Year: 2021
 Album: ""
 CoverOf: "[[Demons Are a Girl's Best Friend - Powerwolf (🎧️ 1255)]]"
 Creators:
-  - "[[RADIO TAPOK (🎙️ 421)]]"
+  - "[[RADIO TAPOK (🎙️ 419)]]"
 ListenInSec: 277
 NumberInAlbum: 0
 related: []

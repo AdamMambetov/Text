@@ -7,7 +7,7 @@ Year: 2012
 Album: "[[Save the Nation]]"
 CoverOf: ""
 Creators:
-  - "[[Royal Republic (🎙️ 642)]]"
+  - "[[Royal Republic (🎙️ 640)]]"
 ListenInSec: 183
 NumberInAlbum: 4
 related: []

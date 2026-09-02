@@ -10,7 +10,7 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Yousei Teikoku (🎙️ 277)]]"
+  - "[[Yousei Teikoku (🎙️ 275)]]"
 ListenInSec: 1347
 NumberInAlbum: 0
 related:

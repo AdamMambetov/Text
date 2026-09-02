@@ -8,7 +8,7 @@ Year: 2019
 Album: ""
 CoverOf: "[[Toccata and Fugue in D Minor BWV 565 - Bach (🎧️ 1740)]]"
 Creators:
-  - "[[Jean-Baptiste Dupont (🎙️ 965)]]"
+  - "[[Jean-Baptiste Dupont (🎙️ 964)]]"
 ListenInSec: 1715
 NumberInAlbum: 0
 related: []

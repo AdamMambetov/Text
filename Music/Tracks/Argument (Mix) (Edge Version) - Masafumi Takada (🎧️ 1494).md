@@ -7,7 +7,7 @@ Year: 2011
 Album: "[[DANGANRONPA OST (📀 43)]]"
 CoverOf: ""
 Creators:
-  - "[[Masafumi Takada (🎙️ 792)]]"
+  - "[[Masafumi Takada (🎙️ 790)]]"
 ListenInSec: 578
 NumberInAlbum: 34
 related: []

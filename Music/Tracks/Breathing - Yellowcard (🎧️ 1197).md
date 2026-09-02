@@ -7,7 +7,7 @@ Year: 2003
 Album: "[[Ocean Avenue]]"
 CoverOf: ""
 Creators:
-  - "[[Yellowcard (🎙️ 484)]]"
+  - "[[Yellowcard (🎙️ 482)]]"
 ListenInSec: 209
 NumberInAlbum: 5
 related: []

@@ -7,12 +7,12 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
+CoverOf: ""
 Creators:
-  - "[[Natsumi Kiyoura (🎙️ 776)]]"
+  - "[[Natsumi Kiyoura (🎙️ 774)]]"
+ListenInSec: 1886
 NumberInAlbum: 1
 related: []
 SourceFile: "[[Natsumi Kiyoura - Tabi No Tochu.mp3]]"
-ListenInSec: 1464
-CoverOf: ""
 ---
 

@@ -8,8 +8,8 @@ Year: 2018
 Album: "[[Rick and Morty]]"
 CoverOf: ""
 Creators:
-  - "[[Ryan Elder (🎙️ 853)]]"
-ListenInSec: 54
+  - "[[Ryan Elder (🎙️ 852)]]"
+ListenInSec: 124
 NumberInAlbum: 1
 related: []
 source: ""

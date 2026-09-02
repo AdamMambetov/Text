@@ -7,8 +7,8 @@ Year: 2004
 Album: "[[Naruto OST 2 (📀 16)]]"
 CoverOf: ""
 Creators:
-  - "[[Toshio Masuda (🎙️ 559)]]"
-ListenInSec: 1156
+  - "[[Toshio Masuda (🎙️ 557)]]"
+ListenInSec: 1254
 NumberInAlbum: 18
 related: []
 source:

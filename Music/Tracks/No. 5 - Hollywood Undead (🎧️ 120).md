@@ -7,8 +7,8 @@ Year: 2008
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Hollywood Undead (🎙️ 330)]]"
-ListenInSec: 1170
+  - "[[Hollywood Undead (🎙️ 328)]]"
+ListenInSec: 1355
 NumberInAlbum: 0
 related: []
 source: ""

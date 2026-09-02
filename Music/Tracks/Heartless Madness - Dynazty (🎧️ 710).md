@@ -7,7 +7,7 @@ Year: 2020
 Album: "[[The Dark Delight]]"
 CoverOf: ""
 Creators:
-  - "[[Dynazty (🎙️ 844)]]"
+  - "[[Dynazty (🎙️ 843)]]"
 ListenInSec: 241
 NumberInAlbum: 6
 related: []

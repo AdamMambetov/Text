@@ -7,9 +7,9 @@ Year: 2018
 Album: "[[Spider-Man Into the Spider-Verse OST (📀 24)]]"
 CoverOf: ""
 Creators:
-  - "[[Nicki Minaj (🎙️ 760)]]"
-  - "[[Anuel AA (🎙️ 761)]]"
-  - "[[Bantu (🎙️ 762)]]"
+  - "[[Nicki Minaj (🎙️ 758)]]"
+  - "[[Anuel AA (🎙️ 759)]]"
+  - "[[Bantu (🎙️ 760)]]"
 ListenInSec: 201
 NumberInAlbum: 4
 related: []

@@ -7,7 +7,7 @@ Year: 0
 Album: ""
 CoverOf: "[[You're Gonna Go Far, Kid - The Offspring (🎧️ 245)]]"
 Creators:
-  - "[[Jonathan Young (🎙️ 343)]]"
+  - "[[Jonathan Young (🎙️ 341)]]"
 ListenInSec: 285
 NumberInAlbum: 0
 related: []

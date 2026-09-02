@@ -7,7 +7,7 @@ Year: 2002
 Album: "[[Does This Look Infected? [2002] {Sum 41}]]"
 CoverOf: ""
 Creators:
-  - "[[Sum 41 (🎙️ 447)]]"
+  - "[[Sum 41 (🎙️ 445)]]"
 ListenInSec: 175
 NumberInAlbum: 4
 related: []

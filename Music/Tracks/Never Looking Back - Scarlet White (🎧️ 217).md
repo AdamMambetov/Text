@@ -7,8 +7,8 @@ Year: 2012
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Scarlet White (🎙️ 530)]]"
-ListenInSec: 138
+  - "[[Scarlet White (🎙️ 528)]]"
+ListenInSec: 352
 NumberInAlbum: 0
 related: []
 source: ""

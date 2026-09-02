@@ -8,8 +8,8 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Roro Ai (🎙️ 717)]]"
-  - "[[Marie Bibika (🎙️ 374)]]"
+  - "[[Roro Ai (🎙️ 715)]]"
+  - "[[Marie Bibika (🎙️ 372)]]"
 ListenInSec: 902
 NumberInAlbum: 0
 related: []

@@ -7,7 +7,7 @@ Year: 2008
 Album: "[[Scars & Souvenirs]]"
 CoverOf: ""
 Creators:
-  - "[[Theory Of A Deadman (🎙️ 466)]]"
+  - "[[Theory Of A Deadman (🎙️ 464)]]"
 ListenInSec: 397
 NumberInAlbum: 46
 related: []

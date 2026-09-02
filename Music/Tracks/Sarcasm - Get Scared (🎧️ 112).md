@@ -7,7 +7,7 @@ Year: 2010
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Get Scared (🎙️ 506)]]"
+  - "[[Get Scared (🎙️ 504)]]"
 ListenInSec: 173
 NumberInAlbum: 0
 related: []

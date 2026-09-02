@@ -7,7 +7,7 @@ Year: 2014
 Album: "[[Melodies for the Outsiders - EP]]"
 CoverOf: ""
 Creators:
-  - "[[Burn the Ballroom (🎙️ 243)]]"
+  - "[[Burn the Ballroom (🎙️ 241)]]"
 ListenInSec: 287
 NumberInAlbum: 2
 related: []

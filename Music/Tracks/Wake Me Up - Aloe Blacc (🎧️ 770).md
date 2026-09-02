@@ -8,7 +8,7 @@ Album: "[[Lift Your Spirit]]"
 CoverOf: ""
 Creators:
   - "[[Aloe Blacc (🎙️ 172)]]"
-ListenInSec: 441
+ListenInSec: 666
 NumberInAlbum: 3
 related: []
 source: ""

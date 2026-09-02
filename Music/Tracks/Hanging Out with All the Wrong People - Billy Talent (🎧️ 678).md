@@ -7,7 +7,7 @@ Year: 2022
 Album: "[[Crisis of Faith]]"
 CoverOf: ""
 Creators:
-  - "[[Billy Talent (🎙️ 221)]]"
+  - "[[Billy Talent (🎙️ 219)]]"
 ListenInSec: 443
 NumberInAlbum: 7
 related: []

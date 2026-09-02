@@ -5,16 +5,16 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 2007
 Album: "[[Umineko no Naku Koro ni OST (📀 30)]]"
+CoverOf: ""
 Creators:
   - "[[sunny (🎙️ 18)]]"
   - "[[cap (🎙️ 19)]]"
   - "[[xaki (🎙️ 12)]]"
   - "[[Kimura Kazumi (🎙️ 28)]]"
+ListenInSec: 1947
 NumberInAlbum: 58
 related:
   - "[[Мелодия (инстр. вер.) - sunny (🎧️ 985)]]"
 SourceFile: "[[Umineko no Naku Koro ni OST - 058 Мелодия.ogg]]"
-ListenInSec: 1947
-CoverOf: ""
 ---
 

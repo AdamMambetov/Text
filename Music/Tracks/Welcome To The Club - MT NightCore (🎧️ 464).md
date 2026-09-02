@@ -7,7 +7,7 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[MT NightCore (🎙️ 599)]]"
+  - "[[MT NightCore (🎙️ 597)]]"
 ListenInSec: 292
 NumberInAlbum: 1
 related: []

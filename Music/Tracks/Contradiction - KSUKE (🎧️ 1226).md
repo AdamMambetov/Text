@@ -8,8 +8,8 @@ Year: 2020
 Album: "[[Contradiction (feat. Tyler Carter)]]"
 CoverOf: ""
 Creators:
-  - "[[KSUKE (🎙️ 354)]]"
-  - "[[Tyler Carter (🎙️ 798)]]"
+  - "[[KSUKE (🎙️ 352)]]"
+  - "[[Tyler Carter (🎙️ 796)]]"
 ListenInSec: 221
 NumberInAlbum: 1
 related: []

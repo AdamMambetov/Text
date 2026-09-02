@@ -7,8 +7,8 @@ Year: 2011
 Album: "[[Leave It All Behind - Elements]]"
 CoverOf: ""
 Creators:
-  - "[[Cult To Follow (🎙️ 270)]]"
-ListenInSec: 56
+  - "[[Cult To Follow (🎙️ 268)]]"
+ListenInSec: 224
 NumberInAlbum: 1
 related: []
 source: ""

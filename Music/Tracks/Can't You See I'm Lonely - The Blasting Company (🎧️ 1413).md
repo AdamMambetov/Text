@@ -7,8 +7,8 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[The Blasting Company (🎙️ 918)]]"
-ListenInSec: 34
+  - "[[The Blasting Company (🎙️ 917)]]"
+ListenInSec: -79
 NumberInAlbum: 1
 related: []
 source: ""

@@ -9,8 +9,8 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Boku no Lyric no Bouyomi (🎙️ 640)]]"
-ListenInSec: 89
+  - "[[Boku no Lyric no Bouyomi (🎙️ 638)]]"
+ListenInSec: 179
 NumberInAlbum: 0
 related: []
 source: ""

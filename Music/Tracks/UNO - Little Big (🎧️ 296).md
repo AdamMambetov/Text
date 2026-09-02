@@ -7,8 +7,8 @@ Year: 2020
 Album: "[[UNO [2020] {Little Big}]]"
 CoverOf: ""
 Creators:
-  - "[[Little Big (🎙️ 364)]]"
-ListenInSec: 475
+  - "[[Little Big (🎙️ 362)]]"
+ListenInSec: 636
 NumberInAlbum: 1
 related: []
 source: ""

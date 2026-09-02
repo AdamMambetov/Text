@@ -7,10 +7,10 @@ Year: 2022
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Kazumi Totaka (🎙️ 911)]]"
-  - "[[Manaka Kataoka (🎙️ 912)]]"
-  - "[[Atsuku Asahi (🎙️ 913)]]"
-ListenInSec: 115
+  - "[[Kazumi Totaka (🎙️ 910)]]"
+  - "[[Manaka Kataoka (🎙️ 911)]]"
+  - "[[Atsuku Asahi (🎙️ 912)]]"
+ListenInSec: 362
 NumberInAlbum: 1
 related: []
 source: ""

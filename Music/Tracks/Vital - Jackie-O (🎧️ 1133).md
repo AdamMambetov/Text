@@ -7,8 +7,8 @@ Year: 2019
 Album: ""
 CoverOf: "[[Vital - Endoh Masaaki]]"
 Creators:
-  - "[[Jackie-O (🎙️ 339)]]"
-ListenInSec: 250
+  - "[[Jackie-O (🎙️ 337)]]"
+ListenInSec: 508
 NumberInAlbum: 0
 related: []
 source: ""

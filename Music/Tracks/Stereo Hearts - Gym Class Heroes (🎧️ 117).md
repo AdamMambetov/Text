@@ -5,13 +5,13 @@ aliases:
 Cover: "[[Gym Class Heroes - The Papercut Chronicles II.jpg]]"
 Year: 2011
 Album: ""
+CoverOf: ""
 Creators:
-  - "[[Gym Class Heroes (🎙️ 324)]]"
+  - "[[Gym Class Heroes (🎙️ 322)]]"
   - "[[Adam Levine (🎙️ 147)]]"
+ListenInSec: 241
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Gym Class Heroes - Stereo Hearts.mp3]]"
-ListenInSec: 241
-CoverOf: ""
 ---
 

@@ -7,7 +7,7 @@ Year: 2012
 Album: "[[#3 [2012] {The Script; will.i.am}]]"
 CoverOf: ""
 Creators:
-  - "[[The Script (🎙️ 464)]]"
+  - "[[The Script (🎙️ 462)]]"
 ListenInSec: 211
 NumberInAlbum: 3
 related: []

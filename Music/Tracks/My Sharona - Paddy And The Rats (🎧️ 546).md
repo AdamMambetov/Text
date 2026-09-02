@@ -7,8 +7,8 @@ Year: 2015
 Album: "[[Lonely Hearts' Boulevard]]"
 CoverOf: ""
 Creators:
-  - "[[Paddy And The Rats (🎙️ 407)]]"
-ListenInSec: 206
+  - "[[Paddy And The Rats (🎙️ 405)]]"
+ListenInSec: 224
 NumberInAlbum: 3
 related: []
 source: ""

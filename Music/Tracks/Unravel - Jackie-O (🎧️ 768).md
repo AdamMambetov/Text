@@ -9,8 +9,8 @@ Year: 2014
 Album: ""
 CoverOf: "[[Unravel - TK from Ling tosite sigure (🎧️ 1432)]]"
 Creators:
-  - "[[Jackie-O (🎙️ 339)]]"
-ListenInSec: 470
+  - "[[Jackie-O (🎙️ 337)]]"
+ListenInSec: 709
 NumberInAlbum: 0
 related: []
 source: ""

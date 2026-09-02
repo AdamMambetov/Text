@@ -9,7 +9,7 @@ Year: 2023
 Album: ""
 CoverOf: "[[Okinimesumama - Eve (🎧️ 1135)]]"
 Creators:
-  - "[[Jackie-O (🎙️ 339)]]"
+  - "[[Jackie-O (🎙️ 337)]]"
 ListenInSec: 480
 NumberInAlbum: 1
 related: []

@@ -7,9 +7,9 @@ Year: 2014
 Album: "[[Freaks (feat. Savage) - Single]]"
 CoverOf: ""
 Creators:
-  - "[[Timmy Trumpet (🎙️ 900)]]"
-  - "[[Savage (🎙️ 901)]]"
-ListenInSec: 50
+  - "[[Timmy Trumpet (🎙️ 899)]]"
+  - "[[Savage (🎙️ 900)]]"
+ListenInSec: -168
 NumberInAlbum: 1
 related: []
 source: ""

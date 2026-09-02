@@ -7,7 +7,7 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Tominaga Tommy Hiroaki (🎙️ 566)]]"
+  - "[[Tominaga Tommy Hiroaki (🎙️ 564)]]"
 ListenInSec: 439
 NumberInAlbum: 1
 related: []

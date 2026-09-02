@@ -7,8 +7,8 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Nankidai (🎙️ 910)]]"
-ListenInSec: 627
+  - "[[Nankidai (🎙️ 909)]]"
+ListenInSec: 637
 NumberInAlbum: 1
 related: []
 source: ""

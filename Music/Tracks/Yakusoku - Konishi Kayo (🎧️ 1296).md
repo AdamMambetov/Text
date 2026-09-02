@@ -7,7 +7,7 @@ Year: 0
 Album: "[[Elfen Lied OST]]"
 CoverOf: ""
 Creators:
-  - "[[Konishi Kayo (🎙️ 894)]]"
+  - "[[Konishi Kayo (🎙️ 893)]]"
 ListenInSec: 259
 NumberInAlbum: 1
 related: []

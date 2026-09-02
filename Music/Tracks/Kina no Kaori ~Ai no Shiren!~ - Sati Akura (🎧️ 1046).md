@@ -7,8 +7,8 @@ Year: 2016
 Album: ""
 CoverOf: "[[Kina No Kaori ~Ai No Shiren!~ - Kino Nei (🎧️ 1543)]]"
 Creators:
-  - "[[Sati Akura (🎙️ 357)]]"
-  - "[[ASMO (🎙️ 724)]]"
+  - "[[Sati Akura (🎙️ 355)]]"
+  - "[[ASMO (🎙️ 722)]]"
 ListenInSec: 938
 NumberInAlbum: 0
 related: []

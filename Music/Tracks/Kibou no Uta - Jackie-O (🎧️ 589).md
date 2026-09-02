@@ -8,7 +8,7 @@ Year: 0
 Album: ""
 CoverOf: "[[Kibou no Uta - ULTRA TOWER (🎧️ 1518)]]"
 Creators:
-  - "[[Jackie-O (🎙️ 339)]]"
+  - "[[Jackie-O (🎙️ 337)]]"
 ListenInSec: 825
 NumberInAlbum: 1
 related: []

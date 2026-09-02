@@ -9,8 +9,8 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Anonymouz (🎙️ 711)]]"
-ListenInSec: 94
+  - "[[Anonymouz (🎙️ 709)]]"
+ListenInSec: 184
 NumberInAlbum: 0
 related:
   - "[[River - Anonymouz]]"

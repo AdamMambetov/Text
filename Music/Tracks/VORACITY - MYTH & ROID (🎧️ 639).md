@@ -10,8 +10,8 @@ Year: 2018
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[MYTH & ROID (🎙️ 384)]]"
-ListenInSec: 238
+  - "[[MYTH & ROID (🎙️ 382)]]"
+ListenInSec: 464
 NumberInAlbum: 0
 related:
   - "[[VORACITY (TV Size) - MYTH & ROID]]"

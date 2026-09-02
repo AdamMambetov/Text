@@ -7,8 +7,8 @@ Year: 2017
 Album: "[[Evolve [2017] {Imagine Dragons}]]"
 CoverOf: ""
 Creators:
-  - "[[Imagine Dragons (🎙️ 334)]]"
-ListenInSec: 137
+  - "[[Imagine Dragons (🎙️ 332)]]"
+ListenInSec: 338
 NumberInAlbum: 2
 related: []
 SourceFile: "[[Imagine Dragons - Whatever It Takes.mp3]]"

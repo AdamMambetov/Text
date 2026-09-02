@@ -7,7 +7,7 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Kenichiro Suehiro (🎙️ 750)]]"
+  - "[[Kenichiro Suehiro (🎙️ 748)]]"
 ListenInSec: 152
 NumberInAlbum: 1
 related: []

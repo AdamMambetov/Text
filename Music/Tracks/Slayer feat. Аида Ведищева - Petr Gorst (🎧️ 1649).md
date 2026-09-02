@@ -7,7 +7,7 @@ Year: 2020
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Petr Gorst (🎙️ 959)]]"
+  - "[[Petr Gorst (🎙️ 958)]]"
 ListenInSec: 340
 NumberInAlbum: 0
 related:

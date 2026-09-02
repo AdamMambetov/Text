@@ -9,8 +9,8 @@ Year: 2019
 Album: "[[Anime & Movie Soundtracks]]"
 CoverOf: "[[Fire (TV Size) - Kaen (🎧️ 1737)]]"
 Creators:
-  - "[[Leon Alex (🎙️ 361)]]"
-ListenInSec: 97
+  - "[[Leon Alex (🎙️ 359)]]"
+ListenInSec: 190
 NumberInAlbum: 1
 related: []
 source: ""

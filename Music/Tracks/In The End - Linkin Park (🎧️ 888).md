@@ -7,7 +7,7 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Linkin Park (🎙️ 363)]]"
+  - "[[Linkin Park (🎙️ 361)]]"
 ListenInSec: 175
 NumberInAlbum: 1
 related: []

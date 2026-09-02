@@ -5,7 +5,7 @@ aliases:
 Cover: "[[MYTH & ROID - STYX HELIX.jpg]]"
 Year: 2016
 Creators:
-  - "[[MYTH & ROID (🎙️ 384)]]"
+  - "[[MYTH & ROID (🎙️ 382)]]"
 tracklist:
   - "[[STYX HELIX - MYTH & ROID (🎧️ 1861)]]"
   - "[[MYTH_ROID_Official_Channel - STRAIGHT_BET]]"

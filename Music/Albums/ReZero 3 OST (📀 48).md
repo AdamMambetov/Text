@@ -6,7 +6,7 @@ aliases:
 Cover: "[[ReZero 3 OST.jpg]]"
 Year: 2025
 Creators:
-  - "[[Kenichiro Suehiro (🎙️ 750)]]"
+  - "[[Kenichiro Suehiro (🎙️ 748)]]"
 tracklist:
   - "Howl of Counterattack -Main Theme-"
   - "Priestella"

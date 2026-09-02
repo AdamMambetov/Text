@@ -7,9 +7,10 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators: []
-ListenInSec: 1280
+ListenInSec: 1407
 NumberInAlbum: 0
-related: []
+related:
+  - "[[lomb_TV_LombTV - Rhythm_Tengoku_-_The_Bon_Odori]]"
 source: ""
 SourceFile: "[[lomb_TV_LombTV - Rhythm_Tengoku_-_Remix_2.mp3]]"
 ---

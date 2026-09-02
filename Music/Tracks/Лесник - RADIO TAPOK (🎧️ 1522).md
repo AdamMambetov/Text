@@ -7,7 +7,7 @@ Year: 0
 Album: ""
 CoverOf: "[[Лесник - Король и Шут (🎧️ 532)]]"
 Creators:
-  - "[[RADIO TAPOK (🎙️ 421)]]"
+  - "[[RADIO TAPOK (🎙️ 419)]]"
 ListenInSec: 190
 NumberInAlbum: 0
 related: []

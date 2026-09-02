@@ -7,7 +7,7 @@ Year: 2012
 Album: "[[The End Is Where We Begin]]"
 CoverOf: ""
 Creators:
-  - "[[Thousand Foot Krutch (🎙️ 468)]]"
+  - "[[Thousand Foot Krutch (🎙️ 466)]]"
 ListenInSec: 548
 NumberInAlbum: 7
 related: []

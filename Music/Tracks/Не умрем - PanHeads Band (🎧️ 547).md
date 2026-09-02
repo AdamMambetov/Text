@@ -7,8 +7,8 @@ Year: 2021
 Album: "[[Не умрем]]"
 CoverOf: ""
 Creators:
-  - "[[PanHeads Band (🎙️ 409)]]"
-ListenInSec: 51
+  - "[[PanHeads Band (🎙️ 407)]]"
+ListenInSec: 305
 NumberInAlbum: 1
 related: []
 source: ""

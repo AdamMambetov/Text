@@ -7,8 +7,8 @@ Year: 0
 Album: "[[snooze (feat. SHIKI)]]"
 CoverOf: ""
 Creators:
-  - "[[wotaku (🎙️ 862)]]"
-  - "[[SHIKI (🎙️ 863)]]"
+  - "[[wotaku (🎙️ 861)]]"
+  - "[[SHIKI (🎙️ 862)]]"
 ListenInSec: 273
 NumberInAlbum: 1
 related: []

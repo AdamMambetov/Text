@@ -7,7 +7,7 @@ Year: 2017
 Album: "[[Strike Back - Single]]"
 CoverOf: ""
 Creators:
-  - "[[Caleb Hyles (🎙️ 247)]]"
+  - "[[Caleb Hyles (🎙️ 245)]]"
 ListenInSec: 224
 NumberInAlbum: 1
 related: []

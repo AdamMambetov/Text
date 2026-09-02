@@ -7,7 +7,7 @@ Year: 2007
 Album: "[[Kokou no Sousei]]"
 CoverOf: ""
 Creators:
-  - "[[Yousei Teikoku (🎙️ 277)]]"
+  - "[[Yousei Teikoku (🎙️ 275)]]"
 ListenInSec: 567
 NumberInAlbum: 12
 related: []

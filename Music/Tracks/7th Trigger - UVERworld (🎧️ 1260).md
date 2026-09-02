@@ -7,7 +7,7 @@ Year: 2007
 Album: "[[All Time Best]]"
 CoverOf: ""
 Creators:
-  - "[[UVERworld (🎙️ 475)]]"
+  - "[[UVERworld (🎙️ 473)]]"
 ListenInSec: 518
 NumberInAlbum: 2
 related: []

@@ -6,8 +6,9 @@ Cover: "[[Your Turn To Die OST - 21 Samurai Woman [EXTENDED].jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""
-Creators: []
-ListenInSec: 43
+Creators:
+  - "[[Nankidai (🎙️ 909)]]"
+ListenInSec: 47
 NumberInAlbum: 0
 related: []
 source: ""

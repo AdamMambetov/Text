@@ -7,7 +7,7 @@ Year: 2019
 Album: "[[From Hell With Love]]"
 CoverOf: ""
 Creators:
-  - "[[Beast In Black (🎙️ 216)]]"
+  - "[[Beast In Black (🎙️ 215)]]"
 ListenInSec: 247
 NumberInAlbum: 5
 related: []

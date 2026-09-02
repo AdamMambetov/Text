@@ -9,8 +9,8 @@ Year: 0
 Album: ""
 CoverOf: "[[LOST IN PARADISE - ALI]]"
 Creators:
-  - "[[ALI (🎙️ 720)]]"
-  - "[[AKLO (🎙️ 721)]]"
+  - "[[ALI (🎙️ 718)]]"
+  - "[[AKLO (🎙️ 719)]]"
 ListenInSec: 177
 NumberInAlbum: 0
 related: []

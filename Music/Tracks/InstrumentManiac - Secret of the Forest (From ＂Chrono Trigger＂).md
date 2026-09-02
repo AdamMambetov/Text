@@ -7,7 +7,7 @@ Year: 0
 Album: ""
 CoverOf: "[[Secret of the Forest - Yasunori Mitsuda (🎧️ 1569)]]"
 Creators:
-  - "[[Luke Pickman (🎙️ 779)]]"
+  - "[[Luke Pickman (🎙️ 777)]]"
 ListenInSec: 2762
 NumberInAlbum: 0
 related: []

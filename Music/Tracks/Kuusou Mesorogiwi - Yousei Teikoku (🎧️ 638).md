@@ -10,8 +10,8 @@ Year: 2011
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Yousei Teikoku (🎙️ 277)]]"
-ListenInSec: 1926
+  - "[[Yousei Teikoku (🎙️ 275)]]"
+ListenInSec: 2030
 NumberInAlbum: 0
 related:
   - "[[Kuusou Mesorogiwi (TV Size) - Yousei Teikoku (🎧️ 1082)]]"

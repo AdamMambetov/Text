@@ -9,15 +9,11 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Kumiko Noma (🎙️ 356)]]"
-ListenInSec: 1912
+  - "[[Kumiko Noma (🎙️ 354)]]"
+ListenInSec: 2268
 NumberInAlbum: 0
 related:
   - "[[Lilium (TV Size) - Kumiko Noma]]"
-source: ""
 SourceFile: "[[Elfen Lied OST - Lilium.mp3]]"
 ---
 
-# Elfen Lied OST - Lilium
-
-![[Elfen Lied OST - Lilium.mp3]]

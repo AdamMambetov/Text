@@ -8,7 +8,7 @@ Year: 2019
 Album: ""
 CoverOf: "[[The Attack of the Dead Men - Sabaton (🎧️ 212)]]"
 Creators:
-  - "[[RADIO TAPOK (🎙️ 421)]]"
+  - "[[RADIO TAPOK (🎙️ 419)]]"
 ListenInSec: 229
 NumberInAlbum: 0
 related: []

@@ -7,7 +7,7 @@ Year: 2004
 Album: "[[Naruto OST 2 (📀 16)]]"
 CoverOf: ""
 Creators:
-  - "[[Musashi Project (🎙️ 560)]]"
+  - "[[Musashi Project (🎙️ 558)]]"
 ListenInSec: 221
 NumberInAlbum: 12
 related: []

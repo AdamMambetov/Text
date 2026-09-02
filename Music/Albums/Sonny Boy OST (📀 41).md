@@ -5,16 +5,16 @@ aliases:
 Cover: "[[Sonny Boy OST.jpg]]"
 Year: 2021
 Creators:
-  - "[[GING NANG BOYS (🎙️ 670)]]"
-  - "[[Sunset Rollercoaster (🎙️ 694)]]"
-  - "[[VIDEOTTAPEMUSIC (🎙️ 691)]]"
-  - "[[The Natsuyasumi Band (🎙️ 692)]]"
-  - "[[mitsume (🎙️ 693)]]"
-  - "[[Ogawa & Tokoro (🎙️ 695)]]"
-  - "[[Mid-Air Thief (🎙️ 698)]]"
-  - "[[Kaneyori Masaru (🎙️ 699)]]"
-  - "[[toe (🎙️ 696)]]"
-  - "[[Conisch (🎙️ 697)]]"
+  - "[[GING NANG BOYS (🎙️ 668)]]"
+  - "[[Sunset Rollercoaster (🎙️ 692)]]"
+  - "[[VIDEOTTAPEMUSIC (🎙️ 689)]]"
+  - "[[The Natsuyasumi Band (🎙️ 690)]]"
+  - "[[mitsume (🎙️ 691)]]"
+  - "[[Ogawa & Tokoro (🎙️ 693)]]"
+  - "[[Mid-Air Thief (🎙️ 696)]]"
+  - "[[Kaneyori Masaru (🎙️ 697)]]"
+  - "[[toe (🎙️ 694)]]"
+  - "[[Conisch (🎙️ 695)]]"
 source: https://genius.com/albums/Various-artists/Tv-animation-sonny-boy-original-soundtrack
 tracklist:
   - "[[Shounen Shoujo - GING NANG BOYS (🎧️ 636)]]"

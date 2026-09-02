@@ -9,8 +9,8 @@ Year: 2000
 Album: "[[apples]]"
 CoverOf: ""
 Creators:
-  - "[[Chihiro Yonekura (🎙️ 261)]]"
-ListenInSec: 2898
+  - "[[Chihiro Yonekura (🎙️ 259)]]"
+ListenInSec: 2911
 NumberInAlbum: 10
 related:
   - "[[Tooku he (TV Size) - Chihiro Yonekura]]"

@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Noize MC (🎙️ 78)]]"
-ListenInSec: 13
+ListenInSec: -193
 NumberInAlbum: 0
 related: []
 source: ""

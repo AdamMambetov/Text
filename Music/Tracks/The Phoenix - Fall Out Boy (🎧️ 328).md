@@ -7,7 +7,7 @@ Year: 2013
 Album: "[[Save Rock and Roll [2013] {Fall Out Boy}]]"
 CoverOf: ""
 Creators:
-  - "[[Fall Out Boy (🎙️ 306)]]"
+  - "[[Fall Out Boy (🎙️ 304)]]"
 ListenInSec: 257
 NumberInAlbum: 1
 related: []

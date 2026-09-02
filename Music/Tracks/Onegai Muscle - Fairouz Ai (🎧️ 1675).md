@@ -9,8 +9,8 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Fairouz Ai (🎙️ 607)]]"
-  - "[[Ishikawa Kaito (🎙️ 608)]]"
+  - "[[Fairouz Ai (🎙️ 605)]]"
+  - "[[Ishikawa Kaito (🎙️ 606)]]"
 ListenInSec: 2113
 NumberInAlbum: 0
 related:

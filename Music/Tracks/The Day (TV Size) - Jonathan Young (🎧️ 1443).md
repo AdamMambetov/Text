@@ -9,8 +9,8 @@ Year: 0
 Album: ""
 CoverOf: "[[The Day (TV Size) - Porno Graffitti (🎧️ 1077)]]"
 Creators:
-  - "[[Jonathan Young (🎙️ 343)]]"
-ListenInSec: 99
+  - "[[Jonathan Young (🎙️ 341)]]"
+ListenInSec: 191
 NumberInAlbum: 0
 related:
   - "[[The Day - Jonathan Young (🎧️ 1442)]]"

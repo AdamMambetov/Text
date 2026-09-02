@@ -7,8 +7,8 @@ Year: 2021
 Album: "[[Rainy Tunes]]"
 CoverOf: "[[Lagtrain - inabakumori (🎧️ 4)]]"
 Creators:
-  - "[[Will Stetson (🎙️ 481)]]"
-ListenInSec: 119
+  - "[[Will Stetson (🎙️ 479)]]"
+ListenInSec: 373
 NumberInAlbum: 1
 related: []
 source: https://youtu.be/BEnZ0VgQAXw?si=TMjxl_MWg7yteCs9

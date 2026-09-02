@@ -9,7 +9,7 @@ Year: 2017
 Album: "[[SAMURAI SESSIONS vol.2]]"
 CoverOf: ""
 Creators:
-  - "[[Miyavi (🎙️ 379)]]"
+  - "[[Miyavi (🎙️ 377)]]"
 ListenInSec: 351
 NumberInAlbum: 7
 related:

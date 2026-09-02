@@ -8,8 +8,8 @@ Year: 2018
 Album: ""
 CoverOf: "[[Night Witches - Sabaton (🎧️ 211)]]"
 Creators:
-  - "[[RADIO TAPOK (🎙️ 421)]]"
-ListenInSec: 91
+  - "[[RADIO TAPOK (🎙️ 419)]]"
+ListenInSec: 272
 NumberInAlbum: 1
 related: []
 source: ""

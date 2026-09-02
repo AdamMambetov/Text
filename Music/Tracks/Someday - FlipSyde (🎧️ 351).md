@@ -7,8 +7,8 @@ Year: 2005
 Album: "[[We The People]]"
 CoverOf: ""
 Creators:
-  - "[[FlipSyde (🎙️ 558)]]"
-ListenInSec: 19
+  - "[[FlipSyde (🎙️ 556)]]"
+ListenInSec: -242
 NumberInAlbum: 1
 related: []
 source:

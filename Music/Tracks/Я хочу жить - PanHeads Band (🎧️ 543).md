@@ -7,7 +7,7 @@ Year: 2021
 Album: ""
 CoverOf: "[[I Want to Live - Skillet (🎧️ 317)]]"
 Creators:
-  - "[[PanHeads Band (🎙️ 409)]]"
+  - "[[PanHeads Band (🎙️ 407)]]"
 ListenInSec: 218
 NumberInAlbum: 1
 related: []

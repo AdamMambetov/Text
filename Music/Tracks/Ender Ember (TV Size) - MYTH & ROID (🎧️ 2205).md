@@ -7,14 +7,14 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 2026
 Album: ""
+CoverOf: ""
 Creators:
-  - "[[MYTH & ROID (🎙️ 384)]]"
-  - "[[TK from Ling tosite sigure (🎙️ 657)]]"
+  - "[[MYTH & ROID (🎙️ 382)]]"
+  - "[[TK from Ling tosite sigure (🎙️ 655)]]"
+ListenInSec: 1346
 NumberInAlbum: 0
 related:
   - "[[Ender Ember - MYTH & ROID (🎧️ 2207)]]"
 SourceFile: "[[MYTH & ROID feat. TK - Ender Ember (TV Size).opus]]"
-ListenInSec: 1346
-CoverOf: ""
 ---
 

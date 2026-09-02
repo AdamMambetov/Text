@@ -9,7 +9,7 @@ Year: 0
 Album: ""
 CoverOf: "[[Hitorigoto - ClariS (🎧️ 1429)]]"
 Creators:
-  - "[[Sati Akura (🎙️ 357)]]"
+  - "[[Sati Akura (🎙️ 355)]]"
 ListenInSec: 922
 NumberInAlbum: 0
 related:

@@ -7,9 +7,9 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[The Blasting Company (🎙️ 918)]]"
-  - "[[Colin Dean (🎙️ 925)]]"
-ListenInSec: 84
+  - "[[The Blasting Company (🎙️ 917)]]"
+  - "[[Colin Dean (🎙️ 924)]]"
+ListenInSec: 157
 NumberInAlbum: 1
 related: []
 source: ""

@@ -7,8 +7,8 @@ Year: 2017
 Album: "[[False Mirror]]"
 CoverOf: ""
 Creators:
-  - "[[LIZER (🎙️ 365)]]"
-ListenInSec: 47
+  - "[[LIZER (🎙️ 363)]]"
+ListenInSec: -142
 NumberInAlbum: 1
 related: []
 source: ""

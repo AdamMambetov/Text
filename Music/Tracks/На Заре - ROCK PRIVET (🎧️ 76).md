@@ -7,7 +7,7 @@ Year: 2020
 Album: "[[На заре ~ Альянс [2020] {ROCK PRIVET}]]"
 CoverOf: ""
 Creators:
-  - "[[ROCK PRIVET (🎙️ 430)]]"
+  - "[[ROCK PRIVET (🎙️ 428)]]"
 ListenInSec: 245
 NumberInAlbum: 75
 related:

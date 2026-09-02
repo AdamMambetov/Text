@@ -7,8 +7,8 @@ Year: 2020
 Album: "[[Maniac (feat. Yann Ligner) - Single]]"
 CoverOf: ""
 Creators:
-  - "[[Carpenter Brut (🎙️ 250)]]"
-  - "[[Yann Ligner (🎙️ 882)]]"
+  - "[[Carpenter Brut (🎙️ 248)]]"
+  - "[[Yann Ligner (🎙️ 881)]]"
 ListenInSec: 384
 NumberInAlbum: 1
 related: []

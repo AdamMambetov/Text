@@ -7,7 +7,7 @@ Year: 2006
 Album: "[[Death Note OST]]"
 CoverOf: ""
 Creators:
-  - "[[Hideki Taniuchi (🎙️ 886)]]"
+  - "[[Hideki Taniuchi (🎙️ 885)]]"
 ListenInSec: 162
 NumberInAlbum: 3
 related: []

@@ -10,8 +10,8 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Konomi Suzuki (🎙️ 353)]]"
-ListenInSec: 2769
+  - "[[Konomi Suzuki (🎙️ 351)]]"
+ListenInSec: 2848
 NumberInAlbum: 1
 related:
   - "[[CHOIR JAIL (TV Size) - Konomi Suzuki (🎧️ 1564)]]"

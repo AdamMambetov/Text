@@ -7,9 +7,9 @@ Year: 2011
 Album: "[[Letter to the Lord [2011] {Youssoupha; Irma}]]"
 CoverOf: ""
 Creators:
-  - "[[Irma (🎙️ 556)]]"
-  - "[[Youssoupha (🎙️ 557)]]"
-ListenInSec: 185
+  - "[[Irma (🎙️ 554)]]"
+  - "[[Youssoupha (🎙️ 555)]]"
+ListenInSec: 363
 NumberInAlbum: 2
 related: []
 source:

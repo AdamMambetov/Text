@@ -9,8 +9,8 @@ Year: 2015
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Lia (🎙️ 658)]]"
-ListenInSec: 95
+  - "[[Lia (🎙️ 656)]]"
+ListenInSec: 184
 NumberInAlbum: 0
 related:
   - "[[Bravely You - Lia (🎧️ 1744)]]"

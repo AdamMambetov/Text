@@ -7,9 +7,9 @@ Year: 2022
 Album: ""
 CoverOf: "[[Warriors - Imagine Dragons (🎧️ 290)]]"
 Creators:
-  - "[[Onsa Media (🎙️ 402)]]"
-  - "[[Jackie-O (🎙️ 339)]]"
-ListenInSec: 339
+  - "[[Onsa Media (🎙️ 400)]]"
+  - "[[Jackie-O (🎙️ 337)]]"
+ListenInSec: 504
 NumberInAlbum: 0
 related: []
 source: ""

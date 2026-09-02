@@ -9,8 +9,8 @@ Year: 0
 Album: ""
 CoverOf: "[[Black Rover (TV Size) - Vickeblanka (🎧️ 1069)]]"
 Creators:
-  - "[[Will Stetson (🎙️ 481)]]"
-ListenInSec: 95
+  - "[[Will Stetson (🎙️ 479)]]"
+ListenInSec: 193
 NumberInAlbum: 0
 related: []
 source: ""

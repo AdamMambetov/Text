@@ -8,8 +8,8 @@ Year: 0
 Album: ""
 CoverOf: "[[innocent arrogance - BiSH (🎧️ 1183)]]"
 Creators:
-  - "[[Verjuski (🎙️ 672)]]"
-  - "[[Marie Bibika (🎙️ 374)]]"
+  - "[[Verjuski (🎙️ 670)]]"
+  - "[[Marie Bibika (🎙️ 372)]]"
 ListenInSec: 223
 NumberInAlbum: 0
 related: []

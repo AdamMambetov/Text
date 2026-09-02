@@ -7,8 +7,8 @@ Year: 1996
 Album: "[[Era]]"
 CoverOf: ""
 Creators:
-  - "[[Era (🎙️ 302)]]"
-ListenInSec: 259
+  - "[[Era (🎙️ 300)]]"
+ListenInSec: 262
 NumberInAlbum: 1
 related: []
 source: ""

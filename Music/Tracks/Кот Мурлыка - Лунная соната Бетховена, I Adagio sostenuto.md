@@ -1,13 +1,14 @@
 ---
 created: 2026-06-11T22:45:12+03:00
 aliases:
-  - "Кот Мурлыка - Лунная соната Бетховена, I Adagio sostenuto"
+  - "Лунная соната"
 Cover: "[[Кот Мурлыка - Лунная соната Бетховена, I Adagio sostenuto.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""
-Creators: []
-ListenInSec: 7
+Creators:
+  - "[[Beethoven (🎙️ 965)]]"
+ListenInSec: 62
 NumberInAlbum: 0
 related: []
 source: ""

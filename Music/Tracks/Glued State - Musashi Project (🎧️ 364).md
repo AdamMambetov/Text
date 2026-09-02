@@ -7,14 +7,10 @@ Year: 2003
 Album: "[[Naruto OST 1 (📀 15)]]"
 CoverOf: ""
 Creators:
-  - "[[Musashi Project (🎙️ 560)]]"
-ListenInSec: 109
+  - "[[Musashi Project (🎙️ 558)]]"
+ListenInSec: 210
 NumberInAlbum: 15
 related: []
-source:
 SourceFile: "[[Naruto OST - Glued State.mp3]]"
 ---
 
-# Naruto OST - Glued State
-
-![[Naruto OST - Glued State.mp3]]

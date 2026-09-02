@@ -9,8 +9,8 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Hiroyuki Sawano (🎙️ 329)]]"
-  - "[[Rei (🎙️ 810)]]"
+  - "[[Hiroyuki Sawano (🎙️ 327)]]"
+  - "[[Rei (🎙️ 808)]]"
 ListenInSec: 178
 NumberInAlbum: 0
 related: []

@@ -7,7 +7,7 @@ Year: 2021
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Chimoruki (🎙️ 260)]]"
+  - "[[Chimoruki (🎙️ 258)]]"
 ListenInSec: 1346
 NumberInAlbum: 0
 related:

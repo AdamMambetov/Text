@@ -7,7 +7,7 @@ Year: 1998
 Album: "[[Blue (Da Ba Dee)]]"
 CoverOf: ""
 Creators:
-  - "[[Eiffel 65 (🎙️ 300)]]"
+  - "[[Eiffel 65 (🎙️ 298)]]"
 ListenInSec: 303
 NumberInAlbum: 1
 related: []

@@ -9,8 +9,8 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Sora Amamiya (🎙️ 818)]]"
-ListenInSec: 1922
+  - "[[Sora Amamiya (🎙️ 816)]]"
+ListenInSec: 1954
 NumberInAlbum: 0
 related:
   - "[[Skyreach - Sora Amamiya (🎧️ 2219)]]"

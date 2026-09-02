@@ -7,10 +7,10 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[DJ Genki (🎙️ 288)]]"
-  - "[[C-Show (🎙️ 289)]]"
+  - "[[DJ Genki (🎙️ 286)]]"
+  - "[[C-Show (🎙️ 287)]]"
   - "[[Camellia (🎙️ 53)]]"
-ListenInSec: 510
+ListenInSec: 703
 NumberInAlbum: 0
 related: []
 source: ""

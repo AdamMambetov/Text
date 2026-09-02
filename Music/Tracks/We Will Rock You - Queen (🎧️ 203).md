@@ -7,8 +7,8 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Queen (🎙️ 420)]]"
-ListenInSec: 125
+  - "[[Queen (🎙️ 418)]]"
+ListenInSec: 246
 NumberInAlbum: 0
 related: []
 source: ""

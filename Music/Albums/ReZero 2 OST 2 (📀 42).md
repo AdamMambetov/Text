@@ -5,7 +5,7 @@ aliases:
 Cover: "[[ReZero 2 OST 2.jpg]]"
 Year: 2021
 Creators:
-  - "[[Kenichiro Suehiro (🎙️ 750)]]"
+  - "[[Kenichiro Suehiro (🎙️ 748)]]"
 source: https://vgmdb.net/album/107996
 tracklist:
   - "Takt of Heroes -Awakening-"

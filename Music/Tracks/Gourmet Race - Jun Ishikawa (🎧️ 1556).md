@@ -8,7 +8,7 @@ Year: 0
 Album: "[[Kirby Super Star]]"
 CoverOf: ""
 Creators:
-  - "[[Jun Ishikawa (🎙️ 943)]]"
+  - "[[Jun Ishikawa (🎙️ 942)]]"
 ListenInSec: 1112
 NumberInAlbum: 1
 related: []

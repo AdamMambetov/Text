@@ -7,8 +7,8 @@ Year: 2015
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Bruno Mars (🎙️ 240)]]"
-ListenInSec: 1061
+  - "[[Bruno Mars (🎙️ 238)]]"
+ListenInSec: 1228
 NumberInAlbum: 0
 related: []
 source: ""

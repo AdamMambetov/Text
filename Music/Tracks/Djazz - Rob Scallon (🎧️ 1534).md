@@ -7,8 +7,8 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Rob Scallon (🎙️ 756)]]"
-ListenInSec: 480
+  - "[[Rob Scallon (🎙️ 754)]]"
+ListenInSec: 552
 NumberInAlbum: 1
 related: []
 source: ""

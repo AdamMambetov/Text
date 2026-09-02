@@ -7,7 +7,7 @@ Year: 2019
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Gloryhammer (🎙️ 316)]]"
+  - "[[Gloryhammer (🎙️ 314)]]"
 ListenInSec: 296
 NumberInAlbum: 0
 related: []

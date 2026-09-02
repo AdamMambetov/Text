@@ -7,7 +7,7 @@ Year: 0
 Album: ""
 CoverOf: "[[All Star - Smash Mouth (🎧️ 25)]]"
 Creators:
-  - "[[Pupsi (🎙️ 804)]]"
+  - "[[Pupsi (🎙️ 802)]]"
 ListenInSec: 1036
 NumberInAlbum: 0
 related: []

@@ -8,7 +8,7 @@ Album: "[[Favourite Worst Nightmare]]"
 CoverOf: ""
 Creators:
   - "[[Arctic Monkeys (🎙️ 188)]]"
-ListenInSec: 119
+ListenInSec: 372
 NumberInAlbum: 12
 related: []
 source: ""

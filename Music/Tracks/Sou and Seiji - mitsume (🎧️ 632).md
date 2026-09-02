@@ -7,7 +7,7 @@ Year: 2021
 Album: "[[Sonny Boy OST (📀 41)]]"
 CoverOf: ""
 Creators:
-  - "[[mitsume (🎙️ 693)]]"
+  - "[[mitsume (🎙️ 691)]]"
 ListenInSec: 7219
 NumberInAlbum: 12
 related: []

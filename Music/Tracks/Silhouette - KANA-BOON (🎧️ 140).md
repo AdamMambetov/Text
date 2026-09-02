@@ -9,7 +9,7 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[KANA-BOON (🎙️ 345)]]"
+  - "[[KANA-BOON (🎙️ 343)]]"
 ListenInSec: 246
 NumberInAlbum: 0
 related:

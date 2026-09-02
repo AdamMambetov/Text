@@ -7,7 +7,7 @@ Year: 2006
 Album: "[[Comatose [2006] {Skillet}]]"
 CoverOf: ""
 Creators:
-  - "[[Skillet (🎙️ 440)]]"
+  - "[[Skillet (🎙️ 438)]]"
 ListenInSec: 230
 NumberInAlbum: 1
 related: []

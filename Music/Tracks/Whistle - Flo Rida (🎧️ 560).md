@@ -7,8 +7,8 @@ Year: 2012
 Album: "[[Wild Ones]]"
 CoverOf: ""
 Creators:
-  - "[[Flo Rida (🎙️ 310)]]"
-ListenInSec: 106
+  - "[[Flo Rida (🎙️ 308)]]"
+ListenInSec: 330
 NumberInAlbum: 1
 related: []
 source: ""

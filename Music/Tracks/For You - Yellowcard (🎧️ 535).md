@@ -1,14 +1,13 @@
 ---
 created: 2022-12-20T22:41:36+03:00
 aliases:
-  - "For You"
-  - "And Your Denial"
+  - "For You, And Your Denial"
 Cover: "[[Yellowcard - When You're Through Thinking, Say Yes.jpg]]"
 Year: 2011
 Album: "[[When You're Through Thinking, Say Yes]]"
 CoverOf: ""
 Creators:
-  - "[[Yellowcard (🎙️ 484)]]"
+  - "[[Yellowcard (🎙️ 482)]]"
 ListenInSec: 411
 NumberInAlbum: 2
 related: []

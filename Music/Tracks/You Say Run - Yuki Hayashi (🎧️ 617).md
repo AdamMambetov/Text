@@ -7,7 +7,7 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Yuki Hayashi (🎙️ 809)]]"
+  - "[[Yuki Hayashi (🎙️ 807)]]"
 ListenInSec: 309
 NumberInAlbum: 1
 related: []

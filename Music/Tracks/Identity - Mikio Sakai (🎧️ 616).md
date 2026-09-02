@@ -6,13 +6,13 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
+CoverOf: ""
 Creators:
-  - "[[Mikio Sakai (🎙️ 743)]]"
+  - "[[Mikio Sakai (🎙️ 741)]]"
+ListenInSec: 2592
 NumberInAlbum: 0
 related:
   - "[[Identity (TV Size) - Mikio Sakai]]"
 SourceFile: "[[Mikio Sakai - Identity.mp3]]"
-ListenInSec: 2526
-CoverOf: ""
 ---
 

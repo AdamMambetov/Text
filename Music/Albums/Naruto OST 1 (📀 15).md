@@ -5,8 +5,8 @@ aliases:
 Cover: "[[Naruto OST 1.jpg]]"
 Year: 2003
 Creators:
-  - "[[Toshio Masuda (🎙️ 559)]]"
-  - "[[Musashi Project (🎙️ 560)]]"
+  - "[[Toshio Masuda (🎙️ 557)]]"
+  - "[[Musashi Project (🎙️ 558)]]"
 source: https://vgmdb.net/album/23889
 tracklist:
   - "R★O★C★K★S"

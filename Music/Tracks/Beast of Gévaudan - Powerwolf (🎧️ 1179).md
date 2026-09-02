@@ -7,7 +7,7 @@ Year: 2021
 Album: "[[Call of the Wild]]"
 CoverOf: ""
 Creators:
-  - "[[Powerwolf (🎙️ 418)]]"
+  - "[[Powerwolf (🎙️ 416)]]"
 ListenInSec: 206
 NumberInAlbum: 2
 related: []

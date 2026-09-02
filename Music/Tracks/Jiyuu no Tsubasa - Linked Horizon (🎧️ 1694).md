@@ -9,7 +9,7 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Linked Horizon (🎙️ 732)]]"
+  - "[[Linked Horizon (🎙️ 730)]]"
 ListenInSec: 1029
 NumberInAlbum: 0
 related:

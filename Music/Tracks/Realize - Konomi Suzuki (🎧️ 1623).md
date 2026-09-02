@@ -9,7 +9,7 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Konomi Suzuki (🎙️ 353)]]"
+  - "[[Konomi Suzuki (🎙️ 351)]]"
 ListenInSec: 977
 NumberInAlbum: 0
 related:

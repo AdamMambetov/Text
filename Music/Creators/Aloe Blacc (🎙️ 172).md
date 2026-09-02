@@ -2,7 +2,7 @@
 created: 2025-11-19T22:35:35+03:00
 aliases:
   - "Aloe Blacc"
-ListenInSec: 437
+ListenInSec: 666
 ---
 
 # Aloe Blacc

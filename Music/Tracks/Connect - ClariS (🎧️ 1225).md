@@ -9,8 +9,8 @@ Year: 2012
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[ClariS (🎙️ 264)]]"
-ListenInSec: 5089
+  - "[[ClariS (🎙️ 262)]]"
+ListenInSec: 5999
 NumberInAlbum: 0
 related:
   - "[[Connect (TV Size) - ClariS (🎧️ 1093)]]"

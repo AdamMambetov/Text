@@ -7,7 +7,7 @@ Year: 2018
 Album: "[[The Sacrament of Sin (📀 39)]]"
 CoverOf: ""
 Creators:
-  - "[[Powerwolf (🎙️ 418)]]"
+  - "[[Powerwolf (🎙️ 416)]]"
 ListenInSec: 220
 NumberInAlbum: 2
 related: []

@@ -7,7 +7,7 @@ Year: 2015
 Album: "[[Day of the Dead]]"
 CoverOf: ""
 Creators:
-  - "[[Hollywood Undead (🎙️ 330)]]"
+  - "[[Hollywood Undead (🎙️ 328)]]"
 ListenInSec: 214
 NumberInAlbum: 9
 related: []

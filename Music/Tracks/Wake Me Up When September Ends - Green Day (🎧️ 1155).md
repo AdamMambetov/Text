@@ -7,8 +7,8 @@ Year: 2004
 Album: "[[American Idiot]]"
 CoverOf: ""
 Creators:
-  - "[[Green Day (🎙️ 322)]]"
-ListenInSec: 197
+  - "[[Green Day (🎙️ 320)]]"
+ListenInSec: 371
 NumberInAlbum: 12
 related: []
 source: ""

@@ -7,8 +7,8 @@ Year: 1979
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Dschinghis Khan (🎙️ 847)]]"
-ListenInSec: 117
+  - "[[Dschinghis Khan (🎙️ 846)]]"
+ListenInSec: 122
 NumberInAlbum: 1
 related: []
 source: ""

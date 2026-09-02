@@ -10,7 +10,7 @@ Album: "[[Sora ni Utaeba]]"
 CoverOf: "[[Sora ni Utaeba (TV Size) - amazarashi (🎧️ 1089)]]"
 Creators:
   - "[[DiWilliam (🎙️ 60)]]"
-ListenInSec: 94
+ListenInSec: 184
 NumberInAlbum: 1
 related: []
 source: ""

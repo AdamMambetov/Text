@@ -9,7 +9,7 @@ CoverOf: ""
 Creators:
   - "[[Noize MC (🎙️ 78)]]"
   - "[[Александр «Чача» Иванов (🎙️ 79)]]"
-ListenInSec: 54
+ListenInSec: -239
 NumberInAlbum: 0
 related: []
 source: ""

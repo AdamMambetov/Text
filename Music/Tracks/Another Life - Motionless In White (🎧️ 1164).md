@@ -7,8 +7,8 @@ Year: 2019
 Album: "[[Disguise]]"
 CoverOf: ""
 Creators:
-  - "[[Motionless In White (🎙️ 521)]]"
-ListenInSec: 112
+  - "[[Motionless In White (🎙️ 519)]]"
+ListenInSec: 317
 NumberInAlbum: 8
 related: []
 source:

@@ -7,7 +7,7 @@ Year: 2020
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Kiro Akiyama (🎙️ 641)]]"
+  - "[[Kiro Akiyama (🎙️ 639)]]"
 ListenInSec: 340
 NumberInAlbum: 0
 related: []

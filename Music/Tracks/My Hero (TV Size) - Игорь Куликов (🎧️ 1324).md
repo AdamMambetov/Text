@@ -10,7 +10,7 @@ Album: ""
 CoverOf: "[[My Hero (TV Size) - MAN WITH A MISSION]]"
 Creators:
   - "[[Игорь Куликов (🎙️ 71)]]"
-ListenInSec: 92
+ListenInSec: 184
 NumberInAlbum: 0
 related: []
 source: ""

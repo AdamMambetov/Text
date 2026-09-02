@@ -9,8 +9,8 @@ Year: 2022
 Album: ""
 CoverOf: "[[Irokousui - Yoh Kamiyama (🎧️ 1684)]]"
 Creators:
-  - "[[Jackie-O (🎙️ 339)]]"
-  - "[[B-Lion (🎙️ 205)]]"
+  - "[[Jackie-O (🎙️ 337)]]"
+  - "[[B-Lion (🎙️ 204)]]"
 ListenInSec: 892
 NumberInAlbum: 0
 related: []

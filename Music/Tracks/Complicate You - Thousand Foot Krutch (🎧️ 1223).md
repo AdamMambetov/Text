@@ -7,7 +7,7 @@ Year: 2013
 Album: "[[Thousand Foot Krutch Collection]]"
 CoverOf: ""
 Creators:
-  - "[[Thousand Foot Krutch (🎙️ 468)]]"
+  - "[[Thousand Foot Krutch (🎙️ 466)]]"
 ListenInSec: 190
 NumberInAlbum: 38
 related: []

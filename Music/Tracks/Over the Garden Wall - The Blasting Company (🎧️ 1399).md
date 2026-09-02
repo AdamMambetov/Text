@@ -7,9 +7,9 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[The Blasting Company (🎙️ 918)]]"
-  - "[[Jack Jones (🎙️ 919)]]"
-ListenInSec: 773
+  - "[[The Blasting Company (🎙️ 917)]]"
+  - "[[Jack Jones (🎙️ 918)]]"
+ListenInSec: 878
 NumberInAlbum: 1
 related: []
 source: ""

@@ -9,9 +9,9 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Masayuki Suzuki (🎙️ 668)]]"
-  - "[[Ihara Rikka (🎙️ 669)]]"
-ListenInSec: 288
+  - "[[Masayuki Suzuki (🎙️ 666)]]"
+  - "[[Ihara Rikka (🎙️ 667)]]"
+ListenInSec: 321
 NumberInAlbum: 0
 related:
   - "[[Love Dramatic - Masayuki Suzuki (🎧️ 1589)]]"

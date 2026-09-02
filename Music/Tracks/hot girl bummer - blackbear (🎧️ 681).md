@@ -7,8 +7,8 @@ Year: 2020
 Album: "[[everything means nothing]]"
 CoverOf: ""
 Creators:
-  - "[[blackbear (🎙️ 225)]]"
-ListenInSec: 7
+  - "[[blackbear (🎙️ 223)]]"
+ListenInSec: -185
 NumberInAlbum: 1
 related: []
 source: ""

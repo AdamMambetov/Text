@@ -7,8 +7,8 @@ Year: 2008
 Album: "[[You Want Some of This?]]"
 CoverOf: ""
 Creators:
-  - "[[Jon LaJoie (🎙️ 895)]]"
-ListenInSec: 11
+  - "[[Jon LaJoie (🎙️ 894)]]"
+ListenInSec: 195
 NumberInAlbum: 9
 related: []
 source: ""

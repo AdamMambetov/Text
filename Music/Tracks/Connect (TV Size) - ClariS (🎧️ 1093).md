@@ -9,8 +9,8 @@ Year: 2011
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[ClariS (🎙️ 264)]]"
-ListenInSec: 96
+  - "[[ClariS (🎙️ 262)]]"
+ListenInSec: 188
 NumberInAlbum: 0
 related:
   - "[[Connect - ClariS (🎧️ 1225)]]"

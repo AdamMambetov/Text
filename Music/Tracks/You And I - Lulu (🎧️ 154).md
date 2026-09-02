@@ -7,8 +7,8 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Lulu (🎙️ 369)]]"
-ListenInSec: 138
+  - "[[Lulu (🎙️ 367)]]"
+ListenInSec: 285
 NumberInAlbum: 0
 related: []
 source: ""

@@ -9,7 +9,7 @@ Year: 0
 Album: ""
 CoverOf: "[[Fatima - Itou Kanako (🎧️ 1455)]]"
 Creators:
-  - "[[Onsa Media (🎙️ 402)]]"
+  - "[[Onsa Media (🎙️ 400)]]"
 ListenInSec: 245
 NumberInAlbum: 1
 related: []

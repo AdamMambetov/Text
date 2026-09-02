@@ -8,12 +8,12 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Asami Seto (🎙️ 781)]]"
-  - "[[Nao Touyama (🎙️ 780)]]"
-  - "[[Atsumi Tanezaki (🎙️ 782)]]"
-  - "[[Maaya Uchida (🎙️ 783)]]"
-  - "[[Yurika Kubo (🎙️ 784)]]"
-  - "[[Inori Minase (🎙️ 785)]]"
+  - "[[Asami Seto (🎙️ 779)]]"
+  - "[[Nao Touyama (🎙️ 778)]]"
+  - "[[Atsumi Tanezaki (🎙️ 780)]]"
+  - "[[Maaya Uchida (🎙️ 781)]]"
+  - "[[Yurika Kubo (🎙️ 782)]]"
+  - "[[Inori Minase (🎙️ 783)]]"
 ListenInSec: 323
 NumberInAlbum: 0
 related:

@@ -7,8 +7,8 @@ Year: 2014
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Lindsey Stirling (🎙️ 512)]]"
-ListenInSec: 45
+  - "[[Lindsey Stirling (🎙️ 510)]]"
+ListenInSec: 203
 NumberInAlbum: 0
 related: []
 source: ""

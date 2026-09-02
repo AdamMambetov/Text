@@ -7,8 +7,8 @@ Year: 2015
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Imagine Dragons (🎙️ 334)]]"
-ListenInSec: 1174
+  - "[[Imagine Dragons (🎙️ 332)]]"
+ListenInSec: 1344
 NumberInAlbum: 0
 related: []
 source: ""

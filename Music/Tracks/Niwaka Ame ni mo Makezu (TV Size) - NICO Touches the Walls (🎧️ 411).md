@@ -9,7 +9,7 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[NICO Touches the Walls (🎙️ 391)]]"
+  - "[[NICO Touches the Walls (🎙️ 389)]]"
 ListenInSec: 380
 NumberInAlbum: 1
 related: []

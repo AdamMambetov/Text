@@ -9,8 +9,8 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Lia (🎙️ 658)]]"
-ListenInSec: 2313
+  - "[[Lia (🎙️ 656)]]"
+ListenInSec: 2428
 NumberInAlbum: 0
 related:
   - "[[Toki wo Kizamu Uta (TV Size) - Lia (🎧️ 1748)]]"

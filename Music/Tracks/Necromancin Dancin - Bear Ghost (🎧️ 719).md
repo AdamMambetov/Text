@@ -7,7 +7,7 @@ Year: 2016
 Album: "[[Blasterpiece]]"
 CoverOf: ""
 Creators:
-  - "[[Bear Ghost (🎙️ 215)]]"
+  - "[[Bear Ghost (🎙️ 214)]]"
 ListenInSec: 230
 NumberInAlbum: 2
 related: []

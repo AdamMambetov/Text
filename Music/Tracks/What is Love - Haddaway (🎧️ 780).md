@@ -7,7 +7,7 @@ Year: 1993
 Album: "[[The Album]]"
 CoverOf: ""
 Creators:
-  - "[[Haddaway (🎙️ 850)]]"
+  - "[[Haddaway (🎙️ 849)]]"
 ListenInSec: 340
 NumberInAlbum: 1
 related: []

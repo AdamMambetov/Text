@@ -9,7 +9,7 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Kanon Kanon (🎙️ 727)]]"
+  - "[[Kanon Kanon (🎙️ 725)]]"
 ListenInSec: 952
 NumberInAlbum: 0
 related:

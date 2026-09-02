@@ -7,7 +7,7 @@ Year: 2010
 Album: "[[Tommy-Gun]]"
 CoverOf: ""
 Creators:
-  - "[[Royal Republic (🎙️ 642)]]"
+  - "[[Royal Republic (🎙️ 640)]]"
 ListenInSec: 160
 NumberInAlbum: 1
 related: []

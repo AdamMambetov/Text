@@ -7,9 +7,9 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[K.A.Z (🎙️ 954)]]"
-  - "[[Yuji Ueda (🎙️ 955)]]"
-ListenInSec: 90
+  - "[[K.A.Z (🎙️ 953)]]"
+  - "[[Yuji Ueda (🎙️ 954)]]"
+ListenInSec: 100
 NumberInAlbum: 1
 related: []
 source: ""

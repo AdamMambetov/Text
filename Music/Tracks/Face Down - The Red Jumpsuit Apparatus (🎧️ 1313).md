@@ -7,7 +7,7 @@ Year: 2006
 Album: "[[Don't You Fake It]]"
 CoverOf: ""
 Creators:
-  - "[[The Red Jumpsuit Apparatus (🎙️ 897)]]"
+  - "[[The Red Jumpsuit Apparatus (🎙️ 896)]]"
 ListenInSec: 194
 NumberInAlbum: 4
 related: []

@@ -7,8 +7,8 @@ Year: 2025
 Album: "[[ReZero 3 OST (📀 48)]]"
 CoverOf: ""
 Creators:
-  - "[[Kenichiro Suehiro (🎙️ 750)]]"
-ListenInSec: 272
+  - "[[Kenichiro Suehiro (🎙️ 748)]]"
+ListenInSec: 307
 NumberInAlbum: 12
 related: []
 source: ""

@@ -7,8 +7,8 @@ Year: 2010
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[K'NAAN (🎙️ 344)]]"
-ListenInSec: 214
+  - "[[K'NAAN (🎙️ 342)]]"
+ListenInSec: 426
 NumberInAlbum: 0
 related: []
 source: ""

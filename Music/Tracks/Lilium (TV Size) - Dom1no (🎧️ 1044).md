@@ -9,8 +9,8 @@ Year: 0
 Album: ""
 CoverOf: "[[Lilium (TV Size) - Kumiko Noma]]"
 Creators:
-  - "[[Dom1no (🎙️ 673)]]"
-ListenInSec: 109
+  - "[[Dom1no (🎙️ 671)]]"
+ListenInSec: 226
 NumberInAlbum: 0
 related: []
 source: ""

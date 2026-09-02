@@ -9,8 +9,8 @@ Year: 2016
 Album: "[[Redo (📀 49)]]"
 CoverOf: ""
 Creators:
-  - "[[Konomi Suzuki (🎙️ 353)]]"
-ListenInSec: 4261
+  - "[[Konomi Suzuki (🎙️ 351)]]"
+ListenInSec: 4290
 NumberInAlbum: 1
 related:
   - "[[Redo (TV Size) - Konomi Suzuki (🎧️ 1070)]]"

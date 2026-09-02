@@ -9,8 +9,8 @@ Year: 0
 Album: ""
 CoverOf: "[[This Game - Konomi Suzuki (🎧️ 1453)]]"
 Creators:
-  - "[[Onsa Media (🎙️ 402)]]"
-  - "[[Kotori (🎙️ 731)]]"
+  - "[[Onsa Media (🎙️ 400)]]"
+  - "[[Kotori (🎙️ 729)]]"
 ListenInSec: 844
 NumberInAlbum: 0
 related: []

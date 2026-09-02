@@ -9,7 +9,7 @@ Year: 2018
 Album: ""
 CoverOf: "[[Guren no Yumiya (TV Size) - Linked Horizon (🎧️ 1081)]]"
 Creators:
-  - "[[21st Century Orchestra Tokyo (🎙️ 733)]]"
+  - "[[21st Century Orchestra Tokyo (🎙️ 731)]]"
 ListenInSec: 336
 NumberInAlbum: 0
 related: []

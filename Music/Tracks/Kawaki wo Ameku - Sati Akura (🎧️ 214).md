@@ -11,7 +11,7 @@ Year: 2021
 Album: ""
 CoverOf: "[[Kawaki wo Ameku - Minami (🎧️ 8)]]"
 Creators:
-  - "[[Sati Akura (🎙️ 357)]]"
+  - "[[Sati Akura (🎙️ 355)]]"
 ListenInSec: 241
 NumberInAlbum: 0
 related: []

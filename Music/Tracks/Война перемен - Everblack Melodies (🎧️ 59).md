@@ -8,7 +8,7 @@ Year: 2020
 Album: ""
 CoverOf: "[[War of Change - Thousand Foot Krutch (🎧️ 255)]]"
 Creators:
-  - "[[Everblack Melodies (🎙️ 305)]]"
+  - "[[Everblack Melodies (🎙️ 303)]]"
 ListenInSec: 643
 NumberInAlbum: 1
 related: []

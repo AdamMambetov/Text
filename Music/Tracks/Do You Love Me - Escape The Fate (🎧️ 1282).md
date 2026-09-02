@@ -7,7 +7,7 @@ Year: 2017
 Album: "[[I Am Human]]"
 CoverOf: ""
 Creators:
-  - "[[Escape The Fate (🎙️ 303)]]"
+  - "[[Escape The Fate (🎙️ 301)]]"
 ListenInSec: 313
 NumberInAlbum: 7
 related: []

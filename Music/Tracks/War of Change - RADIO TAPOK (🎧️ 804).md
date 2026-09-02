@@ -7,8 +7,8 @@ Year: 2021
 Album: ""
 CoverOf: "[[War of Change - Thousand Foot Krutch (🎧️ 255)]]"
 Creators:
-  - "[[RADIO TAPOK (🎙️ 421)]]"
-ListenInSec: 417
+  - "[[RADIO TAPOK (🎙️ 419)]]"
+ListenInSec: 632
 NumberInAlbum: 0
 related: []
 source: ""

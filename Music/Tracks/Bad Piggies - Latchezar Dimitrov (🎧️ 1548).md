@@ -7,7 +7,7 @@ Year: 0
 Album: ""
 CoverOf: "[[Bad Piggies - Ilmari Hakkola (🎧️ 1547)]]"
 Creators:
-  - "[[Latchezar Dimitrov (🎙️ 941)]]"
+  - "[[Latchezar Dimitrov (🎙️ 940)]]"
 ListenInSec: 561
 NumberInAlbum: 1
 related: []

@@ -4,7 +4,7 @@ aliases:
   - "BERSERK OST"
 Year: 1997
 Creators:
-  - "[[Susumu Hirasawa (🎙️ 452)]]"
+  - "[[Susumu Hirasawa (🎙️ 450)]]"
 tracklist:
   - "[[Gats - Susumu Hirasawa (🎧️ 1351)]]"
 ---

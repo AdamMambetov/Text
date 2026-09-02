@@ -9,8 +9,8 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Linked Horizon (🎙️ 732)]]"
-ListenInSec: 96
+  - "[[Linked Horizon (🎙️ 730)]]"
+ListenInSec: 185
 NumberInAlbum: 0
 related:
   - "[[Jiyuu no Tsubasa - Linked Horizon (🎧️ 1694)]]"

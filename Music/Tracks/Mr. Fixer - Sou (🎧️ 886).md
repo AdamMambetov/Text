@@ -10,7 +10,7 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Sou (🎙️ 708)]]"
+  - "[[Sou (🎙️ 706)]]"
 ListenInSec: 227
 NumberInAlbum: 0
 related:

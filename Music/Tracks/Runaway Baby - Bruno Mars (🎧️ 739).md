@@ -7,7 +7,7 @@ Year: 2010
 Album: "[[Doo-Wops & Hooligans]]"
 CoverOf: ""
 Creators:
-  - "[[Bruno Mars (🎙️ 240)]]"
+  - "[[Bruno Mars (🎙️ 238)]]"
 ListenInSec: 295
 NumberInAlbum: 4
 related: []

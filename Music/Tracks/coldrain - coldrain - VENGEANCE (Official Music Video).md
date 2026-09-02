@@ -9,19 +9,10 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[coldrain (🎙️ 821)]]"
-ListenInSec: 511
+  - "[[coldrain (🎙️ 820)]]"
+ListenInSec: 753
 NumberInAlbum: 0
 related: []
-source: ""
 SourceFile: "[[coldrain - coldrain - VENGEANCE (Official Music Video).mp3]]"
 ---
-
-`$=dv.header(1, dv.current().aliases[0])`
-
-![[coldrain - coldrain - VENGEANCE (Official Music Video).mp3]]
-
-## Related Tracks
-
-![[related tracks.base]]
 

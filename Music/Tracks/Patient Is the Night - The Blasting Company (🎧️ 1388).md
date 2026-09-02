@@ -7,9 +7,9 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[The Blasting Company (🎙️ 918)]]"
-  - "[[Chris Isaak (🎙️ 924)]]"
-ListenInSec: 96
+  - "[[The Blasting Company (🎙️ 917)]]"
+  - "[[Chris Isaak (🎙️ 923)]]"
+ListenInSec: 185
 NumberInAlbum: 1
 related: []
 SourceFile: "[[Over the Garden Wall OST - 05 Patient Is the Night feat. Chris Isaak.mp3]]"

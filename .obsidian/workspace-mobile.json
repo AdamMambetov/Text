@@ -36,21 +36,31 @@
             }
           },
           {
-            "id": "89ad2f666846d8b2",
+            "id": "db691d31a042de63",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Music/Tracks/Discussion -HEAT UP- - Masafumi Takada (🎧️ 1496).md",
+                "file": "Note/home/Где.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Discussion -HEAT UP- - Masafumi Takada (🎧️ 1496)"
+              "title": "Где"
+            }
+          },
+          {
+            "id": "7e3c74c490a3297e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -125,7 +135,10 @@
         "type": "leaf",
         "state": {
           "type": "bookmarks",
-          "state": {},
+          "state": {
+            "showSearch": false,
+            "searchQuery": ""
+          },
           "icon": "lucide-bookmark",
           "title": "Bookmarks"
         }
@@ -143,7 +156,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Music/Tracks/My Soul, Your Beats! (TV Size) - Lia (🎧️ 1750).md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -217,34 +229,35 @@
       "obsidian-excalidraw-plugin:New drawing": true
     }
   },
-  "active": "89ad2f666846d8b2",
+  "active": "7e3c74c490a3297e",
   "lastOpenFiles": [
+    "Note/content/цели в жизни.md",
+    "Note/home/Где.md",
+    "Note/content/PostgreSQL.md",
+    "Note/home/homepage.md",
+    "Personal/Ахмед.md",
+    "Note/home/Где я живу.md",
+    "Note/content/Смотреть позже.md",
+    "Note/projects/homelab/homelab.md",
+    "Note/content/Где смотреть аниме.md",
+    "Note/content/Сайт с крутыми шляпами.md",
+    "Music/Tracks/Rhythm Heaven - Remix 5.md",
+    "Music/Tracks/Discussion -HEAT UP- - Masafumi Takada (🎧️ 1496).md",
+    "Music/Creators/Avocado Boi (🎙️ 203).md",
+    "Music/Playlists/Путешествие (💿 23).md",
+    "Music/Playlists/Джаз (💿 22).md",
+    "Music/Playlists/Любовь (💿 21).md",
+    "Music/Playlists/Драйв (💿 20).md",
     "Music/Tracks/My Soul, Your Beats! (TV Size) - Lia (🎧️ 1750).md",
     "Music/Covers/Lia - My Soul, Your Beats!.jpg",
     "Music/Tracks/Ритм души - Radiant Records (🎧️ 1711).md",
     "Music/Tracks/Tori no Uta - Lia (🎧️ 1741).md",
     "Music/Playlists/100% Шедевр (💿 6).md",
-    "Music/Tracks/Rhythm Heaven - Remix 5.md",
     "Music/Tracks/Toccata and Fugue in D Minor BWV 565 - Bach (🎧️ 1740).md",
-    "Music/Creators/Bach (🎙️ 978).md",
+    "Music/Creators/Bach (🎙️ 977).md",
     "Music/Tracks/The Ecstasy of Gold - Theremin & Voice - Carolina Eyck (🎧️ 1739).md",
-    "Music/Creators/Carolina Eyck (🎙️ 977).md",
+    "Music/Creators/Carolina Eyck (🎙️ 976).md",
     "Music/Tracks/'Shape of You' but it's Smash Mouth singing 'All Star' - Engval Music (🎧️ 1648).md",
-    "Music/Tracks/Bad To the Bone - George Thorogood & The Destroyers (🎧️ 1176).md",
-    "Music/Creators/George Thorogood & The Destroyers (🎙️ 874).md",
-    "Music/Tracks/Bad Romance - Jay Smith (🎧️ 1175).md",
-    "Music/Creators/Jay Smith (🎙️ 873).md",
-    "Music/Tracks/Incredibox The Love - HellYeahPlay (🎧️ 1886).md",
-    "Music/Tracks/Incredibox Sunrise (hey, oh yeah) - HellYeahPlay (🎧️ 1888).md",
-    "Music/Tracks/Incredibox Sunrise - HellYeahPlay (🎧️ 1885).md",
-    "Music/Tracks/Incredibox Little Miss - HellYeahPlay (🎧️ 1887).md",
-    "Music/Tracks/Incredibox Alpha - HellYeahPlay (🎧️ 1884).md",
-    "Music/Creators/LINS (🎙️ 816).md",
-    "Music/Tracks/MILF BOY - LINS (🎧️ 2183).md",
-    "Music/Tracks/DEDTALES - LINS (🎧️ 2055).md",
-    "Music/Tracks/ЧАТ УМРЁТ - LINS (🎧️ 2218).md",
-    "Music/Tracks/ХИККАН (хочется потрогать) - LINS (🎧️ 2216).md",
-    "Music/Tracks/СОФИЯ - LINS (🎧️ 2053).md",
     "Music/Covers/Rotten Toten - Ужин у вдовы.jpg",
     "Music/Covers/Hiroyuki Sawano - LEveL (TV Size).jpg",
     "Music/Covers/Nana Kitade - 18 -eighteen-.jpg",

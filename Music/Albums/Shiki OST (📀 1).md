@@ -4,7 +4,7 @@ aliases:
   - "SHI KI OST"
 Cover: "[[Shiki OST.jpg]]"
 Creators:
-  - "[[Yasuharu Takanashi (🎙️ 751)]]"
+  - "[[Yasuharu Takanashi (🎙️ 749)]]"
 source: https://vgmdb.net/album/25115
 tracklist:
   - "[[Day and Night - Yasuharu Takanashi (🎧️ 1800)]]"

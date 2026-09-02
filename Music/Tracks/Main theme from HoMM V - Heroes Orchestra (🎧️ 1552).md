@@ -7,12 +7,12 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Heroes Orchestra (🎙️ 772)]]"
-  - "[[Paul Romero (🎙️ 773)]]"
+  - "[[Heroes Orchestra (🎙️ 770)]]"
+  - "[[Paul Romero (🎙️ 771)]]"
 ListenInSec: 703
 NumberInAlbum: 1
 related: []
-source: "https://youtu.be/lLFgcPWu2KQ?si=ro8SzikVeSIHlznW"
+source: https://youtu.be/lLFgcPWu2KQ?si=ro8SzikVeSIHlznW
 SourceFile: "[[Heroes Orchestra - Main theme from HoMM V.mp3]]"
 ---
 

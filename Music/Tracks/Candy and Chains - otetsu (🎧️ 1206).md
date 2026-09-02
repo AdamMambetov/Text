@@ -7,8 +7,8 @@ Year: 2015
 Album: "[[Candy and Chains]]"
 CoverOf: ""
 Creators:
-  - "[[otetsu (🎙️ 403)]]"
-ListenInSec: 123
+  - "[[otetsu (🎙️ 401)]]"
+ListenInSec: 240
 NumberInAlbum: 1
 related: []
 source: ""

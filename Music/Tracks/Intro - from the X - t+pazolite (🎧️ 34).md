@@ -7,8 +7,8 @@ Year: 2011
 Album: "[[Answer from X Girlz]]"
 CoverOf: ""
 Creators:
-  - "[[t+pazolite (🎙️ 454)]]"
-ListenInSec: 17
+  - "[[t+pazolite (🎙️ 452)]]"
+ListenInSec: -74
 NumberInAlbum: 0
 related: []
 source: ""

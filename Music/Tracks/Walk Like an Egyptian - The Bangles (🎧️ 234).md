@@ -7,14 +7,10 @@ Year: 2006
 Album: "[[We Are The '80s [2006] {The Bangles}]]"
 CoverOf: ""
 Creators:
-  - "[[The Bangles (🎙️ 534)]]"
-ListenInSec: 512
+  - "[[The Bangles (🎙️ 532)]]"
+ListenInSec: 712
 NumberInAlbum: 3
 related: []
-source:
 SourceFile: "[[The Bangles - Walk Like an Egyptian.mp3]]"
 ---
 
-# The Bangles - Walk Like an Egyptian
-
-![[The Bangles - Walk Like an Egyptian.mp3]]

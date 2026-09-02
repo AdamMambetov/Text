@@ -5,8 +5,8 @@ aliases:
 Cover: "[[BPM OST.jpg]]"
 Year: 2020
 Creators:
-  - "[[Sam Houghton (🎙️ 675)]]"
-  - "[[Joe Collinson (🎙️ 676)]]"
+  - "[[Sam Houghton (🎙️ 673)]]"
+  - "[[Joe Collinson (🎙️ 674)]]"
 source: https://store.steampowered.com/app/1314470/BPM_BULLETS_PER_MINUTE_Soundtrack/
 tracklist:
   - "[[Judgement - Sam Houghton (🎧️ 1612)]]"

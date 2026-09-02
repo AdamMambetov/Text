@@ -7,7 +7,7 @@ Year: 2001
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Smash Mouth (🎙️ 442)]]"
+  - "[[Smash Mouth (🎙️ 440)]]"
 ListenInSec: 361
 NumberInAlbum: 0
 related: []

@@ -10,13 +10,9 @@ Creators:
   - "[[League of Legends (🎙️ 73)]]"
   - "[[2WEI (🎙️ 68)]]"
   - "[[Edda Hayes (🎙️ 72)]]"
-ListenInSec: 410
+ListenInSec: 614
 NumberInAlbum: 0
 related: []
-source: ""
 SourceFile: "[[League of Legends - Warriors.mp3]]"
 ---
 
-# League of Legends - Warriors
-
-![[League of Legends - Warriors.mp3]]

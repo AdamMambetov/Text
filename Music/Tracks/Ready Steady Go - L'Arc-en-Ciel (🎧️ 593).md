@@ -9,7 +9,7 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[L'Arc-en-Ciel (🎙️ 709)]]"
+  - "[[L'Arc-en-Ciel (🎙️ 707)]]"
 ListenInSec: 1321
 NumberInAlbum: 0
 related:

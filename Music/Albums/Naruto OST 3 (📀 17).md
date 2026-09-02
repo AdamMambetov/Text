@@ -4,8 +4,8 @@ aliases:
   - "Naruto OST 3"
 Year: 2004
 Creators:
-  - "[[Toshio Masuda (🎙️ 559)]]"
-  - "[[Musashi Project (🎙️ 560)]]"
+  - "[[Toshio Masuda (🎙️ 557)]]"
+  - "[[Musashi Project (🎙️ 558)]]"
 source: https://vgmdb.net/album/24084
 tracklist:
   - "[[Beautiful Green Wild Beast - Toshio Masuda (🎧️ 382)]]"

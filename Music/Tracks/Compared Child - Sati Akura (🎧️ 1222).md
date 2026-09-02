@@ -7,8 +7,8 @@ Year: 2020
 Album: ""
 CoverOf: "[[Compared Child - TUYU]]"
 Creators:
-  - "[[Sati Akura (🎙️ 357)]]"
-  - "[[saichiopy (🎙️ 684)]]"
+  - "[[Sati Akura (🎙️ 355)]]"
+  - "[[saichiopy (🎙️ 682)]]"
 ListenInSec: 218
 NumberInAlbum: 0
 related: []

@@ -8,7 +8,7 @@ Year: 2021
 Album: ""
 CoverOf: "[[We Drink Your Blood - Powerwolf (🎧️ 202)]]"
 Creators:
-  - "[[RADIO TAPOK (🎙️ 421)]]"
+  - "[[RADIO TAPOK (🎙️ 419)]]"
 ListenInSec: 224
 NumberInAlbum: 0
 related: []

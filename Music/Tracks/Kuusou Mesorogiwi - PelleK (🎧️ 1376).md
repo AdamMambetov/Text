@@ -10,8 +10,8 @@ Year: 2015
 Album: ""
 CoverOf: "[[Kuusou Mesorogiwi - Yousei Teikoku (🎧️ 638)]]"
 Creators:
-  - "[[PelleK (🎙️ 713)]]"
-  - "[[Raon Lee (🎙️ 714)]]"
+  - "[[PelleK (🎙️ 711)]]"
+  - "[[Raon Lee (🎙️ 712)]]"
 ListenInSec: 579
 NumberInAlbum: 0
 related: []

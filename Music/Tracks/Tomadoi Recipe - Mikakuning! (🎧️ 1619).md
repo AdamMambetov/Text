@@ -5,14 +5,14 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
+CoverOf: ""
 Creators:
-  - "[[Mikakuning! (🎙️ 952)]]"
-  - "[[Junky (🎙️ 951)]]"
+  - "[[Mikakuning! (🎙️ 951)]]"
+  - "[[Junky (🎙️ 950)]]"
+ListenInSec: 2475
 NumberInAlbum: 1
 related:
   - "[[Tomadoi Recipe (TV Size) - Mikakuning! (🎧️ 1620)]]"
 SourceFile: "[[Mikakuning! - Tomadoi Recipe.mp3]]"
-ListenInSec: 2410
-CoverOf: ""
 ---
 

@@ -7,8 +7,8 @@ Year: 2021
 Album: "[[Rotten Apples (Original Animation Soundtrack)]]"
 CoverOf: ""
 Creators:
-  - "[[Packtion (🎙️ 914)]]"
-ListenInSec: 91
+  - "[[Packtion (🎙️ 913)]]"
+ListenInSec: 181
 NumberInAlbum: 1
 related: []
 source: ""

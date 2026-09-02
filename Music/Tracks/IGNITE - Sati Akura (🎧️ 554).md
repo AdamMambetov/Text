@@ -11,7 +11,7 @@ Year: 2022
 Album: ""
 CoverOf: "[[IGNITE - Aoi Eir]]"
 Creators:
-  - "[[Sati Akura (🎙️ 357)]]"
+  - "[[Sati Akura (🎙️ 355)]]"
 ListenInSec: 260
 NumberInAlbum: 0
 related: []

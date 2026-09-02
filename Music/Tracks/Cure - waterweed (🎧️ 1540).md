@@ -8,8 +8,8 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[waterweed (🎙️ 754)]]"
-ListenInSec: 643
+  - "[[waterweed (🎙️ 752)]]"
+ListenInSec: 813
 NumberInAlbum: 1
 related:
   - "[[Cure (TV Size) - waterweed (🎧️ 1541)]]"

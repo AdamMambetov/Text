@@ -7,7 +7,7 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Rick Astley (🎙️ 768)]]"
+  - "[[Rick Astley (🎙️ 766)]]"
 ListenInSec: 222
 NumberInAlbum: 1
 related: []

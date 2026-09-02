@@ -7,7 +7,7 @@ Year: 2014
 Album: "[[Savages [2014] {Theory Of A Deadman}]]"
 CoverOf: ""
 Creators:
-  - "[[Theory Of A Deadman (🎙️ 466)]]"
+  - "[[Theory Of A Deadman (🎙️ 464)]]"
 ListenInSec: 208
 NumberInAlbum: 11
 related: []

@@ -10,7 +10,7 @@ Album: ""
 CoverOf: "[[Liar Mask (TV Size) - Rika Mayama (🎧️ 1691)]]"
 Creators:
   - "[[Nika Lenina (🎙️ 45)]]"
-ListenInSec: 122
+ListenInSec: 245
 NumberInAlbum: 0
 related: []
 source: ""

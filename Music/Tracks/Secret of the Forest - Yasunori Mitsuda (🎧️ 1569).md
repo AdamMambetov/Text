@@ -7,14 +7,10 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Yasunori Mitsuda (🎙️ 944)]]"
-ListenInSec: 2941
+  - "[[Yasunori Mitsuda (🎙️ 943)]]"
+ListenInSec: 3213
 NumberInAlbum: 1
 related: []
-source: ""
 SourceFile: "[[Chrono Trigger OST - Secret of the Forest.mp3]]"
 ---
 
-# Chrono Trigger OST - Secret of the Forest
-
-![[Chrono Trigger OST - Secret of the Forest.mp3]]

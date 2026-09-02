@@ -1,12 +1,13 @@
 ---
 created: 2026-06-11T22:37:03+03:00
 aliases:
-  - "InstrumentManiac - Persona 5 - Beneath the Mask"
+  - "Persona 5 - Beneath the Mask"
 Cover: "[[InstrumentManiac - Persona 5 - Beneath the Mask.jpg]]"
 Year: 0
 Album: ""
-CoverOf: ""
-Creators: []
+CoverOf: "[[Bfr's OST - Persona 5 OST 29 - Beneath the Mask]]"
+Creators:
+  - "[[Luke Pickman (🎙️ 777)]]"
 ListenInSec: 586
 NumberInAlbum: 0
 related: []

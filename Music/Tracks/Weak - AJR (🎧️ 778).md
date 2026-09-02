@@ -5,12 +5,12 @@ aliases:
 Cover: "[[AJR - The Click.jpg]]"
 Year: 2017
 Album: "[[The Click]]"
+CoverOf: ""
 Creators:
   - "[[AJR (🎙️ 149)]]"
+ListenInSec: 211
 NumberInAlbum: 3
 related: []
 SourceFile: "[[AJR - Weak.mp3]]"
-ListenInSec: 211
-CoverOf: ""
 ---
 

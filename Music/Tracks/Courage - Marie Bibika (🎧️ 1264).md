@@ -11,7 +11,7 @@ Year: 2019
 Album: ""
 CoverOf: "[[Courage - Haruka Tomatsu (🎧️ 1689)]]"
 Creators:
-  - "[[Marie Bibika (🎙️ 374)]]"
+  - "[[Marie Bibika (🎙️ 372)]]"
 ListenInSec: 249
 NumberInAlbum: 0
 related: []

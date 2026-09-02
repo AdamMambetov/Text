@@ -7,7 +7,7 @@ Year: 2021
 Album: ""
 CoverOf: "[[Lagtrain - inabakumori (🎧️ 4)]]"
 Creators:
-  - "[[Sati Akura (🎙️ 357)]]"
+  - "[[Sati Akura (🎙️ 355)]]"
 ListenInSec: 564
 NumberInAlbum: 0
 related: []

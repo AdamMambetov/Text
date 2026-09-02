@@ -7,7 +7,7 @@ Year: 1983
 Album: "[[Too Low for Zero]]"
 CoverOf: ""
 Creators:
-  - "[[Elton John (🎙️ 845)]]"
+  - "[[Elton John (🎙️ 844)]]"
 ListenInSec: 193
 NumberInAlbum: 2
 related: []

@@ -7,7 +7,7 @@ Year: 2008
 Album: "[[Believers Never Die - Greatest Hits]]"
 CoverOf: ""
 Creators:
-  - "[[Fall Out Boy (🎙️ 306)]]"
+  - "[[Fall Out Boy (🎙️ 304)]]"
 ListenInSec: 457
 NumberInAlbum: 9
 related: []

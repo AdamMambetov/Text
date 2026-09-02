@@ -7,8 +7,8 @@ Year: 2019
 Album: "[[Victorious]]"
 CoverOf: ""
 Creators:
-  - "[[Skillet (🎙️ 440)]]"
-ListenInSec: 99
+  - "[[Skillet (🎙️ 438)]]"
+ListenInSec: 305
 NumberInAlbum: 11
 related: []
 source: ""

@@ -7,9 +7,13 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators: []
-ListenInSec: 1741
+ListenInSec: 2047
 NumberInAlbum: 0
-related: []
+related:
+  - "[[lomb_TV_LombTV - Rhythm_Tengoku_-_Marcher_Marching_Orders]]"
+  - "[[lomb_TV_LombTV - Rhythm_Tengoku_-_The_Clappy_Trio]]"
+  - "[[lomb_TV_LombTV - Rhythm_Tengoku_-_Vegeta_Pull_Rhythm_Tweezers]]"
+  - "[[lomb_TV_LombTV - Rhythm_Tengoku_-_Spaceball_Game]]"
 source: ""
 SourceFile: "[[lomb_TV_LombTV - Rhythm_Tengoku_-_Remix_1.mp3]]"
 ---

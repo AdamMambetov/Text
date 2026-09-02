@@ -4,8 +4,8 @@ aliases:
   - "Naruto OST 2"
 Year: 2004
 Creators:
-  - "[[Toshio Masuda (🎙️ 559)]]"
-  - "[[Musashi Project (🎙️ 560)]]"
+  - "[[Toshio Masuda (🎙️ 557)]]"
+  - "[[Musashi Project (🎙️ 558)]]"
 source: https://vgmdb.net/album/24240
 tracklist:
   - "[[Haruka Kanata - ASIAN KUNG-FU GENERATION (🎧️ 641)]]"

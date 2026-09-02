@@ -9,8 +9,8 @@ Year: 0
 Album: ""
 CoverOf: "[[Danzai no Hana ~Guilty Sky~ - Kosaka Riyu (🎧️ 1585)]]"
 Creators:
-  - "[[Harmony Team (🎙️ 704)]]"
-  - "[[Len (🎙️ 705)]]"
+  - "[[Harmony Team (🎙️ 702)]]"
+  - "[[Len (🎙️ 703)]]"
 ListenInSec: 1319
 NumberInAlbum: 0
 related:

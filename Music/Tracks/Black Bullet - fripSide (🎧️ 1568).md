@@ -8,8 +8,8 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[fripSide (🎙️ 564)]]"
-ListenInSec: 6889
+  - "[[fripSide (🎙️ 562)]]"
+ListenInSec: 7455
 NumberInAlbum: 0
 related: []
 source: ""

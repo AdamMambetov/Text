@@ -7,8 +7,8 @@ Year: 2017
 Album: "[[Young's Old Covers (Nostalgic Movies)]]"
 CoverOf: ""
 Creators:
-  - "[[Jonathan Young (🎙️ 343)]]"
-ListenInSec: 116
+  - "[[Jonathan Young (🎙️ 341)]]"
+ListenInSec: 238
 NumberInAlbum: 36
 related: []
 source: ""

@@ -8,15 +8,11 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[OxT (🎙️ 651)]]"
-ListenInSec: 92
+  - "[[OxT (🎙️ 649)]]"
+ListenInSec: 302
 NumberInAlbum: 0
 related:
   - "[[HIGHEST (TV Size) - OxT (🎧️ 1878)]]"
-source: ""
 SourceFile: "[[OxT - HIGHEST.mp3]]"
 ---
 
-# OxT - HIGHEST
-
-![[OxT - HIGHEST.mp3]]

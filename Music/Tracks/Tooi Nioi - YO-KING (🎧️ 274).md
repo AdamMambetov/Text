@@ -9,7 +9,7 @@ Year: 2013
 Album: "[[Tooi Nioi [2013] {YO-KING}]]"
 CoverOf: ""
 Creators:
-  - "[[YO-KING (🎙️ 485)]]"
+  - "[[YO-KING (🎙️ 483)]]"
 ListenInSec: 314
 NumberInAlbum: 1
 related: []

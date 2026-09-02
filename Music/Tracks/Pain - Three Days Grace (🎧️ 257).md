@@ -7,7 +7,7 @@ Year: 2006
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Three Days Grace (🎙️ 469)]]"
+  - "[[Three Days Grace (🎙️ 467)]]"
 ListenInSec: 508
 NumberInAlbum: 0
 related: []

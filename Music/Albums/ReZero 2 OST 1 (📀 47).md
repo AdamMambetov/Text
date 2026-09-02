@@ -6,7 +6,7 @@ aliases:
 Cover: "[[ReZero 2 OST 1.jpg]]"
 Year: 2020
 Creators:
-  - "[[Kenichiro Suehiro (🎙️ 750)]]"
+  - "[[Kenichiro Suehiro (🎙️ 748)]]"
 source: https://vgmdb.net/album/101216
 tracklist:
   - "[[The Breath of a Vow -2nd Main Theme- - Kenichiro Suehiro (🎧️ 1838)]]"

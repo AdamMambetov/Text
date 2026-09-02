@@ -7,7 +7,7 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Takaya Kuroda (🎙️ 841)]]"
+  - "[[Takaya Kuroda (🎙️ 840)]]"
 ListenInSec: 295
 NumberInAlbum: 1
 related: []

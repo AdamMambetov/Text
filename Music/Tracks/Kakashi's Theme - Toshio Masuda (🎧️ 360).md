@@ -7,7 +7,7 @@ Year: 2003
 Album: "[[Naruto OST 1 (📀 15)]]"
 CoverOf: ""
 Creators:
-  - "[[Toshio Masuda (🎙️ 559)]]"
+  - "[[Toshio Masuda (🎙️ 557)]]"
 ListenInSec: 151
 NumberInAlbum: 11
 related: []

@@ -7,9 +7,9 @@ Year: 2015
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[GYZE (🎙️ 325)]]"
-  - "[[Ettore Rigotti (🎙️ 742)]]"
-ListenInSec: 5288
+  - "[[GYZE (🎙️ 323)]]"
+  - "[[Ettore Rigotti (🎙️ 740)]]"
+ListenInSec: 5322
 NumberInAlbum: 0
 related: []
 SourceFile: "[[GYZE - HONESTY.mp3]]"

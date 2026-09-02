@@ -7,8 +7,8 @@ Year: 2011
 Album: "[[Shiki OST (📀 1)]]"
 CoverOf: ""
 Creators:
-  - "[[Yasuharu Takanashi (🎙️ 751)]]"
-ListenInSec: 836
+  - "[[Yasuharu Takanashi (🎙️ 749)]]"
+ListenInSec: 1160
 NumberInAlbum: 5
 related: []
 source: ""

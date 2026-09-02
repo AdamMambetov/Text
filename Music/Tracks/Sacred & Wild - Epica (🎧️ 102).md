@@ -7,7 +7,7 @@ Year: 2018
 Album: "[[The Sacrament of Sin (📀 39)]]"
 CoverOf: ""
 Creators:
-  - "[[Epica (🎙️ 294)]]"
+  - "[[Epica (🎙️ 292)]]"
 ListenInSec: 305
 NumberInAlbum: 0
 related: []

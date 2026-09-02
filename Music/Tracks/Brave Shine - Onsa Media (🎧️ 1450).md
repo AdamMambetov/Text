@@ -7,8 +7,8 @@ Year: 2020
 Album: ""
 CoverOf: "[[Brave Shine - Aimer]]"
 Creators:
-  - "[[Onsa Media (🎙️ 402)]]"
-  - "[[HaruWei (🎙️ 327)]]"
+  - "[[Onsa Media (🎙️ 400)]]"
+  - "[[HaruWei (🎙️ 325)]]"
 ListenInSec: 463
 NumberInAlbum: 0
 related: []

@@ -8,8 +8,8 @@ Album: "[[Wake Up, Sunshine]]"
 CoverOf: ""
 Creators:
   - "[[All Time Low (🎙️ 169)]]"
-  - "[[blackbear (🎙️ 225)]]"
-ListenInSec: 6
+  - "[[blackbear (🎙️ 223)]]"
+ListenInSec: 174
 NumberInAlbum: 7
 related: []
 source: ""

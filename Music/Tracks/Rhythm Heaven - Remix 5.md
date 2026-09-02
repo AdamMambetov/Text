@@ -7,9 +7,10 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators: []
-ListenInSec: 779
+ListenInSec: 895
 NumberInAlbum: 0
-related: []
+related:
+  - "[[lomb_TV_LombTV - Rhythm_Tengoku_-_Hopping_Road_Bouncy_Road]]"
 source: ""
 SourceFile: "[[Rhythm Heaven - Remix 5.mp3]]"
 ---

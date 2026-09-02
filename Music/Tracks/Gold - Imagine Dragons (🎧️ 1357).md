@@ -7,7 +7,7 @@ Year: 2014
 Album: "[[Smoke + Mirrors]]"
 CoverOf: ""
 Creators:
-  - "[[Imagine Dragons (🎙️ 334)]]"
+  - "[[Imagine Dragons (🎙️ 332)]]"
 ListenInSec: 440
 NumberInAlbum: 2
 related: []

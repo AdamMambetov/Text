@@ -7,8 +7,8 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Scatman John (🎙️ 434)]]"
-ListenInSec: 2308
+  - "[[Scatman John (🎙️ 432)]]"
+ListenInSec: 2349
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Scatman John - Let It Go.mp3]]"

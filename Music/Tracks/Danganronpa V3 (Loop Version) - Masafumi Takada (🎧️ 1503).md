@@ -7,7 +7,7 @@ Year: 2017
 Album: "[[DANGANRONPA V3 OST WHITE  (📀 44)]]"
 CoverOf: ""
 Creators:
-  - "[[Masafumi Takada (🎙️ 792)]]"
+  - "[[Masafumi Takada (🎙️ 790)]]"
 ListenInSec: 704
 NumberInAlbum: 29
 related: []

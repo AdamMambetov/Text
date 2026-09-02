@@ -7,8 +7,8 @@ Year: 2018
 Album: "[[Spider-Man Into the Spider-Verse OST (📀 24)]]"
 CoverOf: ""
 Creators:
-  - "[[Vince Staples (🎙️ 554)]]"
-ListenInSec: 58
+  - "[[Vince Staples (🎙️ 552)]]"
+ListenInSec: -211
 NumberInAlbum: 13
 related: []
 source:

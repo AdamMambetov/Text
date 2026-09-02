@@ -7,7 +7,7 @@ Year: 1982
 Album: "[[Eye of the Tiger]]"
 CoverOf: ""
 Creators:
-  - "[[Survivor (🎙️ 451)]]"
+  - "[[Survivor (🎙️ 449)]]"
 ListenInSec: 299
 NumberInAlbum: 1
 related: []

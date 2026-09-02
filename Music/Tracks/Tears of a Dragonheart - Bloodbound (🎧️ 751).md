@@ -7,7 +7,7 @@ Year: 2017
 Album: "[[War of Dragons]]"
 CoverOf: ""
 Creators:
-  - "[[Bloodbound (🎙️ 228)]]"
+  - "[[Bloodbound (🎙️ 226)]]"
 ListenInSec: 232
 NumberInAlbum: 3
 related: []

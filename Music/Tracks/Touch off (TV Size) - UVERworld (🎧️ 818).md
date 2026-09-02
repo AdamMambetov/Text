@@ -9,8 +9,8 @@ Year: 2019
 Album: "[[Touch off]]"
 CoverOf: ""
 Creators:
-  - "[[UVERworld (🎙️ 475)]]"
-ListenInSec: 96
+  - "[[UVERworld (🎙️ 473)]]"
+ListenInSec: 187
 NumberInAlbum: 1
 related: []
 source: ""

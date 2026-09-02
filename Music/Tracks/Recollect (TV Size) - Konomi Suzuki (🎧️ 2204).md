@@ -9,9 +9,9 @@ Year: 2026
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Konomi Suzuki (🎙️ 353)]]"
-  - "[[Ashnikko (🎙️ 817)]]"
-ListenInSec: 1253
+  - "[[Konomi Suzuki (🎙️ 351)]]"
+  - "[[Ashnikko (🎙️ 815)]]"
+ListenInSec: 1343
 NumberInAlbum: 0
 related:
   - "[[Recollect - Konomi Suzuki (🎧️ 2206)]]"

@@ -7,8 +7,8 @@ Year: 2007
 Album: "[[Umineko no Naku Koro ni OST (📀 30)]]"
 CoverOf: ""
 Creators:
-  - "[[Chiyomaru Shikura (🎙️ 866)]]"
-  - "[[KOKOMI (🎙️ 867)]]"
+  - "[[Chiyomaru Shikura (🎙️ 865)]]"
+  - "[[KOKOMI (🎙️ 866)]]"
 ListenInSec: 430
 NumberInAlbum: 1
 related: []

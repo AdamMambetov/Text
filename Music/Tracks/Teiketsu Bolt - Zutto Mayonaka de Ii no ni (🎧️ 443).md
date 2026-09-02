@@ -7,7 +7,7 @@ Year: 2020
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Zutto Mayonaka de Ii no ni (🎙️ 577)]]"
+  - "[[Zutto Mayonaka de Ii no ni (🎙️ 575)]]"
 ListenInSec: 219
 NumberInAlbum: 0
 related: []

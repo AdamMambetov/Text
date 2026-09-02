@@ -7,9 +7,9 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Jay-Z (🎙️ 340)]]"
-  - "[[Rihanna (🎙️ 656)]]"
-  - "[[Kanye West (🎙️ 348)]]"
+  - "[[Jay-Z (🎙️ 338)]]"
+  - "[[Rihanna (🎙️ 654)]]"
+  - "[[Kanye West (🎙️ 346)]]"
 ListenInSec: 276
 NumberInAlbum: 0
 related: []

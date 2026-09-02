@@ -7,7 +7,7 @@ Year: 2008
 Album: "[[Song Or Suicide]]"
 CoverOf: ""
 Creators:
-  - "[[Nomy (🎙️ 396)]]"
+  - "[[Nomy (🎙️ 394)]]"
 ListenInSec: 252
 NumberInAlbum: 1
 related: []

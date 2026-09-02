@@ -7,8 +7,8 @@ Year: 2016
 Album: "[[Hallelujah]]"
 CoverOf: ""
 Creators:
-  - "[[Theory Of A Deadman (🎙️ 466)]]"
-ListenInSec: 96
+  - "[[Theory Of A Deadman (🎙️ 464)]]"
+ListenInSec: 112
 NumberInAlbum: 1
 related: []
 source: ""

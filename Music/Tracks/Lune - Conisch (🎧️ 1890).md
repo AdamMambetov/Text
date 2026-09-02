@@ -7,8 +7,8 @@ Year: 2021
 Album: "[[Sonny Boy OST (📀 41)]]"
 CoverOf: ""
 Creators:
-  - "[[Conisch (🎙️ 697)]]"
-ListenInSec: 132
+  - "[[Conisch (🎙️ 695)]]"
+ListenInSec: 247
 NumberInAlbum: 17
 related: []
 source: ""

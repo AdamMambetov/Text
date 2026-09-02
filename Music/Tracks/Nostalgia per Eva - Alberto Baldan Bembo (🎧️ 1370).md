@@ -7,8 +7,8 @@ Year: 2017
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Alberto Baldan Bembo (🎙️ 915)]]"
-ListenInSec: 360
+  - "[[Alberto Baldan Bembo (🎙️ 914)]]"
+ListenInSec: 598
 NumberInAlbum: 1
 related: []
 source: ""

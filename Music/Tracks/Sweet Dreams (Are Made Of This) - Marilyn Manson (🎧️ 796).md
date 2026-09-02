@@ -7,7 +7,7 @@ Year: 1995
 Album: "[[Smells Like Children]]"
 CoverOf: ""
 Creators:
-  - "[[Marilyn Manson (🎙️ 852)]]"
+  - "[[Marilyn Manson (🎙️ 851)]]"
 ListenInSec: 203
 NumberInAlbum: 6
 related: []

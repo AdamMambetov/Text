@@ -9,8 +9,8 @@ Year: 0
 Album: ""
 CoverOf: "[[Danzai no Hana ~Guilty Sky~ (TV Size) - Kosaka Riyu]]"
 Creators:
-  - "[[Harmony Team (🎙️ 704)]]"
-  - "[[Len (🎙️ 705)]]"
+  - "[[Harmony Team (🎙️ 702)]]"
+  - "[[Len (🎙️ 703)]]"
 ListenInSec: 524
 NumberInAlbum: 0
 related:

@@ -10,8 +10,8 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Yui Makino (🎙️ 825)]]"
-ListenInSec: 3016
+  - "[[Yui Makino (🎙️ 824)]]"
+ListenInSec: 3509
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Yui Makino - Reset.mp3]]"

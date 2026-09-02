@@ -7,7 +7,7 @@ Year: 1988
 Album:
 CoverOf: ""
 Creators:
-  - "[[Gipsy Kings (🎙️ 875)]]"
+  - "[[Gipsy Kings (🎙️ 874)]]"
 ListenInSec: 233
 NumberInAlbum: 1
 related: []

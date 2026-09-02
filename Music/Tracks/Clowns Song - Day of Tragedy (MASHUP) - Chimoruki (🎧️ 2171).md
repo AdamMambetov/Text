@@ -7,7 +7,7 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Chimoruki (🎙️ 260)]]"
+  - "[[Chimoruki (🎙️ 258)]]"
 ListenInSec: 625
 NumberInAlbum: 0
 related:

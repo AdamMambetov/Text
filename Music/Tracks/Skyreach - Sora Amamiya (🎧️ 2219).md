@@ -7,13 +7,13 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
+CoverOf: ""
 Creators:
-  - "[[Sora Amamiya (🎙️ 818)]]"
+  - "[[Sora Amamiya (🎙️ 816)]]"
+ListenInSec: 4789
 NumberInAlbum: 0
 related:
   - "[[Skyreach (TV Size) - Sora Amamiya (🎧️ 2218)]]"
 SourceFile: "[[Sora Amamiya - Skyreach.opus]]"
-ListenInSec: 4253
-CoverOf: ""
 ---
 

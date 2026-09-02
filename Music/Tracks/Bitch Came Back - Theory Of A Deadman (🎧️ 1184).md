@@ -7,7 +7,7 @@ Year: 2011
 Album: "[[The Truth Is...]]"
 CoverOf: ""
 Creators:
-  - "[[Theory Of A Deadman (🎙️ 466)]]"
+  - "[[Theory Of A Deadman (🎙️ 464)]]"
 ListenInSec: 221
 NumberInAlbum: 2
 related: []

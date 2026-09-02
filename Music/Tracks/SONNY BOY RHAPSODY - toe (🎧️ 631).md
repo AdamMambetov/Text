@@ -7,7 +7,7 @@ Year: 2021
 Album: "[[Sonny Boy OST (📀 41)]]"
 CoverOf: ""
 Creators:
-  - "[[toe (🎙️ 696)]]"
+  - "[[toe (🎙️ 694)]]"
 ListenInSec: 223
 NumberInAlbum: 16
 related: []

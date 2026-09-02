@@ -7,7 +7,7 @@ Year: 0
 Album: ""
 CoverOf: "[[Susumu Hirasawa - BERSERK -Forces-]]"
 Creators:
-  - "[[Harmony Team (🎙️ 704)]]"
+  - "[[Harmony Team (🎙️ 702)]]"
 ListenInSec: 1115
 NumberInAlbum: 0
 related: []

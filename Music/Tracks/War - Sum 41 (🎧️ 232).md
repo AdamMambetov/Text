@@ -7,8 +7,8 @@ Year: 2016
 Album: "[[13 Voices [2016] {Sum 41}]]"
 CoverOf: ""
 Creators:
-  - "[[Sum 41 (🎙️ 447)]]"
-ListenInSec: 210
+  - "[[Sum 41 (🎙️ 445)]]"
+ListenInSec: 213
 NumberInAlbum: 7
 related: []
 source: ""

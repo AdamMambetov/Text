@@ -7,8 +7,8 @@ Year: 2021
 Album: "[[Sonny Boy OST (📀 41)]]"
 CoverOf: ""
 Creators:
-  - "[[The Natsuyasumi Band (🎙️ 692)]]"
-ListenInSec: 280
+  - "[[The Natsuyasumi Band (🎙️ 690)]]"
+ListenInSec: 556
 NumberInAlbum: 5
 related: []
 source: ""

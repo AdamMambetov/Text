@@ -7,8 +7,8 @@ Year: 2008
 Album: "[[The Dungeonmaster's Guide]]"
 CoverOf: ""
 Creators:
-  - "[[Stratus (🎙️ 856)]]"
-ListenInSec: 51
+  - "[[Stratus (🎙️ 855)]]"
+ListenInSec: 60
 NumberInAlbum: 4
 related: []
 source: ""

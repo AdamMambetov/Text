@@ -8,7 +8,7 @@ Year: 2002
 Album: "[[Neko no Ongaeshi OST (📀 28)]]"
 CoverOf: ""
 Creators:
-  - "[[Ayano Tsuji (🎙️ 472)]]"
+  - "[[Ayano Tsuji (🎙️ 470)]]"
 ListenInSec: 468
 NumberInAlbum: 0
 related: []

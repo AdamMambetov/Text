@@ -7,7 +7,7 @@ Year: 2012
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Halestorm (🎙️ 507)]]"
+  - "[[Halestorm (🎙️ 505)]]"
 ListenInSec: 191
 NumberInAlbum: 0
 related: []

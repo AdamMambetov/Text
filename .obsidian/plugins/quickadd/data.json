@@ -500,6 +500,7 @@
   "inputPrompt": "single-line",
   "persistInputPromptDrafts": true,
   "useSelectionAsCaptureValue": true,
+  "namePastedImagesAfterNoteTitle": false,
   "searchNestedChoices": true,
   "templateFolderLauncherRow": "bottom",
   "devMode": false,
@@ -507,7 +508,7 @@
     "Note/templates"
   ],
   "announceUpdates": "none",
-  "version": "2.22.0",
+  "version": "2.24.0",
   "globalVariables": {},
   "onePageInputEnabled": false,
   "disableOnlineFeatures": true,

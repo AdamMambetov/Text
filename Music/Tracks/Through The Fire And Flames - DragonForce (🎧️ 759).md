@@ -7,7 +7,7 @@ Year: 2005
 Album: "[[Inhuman Rampage]]"
 CoverOf: ""
 Creators:
-  - "[[DragonForce (🎙️ 296)]]"
+  - "[[DragonForce (🎙️ 294)]]"
 ListenInSec: 357
 NumberInAlbum: 1
 related: []

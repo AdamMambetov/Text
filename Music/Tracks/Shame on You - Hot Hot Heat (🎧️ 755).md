@@ -7,7 +7,7 @@ Year: 2005
 Album: "[[Elevator]]"
 CoverOf: ""
 Creators:
-  - "[[Hot Hot Heat (🎙️ 848)]]"
+  - "[[Hot Hot Heat (🎙️ 847)]]"
 ListenInSec: 336
 NumberInAlbum: 13
 related: []

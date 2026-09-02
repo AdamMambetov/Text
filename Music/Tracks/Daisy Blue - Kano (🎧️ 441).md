@@ -7,7 +7,7 @@ Year: 2017
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Kano (🎙️ 346)]]"
+  - "[[Kano (🎙️ 344)]]"
 ListenInSec: 509
 NumberInAlbum: 0
 related: []

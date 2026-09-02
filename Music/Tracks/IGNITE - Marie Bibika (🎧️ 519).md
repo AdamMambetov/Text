@@ -11,8 +11,8 @@ Year: 0
 Album: ""
 CoverOf: "[[IGNITE - Aoi Eir]]"
 Creators:
-  - "[[Marie Bibika (🎙️ 374)]]"
-ListenInSec: 144
+  - "[[Marie Bibika (🎙️ 372)]]"
+ListenInSec: 291
 NumberInAlbum: 0
 related:
   - "[[IGNITE (TV Size) - Marie Bibika (🎧️ 501)]]"

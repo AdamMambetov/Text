@@ -7,8 +7,8 @@ Year: 2014
 Album: "[[Listen]]"
 CoverOf: ""
 Creators:
-  - "[[David Guetta (🎙️ 279)]]"
-  - "[[Bebe Rexha (🎙️ 217)]]"
+  - "[[David Guetta (🎙️ 277)]]"
+  - "[[Bebe Rexha (🎙️ 216)]]"
   - "[[Afrojack (🎙️ 156)]]"
 ListenInSec: 201
 NumberInAlbum: 10

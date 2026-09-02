@@ -7,7 +7,7 @@ Year: 2020
 Album: "[[Leo Metal, Vol. 31]]"
 CoverOf: ""
 Creators:
-  - "[[Leo Moracchioli (🎙️ 890)]]"
+  - "[[Leo Moracchioli (🎙️ 889)]]"
 ListenInSec: 184
 NumberInAlbum: 2
 related: []

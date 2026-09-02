@@ -7,8 +7,8 @@ Year: 2021
 Album: "[[Mercury - Act 1]]"
 CoverOf: ""
 Creators:
-  - "[[Imagine Dragons (🎙️ 334)]]"
-  - "[[J.I.D (🎙️ 335)]]"
+  - "[[Imagine Dragons (🎙️ 332)]]"
+  - "[[J.I.D (🎙️ 333)]]"
   - "[[League of Legends (🎙️ 73)]]"
 ListenInSec: 673
 NumberInAlbum: 1

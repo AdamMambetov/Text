@@ -8,8 +8,8 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Casey Edwards (🎙️ 793)]]"
-ListenInSec: 6144
+  - "[[Casey Edwards (🎙️ 791)]]"
+ListenInSec: 6659
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Casey Edwards - Devil Trigger - Nero's battle theme from Devil May Cry 5 [OFFICIAL AUDIO].mp3]]"

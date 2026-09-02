@@ -8,7 +8,7 @@ Year: 2021
 Album: ""
 CoverOf: "[[Fukashigi no Carte - Asami Seto (🎧️ 1774)]]"
 Creators:
-  - "[[Onsa Media (🎙️ 402)]]"
+  - "[[Onsa Media (🎙️ 400)]]"
 ListenInSec: 255
 NumberInAlbum: 1
 related: []

@@ -5,7 +5,7 @@ aliases:
 Cover: "[[Konomi Suzuki - Redo.jpg]]"
 Year: 2016
 Creators:
-  - "[[Konomi Suzuki (🎙️ 353)]]"
+  - "[[Konomi Suzuki (🎙️ 351)]]"
 source: https://vgmdb.net/album/57297
 tracklist:
   - "[[Redo - Konomi Suzuki (🎧️ 1466)]]"

@@ -7,7 +7,7 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[YOASOBI (🎙️ 659)]]"
+  - "[[YOASOBI (🎙️ 657)]]"
 ListenInSec: 478
 NumberInAlbum: 0
 related:

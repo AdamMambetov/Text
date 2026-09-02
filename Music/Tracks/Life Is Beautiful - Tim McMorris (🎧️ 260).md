@@ -7,8 +7,8 @@ Year: 2014
 Album: "[[Alive [2014] {Tim McMorris}]]"
 CoverOf: ""
 Creators:
-  - "[[Tim McMorris (🎙️ 470)]]"
-ListenInSec: 130
+  - "[[Tim McMorris (🎙️ 468)]]"
+ListenInSec: 268
 NumberInAlbum: 9
 related: []
 source: ""

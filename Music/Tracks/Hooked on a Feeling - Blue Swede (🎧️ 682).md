@@ -7,7 +7,7 @@ Year: 1973
 Album: "[[Hooked on a Feeling]]"
 CoverOf: ""
 Creators:
-  - "[[Blue Swede (🎙️ 231)]]"
+  - "[[Blue Swede (🎙️ 229)]]"
 ListenInSec: 175
 NumberInAlbum: 1
 related: []

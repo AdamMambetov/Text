@@ -7,8 +7,8 @@ Year: 2006
 Album: "[[Reality Check [2006] {Juvenile; Wacko}]]"
 CoverOf: ""
 Creators:
-  - "[[Juvenile (🎙️ 541)]]"
-  - "[[Wacko (🎙️ 542)]]"
+  - "[[Juvenile (🎙️ 539)]]"
+  - "[[Wacko (🎙️ 540)]]"
 ListenInSec: 253
 NumberInAlbum: 4
 related: []

@@ -7,7 +7,7 @@ Year: 2000
 Album: "[[The Platinum Collection]]"
 CoverOf: ""
 Creators:
-  - "[[Queen (🎙️ 420)]]"
+  - "[[Queen (🎙️ 418)]]"
 ListenInSec: 211
 NumberInAlbum: 7
 related: []

@@ -7,14 +7,10 @@ Year: 2012
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Thousand Foot Krutch (🎙️ 468)]]"
-ListenInSec: 694
+  - "[[Thousand Foot Krutch (🎙️ 466)]]"
+ListenInSec: 925
 NumberInAlbum: 0
 related: []
-source: ""
 SourceFile: "[[Thousand Foot Krutch - War of Change.mp3]]"
 ---
 
-# Thousand Foot Krutch - War of Change
-
-![[Thousand Foot Krutch - War of Change.mp3]]

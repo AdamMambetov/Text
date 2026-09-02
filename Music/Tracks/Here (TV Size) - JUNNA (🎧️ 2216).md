@@ -8,8 +8,8 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[JUNNA (🎙️ 819)]]"
-ListenInSec: 2343
+  - "[[JUNNA (🎙️ 817)]]"
+ListenInSec: 2433
 NumberInAlbum: 0
 related: []
 SourceFile: "[[JUNNA - Here (TV Size).opus]]"

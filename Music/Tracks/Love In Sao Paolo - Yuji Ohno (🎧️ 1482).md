@@ -7,8 +7,8 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Yuji Ohno (🎙️ 729)]]"
-ListenInSec: 237
+  - "[[Yuji Ohno (🎙️ 727)]]"
+ListenInSec: 313
 NumberInAlbum: 0
 related: []
 source: ""

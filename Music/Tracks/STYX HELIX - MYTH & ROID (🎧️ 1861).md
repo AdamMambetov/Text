@@ -9,7 +9,7 @@ Year: 2016
 Album: "[[STYX HELIX (📀 50)]]"
 CoverOf: ""
 Creators:
-  - "[[MYTH & ROID (🎙️ 384)]]"
+  - "[[MYTH & ROID (🎙️ 382)]]"
 ListenInSec: 378
 NumberInAlbum: 1
 related:

@@ -7,8 +7,8 @@ Year: 2006
 Album: "[[The Human Resource]]"
 CoverOf: ""
 Creators:
-  - "[[Evol Intent (🎙️ 857)]]"
-ListenInSec: 27
+  - "[[Evol Intent (🎙️ 856)]]"
+ListenInSec: 34
 NumberInAlbum: 10
 related: []
 source: ""

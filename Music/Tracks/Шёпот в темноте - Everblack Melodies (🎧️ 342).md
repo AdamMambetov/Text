@@ -7,7 +7,7 @@ Year: 2020
 Album: "[[Шёпот в темноте]]"
 CoverOf: ""
 Creators:
-  - "[[Everblack Melodies (🎙️ 305)]]"
+  - "[[Everblack Melodies (🎙️ 303)]]"
 ListenInSec: 210
 NumberInAlbum: 1
 related: []

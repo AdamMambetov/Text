@@ -9,7 +9,7 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Rie Takahashi (🎙️ 683)]]"
+  - "[[Rie Takahashi (🎙️ 681)]]"
 ListenInSec: 286
 NumberInAlbum: 0
 related:

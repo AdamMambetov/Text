@@ -9,7 +9,7 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Shinsei Kamattechan (🎙️ 653)]]"
+  - "[[Shinsei Kamattechan (🎙️ 651)]]"
 ListenInSec: 551
 NumberInAlbum: 0
 related: []

@@ -5,7 +5,7 @@ aliases:
 Cover: "[[Powerwolf - The Sacrament of Sin.jpg]]"
 Year: 2018
 Creators:
-  - "[[Powerwolf (🎙️ 418)]]"
+  - "[[Powerwolf (🎙️ 416)]]"
 tracklist:
   - "[[Fire & Forgive - Powerwolf (🎧️ 1337)]]"
   - "[[Demons Are a Girl's Best Friend - Powerwolf (🎧️ 1255)]]"

@@ -6,7 +6,7 @@ aliases:
 Cover: "[[danganronpa_v3_ost_white_cover.jpg]]"
 Year: 2017
 Creators:
-  - "[[Masafumi Takada (🎙️ 792)]]"
+  - "[[Masafumi Takada (🎙️ 790)]]"
 source: https://vgmdb.net/album/64627
 tracklist:
   - "[[Danganronpa V3 - Masafumi Takada (🎧️ 1498)]]"

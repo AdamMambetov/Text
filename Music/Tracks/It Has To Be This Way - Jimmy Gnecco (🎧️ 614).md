@@ -7,7 +7,7 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Jimmy Gnecco (🎙️ 840)]]"
+  - "[[Jimmy Gnecco (🎙️ 839)]]"
 ListenInSec: 697
 NumberInAlbum: 1
 related: []

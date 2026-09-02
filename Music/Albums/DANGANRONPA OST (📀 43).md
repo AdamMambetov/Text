@@ -6,7 +6,7 @@ aliases:
 Cover: "[[danganronpa_ost_cover.jpg]]"
 Year: 2011
 Creators:
-  - "[[Masafumi Takada (🎙️ 792)]]"
+  - "[[Masafumi Takada (🎙️ 790)]]"
 source: https://vgmdb.net/album/23469
 tracklist:
   - "[[Trigger Happy Havoc - Masafumi Takada (🎧️ 1489)]]"

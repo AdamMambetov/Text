@@ -9,9 +9,9 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Kugimiya Rie (🎙️ 331)]]"
-  - "[[Horie Yui (🎙️ 332)]]"
-  - "[[Kitamura Eri (🎙️ 333)]]"
+  - "[[Kugimiya Rie (🎙️ 329)]]"
+  - "[[Horie Yui (🎙️ 330)]]"
+  - "[[Kitamura Eri (🎙️ 331)]]"
 ListenInSec: 4712
 NumberInAlbum: 0
 related:

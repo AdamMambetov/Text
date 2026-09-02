@@ -7,7 +7,7 @@ Year: 2019
 Album: "[[The Best Of Pentatonix Christmas]]"
 CoverOf: ""
 Creators:
-  - "[[Pentatonix (🎙️ 574)]]"
+  - "[[Pentatonix (🎙️ 572)]]"
 ListenInSec: 149
 NumberInAlbum: 10
 related: []

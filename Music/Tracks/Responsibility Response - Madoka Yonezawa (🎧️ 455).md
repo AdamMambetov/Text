@@ -7,7 +7,7 @@ Year: 2016
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Madoka Yonezawa (🎙️ 338)]]"
+  - "[[Madoka Yonezawa (🎙️ 336)]]"
 ListenInSec: 169
 NumberInAlbum: 0
 related: []

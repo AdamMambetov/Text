@@ -7,8 +7,8 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Shawn Wasabi (🎙️ 612)]]"
-  - "[[YUNG GEMMY (🎙️ 613)]]"
+  - "[[Shawn Wasabi (🎙️ 610)]]"
+  - "[[YUNG GEMMY (🎙️ 611)]]"
 ListenInSec: 169
 NumberInAlbum: 1
 related: []

@@ -8,8 +8,8 @@ Year: 1997
 Album: "[[BERSERK OST (📀 6)]]"
 CoverOf: ""
 Creators:
-  - "[[Susumu Hirasawa (🎙️ 452)]]"
-ListenInSec: 218
+  - "[[Susumu Hirasawa (🎙️ 450)]]"
+ListenInSec: 432
 NumberInAlbum: 4
 related: []
 source: ""

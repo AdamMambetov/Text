@@ -9,8 +9,8 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[NIGHTMARE (🎙️ 667)]]"
-ListenInSec: 3469
+  - "[[NIGHTMARE (🎙️ 665)]]"
+ListenInSec: 3499
 NumberInAlbum: 0
 related:
   - "[[the WORLD (TV Size) - NIGHTMARE]]"

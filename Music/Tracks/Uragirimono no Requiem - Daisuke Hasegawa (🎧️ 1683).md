@@ -7,8 +7,8 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Daisuke Hasegawa (🎙️ 968)]]"
-ListenInSec: 531
+  - "[[Daisuke Hasegawa (🎙️ 967)]]"
+ListenInSec: 538
 NumberInAlbum: 0
 related: []
 source: ""

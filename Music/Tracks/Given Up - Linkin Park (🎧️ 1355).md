@@ -7,7 +7,7 @@ Year: 2007
 Album: "[[Minutes to Midnight]]"
 CoverOf: ""
 Creators:
-  - "[[Linkin Park (🎙️ 363)]]"
+  - "[[Linkin Park (🎙️ 361)]]"
 ListenInSec: 415
 NumberInAlbum: 2
 related: []

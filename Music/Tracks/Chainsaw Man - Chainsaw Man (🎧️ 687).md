@@ -7,8 +7,8 @@ Year: 2020
 Album: "[[Chainsaw Man]]"
 CoverOf: ""
 Creators:
-  - "[[Chainsaw Man (🎙️ 253)]]"
-ListenInSec: 135
+  - "[[Chainsaw Man (🎙️ 251)]]"
+ListenInSec: 228
 NumberInAlbum: 1
 related: []
 source: ""

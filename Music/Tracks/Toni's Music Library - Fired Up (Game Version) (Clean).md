@@ -7,7 +7,7 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators: []
-ListenInSec: 95
+ListenInSec: 297
 NumberInAlbum: 0
 related:
   - "[[Fired Up - Hush (🎧️ 1339)]]"

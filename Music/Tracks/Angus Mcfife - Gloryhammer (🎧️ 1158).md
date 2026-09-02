@@ -7,7 +7,7 @@ Year: 2013
 Album: "[[Tales from the Kingdom of Fife]]"
 CoverOf: ""
 Creators:
-  - "[[Gloryhammer (🎙️ 316)]]"
+  - "[[Gloryhammer (🎙️ 314)]]"
 ListenInSec: 221
 NumberInAlbum: 3
 related: []

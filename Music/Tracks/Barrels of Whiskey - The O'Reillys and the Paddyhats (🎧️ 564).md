@@ -7,7 +7,7 @@ Year: 2017
 Album: "[[Seven Hearts One Soul]]"
 CoverOf: ""
 Creators:
-  - "[[The O'Reillys and the Paddyhats (🎙️ 643)]]"
+  - "[[The O'Reillys and the Paddyhats (🎙️ 641)]]"
 ListenInSec: 238
 NumberInAlbum: 6
 related: []

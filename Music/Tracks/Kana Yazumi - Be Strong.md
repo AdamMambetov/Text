@@ -10,7 +10,7 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Kana Yazumi (🎙️ 822)]]"
+  - "[[Kana Yazumi (🎙️ 821)]]"
 ListenInSec: 3656
 NumberInAlbum: 0
 related:

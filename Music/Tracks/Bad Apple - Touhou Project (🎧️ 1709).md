@@ -5,12 +5,12 @@ aliases:
 Cover: "[[Touhou Project - Bad Apple.jpg]]"
 Year: 0
 Album: ""
+CoverOf: ""
 Creators:
   - "[[Touhou Project (🎙️ 37)]]"
+ListenInSec: 2840
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Touhou Project - Bad Apple.mp3]]"
-ListenInSec: 2793
-CoverOf: ""
 ---
 

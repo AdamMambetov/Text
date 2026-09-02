@@ -8,7 +8,7 @@ Album: "[[Stay With Me]]"
 CoverOf: ""
 Creators:
   - "[[AcesToAces (🎙️ 145)]]"
-ListenInSec: 85
+ListenInSec: 133
 NumberInAlbum: 1
 related:
   - "[[Stay With Me - Miki Matsubara (🎧️ 587)]]"

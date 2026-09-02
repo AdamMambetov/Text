@@ -7,7 +7,7 @@ Year: 2004
 Album: "[[Siren Song of the Counter Culture]]"
 CoverOf: ""
 Creators:
-  - "[[Rise Against (🎙️ 769)]]"
+  - "[[Rise Against (🎙️ 767)]]"
 ListenInSec: 170
 NumberInAlbum: 17
 related: []

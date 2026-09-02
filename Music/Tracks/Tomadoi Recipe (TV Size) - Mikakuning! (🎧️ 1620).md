@@ -7,8 +7,8 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Mikakuning! (🎙️ 952)]]"
-  - "[[Junky (🎙️ 951)]]"
+  - "[[Mikakuning! (🎙️ 951)]]"
+  - "[[Junky (🎙️ 950)]]"
 ListenInSec: 613
 NumberInAlbum: 1
 related:

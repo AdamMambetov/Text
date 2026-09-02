@@ -9,8 +9,8 @@ Year: 0
 Album: ""
 CoverOf: "[[Kimi no Shiranai Monogatari (TV Size) - supercell (🎧️ 1637)]]"
 Creators:
-  - "[[ClariS (🎙️ 264)]]"
-ListenInSec: 138
+  - "[[ClariS (🎙️ 262)]]"
+ListenInSec: 261
 NumberInAlbum: 0
 related: []
 source: ""

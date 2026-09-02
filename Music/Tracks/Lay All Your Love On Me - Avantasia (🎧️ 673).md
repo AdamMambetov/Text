@@ -8,7 +8,7 @@ Album: "[[Lost In Space]]"
 CoverOf: ""
 Creators:
   - "[[Avantasia (🎙️ 200)]]"
-ListenInSec: 296
+ListenInSec: 309
 NumberInAlbum: 2
 related: []
 source: ""

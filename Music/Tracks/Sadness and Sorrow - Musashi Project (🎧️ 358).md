@@ -7,8 +7,8 @@ Year: 2003
 Album: "[[Naruto OST 1 (📀 15)]]"
 CoverOf: ""
 Creators:
-  - "[[Musashi Project (🎙️ 560)]]"
-ListenInSec: 1237
+  - "[[Musashi Project (🎙️ 558)]]"
+ListenInSec: 1255
 NumberInAlbum: 8
 related: []
 source:

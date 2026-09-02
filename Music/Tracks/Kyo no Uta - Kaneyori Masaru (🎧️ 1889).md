@@ -7,7 +7,7 @@ Year: 2021
 Album: "[[Sonny Boy OST (📀 41)]]"
 CoverOf: ""
 Creators:
-  - "[[Kaneyori Masaru (🎙️ 699)]]"
+  - "[[Kaneyori Masaru (🎙️ 697)]]"
 ListenInSec: 476
 NumberInAlbum: 13
 related: []

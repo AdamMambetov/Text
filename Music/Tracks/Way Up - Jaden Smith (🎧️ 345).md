@@ -7,8 +7,8 @@ Year: 2018
 Album: "[[Spider-Man Into the Spider-Verse OST (📀 24)]]"
 CoverOf: ""
 Creators:
-  - "[[Jaden Smith (🎙️ 550)]]"
-ListenInSec: 156
+  - "[[Jaden Smith (🎙️ 548)]]"
+ListenInSec: 305
 NumberInAlbum: 3
 related: []
 source:

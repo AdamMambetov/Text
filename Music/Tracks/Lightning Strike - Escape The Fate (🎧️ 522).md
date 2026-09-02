@@ -7,8 +7,8 @@ Year: 2021
 Album: "[[Chemical Warfare]]"
 CoverOf: ""
 Creators:
-  - "[[Escape The Fate (🎙️ 303)]]"
-ListenInSec: 103
+  - "[[Escape The Fate (🎙️ 301)]]"
+ListenInSec: 269
 NumberInAlbum: 1
 related: []
 source: ""

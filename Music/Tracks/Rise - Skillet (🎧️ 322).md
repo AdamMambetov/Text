@@ -7,7 +7,7 @@ Year: 2013
 Album: "[[Rise [2013] {Skillet}]]"
 CoverOf: ""
 Creators:
-  - "[[Skillet (🎙️ 440)]]"
+  - "[[Skillet (🎙️ 438)]]"
 ListenInSec: 377
 NumberInAlbum: 1
 related: []

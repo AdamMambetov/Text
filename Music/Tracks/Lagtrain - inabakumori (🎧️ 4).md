@@ -7,7 +7,7 @@ Year: 2020
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[inabakumori (🎙️ 336)]]"
+  - "[[inabakumori (🎙️ 334)]]"
 ListenInSec: 267
 NumberInAlbum: 0
 related: []

@@ -7,7 +7,7 @@ Year: 2005
 Album: "[[From Under the Cork Tree]]"
 CoverOf: ""
 Creators:
-  - "[[Fall Out Boy (🎙️ 306)]]"
+  - "[[Fall Out Boy (🎙️ 304)]]"
 ListenInSec: 356
 NumberInAlbum: 3
 related: []

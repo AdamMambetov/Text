@@ -9,7 +9,7 @@ Year: 2021
 Album: "[[Sonny Boy OST (📀 41)]]"
 CoverOf: ""
 Creators:
-  - "[[GING NANG BOYS (🎙️ 670)]]"
+  - "[[GING NANG BOYS (🎙️ 668)]]"
 ListenInSec: 878
 NumberInAlbum: 1
 related:

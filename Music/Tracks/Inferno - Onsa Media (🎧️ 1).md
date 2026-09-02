@@ -9,8 +9,8 @@ Year: 2019
 Album: ""
 CoverOf: "[[Inferno - Mrs. GREEN APPLE (🎧️ 166)]]"
 Creators:
-  - "[[Onsa Media (🎙️ 402)]]"
-  - "[[Kabuto (🎙️ 652)]]"
+  - "[[Onsa Media (🎙️ 400)]]"
+  - "[[Kabuto (🎙️ 650)]]"
 ListenInSec: 191
 NumberInAlbum: 0
 related: []

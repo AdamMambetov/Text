@@ -7,7 +7,7 @@ Year: 2012
 Album: "[[Born to Die: The Paradise Edition [2012] {Lana Del Rey}]]"
 CoverOf: ""
 Creators:
-  - "[[Lana Del Rey (🎙️ 543)]]"
+  - "[[Lana Del Rey (🎙️ 541)]]"
 ListenInSec: 289
 NumberInAlbum: 11
 related: []

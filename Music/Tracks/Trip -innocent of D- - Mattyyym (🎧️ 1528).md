@@ -7,8 +7,8 @@ Year: 0
 Album: ""
 CoverOf: "[[Trip -innocent of D- - Larval Stage Planning (🎧️ 622)]]"
 Creators:
-  - "[[Mattyyym (🎙️ 700)]]"
-ListenInSec: 299
+  - "[[Mattyyym (🎙️ 698)]]"
+ListenInSec: 550
 NumberInAlbum: 0
 related: []
 source: ""

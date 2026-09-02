@@ -8,7 +8,7 @@ Album: "[[Umbrella]]"
 CoverOf: ""
 Creators:
   - "[[All Time Low (🎙️ 169)]]"
-ListenInSec: 223
+ListenInSec: 452
 NumberInAlbum: 1
 related: []
 source: ""

@@ -7,8 +7,8 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Paul Romero (🎙️ 773)]]"
-ListenInSec: 114
+  - "[[Paul Romero (🎙️ 771)]]"
+ListenInSec: 125
 NumberInAlbum: 1
 related: []
 source: ""

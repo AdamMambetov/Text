@@ -7,7 +7,7 @@ Year: 2016
 Album: "[[The Most Beautiful Moment in Life: Young Forever]]"
 CoverOf: ""
 Creators:
-  - "[[BTS (🎙️ 241)]]"
+  - "[[BTS (🎙️ 239)]]"
 ListenInSec: 409
 NumberInAlbum: 10
 related: []

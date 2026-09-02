@@ -5,7 +5,7 @@ aliases:
 Cover: "[[Paprika OST.jpg]]"
 Year: 2006
 Creators:
-  - "[[Susumu Hirasawa (🎙️ 452)]]"
+  - "[[Susumu Hirasawa (🎙️ 450)]]"
 tracklist: []
 ---
 

@@ -9,7 +9,7 @@ Year: 0
 Album: ""
 CoverOf: "[[Yuusha - YOASOBI (🎧️ 1550)]]"
 Creators:
-  - "[[Sati Akura (🎙️ 357)]]"
+  - "[[Sati Akura (🎙️ 355)]]"
 ListenInSec: 1503
 NumberInAlbum: 1
 related: []

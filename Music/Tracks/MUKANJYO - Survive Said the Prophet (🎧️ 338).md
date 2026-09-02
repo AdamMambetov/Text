@@ -9,8 +9,8 @@ Year: 2019
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Survive Said the Prophet (🎙️ 450)]]"
-ListenInSec: 758
+  - "[[Survive Said the Prophet (🎙️ 448)]]"
+ListenInSec: 854
 NumberInAlbum: 0
 related:
   - "[[MUKANJYO (TV Size) - Survive Said the Prophet]]"

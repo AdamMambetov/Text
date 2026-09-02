@@ -8,8 +8,8 @@ Year: 2017
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Plamenev (🎙️ 414)]]"
-ListenInSec: 285
+  - "[[Plamenev (🎙️ 412)]]"
+ListenInSec: 732
 NumberInAlbum: 0
 related:
   - "[[Out of Death - Plamenev (🎧️ 902)]]"

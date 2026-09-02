@@ -7,7 +7,7 @@ Year: 2008
 Album: "[[Swan Songs]]"
 CoverOf: ""
 Creators:
-  - "[[Hollywood Undead (🎙️ 330)]]"
+  - "[[Hollywood Undead (🎙️ 328)]]"
 ListenInSec: 162
 NumberInAlbum: 10
 related: []

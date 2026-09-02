@@ -5,14 +5,14 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
-CoverOf:
+CoverOf: ""
 Creators:
-  - "[[The Blasting Company (🎙️ 918)]]"
-  - "[[Leah Harmon (🎙️ 920)]]"
-  - "[[Justin Rubenstein (🎙️ 921)]]"
-  - "[[J.R. Kaufman (🎙️ 922)]]"
-  - "[[Brandon Armstrong (🎙️ 923)]]"
-ListenInSec: 95
+  - "[[The Blasting Company (🎙️ 917)]]"
+  - "[[Leah Harmon (🎙️ 919)]]"
+  - "[[Justin Rubenstein (🎙️ 920)]]"
+  - "[[J.R. Kaufman (🎙️ 921)]]"
+  - "[[Brandon Armstrong (🎙️ 922)]]"
+ListenInSec: 187
 NumberInAlbum: 1
 related: []
 source: ""

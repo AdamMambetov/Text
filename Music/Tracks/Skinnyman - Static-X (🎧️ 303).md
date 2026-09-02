@@ -7,7 +7,7 @@ Year: 2005
 Album: "[[Start a War [2005] {Static-X}]]"
 CoverOf: ""
 Creators:
-  - "[[Static-X (🎙️ 547)]]"
+  - "[[Static-X (🎙️ 545)]]"
 ListenInSec: 210
 NumberInAlbum: 6
 related: []

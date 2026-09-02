@@ -7,7 +7,7 @@ Year: 2014
 Album: ""
 CoverOf: "[[Awake and Alive - Skillet (🎧️ 1172)]]"
 Creators:
-  - "[[PanHeads Band (🎙️ 409)]]"
+  - "[[PanHeads Band (🎙️ 407)]]"
 ListenInSec: 623
 NumberInAlbum: 6
 related: []

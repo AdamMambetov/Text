@@ -7,8 +7,8 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Endoh Masaaki (🎙️ 567)]]"
-ListenInSec: 296
+  - "[[Endoh Masaaki (🎙️ 565)]]"
+ListenInSec: 393
 NumberInAlbum: 1
 related: []
 source:

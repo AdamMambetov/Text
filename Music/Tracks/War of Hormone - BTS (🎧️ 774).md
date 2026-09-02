@@ -7,14 +7,10 @@ Year: 2014
 Album: "[[Dark & Wild]]"
 CoverOf: ""
 Creators:
-  - "[[BTS (🎙️ 241)]]"
-ListenInSec: 283
+  - "[[BTS (🎙️ 239)]]"
+ListenInSec: 548
 NumberInAlbum: 3
 related: []
-source: ""
 SourceFile: "[[BTS - War of Hormone.mp3]]"
 ---
 
-# BTS - War of Hormone
-
-![[BTS - War of Hormone.mp3]]

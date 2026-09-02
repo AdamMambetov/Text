@@ -9,7 +9,7 @@ Year: 0
 Album: ""
 CoverOf: "[[Hitorigoto (TV Size) - ClariS (🎧️ 1083)]]"
 Creators:
-  - "[[Sati Akura (🎙️ 357)]]"
+  - "[[Sati Akura (🎙️ 355)]]"
 ListenInSec: 248
 NumberInAlbum: 0
 related:

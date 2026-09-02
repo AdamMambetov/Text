@@ -11,7 +11,7 @@ Year: 2019
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Minami (🎙️ 378)]]"
+  - "[[Minami (🎙️ 376)]]"
 ListenInSec: 868
 NumberInAlbum: 1
 related:

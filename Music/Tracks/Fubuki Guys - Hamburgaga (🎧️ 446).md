@@ -7,8 +7,8 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Hamburgaga (🎙️ 579)]]"
-ListenInSec: 258
+  - "[[Hamburgaga (🎙️ 577)]]"
+ListenInSec: 325
 NumberInAlbum: 0
 related: []
 source: ""

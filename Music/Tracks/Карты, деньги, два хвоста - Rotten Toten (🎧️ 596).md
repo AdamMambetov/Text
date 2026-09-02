@@ -7,7 +7,7 @@ Year: 2019
 Album: "[[Ужин у вдовы]]"
 CoverOf: ""
 Creators:
-  - "[[Rotten Toten (🎙️ 839)]]"
+  - "[[Rotten Toten (🎙️ 838)]]"
 ListenInSec: 182
 NumberInAlbum: 7
 related: []

@@ -9,7 +9,7 @@ Year: 2012
 Album: "[[ANGEL OF SALVATION]]"
 CoverOf: ""
 Creators:
-  - "[[GALNERYUS (🎙️ 315)]]"
+  - "[[GALNERYUS (🎙️ 313)]]"
 ListenInSec: 357
 NumberInAlbum: 1
 related:

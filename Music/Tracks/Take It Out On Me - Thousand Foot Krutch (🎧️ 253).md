@@ -7,7 +7,7 @@ Year: 2021
 Album: "[[Thousand Foot Krutch Collection [2021] {Thousand Foot Krutch}]]"
 CoverOf: ""
 Creators:
-  - "[[Thousand Foot Krutch (🎙️ 468)]]"
+  - "[[Thousand Foot Krutch (🎙️ 466)]]"
 ListenInSec: 391
 NumberInAlbum: 3
 related: []

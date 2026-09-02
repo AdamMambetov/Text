@@ -10,8 +10,8 @@ Year: 2018
 Album: ""
 CoverOf: "[[Mission! Ken·Kou·Dai·Ichi (TV Size) - Kana Hanazawa (🎧️ 1702)]]"
 Creators:
-  - "[[Roro Ai (🎙️ 717)]]"
-  - "[[Kari (🎙️ 664)]]"
+  - "[[Roro Ai (🎙️ 715)]]"
+  - "[[Kari (🎙️ 662)]]"
 ListenInSec: 460
 NumberInAlbum: 0
 related: []

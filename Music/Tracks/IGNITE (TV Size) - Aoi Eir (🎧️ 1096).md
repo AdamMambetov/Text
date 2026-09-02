@@ -11,8 +11,8 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Aoi Eir (🎙️ 655)]]"
-ListenInSec: 91
+  - "[[Aoi Eir (🎙️ 653)]]"
+ListenInSec: 180
 NumberInAlbum: 1
 related:
   - "[[IGNITE - Aoi Eir]]"

@@ -5,7 +5,7 @@ aliases:
   - "Assassin's Creed II OST"
 Year: 2009
 Creators:
-  - "[[Jesper Kyd (🎙️ 341)]]"
+  - "[[Jesper Kyd (🎙️ 339)]]"
 tracklist:
   - "[[Ezio’s Family - Jesper Kyd (🎧️ 1332)]]"
 ---

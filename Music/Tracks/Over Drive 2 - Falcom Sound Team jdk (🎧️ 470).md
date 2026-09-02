@@ -7,8 +7,8 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Falcom Sound Team jdk (🎙️ 601)]]"
-ListenInSec: 444
+  - "[[Falcom Sound Team jdk (🎙️ 599)]]"
+ListenInSec: 483
 NumberInAlbum: 1
 related: []
 source: ""

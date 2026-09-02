@@ -7,7 +7,7 @@ Year: 1988
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Naked Raygun (🎙️ 523)]]"
+  - "[[Naked Raygun (🎙️ 521)]]"
 ListenInSec: 364
 NumberInAlbum: 0
 related: []

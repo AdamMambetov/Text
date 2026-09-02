@@ -7,8 +7,8 @@ Year: 2018
 Album: "[[Il ballo della vita]]"
 CoverOf: ""
 Creators:
-  - "[[Maneskin (🎙️ 373)]]"
-ListenInSec: 128
+  - "[[Maneskin (🎙️ 371)]]"
+ListenInSec: 253
 NumberInAlbum: 3
 related: []
 SourceFile: "[[Maneskin - L'altra dimensione.mp3]]"

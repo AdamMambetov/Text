@@ -5,7 +5,7 @@ aliases:
 Cover: "[[Pirates of the Caribbean On Stranger Tides.jpg]]"
 Year: 2011
 Creators:
-  - "[[Hans Zimmer (🎙️ 326)]]"
+  - "[[Hans Zimmer (🎙️ 324)]]"
 tracklist: []
 ---
 

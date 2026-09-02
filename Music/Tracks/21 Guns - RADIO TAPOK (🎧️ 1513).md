@@ -7,8 +7,8 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[RADIO TAPOK (🎙️ 421)]]"
-ListenInSec: 635
+  - "[[RADIO TAPOK (🎙️ 419)]]"
+ListenInSec: 640
 NumberInAlbum: 1
 related: []
 source: ""

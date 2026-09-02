@@ -7,8 +7,8 @@ Year: 0
 Album: ""
 CoverOf: "[[Дурак и молния - Король и Шут (🎧️ 50)]]"
 Creators:
-  - "[[RADIO TAPOK (🎙️ 421)]]"
-ListenInSec: 120
+  - "[[RADIO TAPOK (🎙️ 419)]]"
+ListenInSec: 233
 NumberInAlbum: 0
 related: []
 source: ""

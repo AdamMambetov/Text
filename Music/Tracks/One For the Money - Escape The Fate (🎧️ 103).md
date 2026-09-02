@@ -7,8 +7,8 @@ Year: 2013
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Escape The Fate (🎙️ 303)]]"
-ListenInSec: 75
+  - "[[Escape The Fate (🎙️ 301)]]"
+ListenInSec: 274
 NumberInAlbum: 0
 related: []
 source: ""

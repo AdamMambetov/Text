@@ -8,8 +8,8 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[MUCC (🎙️ 722)]]"
-ListenInSec: 94
+  - "[[MUCC (🎙️ 720)]]"
+ListenInSec: 189
 NumberInAlbum: 0
 related:
   - "[[Nirvana - MUCC (🎧️ 1679)]]"

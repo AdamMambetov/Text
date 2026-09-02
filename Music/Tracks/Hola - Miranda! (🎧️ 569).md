@@ -7,8 +7,8 @@ Year: 2008
 Album: "[[El Disco de Tu Corazón]]"
 CoverOf: ""
 Creators:
-  - "[[Miranda! (🎙️ 646)]]"
-ListenInSec: 11
+  - "[[Miranda! (🎙️ 644)]]"
+ListenInSec: 196
 NumberInAlbum: 1
 related: []
 source: ""

@@ -8,8 +8,8 @@ Year: 2020
 Album: "[[ReZero 2 OST 1 (📀 47)]]"
 CoverOf: ""
 Creators:
-  - "[[Kenichiro Suehiro (🎙️ 750)]]"
-ListenInSec: 141
+  - "[[Kenichiro Suehiro (🎙️ 748)]]"
+ListenInSec: 275
 NumberInAlbum: 6
 related: []
 source: ""

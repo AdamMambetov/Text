@@ -7,8 +7,8 @@ Year: 2011
 Album: "[[Pirates of the Caribbean: On Stranger Tides]]"
 CoverOf: ""
 Creators:
-  - "[[Hans Zimmer (🎙️ 326)]]"
-ListenInSec: 122
+  - "[[Hans Zimmer (🎙️ 324)]]"
+ListenInSec: 235
 NumberInAlbum: 11
 related: []
 source: ""

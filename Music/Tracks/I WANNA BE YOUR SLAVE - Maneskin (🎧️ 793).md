@@ -7,7 +7,7 @@ Year: 2021
 Album: "[[Teatro d’ira: Vol. I]]"
 CoverOf: ""
 Creators:
-  - "[[Maneskin (🎙️ 373)]]"
+  - "[[Maneskin (🎙️ 371)]]"
 ListenInSec: 174
 NumberInAlbum: 4
 related: []

@@ -7,9 +7,9 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[The Blasting Company (🎙️ 918)]]"
-  - "[[Mark Bodnar (🎙️ 931)]]"
-ListenInSec: 63
+  - "[[The Blasting Company (🎙️ 917)]]"
+  - "[[Mark Bodnar (🎙️ 930)]]"
+ListenInSec: -63
 NumberInAlbum: 1
 related: []
 source: ""

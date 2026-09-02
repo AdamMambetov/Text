@@ -7,7 +7,7 @@ Year: 2006
 Album: "[[Billy Talent II]]"
 CoverOf: ""
 Creators:
-  - "[[Billy Talent (🎙️ 221)]]"
+  - "[[Billy Talent (🎙️ 219)]]"
 ListenInSec: 200
 NumberInAlbum: 6
 related: []

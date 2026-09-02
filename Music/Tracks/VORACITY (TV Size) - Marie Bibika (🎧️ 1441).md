@@ -10,14 +10,10 @@ Year: 0
 Album: ""
 CoverOf: "[[KADOKAWAanime - TVアニメ「オーバーロードⅢ」ノンクレジットOP映像【MYTH&ROID「VORACITY」】]]"
 Creators:
-  - "[[Marie Bibika (🎙️ 374)]]"
-ListenInSec: 91
+  - "[[Marie Bibika (🎙️ 372)]]"
+ListenInSec: 178
 NumberInAlbum: 0
 related: []
-source: ""
 SourceFile: "[[Marie Bibika - VORACITY (TV Size).mp3]]"
 ---
 
-# Marie Bibika - VORACITY (TV Size)
-
-![[Marie Bibika - VORACITY (TV Size).mp3]]

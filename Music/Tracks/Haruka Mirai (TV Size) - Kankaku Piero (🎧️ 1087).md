@@ -9,7 +9,7 @@ Year: 2017
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Kankaku Piero (🎙️ 710)]]"
+  - "[[Kankaku Piero (🎙️ 708)]]"
 ListenInSec: 1061
 NumberInAlbum: 0
 related:

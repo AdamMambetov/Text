@@ -9,7 +9,7 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Kazuki Kato (🎙️ 739)]]"
+  - "[[Kazuki Kato (🎙️ 737)]]"
 ListenInSec: 830
 NumberInAlbum: 0
 related:

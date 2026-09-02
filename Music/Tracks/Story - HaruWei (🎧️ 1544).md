@@ -7,7 +7,7 @@ Year: 0
 Album: ""
 CoverOf: "[[Story - Mayu Maeshima (🎧️ 1545)]]"
 Creators:
-  - "[[HaruWei (🎙️ 327)]]"
+  - "[[HaruWei (🎙️ 325)]]"
 ListenInSec: 888
 NumberInAlbum: 1
 related: []

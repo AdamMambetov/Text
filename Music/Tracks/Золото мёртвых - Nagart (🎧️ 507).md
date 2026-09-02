@@ -7,7 +7,7 @@ Year: 2021
 Album: "[[Вы это слышали?]]"
 CoverOf: ""
 Creators:
-  - "[[Nagart (🎙️ 386)]]"
+  - "[[Nagart (🎙️ 384)]]"
 ListenInSec: 178
 NumberInAlbum: 1
 related: []

@@ -7,7 +7,7 @@ Year: 2016
 Album: "[[Death of a Bachelor]]"
 CoverOf: ""
 Creators:
-  - "[[Panic! At The Disco (🎙️ 410)]]"
+  - "[[Panic! At The Disco (🎙️ 408)]]"
 ListenInSec: 178
 NumberInAlbum: 4
 related: []

@@ -8,7 +8,7 @@ Album: "[[Van Helsing OST (📀 26)]]"
 CoverOf: ""
 Creators:
   - "[[Alan Silvestri (🎙️ 162)]]"
-ListenInSec: 239
+ListenInSec: 240
 NumberInAlbum: 8
 related: []
 source: ""

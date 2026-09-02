@@ -7,9 +7,9 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Tamura Yukari (🎙️ 830)]]"
-  - "[[Kanai Mika (🎙️ 831)]]"
-  - "[[Horie Yui (🎙️ 332)]]"
+  - "[[Tamura Yukari (🎙️ 829)]]"
+  - "[[Kanai Mika (🎙️ 830)]]"
+  - "[[Horie Yui (🎙️ 330)]]"
 ListenInSec: 1627
 NumberInAlbum: 0
 related: []

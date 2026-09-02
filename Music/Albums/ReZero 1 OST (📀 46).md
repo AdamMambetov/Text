@@ -6,7 +6,7 @@ aliases:
 Cover: "[[ReZero 1 OST.jpg]]"
 Year: 2016
 Creators:
-  - "[[Kenichiro Suehiro (🎙️ 750)]]"
+  - "[[Kenichiro Suehiro (🎙️ 748)]]"
 tracklist:
   - "[[Rondo of Love and Darkness -Main Theme- - Kenichiro Suehiro (🎧️ 2128)]]"
   - "[[Death Ballet - Kenichiro Suehiro (🎧️ 1813)]]"

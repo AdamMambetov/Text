@@ -7,9 +7,16 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators: []
-ListenInSec: 1326
+ListenInSec: 1784
 NumberInAlbum: 0
-related: []
+related:
+  - "[[lomb_TV_LombTV - Rhythm_Tengoku_-_Hopping_Road_Bouncy_Road]]"
+  - "[[lomb_TV_LombTV - Rhythm_Tengoku_-_The_Clappy_Trio]]"
+  - "[[lomb_TV_LombTV - Rhythm_Tengoku_-_The_Bon_Odori]]"
+  - "[[lomb_TV_LombTV - Rhythm_Tengoku_-_Spaceball_Game]]"
+  - "[[lomb_TV_LombTV - Rhythm_Tengoku_-_Built_to_Scale_GBA]]"
+  - "[[lomb_TV_LombTV - Rhythm_Tengoku_-_Vegeta_Pull_Rhythm_Tweezers]]"
+  - "[[lomb_TV_LombTV - Rhythm_Tengoku_-_Marcher_Marching_Orders]]"
 source: ""
 SourceFile: "[[lomb_TV_LombTV - Rhythm_Tengoku_-_Remix_6.mp3]]"
 ---

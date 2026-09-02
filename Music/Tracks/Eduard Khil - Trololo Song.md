@@ -1,12 +1,13 @@
 ---
 created: 2025-12-13T16:27:08+03:00
 aliases:
-  - "Eduard Khil - Trololo Song"
+  - "Trololo Song"
 Cover: "[[Eduard Khil - Trololo Song.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""
-Creators: []
+Creators:
+  - "[[Эдуард Хиль (🎙️ 980)]]"
 ListenInSec: 1865
 NumberInAlbum: 0
 related: []

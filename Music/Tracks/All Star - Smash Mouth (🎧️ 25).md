@@ -7,8 +7,8 @@ Year: 1999
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Smash Mouth (🎙️ 442)]]"
-ListenInSec: 284
+  - "[[Smash Mouth (🎙️ 440)]]"
+ListenInSec: 345
 NumberInAlbum: 0
 related: []
 source: ""

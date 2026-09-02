@@ -7,7 +7,7 @@ Year: 2015
 Album: "[[Blessed & Possessed]]"
 CoverOf: ""
 Creators:
-  - "[[Powerwolf (🎙️ 418)]]"
+  - "[[Powerwolf (🎙️ 416)]]"
 ListenInSec: 202
 NumberInAlbum: 3
 related: []

@@ -71,7 +71,7 @@ tracklist:
   - "[[Tabi no Tochuu - Natsumi Kiyoura (🎧️ 1510)]]"
   - "[[The Wolf Whistling Song - Ringo Biyori (🎧️ 1509)]]"
   - "[[The Wolf Whistling Song (TV Size) - Ringo Biyori (🎧️ 1508)]]"
-  - "[[Яблоки - Алена Беседа (🎧️ 1507)]]"
+  - "[[Яблоки (TV Size) - Алена Беседа (🎧️ 1507)]]"
   - "[[Rightfully - Mili (🎧️ 1488)]]"
   - "[[Entertainment - Mili (🎧️ 1487)]]"
   - "[[Danger Danger - FZMZ (🎧️ 1485)]]"

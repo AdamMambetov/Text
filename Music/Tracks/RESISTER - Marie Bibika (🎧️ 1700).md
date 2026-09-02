@@ -11,7 +11,7 @@ Year: 0
 Album: ""
 CoverOf: "[[RESISTER - ASCA (🎧️ 735)]]"
 Creators:
-  - "[[Marie Bibika (🎙️ 374)]]"
+  - "[[Marie Bibika (🎙️ 372)]]"
 ListenInSec: 242
 NumberInAlbum: 0
 related: []

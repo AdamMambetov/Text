@@ -7,7 +7,7 @@ Year: 2013
 Album: "[[Too Weird to Live, Too Rare to Die!]]"
 CoverOf: ""
 Creators:
-  - "[[Panic! At The Disco (🎙️ 410)]]"
+  - "[[Panic! At The Disco (🎙️ 408)]]"
 ListenInSec: 213
 NumberInAlbum: 1
 related: []

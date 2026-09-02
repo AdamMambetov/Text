@@ -7,15 +7,11 @@ Year: 2020
 Album: "[[BPM OST (📀 40)]]"
 CoverOf: ""
 Creators:
-  - "[[Sam Houghton (🎙️ 675)]]"
-  - "[[Joe Collinson (🎙️ 676)]]"
-ListenInSec: 2567
+  - "[[Sam Houghton (🎙️ 673)]]"
+  - "[[Joe Collinson (🎙️ 674)]]"
+ListenInSec: 2905
 NumberInAlbum: 1
 related: []
-source: ""
 SourceFile: "[[BPM OST - 02 Judgement.mp3]]"
 ---
 
-# BPM OST - 01 Judgement
-
-![[BPM OST - 02 Judgement.mp3]]

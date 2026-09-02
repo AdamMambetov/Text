@@ -7,8 +7,8 @@ Year: 2020
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Mikolas Josef (🎙️ 520)]]"
-ListenInSec: 111
+  - "[[Mikolas Josef (🎙️ 518)]]"
+ListenInSec: 161
 NumberInAlbum: 0
 related: []
 source: ""

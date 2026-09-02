@@ -7,7 +7,7 @@ Year: 1976
 Album: "[[The Best of Kansas]]"
 CoverOf: ""
 Creators:
-  - "[[Kansas (🎙️ 347)]]"
+  - "[[Kansas (🎙️ 345)]]"
 ListenInSec: 160
 NumberInAlbum: 1
 related: []

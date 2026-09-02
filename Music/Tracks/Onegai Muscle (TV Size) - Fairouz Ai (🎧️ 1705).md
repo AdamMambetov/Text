@@ -9,9 +9,9 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Fairouz Ai (🎙️ 607)]]"
-  - "[[Ishikawa Kaito (🎙️ 608)]]"
-ListenInSec: 99
+  - "[[Fairouz Ai (🎙️ 605)]]"
+  - "[[Ishikawa Kaito (🎙️ 606)]]"
+ListenInSec: 190
 NumberInAlbum: 0
 related:
   - "[[Onegai Muscle - Fairouz Ai (🎧️ 1675)]]"

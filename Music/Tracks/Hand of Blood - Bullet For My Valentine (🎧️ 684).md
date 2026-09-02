@@ -7,7 +7,7 @@ Year: 2005
 Album: "[[Hand of Blood]]"
 CoverOf: ""
 Creators:
-  - "[[Bullet For My Valentine (🎙️ 242)]]"
+  - "[[Bullet For My Valentine (🎙️ 240)]]"
 ListenInSec: 219
 NumberInAlbum: 2
 related: []

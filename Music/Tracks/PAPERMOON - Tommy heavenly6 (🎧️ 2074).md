@@ -9,8 +9,8 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Tommy heavenly6 (🎙️ 471)]]"
-ListenInSec: 1469
+  - "[[Tommy heavenly6 (🎙️ 469)]]"
+ListenInSec: 1723
 NumberInAlbum: 0
 related:
   - "[[PAPERMOON (TV Size) - Tommy heavenly6 (🎧️ 2069)]]"

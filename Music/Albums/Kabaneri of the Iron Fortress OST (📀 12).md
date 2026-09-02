@@ -4,7 +4,7 @@ aliases:
   - "Kabaneri of the Iron Fortress OST"
 Year: 2016
 Creators:
-  - "[[Hiroyuki Sawano (🎙️ 329)]]"
+  - "[[Hiroyuki Sawano (🎙️ 327)]]"
 tracklist:
   - "[[1Coma - Hiroyuki Sawano (🎧️ 1627)]]"
 ---

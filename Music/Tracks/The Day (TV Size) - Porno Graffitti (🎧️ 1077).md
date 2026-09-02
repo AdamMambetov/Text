@@ -9,8 +9,8 @@ Year: 2017
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Porno Graffitti (🎙️ 416)]]"
-ListenInSec: 101
+  - "[[Porno Graffitti (🎙️ 414)]]"
+ListenInSec: 190
 NumberInAlbum: 0
 related:
   - "[[The Day - Porno Graffitti (🎧️ 196)]]"

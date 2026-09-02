@@ -1,13 +1,13 @@
 ---
 created: 2026-06-11T22:45:53+03:00
 aliases:
-  - "TheFeynmanParticle - Vivaldi - Spring"
+  - "Vivaldi - Spring"
 Cover: "[[TheFeynmanParticle - Vivaldi - Spring.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""
 Creators: []
-ListenInSec: 129
+ListenInSec: 418
 NumberInAlbum: 0
 related: []
 source: ""

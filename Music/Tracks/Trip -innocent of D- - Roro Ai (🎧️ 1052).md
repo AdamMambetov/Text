@@ -9,9 +9,9 @@ Year: 0
 Album: ""
 CoverOf: "[[Trip -innocent of D- - Larval Stage Planning (🎧️ 622)]]"
 Creators:
-  - "[[Roro Ai (🎙️ 717)]]"
-  - "[[Marie Bibika (🎙️ 374)]]"
-ListenInSec: 733
+  - "[[Roro Ai (🎙️ 715)]]"
+  - "[[Marie Bibika (🎙️ 372)]]"
+ListenInSec: 1033
 NumberInAlbum: 0
 related: []
 source: ""

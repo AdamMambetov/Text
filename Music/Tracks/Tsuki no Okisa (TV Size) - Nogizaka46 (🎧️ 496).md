@@ -9,8 +9,8 @@ Year: 2013
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Nogizaka46 (🎙️ 394)]]"
-ListenInSec: 106
+  - "[[Nogizaka46 (🎙️ 392)]]"
+ListenInSec: 194
 NumberInAlbum: 0
 related: []
 source: ""

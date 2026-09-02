@@ -9,7 +9,7 @@ Year: 2020
 Album: ""
 CoverOf: "[[Realize - Konomi Suzuki (🎧️ 1623)]]"
 Creators:
-  - "[[Sati Akura (🎙️ 357)]]"
+  - "[[Sati Akura (🎙️ 355)]]"
 ListenInSec: 496
 NumberInAlbum: 0
 related: []

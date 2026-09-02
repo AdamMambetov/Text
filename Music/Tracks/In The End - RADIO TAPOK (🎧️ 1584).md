@@ -7,8 +7,8 @@ Year: 2022
 Album: "[[In The End]]"
 CoverOf: "[[In The End - Black Veil Brides (🎧️ 679)]]"
 Creators:
-  - "[[RADIO TAPOK (🎙️ 421)]]"
-ListenInSec: 97
+  - "[[RADIO TAPOK (🎙️ 419)]]"
+ListenInSec: 337
 NumberInAlbum: 1
 related: []
 source: ""

@@ -7,7 +7,7 @@ Year: 2020
 Album: "[[Один во вселенной [2020] {Vere Dictum}]]"
 CoverOf: ""
 Creators:
-  - "[[Vere Dictum (🎙️ 477)]]"
+  - "[[Vere Dictum (🎙️ 475)]]"
 ListenInSec: 296
 NumberInAlbum: 18
 related: []

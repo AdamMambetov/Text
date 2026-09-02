@@ -7,9 +7,9 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[The Blasting Company (🎙️ 918)]]"
-  - "[[Justin Rubenstein (🎙️ 921)]]"
-ListenInSec: 136
+  - "[[The Blasting Company (🎙️ 917)]]"
+  - "[[Justin Rubenstein (🎙️ 920)]]"
+ListenInSec: 260
 NumberInAlbum: 1
 related: []
 source: ""

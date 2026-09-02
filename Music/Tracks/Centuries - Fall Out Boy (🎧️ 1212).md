@@ -7,7 +7,7 @@ Year: 2014
 Album: "[[American Beauty / American Psycho]]"
 CoverOf: ""
 Creators:
-  - "[[Fall Out Boy (🎙️ 306)]]"
+  - "[[Fall Out Boy (🎙️ 304)]]"
 ListenInSec: 230
 NumberInAlbum: 1
 related: []

@@ -7,8 +7,8 @@ Year: 1970
 Album: "[[War & Peace]]"
 CoverOf: ""
 Creators:
-  - "[[Edwin Starr (🎙️ 299)]]"
-ListenInSec: 53
+  - "[[Edwin Starr (🎙️ 297)]]"
+ListenInSec: 158
 NumberInAlbum: 1
 related: []
 source: ""

@@ -7,7 +7,7 @@ Year: 2010
 Album: "[[Hell And Silence EP]]"
 CoverOf: ""
 Creators:
-  - "[[Imagine Dragons (🎙️ 334)]]"
+  - "[[Imagine Dragons (🎙️ 332)]]"
 ListenInSec: 190
 NumberInAlbum: 1
 related: []

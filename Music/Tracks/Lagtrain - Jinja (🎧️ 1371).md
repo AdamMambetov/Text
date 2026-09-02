@@ -7,7 +7,7 @@ Year: 2023
 Album: ""
 CoverOf: "[[Lagtrain - inabakumori (🎧️ 4)]]"
 Creators:
-  - "[[Jinja (🎙️ 342)]]"
+  - "[[Jinja (🎙️ 340)]]"
 ListenInSec: 254
 NumberInAlbum: 1
 related: []

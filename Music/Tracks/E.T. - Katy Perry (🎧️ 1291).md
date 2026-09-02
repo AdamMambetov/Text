@@ -7,7 +7,7 @@ Year: 2010
 Album: "[[Teenage Dream]]"
 CoverOf: ""
 Creators:
-  - "[[Katy Perry (🎙️ 350)]]"
+  - "[[Katy Perry (🎙️ 348)]]"
 ListenInSec: 306
 NumberInAlbum: 8
 related: []

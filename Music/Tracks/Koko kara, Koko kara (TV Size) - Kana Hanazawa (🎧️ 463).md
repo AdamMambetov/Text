@@ -8,9 +8,9 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Kana Hanazawa (🎙️ 186)]]"
-  - "[[Inori Minase (🎙️ 785)]]"
-  - "[[Yuka Iguchi (🎙️ 674)]]"
-  - "[[Hayami Saori (🎙️ 800)]]"
+  - "[[Inori Minase (🎙️ 783)]]"
+  - "[[Yuka Iguchi (🎙️ 672)]]"
+  - "[[Hayami Saori (🎙️ 798)]]"
 ListenInSec: 151
 NumberInAlbum: 0
 related: []

@@ -7,7 +7,7 @@ Year: 2022
 Album: "[[Enemy]]"
 CoverOf: "[[Enemy - Imagine Dragons (🎧️ 1299)]]"
 Creators:
-  - "[[Bardcore (🎙️ 211)]]"
+  - "[[Bardcore (🎙️ 210)]]"
 ListenInSec: 140
 NumberInAlbum: 1
 related: []

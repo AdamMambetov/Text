@@ -7,7 +7,7 @@ Year: 2007
 Album: "[[Infinity on High [2007] {Fall Out Boy}]]"
 CoverOf: ""
 Creators:
-  - "[[Fall Out Boy (🎙️ 306)]]"
+  - "[[Fall Out Boy (🎙️ 304)]]"
 ListenInSec: 205
 NumberInAlbum: 7
 related: []

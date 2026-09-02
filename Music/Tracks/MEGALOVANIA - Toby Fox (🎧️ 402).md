@@ -7,7 +7,7 @@ Year: 2015
 Album: "[[UNDERTALE Soundtrack]]"
 CoverOf: ""
 Creators:
-  - "[[Toby Fox (🎙️ 565)]]"
+  - "[[Toby Fox (🎙️ 563)]]"
 ListenInSec: 147
 NumberInAlbum: 100
 related: []

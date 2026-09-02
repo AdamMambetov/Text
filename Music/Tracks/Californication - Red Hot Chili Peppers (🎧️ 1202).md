@@ -7,7 +7,7 @@ Year: 1999
 Album: "[[Californication]]"
 CoverOf: ""
 Creators:
-  - "[[Red Hot Chili Peppers (🎙️ 426)]]"
+  - "[[Red Hot Chili Peppers (🎙️ 424)]]"
 ListenInSec: 308
 NumberInAlbum: 6
 related: []

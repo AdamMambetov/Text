@@ -7,8 +7,8 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[George Michael (🎙️ 746)]]"
-ListenInSec: 3224
+  - "[[George Michael (🎙️ 744)]]"
+ListenInSec: 3570
 NumberInAlbum: 0
 related: []
 SourceFile: "[[George Michael - Careless Whisper.mp3]]"

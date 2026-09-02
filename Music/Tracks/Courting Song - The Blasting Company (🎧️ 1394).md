@@ -7,9 +7,9 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[The Blasting Company (🎙️ 918)]]"
-  - "[[Frank Fairfield (🎙️ 929)]]"
-ListenInSec: 90
+  - "[[The Blasting Company (🎙️ 917)]]"
+  - "[[Frank Fairfield (🎙️ 928)]]"
+ListenInSec: -82
 NumberInAlbum: 1
 related: []
 source: ""

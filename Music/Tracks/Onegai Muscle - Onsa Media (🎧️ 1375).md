@@ -9,9 +9,9 @@ Year: 2019
 Album: ""
 CoverOf: "[[Onegai Muscle - Fairouz Ai (🎧️ 1675)]]"
 Creators:
-  - "[[Onsa Media (🎙️ 402)]]"
-  - "[[Kari (🎙️ 664)]]"
-  - "[[Narea (🎙️ 606)]]"
+  - "[[Onsa Media (🎙️ 400)]]"
+  - "[[Kari (🎙️ 662)]]"
+  - "[[Narea (🎙️ 604)]]"
 ListenInSec: 702
 NumberInAlbum: 0
 related: []

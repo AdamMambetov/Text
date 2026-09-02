@@ -7,8 +7,8 @@ Year: 2015
 Album: "[[Love Story]]"
 CoverOf: ""
 Creators:
-  - "[[Yelawolf (🎙️ 483)]]"
-ListenInSec: 133
+  - "[[Yelawolf (🎙️ 481)]]"
+ListenInSec: 134
 NumberInAlbum: 9
 related: []
 source: ""

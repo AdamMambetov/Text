@@ -9,7 +9,7 @@ Year: 2005
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[STANCE PUNKS (🎙️ 445)]]"
+  - "[[STANCE PUNKS (🎙️ 443)]]"
 ListenInSec: 1040
 NumberInAlbum: 0
 related:

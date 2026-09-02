@@ -7,8 +7,8 @@ Year: 2007
 Album: "[[The Flame In All of Us]]"
 CoverOf: ""
 Creators:
-  - "[[Thousand Foot Krutch (🎙️ 468)]]"
-ListenInSec: 19
+  - "[[Thousand Foot Krutch (🎙️ 466)]]"
+ListenInSec: 215
 NumberInAlbum: 8
 related: []
 source: ""

@@ -7,7 +7,7 @@ Year: 2011
 Album: "[[Level 1]]"
 CoverOf: ""
 Creators:
-  - "[[Miracle of Sound (🎙️ 868)]]"
+  - "[[Miracle of Sound (🎙️ 867)]]"
 ListenInSec: 458
 NumberInAlbum: 8
 related: []

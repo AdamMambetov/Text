@@ -120,3 +120,11 @@ related:
 > Доступ:
 > - https://it-tools.adammambetov.duckdns.org
 > - http://192.168.1.111:8080
+
+> [!todo]- [tailchat](https://tailchat.msgbyte.com)
+> Аналог Discord
+> [GitHub](https://github.com/msgbyte/tailchat)
+
+> [!todo]- metube
+> Web UI для yt-dlp
+> [GitHub](https://github.com/alexta69/metube)

@@ -7,7 +7,7 @@ Year: 1993
 Album: "[[Doom]]"
 CoverOf: ""
 Creators:
-  - "[[Bobby Prince (🎙️ 233)]]"
+  - "[[Bobby Prince (🎙️ 231)]]"
 ListenInSec: 954
 NumberInAlbum: 3
 related: []

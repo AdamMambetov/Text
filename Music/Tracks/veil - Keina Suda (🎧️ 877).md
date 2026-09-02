@@ -9,14 +9,10 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Keina Suda (🎙️ 767)]]"
-ListenInSec: 215
+  - "[[Keina Suda (🎙️ 765)]]"
+ListenInSec: 475
 NumberInAlbum: 1
 related: []
-source: ""
 SourceFile: "[[Keina Suda - veil.mp3]]"
 ---
 
-# Keina Suda - veil
-
-![[Keina Suda - veil.mp3]]

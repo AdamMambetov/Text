@@ -5,12 +5,12 @@ aliases:
 Cover: "[[Redbone - Come And Get Your Love.jpg]]"
 Year: 1973
 Album: "[[The Essential Redbone]]"
+CoverOf: ""
 Creators:
-  - "[[Redbone (🎙️ 885)]]"
+  - "[[Redbone (🎙️ 884)]]"
+ListenInSec: 2680
 NumberInAlbum: 2
 related: []
 SourceFile: "[[Redbone - Come And Get Your Love.mp3]]"
-ListenInSec: 2631
-CoverOf: ""
 ---
 

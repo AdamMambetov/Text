@@ -9,7 +9,7 @@ Year: 2011
 Album: "[[Shiki OST (📀 1)]]"
 CoverOf: ""
 Creators:
-  - "[[BUCK-TICK (🎙️ 752)]]"
+  - "[[BUCK-TICK (🎙️ 750)]]"
 ListenInSec: 277
 NumberInAlbum: 24
 related:

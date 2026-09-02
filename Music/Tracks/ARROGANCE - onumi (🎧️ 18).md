@@ -7,8 +7,8 @@ Year: 2021
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[onumi (🎙️ 492)]]"
-ListenInSec: 89
+  - "[[onumi (🎙️ 490)]]"
+ListenInSec: 357
 NumberInAlbum: 0
 related: []
 source: https://osu.ppy.sh/beatmapsets/940377#osu/2165190

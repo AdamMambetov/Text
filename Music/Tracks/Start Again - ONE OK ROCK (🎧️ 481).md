@@ -7,8 +7,8 @@ Year: 2017
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[ONE OK ROCK (🎙️ 400)]]"
-ListenInSec: 48
+  - "[[ONE OK ROCK (🎙️ 398)]]"
+ListenInSec: 130
 NumberInAlbum: 0
 related: []
 source: ""

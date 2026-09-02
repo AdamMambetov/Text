@@ -1,13 +1,13 @@
 ---
 created: 2026-06-11T22:51:28+03:00
 aliases:
-  - "ymetsys - Plants vs Zombies Soundtrack. [Main Menu]"
+  - "Plants vs Zombies OST - Main Menu"
 Cover: "[[ymetsys - Plants vs Zombies Soundtrack. [Main Menu].jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""
 Creators: []
-ListenInSec: 115
+ListenInSec: 202
 NumberInAlbum: 0
 related: []
 source: ""

@@ -1,0 +1,22 @@
+---
+created: 2022-04-22T21:03:16+03:00
+aliases:
+  - "New Page (TV Size)"
+  - "Black Clover ED 10"
+  - "Чёрный клевер ED 10"
+Cover: "[[Leon Alex - Black Clover Guitar Collection.jpg]]"
+Year: 2021
+Album: ""
+CoverOf: ""
+Creators:
+  - "[[Leon Alex (🎙️ 359)]]"
+ListenInSec: 201
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[Leon Alex - New Page.mp3]]"
+---
+
+# Leon Alex - New Page
+
+![[Leon Alex - New Page.mp3]]

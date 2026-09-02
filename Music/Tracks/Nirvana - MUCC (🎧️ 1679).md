@@ -8,7 +8,7 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[MUCC (🎙️ 722)]]"
+  - "[[MUCC (🎙️ 720)]]"
 ListenInSec: 227
 NumberInAlbum: 0
 related:

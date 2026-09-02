@@ -7,7 +7,7 @@ Year: 1978
 Album: "[[The Best Of Earth, Wind & Fire Vol. 1]]"
 CoverOf: ""
 Creators:
-  - "[[Earth, Wind & Fire (🎙️ 298)]]"
+  - "[[Earth, Wind & Fire (🎙️ 296)]]"
 ListenInSec: 217
 NumberInAlbum: 7
 related: []

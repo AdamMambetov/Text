@@ -7,7 +7,7 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Rostik (🎙️ 610)]]"
+  - "[[Rostik (🎙️ 608)]]"
 ListenInSec: 357
 NumberInAlbum: 1
 related: []

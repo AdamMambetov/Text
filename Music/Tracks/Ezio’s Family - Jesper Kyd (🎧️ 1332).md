@@ -7,7 +7,7 @@ Year: 2009
 Album: "[[Assassin’s Creed II]]"
 CoverOf: ""
 Creators:
-  - "[[Jesper Kyd (🎙️ 341)]]"
+  - "[[Jesper Kyd (🎙️ 339)]]"
 ListenInSec: 538
 NumberInAlbum: 3
 related: []

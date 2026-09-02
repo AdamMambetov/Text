@@ -7,8 +7,8 @@ Year: 1997
 Album: "[[Old Friends]]"
 CoverOf: ""
 Creators:
-  - "[[Simon & Garfunkel (🎙️ 549)]]"
-ListenInSec: 294
+  - "[[Simon & Garfunkel (🎙️ 547)]]"
+ListenInSec: 479
 NumberInAlbum: 14
 related: []
 source:

@@ -7,7 +7,7 @@ Year: 1967
 Album: "[[Barra Limpa [1967] {Luiz Henrique}]]"
 CoverOf: ""
 Creators:
-  - "[[Luiz Henrique (🎙️ 555)]]"
+  - "[[Luiz Henrique (🎙️ 553)]]"
 ListenInSec: 596
 NumberInAlbum: 8
 related: []

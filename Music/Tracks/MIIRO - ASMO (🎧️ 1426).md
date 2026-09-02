@@ -7,7 +7,7 @@ Year: 0
 Album: ""
 CoverOf: "[[MIIRO - AKINO (🎧️ 450)]]"
 Creators:
-  - "[[ASMO (🎙️ 724)]]"
+  - "[[ASMO (🎙️ 722)]]"
 ListenInSec: 811
 NumberInAlbum: 1
 related: []

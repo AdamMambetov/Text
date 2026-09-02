@@ -7,7 +7,7 @@ Year: 2011
 Album: "[[American Tragedy]]"
 CoverOf: ""
 Creators:
-  - "[[Hollywood Undead (🎙️ 330)]]"
+  - "[[Hollywood Undead (🎙️ 328)]]"
 ListenInSec: 295
 NumberInAlbum: 7
 related: []

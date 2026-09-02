@@ -7,7 +7,7 @@ Year: 2019
 Album: "[[The Newer Chapter]]"
 CoverOf: "[[Summertime Sadness - Lana Del Rey (🎧️ 294)]]"
 Creators:
-  - "[[MajorVoice (🎙️ 372)]]"
+  - "[[MajorVoice (🎙️ 370)]]"
 ListenInSec: 505
 NumberInAlbum: 7
 related: []

@@ -9,7 +9,7 @@ Year: 2020
 Album: ""
 CoverOf: "[[Good Morning World! - BURNOUT SYNDROMES]]"
 Creators:
-  - "[[Jackie-O (🎙️ 339)]]"
+  - "[[Jackie-O (🎙️ 337)]]"
 ListenInSec: 495
 NumberInAlbum: 0
 related: []

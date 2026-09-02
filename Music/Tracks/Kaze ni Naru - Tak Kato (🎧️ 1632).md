@@ -8,7 +8,7 @@ Year: 2019
 Album: ""
 CoverOf: "[[Kaze Ni Naru - Ayano Tsuji (🎧️ 817)]]"
 Creators:
-  - "[[Tak Kato (🎙️ 666)]]"
+  - "[[Tak Kato (🎙️ 664)]]"
 ListenInSec: 531
 NumberInAlbum: 0
 related: []

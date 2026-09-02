@@ -7,7 +7,7 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Hiroyuki Sawano (🎙️ 329)]]"
+  - "[[Hiroyuki Sawano (🎙️ 327)]]"
 ListenInSec: 478
 NumberInAlbum: 0
 related: []

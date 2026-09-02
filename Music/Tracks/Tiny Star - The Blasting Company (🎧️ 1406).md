@@ -7,9 +7,9 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[The Blasting Company (🎙️ 918)]]"
-  - "[[Eddika Organista (🎙️ 933)]]"
-ListenInSec: 115
+  - "[[The Blasting Company (🎙️ 917)]]"
+  - "[[Eddika Organista (🎙️ 932)]]"
+ListenInSec: 218
 NumberInAlbum: 1
 related: []
 source: ""

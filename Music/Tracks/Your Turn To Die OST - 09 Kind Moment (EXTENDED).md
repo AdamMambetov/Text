@@ -6,7 +6,8 @@ Cover: "[[Your Turn To Die OST - 02 Aren't You Cheerful [EXTENDED].jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""
-Creators: []
+Creators:
+  - "[[Nankidai (🎙️ 909)]]"
 ListenInSec: 627
 NumberInAlbum: 0
 related: []

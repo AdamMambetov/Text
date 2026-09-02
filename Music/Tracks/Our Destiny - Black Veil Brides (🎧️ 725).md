@@ -7,8 +7,8 @@ Year: 2018
 Album: "[[Vale]]"
 CoverOf: ""
 Creators:
-  - "[[Black Veil Brides (🎙️ 224)]]"
-ListenInSec: 70
+  - "[[Black Veil Brides (🎙️ 222)]]"
+ListenInSec: 274
 NumberInAlbum: 7
 related: []
 source: ""

@@ -7,7 +7,7 @@ Year: 2003
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Thousand Foot Krutch (🎙️ 468)]]"
+  - "[[Thousand Foot Krutch (🎙️ 466)]]"
 ListenInSec: 201
 NumberInAlbum: 1
 related: []

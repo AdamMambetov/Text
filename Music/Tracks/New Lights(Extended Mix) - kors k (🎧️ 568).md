@@ -7,8 +7,8 @@ Year: 2015
 Album: "[[Let's Do It Again!!]]"
 CoverOf: ""
 Creators:
-  - "[[kors k (🎙️ 645)]]"
-ListenInSec: 123
+  - "[[kors k (🎙️ 643)]]"
+ListenInSec: 179
 NumberInAlbum: 1
 related: []
 source: ""

@@ -9,7 +9,7 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Yoh Kamiyama (🎙️ 661)]]"
+  - "[[Yoh Kamiyama (🎙️ 659)]]"
 ListenInSec: 193
 NumberInAlbum: 0
 related:

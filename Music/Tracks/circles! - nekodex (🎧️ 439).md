@@ -7,8 +7,8 @@ Year: 2015
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[nekodex (🎙️ 388)]]"
-ListenInSec: 136
+  - "[[nekodex (🎙️ 386)]]"
+ListenInSec: 275
 NumberInAlbum: 0
 related: []
 source: ""

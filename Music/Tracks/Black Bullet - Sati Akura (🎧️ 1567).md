@@ -8,7 +8,7 @@ Year: 0
 Album: ""
 CoverOf: "[[Black Bullet - fripSide (🎧️ 1568)]]"
 Creators:
-  - "[[Sati Akura (🎙️ 357)]]"
+  - "[[Sati Akura (🎙️ 355)]]"
 ListenInSec: 630
 NumberInAlbum: 0
 related: []

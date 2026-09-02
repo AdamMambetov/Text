@@ -11,7 +11,7 @@ Year: 2020
 Album: ""
 CoverOf: "[[ANIMA - ReoNa]]"
 Creators:
-  - "[[Sati Akura (🎙️ 357)]]"
+  - "[[Sati Akura (🎙️ 355)]]"
 ListenInSec: 281
 NumberInAlbum: 0
 related: []

@@ -7,7 +7,7 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Kuba Oms (🎙️ 355)]]"
+  - "[[Kuba Oms (🎙️ 353)]]"
 ListenInSec: 493
 NumberInAlbum: 0
 related: []

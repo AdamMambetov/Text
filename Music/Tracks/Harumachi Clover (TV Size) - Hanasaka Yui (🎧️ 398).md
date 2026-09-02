@@ -7,8 +7,8 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Hanasaka Yui (🎙️ 563)]]"
-ListenInSec: 105
+  - "[[Hanasaka Yui (🎙️ 561)]]"
+ListenInSec: 140
 NumberInAlbum: 1
 related: []
 source:

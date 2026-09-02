@@ -7,8 +7,8 @@ Year: 2008
 Album: "[[Rise And Fall, Rage And Grace [2008] {The Offspring}]]"
 CoverOf: ""
 Creators:
-  - "[[The Offspring (🎙️ 459)]]"
-ListenInSec: 277
+  - "[[The Offspring (🎙️ 457)]]"
+ListenInSec: 280
 NumberInAlbum: 2
 related: []
 source: ""

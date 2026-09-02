@@ -9,7 +9,7 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[MYTH & ROID (🎙️ 384)]]"
+  - "[[MYTH & ROID (🎙️ 382)]]"
 ListenInSec: 693
 NumberInAlbum: 0
 related:

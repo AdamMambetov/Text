@@ -7,9 +7,9 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[HoneyWorks (🎙️ 259)]]"
-  - "[[Sora Amamiya (🎙️ 818)]]"
-ListenInSec: 51
+  - "[[HoneyWorks (🎙️ 257)]]"
+  - "[[Sora Amamiya (🎙️ 816)]]"
+ListenInSec: 313
 NumberInAlbum: 0
 related: []
 source: ""

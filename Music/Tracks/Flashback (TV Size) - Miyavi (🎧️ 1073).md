@@ -9,7 +9,7 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Miyavi (🎙️ 379)]]"
+  - "[[Miyavi (🎙️ 377)]]"
 ListenInSec: 181
 NumberInAlbum: 1
 related:

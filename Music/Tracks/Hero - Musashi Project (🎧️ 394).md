@@ -7,7 +7,7 @@ Year: 2005
 Album: "[[Naruto OST 3 (📀 17)]]"
 CoverOf: ""
 Creators:
-  - "[[Musashi Project (🎙️ 560)]]"
+  - "[[Musashi Project (🎙️ 558)]]"
 ListenInSec: 247
 NumberInAlbum: 22
 related: []

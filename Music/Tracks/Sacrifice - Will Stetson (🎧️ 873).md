@@ -7,7 +7,7 @@ Year: 2017
 Album: ""
 CoverOf: "[[Sacrifice - 9mm Parabellum Bullet (🎧️ 740)]]"
 Creators:
-  - "[[Will Stetson (🎙️ 481)]]"
+  - "[[Will Stetson (🎙️ 479)]]"
 ListenInSec: 500
 NumberInAlbum: 1
 related: []

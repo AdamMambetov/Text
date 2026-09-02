@@ -7,8 +7,8 @@ Year: 2008
 Album: "[[The Quick Brown Fox]]"
 CoverOf: ""
 Creators:
-  - "[[The Quick Brown Fox (🎙️ 462)]]"
-ListenInSec: 75
+  - "[[The Quick Brown Fox (🎙️ 460)]]"
+ListenInSec: 189
 NumberInAlbum: 10
 related: []
 source: ""

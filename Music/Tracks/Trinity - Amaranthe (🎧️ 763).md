@@ -8,7 +8,7 @@ Album: "[[Massive Addictive]]"
 CoverOf: ""
 Creators:
   - "[[Amaranthe (🎙️ 174)]]"
-ListenInSec: 193
+ListenInSec: 384
 NumberInAlbum: 3
 related: []
 source: ""

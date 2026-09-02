@@ -7,7 +7,7 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Red Hot Chili Peppers (🎙️ 426)]]"
+  - "[[Red Hot Chili Peppers (🎙️ 424)]]"
 ListenInSec: 643
 NumberInAlbum: 0
 related: []

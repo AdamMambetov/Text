@@ -7,7 +7,7 @@ Year: 2013
 Album: "[[Pax Vesania]]"
 CoverOf: ""
 Creators:
-  - "[[Yousei Teikoku (🎙️ 277)]]"
+  - "[[Yousei Teikoku (🎙️ 275)]]"
 ListenInSec: 1118
 NumberInAlbum: 2
 related: []

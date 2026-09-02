@@ -7,8 +7,8 @@ Year: 2006
 Album: "[[Death Note OST]]"
 CoverOf: ""
 Creators:
-  - "[[Yoshihisa Hirano (🎙️ 887)]]"
-ListenInSec: 115
+  - "[[Yoshihisa Hirano (🎙️ 886)]]"
+ListenInSec: 197
 NumberInAlbum: 20
 related: []
 source: ""

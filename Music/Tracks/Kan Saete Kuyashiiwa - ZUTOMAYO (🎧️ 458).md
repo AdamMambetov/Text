@@ -7,14 +7,14 @@ Year: 2019
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[ZUTOMAYO (🎙️ 588)]]"
-  - "[[ram seeni (🎙️ 589)]]"
-  - "[[Hyakkai Outo (🎙️ 590)]]"
-  - "[[Jun Murayama (🎙️ 591)]]"
-  - "[[ACANE (🎙️ 592)]]"
-  - "[[Yoshihiro Kawamura (🎙️ 593)]]"
-  - "[[Ryosuke Nikamoto (🎙️ 594)]]"
-  - "[[Takayuki Sasaki (🎙️ 595)]]"
+  - "[[ZUTOMAYO (🎙️ 586)]]"
+  - "[[ram seeni (🎙️ 587)]]"
+  - "[[Hyakkai Outo (🎙️ 588)]]"
+  - "[[Jun Murayama (🎙️ 589)]]"
+  - "[[ACANE (🎙️ 590)]]"
+  - "[[Yoshihiro Kawamura (🎙️ 591)]]"
+  - "[[Ryosuke Nikamoto (🎙️ 592)]]"
+  - "[[Takayuki Sasaki (🎙️ 593)]]"
 ListenInSec: 599
 NumberInAlbum: 1
 related: []

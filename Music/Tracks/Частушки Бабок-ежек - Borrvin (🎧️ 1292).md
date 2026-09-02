@@ -9,8 +9,8 @@ category:
   - "[[Искусственный интеллект]]"
 CoverOf: ""
 Creators:
-  - "[[Borrvin (🎙️ 891)]]"
-  - "[[Udio Ai (🎙️ 892)]]"
+  - "[[Borrvin (🎙️ 890)]]"
+  - "[[Udio Ai (🎙️ 891)]]"
 ListenInSec: 287
 NumberInAlbum: 1
 related: []

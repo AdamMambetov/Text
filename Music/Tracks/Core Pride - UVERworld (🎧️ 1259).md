@@ -10,8 +10,8 @@ Year: 2011
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[UVERworld (🎙️ 475)]]"
-ListenInSec: 2108
+  - "[[UVERworld (🎙️ 473)]]"
+ListenInSec: 2224
 NumberInAlbum: 0
 related: []
 source: ""

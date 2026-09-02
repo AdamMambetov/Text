@@ -7,8 +7,8 @@ Year: 2003
 Album: "[[Barrier Break]]"
 CoverOf: ""
 Creators:
-  - "[[Dieselboy (🎙️ 284)]]"
-ListenInSec: 39
+  - "[[Dieselboy (🎙️ 282)]]"
+ListenInSec: 47
 NumberInAlbum: 1
 related: []
 source: ""

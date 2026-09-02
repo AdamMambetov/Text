@@ -8,7 +8,7 @@ Year: 2002
 Album: "[[Naruto OST 1 — Toshio Masuda]]"
 CoverOf: ""
 Creators:
-  - "[[Musashi Project (🎙️ 560)]]"
+  - "[[Musashi Project (🎙️ 558)]]"
 ListenInSec: 150
 NumberInAlbum: 18
 related: []

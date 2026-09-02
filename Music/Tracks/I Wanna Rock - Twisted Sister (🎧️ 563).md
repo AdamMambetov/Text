@@ -7,7 +7,7 @@ Year: 2002
 Album: "[[Twisted Sister: Essentials]]"
 CoverOf: ""
 Creators:
-  - "[[Twisted Sister (🎙️ 474)]]"
+  - "[[Twisted Sister (🎙️ 472)]]"
 ListenInSec: 177
 NumberInAlbum: 2
 related: []

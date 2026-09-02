@@ -9,8 +9,8 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[UVERworld (🎙️ 475)]]"
-ListenInSec: 91
+  - "[[UVERworld (🎙️ 473)]]"
+ListenInSec: 183
 NumberInAlbum: 0
 related:
   - "[[Colors of the Heart - UVERworld (🎧️ 1258)]]"

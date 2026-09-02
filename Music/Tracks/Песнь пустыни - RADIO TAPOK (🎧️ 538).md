@@ -7,7 +7,7 @@ Year: 2022
 Album: "[[Наследие]]"
 CoverOf: ""
 Creators:
-  - "[[RADIO TAPOK (🎙️ 421)]]"
+  - "[[RADIO TAPOK (🎙️ 419)]]"
 ListenInSec: 223
 NumberInAlbum: 6
 related: []

@@ -9,7 +9,7 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Kenshi Yonezu (🎙️ 351)]]"
+  - "[[Kenshi Yonezu (🎙️ 349)]]"
 ListenInSec: 192
 NumberInAlbum: 1
 related: []

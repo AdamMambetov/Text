@@ -7,7 +7,7 @@ Year: 2013
 Album: "[[Wretched and Divine The Story of the Wild Ones]]"
 CoverOf: ""
 Creators:
-  - "[[Black Veil Brides (🎙️ 224)]]"
+  - "[[Black Veil Brides (🎙️ 222)]]"
 ListenInSec: 228
 NumberInAlbum: 18
 related: []

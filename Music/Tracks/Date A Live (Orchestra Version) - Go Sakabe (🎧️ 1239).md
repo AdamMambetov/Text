@@ -7,8 +7,8 @@ Year: 0
 Album: "[[Date A Live 1 OST]]"
 CoverOf: ""
 Creators:
-  - "[[Go Sakabe (🎙️ 317)]]"
-ListenInSec: 120
+  - "[[Go Sakabe (🎙️ 315)]]"
+ListenInSec: 232
 NumberInAlbum: 1
 related: []
 source: ""

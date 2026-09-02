@@ -7,7 +7,7 @@ Year: 2017
 Album: "[[A Decade of Destruction]]"
 CoverOf: ""
 Creators:
-  - "[[Five Finger Death Punch (🎙️ 309)]]"
+  - "[[Five Finger Death Punch (🎙️ 307)]]"
 ListenInSec: 247
 NumberInAlbum: 3
 related: []

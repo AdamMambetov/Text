@@ -7,7 +7,7 @@ Year: 2009
 Album: "[[Masterpiece Theatre]]"
 CoverOf: ""
 Creators:
-  - "[[Marianas Trench (🎙️ 883)]]"
+  - "[[Marianas Trench (🎙️ 882)]]"
 ListenInSec: 202
 NumberInAlbum: 9
 related: []

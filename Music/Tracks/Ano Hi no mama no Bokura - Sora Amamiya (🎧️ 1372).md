@@ -10,9 +10,9 @@ Year: 2024
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Sora Amamiya (🎙️ 818)]]"
-  - "[[Rie Takahashi (🎙️ 683)]]"
-  - "[[Kayano Ai (🎙️ 581)]]"
+  - "[[Sora Amamiya (🎙️ 816)]]"
+  - "[[Rie Takahashi (🎙️ 681)]]"
+  - "[[Kayano Ai (🎙️ 579)]]"
 ListenInSec: 443
 NumberInAlbum: 1
 related:

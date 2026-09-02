@@ -7,7 +7,7 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Twisted Sister (🎙️ 474)]]"
+  - "[[Twisted Sister (🎙️ 472)]]"
 ListenInSec: 666
 NumberInAlbum: 1
 related: []

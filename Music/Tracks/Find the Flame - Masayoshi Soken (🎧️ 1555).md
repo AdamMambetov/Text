@@ -8,7 +8,7 @@ Year: 2023
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Masayoshi Soken (🎙️ 942)]]"
+  - "[[Masayoshi Soken (🎙️ 941)]]"
 ListenInSec: 438
 NumberInAlbum: 1
 related: []

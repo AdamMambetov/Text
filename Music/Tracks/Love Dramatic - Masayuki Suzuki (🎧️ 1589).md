@@ -9,8 +9,8 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Masayuki Suzuki (🎙️ 668)]]"
-  - "[[Ihara Rikka (🎙️ 669)]]"
+  - "[[Masayuki Suzuki (🎙️ 666)]]"
+  - "[[Ihara Rikka (🎙️ 667)]]"
 ListenInSec: 822
 NumberInAlbum: 0
 related:

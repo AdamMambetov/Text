@@ -8,7 +8,7 @@ Album: "[[Перезвони мне +79995771202 (Deluxe)]]"
 CoverOf: ""
 Creators:
   - "[[Anacondaz (🎙️ 179)]]"
-ListenInSec: 26
+ListenInSec: -230
 NumberInAlbum: 2
 related: []
 source: ""

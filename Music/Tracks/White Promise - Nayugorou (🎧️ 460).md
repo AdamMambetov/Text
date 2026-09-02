@@ -7,8 +7,8 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Nayugorou (🎙️ 596)]]"
-ListenInSec: 107
+  - "[[Nayugorou (🎙️ 594)]]"
+ListenInSec: 197
 NumberInAlbum: 0
 related: []
 source: ""

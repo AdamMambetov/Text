@@ -7,8 +7,8 @@ Year: 2021
 Album: "[[Sonny Boy OST (📀 41)]]"
 CoverOf: ""
 Creators:
-  - "[[Ogawa & Tokoro (🎙️ 695)]]"
-ListenInSec: 98
+  - "[[Ogawa & Tokoro (🎙️ 693)]]"
+ListenInSec: 267
 NumberInAlbum: 8
 related: []
 source: ""

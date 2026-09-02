@@ -9,8 +9,8 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[UVERworld (🎙️ 475)]]"
-ListenInSec: 376
+  - "[[UVERworld (🎙️ 473)]]"
+ListenInSec: 404
 NumberInAlbum: 0
 related: []
 source: ""

@@ -7,8 +7,8 @@ Year: 2008
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Lynyrd Skynyrd (🎙️ 513)]]"
-ListenInSec: 26
+  - "[[Lynyrd Skynyrd (🎙️ 511)]]"
+ListenInSec: 313
 NumberInAlbum: 0
 related: []
 source: ""

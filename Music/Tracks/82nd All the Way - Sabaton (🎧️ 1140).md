@@ -7,7 +7,7 @@ Year: 2019
 Album: "[[The Great War]]"
 CoverOf: ""
 Creators:
-  - "[[Sabaton (🎙️ 432)]]"
+  - "[[Sabaton (🎙️ 430)]]"
 ListenInSec: 580
 NumberInAlbum: 3
 related: []

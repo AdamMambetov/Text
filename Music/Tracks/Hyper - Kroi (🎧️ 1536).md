@@ -9,7 +9,7 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Kroi (🎙️ 712)]]"
+  - "[[Kroi (🎙️ 710)]]"
 ListenInSec: 1235
 NumberInAlbum: 0
 related:

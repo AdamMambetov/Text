@@ -9,8 +9,8 @@ Year: 2021
 Album: ""
 CoverOf: "[[Let Me Hear - Fear and Loathing in Las Vegas]]"
 Creators:
-  - "[[Kari (🎙️ 349)]]"
-  - "[[Blaze (🎙️ 226)]]"
+  - "[[Kari (🎙️ 347)]]"
+  - "[[Blaze (🎙️ 224)]]"
 ListenInSec: 219
 NumberInAlbum: 0
 related: []

@@ -7,7 +7,7 @@ Year: 2015
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Komiya Mao (🎙️ 620)]]"
+  - "[[Komiya Mao (🎙️ 618)]]"
 ListenInSec: 456
 NumberInAlbum: 0
 related: []

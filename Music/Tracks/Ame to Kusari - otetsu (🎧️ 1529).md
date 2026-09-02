@@ -8,7 +8,7 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[otetsu (🎙️ 403)]]"
+  - "[[otetsu (🎙️ 401)]]"
 ListenInSec: 236
 NumberInAlbum: 1
 related:

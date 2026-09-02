@@ -7,7 +7,7 @@ Year: 2021
 Album: "[[Ame to Kusari]]"
 CoverOf: ""
 Creators:
-  - "[[Onsa Media (🎙️ 402)]]"
+  - "[[Onsa Media (🎙️ 400)]]"
 ListenInSec: 583
 NumberInAlbum: 1
 related: []

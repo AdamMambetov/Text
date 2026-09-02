@@ -8,7 +8,7 @@ Year: 0
 Album: ""
 CoverOf: "[[Шаг в темноту - Рок-Опера Орфей (🎧️ 845)]]"
 Creators:
-  - "[[Plamenev (🎙️ 414)]]"
+  - "[[Plamenev (🎙️ 412)]]"
 ListenInSec: 309
 NumberInAlbum: 0
 related:

@@ -7,8 +7,8 @@ Year: 2017
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Fitz and The Tantrums (🎙️ 636)]]"
-ListenInSec: 113
+  - "[[Fitz and The Tantrums (🎙️ 634)]]"
+ListenInSec: 115
 NumberInAlbum: 2
 related: []
 source: ""

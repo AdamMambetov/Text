@@ -7,8 +7,8 @@ Year: 2015
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Reol (🎙️ 427)]]"
-ListenInSec: 94
+  - "[[Reol (🎙️ 425)]]"
+ListenInSec: 185
 NumberInAlbum: 0
 related: []
 source: ""

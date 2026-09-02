@@ -14,7 +14,7 @@ CoverOf: "[[Crossing Field - LiSA (🎧️ 1439)]]"
 Creators:
   - "[[Radiant Records (🎙️ 39)]]"
   - "[[Hono (🎙️ 51)]]"
-ListenInSec: 4280
+ListenInSec: 4352
 NumberInAlbum: 1
 related: []
 SourceFile: "[[Radiant Records - Перепутье.mp3]]"

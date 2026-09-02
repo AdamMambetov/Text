@@ -1,13 +1,13 @@
 ---
 created: 2026-06-11T22:47:59+03:00
 aliases:
-  - "Eugene R - Пётр Ильич Чайковский Танец Феи Драже"
+  - "Пётр Ильич Чайковский - Танец Феи Драже"
 Cover: "[[Eugene R - Пётр Ильич Чайковский Танец Феи Драже.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""
 Creators: []
-ListenInSec: 8
+ListenInSec: 214
 NumberInAlbum: 0
 related: []
 source: ""

@@ -7,7 +7,7 @@ Year: 2020
 Album: "[[A Pretty Picture in a Most Disturbing Way [2020] {YOHIO}]]"
 CoverOf: ""
 Creators:
-  - "[[YOHIO (🎙️ 486)]]"
+  - "[[YOHIO (🎙️ 484)]]"
 ListenInSec: 242
 NumberInAlbum: 4
 related: []

@@ -9,8 +9,8 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators:
-  - "[[Larval Stage Planning (🎙️ 833)]]"
-ListenInSec: 431
+  - "[[Larval Stage Planning (🎙️ 832)]]"
+ListenInSec: 681
 NumberInAlbum: 1
 related:
   - "[[Trip Innocent of D (TV Size)]]"
