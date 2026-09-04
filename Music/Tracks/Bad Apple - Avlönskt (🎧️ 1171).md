@@ -8,7 +8,7 @@ Album: ""
 CoverOf: "[[Bad Apple - Touhou Project (🎧️ 1709)]]"
 Creators:
   - "[[Avlönskt (🎙️ 1)]]"
-ListenInSec: 7077
+ListenInSec: 7406
 NumberInAlbum: 0
 related:
   - "[[Bad Apple - Anton Cloudjumper Gustin (🎧️ 2166)]]"

@@ -7,12 +7,12 @@ aliases:
 Cover: "[[THE ORAL CIGARETTES - Kyouran Hey Kids!!.jpg]]"
 Year: 0
 Album: ""
-CoverOf: ""
 Creators:
   - "[[THE ORAL CIGARETTES (🎙️ 823)]]"
-ListenInSec: 7162
 NumberInAlbum: 0
 related: []
 SourceFile: "[[THE ORAL CIGARETTES - Kyouran Hey Kids!!.opus]]"
+ListenInSec: 7410
+CoverOf: ""
 ---
 

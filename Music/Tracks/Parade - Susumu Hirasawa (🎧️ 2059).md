@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Susumu Hirasawa (🎙️ 450)]]"
-ListenInSec: 7441
+ListenInSec: 8126
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Crizz “Chisp” Boi - Susumu Hirasawa - Parade.mp3]]"
