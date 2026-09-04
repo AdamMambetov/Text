@@ -6,7 +6,7 @@ aliases:
 Cover: "[[Onsa Media - Fukashigi no Carte.png]]"
 Year: 2021
 Album: ""
-CoverOf: "[[Fukashigi no Carte - Asami Seto (🎧️ 1774)]]"
+CoverOf: "[[Fukashigi no Carte - Asami Seto (🎧️ 1770)]]"
 Creators:
   - "[[Onsa Media (🎙️ 400)]]"
 ListenInSec: 255

@@ -2,13 +2,13 @@
 created: 2025-01-07T20:08:28+03:00
 aliases:
   - "Shine On Harvest Moon"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Over the Garden Wall OST.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""
 Creators:
   - "[[The Blasting Company (🎙️ 917)]]"
-ListenInSec: 289
+ListenInSec: 296
 NumberInAlbum: 1
 related: []
 source: ""

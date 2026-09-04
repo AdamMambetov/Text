@@ -2,13 +2,13 @@
 created: 2025-01-07T20:10:26+03:00
 aliases:
   - "Two Old Cat"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Over the Garden Wall OST.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""
 Creators:
   - "[[The Blasting Company (🎙️ 917)]]"
-ListenInSec: 549
+ListenInSec: 564
 NumberInAlbum: 1
 related: []
 source: ""

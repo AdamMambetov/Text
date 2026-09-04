@@ -2,7 +2,7 @@
 created: 2025-01-07T19:59:58+03:00
 aliases:
   - "Courting Song"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Over the Garden Wall OST.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

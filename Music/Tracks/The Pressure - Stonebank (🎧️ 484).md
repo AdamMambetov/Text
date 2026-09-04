@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Stonebank (🎙️ 615)]]"
-ListenInSec: 192
+ListenInSec: 277
 NumberInAlbum: 1
 related: []
 source: ""

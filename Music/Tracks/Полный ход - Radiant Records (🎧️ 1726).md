@@ -8,7 +8,7 @@ aliases:
 Cover: "[[Radiant Records - ПЕРЕПУТЬЕ.jpg]]"
 Year: 0
 Album: "[[ПЕРЕПУТЬЕ — Radiant Records]]"
-CoverOf: "[[EASY GO - Kazuki Kato (🎧️ 1878)]]"
+CoverOf: "[[EASY GO - Kazuki Kato (🎧️ 1869)]]"
 Creators:
   - "[[Radiant Records (🎙️ 39)]]"
   - "[[Nibiru (🎙️ 44)]]"
@@ -16,7 +16,7 @@ Creators:
 ListenInSec: 2093
 NumberInAlbum: 0
 related:
-  - "[[EASY GO (TV Size) - Kazuki Kato (🎧️ 1879)]]"
+  - "[[EASY GO (TV Size) - Kazuki Kato (🎧️ 1870)]]"
 source: ""
 SourceFile: "[[Radiant Records - Полный ход.mp3]]"
 ---

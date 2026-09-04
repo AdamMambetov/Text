@@ -8,7 +8,7 @@ Album: "[[The Sacrament of Sin (📀 39)]]"
 CoverOf: ""
 Creators:
   - "[[Powerwolf (🎙️ 416)]]"
-ListenInSec: 3994
+ListenInSec: 4243
 NumberInAlbum: 3
 related: []
 SourceFile: "[[Powerwolf - Killers with the Cross.mp3]]"

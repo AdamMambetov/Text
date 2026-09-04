@@ -22,20 +22,6 @@
             }
           },
           {
-            "id": "6fb0891b82e2bdc5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Note/PostgreSQL.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "PostgreSQL"
-            }
-          },
-          {
             "id": "db691d31a042de63",
             "type": "leaf",
             "state": {
@@ -50,17 +36,21 @@
             }
           },
           {
-            "id": "7e3c74c490a3297e",
+            "id": "5dfa03b7e1b6d384",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Music/Tracks/Rapa - Umineko no Naku Koro ni - Music collection from ＂Umineko＂ for Clarinet Quintet and piano.md",
+                "mode": "preview",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Rapa - Umineko no Naku Koro ni - Music collection from ＂Umineko＂ for Clarinet Quintet and piano"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -156,6 +146,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Music/Tracks/Unravel (TV Size) - Leon Alex (🎧️ 150).md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -229,35 +220,35 @@
       "obsidian-excalidraw-plugin:New drawing": true
     }
   },
-  "active": "7e3c74c490a3297e",
+  "active": "5dfa03b7e1b6d384",
   "lastOpenFiles": [
-    "Note/content/цели в жизни.md",
-    "Note/home/Где.md",
-    "Note/content/PostgreSQL.md",
-    "Note/home/homepage.md",
-    "Personal/Ахмед.md",
-    "Note/home/Где я живу.md",
-    "Note/content/Смотреть позже.md",
-    "Note/projects/homelab/homelab.md",
-    "Note/content/Где смотреть аниме.md",
-    "Note/content/Сайт с крутыми шляпами.md",
-    "Music/Tracks/Rhythm Heaven - Remix 5.md",
-    "Music/Tracks/Discussion -HEAT UP- - Masafumi Takada (🎧️ 1496).md",
-    "Music/Creators/Avocado Boi (🎙️ 203).md",
-    "Music/Playlists/Путешествие (💿 23).md",
-    "Music/Playlists/Джаз (💿 22).md",
-    "Music/Playlists/Любовь (💿 21).md",
-    "Music/Playlists/Драйв (💿 20).md",
-    "Music/Tracks/My Soul, Your Beats! (TV Size) - Lia (🎧️ 1750).md",
+    "Music/Tracks/GATEWAY LOVE (off vocal) - Zwei (🎧️ 1913).md",
+    "Music/Tracks/GATEWAY LOVE - Zwei (🎧️ 1911).md",
+    "Music/Tracks/Негры все пидорасы - mazyaka (🎧️ 1867).md",
+    "Music/Creators/mazyaka (🎙️ 999).md",
+    "Music/Tracks/STRAIGHT BET - MYTH & ROID (🎧️ 1858).md",
+    "Music/Tracks/Eerie - Kenichiro Suehiro (🎧️ 1847).md",
+    "Music/Tracks/Rhythm Tengoku OST - The Bon Odori - Tsunku (🎧️ 1792).md",
+    "Music/Tracks/Rhythm Tengoku OST - The Clappy Trio - Tsunku (🎧️ 1791).md",
+    "Music/Tracks/Rhythm Tengoku - Remix 2 - Tsunku (🎧️ 1790).md",
+    "Music/Tracks/Rhythm Tengoku OST - Remix 1 - Masami Yone (🎧️ 1789).md",
+    "Music/Tracks/Rhythm Tengoku OST - Built to Scale - Tsunku (🎧️ 1788).md",
+    "Music/Tracks/Rhythm Tengoku OST - Remix 3 - Tsunku (🎧️ 1787).md",
+    "Music/Creators/Ami Tokito (🎙️ 998).md",
+    "Music/Tracks/FateApocrypha - Masaru Yokoyama (🎧️ 1786).md",
+    "Music/Creators/Masaru Yokoyama (🎙️ 997).md",
+    "Music/Tracks/Unravel (TV Size) - Leon Alex (🎧️ 150).md",
+    "Music/Tracks/V.I.P (TV Size) - DiWilliam (🎧️ 1274).md",
+    "Music/Tracks/V.I.P - SID (🎧️ 1593).md",
+    "Music/Tracks/Rhythm Tengoku OST - Hopping Road - Tsunku (🎧️ 1785).md",
+    "Music/Tracks/Rhythm Tengoku OST - Cosmo Dance - Tsunku (🎧️ 1784).md",
+    "Music/Tracks/Rhythm Tengoku OST - Turbo Tap Trial - Tsunku (🎧️ 1783).md",
+    "Music/Tracks/Rhythm Tengoku OST - Marcher - Masami Yone (🎧️ 1782).md",
+    "Music/Tracks/Rhythm Tengoku OST - Vegeta Pull - Masami Yone (🎧️ 1781).md",
+    "Music/Tracks/Rhythm Tengoku OST - Remix 6 - Masami Yone (🎧️ 1780).md",
+    "Music/Tracks/Rhythm Tengoku OST - Spaceball Game - Tsunku (🎧️ 1779).md",
+    "Music/Tracks/Elevator Music - aeiouFU (🎧️ 1778).md",
     "Music/Covers/Lia - My Soul, Your Beats!.jpg",
-    "Music/Tracks/Ритм души - Radiant Records (🎧️ 1711).md",
-    "Music/Tracks/Tori no Uta - Lia (🎧️ 1741).md",
-    "Music/Playlists/100% Шедевр (💿 6).md",
-    "Music/Tracks/Toccata and Fugue in D Minor BWV 565 - Bach (🎧️ 1740).md",
-    "Music/Creators/Bach (🎙️ 977).md",
-    "Music/Tracks/The Ecstasy of Gold - Theremin & Voice - Carolina Eyck (🎧️ 1739).md",
-    "Music/Creators/Carolina Eyck (🎙️ 976).md",
-    "Music/Tracks/'Shape of You' but it's Smash Mouth singing 'All Star' - Engval Music (🎧️ 1648).md",
     "Music/Covers/Rotten Toten - Ужин у вдовы.jpg",
     "Music/Covers/Hiroyuki Sawano - LEveL (TV Size).jpg",
     "Music/Covers/Nana Kitade - 18 -eighteen-.jpg",

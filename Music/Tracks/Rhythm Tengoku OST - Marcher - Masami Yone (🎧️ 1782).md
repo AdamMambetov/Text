@@ -1,0 +1,27 @@
+---
+created: 2025-10-28T22:05:48+03:00
+aliases:
+  - "Rhythm Tengoku OST - Marcher"
+  - "Marching Orders"
+Cover: "[[Rhythm Tengoku - Marcher.jpg]]"
+Year: 0
+Album: ""
+CoverOf: ""
+Creators:
+  - "[[Masami Yone (🎙️ 982)]]"
+  - "[[Daisuke Shiiba (🎙️ 983)]]"
+ListenInSec: 560
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[lomb_TV_LombTV - Rhythm_Tengoku_-_Marcher_Marching_Orders.mp3]]"
+---
+
+`$=dv.header(1, dv.current().aliases[0])`
+
+![[lomb_TV_LombTV - Rhythm_Tengoku_-_Marcher_Marching_Orders.mp3]]
+
+## Related Tracks
+
+![[related tracks.base]]
+

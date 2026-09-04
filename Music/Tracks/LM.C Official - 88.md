@@ -1,13 +1,16 @@
 ---
 created: 2026-06-11T23:36:18+03:00
 aliases:
-  - "LM.C Official - 88"
+  - "88"
+  - "Katekyou Hitman Reborn OP 4"
+  - "Репетитор-киллер Реборн OP 4"
 Cover: "[[LM.C Official - 88.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""
-Creators: []
-ListenInSec: 288
+Creators:
+  - "[[LM.C (🎙️ 825)]]"
+ListenInSec: 519
 NumberInAlbum: 0
 related: []
 source: ""

@@ -2,7 +2,7 @@
 created: 2025-01-07T20:01:25+03:00
 aliases:
   - "McLaughlin Bros. Jug Band"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Over the Garden Wall OST.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

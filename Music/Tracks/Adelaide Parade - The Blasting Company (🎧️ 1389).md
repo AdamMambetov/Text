@@ -2,7 +2,7 @@
 created: 2025-01-07T19:57:32+03:00
 aliases:
   - "Adelaide Parade"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Over the Garden Wall OST.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""
@@ -10,7 +10,7 @@ Creators:
   - "[[The Blasting Company (🎙️ 917)]]"
   - "[[Colin Dean (🎙️ 924)]]"
   - "[[Elijah Wood (🎙️ 925)]]"
-ListenInSec: 290
+ListenInSec: 385
 NumberInAlbum: 1
 related: []
 source: ""

@@ -10,9 +10,9 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[THE ORAL CIGARETTES (🎙️ 823)]]"
-ListenInSec: 5560
+ListenInSec: 7162
 NumberInAlbum: 0
 related: []
-SourceFile: "[[THE ORAL CIGARETTES - Kyouran Hey Kids!!.mp3]]"
+SourceFile: "[[THE ORAL CIGARETTES - Kyouran Hey Kids!!.opus]]"
 ---
 

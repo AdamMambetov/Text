@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Luke Pickman (🎙️ 777)]]"
-ListenInSec: 6020
+ListenInSec: 6362
 NumberInAlbum: 0
 related: []
 SourceFile: "[[InstrumentManiac - UNDERTALE - Bonetrousle.mp3]]"

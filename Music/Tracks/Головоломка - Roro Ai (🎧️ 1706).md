@@ -8,7 +8,7 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
-CoverOf: "[[Puzzle - Round Table (🎧️ 1913)]]"
+CoverOf: "[[Puzzle - Round Table (🎧️ 1909)]]"
 Creators:
   - "[[Roro Ai (🎙️ 715)]]"
   - "[[Ryrynoli (🎙️ 716)]]"

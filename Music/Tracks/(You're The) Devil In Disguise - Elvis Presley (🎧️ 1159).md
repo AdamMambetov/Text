@@ -8,7 +8,7 @@ Album: "[[The Essential Elvis Presley]]"
 CoverOf: ""
 Creators:
   - "[[Elvis Presley (🎙️ 299)]]"
-ListenInSec: 194
+ListenInSec: 334
 NumberInAlbum: 7
 related: []
 source: ""

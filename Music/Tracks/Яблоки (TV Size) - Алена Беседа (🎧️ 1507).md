@@ -11,7 +11,7 @@ Album: ""
 CoverOf: "[[The Wolf Whistling Song (TV Size) - Ringo Biyori (🎧️ 1508)]]"
 Creators:
   - "[[Алена Беседа (🎙️ 736)]]"
-ListenInSec: 430
+ListenInSec: 431
 NumberInAlbum: 0
 related:
   - "[[The Wolf Whistling Song - Ringo Biyori (🎧️ 1509)]]"

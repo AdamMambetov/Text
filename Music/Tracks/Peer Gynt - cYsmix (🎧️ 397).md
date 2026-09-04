@@ -2,7 +2,7 @@
 created: 2022-05-02T03:18:16+03:00
 aliases:
   - "Peer Gynt"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[cYsmix - Peer Gynt.jpg]]"
 Year: 2016
 Album: ""
 CoverOf: ""

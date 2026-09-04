@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Eve (🎙️ 34)]]"
-ListenInSec: 522
+ListenInSec: 778
 NumberInAlbum: 0
 related:
   - "[[Fight Song (TV Size) - Eve]]"

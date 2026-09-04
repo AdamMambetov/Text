@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Engval Music (🎙️ 957)]]"
-ListenInSec: 957
+ListenInSec: 1070
 NumberInAlbum: 0
 related:
   - "[[All Star - Smash Mouth (🎧️ 25)]]"

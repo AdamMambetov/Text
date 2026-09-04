@@ -8,6 +8,7 @@ Album: "[[Barrier Break]]"
 CoverOf: ""
 Creators:
   - "[[Dieselboy (🎙️ 282)]]"
+  - "[[Kaos (🎙️ 993)]]"
 ListenInSec: 47
 NumberInAlbum: 1
 related: []

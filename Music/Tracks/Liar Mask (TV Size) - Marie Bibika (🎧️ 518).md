@@ -10,7 +10,7 @@ Album: ""
 CoverOf: "[[Liar Mask (TV Size) - Rika Mayama (🎧️ 1691)]]"
 Creators:
   - "[[Marie Bibika (🎙️ 372)]]"
-ListenInSec: 185
+ListenInSec: 197
 NumberInAlbum: 0
 related: []
 source: ""

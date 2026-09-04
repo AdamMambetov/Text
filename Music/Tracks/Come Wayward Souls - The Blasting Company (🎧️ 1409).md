@@ -2,14 +2,14 @@
 created: 2025-01-07T20:05:04+03:00
 aliases:
   - "Come Wayward Souls"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Over the Garden Wall OST.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""
 Creators:
   - "[[The Blasting Company (🎙️ 917)]]"
   - "[[Samuel Ramey (🎙️ 933)]]"
-ListenInSec: 226
+ListenInSec: 233
 NumberInAlbum: 1
 related: []
 source: ""

@@ -12,7 +12,7 @@ Creators:
 ListenInSec: 302
 NumberInAlbum: 0
 related:
-  - "[[HIGHEST (TV Size) - OxT (🎧️ 1878)]]"
+  - "[[HIGHEST (TV Size) - OxT (🎧️ 1866)]]"
 SourceFile: "[[OxT - HIGHEST.mp3]]"
 ---
 

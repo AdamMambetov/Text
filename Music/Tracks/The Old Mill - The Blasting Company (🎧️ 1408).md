@@ -2,13 +2,13 @@
 created: 2025-01-07T20:04:50+03:00
 aliases:
   - "The Old Mill"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Over the Garden Wall OST.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""
 Creators:
   - "[[The Blasting Company (🎙️ 917)]]"
-ListenInSec: 254
+ListenInSec: 263
 NumberInAlbum: 1
 related: []
 source: ""

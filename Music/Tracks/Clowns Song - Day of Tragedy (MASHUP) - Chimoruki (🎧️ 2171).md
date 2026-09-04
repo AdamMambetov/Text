@@ -11,8 +11,8 @@ Creators:
 ListenInSec: 625
 NumberInAlbum: 0
 related:
-  - "[[Your Turn To Die OST - 23 Clown's Song (EXTENDED)]]"
-  - "[[Your Turn To Die OST - 07 Day of Tragedy (EXTENDED)]]"
+  - "[[Your Turn To Die OST - 23 Clown's Song (EXTENDED) - Nankidai (🎧️ 1906)]]"
+  - "[[Your Turn To Die OST - 07 Day of Tragedy (EXTENDED) - Nankidai (🎧️ 1891)]]"
 SourceFile: "[[Chimoruki - [YTTD] Clowns Song ⧸ Day of Tragedy [MASHUP].mp3]]"
 ---
 

@@ -2,7 +2,7 @@
 created: 2025-01-07T19:57:04+03:00
 aliases:
   - "Patient Is the Night"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Over the Garden Wall OST.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

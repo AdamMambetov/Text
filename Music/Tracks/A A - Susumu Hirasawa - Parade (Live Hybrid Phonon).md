@@ -8,19 +8,10 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Susumu Hirasawa (🎙️ 450)]]"
-ListenInSec: 6325
+ListenInSec: 7097
 NumberInAlbum: 0
 related:
   - "[[Parade - Susumu Hirasawa (🎧️ 2059)]]"
-source: ""
 SourceFile: "[[A A - Susumu Hirasawa - Parade (Live Hybrid Phonon).mp3]]"
 ---
-
-`$=dv.header(1, dv.current().aliases[0])`
-
-![[A A - Susumu Hirasawa - Parade (Live Hybrid Phonon).mp3]]
-
-## Related Tracks
-
-![[related tracks.base]]
 

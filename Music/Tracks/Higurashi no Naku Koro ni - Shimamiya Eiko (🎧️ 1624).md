@@ -9,7 +9,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Shimamiya Eiko (🎙️ 50)]]"
-ListenInSec: 4023
+ListenInSec: 4290
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Shimamiya Eiko - Higurashi no Naku Koro ni.mp3]]"

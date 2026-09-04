@@ -2,13 +2,13 @@
 created: 2025-01-07T20:07:48+03:00
 aliases:
   - "Can't You See I'm Lonely"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Over the Garden Wall OST.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""
 Creators:
   - "[[The Blasting Company (🎙️ 917)]]"
-ListenInSec: -79
+ListenInSec: -72
 NumberInAlbum: 1
 related: []
 source: ""

@@ -12,7 +12,7 @@ Creators:
 ListenInSec: 152
 NumberInAlbum: 1
 related:
-  - "[[Fukashigi no Carte - Asami Seto (🎧️ 1774)]]"
+  - "[[Fukashigi no Carte - Asami Seto (🎧️ 1770)]]"
 source: ""
 SourceFile: "[[Koga Tomoe - Fukashigi no Carte (TV Size).mp3]]"
 ---

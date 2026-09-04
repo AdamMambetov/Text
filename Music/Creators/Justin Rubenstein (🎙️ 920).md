@@ -2,7 +2,7 @@
 created: 2026-08-19T15:06:47+03:00
 aliases:
   - "Justin Rubenstein"
-ListenInSec: 695
+ListenInSec: 709
 ---
 
 # Justin Rubenstein

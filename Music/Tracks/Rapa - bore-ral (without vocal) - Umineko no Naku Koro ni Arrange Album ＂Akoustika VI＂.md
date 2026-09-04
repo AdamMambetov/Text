@@ -7,9 +7,10 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators: []
-ListenInSec: 5633
+ListenInSec: 6475
 NumberInAlbum: 0
-related: []
+related:
+  - "[[bore-ral - xaki (🎧️ 974)]]"
 SourceFile: "[[Rapa - bore-ral [without vocal] - Umineko no Naku Koro ni Arrange Album ＂Akoustika VI＂.mp3]]"
 ---
 

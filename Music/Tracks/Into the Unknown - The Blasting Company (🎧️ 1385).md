@@ -4,7 +4,7 @@ aliases:
   - "Into the Unknown"
   - "Over The Garden Wall OP 1"
   - "По ту сторону изгороди OP 1"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Over the Garden Wall OST.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

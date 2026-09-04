@@ -2,9 +2,6 @@
 created: 2025-11-19T22:39:02+03:00
 aliases:
   - "ASOBI"
-ListenInSec: 976
+ListenInSec: 1229
 ---
-
-# ASOBI
-
 

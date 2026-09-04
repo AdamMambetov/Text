@@ -8,7 +8,7 @@ Album: "[[Paprika OST (📀 21)]]"
 CoverOf: ""
 Creators:
   - "[[Susumu Hirasawa (🎙️ 450)]]"
-ListenInSec: 4085
+ListenInSec: 4372
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Paprika OST - The Girl in Byakkoya.mp3]]"

@@ -2,7 +2,7 @@
 created: 2025-01-07T20:02:48+03:00
 aliases:
   - "Like Ships"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Over the Garden Wall OST.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""
@@ -10,7 +10,7 @@ Creators:
   - "[[The Blasting Company (🎙️ 917)]]"
   - "[[Elijah Wood (🎙️ 925)]]"
   - "[[Shannyn Sossamon (🎙️ 929)]]"
-ListenInSec: 64
+ListenInSec: 71
 NumberInAlbum: 1
 related: []
 source: ""

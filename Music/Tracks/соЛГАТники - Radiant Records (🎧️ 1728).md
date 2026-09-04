@@ -7,7 +7,7 @@ aliases:
 Cover: "[[Radiant Records - ПЕРЕПУТЬЕ.jpg]]"
 Year: 0
 Album: ""
-CoverOf: "[[aLIEz - Hiroyuki Sawano (🎧️ 1785)]]"
+CoverOf: "[[aLIEz - Hiroyuki Sawano (🎧️ 1775)]]"
 Creators:
   - "[[Radiant Records (🎙️ 39)]]"
   - "[[Molli (🎙️ 47)]]"

@@ -12,7 +12,7 @@ Creators:
 ListenInSec: 352
 NumberInAlbum: 4
 related:
-  - "[[Toni's Music Library - Do Ya Thing (Game Version) (Clean)]]"
+  - "[[Do Ya Thing (Game Version) - P$C (🎧️ 1753)]]"
 source: ""
 SourceFile: "[[P$C - Do Ya Thing.mp3]]"
 ---

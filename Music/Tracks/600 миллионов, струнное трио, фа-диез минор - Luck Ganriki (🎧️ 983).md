@@ -8,7 +8,7 @@ Album: "[[Umineko no Naku Koro ni OST (📀 30)]]"
 CoverOf: ""
 Creators:
   - "[[Luck Ganriki (🎙️ 4)]]"
-ListenInSec: 312
+ListenInSec: 427
 NumberInAlbum: 117
 related:
   - "[[200 миллионов (короткая). До минор, орган - Luck Ganriki (🎧️ 1021)]]"

@@ -2,6 +2,8 @@
 created: 2024-10-23T13:49:02+03:00
 aliases:
   - "V.I.P (TV Size)"
+  - "Маги OP 1"
+  - "VIP (TV Size)"
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: "[[V.I.P]]"
