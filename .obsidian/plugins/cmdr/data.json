@@ -24,6 +24,7 @@
   "pageHeader": [],
   "macros": [],
   "explorer": [],
+  "textToolbarCommands": [],
   "hide": {
     "statusbar": [
       "backlink",
@@ -31,9 +32,13 @@
     ],
     "leftRibbon": [
       "Create new drawing"
-    ]
+    ],
+    "editorMenuItems": [],
+    "fileMenuItems": [],
+    "seenEditorMenuItems": [],
+    "seenFileMenuItems": []
   },
-  "spacing": 8,
+  "spacing": 0,
   "advancedToolbar": {
     "rowHeight": 48,
     "rowCount": 1,
@@ -43,5 +48,6 @@
     "mappedIcons": [],
     "tooltips": false,
     "heightOffset": 0
-  }
+  },
+  "spacingReset": true
 }

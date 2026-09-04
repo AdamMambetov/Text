@@ -136,8 +136,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 336.5,
-    "collapsed": true
+    "width": 336.5
   },
   "right": {
     "id": "fa85d1514c56552d",
@@ -185,13 +184,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Music/Tracks/Rapa - peace-eases - Umineko no Naku Koro ni Arrange Album ＂Akoustika Ⅱ＂.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Rapa - peace-eases - Umineko no Naku Koro ni Arrange Album ＂Akoustika Ⅱ＂"
+              "title": "Outline"
             }
           },
           {
@@ -259,8 +257,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 484.08984375,
-    "collapsed": true
+    "width": 484.08984375
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -270,21 +267,23 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": true,
       "homepage:Open homepage": false,
-      "cmdr:Track Edit": false,
       "quickadd:QuickAdd": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "cmdr:QuickAdd: смотреть позже": false,
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false,
       "modalforms:Edit forms": false,
       "omnisearch:Omnisearch": false,
       "3d-graph-new:Global 3D Graph": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "cmdr:QuickAdd: смотреть позже": false,
+      "cmdr:Track Edit": false
     }
   },
-  "active": "9b36385a2325dfca",
+  "active": "6288a4b67d726840",
   "lastOpenFiles": [
+    "Note/excalidraw/Music Player Scheme.excalidraw.md",
+    "Music/Tracks/'Shape of You' but it's Smash Mouth singing 'All Star' - Engval Music (🎧️ 1648).md",
     "Note/Регулярные выражения.md",
     "Note/PostgreSQL.md",
     "Note/projects/unreal engine/Unreal Engine.md",
@@ -310,8 +309,6 @@
     "Music/Tracks/TimeShift OST - 3 Drop Like Flies - Gabriel Mann (🎧️ 1707).md",
     "Music/Creators/Rebecca Kneubuhl (🎙️ 975).md",
     "Music/Creators/Gabriel Mann (🎙️ 974).md",
-    "Music/Tracks/Миссия! Здо·ровье·глав·ное - Roro Ai (🎧️ 1695).md",
-    "Music/Tracks/Mission! Ken·Kou·Dai·Ichi (TV Size) - Kana Hanazawa (🎧️ 1702).md",
     "Music/Covers/Masayoshi Soken - Find the Flame.jpg",
     "Music/Covers/_No Album Art.jpg",
     "Music/Covers/Animal Crossing. New Leaf OST.png",
