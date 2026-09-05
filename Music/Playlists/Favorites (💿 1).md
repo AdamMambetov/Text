@@ -1517,7 +1517,7 @@ tracklist:
   - "[[Free Flight – перевод - (Free Flight ft. Delvirta) Katayoku no Tori TV-size (Umineko no Naku Koro ni OP RUS Cover)]]"
   - "[[Rapa - Umineko no Naku Koro ni - Music collection from ＂Umineko＂ for Clarinet Quintet and piano]]"
   - "[[InstrumentManiac - UNDERTALE - Bonetrousle]]"
-  - "[[A A - Susumu Hirasawa - Parade (Live Hybrid Phonon)]]"
+  - "[[Parade (Live Hybrid Phonon) - Susumu Hirasawa (🎧️ 2182)]]"
   - "[[Cleaned Music - 13： Banana Grooves ｜ Classroom of the Elite Season 2⧸3 Official OST]]"
   - "[[Xenoblade Chronicles OST - Uncontrollable - Xenoblade Chronicles X OST]]"
   - "[[Your Turn To Die OST - 11 Cardiogram Prelude (EXTENDED) - Nankidai (🎧️ 1894)]]"

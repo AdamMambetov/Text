@@ -36,7 +36,27 @@
     "editorMenuItems": [],
     "fileMenuItems": [],
     "seenEditorMenuItems": [],
-    "seenFileMenuItems": []
+    "seenFileMenuItems": [
+      "New note",
+      "New folder",
+      "Rename...",
+      "Make a copy",
+      "Delete",
+      "Move folder to...",
+      "from vault folder",
+      "from system root",
+      "Show in system explorer",
+      "Search in folder",
+      "Bookmark...",
+      "New base",
+      "Lint folder",
+      "Ignore folder in Linter",
+      "Create new note from template",
+      "Git: Stage",
+      "Git: Unstage",
+      "Git: Add to .gitignore",
+      "New drawing"
+    ]
   },
   "spacing": 0,
   "advancedToolbar": {

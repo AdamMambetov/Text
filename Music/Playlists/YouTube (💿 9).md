@@ -231,7 +231,7 @@ tracklist:
   - "[[Free Flight – перевод - (Free Flight ft. Delvirta) Katayoku no Tori TV-size (Umineko no Naku Koro ni OP RUS Cover)]]"
   - "[[Rapa - Umineko no Naku Koro ni - Music collection from ＂Umineko＂ for Clarinet Quintet and piano]]"
   - "[[InstrumentManiac - UNDERTALE - Bonetrousle]]"
-  - "[[A A - Susumu Hirasawa - Parade (Live Hybrid Phonon)]]"
+  - "[[Parade (Live Hybrid Phonon) - Susumu Hirasawa (🎧️ 2182)]]"
   - "[[Rapa - dir - Music collection from ＂Umineko When They Cry＂ for Clarinet Quintet and piano]]"
   - "[[Cleaned Music - 20： Smiling Shadow ｜ Classroom of the Elite Season 2⧸3 Official OST]]"
   - "[[Cleaned Music - 6： Uniform Gathering ｜ Classroom of the Elite Season 2⧸3 Official OST]]"
