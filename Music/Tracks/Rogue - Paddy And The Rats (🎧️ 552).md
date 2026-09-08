@@ -8,7 +8,7 @@ Album: "[[Lonely Hearts' Boulevard]]"
 CoverOf: ""
 Creators:
   - "[[Paddy And The Rats (🎙️ 405)]]"
-ListenInSec: 147
+ListenInSec: 293
 NumberInAlbum: 4
 related: []
 source: ""

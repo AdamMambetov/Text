@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Fitz and The Tantrums (🎙️ 634)]]"
-ListenInSec: 115
+ListenInSec: 119
 NumberInAlbum: 2
 related: []
 source: ""

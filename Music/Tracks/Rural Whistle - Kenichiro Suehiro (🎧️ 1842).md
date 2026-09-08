@@ -6,21 +6,12 @@ aliases:
 Cover: "[[ReZero 2 OST 1.jpg]]"
 Year: 2020
 Album: "[[ReZero 2 OST 1 (📀 47)]]"
-CoverOf: ""
 Creators:
   - "[[Kenichiro Suehiro (🎙️ 748)]]"
-ListenInSec: 445
 NumberInAlbum: 26
 related: []
-source: ""
 SourceFile: "[[ReZero 2 OST 1 - 26 Rural Whistle.mp3]]"
+ListenInSec: 593
+CoverOf: ""
 ---
-
-`$=dv.header(1, dv.current().aliases[0])`
-
-![[ReZero 2 OST 1 - 26 Rural Whistle.mp3]]
-
-## Related Tracks
-
-![[related tracks.base]]
 

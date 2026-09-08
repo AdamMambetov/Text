@@ -5,10 +5,10 @@ aliases:
 Cover: "[[Theory Of A Deadman - Hallelujah.jpg]]"
 Year: 2016
 Album: "[[Hallelujah]]"
-CoverOf: ""
+CoverOf: "[[Hallelujah - Rufus Wainwright (🎧️ 301)]]"
 Creators:
   - "[[Theory Of A Deadman (🎙️ 464)]]"
-ListenInSec: 112
+ListenInSec: 116
 NumberInAlbum: 1
 related: []
 source: ""

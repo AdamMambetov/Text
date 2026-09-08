@@ -9,7 +9,7 @@ CoverOf: ""
 Creators:
   - "[[The Blasting Company (🎙️ 917)]]"
   - "[[Deborah Voigt (🎙️ 931)]]"
-ListenInSec: 146
+ListenInSec: 168
 NumberInAlbum: 1
 related: []
 source: ""

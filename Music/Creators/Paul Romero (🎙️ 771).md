@@ -2,7 +2,7 @@
 created: 2026-07-10T22:41:31+03:00
 aliases:
   - "Paul Romero"
-ListenInSec: 4756
+ListenInSec: 4401
 ---
 
 # Paul Romero

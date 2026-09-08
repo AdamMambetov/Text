@@ -10,7 +10,7 @@ Album: "[[Russian adaptationds of anime song (Full) vol.11]]"
 CoverOf: "[[Tabi no Tochuu - Natsumi Kiyoura (🎧️ 1510)]]"
 Creators:
   - "[[Marie Bibika (🎙️ 372)]]"
-ListenInSec: 665
+ListenInSec: 957
 NumberInAlbum: 18
 related: []
 source: ""

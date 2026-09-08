@@ -8,7 +8,7 @@ Album: "[[UNDERTALE Soundtrack]]"
 CoverOf: ""
 Creators:
   - "[[Toby Fox (🎙️ 563)]]"
-ListenInSec: 147
+ListenInSec: 184
 NumberInAlbum: 100
 related: []
 source:

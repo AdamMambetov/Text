@@ -8,7 +8,7 @@ Album: "[[Now You're Gone]]"
 CoverOf: ""
 Creators:
   - "[[Basshunter (🎙️ 213)]]"
-ListenInSec: 140
+ListenInSec: 146
 NumberInAlbum: 1
 related: []
 source: ""

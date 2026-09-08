@@ -2,7 +2,7 @@
 created: 2026-08-19T14:44:33+03:00
 aliases:
   - "Jules Gaia"
-ListenInSec: 139
+ListenInSec: 145
 ---
 
 # Jules Gaia

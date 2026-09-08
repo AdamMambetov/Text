@@ -7,7 +7,7 @@ Year: 0
 Album: ""
 CoverOf: ""
 Creators: []
-ListenInSec: 2137
+ListenInSec: 2272
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Rapa - Sakutarou's Adventure - Naku Naku Solo Guitar.mp3]]"

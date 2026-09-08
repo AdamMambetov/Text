@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Dschinghis Khan (🎙️ 846)]]"
-ListenInSec: 122
+ListenInSec: -270
 NumberInAlbum: 1
 related: []
 source: ""

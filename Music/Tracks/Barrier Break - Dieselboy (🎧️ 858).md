@@ -9,7 +9,7 @@ CoverOf: ""
 Creators:
   - "[[Dieselboy (🎙️ 282)]]"
   - "[[Kaos (🎙️ 993)]]"
-ListenInSec: 47
+ListenInSec: -436
 NumberInAlbum: 1
 related: []
 source: ""

@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Harmony Team (🎙️ 702)]]"
-ListenInSec: 607
+ListenInSec: 1031
 NumberInAlbum: 1
 related: []
 source: ""

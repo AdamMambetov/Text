@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Son Familia (🎙️ 495)]]"
-ListenInSec: 100
+ListenInSec: 102
 NumberInAlbum: 0
 related: []
 source: ""

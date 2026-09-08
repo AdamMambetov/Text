@@ -7,16 +7,12 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
-CoverOf: "[[Yuusha - YOASOBI (🎧️ 1550)]]"
 Creators:
   - "[[Sati Akura (🎙️ 355)]]"
-ListenInSec: 1503
 NumberInAlbum: 1
 related: []
-source: ""
 SourceFile: "[[Sati Akura - Yuusha.mp3]]"
+ListenInSec: 1695
+CoverOf: "[[Yuusha - YOASOBI (🎧️ 1550)]]"
 ---
 
-# Sati Akura - Yuusha
-
-![[Sati Akura - Yuusha.mp3]]

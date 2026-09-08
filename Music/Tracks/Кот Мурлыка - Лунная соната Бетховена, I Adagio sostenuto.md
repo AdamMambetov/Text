@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Beethoven (🎙️ 965)]]"
-ListenInSec: 62
+ListenInSec: 65
 NumberInAlbum: 0
 related: []
 source: ""

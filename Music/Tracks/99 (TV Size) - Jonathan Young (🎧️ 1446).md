@@ -4,7 +4,7 @@ aliases:
   - "99 (TV Size)"
   - "Mob Psycho 100 OP 1"
   - "Моб Психо 100 OP 1"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Jonathan Young - Young's Old Covers (Anime).jpg]]"
 Year: 0
 Album: ""
 CoverOf: "[[99 (TV Size) - Mob Choir]]"
@@ -12,7 +12,8 @@ Creators:
   - "[[Jonathan Young (🎙️ 341)]]"
 ListenInSec: 277
 NumberInAlbum: 0
-related: []
+related:
+  - "[[99 - Jonathan Young (🎧️ 138)]]"
 source: ""
 SourceFile: "[[Jonathan Young - 99 (TV Size).mp3]]"
 ---

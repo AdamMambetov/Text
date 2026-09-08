@@ -5,12 +5,12 @@ aliases:
 Cover: "[[danganronpa_v3_ost_black_cover.jpg]]"
 Year: 2017
 Album: "[[DANGANRONPA V3 OST BLACK (📀 45)]]"
-CoverOf: ""
 Creators:
   - "[[Masafumi Takada (🎙️ 790)]]"
-ListenInSec: 1718
 NumberInAlbum: 4
 related: []
 SourceFile: "[[Danganrnopa V3 OST Black - 04 Beautiful Lie (Ver.B).mp3]]"
+ListenInSec: 1959
+CoverOf: ""
 ---
 

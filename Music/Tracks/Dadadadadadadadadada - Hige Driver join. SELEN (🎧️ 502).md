@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Hige Driver join. SELEN (🎙️ 621)]]"
-ListenInSec: 116
+ListenInSec: 119
 NumberInAlbum: 1
 related: []
 source: https://osu.ppy.sh/beatmapsets/2473608#osu/5421590

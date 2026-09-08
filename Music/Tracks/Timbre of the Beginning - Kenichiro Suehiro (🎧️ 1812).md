@@ -5,21 +5,12 @@ aliases:
 Cover: "[[ReZero 1 OST.jpg]]"
 Year: 2016
 Album: "[[ReZero 1 OST (📀 46)]]"
-CoverOf: ""
 Creators:
   - "[[Kenichiro Suehiro (🎙️ 748)]]"
-ListenInSec: 380
 NumberInAlbum: 4
 related: []
-source: ""
 SourceFile: "[[ReZero 1 OST - 04 Timbre of the Beginning.mp3]]"
+ListenInSec: 504
+CoverOf: ""
 ---
-
-`$=dv.header(1, dv.current().aliases[0])`
-
-![[ReZero 1 OST - 04 Timbre of the Beginning.mp3]]
-
-## Related Tracks
-
-![[related tracks.base]]
 

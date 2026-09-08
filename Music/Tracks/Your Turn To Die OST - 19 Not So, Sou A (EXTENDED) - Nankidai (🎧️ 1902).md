@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Nankidai (🎙️ 909)]]"
-ListenInSec: 47
+ListenInSec: 49
 NumberInAlbum: 0
 related: []
 source: ""

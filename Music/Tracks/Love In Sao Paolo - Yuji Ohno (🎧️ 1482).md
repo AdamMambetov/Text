@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Yuji Ohno (🎙️ 727)]]"
-ListenInSec: 313
+ListenInSec: 528
 NumberInAlbum: 0
 related: []
 source: ""

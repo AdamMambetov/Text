@@ -6,22 +6,13 @@ aliases:
 Cover: "[[Skirt & PUNPEE - ODDTAXI.jpg]]"
 Year: 0
 Album: ""
-CoverOf: ""
 Creators:
   - "[[Skirt & PUNPEE (🎙️ 700)]]"
-ListenInSec: 4037
 NumberInAlbum: 0
 related:
   - "[[ODDTAXI (TV Size) - Skirt & PUNPEE (🎧️ 1734)]]"
-source: ""
 SourceFile: "[[Skirt & PUNPEE - ODDTAXI.mp3]]"
+ListenInSec: 4571
+CoverOf: ""
 ---
-
-`$=dv.header(1, dv.current().aliases[0])`
-
-![[Skirt & PUNPEE - ODDTAXI.mp3]]
-
-## Related Tracks
-
-![[related tracks.base]]
 

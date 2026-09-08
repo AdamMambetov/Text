@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Hanasaka Yui (🎙️ 561)]]"
-ListenInSec: 140
+ListenInSec: 175
 NumberInAlbum: 1
 related: []
 source:

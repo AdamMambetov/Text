@@ -8,7 +8,7 @@ Album: "[[Staccato]]"
 CoverOf: ""
 Creators:
   - "[[Gabriel Saban (🎙️ 901)]]"
-ListenInSec: 121
+ListenInSec: 155
 NumberInAlbum: 1
 related: []
 source: ""

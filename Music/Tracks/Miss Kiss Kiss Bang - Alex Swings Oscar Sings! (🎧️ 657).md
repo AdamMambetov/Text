@@ -8,7 +8,7 @@ Album: "[[Heart 4 Sale]]"
 CoverOf: ""
 Creators:
   - "[[Alex Swings Oscar Sings! (🎙️ 163)]]"
-ListenInSec: 147
+ListenInSec: 915
 NumberInAlbum: 3
 related: []
 source: ""

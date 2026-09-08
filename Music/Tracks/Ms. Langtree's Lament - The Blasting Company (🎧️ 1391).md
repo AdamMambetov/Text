@@ -9,7 +9,7 @@ CoverOf: ""
 Creators:
   - "[[The Blasting Company (🎙️ 917)]]"
   - "[[Janet Klein (🎙️ 926)]]"
-ListenInSec: 135
+ListenInSec: 139
 NumberInAlbum: 1
 related: []
 source: ""
