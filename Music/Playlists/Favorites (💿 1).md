@@ -1574,6 +1574,8 @@ tracklist:
   - "[[Brief Moment - Kenichiro Suehiro (🎧️ 1837)]]"
   - "[[Nirvana (TV Size) - MUCC (🎧️ 1678)]]"
   - "[[Incredibox Sunrise - HellYeahPlay (🎧️ 1884)]]"
+  - "[[Harumachi Clover (TV Size) - Hanasaka Yui (🎧️ 398)]]"
+  - "[[Rapa - lost-rose - Umineko no Naku Koro ni Arrange Album ＂Akoustika Ⅱ＂]]"
 ---
 
 # Favorites

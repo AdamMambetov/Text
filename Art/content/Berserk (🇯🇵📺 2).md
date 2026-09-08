@@ -1,9 +1,9 @@
 ---
 created: 2022-03-16T00:00:00
 aliases:
-  - Берсерк
-  - Berserk
-  - Kenpuu Denki Berserk
+  - "Берсерк"
+  - "Berserk"
+  - "Kenpuu Denki Berserk"
 Status: complete
 Type: anime
 Rating:
@@ -14,7 +14,7 @@ Year: 1997
 Episode: 25
 Views: 1
 tags:
-  - ❤
+  - "❤"
 Адаптация: "[[Berserk (🇯🇵📗 237)]]"
 Продолжение: "[[Berserk (🇯🇵📺 371)]]"
 ---

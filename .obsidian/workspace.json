@@ -16,6 +16,48 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "69fd79f4b870fe4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Art/content/Berserk (🇯🇵📺 2).md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Berserk (🇯🇵📺 2)"
+            }
+          },
+          {
+            "id": "366ede189fa94823",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Music/Playlists/Favorites (💿 1).md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Favorites (💿 1)"
+            }
+          },
+          {
+            "id": "224e244d4b079e9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Music/Playlists/YouTube (💿 9).md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "YouTube (💿 9)"
+            }
           }
         ]
       }
@@ -85,6 +127,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Music/Playlists/YouTube (💿 9).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -153,6 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Music/Playlists/YouTube (💿 9).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -281,6 +325,9 @@
   },
   "active": "9b36385a2325dfca",
   "lastOpenFiles": [
+    "Music/Playlists/Favorites (💿 1).md",
+    "Music/Playlists/YouTube (💿 9).md",
+    "Art/content/Berserk (🇯🇵📺 2).md",
     "Music/Tracks/Rapa - Umineko no Naku Koro ni - Music collection from ＂Umineko＂ for Clarinet Quintet and piano.md",
     "Music/Tracks/Parade (Live Hybrid Phonon) - Susumu Hirasawa (🎧️ 2182).md",
     "Music/Creators/Susumu Hirasawa (🎙️ 450).md",
@@ -305,9 +352,6 @@
     "Music/Tracks/My Soul, Your Beats! (TV Size) - Lia (🎧️ 1750).md",
     "Music/Tracks/Megumeru - Eufonius (🎧️ 1749).md",
     "Music/Tracks/Megumeru (TV Size) - Eufonius (🎧️ 1747).md",
-    "Music/Tracks/Bravely You - Lia (🎧️ 1744).md",
-    "Music/Creators/Carolina Eyck (🎙️ 977).md",
-    "Music/Creators/Bach (🎙️ 978).md",
     "Music/Covers/Masayoshi Soken - Find the Flame.jpg",
     "Music/Covers/_No Album Art.jpg",
     "Music/Covers/Animal Crossing. New Leaf OST.png",
