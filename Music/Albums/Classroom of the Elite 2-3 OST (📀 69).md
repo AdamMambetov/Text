@@ -1,0 +1,77 @@
+---
+created: 2026-09-10T14:46:41+03:00
+aliases:
+  - Classroom of the Elite 2-3 OST
+Cover: "[[Classroom of the Elite 2-3 OST.jpg]]"
+Year: 2024
+Creators:
+  - "[[Masaru Yokoyama (🎙️ 997)]]"
+  - "[[Kana Hashiguchi (🎙️ 1061)]]"
+source: https://vgmdb.net/album/137764
+tracklist:
+  - Classroom of the Elite 2nd
+  - Slow Chirp
+  - Neural Network
+  - Headlight Panic
+  - Love Gravity
+  - "[[Uniform Gathering - Kana Hashiguchi (🎧️ 2115)]]"
+  - Broken Compass
+  - Sports Day Cheer
+  - Lovely Petals
+  - Vintage Box
+  - Wolf by the Ear
+  - Emperor Ryuen
+  - "[[Banana Grooves - Masaru Yokoyama (🎧️ 2114)]]"
+  - Full Throttle
+  - Dark Hush
+  - Per Plex Ity
+  - Sports Day Pole Down
+  - Hangout Session
+  - Black to White
+  - "[[Smiling Shadow - Kana Hashiguchi (🎧️ 2113)]]"
+  - Victory Blow
+  - Flare Glare
+  - Crying Keys
+  - A Class Arisu
+  - Sports Day Relay
+  - Recess Lullaby
+  - WWWWWH
+  - Ambient Punch
+  - Shining Gals
+  - Twilight Bell
+  - Sinister Schemes
+  - Sour Laughter
+  - Sailor Ichinose
+  - Evil IQ
+  - Red Ride
+  - Wrong Power
+  - Teenage Nocturne
+  - Noble Silhouette
+  - Cold Vote
+  - Teardrop Solo
+  - Situation X
+  - Marching Tactics
+  - Blue Fight
+  - Glowing Hearts
+  - Intellectual Eyes
+  - Aconite Kushida
+  - Glorious Glory
+  - Heartache Heartbreak
+  - Sneaky Sneaker
+  - Oh My My
+  - Sweet Brew
+  - Acting Chairman Tsukishiro
+  - "Re: Mate"
+  - Classroom of the Elite 3rd
+  - Dance In The Game (Anime Size)
+  - Human Play (Anime Size)
+  - Minor Piece (Anime Size)
+  - The Great Revolution of this World (Anime Size)
+  - Fixer (Anime Size)
+---
+
+# Classroom of the Elite 2-3 OST
+
+## Tracklist
+
+![[tracklist.base]]

@@ -6,7 +6,7 @@ aliases:
 Cover: "[[Radiant Records - Radiant Records.jpg]]"
 Year: 2015
 Album: "[[Radiant Records (📀 38)]]"
-CoverOf: "[[Hotaru no Hikari - Ikimonogakari (🎧️ 1719)]]"
+CoverOf: "[[Hotaru no Hikari - Ikimonogakari (🎧️ 1718)]]"
 Creators:
   - "[[Radiant Records (🎙️ 39)]]"
   - "[[Jully (🎙️ 42)]]"

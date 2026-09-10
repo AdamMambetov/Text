@@ -14,9 +14,9 @@ ListenInSec: 311
 NumberInAlbum: 1
 related: []
 source: ""
-SourceFile: "[[Игорь Куликов - Hunting For Your Dream.mp3]]"
+SourceFile: "[[Игорь Куликов - HUNTING FOR YOUR DREAM.mp3]]"
 ---
 
 # Игорь Куликов - Hunting For Your Dream
 
-![[Игорь Куликов - Hunting For Your Dream.mp3]]
+![[Игорь Куликов - HUNTING FOR YOUR DREAM.mp3]]

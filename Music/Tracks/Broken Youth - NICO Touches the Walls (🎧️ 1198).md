@@ -14,9 +14,9 @@ ListenInSec: 1036
 NumberInAlbum: 0
 related: []
 source: ""
-SourceFile: "[[Nico Touches the Walls - Broken Youth.mp3]]"
+SourceFile: "[[NICO Touches the Walls - Broken Youth.mp3]]"
 ---
 
 # Nico Touches the Walls - Broken Youth
 
-![[Nico Touches the Walls - Broken Youth.mp3]]
+![[NICO Touches the Walls - Broken Youth.mp3]]

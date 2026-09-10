@@ -14,9 +14,9 @@ ListenInSec: 878
 NumberInAlbum: 0
 related: []
 source: ""
-SourceFile: "[[Игорь Куликов - The WORLD.mp3]]"
+SourceFile: "[[Игорь Куликов - the WORLD.mp3]]"
 ---
 
 # Игорь Куликов - the WORLD
 
-![[Игорь Куликов - The WORLD.mp3]]
+![[Игорь Куликов - the WORLD.mp3]]

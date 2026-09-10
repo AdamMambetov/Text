@@ -5,13 +5,13 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: "[[Chiisana Hibi]]"
-CoverOf: "[[Chiisana Hibi (TV Size) - flumpool (🎧️ 1592)]]"
+CoverOf: "[[Chiisana Hibi (TV Size) - flumpool (🎧️ 1591)]]"
 Creators:
   - "[[DiWilliam (🎙️ 60)]]"
 ListenInSec: 199
 NumberInAlbum: 1
 related:
-  - "[[Chiisana Hibi - flumpool (🎧️ 1591)]]"
+  - "[[Chiisana Hibi - flumpool (🎧️ 1590)]]"
 source: ""
 SourceFile: "[[DiWilliam - Chiisana Hibi.mp3]]"
 ---

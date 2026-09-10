@@ -12,9 +12,9 @@ ListenInSec: 746
 NumberInAlbum: 1
 related: []
 source: ""
-SourceFile: "[[Игорь Куликов - Departure!.mp3]]"
+SourceFile: "[[Игорь Куликов - departure!.mp3]]"
 ---
 
 # Игорь Куликов - Departure!
 
-![[Игорь Куликов - Departure!.mp3]]
+![[Игорь Куликов - departure!.mp3]]

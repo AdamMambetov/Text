@@ -12,9 +12,9 @@ ListenInSec: 218
 NumberInAlbum: 11
 related: []
 source: ""
-SourceFile: "[[One Ok Rock - One by One.mp3]]"
+SourceFile: "[[ONE OK ROCK - One by One.mp3]]"
 ---
 
 # One Ok Rock - One by One
 
-![[One Ok Rock - One by One.mp3]]
+![[ONE OK ROCK - One by One.mp3]]

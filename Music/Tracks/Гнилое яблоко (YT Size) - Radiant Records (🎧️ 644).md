@@ -6,7 +6,7 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
-CoverOf: "[[Bad Apple - Touhou Project (🎧️ 1709)]]"
+CoverOf: "[[Bad Apple - Touhou Project (🎧️ 1708)]]"
 Creators:
   - "[[Radiant Records (🎙️ 39)]]"
   - "[[Jully (🎙️ 42)]]"

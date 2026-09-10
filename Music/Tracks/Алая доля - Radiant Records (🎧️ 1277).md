@@ -8,7 +8,7 @@ aliases:
 Cover: "[[Radiant Records - Магия.jpg]]"
 Year: 0
 Album: ""
-CoverOf: "[[Red Fraction - MELL (🎧️ 1565)]]"
+CoverOf: "[[Red Fraction - MELL (🎧️ 1564)]]"
 Creators:
   - "[[Radiant Records (🎙️ 39)]]"
   - "[[Tooniegirl (🎙️ 46)]]"

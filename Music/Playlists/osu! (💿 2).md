@@ -4,7 +4,7 @@ aliases:
   - "osu!"
 tracklist:
   - "[[(can you) understand me - Komiya Mao (🎧️ 492)]]"
-  - "[[7 -seven- (TV Size) - FLOW (🎧️ 1629)]]"
+  - "[[7 -seven- (TV Size) - FLOW (🎧️ 1628)]]"
   - "[[Kokou no Sousei - Yousei Teikoku (🎧️ 852)]]"
   - "[[River Flows In You (A Love Note) - Yiruma (🎧️ 1362)]]"
   - "[[Time Traveler - KNOWER (🎧️ 854)]]"

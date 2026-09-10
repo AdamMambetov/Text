@@ -6,7 +6,7 @@ aliases:
 Cover: "[[Radiant Records - Септима.jpg]]"
 Year: 0
 Album: ""
-CoverOf: "[[Higurashi no Naku Koro ni - Shimamiya Eiko (🎧️ 1624)]]"
+CoverOf: "[[Higurashi no Naku Koro ni - Shimamiya Eiko (🎧️ 1623)]]"
 Creators:
   - "[[Radiant Records (🎙️ 39)]]"
   - "[[Tooniegirl (🎙️ 46)]]"

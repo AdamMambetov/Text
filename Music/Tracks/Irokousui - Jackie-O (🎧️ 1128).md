@@ -7,7 +7,7 @@ aliases:
 Cover: "[[Jackie-O - Irokousui.jpg]]"
 Year: 2022
 Album: ""
-CoverOf: "[[Irokousui - Yoh Kamiyama (🎧️ 1684)]]"
+CoverOf: "[[Irokousui - Yoh Kamiyama (🎧️ 1683)]]"
 Creators:
   - "[[Jackie-O (🎙️ 337)]]"
   - "[[B-Lion (🎙️ 204)]]"

@@ -1,8 +1,9 @@
 ---
 created: 2024-10-27T23:28:58+03:00
 aliases:
-  - Your Turn To Die
-  - YTTD
+  - "Your Turn To Die"
+  - "YTTD"
+  - "Kimi ga Shine"
 Status: defer
 Type: game
 Cover: "[[your_turn_to_die_game_cover.jpg]]"

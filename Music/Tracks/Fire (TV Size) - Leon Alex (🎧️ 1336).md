@@ -7,7 +7,7 @@ aliases:
 Cover: "[[Leon Alex - Fire.jpg]]"
 Year: 2019
 Album: "[[Anime & Movie Soundtracks]]"
-CoverOf: "[[Fire (TV Size) - Kaen (🎧️ 1737)]]"
+CoverOf: "[[Fire (TV Size) - Kaen (🎧️ 1736)]]"
 Creators:
   - "[[Leon Alex (🎙️ 359)]]"
 ListenInSec: 190

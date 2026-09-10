@@ -12,9 +12,9 @@ ListenInSec: 223
 NumberInAlbum: 6
 related: []
 source: ""
-SourceFile: "[[Radio Tapok - Песнь пустыни.mp3]]"
+SourceFile: "[[RADIO TAPOK - Песнь пустыни.mp3]]"
 ---
 
 # Radio Tapok - Песнь пустыни
 
-![[Radio Tapok - Песнь пустыни.mp3]]
+![[RADIO TAPOK - Песнь пустыни.mp3]]

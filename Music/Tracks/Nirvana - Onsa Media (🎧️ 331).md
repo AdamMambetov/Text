@@ -6,7 +6,7 @@ aliases:
 Cover: "[[Onsa Media - Nirvana.png]]"
 Year: 2021
 Album: ""
-CoverOf: "[[Nirvana - MUCC (🎧️ 1679)]]"
+CoverOf: "[[Nirvana - MUCC (🎧️ 1678)]]"
 Creators:
   - "[[Onsa Media (🎙️ 400)]]"
   - "[[Coconut Dog (🎙️ 436)]]"

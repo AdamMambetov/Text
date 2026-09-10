@@ -12,9 +12,9 @@ ListenInSec: 558
 NumberInAlbum: 1
 related: []
 source: ""
-SourceFile: "[[Creepy Nuts - 阿婆擦れ.mp3]]"
+SourceFile: "[[Creepy Nuts - Abazure.mp3]]"
 ---
 
 # Creepy Nuts - 阿婆擦れ
 
-![[Creepy Nuts - 阿婆擦れ.mp3]]
+![[Creepy Nuts - Abazure.mp3]]

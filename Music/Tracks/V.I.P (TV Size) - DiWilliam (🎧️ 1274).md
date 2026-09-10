@@ -13,7 +13,7 @@ Creators:
 ListenInSec: 264
 NumberInAlbum: 1
 related:
-  - "[[V.I.P - SID (🎧️ 1593)]]"
+  - "[[V.I.P - SID (🎧️ 1592)]]"
 source: ""
 SourceFile: "[[DiWilliam - V.I.P.mp3]]"
 ---

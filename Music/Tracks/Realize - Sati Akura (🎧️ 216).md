@@ -7,7 +7,7 @@ aliases:
 Cover: "[[Sati Akura - Realize.jpg]]"
 Year: 2020
 Album: ""
-CoverOf: "[[Realize - Konomi Suzuki (🎧️ 1623)]]"
+CoverOf: "[[Realize - Konomi Suzuki (🎧️ 1622)]]"
 Creators:
   - "[[Sati Akura (🎙️ 355)]]"
 ListenInSec: 496

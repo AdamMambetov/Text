@@ -12,9 +12,9 @@ ListenInSec: 157
 NumberInAlbum: 0
 related: []
 source: ""
-SourceFile: "[[Radio Tapok - Lonely Day.mp3]]"
+SourceFile: "[[RADIO TAPOK - Lonely Day.mp3]]"
 ---
 
 # Radio Tapok - Lonely Day
 
-![[Radio Tapok - Lonely Day.mp3]]
+![[RADIO TAPOK - Lonely Day.mp3]]

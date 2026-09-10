@@ -9,7 +9,7 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 2019
 Album: ""
-CoverOf: "[[Courage - Haruka Tomatsu (🎧️ 1689)]]"
+CoverOf: "[[Courage - Haruka Tomatsu (🎧️ 1688)]]"
 Creators:
   - "[[Marie Bibika (🎙️ 372)]]"
 ListenInSec: 249

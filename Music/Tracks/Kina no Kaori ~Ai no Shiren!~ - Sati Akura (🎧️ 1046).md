@@ -5,7 +5,7 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 2016
 Album: ""
-CoverOf: "[[Kina No Kaori ~Ai No Shiren!~ - Kino Nei (🎧️ 1543)]]"
+CoverOf: "[[Kina No Kaori ~Ai No Shiren!~ - Kino Nei (🎧️ 1542)]]"
 Creators:
   - "[[Sati Akura (🎙️ 355)]]"
   - "[[ASMO (🎙️ 722)]]"

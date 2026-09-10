@@ -2,6 +2,8 @@
 created: 2024-10-30T19:18:46+03:00
 aliases:
   - "Colors"
+  - "Code Geass OP 1"
+  - "Код Гиас OP 1"
 Cover: "[[FLOW - Colors.jpg]]"
 Year: 2011
 Album: "[[FLOW ANIME BEST]]"

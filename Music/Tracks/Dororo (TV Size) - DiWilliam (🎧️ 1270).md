@@ -7,13 +7,13 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
-CoverOf: "[[Dororo - ASIAN KUNG-FU GENERATION (🎧️ 1587)]]"
+CoverOf: "[[Dororo - ASIAN KUNG-FU GENERATION (🎧️ 1586)]]"
 Creators:
   - "[[DiWilliam (🎙️ 60)]]"
 ListenInSec: 197
 NumberInAlbum: 0
 related:
-  - "[[Dororo - ASIAN KUNG-FU GENERATION (🎧️ 1587)]]"
+  - "[[Dororo - ASIAN KUNG-FU GENERATION (🎧️ 1586)]]"
 source: ""
 SourceFile: "[[DiWilliam - Dororo.mp3]]"
 ---

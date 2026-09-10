@@ -7,13 +7,13 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
-CoverOf: "[[Irokousui (TV Size) - Yoh Kamiyama (🎧️ 1685)]]"
+CoverOf: "[[Irokousui (TV Size) - Yoh Kamiyama (🎧️ 1684)]]"
 Creators:
   - "[[DiWilliam (🎙️ 60)]]"
 ListenInSec: 187
 NumberInAlbum: 0
 related:
-  - "[[Irokousui - Yoh Kamiyama (🎧️ 1684)]]"
+  - "[[Irokousui - Yoh Kamiyama (🎧️ 1683)]]"
 source: ""
 SourceFile: "[[DiWilliam - Irokousui.mp3]]"
 ---

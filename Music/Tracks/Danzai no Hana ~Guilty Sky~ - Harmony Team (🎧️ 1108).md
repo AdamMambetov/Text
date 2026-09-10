@@ -7,7 +7,7 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
-CoverOf: "[[Danzai no Hana ~Guilty Sky~ - Kosaka Riyu (🎧️ 1585)]]"
+CoverOf: "[[Danzai no Hana ~Guilty Sky~ - Kosaka Riyu (🎧️ 1584)]]"
 Creators:
   - "[[Harmony Team (🎙️ 702)]]"
   - "[[Len (🎙️ 703)]]"

@@ -14,9 +14,9 @@ ListenInSec: 336
 NumberInAlbum: 0
 related: []
 source: ""
-SourceFile: "[[21st Century Orchestra Tokyo - Guren no Yumiya.mp3]]"
+SourceFile: "[[21st Century Orchestra Tokyo - Guren no Yumiya (TV Size).mp3]]"
 ---
 
 # 21st Century Orchestra Tokyo - Guren no Yumiya
 
-![[21st Century Orchestra Tokyo - Guren no Yumiya.mp3]]
+![[21st Century Orchestra Tokyo - Guren no Yumiya (TV Size).mp3]]

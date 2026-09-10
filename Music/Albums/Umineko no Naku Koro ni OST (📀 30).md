@@ -120,7 +120,7 @@ tracklist:
   - "SuiSui*SWEETS(^-^)"
   - "Предъявите судьбу"
   - "system0 (оригинальная версия)"
-  - "[[Senkyou no Igreja - Chiyomaru Shikura (🎧️ 1101)]]"
+  - "[[Seikyou no Igreja - Chiyomaru Shikura (🎧️ 1101)]]"
   - "Будущее"
   - "[[Лазурный смех - Luck Ganriki (🎧️ 1042)]]"
   - "[[Настоящий сыщик знает - dai (🎧️ 998)]]"

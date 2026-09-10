@@ -14,9 +14,9 @@ ListenInSec: 284
 NumberInAlbum: 1
 related: []
 source: ""
-SourceFile: "[[Sora ni Utaeba (TV Size).mp3]]"
+SourceFile: "[[amazarashi - Sora ni Utaeba (TV Size).mp3]]"
 ---
 
 # Sora ni Utaeba (TV Size)
 
-![[Sora ni Utaeba (TV Size).mp3]]
+![[amazarashi - Sora ni Utaeba (TV Size).mp3]]

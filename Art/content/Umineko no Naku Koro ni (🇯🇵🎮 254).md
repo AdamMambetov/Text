@@ -1,10 +1,10 @@
 ---
 created: 2024-06-28T01:29:06+03:00
 aliases:
-  - "Когда Плачут Чайки"
-  - "Umineko no Naku Koro ni"
-  - "Umineko When They Cry"
-  - "Чайки"
+  - Когда Плачут Чайки
+  - Umineko no Naku Koro ni
+  - Umineko When They Cry
+  - Чайки
 Status: watch
 Type: game
 Rating:
@@ -14,7 +14,7 @@ Year: 2016
 Episode: 1
 Views: 1
 tags:
-  - "❤"
+  - ❤
 related:
   - "[[🎮Когда плачут цикады (игра)]]"
   - "[[Umineko no Naku Koro ni OST (📀 30)]]"

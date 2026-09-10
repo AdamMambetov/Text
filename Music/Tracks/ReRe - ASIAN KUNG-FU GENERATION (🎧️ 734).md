@@ -16,6 +16,6 @@ ListenInSec: 1640
 NumberInAlbum: 0
 related:
   - "[[ReRe (TV Size) - ASIAN KUNG-FU GENERATION]]"
-SourceFile: "[[ASIAN KUNG-FU GENERATION - Re Re.mp3]]"
+SourceFile: "[[ASIAN KUNG-FU GENERATION - ReRe.mp3]]"
 ---
 

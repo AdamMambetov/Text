@@ -1,0 +1,28 @@
+---
+created: 2025-08-01T15:46:12+03:00
+aliases:
+  - "Toki wo Kizamu Uta (TV Size)"
+  - "Clannad OP 2"
+  - "Кланнад OP 2"
+Cover: "[[Lia - Toki wo Kizamu Uta.jpg]]"
+Year: 0
+Album: ""
+CoverOf: ""
+Creators:
+  - "[[Lia (🎙️ 656)]]"
+ListenInSec: 448
+NumberInAlbum: 0
+related:
+  - "[[Toki wo Kizamu Uta - Lia (🎧️ 1745)]]"
+source: ""
+SourceFile: "[[Lia - Toki wo Kizamu Uta (TV Size).mp3]]"
+---
+
+`$=dv.header(1, dv.current().aliases[0])`
+
+![[Lia - Toki wo Kizamu Uta (TV Size).mp3]]
+
+## Related Tracks
+
+![[related tracks.base]]
+

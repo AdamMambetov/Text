@@ -15,9 +15,9 @@ ListenInSec: 177
 NumberInAlbum: 0
 related: []
 source: ""
-SourceFile: "[[ALI - LOST IN PARADISE feat. AKLO (TV Size).mp3]]"
+SourceFile: "[[ALI - LOST IN PARADISE (TV Size).mp3]]"
 ---
 
 # ALI - LOST IN PARADISE feat. AKLO (TV Size)
 
-![[ALI - LOST IN PARADISE feat. AKLO (TV Size).mp3]]
+![[ALI - LOST IN PARADISE (TV Size).mp3]]

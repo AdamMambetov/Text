@@ -13,7 +13,7 @@ Creators:
 ListenInSec: 184
 NumberInAlbum: 0
 related:
-  - "[[Bravely You - Lia (🎧️ 1744)]]"
+  - "[[Bravely You - Lia (🎧️ 1743)]]"
 source: ""
 SourceFile: "[[Lia - Bravely You (TV Size).mp3]]"
 ---

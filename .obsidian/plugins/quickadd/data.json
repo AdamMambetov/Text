@@ -191,6 +191,46 @@
       }
     },
     {
+      "id": "f4982777-7b3a-478a-8d3e-b8e90d4b79ef",
+      "name": "playlist",
+      "type": "Template",
+      "command": false,
+      "templatePath": "Note/templates/playlist template.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "discoverExistingNotesBeforeCreate": false,
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "Music/Playlists"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "copyLinkToClipboard": false,
+      "openFile": true,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "focus": true,
+        "mode": "default"
+      },
+      "fileExistsBehavior": {
+        "kind": "apply",
+        "mode": "doNothing"
+      },
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFileInMode": "default"
+    },
+    {
       "id": "a7a3c42f-ad78-421c-8f7f-30cf803ccaef",
       "name": "button",
       "type": "Capture",

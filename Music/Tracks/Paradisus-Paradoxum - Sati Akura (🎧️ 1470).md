@@ -7,7 +7,7 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
-CoverOf: "[[Paradisus-Paradoxum - MYTH & ROID (🎧️ 1622)]]"
+CoverOf: "[[Paradisus-Paradoxum - MYTH & ROID (🎧️ 1621)]]"
 Creators:
   - "[[Sati Akura (🎙️ 355)]]"
 ListenInSec: 241

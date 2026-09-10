@@ -4,62 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "68d1781783e069ee",
+        "id": "8e312acc4b41bc28",
         "type": "tabs",
         "children": [
           {
-            "id": "9b36385a2325dfca",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
-            "id": "69fd79f4b870fe4b",
+            "id": "44d40607e745256b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Art/content/Berserk (🇯🇵📺 2).md",
+                "file": "Music/Albums/Your Turn To Die OST (📀 70).md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Berserk (🇯🇵📺 2)"
+              "title": "Your Turn To Die OST (📀 70)"
             }
           },
           {
-            "id": "366ede189fa94823",
+            "id": "5a914d673b6a99fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Music/Playlists/Favorites (💿 1).md",
+                "file": "Music/Tracks/Umineko no Naku Koro ni OST_ - 01_titr.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Favorites (💿 1)"
-            }
-          },
-          {
-            "id": "224e244d4b079e9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Music/Playlists/YouTube (💿 9).md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "YouTube (💿 9)"
+              "title": "Umineko no Naku Koro ni OST_ - 01_titr"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -127,7 +104,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Music/Playlists/YouTube (💿 9).md",
+                "file": "Music/Tracks/Umineko no Naku Koro ni OST_ - 01_titr.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -179,7 +156,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 336.5
+    "width": 336.5,
+    "collapsed": true
   },
   "right": {
     "id": "fa85d1514c56552d",
@@ -196,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Music/Playlists/YouTube (💿 9).md",
+                "file": "Music/Tracks/Umineko no Naku Koro ni OST_ - 01_titr.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,6 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Music/Tracks/Umineko no Naku Koro ni OST_ - 01_titr.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
@@ -301,7 +280,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 484.08984375
+    "width": 406.18359375
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -323,45 +302,45 @@
       "cmdr:Track Edit": false
     }
   },
-  "active": "9b36385a2325dfca",
+  "active": "5a914d673b6a99fd",
   "lastOpenFiles": [
-    "Music/Playlists/Favorites (💿 1).md",
-    "Music/Playlists/YouTube (💿 9).md",
-    "Art/content/Berserk (🇯🇵📺 2).md",
-    "Music/Tracks/Rapa - Umineko no Naku Koro ni - Music collection from ＂Umineko＂ for Clarinet Quintet and piano.md",
-    "Music/Tracks/Parade (Live Hybrid Phonon) - Susumu Hirasawa (🎧️ 2182).md",
-    "Music/Creators/Susumu Hirasawa (🎙️ 450).md",
-    "Music/Tracks/6 Кадров (TV Size) - Александр Пушной (🎧️ 1868).md",
-    "Music/Tracks/'Till I Collapse - Eminem (🎧️ 1138).md",
-    "Music/Tracks/Parade - Susumu Hirasawa (🎧️ 2059).md",
-    "Music/Tracks/'Shape of You' but it's Smash Mouth singing 'All Star' - Engval Music (🎧️ 1648).md",
-    "Note/excalidraw/Music Player Scheme.excalidraw.md",
-    "Note/Регулярные выражения.md",
-    "Note/PostgreSQL.md",
-    "Note/projects/unreal engine/Unreal Engine.md",
-    "Art/content/1+1 (🇫🇷🎞 193).md",
-    "Personal/Пароли.kdbx.jrReoW",
-    "Music/Tracks/Tori no Uta - Lia (🎧️ 1741).md",
-    "Music/Tracks/Toki wo Kizamu Uta - Lia (🎧️ 1746).md",
-    "Music/Tracks/Toki wo Kizamu Uta (TV Size) - Lia (🎧️ 1748).md",
-    "Music/Tracks/Toccata and Fugue in D Minor BWV 565 - Bach (🎧️ 1740).md",
-    "Music/Tracks/The Ecstasy of Gold - Theremin & Voice - Carolina Eyck (🎧️ 1739).md",
-    "Music/Tracks/Platinum Disco - Yuka Iguchi (🎧️ 1742).md",
-    "Music/Tracks/Platinum Disco (TV Size) - Yuka Iguchi (🎧️ 1743).md",
-    "Music/Tracks/My Soul, Your Beats! - Lia (🎧️ 1745).md",
-    "Music/Tracks/My Soul, Your Beats! (TV Size) - Lia (🎧️ 1750).md",
-    "Music/Tracks/Megumeru - Eufonius (🎧️ 1749).md",
-    "Music/Tracks/Megumeru (TV Size) - Eufonius (🎧️ 1747).md",
-    "Music/Covers/Masayoshi Soken - Find the Flame.jpg",
+    "Music/Albums/Your Turn To Die OST (📀 70).md",
+    "Music/Tracks/Umineko no Naku Koro ni OST_ - 01_titr.md",
+    "Music/Tracks/Nine Thou (Superstars Remix) (Game Version) - Styles of Beyond (🎧️ 862).md",
+    "Music/Tracks/Your Turn To Die OST - SousA.md",
+    "Music/Tracks/Need For Speed Most Wanted OST - Nine Thou (Grant Mohrman Superstars Remix).md",
+    "Note/Untitled.md",
+    "Music/Tracks/Exploration C - Nankidai (🎧️ 2291).md",
+    "Music/Tracks/Since I Last Saw You - Nankidai (🎧️ 2292).md",
+    "Music/Tracks/KLKL - Nankidai (🎧️ 2293).md",
+    "Music/Tracks/Hakanai - Nankidai (🎧️ 2294).md",
+    "Music/Tracks/Smiles Abound - Nankidai (🎧️ 1906).md",
+    "Music/Tracks/Umineko no Naku Koro ni OST - 005.md",
+    "Music/Tracks/Umineko no Naku Koro ni OST - 006.md",
+    "Music/Tracks/Umineko no Naku Koro ni OST - 014.md",
+    "Music/Tracks/Umineko no Naku Koro ni OST - 015.md",
+    "Music/Tracks/Umineko no Naku Koro ni OST - 018.md",
+    "Music/Tracks/Umineko no Naku Koro ni OST - 020.md",
+    "Music/Tracks/Umineko no Naku Koro ni OST - 022.md",
+    "Music/Tracks/Umineko no Naku Koro ni OST - 023.md",
+    "Music/Tracks/Umineko no Naku Koro ni OST - 026.md",
+    "Music/Tracks/Umineko no Naku Koro ni OST - 028.md",
+    "Music/Tracks/Umineko no Naku Koro ni OST - 029.md",
+    "Music/Tracks/Umineko no Naku Koro ni OST - 030.md",
+    "Music/Tracks/Umineko no Naku Koro ni OST - 032.md",
+    "Music/Tracks/Umineko no Naku Koro ni OST - 033.md",
+    "Music/Tracks/Umineko no Naku Koro ni OST - 036.md",
+    "Music/Covers/Your Turn To Die OST.jpg",
+    "Music/Covers/Your Turn To Die OST - 21 Samurai Woman [EXTENDED].jpg",
     "Music/Covers/_No Album Art.jpg",
-    "Music/Covers/Animal Crossing. New Leaf OST.png",
-    "Music/Covers/Robin Berrygold - Don't Think I Could Forgive You (They Will All Heal).png",
-    "Music/Covers/ReZero OST - 15 Il Richiamo della Strega.png",
-    "Music/Covers/Serena_-3 - ReZero_kara_Hajimeru_Isekai_Seikatsu_Ost_04_Timbre_of_the_Beginning.jpg",
-    "Music/Covers/Serena_-3 - ReZero_kara_Hajimeru_Isekai_Seikatsu_Ost_03_Call_of_the_Witch.jpg",
-    "Music/Covers/Serena_-3 - ReZero_kara_Hajimeru_Isekai_Seikatsu_Ost_01_Rondo_of_Love_and_Darkness_Main_Theme.jpg",
-    "Music/Covers/Serena_-3 - Re_-Zero_kara_Hajimeru_Isekai_Seikatsu_Ost_24_Takt_of_Heroes.jpg",
-    "Music/Covers/ReZero 1 OST.jpg",
+    "Music/Covers/otetsu - Hoshikuzu Utopia.jpg",
+    "Music/Covers/6 кадров.jpg",
+    "Music/Covers/Classroom of the Elite 2-3 OST.jpg",
+    "Music/Covers/Masafumi Takada - Welcome to DANGAN IsLand!!.jpg",
+    "Music/Covers/BUMP OF CHICKEN - Sleep Walking Orchestra.jpg",
+    "Music/Covers/Two Feet - Love is a Bitch.jpg",
+    "Music/Covers/JIMANG - La Divina Tragedia ~Makyoku~.jpg",
+    "Personal/Пароли.kdbx.jrReoW",
     "Text/Note/files",
     "Text/Note",
     "Text",
