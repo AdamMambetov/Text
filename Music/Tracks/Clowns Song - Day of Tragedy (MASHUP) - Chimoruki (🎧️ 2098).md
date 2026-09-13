@@ -1,7 +1,7 @@
 ---
 created: 2026-06-11T23:44:26+03:00
 aliases:
-  - Clowns Song / Day of Tragedy [MASHUP]
+  - "Clowns Song / Day of Tragedy [MASHUP]"
 Cover: "[[Chimoruki - Clowns Song, Day of Tragedy MASHUP.jpg]]"
 Year: 0
 Album: ""

@@ -1,7 +1,7 @@
 ---
 created: 2026-09-09T11:55:36+03:00
 aliases:
-  - xaki's Akoustika Album Series
+  - "xaki's Akoustika Album Series"
 tracklist:
   - "[[The End Of The World ~piano inst ver.~ - xaki (🎧️ 1943)]]"
   - "[[Senritsu (旋律) (piano remaster) - xaki (🎧️ 1944)]]"

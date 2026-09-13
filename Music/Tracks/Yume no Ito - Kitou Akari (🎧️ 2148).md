@@ -1,7 +1,7 @@
 ---
 created: 2026-09-10T15:44:37+03:00
 aliases:
-  - "Yume no Ito"
+  - "Yume no Ito (TV Size)"
   - "Раб спецотряда демонического города OP 1"
   - "Mato Seihei no Slave OP 1"
   - "Chained Soldier OP 1"
@@ -11,7 +11,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Kitou Akari (🎙️ 627)]]"
-ListenInSec: 0
+ListenInSec: 1351
 NumberInAlbum: 0
 related: []
 source: ""

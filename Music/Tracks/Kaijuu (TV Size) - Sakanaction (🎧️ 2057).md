@@ -6,21 +6,12 @@ aliases:
 Cover: "[[Sakanaction - Kaijuu (TV Size).jpg]]"
 Year: 0
 Album: ""
-CoverOf: ""
 Creators:
   - "[[Sakanaction (🎙️ 810)]]"
-ListenInSec: 2159
 NumberInAlbum: 0
 related: []
-source: ""
 SourceFile: "[[Sakanaction - Kaijuu (TV Size).mp3]]"
+ListenInSec: 2249
+CoverOf: ""
 ---
-
-`$=dv.header(1, dv.current().aliases[0])`
-
-![[Sakanaction - Kaijuu (TV Size).mp3]]
-
-## Related Tracks
-
-![[related tracks.base]]
 

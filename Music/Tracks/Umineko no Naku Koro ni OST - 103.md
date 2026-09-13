@@ -5,13 +5,13 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
+CoverOf: ""
 Creators: []
+ListenInSec: 213
 NumberInAlbum: 0
+related: []
 source: ""
 SourceFile: "[[Umineko no Naku Koro ni OST - 103.ogg]]"
-related: []
-ListenInSec: 0
-CoverOf: ""
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

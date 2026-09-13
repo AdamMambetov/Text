@@ -1,7 +1,7 @@
 ---
 created: 2026-06-11T22:57:17+03:00
 aliases:
-  - Papers, Please
+  - "Papers, Please"
 Cover: "[[Sheet Music Boss - PAPERS, PLEASE THEME.jpg]]"
 Year: 0
 Album: ""

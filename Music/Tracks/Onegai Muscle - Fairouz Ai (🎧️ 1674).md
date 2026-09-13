@@ -11,7 +11,7 @@ CoverOf: ""
 Creators:
   - "[[Fairouz Ai (🎙️ 605)]]"
   - "[[Ishikawa Kaito (🎙️ 606)]]"
-ListenInSec: 2113
+ListenInSec: 2333
 NumberInAlbum: 0
 related:
   - "[[Onegai Muscle (TV Size) - Fairouz Ai (🎧️ 1704)]]"

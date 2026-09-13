@@ -1,9 +1,9 @@
 ---
 created: 2025-01-07T21:01:16+03:00
 aliases:
-  - Resonance (TV Size)
-  - Soul Eater OP 1
-  - Пожиратель душ OP 1
+  - "Resonance (TV Size)"
+  - "Soul Eater OP 1"
+  - "Пожиратель душ OP 1"
 Cover: "[[Soul Eater OST.jpg]]"
 Year: 0
 Album: ""

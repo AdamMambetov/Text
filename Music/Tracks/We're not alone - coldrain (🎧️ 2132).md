@@ -5,12 +5,12 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
-CoverOf: ""
 Creators:
   - "[[coldrain (🎙️ 820)]]"
-ListenInSec: 3497
 NumberInAlbum: 0
 related: []
 SourceFile: "[[coldrain - We're not alone.opus]]"
+ListenInSec: 3970
+CoverOf: ""
 ---
 

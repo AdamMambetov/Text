@@ -1,7 +1,7 @@
 ---
 created: 2026-09-09T10:21:06+03:00
 aliases:
-  - Music collection from 'Umineko' for Clarinet Quintet and piano
+  - "Music collection from 'Umineko' for Clarinet Quintet and piano"
 Cover: "[[String quartet DEQUAR - Music collection from 'Umineko' for Clarinet Quintet and piano.jpg]]"
 Year: 2017
 Creators:

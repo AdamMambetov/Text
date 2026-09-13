@@ -41,16 +41,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Music/Tracks/Rapa - Umineko no Naku Koro ni - Music collection from ＂Umineko＂ for Clarinet Quintet and piano.md",
+                "file": "Note/content/PostgreSQL.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Rapa - Umineko no Naku Koro ni - Music collection from ＂Umineko＂ for Clarinet Quintet and piano"
+              "title": "PostgreSQL"
+            }
+          },
+          {
+            "id": "e320899e8cddbf70",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -220,8 +230,9 @@
       "obsidian-excalidraw-plugin:New drawing": true
     }
   },
-  "active": "5dfa03b7e1b6d384",
+  "active": "e320899e8cddbf70",
   "lastOpenFiles": [
+    "Note/content/PostgreSQL.md",
     "Music/Tracks/GATEWAY LOVE (off vocal) - Zwei (🎧️ 1913).md",
     "Music/Tracks/GATEWAY LOVE - Zwei (🎧️ 1911).md",
     "Music/Tracks/Негры все пидорасы - mazyaka (🎧️ 1867).md",
@@ -247,7 +258,6 @@
     "Music/Tracks/Rhythm Tengoku OST - Vegeta Pull - Masami Yone (🎧️ 1781).md",
     "Music/Tracks/Rhythm Tengoku OST - Remix 6 - Masami Yone (🎧️ 1780).md",
     "Music/Tracks/Rhythm Tengoku OST - Spaceball Game - Tsunku (🎧️ 1779).md",
-    "Music/Tracks/Elevator Music - aeiouFU (🎧️ 1778).md",
     "Music/Covers/Lia - My Soul, Your Beats!.jpg",
     "Music/Covers/Rotten Toten - Ужин у вдовы.jpg",
     "Music/Covers/Hiroyuki Sawano - LEveL (TV Size).jpg",

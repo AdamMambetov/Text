@@ -8,17 +8,13 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 2011
 Album: ""
-CoverOf: ""
 Creators:
   - "[[Yousei Teikoku (🎙️ 275)]]"
-ListenInSec: 2030
 NumberInAlbum: 0
 related:
   - "[[Kuusou Mesorogiwi (TV Size) - Yousei Teikoku (🎧️ 1082)]]"
-source: ""
 SourceFile: "[[Yousei Teikoku - Kuusou Mesorogiwi.mp3]]"
+ListenInSec: 2269
+CoverOf: ""
 ---
 
-# Yousei Teikoku - Kuusou Mesorogiwi
-
-![[Yousei Teikoku - Kuusou Mesorogiwi.mp3]]

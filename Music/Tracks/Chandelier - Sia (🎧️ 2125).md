@@ -9,7 +9,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Sia (🎙️ 822)]]"
-ListenInSec: 2122
+ListenInSec: 2206
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Sia - Chandelier.opus]]"

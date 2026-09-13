@@ -7,12 +7,12 @@ aliases:
 Cover: "[[To Be Hero X OST - New Type of Hero.jpg]]"
 Year: 0
 Album: ""
-CoverOf: ""
 Creators:
   - "[[Griff Clawson (🎙️ 813)]]"
-ListenInSec: 1858
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Griff Clawson - New Type of Hero (Long ver.).mp3]]"
+ListenInSec: 2226
+CoverOf: ""
 ---
 

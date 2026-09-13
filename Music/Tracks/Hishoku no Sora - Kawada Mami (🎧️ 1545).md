@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Kawada Mami (🎙️ 743)]]"
-ListenInSec: 7911
+ListenInSec: 8166
 NumberInAlbum: 0
 related:
   - "[[Hishoku no Sora (TV Size) - Kawada Mami]]"

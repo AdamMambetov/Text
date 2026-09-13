@@ -1,7 +1,7 @@
 ---
 created: 2026-06-01T14:02:57+03:00
 aliases:
-  - I Want to Touch That Day
+  - "I Want to Touch That Day"
 Cover: "[[String quartet DEQUAR - Music collection from 'Umineko' for Clarinet Quintet and piano.jpg]]"
 Year: 2017
 Album: "[[Music collection from 'Umineko' for Clarinet Quintet and piano (📀 53)]]"

@@ -1,7 +1,7 @@
 ---
 created: 2026-08-18T21:56:04+03:00
 aliases:
-  - Mashup
+  - "Mashup"
 tracklist:
   - "[[Clowns Song - Day of Tragedy (MASHUP) - Chimoruki (🎧️ 2098)]]"
   - "[[Nominalo Galop (INFERNAL GALOP, NOMINALO Mashup) - checkoff (🎧️ 1651)]]"

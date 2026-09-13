@@ -10,7 +10,7 @@ Album: "[[apples]]"
 CoverOf: ""
 Creators:
   - "[[Chihiro Yonekura (🎙️ 259)]]"
-ListenInSec: 2911
+ListenInSec: 3221
 NumberInAlbum: 10
 related:
   - "[[Tooku he (TV Size) - Chihiro Yonekura]]"

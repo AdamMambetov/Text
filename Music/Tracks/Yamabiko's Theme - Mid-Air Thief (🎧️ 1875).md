@@ -5,21 +5,12 @@ aliases:
 Cover: "[[Sonny Boy OST.jpg]]"
 Year: 2021
 Album: "[[Sonny Boy OST (📀 41)]]"
-CoverOf: ""
 Creators:
   - "[[Mid-Air Thief (🎙️ 696)]]"
-ListenInSec: 1214
 NumberInAlbum: 9
 related: []
-source: ""
 SourceFile: "[[Sonny Boy OST - Yamabiko's Theme.mp3]]"
+ListenInSec: 1847
+CoverOf: ""
 ---
-
-`$=dv.header(1, dv.current().aliases[0])`
-
-![[Sonny Boy OST - Yamabiko's Theme.mp3]]
-
-## Related Tracks
-
-![[related tracks.base]]
 

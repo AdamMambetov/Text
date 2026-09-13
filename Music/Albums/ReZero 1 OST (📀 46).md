@@ -1,8 +1,8 @@
 ---
 created: 2026-07-26T13:04:19+03:00
 aliases:
-  - ReZero 1 OST
-  - РеЗеро 1 OST
+  - "ReZero 1 OST"
+  - "РеЗеро 1 OST"
 Cover: "[[ReZero 1 OST.jpg]]"
 Year: 2016
 Creators:
@@ -17,40 +17,40 @@ tracklist:
   - "[[Appa - Kenichiro Suehiro (🎧️ 1813)]]"
   - "[[EMT!! - Kenichiro Suehiro (🎧️ 1814)]]"
   - "[[Fantasy Clap - Kenichiro Suehiro (🎧️ 1815)]]"
-  - Subaru Concerto
+  - "Subaru Concerto"
   - "[[Longing for Sunbeams - Kenichiro Suehiro (🎧️ 1816)]]"
-  - Battle Dance
-  - Night Plot
-  - Threads of Entwined Truth
+  - "Battle Dance"
+  - "Night Plot"
+  - "Threads of Entwined Truth"
   - "[[Gray Träne - Kenichiro Suehiro (🎧️ 1818)]]"
-  - Looking for the Light
-  - Train of Thought
-  - Time of Trepidation
-  - Taboo Investigation
-  - Revelation of Death
-  - Krise
-  - Prelude to an Impulse
-  - Hexentanz
+  - "Looking for the Light"
+  - "Train of Thought"
+  - "Time of Trepidation"
+  - "Taboo Investigation"
+  - "Revelation of Death"
+  - "Krise"
+  - "Prelude to an Impulse"
+  - "Hexentanz"
   - "[[Takt of Heroes - Kenichiro Suehiro (🎧️ 1819)]]"
-  - Touching You
+  - "Touching You"
   - "[[Takt of Heroes -Origin- - Kenichiro Suehiro (🎧️ 1820)]]"
   - "[[Hymne of Despair and Atonement - Kenichiro Suehiro (🎧️ 1821)]]"
   - "[[Dragon Kingdom Lugnica - Kenichiro Suehiro (🎧️ 1822)]]"
   - "[[March from Another World - Kenichiro Suehiro (🎧️ 1823)]]"
   - "[[Memories of Time and Sky - Kenichiro Suehiro (🎧️ 1824)]]"
   - "[[Promenade of Whistles and Creation - Kenichiro Suehiro (🎧️ 1825)]]"
-  - Reverse
+  - "Reverse"
   - "[[Heartbeat of Determination - Kenichiro Suehiro (🎧️ 1826)]]"
   - "[[Fantasy Lied - Kenichiro Suehiro (🎧️ 1827)]]"
-  - Echt of Sorrow
+  - "Echt of Sorrow"
   - "[[Chain of Memories - Kenichiro Suehiro (🎧️ 1828)]]"
   - "[[Malicious Roar - Kenichiro Suehiro (🎧️ 1829)]]"
-  - Sloth
+  - "Sloth"
   - "[[Start of Fate - Kenichiro Suehiro (🎧️ 1830)]]"
   - "[[Requiem of Silence - Kenichiro Suehiro (🎧️ 1831)]]"
   - "[[Waltz of Rage - Kenichiro Suehiro (🎧️ 1832)]]"
-  - Overture to the Decisive Battle
-  - Wish of the Stars
+  - "Overture to the Decisive Battle"
+  - "Wish of the Stars"
 ---
 
 # ReZero 1 OST

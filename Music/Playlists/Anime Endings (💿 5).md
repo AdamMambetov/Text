@@ -1,7 +1,7 @@
 ---
 created: 2025-11-30T23:14:00+03:00
 aliases:
-  - Anime Endings
+  - "Anime Endings"
 tracklist:
   - "[[7 -seven- (TV Size) - FLOW (🎧️ 1628)]]"
   - "[[Kimi no Shiranai Monogatari - supercell (🎧️ 1638)]]"
@@ -61,6 +61,8 @@ tracklist:
   - "[[Ender Ember (TV Size) - MYTH & ROID (🎧️ 2129)]]"
   - "[[Kesenai Tsumi (TV Size) - Nana Kitade (🎧️ 2139)]]"
   - "[[Kenou (TV Size) - heeno Mirin (🎧️ 2136)]]"
+  - "[[Kesenai Tsumi - Nana Kitade (🎧️ 2150)]]"
+  - "[[Wa -cycle- (TV Size) - Hana Itoki (🎧️ 2152)]]"
 ---
 
 # Anime Endings

@@ -1,8 +1,8 @@
 ---
 created: 2025-12-01T00:17:00+03:00
 aliases:
-  - Anime Openings
-  - Аниме опенинги
+  - "Anime Openings"
+  - "Аниме опенинги"
 tracklist:
   - "[[99 - Mob Choir (🎧️ 1447)]]"
   - "[[Hotaru no Hikari (TV Size) - Ikimonogakari (🎧️ 1863)]]"
@@ -276,6 +276,7 @@ tracklist:
   - "[[Reset - Yui Makino (🎧️ 2123)]]"
   - "[[Reset (TV Size) - Yui Makino (🎧️ 2122)]]"
   - "[[VORACITY (TV Size) - MYTH & ROID (🎧️ 2094)]]"
+  - "[[JINGO JUNGLE (TV Size) - MYTH & ROID (🎧️ 2151)]]"
 ---
 
 # Anime Openings

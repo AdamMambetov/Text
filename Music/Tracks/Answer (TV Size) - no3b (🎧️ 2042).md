@@ -1,9 +1,9 @@
 ---
 created: 2026-06-11T23:03:12+03:00
 aliases:
-  - Answer (TV Size)
-  - Beelzebub ED 1
-  - Вельзепуз ED 1
+  - "Answer (TV Size)"
+  - "Beelzebub ED 1"
+  - "Вельзепуз ED 1"
 Cover: "[[no3b - Answer.jpg]]"
 Year: 0
 Album: ""

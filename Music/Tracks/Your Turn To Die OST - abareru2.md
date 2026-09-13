@@ -1,15 +1,15 @@
 ---
 created: 2026-09-10T17:19:52+03:00
 aliases:
-  - Rampage B
-  - abareru2
+  - "Rampage B"
+  - "abareru2"
 Cover: "[[Your Turn To Die OST.jpg]]"
 Year: 2017
 Album: "[[Your Turn To Die OST (📀 70)]]"
 CoverOf: ""
 Creators:
   - "[[Nankidai (🎙️ 909)]]"
-ListenInSec: 0
+ListenInSec: -44
 NumberInAlbum: 77
 related: []
 source: ""

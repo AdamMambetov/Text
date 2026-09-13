@@ -1,9 +1,9 @@
 ---
 created: 2026-06-11T23:07:21+03:00
 aliases:
-  - Katayoku no Tori (TV Size)
-  - Umineko no Naku Koro ni OP 1
-  - Когда плачут чайки OP 1
+  - "Katayoku no Tori (TV Size)"
+  - "Umineko no Naku Koro ni OP 1"
+  - "Когда плачут чайки OP 1"
 Cover: "[[Free Flight - Katayoku no Tori (TV Size).jpg]]"
 Year: 0
 Album: ""

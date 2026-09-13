@@ -1,7 +1,7 @@
 ---
 created: 2026-06-11T23:29:31+03:00
 aliases:
-  - Forces
+  - "Forces"
 Cover: "[[Harmony Team - Forces.jpg]]"
 Year: 0
 Album: ""

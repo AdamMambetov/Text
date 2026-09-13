@@ -6,11 +6,6 @@ aliases:
   - "Джотаро Куджо (ДжоДжо)"
   - "Battler Ushiromiya (Umineko)"
   - "Баттлер Уширомия (Чайки)"
-ListenInSec: 1174
+ListenInSec: 1271
 ---
 
-# Daisuke Ono
-
-## Tracklist
-
-![[tracklist.base]]

@@ -1,8 +1,8 @@
 ---
 created: 2025-05-04T02:12:54+03:00
 aliases:
-  - Nominalo Galop (INFERNAL GALOP, NOMINALO Mashup)
-  - Offenshtern - Nominalo Galop
+  - "Nominalo Galop (INFERNAL GALOP, NOMINALO Mashup)"
+  - "Offenshtern - Nominalo Galop"
 Cover: "[[checkoff - Nominalo Galop.jpg]]"
 Year: 2021
 Album: ""

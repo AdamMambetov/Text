@@ -10,7 +10,7 @@ Album: "[[Your Turn To Die OST (📀 70)]]"
 CoverOf: ""
 Creators:
   - "[[Nankidai (🎙️ 909)]]"
-ListenInSec: 0
+ListenInSec: 58
 NumberInAlbum: 46
 related: []
 source: ""

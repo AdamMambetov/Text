@@ -1,7 +1,7 @@
 ---
 created: 2025-12-08T05:49:17+03:00
 aliases:
-  - YouTube
+  - "YouTube"
 tracklist:
   - "[[Departure! - Игорь Куликов (🎧️ 1256)]]"
   - "[[Бесчувственный - Everblack Melodies (🎧️ 286)]]"
@@ -324,6 +324,7 @@ tracklist:
   - "[[СЕНСЕЙ - LINS (🎧️ 2144)]]"
   - "[[Ночные Ведьмы - RADIO TAPOK (🎧️ 81)]]"
   - "[[Hell And Back - RADIO TAPOK (🎧️ 922)]]"
+  - "[[JINGO JUNGLE (TV Size) - MYTH & ROID (🎧️ 2151)]]"
 ---
 
 # YouTube

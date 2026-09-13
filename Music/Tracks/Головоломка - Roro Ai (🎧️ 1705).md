@@ -1,10 +1,10 @@
 ---
 created: 2025-06-06T16:34:50+03:00
 aliases:
-  - Головоломка
-  - Puzzle
-  - Welcome to the NHK OP 1
-  - Добро пожаловать в NHK OP 1
+  - "Головоломка"
+  - "Puzzle"
+  - "Welcome to the NHK OP 1"
+  - "Добро пожаловать в NHK OP 1"
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""

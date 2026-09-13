@@ -7,12 +7,12 @@ aliases:
 Cover: "[[DangeresqueIII - Paranoia Agent OP (HD).jpg]]"
 Year: 0
 Album: ""
-CoverOf: ""
 Creators:
   - "[[Susumu Hirasawa (🎙️ 450)]]"
-ListenInSec: 2313
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Paranoia Agent OP.mp3]]"
+ListenInSec: 2406
+CoverOf: ""
 ---
 

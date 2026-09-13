@@ -1,7 +1,7 @@
 ---
 created: 2024-12-12T20:42:25+03:00
 aliases:
-  - Majority Rules Orchestral Remix
+  - "Majority Rules Orchestral Remix"
 Cover: "[[_No Album Art.jpg]]"
 Year: 2023
 Album: ""

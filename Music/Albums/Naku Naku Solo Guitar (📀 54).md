@@ -1,7 +1,7 @@
 ---
 created: 2026-09-09T11:10:20+03:00
 aliases:
-  - Naku Naku Solo Guitar
+  - "Naku Naku Solo Guitar"
 Cover: "[[nekocapo - Naku Naku Solo Guitar.jpg]]"
 Year: 2009
 Creators:

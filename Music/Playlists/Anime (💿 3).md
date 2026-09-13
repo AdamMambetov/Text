@@ -1,8 +1,8 @@
 ---
 created: 2025-12-01T00:17:00+03:00
 aliases:
-  - Anime
-  - Аниме
+  - "Anime"
+  - "Аниме"
 tracklist:
   - "[[ADAMAS - LiSA (🎧️ 1146)]]"
   - "[[1Coma - Hiroyuki Sawano (🎧️ 1626)]]"
@@ -502,6 +502,9 @@ tracklist:
   - "[[Tour - Conisch (🎧️ 1879)]]"
   - "[[Love In Sao Paolo - Yuji Ohno (🎧️ 1482)]]"
   - "[[VORACITY (TV Size) - MYTH & ROID (🎧️ 2094)]]"
+  - "[[Kesenai Tsumi - Nana Kitade (🎧️ 2150)]]"
+  - "[[JINGO JUNGLE (TV Size) - MYTH & ROID (🎧️ 2151)]]"
+  - "[[Wa -cycle- (TV Size) - Hana Itoki (🎧️ 2152)]]"
 ---
 
 # Anime

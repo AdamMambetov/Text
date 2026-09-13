@@ -1,7 +1,7 @@
 ---
 created: 2025-11-23T23:02:00+03:00
 aliases:
-  - Favorites
+  - "Favorites"
 tracklist:
   - "[[Птичья песнь - Radiant Records (🎧️ 1726)]]"
   - "[[Сорванный плод - Radiant Records (🎧️ 1728)]]"
@@ -1575,6 +1575,23 @@ tracklist:
   - "[[Incredibox Sunrise - HellYeahPlay (🎧️ 1883)]]"
   - "[[Harumachi Clover (TV Size) - Hanasaka Yui (🎧️ 398)]]"
   - "[[lost-rose - xaki (🎧️ 1949)]]"
+  - "[[Umineko no Naku Koro ni OST_ - ep7_op]]"
+  - "[[Umineko no Naku Koro ni OST - 067]]"
+  - "[[Umineko no Naku Koro ni OST_ - tiruop]]"
+  - "[[Umineko no Naku Koro ni OST - 052]]"
+  - "[[Exploration C - Nankidai (🎧️ 2291)]]"
+  - "[[Kesenai Tsumi - Nana Kitade (🎧️ 2150)]]"
+  - "[[Umineko no Naku Koro ni OST_ - ep5_op]]"
+  - "[[Umineko no Naku Koro ni OST - 038]]"
+  - "[[Umineko no Naku Koro ni OST - 059]]"
+  - "[[JINGO JUNGLE (TV Size) - MYTH & ROID (🎧️ 2151)]]"
+  - "[[Umineko no Naku Koro ni OST - 028]]"
+  - "[[Create 3 (Champ'd Up) - Andy Poland (🎧️ 2153)]]"
+  - "[[Umineko no Naku Koro ni OST_ - 01_titr]]"
+  - "[[Wa -cycle- (TV Size) - Hana Itoki (🎧️ 2152)]]"
+  - "[[Umineko no Naku Koro ni OST - 101]]"
+  - "[[Wanna b (TV Size) - TeddyLoid (🎧️ 2149)]]"
+  - "[[Yume no Ito - Kitou Akari (🎧️ 2148)]]"
 ---
 
 # Favorites

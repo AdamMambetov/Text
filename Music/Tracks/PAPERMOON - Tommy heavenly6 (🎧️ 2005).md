@@ -1,9 +1,9 @@
 ---
 created: 2026-06-11T22:37:36+03:00
 aliases:
-  - PAPERMOON
-  - Soul Eater OP 2
-  - Пожиратель душ OP 2
+  - "PAPERMOON"
+  - "Soul Eater OP 2"
+  - "Пожиратель душ OP 2"
 Cover: "[[Tommy heavenly6 - PAPERMOON.jpg]]"
 Year: 0
 Album: ""

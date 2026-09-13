@@ -1,9 +1,9 @@
 ---
 created: 2026-06-11T23:02:34+03:00
 aliases:
-  - Answer
-  - Beelzebub ED 1
-  - Вельзепуз ED 1
+  - "Answer"
+  - "Beelzebub ED 1"
+  - "Вельзепуз ED 1"
 Cover: "[[no3b - Answer.jpg]]"
 Year: 0
 Album: ""

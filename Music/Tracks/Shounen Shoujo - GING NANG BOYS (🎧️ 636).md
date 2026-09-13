@@ -1,9 +1,9 @@
 ---
 created: 2023-08-23T13:26:04+03:00
 aliases:
-  - Shounen Shoujo
-  - Sonny Boy ED 1
-  - Сонни Бой ED 1
+  - "Shounen Shoujo"
+  - "Sonny Boy ED 1"
+  - "Сонни Бой ED 1"
 Cover: "[[Sonny Boy OST.jpg]]"
 Year: 2021
 Album: "[[Sonny Boy OST (📀 41)]]"

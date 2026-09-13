@@ -1,7 +1,7 @@
 ---
 created: 2025-12-18T02:31:45+03:00
 aliases:
-  - 6 Кадров (TV Size)
+  - "6 Кадров (TV Size)"
 Cover: "[[6 кадров.jpg]]"
 Year: 2006
 Album: ""

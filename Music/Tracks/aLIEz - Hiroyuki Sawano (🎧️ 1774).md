@@ -11,7 +11,7 @@ CoverOf: ""
 Creators:
   - "[[Hiroyuki Sawano (🎙️ 327)]]"
   - "[[mizuki (🎙️ 660)]]"
-ListenInSec: 2484
+ListenInSec: 2752
 NumberInAlbum: 0
 related:
   - "[[aLIEz (TV Size) - Hiroyuki Sawano]]"
