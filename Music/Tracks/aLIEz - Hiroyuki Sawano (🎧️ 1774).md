@@ -4,7 +4,7 @@ aliases:
   - "aLIEz"
   - "Aldnoah.Zero ED 2"
   - "Альдноа.Зеро ED 2"
-Cover: "[[Hiroyuki Sawano - ALDNOAH.ZERO OST.jpg]]"
+Cover: "[[ALDNOAH.ZERO OST.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

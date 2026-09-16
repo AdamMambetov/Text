@@ -2,7 +2,7 @@
 created: 2025-01-08T16:54:52+03:00
 aliases:
   - "Despair Syndrome (2)"
-Cover: "[[danganronpa_ost_cover.jpg]]"
+Cover: "[[DANGANRONPA 1 OST.jpg]]"
 Year: 2011
 Album: "[[DANGANRONPA OST (📀 43)]]"
 CoverOf: ""

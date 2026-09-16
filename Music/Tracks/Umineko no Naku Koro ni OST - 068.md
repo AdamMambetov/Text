@@ -1,22 +1,25 @@
 ---
 created: 2026-09-10T16:56:55+03:00
 aliases:
-  - "Umineko no Naku Koro ni OST - 068"
-Cover: "[[_No Album Art.jpg]]"
-Year: 0
-Album: ""
+  - "Dancing Pipe"
+  - "Танцующая трубка"
+  - "odoru_kimuchi"
+Cover: "[[Umineko no Naku Koro Ni OST 1.jpg]]"
+Year: 2007
+Album: "[[Umineko no Naku Koro ni OST (📀 30)]]"
 CoverOf: ""
-Creators: []
+Creators:
+  - "[[dai (🎙️ 3)]]"
 ListenInSec: 246
-NumberInAlbum: 0
+NumberInAlbum: 68
 related: []
 source: ""
-SourceFile: "[[Umineko no Naku Koro ni OST - 068.ogg]]"
+SourceFile: "[[Umineko no Naku Koro ni OST - 068 Dancing Pipe.ogg]]"
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`
 
-![[Umineko no Naku Koro ni OST - 068.ogg]]
+![[Umineko no Naku Koro ni OST - 068 Dancing Pipe.ogg]]
 
 ## Related Tracks
 

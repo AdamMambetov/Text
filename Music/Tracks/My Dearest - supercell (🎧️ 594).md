@@ -7,13 +7,13 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
+CoverOf: ""
 Creators:
   - "[[supercell (🎙️ 59)]]"
+ListenInSec: 2841
 NumberInAlbum: 0
 related:
   - "[[My Dearest (TV Size) - supercell (🎧️ 2095)]]"
 SourceFile: "[[supercell - My Dearest.mp3]]"
-ListenInSec: 2841
-CoverOf: ""
 ---
 

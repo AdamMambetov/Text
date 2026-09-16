@@ -23,9 +23,9 @@ related:
 	- Цена 23 764,74 рублей
 - OS proxmox
 	- https://192.168.1.234:8006
-- Белый IP у [провайдера SmartHome](https://smarthome.spb.ru)
-	- `213.108.39.127`
-	- Цена 150 рублей в месяц
+- Белый IP у [провайдера Инетком](https://inetcom.ru)
+	- `176.99.150.41`
+	- Цена 60 рублей в месяц
 
 ## Список программ
 
@@ -37,10 +37,9 @@ related:
 > - http://192.168.1.108:3000/
 
 > [!done]- [nginx proxy manager](https://nginxproxymanager.com)
-> Reverse proxy для того, чтобы превратить `https://213.108.39.127:3000` в `https://gitea.adammambetov.duckdns.org`.
+> Reverse proxy для того, чтобы превратить `https://176.99.150.41:3000` в `https://gitea.adammambetov.duckdns.org`.
 > Использовал `debian-13-standart_13.6-1` lxc контейнер. В качестве DNS сервера используется [Duck DNS](https://www.duckdns.org)
 > Доступ:
-> - http://213.108.39.127:81
 > - http://192.168.1.101:81
 
 > [!done]- [nextcloud](https://nextcloud.com)
@@ -60,8 +59,9 @@ related:
 > Доступ:
 > - https://192.168.1.190
 
-> [!todo]- [Immich](https://immich.app/)
+> [!fail]- [Immich](https://immich.app/)
 > Галерея фото и видео
+> Не хватает ОЗУ
 
 > [!done]- [Paperless](https://docs.paperless-ngx.com/)
 > Галерея для документов
@@ -83,8 +83,13 @@ related:
 > - https://jellyfin.adammambetov.duckdns.org
 > - http://192.168.1.100:8096
 
-> [!todo]- [Navidrome](https://www.navidrome.org)
-> Стриминговый сервис для музыки. Аналог Spotify.
+> [!done]- [Navidrome](https://www.navidrome.org)
+> Стриминговый сервис для музыки. Аналог Spotify. Не знаю насколько он мне нужен, учитывая, что есть jellyfin и моё музыкальное приложение.
+> [GitHub](https://github.com/navidrome/navidrome)
+> Использовал `debian-13-standart_13.6-1` lxc контейнер.
+> Доступ:
+> - https://navidrome.m6v.duckdns.org
+> - http://192.168.1.103:4533
 
 > [!todo]- Хранилище Steam библиотеки
 
@@ -121,10 +126,16 @@ related:
 > - https://it-tools.adammambetov.duckdns.org
 > - http://192.168.1.111:8080
 
-> [!todo]- [tailchat](https://tailchat.msgbyte.com)
+> [!fail]- [tailchat](https://tailchat.msgbyte.com)
 > Аналог Discord
+> В нём нет видеозвонков
 > [GitHub](https://github.com/msgbyte/tailchat)
 
-> [!todo]- metube
+> [!fail]- metube
 > Web UI для yt-dlp
+> Его надо разворачивать локально на компе, потому что нужны cookie из браузера и VPN.
 > [GitHub](https://github.com/alexta69/metube)
+
+> [!todo]- [Stoat](https://stoat.chat)
+> Аналог Discord
+> [GitHub](https://github.com/stoatchat/stoatchat)

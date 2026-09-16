@@ -2,7 +2,7 @@
 created: 2025-01-08T16:56:13+03:00
 aliases:
   - "Mr. Monokuma's Lesson"
-Cover: "[[danganronpa_ost_cover.jpg]]"
+Cover: "[[DANGANRONPA 1 OST.jpg]]"
 Year: 2011
 Album: "[[DANGANRONPA OST (📀 43)]]"
 CoverOf: ""

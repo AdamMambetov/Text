@@ -5,7 +5,7 @@ aliases:
   - "Птичья песнь"
   - "Air OP 1"
   - "Высь OP 1"
-Cover: "[[Lia - Air OST.jpg]]"
+Cover: "[[Air OST.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

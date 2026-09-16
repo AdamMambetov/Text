@@ -3,7 +3,7 @@ created: 2026-07-11T12:55:43+03:00
 aliases:
   - "DANGANRONPA OST"
   - "Danganronpa: Trigger Happy Havoc OST"
-Cover: "[[danganronpa_ost_cover.jpg]]"
+Cover: "[[DANGANRONPA 1 OST.jpg]]"
 Year: 2011
 Creators:
   - "[[Masafumi Takada (🎙️ 790)]]"
@@ -76,7 +76,7 @@ tracklist:
 
 # DANGANRONPA OST
 
-![[danganronpa_ost_cover.jpg]]
+![[DANGANRONPA 1 OST.jpg]]
 
 ## Tracklist
 

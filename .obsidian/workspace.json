@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "8e312acc4b41bc28",
+        "id": "b1983c172f971089",
         "type": "tabs",
         "children": [
           {
-            "id": "44d40607e745256b",
+            "id": "780c22b392d3705e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Music/Albums/Your Turn To Die OST (📀 70).md",
+                "file": "Note/projects/homelab/homelab.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Your Turn To Die OST (📀 70)"
-            }
-          },
-          {
-            "id": "5a914d673b6a99fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Music/Tracks/Umineko no Naku Koro ni OST_ - 01_titr.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Umineko no Naku Koro ni OST_ - 01_titr"
+              "title": "homelab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +89,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Music/Tracks/Umineko no Naku Koro ni OST_ - 01_titr.md",
+                "file": "Note/content/PostgreSQL.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -166,7 +151,7 @@
       {
         "id": "9a8f43a41bcf3663",
         "type": "tabs",
-        "dimension": 34.097706879361915,
+        "dimension": 31.006979062811567,
         "children": [
           {
             "id": "6288a4b67d726840",
@@ -174,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Music/Tracks/Umineko no Naku Koro ni OST_ - 01_titr.md",
+                "file": "Music/Tracks/Umineko no Naku Koro ni OST - 005.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Music/Tracks/Umineko no Naku Koro ni OST_ - 01_titr.md",
+                "file": "Music/Albums/Umineko no Naku Koro ni OST (📀 30).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
@@ -224,13 +209,24 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
+          },
+          {
+            "id": "499bb1054fa475f9",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "3185b9fecf878a15",
         "type": "tabs",
-        "dimension": 65.90229312063809,
+        "dimension": 68.99302093718843,
         "children": [
           {
             "id": "85cdd56987990db9",
@@ -302,44 +298,44 @@
       "cmdr:Track Edit": false
     }
   },
-  "active": "5a914d673b6a99fd",
+  "active": "780c22b392d3705e",
   "lastOpenFiles": [
-    "Music/Albums/Your Turn To Die OST (📀 70).md",
-    "Music/Tracks/Umineko no Naku Koro ni OST_ - 01_titr.md",
-    "Music/Tracks/Nine Thou (Superstars Remix) (Game Version) - Styles of Beyond (🎧️ 862).md",
-    "Music/Tracks/Your Turn To Die OST - SousA.md",
-    "Music/Tracks/Need For Speed Most Wanted OST - Nine Thou (Grant Mohrman Superstars Remix).md",
-    "Note/Untitled.md",
-    "Music/Tracks/Exploration C - Nankidai (🎧️ 2291).md",
-    "Music/Tracks/Since I Last Saw You - Nankidai (🎧️ 2292).md",
-    "Music/Tracks/KLKL - Nankidai (🎧️ 2293).md",
-    "Music/Tracks/Hakanai - Nankidai (🎧️ 2294).md",
-    "Music/Tracks/Smiles Abound - Nankidai (🎧️ 1906).md",
+    "Note/rust tauri sycamore clone issue.md",
+    "Music/Albums/Umineko no Naku Koro ni OST (📀 30).md",
+    "Note/projects/homelab/homelab.md",
+    "Note/content/PostgreSQL.md",
+    "Music/Creators/Ryu-Ga (🎙️ 0).md",
+    "Music/Creators/Ryu-Ga.md",
+    "Music/Creators/Pureco (🎙️ 0).md",
+    "Music/Creators/Pureco.md",
     "Music/Tracks/Umineko no Naku Koro ni OST - 005.md",
-    "Music/Tracks/Umineko no Naku Koro ni OST - 006.md",
-    "Music/Tracks/Umineko no Naku Koro ni OST - 014.md",
-    "Music/Tracks/Umineko no Naku Koro ni OST - 015.md",
-    "Music/Tracks/Umineko no Naku Koro ni OST - 018.md",
-    "Music/Tracks/Umineko no Naku Koro ni OST - 020.md",
-    "Music/Tracks/Umineko no Naku Koro ni OST - 022.md",
-    "Music/Tracks/Umineko no Naku Koro ni OST - 023.md",
-    "Music/Tracks/Umineko no Naku Koro ni OST - 026.md",
-    "Music/Tracks/Umineko no Naku Koro ni OST - 028.md",
-    "Music/Tracks/Umineko no Naku Koro ni OST - 029.md",
-    "Music/Tracks/Umineko no Naku Koro ni OST - 030.md",
-    "Music/Tracks/Umineko no Naku Koro ni OST - 032.md",
-    "Music/Tracks/Umineko no Naku Koro ni OST - 033.md",
-    "Music/Tracks/Umineko no Naku Koro ni OST - 036.md",
-    "Music/Covers/Your Turn To Die OST.jpg",
-    "Music/Covers/Your Turn To Die OST - 21 Samurai Woman [EXTENDED].jpg",
-    "Music/Covers/_No Album Art.jpg",
-    "Music/Covers/otetsu - Hoshikuzu Utopia.jpg",
-    "Music/Covers/6 кадров.jpg",
-    "Music/Covers/Classroom of the Elite 2-3 OST.jpg",
-    "Music/Covers/Masafumi Takada - Welcome to DANGAN IsLand!!.jpg",
-    "Music/Covers/BUMP OF CHICKEN - Sleep Walking Orchestra.jpg",
-    "Music/Covers/Two Feet - Love is a Bitch.jpg",
-    "Music/Covers/JIMANG - La Divina Tragedia ~Makyoku~.jpg",
+    "Music/Tracks/Round 2 Write (Quiplash) - Andy Poland (🎧️ 1661).md",
+    "Music/Tracks/Round 1 Write (Quiplash) - Andy Poland (🎧️ 1660).md",
+    "Music/Tracks/Eerie - Kenichiro Suehiro (🎧️ 1846).md",
+    "Music/Tracks/1Coma - Hiroyuki Sawano (🎧️ 1626).md",
+    "Music/Albums/Kabaneri of the Iron Fortress OST (📀 12).md",
+    "Music/Tracks/Guardian of the Galaxy OST - The Rubberband Man - The Spinners (🎧️ 1673).md",
+    "Music/Tracks/Gintama OST - Madao - Audio Highs (🎧️ 2084).md",
+    "Music/Covers/DANGANRONPA V3 OST WHITE.jpg",
+    "Music/Covers/DANGANRONPA V3 OST WHITE.jpg",
+    "Music/Covers/DANGANRONPA V3 OST BLACK.jpg",
+    "Music/Covers/DANGANRONPA V3 OST BLACK.jpg",
+    "Music/Creators/Chimoruki (🎙️ 258).md",
+    "Music/Covers/DANGANRONPA 1 OST.jpg",
+    "Music/Tracks/NONCANDIDATE - Chimoruki (🎧️ 1632).md",
+    "Music/Tracks/Devil Trigger - Casey Edwards (🎧️ 1792).md",
+    "Music/Tracks/Big Bang Theory Theme - Barenaked Ladies (🎧️ 849).md",
+    "Music/Albums/Big Bang Theory OST (📀 7).md",
+    "Music/Tracks/Ezio’s Family - Jesper Kyd (🎧️ 1332).md",
+    "Music/Covers/ALDNOAH.ZERO OST.jpg",
+    "Music/Covers/Air OST.jpg",
+    "Note/Hiroyuki Sawano - ALDNOAH.ZERO OST.jpg.md",
+    "Music/Covers/Мастер и Маргарита OST.jpg",
+    "Music/Covers/Umineko no Naku Koro Ni OST 1.jpg",
+    "Music/Covers/Quiplash OST.jpg",
+    "Music/Tracks/Воланд - Игорь Корнелюк (🎧️ 1637).md",
+    "Music/Albums/Your Turn To Die OST (📀 70).md",
+    "Music/Tracks/Be Strong - Kana Yazumi (🎧️ 2126).md",
     "Personal/Пароли.kdbx.jrReoW",
     "Text/Note/files",
     "Text/Note",

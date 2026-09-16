@@ -2,7 +2,7 @@
 created: 2026-06-11T23:35:12+03:00
 aliases:
   - "Gintama OST - Madao"
-Cover: "[[Gintama OST - Madao.jpg]]"
+Cover: "[[Gintama OST.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

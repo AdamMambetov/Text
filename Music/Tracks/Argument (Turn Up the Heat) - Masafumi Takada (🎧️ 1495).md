@@ -2,7 +2,7 @@
 created: 2025-01-08T16:58:08+03:00
 aliases:
   - "Argument (Turn Up the Heat)"
-Cover: "[[danganronpa_ost_cover.jpg]]"
+Cover: "[[DANGANRONPA 1 OST.jpg]]"
 Year: 2011
 Album: "[[DANGANRONPA OST (📀 43)]]"
 CoverOf: ""

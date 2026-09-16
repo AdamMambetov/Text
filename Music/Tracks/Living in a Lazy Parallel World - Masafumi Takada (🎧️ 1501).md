@@ -2,7 +2,7 @@
 created: 2025-01-08T17:20:11+03:00
 aliases:
   - "Living in a Lazy Parallel World"
-Cover: "[[danganronpa_v3_ost_white_cover.jpg]]"
+Cover: "[[DANGANRONPA V3 OST WHITE.jpg]]"
 Year: 2017
 Album: "[[DANGANRONPA V3 OST WHITE  (📀 44)]]"
 CoverOf: ""

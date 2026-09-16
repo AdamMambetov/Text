@@ -7,13 +7,13 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
+CoverOf: ""
 Creators:
   - "[[Frederic (🎙️ 738)]]"
+ListenInSec: 2415
 NumberInAlbum: 0
 related:
   - "[[Kanashii Ureshii (TV Size) - Frederic]]"
 SourceFile: "[[Frederic - Kanashii Ureshii.mp3]]"
-ListenInSec: 2415
-CoverOf: ""
 ---
 

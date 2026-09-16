@@ -3,7 +3,7 @@ created: 2025-11-03T13:43:00+03:00
 aliases:
   - "Devil Trigger"
   - "Nero's battle theme"
-Cover: "[[Casey Edwards - Devil May Cry 5 OST.jpg]]"
+Cover: "[[Devil May Cry 5 OST.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

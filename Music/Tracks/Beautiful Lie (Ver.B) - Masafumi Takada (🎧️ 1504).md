@@ -2,7 +2,7 @@
 created: 2025-01-08T17:25:55+03:00
 aliases:
   - "Beautiful Lie (Ver.B)"
-Cover: "[[danganronpa_v3_ost_black_cover.jpg]]"
+Cover: "[[DANGANRONPA V3 OST BLACK.jpg]]"
 Year: 2017
 Album: "[[DANGANRONPA V3 OST BLACK (📀 45)]]"
 CoverOf: ""

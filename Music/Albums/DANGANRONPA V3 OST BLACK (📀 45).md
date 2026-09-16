@@ -3,7 +3,7 @@ created: 2026-07-11T12:59:38+03:00
 aliases:
   - "DANGANRONPA V3 OST BLACK"
   - "Danganronpa V3: Killing Harmony OST BLACK"
-Cover: "[[danganronpa_v3_ost_black_cover.jpg]]"
+Cover: "[[DANGANRONPA V3 OST BLACK.jpg]]"
 Year: 2017
 Creators:
   - "[[Masafumi Takada (🎙️ 790)]]"
@@ -70,7 +70,7 @@ tracklist:
 
 # DANGANRONPA V3 OST BLACK
 
-![[danganronpa_v3_ost_black_cover.jpg]]
+![[DANGANRONPA V3 OST BLACK.jpg]]
 
 ## Tracklist
 

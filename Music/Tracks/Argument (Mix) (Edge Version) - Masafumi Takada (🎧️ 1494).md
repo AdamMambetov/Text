@@ -2,7 +2,7 @@
 created: 2025-01-08T16:57:33+03:00
 aliases:
   - "Argument (Mix) [Edge Version]"
-Cover: "[[danganronpa_ost_cover.jpg]]"
+Cover: "[[DANGANRONPA 1 OST.jpg]]"
 Year: 2011
 Album: "[[DANGANRONPA OST (📀 43)]]"
 CoverOf: ""

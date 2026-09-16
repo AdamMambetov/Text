@@ -2,7 +2,7 @@
 created: 2025-11-19T02:13:30+03:00
 aliases:
   - "Eerie"
-Cover: "[[Kenichiro Suehiro - ReZero The Frozen Bond OST.jpg]]"
+Cover: "[[ReZero The Frozen Bond OST.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""

@@ -2,7 +2,7 @@
 created: 2025-02-03T08:25:50+03:00
 aliases:
   - "NONCANDIDATE"
-Cover: "[[Chimoruki - NONCANDIDATE (Clowns Song, Kaisou, Day of Tragedy OST Mashup).png]]"
+Cover: "[[Chimoruki - NONCANDIDATE.png]]"
 Year: 2021
 Album: ""
 CoverOf: ""
