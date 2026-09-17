@@ -10,7 +10,7 @@ Album: "[[Sonny Boy OST (📀 41)]]"
 CoverOf: ""
 Creators:
   - "[[GING NANG BOYS (🎙️ 668)]]"
-ListenInSec: 1383
+ListenInSec: 1475
 NumberInAlbum: 1
 related:
   - "[[Shounen Shoujo - GING NANG BOYS (🎧️ 636)]]"

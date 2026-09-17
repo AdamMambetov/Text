@@ -8,18 +8,9 @@ Album: "[[ReZero 1 OST (📀 46)]]"
 CoverOf: ""
 Creators:
   - "[[Kenichiro Suehiro (🎙️ 748)]]"
-ListenInSec: 1662
+ListenInSec: 1872
 NumberInAlbum: 36
 related: []
-source: ""
 SourceFile: "[[ReZero 1 OST - 36 Chain of Memories.mp3]]"
 ---
-
-`$=dv.header(1, dv.current().aliases[0])`
-
-![[ReZero 1 OST - 36 Chain of Memories.mp3]]
-
-## Related Tracks
-
-![[related tracks.base]]
 

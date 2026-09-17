@@ -9,7 +9,7 @@ CoverOf: ""
 Creators:
   - "[[Azumi Takahashi (🎙️ 1050)]]"
   - "[[Lotus Juice (🎙️ 1051)]]"
-ListenInSec: 3091
+ListenInSec: 3262
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Persona 3 Reload OST - It's Going Down Now.mp3]]"

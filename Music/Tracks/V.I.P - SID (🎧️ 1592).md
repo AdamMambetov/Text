@@ -10,13 +10,9 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[SID (🎙️ 435)]]"
-ListenInSec: 1169
+ListenInSec: 1748
 NumberInAlbum: 1
 related: []
-source:
 SourceFile: "[[SID - V.I.P.mp3]]"
 ---
 
-# SID - V.I.P
-
-![[SID - V.I.P.mp3]]

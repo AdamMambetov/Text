@@ -8,7 +8,7 @@ Album: "[[Akeboshi]]"
 CoverOf: ""
 Creators:
   - "[[Akeboshi (🎙️ 152)]]"
-ListenInSec: 1131
+ListenInSec: 1351
 NumberInAlbum: 1
 related: []
 source: ""

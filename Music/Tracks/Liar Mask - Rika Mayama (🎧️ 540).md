@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Rika Mayama (🎙️ 426)]]"
-ListenInSec: 1043
+ListenInSec: 1336
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Rika Mayama - Liar Mask.mp3]]"

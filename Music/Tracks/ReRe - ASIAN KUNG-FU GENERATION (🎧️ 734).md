@@ -12,7 +12,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[ASIAN KUNG-FU GENERATION (🎙️ 193)]]"
-ListenInSec: 1970
+ListenInSec: 2286
 NumberInAlbum: 0
 related:
   - "[[ReRe (TV Size) - ASIAN KUNG-FU GENERATION]]"

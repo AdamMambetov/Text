@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[UVERworld (🎙️ 473)]]"
-ListenInSec: 257
+ListenInSec: 305
 NumberInAlbum: 0
 related:
   - "[[Colors of the Heart (TV Size) - UVERworld (🎧️ 1686)]]"

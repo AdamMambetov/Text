@@ -1,7 +1,7 @@
 ---
 created: 2022-04-28T01:59:06+03:00
 aliases:
-  - "Hikaru Nara"
+  - "Hikarunara"
   - "My April Lie OP 1"
   - "Моя апрельская ложь OP 1"
 Cover: "[[Onsa Media - Hikaru Nara.png]]"

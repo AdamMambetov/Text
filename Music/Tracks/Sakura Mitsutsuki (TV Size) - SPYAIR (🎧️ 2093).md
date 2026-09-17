@@ -1,7 +1,7 @@
 ---
 created: 2026-06-11T23:41:12+03:00
 aliases:
-  - "Sakura Mitsutsuki (TV Size)"
+  - "Sakuramitsutsuki (TV Size)"
   - "Gintama OP 13"
   - "Гинтама OP 13"
 Cover: "[[SPYAIR - Sakuramitsuki.jpg]]"

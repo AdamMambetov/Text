@@ -10,7 +10,7 @@ Album: ""
 CoverOf: "[[Let Me Hear - Fear and Loathing in Las Vegas]]"
 Creators:
   - "[[Jackie-O (🎙️ 337)]]"
-ListenInSec: 3381
+ListenInSec: 3429
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Jackie-O - Let Me Hear.m4a]]"

@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Tommy heavenly6 (🎙️ 469)]]"
-ListenInSec: 1723
+ListenInSec: 1983
 NumberInAlbum: 0
 related:
   - "[[PAPERMOON (TV Size) - Tommy heavenly6 (🎧️ 2000)]]"

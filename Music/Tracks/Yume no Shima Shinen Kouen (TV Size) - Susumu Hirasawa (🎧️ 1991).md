@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Susumu Hirasawa (🎙️ 450)]]"
-ListenInSec: 2406
+ListenInSec: 2521
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Paranoia Agent OP.mp3]]"

@@ -9,7 +9,7 @@ CoverOf: ""
 Creators:
   - "[[Lyn Inaizumi (🎙️ 1015)]]"
   - "[[Shoji Meguro (🎙️ 1016)]]"
-ListenInSec: 8069
+ListenInSec: 8347
 NumberInAlbum: 29
 related: []
 SourceFile: "[[Persona 5 OST - 29 Beneath the Mask.mp3]]"

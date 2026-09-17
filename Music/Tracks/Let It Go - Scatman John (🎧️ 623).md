@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Scatman John (🎙️ 432)]]"
-ListenInSec: 2349
+ListenInSec: 2575
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Scatman John - Let It Go.mp3]]"

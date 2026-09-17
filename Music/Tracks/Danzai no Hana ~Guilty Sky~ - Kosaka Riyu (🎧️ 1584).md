@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Kosaka Riyu (🎙️ 701)]]"
-ListenInSec: 4286
+ListenInSec: 4905
 NumberInAlbum: 0
 related:
   - "[[Danzai no Hana ~Guilty Sky~ (TV Size) - Kosaka Riyu]]"

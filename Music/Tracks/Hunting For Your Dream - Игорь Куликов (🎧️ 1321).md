@@ -1,7 +1,7 @@
 ---
 created: 2024-10-23T15:21:00+03:00
 aliases:
-  - "Hunting For Your Dream"
+  - "HUNTING FOR YOUR DREAM"
   - "Hunter x Hunter ED 1"
   - "Хантер х Хантер ED 1"
 Cover: "[[_No Album Art.jpg]]"

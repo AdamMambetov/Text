@@ -10,14 +10,10 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[MYTH & ROID (🎙️ 382)]]"
-ListenInSec: 693
+ListenInSec: 1014
 NumberInAlbum: 0
 related:
   - "[[Paradisus-Paradoxum (TV Size) - MYTH & ROID (🎧️ 1085)]]"
-source: ""
 SourceFile: "[[MYTH & ROID - Paradisus-Paradoxum.mp3]]"
 ---
 
-# MYTH & ROID - Paradisus-Paradoxum
-
-![[MYTH & ROID - Paradisus-Paradoxum.mp3]]

@@ -1,8 +1,7 @@
 ---
 created: 2025-01-07T19:42:12+03:00
 aliases:
-  - "one-Me"
-  - "two-Hearts (TV Size)"
+  - "one-Me, two-Hearts (TV Size)"
   - "Divine Gate OP 1 (TV Size)"
   - "Божественные врата OP 1 (TV Size)"
 Cover: "[[_No Album Art.jpg]]"

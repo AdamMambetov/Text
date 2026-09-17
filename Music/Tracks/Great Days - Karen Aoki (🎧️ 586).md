@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Karen Aoki (🎙️ 647)]]"
-ListenInSec: 489
+ListenInSec: 724
 NumberInAlbum: 1
 related: []
 source: ""

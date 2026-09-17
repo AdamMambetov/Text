@@ -2,6 +2,7 @@
 created: 2022-04-22T21:51:30+03:00
 aliases:
   - "Iron"
+  - "Assassins Creed Revelations Trailer"
 Cover: "[[Woodkid - Iron.jpg]]"
 Year: 2011
 Album: "[[Iron [2011] {Woodkid}]]"

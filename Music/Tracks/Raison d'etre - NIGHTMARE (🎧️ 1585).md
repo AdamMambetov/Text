@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[NIGHTMARE (🎙️ 665)]]"
-ListenInSec: 574
+ListenInSec: 800
 NumberInAlbum: 0
 related:
   - "[[Raison d'etre (TV Size) - NIGHTMARE]]"

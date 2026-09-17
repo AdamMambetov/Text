@@ -10,7 +10,7 @@ Album: "[[ANGEL OF SALVATION]]"
 CoverOf: ""
 Creators:
   - "[[GALNERYUS (🎙️ 313)]]"
-ListenInSec: 357
+ListenInSec: 448
 NumberInAlbum: 1
 related:
   - "[[HUNTING FOR YOUR DREAM (TV Size) - GALNERYUS]]"

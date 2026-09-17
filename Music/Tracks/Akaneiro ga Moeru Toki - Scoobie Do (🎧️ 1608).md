@@ -10,14 +10,10 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Scoobie Do (🎙️ 947)]]"
-ListenInSec: 747
+ListenInSec: 1076
 NumberInAlbum: 0
 related:
   - "[[Akaneiro ga Moeru Toki (TV Size) - Scoobie Do (🎧️ 2097)]]"
-source: ""
 SourceFile: "[[Gungrave OST - Akaneiro ga Moeru Toki.mp3]]"
 ---
 
-# Gungrave OST - Akaneiro ga Moeru Toki
-
-![[Gungrave OST - Akaneiro ga Moeru Toki.mp3]]

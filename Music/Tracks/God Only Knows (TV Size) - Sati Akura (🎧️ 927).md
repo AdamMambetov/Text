@@ -1,16 +1,16 @@
 ---
 created: 2024-03-24T22:21:42+03:00
 aliases:
-  - "God Only Knows (TV Size)"
-  - "Kami Nomi zo Shiru Sekai OP 1"
+  - "Kami Nomi zo Shiru Sekai (TV Size)"
   - "Мир, ведомый лишь богу OP 1"
+  - "God Only Knows OP 1"
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
 CoverOf: "[[Kami Nomi zo Shiru Sekai - Hayato Matsuo (🎧️ 1537)]]"
 Creators:
   - "[[Sati Akura (🎙️ 355)]]"
-ListenInSec: 194
+ListenInSec: 283
 NumberInAlbum: 1
 related: []
 source: ""

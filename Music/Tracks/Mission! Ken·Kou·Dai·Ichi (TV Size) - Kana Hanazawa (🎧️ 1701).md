@@ -13,7 +13,7 @@ Creators:
   - "[[Tomoaki Maeno (🎙️ 970)]]"
   - "[[Daisuke Ono (🎙️ 971)]]"
   - "[[Kikuko Inoue (🎙️ 972)]]"
-ListenInSec: 1271
+ListenInSec: 1369
 NumberInAlbum: 0
 related: []
 source: ""

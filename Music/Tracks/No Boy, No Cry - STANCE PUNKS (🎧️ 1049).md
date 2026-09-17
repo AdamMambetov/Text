@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[STANCE PUNKS (🎙️ 443)]]"
-ListenInSec: 1040
+ListenInSec: 1254
 NumberInAlbum: 0
 related:
   - "[[No Boy, No Cry (TV Size) - STANCE PUNKS]]"

@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[FZMZ (🎙️ 721)]]"
-ListenInSec: 226
+ListenInSec: 461
 NumberInAlbum: 0
 related:
   - "[[BROKEN GAMES (TV Size) - FZMZ]]"

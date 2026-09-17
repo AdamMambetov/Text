@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Ikimonogakari (🎙️ 57)]]"
-ListenInSec: 1916
+ListenInSec: 2066
 NumberInAlbum: 0
 related:
   - "[[Blue Bird (TV Size) - Ikimonogakari]]"

@@ -9,7 +9,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Casey Edwards (🎙️ 791)]]"
-ListenInSec: 7355
+ListenInSec: 7754
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Devil May Cry 5 OST - Devil Trigger.mp3]]"

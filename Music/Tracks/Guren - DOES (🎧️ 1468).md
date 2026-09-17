@@ -8,13 +8,9 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[DOES (🎙️ 36)]]"
-ListenInSec: 950
+ListenInSec: 1192
 NumberInAlbum: 0
 related: []
-source: ""
 SourceFile: "[[DOES - Guren.mp3]]"
 ---
 
-# DOES - Guren
-
-![[DOES - Guren.mp3]]

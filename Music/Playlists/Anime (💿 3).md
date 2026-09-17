@@ -214,7 +214,6 @@ tracklist:
   - "[[Night Fishing - mitsume (🎧️ 635)]]"
   - "[[Summer Storm - VIDEOTTAPEMUSIC (🎧️ 634)]]"
   - "[[Soft Oversight - Ogawa & Tokoro (🎧️ 633)]]"
-  - "[[Sou and Seiji - mitsume (🎧️ 632)]]"
   - "[[SONNY BOY RHAPSODY - toe (🎧️ 631)]]"
   - "[[HYDRA - MYTH & ROID (🎧️ 630)]]"
   - "[[Spare - mitsume (🎧️ 629)]]"
@@ -482,7 +481,6 @@ tracklist:
   - "[[A FAR-OFF DISTANCE (TV Size) - GALNERYUS (🎧️ 2134)]]"
   - "[[We're not alone (TV Size) - coldrain (🎧️ 2133)]]"
   - "[[We're not alone - coldrain (🎧️ 2132)]]"
-  - "[[Ender Ember - MYTH & ROID (🎧️ 2131)]]"
   - "[[Recollect - Konomi Suzuki (🎧️ 2130)]]"
   - "[[Ender Ember (TV Size) - MYTH & ROID (🎧️ 2129)]]"
   - "[[Recollect (TV Size) - Konomi Suzuki (🎧️ 2128)]]"
@@ -505,6 +503,15 @@ tracklist:
   - "[[Kesenai Tsumi - Nana Kitade (🎧️ 2150)]]"
   - "[[JINGO JUNGLE (TV Size) - MYTH & ROID (🎧️ 2151)]]"
   - "[[Wa -cycle- (TV Size) - Hana Itoki (🎧️ 2152)]]"
+  - "[[Steppin' Out (TV Size) - FLOW (🎧️ 1687)]]"
+  - "[[Megumeru (TV Size) - Eufonius (🎧️ 1746)]]"
+  - "[[My Soul, Your Beats! - Lia (🎧️ 1744)]]"
+  - "[[Courage (TV Size) - Haruka Tomatsu (🎧️ 1689)]]"
+  - "[[Toki wo Kizamu Uta (TV Size) - Lia (🎧️ 1747)]]"
+  - "[[Irokousui (TV Size) - Yoh Kamiyama (🎧️ 1684)]]"
+  - "[[88 - LM.C (🎧️ 2085)]]"
+  - "[[Asayake to Nettaigyo (TV Size) - Boku no Lyric no Bouyomi (🎧️ 1679)]]"
+  - "[[Ender Ember - MYTH & ROID (🎧️ 2131)]]"
 ---
 
 # Anime

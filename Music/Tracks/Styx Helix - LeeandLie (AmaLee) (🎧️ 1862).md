@@ -1,7 +1,7 @@
 ---
 created: 2025-11-20T23:19:46+03:00
 aliases:
-  - "Styx Helix"
+  - "STYX HELIX"
   - "ReZero ED 1"
   - "РеЗеро ED 1"
 Cover: "[[_No Album Art.jpg]]"

@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Scatman John (🎙️ 432)]]"
-ListenInSec: 2521
+ListenInSec: 2735
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Scatman John - Scatman (ski-ba-bop-ba-dop-bop).mp3]]"

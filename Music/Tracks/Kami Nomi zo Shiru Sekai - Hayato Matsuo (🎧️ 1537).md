@@ -1,14 +1,16 @@
 ---
 created: 2025-01-08T19:02:56+03:00
 aliases:
-  - "Kami Nomi zo Shiru Sekai"
+  - "Kami Nomi zo Shiru Sekai (TV Size)"
+  - "Мир ведомый лишь богу OP 1"
+  - "God Only Knows OP 1"
 Cover: "[[_No Album Art.jpg]]"
-Year: 0
+Year: 2010
 Album: ""
 CoverOf: ""
 Creators:
   - "[[Hayato Matsuo (🎙️ 938)]]"
-ListenInSec: 641
+ListenInSec: 731
 NumberInAlbum: 1
 related: []
 source: ""

@@ -5,7 +5,7 @@ aliases:
   - "Death Parade OP 1"
   - "Смертельный парад OP 1"
   - "Парад смерти OP 1"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Jackie-O - Flyers (TV Size).jpg]]"
 Year: 0
 Album: ""
 CoverOf: "[[Flyers - BRADIO (🎧️ 1195)]]"

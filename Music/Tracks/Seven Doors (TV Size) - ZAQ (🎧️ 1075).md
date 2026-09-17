@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[ZAQ (🎙️ 764)]]"
-ListenInSec: 266
+ListenInSec: 1245
 NumberInAlbum: 1
 related:
   - "[[Seven Doors - ZAQ (🎧️ 871)]]"

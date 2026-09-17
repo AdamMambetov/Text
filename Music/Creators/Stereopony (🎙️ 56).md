@@ -2,7 +2,7 @@
 created: 2025-06-30T18:26:28+03:00
 aliases:
   - "Stereopony"
-ListenInSec: 1901
+ListenInSec: 2124
 ---
 
 # Stereopony

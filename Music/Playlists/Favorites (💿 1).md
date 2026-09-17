@@ -825,7 +825,6 @@ tracklist:
   - "[[Night Fishing - mitsume (🎧️ 635)]]"
   - "[[Summer Storm - VIDEOTTAPEMUSIC (🎧️ 634)]]"
   - "[[Soft Oversight - Ogawa & Tokoro (🎧️ 633)]]"
-  - "[[Sou and Seiji - mitsume (🎧️ 632)]]"
   - "[[SONNY BOY RHAPSODY - toe (🎧️ 631)]]"
   - "[[HYDRA - MYTH & ROID (🎧️ 630)]]"
   - "[[Spare - mitsume (🎧️ 629)]]"
@@ -1579,7 +1578,6 @@ tracklist:
   - "[[Umineko no Naku Koro ni OST - 067]]"
   - "[[Umineko no Naku Koro ni OST_ - tiruop]]"
   - "[[Umineko no Naku Koro ni OST - 052]]"
-  - "[[Exploration C - Nankidai (🎧️ 2291)]]"
   - "[[Kesenai Tsumi - Nana Kitade (🎧️ 2150)]]"
   - "[[Umineko no Naku Koro ni OST_ - ep5_op]]"
   - "[[Umineko no Naku Koro ni OST - 038]]"
@@ -1592,6 +1590,12 @@ tracklist:
   - "[[Umineko no Naku Koro ni OST - 101]]"
   - "[[Wanna b (TV Size) - TeddyLoid (🎧️ 2149)]]"
   - "[[Yume no Ito - Kitou Akari (🎧️ 2148)]]"
+  - "[[Megumeru (TV Size) - Eufonius (🎧️ 1746)]]"
+  - "[[My Soul, Your Beats! - Lia (🎧️ 1744)]]"
+  - "[[Courage (TV Size) - Haruka Tomatsu (🎧️ 1689)]]"
+  - "[[Toki wo Kizamu Uta (TV Size) - Lia (🎧️ 1747)]]"
+  - "[[Irokousui (TV Size) - Yoh Kamiyama (🎧️ 1684)]]"
+  - "[[Asayake to Nettaigyo (TV Size) - Boku no Lyric no Bouyomi (🎧️ 1679)]]"
 ---
 
 # Favorites

@@ -11,7 +11,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[BOOM BOOM SATELLITES (🎙️ 232)]]"
-ListenInSec: 2896
+ListenInSec: 3216
 NumberInAlbum: 0
 related:
   - "[[LAY YOUR HANDS ON ME (TV Size) - BOOM BOOM SATELLITES]]"

@@ -11,7 +11,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Kana Yazumi (🎙️ 821)]]"
-ListenInSec: 3783
+ListenInSec: 3870
 NumberInAlbum: 0
 related:
   - "[[Be Strong - Kana Yazumi (🎧️ 2126)]]"

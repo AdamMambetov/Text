@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Group Tamashii (🎙️ 1032)]]"
-ListenInSec: 990
+ListenInSec: 1080
 NumberInAlbum: 0
 related: []
 source: ""

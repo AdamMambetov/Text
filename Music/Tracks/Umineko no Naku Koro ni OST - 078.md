@@ -1,8 +1,8 @@
 ---
 created: 2026-09-10T16:57:32+03:00
 aliases:
-  - prison
-  - Темница
+  - "prison"
+  - "Темница"
 Cover: "[[Umineko no Naku Koro Ni OST 1.jpg]]"
 Year: 2007
 Album: "[[Umineko no Naku Koro ni OST (📀 30)]]"

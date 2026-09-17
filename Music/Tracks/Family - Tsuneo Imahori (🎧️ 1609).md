@@ -1,7 +1,7 @@
 ---
 created: 2025-01-08T23:23:25+03:00
 aliases:
-  - "Family"
+  - "Family (TV Size)"
   - "Gungrave OP 1"
   - "Гангрейв OP 1"
 Cover: "[[_No Album Art.jpg]]"
@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Tsuneo Imahori (🎙️ 948)]]"
-ListenInSec: 237
+ListenInSec: 2682
 NumberInAlbum: 1
 related: []
 source:

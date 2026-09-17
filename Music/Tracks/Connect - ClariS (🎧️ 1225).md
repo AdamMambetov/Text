@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[ClariS (🎙️ 262)]]"
-ListenInSec: 7079
+ListenInSec: 7901
 NumberInAlbum: 0
 related:
   - "[[Connect (TV Size) - ClariS (🎧️ 1093)]]"

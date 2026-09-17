@@ -9,7 +9,7 @@ CoverOf: ""
 Creators:
   - "[[Mikakuning! (🎙️ 951)]]"
   - "[[Junky (🎙️ 950)]]"
-ListenInSec: 613
+ListenInSec: 1690
 NumberInAlbum: 1
 related:
   - "[[Tomadoi Recipe - Mikakuning! (🎧️ 1618)]]"

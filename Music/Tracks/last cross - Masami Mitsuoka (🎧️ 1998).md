@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Masami Mitsuoka (🎙️ 797)]]"
-ListenInSec: 276
+ListenInSec: 444
 NumberInAlbum: 0
 related: []
 source: ""

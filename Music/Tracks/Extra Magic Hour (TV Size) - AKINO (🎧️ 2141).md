@@ -11,7 +11,7 @@ CoverOf: ""
 Creators:
   - "[[AKINO (🎙️ 160)]]"
   - "[[bless4 (🎙️ 161)]]"
-ListenInSec: 1085
+ListenInSec: 1183
 NumberInAlbum: 0
 related:
   - "[[Extra Magic Hour - AKINO (🎧️ 1309)]]"

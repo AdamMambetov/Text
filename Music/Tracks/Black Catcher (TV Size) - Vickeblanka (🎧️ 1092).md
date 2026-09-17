@@ -2,13 +2,13 @@
 created: 2024-07-21T15:50:18+03:00
 aliases:
   - "Black Catcher (TV Size)"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Vickeblanka - Black Catcher.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""
 Creators:
   - "[[Vickeblanka (🎙️ 476)]]"
-ListenInSec: 213
+ListenInSec: 221
 NumberInAlbum: 1
 related:
   - "[[Black Catcher - Vickeblanka (🎧️ 1186)]]"

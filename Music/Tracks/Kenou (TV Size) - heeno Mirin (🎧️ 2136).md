@@ -11,7 +11,7 @@ CoverOf: ""
 Creators:
   - "[[heeno Mirin (🎙️ 1062)]]"
   - "[[Aile The Shota (🎙️ 1063)]]"
-ListenInSec: 840
+ListenInSec: 940
 NumberInAlbum: 0
 related: []
 source: ""

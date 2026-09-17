@@ -11,14 +11,10 @@ CoverOf: ""
 Creators:
   - "[[Masayuki Suzuki (🎙️ 666)]]"
   - "[[Ihara Rikka (🎙️ 667)]]"
-ListenInSec: 822
+ListenInSec: 1084
 NumberInAlbum: 0
 related:
   - "[[Love Dramatic (TV Size) - Masayuki Suzuki (🎧️ 1589)]]"
-source: ""
 SourceFile: "[[Masayuki Suzuki feat. Ihara Rikka - Love Dramatic.mp3]]"
 ---
 
-# Masayuki Suzuki feat. Ihara Rikka - Love Dramatic
-
-![[Masayuki Suzuki feat. Ihara Rikka - Love Dramatic.mp3]]

@@ -11,18 +11,9 @@ CoverOf: ""
 Creators:
   - "[[SOLIDEMO (🎙️ 1045)]]"
   - "[[Sakuramen (🎙️ 1046)]]"
-ListenInSec: 924
+ListenInSec: 1198
 NumberInAlbum: 0
 related: []
-source: ""
 SourceFile: "[[SOLIDEMO with Sakuramen - My Song My Days.mp3]]"
 ---
-
-`$=dv.header(1, dv.current().aliases[0])`
-
-![[SOLIDEMO with Sakuramen - My Song My Days.mp3]]
-
-## Related Tracks
-
-![[related tracks.base]]
 

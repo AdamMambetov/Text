@@ -11,14 +11,10 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Yousei Teikoku (🎙️ 275)]]"
-ListenInSec: 1347
+ListenInSec: 1435
 NumberInAlbum: 0
 related:
   - "[[Kuusou Mesorogiwi - Yousei Teikoku (🎧️ 638)]]"
-source: ""
 SourceFile: "[[Yousei Teikoku - Kuusou Mesorogiwi (TV Size).mp3]]"
 ---
 
-# Yousei Teikoku - Kuusou Mesorogiwi (TV Size)
-
-![[Yousei Teikoku - Kuusou Mesorogiwi (TV Size).mp3]]

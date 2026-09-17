@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Afroman (🎙️ 157)]]"
-ListenInSec: 2545
+ListenInSec: 2854
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Afroman - Because I Got High Extended Version.mp3]]"

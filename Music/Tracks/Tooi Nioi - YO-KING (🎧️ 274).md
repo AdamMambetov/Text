@@ -10,7 +10,7 @@ Album: "[[Tooi Nioi [2013] {YO-KING}]]"
 CoverOf: ""
 Creators:
   - "[[YO-KING (🎙️ 483)]]"
-ListenInSec: 314
+ListenInSec: 466
 NumberInAlbum: 1
 related: []
 source: ""

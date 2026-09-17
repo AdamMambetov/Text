@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[STANCE PUNKS (🎙️ 443)]]"
-ListenInSec: 909
+ListenInSec: 1065
 NumberInAlbum: 0
 related: []
 SourceFile: "[[STANCE PUNKS - I Wanna be.mp3]]"

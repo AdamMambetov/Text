@@ -5,7 +5,7 @@ aliases:
   - "Overlord OP 3"
   - "Оверлорд OP 3"
   - "Повелитель OP 3"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[KADOKAWAanime - TVアニメ「オーバーロードⅢ」ノンクレジットOP映像【MYTH&ROID「VORACITY」】.jpg]]"
 Year: 2018
 Album: ""
 CoverOf: ""

@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Mrs. GREEN APPLE (🎙️ 380)]]"
-ListenInSec: 205
+ListenInSec: 207
 NumberInAlbum: 0
 related:
   - "[[Inferno (TV Size) - Mrs. GREEN APPLE]]"

@@ -9,7 +9,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[otetsu (🎙️ 401)]]"
-ListenInSec: 236
+ListenInSec: 453
 NumberInAlbum: 1
 related:
   - "[[Candy and Chains - otetsu (🎧️ 1206)]]"

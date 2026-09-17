@@ -277,6 +277,13 @@ tracklist:
   - "[[Reset (TV Size) - Yui Makino (🎧️ 2122)]]"
   - "[[VORACITY (TV Size) - MYTH & ROID (🎧️ 2094)]]"
   - "[[JINGO JUNGLE (TV Size) - MYTH & ROID (🎧️ 2151)]]"
+  - "[[Steppin' Out (TV Size) - FLOW (🎧️ 1687)]]"
+  - "[[Megumeru (TV Size) - Eufonius (🎧️ 1746)]]"
+  - "[[My Soul, Your Beats! - Lia (🎧️ 1744)]]"
+  - "[[Courage (TV Size) - Haruka Tomatsu (🎧️ 1689)]]"
+  - "[[Toki wo Kizamu Uta (TV Size) - Lia (🎧️ 1747)]]"
+  - "[[Irokousui (TV Size) - Yoh Kamiyama (🎧️ 1684)]]"
+  - "[[88 - LM.C (🎧️ 2085)]]"
 ---
 
 # Anime Openings

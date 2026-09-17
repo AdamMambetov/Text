@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[LM.C (🎙️ 825)]]"
-ListenInSec: 4604
+ListenInSec: 4854
 NumberInAlbum: 0
 related: []
 SourceFile: "[[LM.C - BOYS & GIRLS.mp3]]"

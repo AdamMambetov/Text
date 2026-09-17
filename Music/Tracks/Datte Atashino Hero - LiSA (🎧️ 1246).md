@@ -8,7 +8,7 @@ Album: "[[Datte Atashino Hero]]"
 CoverOf: ""
 Creators:
   - "[[LiSA (🎙️ 65)]]"
-ListenInSec: 236
+ListenInSec: 470
 NumberInAlbum: 1
 related: []
 source: ""

@@ -8,7 +8,7 @@ Album: "[[Naruto OST 1 (📀 15)]]"
 CoverOf: ""
 Creators:
   - "[[Musashi Project (🎙️ 558)]]"
-ListenInSec: 1255
+ListenInSec: 1433
 NumberInAlbum: 8
 related: []
 source:

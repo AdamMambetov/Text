@@ -10,7 +10,7 @@ Album: ""
 CoverOf: "[[Irokousui (TV Size) - Yoh Kamiyama (🎧️ 1684)]]"
 Creators:
   - "[[DiWilliam (🎙️ 60)]]"
-ListenInSec: 187
+ListenInSec: 280
 NumberInAlbum: 0
 related:
   - "[[Irokousui - Yoh Kamiyama (🎧️ 1683)]]"

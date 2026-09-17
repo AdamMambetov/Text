@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Masami Yone (🎙️ 982)]]"
-ListenInSec: 2047
+ListenInSec: 2254
 NumberInAlbum: 0
 related:
   - "[[Rhythm Tengoku OST - Marcher - Masami Yone (🎧️ 1781)]]"

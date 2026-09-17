@@ -325,6 +325,7 @@ tracklist:
   - "[[Ночные Ведьмы - RADIO TAPOK (🎧️ 81)]]"
   - "[[Hell And Back - RADIO TAPOK (🎧️ 922)]]"
   - "[[JINGO JUNGLE (TV Size) - MYTH & ROID (🎧️ 2151)]]"
+  - "[[My Soul, Your Beats! - Lia (🎧️ 1744)]]"
 ---
 
 # YouTube

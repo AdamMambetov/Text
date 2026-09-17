@@ -1,7 +1,7 @@
 ---
 created: 2024-10-23T13:41:24+03:00
 aliases:
-  - "Bloody Stream"
+  - "BLOODY STREAM"
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: "[[Bloody Stream]]"

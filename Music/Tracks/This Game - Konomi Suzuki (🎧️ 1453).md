@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Konomi Suzuki (🎙️ 351)]]"
-ListenInSec: 276
+ListenInSec: 422
 NumberInAlbum: 0
 related:
   - "[[This Game (TV Size) - Konomi Suzuki]]"

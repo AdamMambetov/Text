@@ -9,7 +9,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[QUEENDOM (🎙️ 658)]]"
-ListenInSec: 619
+ListenInSec: 709
 NumberInAlbum: 0
 related:
   - "[[Chitty Chitty Bang Bang - QUEENDOM (🎧️ 1605)]]"

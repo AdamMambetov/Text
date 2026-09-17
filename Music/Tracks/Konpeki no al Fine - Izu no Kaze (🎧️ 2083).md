@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Izu no Kaze (🎙️ 1053)]]"
-ListenInSec: 1105
+ListenInSec: 1309
 NumberInAlbum: 0
 related: []
 source: ""
