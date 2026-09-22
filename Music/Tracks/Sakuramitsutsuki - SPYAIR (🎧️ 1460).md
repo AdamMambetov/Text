@@ -13,7 +13,7 @@ Creators:
 ListenInSec: 3049
 NumberInAlbum: 0
 related:
-  - "[[Sakura Mitsutsuki (TV Size) - SPYAIR (🎧️ 2093)]]"
+  - "[[Sakuramitsutsuki (TV Size) - SPYAIR (🎧️ 2093)]]"
 SourceFile: "[[SPYAIR - Sakuramitsutsuki.mp3]]"
 ---
 

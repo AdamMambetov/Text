@@ -13,7 +13,8 @@ Creators:
   - "[[HYDE (🎙️ 827)]]"
 ListenInSec: 198
 NumberInAlbum: 0
-related: []
+related:
+  - "[[KISS OF DEATH - Mika Nakashima (🎧️ 2271)]]"
 source: ""
 SourceFile: "[[Mika Nakashima - KISS OF DEATH (TV Size).mp3]]"
 ---

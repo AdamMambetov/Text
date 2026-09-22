@@ -19,3 +19,7 @@ SourceFile: "[[Eminem - 'Till I Collapse.mp3]]"
 # Eminem - 'Till I Collapse
 
 ![[Eminem - 'Till I Collapse.mp3]]
+
+## Related Tracks
+
+![[related tracks.base]]

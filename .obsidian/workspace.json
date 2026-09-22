@@ -4,24 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "b1983c172f971089",
+        "id": "2015ef95d0fdadcd",
         "type": "tabs",
         "children": [
           {
-            "id": "780c22b392d3705e",
+            "id": "f0d62b270139875c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note/projects/homelab/homelab.md",
+                "file": "Music/Albums/Jackbox Party Pack 6 OST (📀 75).md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "homelab"
+              "title": "Jackbox Party Pack 6 OST (📀 75)"
+            }
+          },
+          {
+            "id": "499bb1054fa475f9",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +100,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Note/content/PostgreSQL.md",
+                "file": "Music/Albums/Jackbox Party Pack 6 OST (📀 75).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -159,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Music/Tracks/Umineko no Naku Koro ni OST - 005.md",
+                "file": "Music/Albums/Jackbox Party Pack 6 OST (📀 75).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Music/Albums/Umineko no Naku Koro ni OST (📀 30).md",
+                "file": "Music/Albums/Jackbox Party Pack 6 OST (📀 75).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
@@ -209,19 +220,9 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
-          },
-          {
-            "id": "499bb1054fa475f9",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "3185b9fecf878a15",
@@ -276,7 +277,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 406.18359375
+    "width": 406.18359375,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -298,44 +300,45 @@
       "cmdr:Track Edit": false
     }
   },
-  "active": "780c22b392d3705e",
+  "active": "499bb1054fa475f9",
   "lastOpenFiles": [
-    "Note/rust tauri sycamore clone issue.md",
-    "Music/Albums/Umineko no Naku Koro ni OST (📀 30).md",
-    "Note/projects/homelab/homelab.md",
-    "Note/content/PostgreSQL.md",
-    "Music/Creators/Ryu-Ga (🎙️ 0).md",
-    "Music/Creators/Ryu-Ga.md",
-    "Music/Creators/Pureco (🎙️ 0).md",
-    "Music/Creators/Pureco.md",
-    "Music/Tracks/Umineko no Naku Koro ni OST - 005.md",
-    "Music/Tracks/Round 2 Write (Quiplash) - Andy Poland (🎧️ 1661).md",
-    "Music/Tracks/Round 1 Write (Quiplash) - Andy Poland (🎧️ 1660).md",
-    "Music/Tracks/Eerie - Kenichiro Suehiro (🎧️ 1846).md",
-    "Music/Tracks/1Coma - Hiroyuki Sawano (🎧️ 1626).md",
-    "Music/Albums/Kabaneri of the Iron Fortress OST (📀 12).md",
-    "Music/Tracks/Guardian of the Galaxy OST - The Rubberband Man - The Spinners (🎧️ 1673).md",
-    "Music/Tracks/Gintama OST - Madao - Audio Highs (🎧️ 2084).md",
-    "Music/Covers/DANGANRONPA V3 OST WHITE.jpg",
-    "Music/Covers/DANGANRONPA V3 OST WHITE.jpg",
-    "Music/Covers/DANGANRONPA V3 OST BLACK.jpg",
-    "Music/Covers/DANGANRONPA V3 OST BLACK.jpg",
-    "Music/Creators/Chimoruki (🎙️ 258).md",
-    "Music/Covers/DANGANRONPA 1 OST.jpg",
-    "Music/Tracks/NONCANDIDATE - Chimoruki (🎧️ 1632).md",
-    "Music/Tracks/Devil Trigger - Casey Edwards (🎧️ 1792).md",
-    "Music/Tracks/Big Bang Theory Theme - Barenaked Ladies (🎧️ 849).md",
-    "Music/Albums/Big Bang Theory OST (📀 7).md",
-    "Music/Tracks/Ezio’s Family - Jesper Kyd (🎧️ 1332).md",
-    "Music/Covers/ALDNOAH.ZERO OST.jpg",
-    "Music/Covers/Air OST.jpg",
-    "Note/Hiroyuki Sawano - ALDNOAH.ZERO OST.jpg.md",
-    "Music/Covers/Мастер и Маргарита OST.jpg",
-    "Music/Covers/Umineko no Naku Koro Ni OST 1.jpg",
+    "Music/Albums/Jackbox Party Pack 6 OST (📀 75).md",
+    "Music/Tracks/Trivia Murder Party 2 Saxy - Andy Poland (🎧️ 1662).md",
+    "Music/Tracks/Trivia Murder Party 2 Lobby - Andy Poland (🎧️ 1665).md",
+    "Music/Albums/Jackbox Party Pack 7 OST (📀 73).md",
+    "Music/Tracks/Champ'd Up Create 3 - Andy Poland (🎧️ 2153).md",
+    "Music/Tracks/Champ'd Up Create 1 - Andy Poland (🎧️ 1672).md",
+    "Music/Tracks/Pizza Theme - Michael McCuistion (🎧️ 2269).md",
+    "Music/Tracks/Марш монтажников - Николай Рыбнико (🎧️ 2275).md",
+    "Music/Creators/Николай Рыбнико (🎙️ 1085).md",
+    "Music/Tracks/Dernière Danse - Indila (🎧️ 2265).md",
+    "Music/Creators/Indila (🎙️ 1084).md",
+    "Music/Creators/InstrumentManiac (🎙️ 777).md",
+    "Music/Tracks/Plants vs. Zombies - Watery Graves - InstrumentManiac (🎧️ 2274).md",
+    "Music/Creators/Moisés Niet (🎙️ 833).md",
+    "Music/Tracks/Trip -innocent of D- - Larval Stage Planning (🎧️ 622).md",
+    "Music/Tracks/Larval Stage Planning - Trip -innocent of D-.md",
+    "Music/Tracks/Beat It - Fall Out Boy (🎧️ 1180).md",
+    "Music/Creators/John Mayer (🎙️ 1083).md",
+    "Music/Tracks/Beat It - Michael Jackson (🎧️ 2273).md",
+    "Music/Tracks/They Don't Care About Us (Remastered Version) - Michael Jackson (🎧️ 2272).md",
+    "Music/Tracks/They Don't Care About Us - Saliva (🎧️ 511).md",
+    "Music/Creators/Michael Jackson (🎙️ 1082).md",
+    "Music/Tracks/KISS OF DEATH - Mika Nakashima (🎧️ 2271).md",
+    "Music/Tracks/KISS OF DEATH (TV Size) - Mika Nakashima (🎧️ 2089).md",
+    "Music/Tracks/Baka Mitai - Onsa Media (🎧️ 2270).md",
+    "Music/Albums/Spider-Man 2 The Game OST (📀 74).md",
+    "Music/Covers/Spider-Man 2 The Game OST.jpg",
+    "Music/Covers/cover.jpg",
     "Music/Covers/Quiplash OST.jpg",
-    "Music/Tracks/Воланд - Игорь Корнелюк (🎧️ 1637).md",
-    "Music/Albums/Your Turn To Die OST (📀 70).md",
-    "Music/Tracks/Be Strong - Kana Yazumi (🎧️ 2126).md",
+    "Music/Covers/Jackbox Party Pack 7 OST.jpg",
+    "Music/Covers/Jackbox Party Pack 6 OST.jpg",
+    "Music/Covers/Jackbox Party Pack 2 OST.jpg",
+    "Music/Covers/Jackbox Party Pack 4 OST.jpg",
+    "Music/templates/related tracks.base",
+    "Music/Covers/DANGANRONPA V3 OST WHITE.jpg",
+    "Music/Covers/DANGANRONPA V3 OST WHITE.jpg",
+    "Music/Covers/DANGANRONPA V3 OST BLACK.jpg",
     "Personal/Пароли.kdbx.jrReoW",
     "Text/Note/files",
     "Text/Note",
@@ -344,7 +347,6 @@
     "Video/18+/Hentai/2101_video_voice_HentaiZ_720.mp4.mp4",
     "Audio/Music/Your Turn To Die OST - 08 Even in Tragedy [EXTENDED].mp3",
     "Audio/Music/Your Turn To Die OST - 09 Kind Moment [EXTENDED].mp3",
-    "Audio/Music/Your Turn To Die OST - 07 Day of Tragedy [EXTENDED].mp3",
-    "Audio/Music/Your Turn To Die OST - 03 Into The Incident [EXTENDED].mp3"
+    "Audio/Music/Your Turn To Die OST - 07 Day of Tragedy [EXTENDED].mp3"
   ]
 }

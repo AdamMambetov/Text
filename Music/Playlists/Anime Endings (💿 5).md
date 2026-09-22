@@ -60,8 +60,8 @@ tracklist:
   - "[[Ender Ember (TV Size) - MYTH & ROID (🎧️ 2129)]]"
   - "[[Kesenai Tsumi (TV Size) - Nana Kitade (🎧️ 2139)]]"
   - "[[Kenou (TV Size) - heeno Mirin (🎧️ 2136)]]"
-  - "[[Kesenai Tsumi - Nana Kitade (🎧️ 2150)]]"
-  - "[[Wa -cycle- (TV Size) - Hana Itoki (🎧️ 2152)]]"
+  - "[[Kesenai Tsumi - Nana Kitade (🎧️ 2151)]]"
+  - "[[Wa -cycle- (TV Size) - Hana Itoki (🎧️ 2148)]]"
   - "[[Asayake to Nettaigyo (TV Size) - Boku no Lyric no Bouyomi (🎧️ 1679)]]"
   - "[[Ender Ember - MYTH & ROID (🎧️ 2131)]]"
 ---

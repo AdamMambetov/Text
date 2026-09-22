@@ -12,7 +12,7 @@ Creators:
 ListenInSec: 453
 NumberInAlbum: 1
 related:
-  - "[[Candy and Chains - otetsu (🎧️ 1206)]]"
+  - "[[Ame to Kusari (YT Size) - otetsu (🎧️ 1206)]]"
 source: ""
 SourceFile: "[[otetsu - Ame to Kusari.mp3]]"
 ---

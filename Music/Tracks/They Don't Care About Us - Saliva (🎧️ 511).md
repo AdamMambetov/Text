@@ -5,7 +5,7 @@ aliases:
 Cover: "[[Saliva - They Don't Care About Us.jpg]]"
 Year: 2016
 Album: ""
-CoverOf: ""
+CoverOf: "[[They Don't Care About Us (Remastered Version) - Michael Jackson (🎧️ 2272)]]"
 Creators:
   - "[[Saliva (🎙️ 624)]]"
 ListenInSec: 297

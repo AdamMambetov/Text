@@ -12,7 +12,7 @@ Creators:
 ListenInSec: 1452
 NumberInAlbum: 7
 related:
-  - "[[Your Turn To Die OST - nao2]]"
+  - "[[Day of Tragedy B - Nankidai (🎧️ 2230)]]"
 source: ""
 SourceFile: "[[Your Turn To Die OST - 07 Day of Tragedy.ogg]]"
 ---

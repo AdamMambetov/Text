@@ -139,3 +139,6 @@ related:
 > [!todo]- [Stoat](https://stoat.chat)
 > Аналог Discord
 > [GitHub](https://github.com/stoatchat/stoatchat)
+
+> [!todo]- Arr программы
+> Lidarr

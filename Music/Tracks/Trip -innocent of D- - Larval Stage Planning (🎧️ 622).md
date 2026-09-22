@@ -15,9 +15,9 @@ NumberInAlbum: 1
 related:
   - "[[Trip Innocent of D (TV Size)]]"
 source: ""
-SourceFile: "[[Highschool DxD OST - Trip Innocent of D.mp3]]"
+SourceFile: "[[Larval Stage Planning - Trip -innocent of D-.opus]]"
 ---
 
 # Highschool DxD OST - Trip Innocent of D
 
-![[Highschool DxD OST - Trip Innocent of D.mp3]]
+![[Larval Stage Planning - Trip -innocent of D-.opus]]

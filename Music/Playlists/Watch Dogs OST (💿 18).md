@@ -9,3 +9,6 @@ tracklist:
   - "[[Soldiers Requiem - Naked Raygun (🎧️ 171)]]"
 ---
 
+# Watch Dogs OST
+
+![[tracklist.base]]

@@ -2,8 +2,8 @@
 created: 2026-06-01T13:54:30+03:00
 aliases:
   - "Inanna no Mita Yume"
-  - "Umineko no Naku Koro ni OP 2"
-  - "Когда плачут чайки OP 2"
+  - "Umineko no Naku Koro ni OP 2 EP"
+  - "Когда плачут чайки OP 2 EP"
 Cover: "[[Zwei - Inanna no Mita Yume.jpg]]"
 Year: 0
 Album: ""

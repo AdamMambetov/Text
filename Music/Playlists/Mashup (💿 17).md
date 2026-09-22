@@ -15,3 +15,6 @@ tracklist:
   - "[[Slipknot's Bizarre Adventure - Metronome Senpai (🎧️ 1659)]]"
 ---
 
+# Mashup
+
+![[tracklist.base]]

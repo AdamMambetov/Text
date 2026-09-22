@@ -1,0 +1,78 @@
+---
+created: 2026-09-22T19:34:05+03:00
+aliases:
+  - "Jackbox Party Pack 2 OST"
+  - "Jackbox 2 OST"
+  - "Quiplash"
+  - "Смехлыст"
+Cover: "[[Jackbox Party Pack 2 OST.jpg]]"
+Year: 2016
+Creators:
+  - "[[Andy Poland (🎙️ 183)]]"
+source: https://store.steampowered.com/app/577930/The_Jackbox_Party_Pack_2__Soundtrack/
+tracklist:
+  - "Earwax: Lobby Music"
+  - "Earwax: Choose Music A"
+  - "Earwax: Choose Music B"
+  - "Earwax: Judge Music A"
+  - "Earwax: Judge Music B"
+  - "Earwax: Credits Music"
+  - "Earwax: Credits Music Alt."
+  - "Earwax: Logo Music"
+  - "Earwax: Background Loop"
+  - "Fibbage 2: Lobby"
+  - "Fibbage 2: Category Picker"
+  - "Fibbage 2: Round 1 Bumper"
+  - "Fibbage 2: Round 1 Enter"
+  - "Fibbage 2: Round 1 Choose"
+  - "Fibbage 2: Round 3 Enter"
+  - "Fibbage 2: Round 3 Choose"
+  - "Fibbage 2: Round 3 Question"
+  - "Fibbage 2: Celeb Quotes Bumper"
+  - "Fibbage 2: Diagnosis Huh Bumper"
+  - "Fibbage 2: Road Trip Bumper"
+  - "Fibbage 2: Lies Bumper"
+  - "Fibbage 2: Lies Bumper Alt."
+  - "Bidiots: Lobby"
+  - "Bidiots: Main Background"
+  - "Bidiots: Draw Music A"
+  - "Bidiots: Draw Music B"
+  - "Bidiots: Bid Loop A"
+  - "Bidiots: Bid Loop B"
+  - "Bidiots: Final Scores"
+  - "Bidiots: Credits"
+  - "Bidiots: Loan Bumper 1"
+  - "Bidiots: Loan Bumper 2"
+  - "Bidiots: Loan Bumper 3"
+  - "Bidiots: Loan Bumper 4"
+  - "Bidiots: Loan Bumper 5"
+  - "Bidiots: Loan Bumper 6"
+  - "Bidiots: Loan Bumper 7"
+  - "Bidiots: Loan Bumper 8"
+  - "Bidiots: Loan Bumper 9"
+  - "Bidiots: Loan Bumper 10"
+  - "Quiplash: Lobby"
+  - "Quiplash: Logo Bumper"
+  - "Quiplash: Background Loop"
+  - "[[Quiplash Round 1 Write - Andy Poland (🎧️ 1660)]]"
+  - "Quiplash: Round 1 Vote"
+  - "[[Quiplash Round 2 Write - Andy Poland (🎧️ 1661)]]"
+  - "Quiplash: Round 2 Vote"
+  - "Quiplash: Round 3 Write"
+  - "Quiplash: Round 3 Vote"
+  - "Quiplash: Credits"
+  - "Quiplash: Unused Idea"
+  - "Bomb Corp. Theme"
+  - "Bomb Corp. Main Background"
+  - "Bomb Corp. Background A"
+  - "Bomb Corp. Background B"
+  - "Bomb Corp. Background C"
+  - "Bomb Corp. Credits"
+  - "Bomb Corp. Unused Weirdness"
+---
+
+# Jackbox Party Pack 2 OST
+
+## Tracklist
+
+![[tracklist.base]]
