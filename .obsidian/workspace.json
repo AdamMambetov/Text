@@ -4,35 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "2015ef95d0fdadcd",
+        "id": "c9bf1e5a976a1ca3",
         "type": "tabs",
         "children": [
           {
-            "id": "f0d62b270139875c",
+            "id": "ffce61c8ce03960c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Music/Albums/Jackbox Party Pack 6 OST (📀 75).md",
-                "mode": "preview",
+                "file": "ЕвроСервис/Ремонт копировально-множительной техники.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Jackbox Party Pack 6 OST (📀 75)"
-            }
-          },
-          {
-            "id": "499bb1054fa475f9",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Ремонт копировально-множительной техники"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +89,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Music/Albums/Jackbox Party Pack 6 OST (📀 75).md",
+                "file": "ЕвроСервис/Ремонт копировально-множительной техники.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -170,7 +159,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Music/Albums/Jackbox Party Pack 6 OST (📀 75).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +177,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Music/Albums/Jackbox Party Pack 6 OST (📀 75).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
@@ -203,6 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "ЕвроСервис/Ремонт копировально-множительной техники.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -220,9 +208,19 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
+          },
+          {
+            "id": "c4c6d58c5240233c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "3185b9fecf878a15",
@@ -277,8 +275,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 406.18359375,
-    "collapsed": true
+    "width": 406.18359375
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -300,8 +297,12 @@
       "cmdr:Track Edit": false
     }
   },
-  "active": "499bb1054fa475f9",
+  "active": "ffce61c8ce03960c",
   "lastOpenFiles": [
+    "ЕвроСервис/Drawing 2026-09-27 13.12.11.excalidraw.md",
+    "ЕвроСервис/Ремонт копировально-множительной техники.md",
+    "ЕвроСервис/ЕвроСервис работа.md",
+    "ЕвроСервис",
     "Music/Albums/Jackbox Party Pack 6 OST (📀 75).md",
     "Music/Tracks/Trivia Murder Party 2 Saxy - Andy Poland (🎧️ 1662).md",
     "Music/Tracks/Trivia Murder Party 2 Lobby - Andy Poland (🎧️ 1665).md",
@@ -325,9 +326,6 @@
     "Music/Tracks/They Don't Care About Us - Saliva (🎧️ 511).md",
     "Music/Creators/Michael Jackson (🎙️ 1082).md",
     "Music/Tracks/KISS OF DEATH - Mika Nakashima (🎧️ 2271).md",
-    "Music/Tracks/KISS OF DEATH (TV Size) - Mika Nakashima (🎧️ 2089).md",
-    "Music/Tracks/Baka Mitai - Onsa Media (🎧️ 2270).md",
-    "Music/Albums/Spider-Man 2 The Game OST (📀 74).md",
     "Music/Covers/Spider-Man 2 The Game OST.jpg",
     "Music/Covers/cover.jpg",
     "Music/Covers/Quiplash OST.jpg",
@@ -346,7 +344,6 @@
     "Music/Tracks/Way Up - Jaden Smith.txt",
     "Video/18+/Hentai/2101_video_voice_HentaiZ_720.mp4.mp4",
     "Audio/Music/Your Turn To Die OST - 08 Even in Tragedy [EXTENDED].mp3",
-    "Audio/Music/Your Turn To Die OST - 09 Kind Moment [EXTENDED].mp3",
-    "Audio/Music/Your Turn To Die OST - 07 Day of Tragedy [EXTENDED].mp3"
+    "Audio/Music/Your Turn To Die OST - 09 Kind Moment [EXTENDED].mp3"
   ]
 }
