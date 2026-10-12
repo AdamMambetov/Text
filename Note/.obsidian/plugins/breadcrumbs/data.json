@@ -257,7 +257,8 @@
       "default_neighbour_field": ""
     },
     "tag_note": {
-      "default_field": "issue"
+      "default_field": "issue",
+      "default_sibling_field": ""
     },
     "regex_note": {
       "default_field": "issue"
@@ -266,19 +267,54 @@
       "enabled": false,
       "delimiter": ".",
       "default_field": "issue",
-      "display_trimmed": false
+      "display_trimmed": false,
+      "default_sibling_field": ""
     },
     "johnny_decimal_note": {
       "enabled": false,
       "delimiter": ".",
-      "default_field": "issue"
+      "default_field": "issue",
+      "default_sibling_field": ""
     },
     "date_note": {
       "enabled": false,
       "date_format": "yyyy-MM-dd",
       "default_field": "next",
-      "stretch_to_existing": false
-    }
+      "stretch_to_existing": false,
+      "week_start": "monday",
+      "week": {
+        "enabled": false,
+        "date_format": "kkkk-'W'WW",
+        "folder": "",
+        "next_field": "next",
+        "up_field": "up"
+      },
+      "month": {
+        "enabled": false,
+        "date_format": "yyyy-MM",
+        "folder": "",
+        "next_field": "next",
+        "up_field": "up"
+      },
+      "quarter": {
+        "enabled": false,
+        "date_format": "yyyy-'Q'q",
+        "folder": "",
+        "next_field": "next",
+        "up_field": "up"
+      },
+      "year": {
+        "enabled": false,
+        "date_format": "yyyy",
+        "folder": "",
+        "next_field": "next",
+        "up_field": "up"
+      }
+    },
+    "dataview_note": {
+      "default_field": "up"
+    },
+    "traverse_note": {}
   },
   "views": {
     "page": {
@@ -317,6 +353,12 @@
           "next": [
             "nexts"
           ]
+        },
+        "period_rows": {
+          "week": false,
+          "month": false,
+          "quarter": false,
+          "year": false
         }
       }
     },
@@ -343,13 +385,18 @@
           "sames",
           "nexts",
           "prevs"
-        ]
+        ],
+        "custom_sort_fields": false,
+        "custom_sort_field_labels": [],
+        "lock_view": false,
+        "lock_path": ""
       },
       "tree": {
         "collapse": false,
         "show_attributes": [],
         "merge_fields": false,
         "field_group_labels": [
+          "ups",
           "downs"
         ],
         "edge_sort_id": {
@@ -360,7 +407,14 @@
           "ext": false,
           "folder": false,
           "alias": false
-        }
+        },
+        "default_depth": 5,
+        "lock_view": false,
+        "lock_path": "",
+        "find_root": true,
+        "find_root_field_group_labels": [
+          "ups"
+        ]
       }
     },
     "codeblocks": {
@@ -399,7 +453,9 @@
     },
     "freeze_implied_edges": {
       "default_options": {
-        "destination": "frontmatter"
+        "destination": "frontmatter",
+        "included_fields": [],
+        "use_alias": true
       }
     },
     "thread": {
@@ -407,6 +463,20 @@
         "destination": "frontmatter",
         "target_path_template": "{{source.folder}}/{{attr.field}} {{source.basename}}"
       }
+    },
+    "create_canvas": {
+      "default_options": {
+        "target_path_template": "{{source.folder}}/{{source.basename}} canvas",
+        "depth": 5,
+        "fields": [],
+        "field_group_labels": [],
+        "direction": "LR",
+        "semantic_sides": false
+      }
+    },
+    "edge_audit": {
+      "report_path": "Breadcrumbs Edge Audit.md",
+      "ignore_paths": []
     }
   },
   "suggestors": {
@@ -417,5 +487,13 @@
   },
   "debug": {
     "level": "INFO"
+  },
+  "self_is_sibling": [
+    "same"
+  ],
+  "exclude_folders": [],
+  "_bc_migrations": {
+    "tree_ups_with_downs_default": true,
+    "tree_find_root_default": true
   }
 }

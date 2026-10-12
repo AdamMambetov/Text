@@ -1,7 +1,5 @@
 ---
 created: 2024-07-21T16:25:06+03:00
-tags:
-  - 📥
 Creators: https://www.youtube.com/@remontkapro
 issue:
   - "[[Как редактировать контекстные меню Windows]]"

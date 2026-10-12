@@ -38,6 +38,10 @@
     "bibliography": "multitext",
     "publication": "multitext",
     "тридерм": "checkbox",
-    "аппервит": "checkbox"
+    "аппервит": "checkbox",
+    "BC-tag-note-sibling-field": "text",
+    "BC-list-note-section": "text",
+    "BC-list-note-exclude": "multitext",
+    "BC-traverse-note-field": "text"
   }
 }

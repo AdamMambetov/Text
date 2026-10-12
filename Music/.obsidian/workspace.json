@@ -16,19 +16,8 @@
               "icon": "lucide-file",
               "title": "New tab"
             }
-          },
-          {
-            "id": "dd4bfa8c105754e1",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -60,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"Artists\"]",
+                "query": "STYX HELIX",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,8 +66,8 @@
             "state": {
               "type": "bookmarks",
               "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "icon": "lucide-ghost",
+              "title": "bookmarks"
             }
           }
         ],
@@ -138,8 +127,8 @@
                 "showSearch": false,
                 "searchQuery": ""
               },
-              "icon": "lucide-tags",
-              "title": "Tags"
+              "icon": "lucide-ghost",
+              "title": "tag"
             }
           },
           {
@@ -152,8 +141,8 @@
                 "showSearch": false,
                 "searchQuery": ""
               },
-              "icon": "lucide-list",
-              "title": "Outline"
+              "icon": "lucide-ghost",
+              "title": "outline"
             }
           },
           {
@@ -179,16 +168,17 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "quickadd:QuickAdd": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "edfa26eee93e839e",
+  "active": "aedd1e0f38c991ae",
   "lastOpenFiles": [
+    "MYTH & ROID - STYX HELIX.jpg.md",
     "🎵Death Note OST - 03 Light's Theme.md",
     "🎵DeadLock - A New Era.md",
     "🎵Dead by April - Losing You.md",
@@ -214,7 +204,6 @@
     "🎵Dark Souls 3 OST - 05 Iudex Gundyr.md",
     "🎵Dark Souls 3 OST - 04 Firelink Shrine.md",
     "🎵Dark Souls 3 OST - 02 DARK SOULS III.md",
-    "🎵Dark Souls 3 OST - 01 Premonition.md",
     "music/Covers/ЭРМАРИЛ - Сердце дракона.jpg",
     "music/Covers/Эпидемия - Паладин.jpg",
     "music/Covers/Эпидемия - Всадник из льда.jpg",

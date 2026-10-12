@@ -1,7 +1,5 @@
 ---
 created: 2025-04-24T22:07:59+03:00
-tags:
-  - 📥
 category:
   - "[[Программирование]]"
 source: https://infinityfree.net
