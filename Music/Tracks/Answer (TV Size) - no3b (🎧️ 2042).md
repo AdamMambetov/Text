@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[no3b (🎙️ 1033)]]"
-ListenInSec: 178
+ListenInSec: 1249
 NumberInAlbum: 0
 related:
   - "[[Answer - no3b (🎧️ 2041)]]"

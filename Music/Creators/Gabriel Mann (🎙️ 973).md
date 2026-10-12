@@ -2,7 +2,7 @@
 created: 2026-08-19T17:21:01+03:00
 aliases:
   - "Gabriel Mann"
-ListenInSec: 220
+ListenInSec: 221
 ---
 
 # Gabriel Mann

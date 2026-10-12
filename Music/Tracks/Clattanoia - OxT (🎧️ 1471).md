@@ -11,7 +11,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[OxT (🎙️ 649)]]"
-ListenInSec: 477
+ListenInSec: 488
 NumberInAlbum: 0
 related:
   - "[[Clattanoia (TV Size) - OxT]]"

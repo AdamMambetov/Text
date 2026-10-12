@@ -2,7 +2,7 @@
 created: 2026-09-09T18:14:55+03:00
 aliases:
   - "Lucas Pope"
-ListenInSec: 0
+ListenInSec: 450
 ---
 
 # Lucas Pope

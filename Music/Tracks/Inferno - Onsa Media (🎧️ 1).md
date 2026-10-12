@@ -11,7 +11,7 @@ CoverOf: "[[Inferno - Mrs. GREEN APPLE (🎧️ 166)]]"
 Creators:
   - "[[Onsa Media (🎙️ 400)]]"
   - "[[Kabuto (🎙️ 650)]]"
-ListenInSec: 191
+ListenInSec: 221
 NumberInAlbum: 0
 related: []
 source: https://youtu.be/A9iPw3-qor4?si=7W0dS--PdLUCqIev

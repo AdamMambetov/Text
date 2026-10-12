@@ -4,13 +4,16 @@ aliases:
   - "The End Of The World [without vocal]"
 Cover: "[[xaki - Akoustika II.jpg]]"
 Year: 2013
-Album: "[[Akoustika II (📀 58)]]"
+Album: "[[Akoustika II — xaki]]"
 CoverOf: ""
 Creators:
   - "[[xaki (🎙️ 12)]]"
-ListenInSec: 343
+ListenInSec: 660
 NumberInAlbum: 5
-related: []
+related:
+  - "[[The End Of The World - sunny (🎧️ 2191)]]"
+  - "[[The End Of The World ~guitar vocal ver.~ - xaki (🎧️ 1947)]]"
+  - "[[The End Of The World ~piano inst ver.~ - xaki (🎧️ 1943)]]"
 source: https://youtu.be/ngtycAlhBcE?si=YrXqg74236qD_BxA
 SourceFile: "[[xaki - The End Of The World (without vocal).mp3]]"
 ---

@@ -11,7 +11,7 @@ Album: ""
 CoverOf: "[[Flyers (TV Size) - BRADIO (🎧️ 1681)]]"
 Creators:
   - "[[Jackie-O (🎙️ 337)]]"
-ListenInSec: 901
+ListenInSec: 921
 NumberInAlbum: 0
 related:
   - "[[Flyers - Jackie-O (🎧️ 612)]]"

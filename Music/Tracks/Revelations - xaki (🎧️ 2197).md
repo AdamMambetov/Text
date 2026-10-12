@@ -5,15 +5,16 @@ aliases:
   - "Откровение"
 Cover: "[[Umineko no Naku Koro Ni OST 1.jpg]]"
 Year: 2007
-Album: "[[Umineko no Naku Koro ni OST (📀 30)]]"
+Album: "[[Umineko no Naku Koro ni OST — 07th Expansion]]"
 CoverOf: ""
 Creators:
   - "[[xaki (🎙️ 12)]]"
   - "[[amiry (🎙️ 1073)]]"
   - "[[IZNA (🎙️ 1074)]]"
-ListenInSec: 317
+ListenInSec: 650
 NumberInAlbum: 195
-related: []
+related:
+  - "[[Откровение (инст.) - xaki (🎧️ 929)]]"
 source: ""
 SourceFile: "[[Umineko no Naku Koro ni OST - 195 Revelations.ogg]]"
 ---

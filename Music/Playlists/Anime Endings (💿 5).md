@@ -17,7 +17,6 @@ tracklist:
   - "[[The Wolf Whistling Song (TV Size) - Ringo Biyori (🎧️ 1508)]]"
   - "[[Яблоки (TV Size) - Алена Беседа (🎧️ 1507)]]"
   - "[[LOST IN PARADISE (TV Size) - ALI (🎧️ 1419)]]"
-  - "[[Ano Hi no mama no Bokura - Sora Amamiya (🎧️ 1372)]]"
   - "[[HUNTING FOR YOUR DREAM - GALNERYUS (🎧️ 1348)]]"
   - "[[Yofukashi no Uta - Creepy Nuts (🎧️ 1120)]]"
   - "[[Just Awake (TV Size) - Fear and Loathing in Las Vegas (🎧️ 1099)]]"
@@ -64,6 +63,8 @@ tracklist:
   - "[[Wa -cycle- (TV Size) - Hana Itoki (🎧️ 2148)]]"
   - "[[Asayake to Nettaigyo (TV Size) - Boku no Lyric no Bouyomi (🎧️ 1679)]]"
   - "[[Ender Ember - MYTH & ROID (🎧️ 2131)]]"
+  - "[[Tonari Au - THE ORAL CIGARETTES (🎧️ 2121)]]"
+  - "[[Tonari Au (TV Size) - THE ORAL CIGARETTES (🎧️ 2120)]]"
 ---
 
 # Anime Endings

@@ -5,12 +5,12 @@ aliases:
   - "Soul Eater ED 1"
   - "Пожиратель душ ED 1"
 Cover: "[[STANCE PUNKS - I Wanna be.jpg]]"
-Year: 0
+Year: 2008
 Album: ""
 CoverOf: ""
 Creators:
   - "[[STANCE PUNKS (🎙️ 443)]]"
-ListenInSec: 1065
+ListenInSec: 1343
 NumberInAlbum: 0
 related: []
 SourceFile: "[[STANCE PUNKS - I Wanna be.mp3]]"

@@ -6,12 +6,12 @@ aliases:
   - "Кеничи OP 1"
   - "Kenichi OP 1"
 Cover: "[[_No Album Art.jpg]]"
-Year: 0
+Year: 2006
 Album: ""
 CoverOf: ""
 Creators:
   - "[[Kana Yazumi (🎙️ 821)]]"
-ListenInSec: 3870
+ListenInSec: 4337
 NumberInAlbum: 0
 related:
   - "[[Be Strong - Kana Yazumi (🎧️ 2126)]]"

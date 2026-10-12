@@ -4,24 +4,15 @@ aliases:
   - "RISE"
   - "Герой щита OP 1"
 Cover: "[[MADKID OFFICIAL - MADKID ⧸ RISE [Music Video] ('The Rising of the Shield Hero' Opening Theme).jpg]]"
-Year: 0
+Year: 2019
 Album: ""
-CoverOf: ""
 Creators:
   - "[[MADKID (🎙️ 793)]]"
-ListenInSec: 3617
 NumberInAlbum: 0
 related:
   - "[[RISE (TV Size) - MADKID (🎧️ 2091)]]"
-source: ""
 SourceFile: "[[MADKID - RISE.mp3]]"
+ListenInSec: 4567
+CoverOf: ""
 ---
-
-`$=dv.header(1, dv.current().aliases[0])`
-
-![[MADKID - RISE.mp3]]
-
-## Related Tracks
-
-![[related tracks.base]]
 

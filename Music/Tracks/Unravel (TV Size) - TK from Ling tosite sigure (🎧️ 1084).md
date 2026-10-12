@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[TK from Ling tosite sigure (🎙️ 655)]]"
-ListenInSec: 776
+ListenInSec: 792
 NumberInAlbum: 0
 related:
   - "[[Unravel - TK from Ling tosite sigure (🎧️ 1432)]]"

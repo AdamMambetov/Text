@@ -4,13 +4,14 @@ aliases:
   - "lie-alaia [piano remaster]"
 Cover: "[[xaki - Akoustika.jpg]]"
 Year: 2012
-Album: "[[Akoustika (📀 57)]]"
+Album: "[[Akoustika — xaki]]"
 CoverOf: ""
 Creators:
   - "[[xaki (🎙️ 12)]]"
-ListenInSec: 337
+ListenInSec: 812
 NumberInAlbum: 8
-related: []
+related:
+  - "[[Путальница-ложь - xaki (🎧️ 937)]]"
 source: https://youtu.be/i9VloZ_UdWk?si=9BRepwALbQDekWYM
 SourceFile: "[[xaki - lie-alaia (piano remaster).mp3]]"
 ---

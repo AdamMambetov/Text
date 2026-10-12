@@ -6,12 +6,12 @@ aliases:
   - "Mahoutsukai no Yome ED 1"
   - "The Ancient Magus' Bride ED 1"
 Cover: "[[_No Album Art.jpg]]"
-Year: 0
+Year: 2017
 Album: ""
 CoverOf: ""
 Creators:
   - "[[Hana Itoki (🎙️ 1066)]]"
-ListenInSec: 1429
+ListenInSec: 1785
 NumberInAlbum: 0
 related: []
 source: ""

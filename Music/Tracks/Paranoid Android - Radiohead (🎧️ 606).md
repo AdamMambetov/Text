@@ -8,7 +8,7 @@ Album: "[[OK Computer OKNOTOK 1997 2017]]"
 CoverOf: ""
 Creators:
   - "[[Radiohead (🎙️ 420)]]"
-ListenInSec: 403
+ListenInSec: 786
 NumberInAlbum: 2
 related: []
 source: ""

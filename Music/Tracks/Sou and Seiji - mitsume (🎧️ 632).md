@@ -8,7 +8,7 @@ Album: "[[Sonny Boy OST (📀 41)]]"
 CoverOf: ""
 Creators:
   - "[[mitsume (🎙️ 691)]]"
-ListenInSec: 8225
+ListenInSec: 9978
 NumberInAlbum: 12
 related: []
 SourceFile: "[[Sonny Boy OST - Sou and Seiji.mp3]]"

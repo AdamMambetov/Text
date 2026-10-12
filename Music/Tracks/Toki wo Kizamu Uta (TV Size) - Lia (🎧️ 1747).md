@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Lia (🎙️ 656)]]"
-ListenInSec: 448
+ListenInSec: 477
 NumberInAlbum: 0
 related:
   - "[[Toki wo Kizamu Uta - Lia (🎧️ 1745)]]"

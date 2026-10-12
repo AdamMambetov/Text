@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Europe (🎙️ 1020)]]"
-ListenInSec: 1228
+ListenInSec: 1229
 NumberInAlbum: 0
 related: []
 source: ""

@@ -9,7 +9,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Yorushika (🎙️ 811)]]"
-ListenInSec: 990
+ListenInSec: 1269
 NumberInAlbum: 0
 related: []
 source: ""

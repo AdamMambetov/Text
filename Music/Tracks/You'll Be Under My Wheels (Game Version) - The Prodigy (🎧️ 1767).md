@@ -8,7 +8,7 @@ Album: "[[Need For Speed Most Wanted OST (📀 51)]]"
 CoverOf: ""
 Creators:
   - "[[The Prodigy (🎙️ 459)]]"
-ListenInSec: 250
+ListenInSec: 259
 NumberInAlbum: 0
 related:
   - "[[You'll Be Under My Wheels - The Prodigy (🎧️ 305)]]"

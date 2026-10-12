@@ -7,12 +7,12 @@ aliases:
   - "Erased OP 1"
   - "Город в котором меня нет OP 1"
 Cover: "[[ASIAN KUNG-FU GENERATION - Sol-fa.jpg]]"
-Year: 2004
+Year: 2016
 Album: ""
 CoverOf: ""
 Creators:
   - "[[ASIAN KUNG-FU GENERATION (🎙️ 193)]]"
-ListenInSec: 2286
+ListenInSec: 2950
 NumberInAlbum: 0
 related:
   - "[[ReRe (TV Size) - ASIAN KUNG-FU GENERATION]]"

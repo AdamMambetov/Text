@@ -5,14 +5,14 @@ aliases:
   - "Katekyo Hitman Reborn OP 2"
   - "Репетитор киллер Реборн OP 2"
 Cover: "[[LM.C Official - BOYS & GIRLS.jpg]]"
-Year: 0
+Year: 2007
 Album: ""
-CoverOf: ""
 Creators:
   - "[[LM.C (🎙️ 825)]]"
-ListenInSec: 4854
 NumberInAlbum: 0
 related: []
 SourceFile: "[[LM.C - BOYS & GIRLS.mp3]]"
+ListenInSec: 5997
+CoverOf: ""
 ---
 

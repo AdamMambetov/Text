@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Queen (🎙️ 418)]]"
-ListenInSec: 759
+ListenInSec: 761
 NumberInAlbum: 0
 related: []
 source: ""

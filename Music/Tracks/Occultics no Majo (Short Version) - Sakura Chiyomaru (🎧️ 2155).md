@@ -4,15 +4,15 @@ aliases:
   - "Occultics no Majo (Short Version)"
   - "Umineko no Naku Koro ni OP 5 EP"
   - "Когда плачут чайки OP 5 EP"
-Cover: "[[_No Album Art.jpg]]"
-Year: 0
+Cover: "[[Umineko no Naku Koro Ni OST 1.jpg]]"
+Year: 2009
 Album: ""
 CoverOf: ""
 Creators:
   - "[[Sakura Chiyomaru (🎙️ 1070)]]"
   - "[[Doi Hironori (🎙️ 1071)]]"
   - "[[Ayumu (🎙️ 1072)]]"
-ListenInSec: 121
+ListenInSec: 242
 NumberInAlbum: 0
 related: []
 source: ""

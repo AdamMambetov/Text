@@ -8,7 +8,7 @@ Album: "[[Akoustika IX (📀 65)]]"
 CoverOf: ""
 Creators:
   - "[[xaki (🎙️ 12)]]"
-ListenInSec: 145
+ListenInSec: 377
 NumberInAlbum: 2
 related: []
 source: https://youtu.be/HMY9IH438GY?si=BNGoYs5mnuR2JipH

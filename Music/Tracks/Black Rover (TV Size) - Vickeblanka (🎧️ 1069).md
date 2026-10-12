@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Vickeblanka (🎙️ 476)]]"
-ListenInSec: 969
+ListenInSec: 980
 NumberInAlbum: 0
 related:
   - "[[Black Rover - Vickeblanka]]"

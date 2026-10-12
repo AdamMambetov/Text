@@ -13,29 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Playlists/YouTube (💿 9).md",
-                "mode": "preview",
+                "file": "Tracks/Happy! Lucky! Dochy! - Tamura Yukari (🎧️ 2087).md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "YouTube (💿 9)"
-            }
-          },
-          {
-            "id": "dd0cf37679663172",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "tracks.base",
-                "viewName": "valid"
-              },
-              "icon": "lucide-table",
-              "title": "tracks"
+              "title": "Happy! Lucky! Dochy! - Tamura Yukari (🎧️ 2087)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -51,7 +37,9 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical",
-            "autoReveal": false
+            "autoReveal": false,
+            "showSearch": false,
+            "searchQuery": ""
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
@@ -101,7 +89,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "tracks.base",
+            "file": "Tracks/Smiles Abound - Nankidai (🎧️ 1906).md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -140,14 +128,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dd0cf37679663172",
+  "active": "21242bd0528152f2",
   "lastOpenFiles": [
+    "Playlists/100% Шедевр (💿 6).md",
+    "Albums/ПЕРЕПУТЬЕ (📀 33).md",
+    "Albums/8 Mile OST (📀 2).md",
+    "Tracks/Smiles Abound - Nankidai (🎧️ 1906).md",
+    "Tracks/Majority Vote - Nankidai (🎧️ 1363).md",
+    "files/Pasted image 20251119232251.png",
+    "Playlists/YouTube (💿 9).md",
+    "tracks.base",
     "Tracks/Warriors - League of Legends (🎧️ 702).md",
     "Tracks/Warriors - League of Legends (🎧️ 167).md",
     "Tracks/Hitorigoto (TV Size) (🎧️ 983).md",
     "Tracks/Hitorigoto - Sati Akura (🎧️ 469).md",
     "Tracks/Hitorigoto (🎧️ 1447).md",
-    "Playlists/YouTube (💿 9).md",
     "Tracks/Hitorigoto (🎧️ 1448).md",
     "Tracks/The WORLD - Игорь Куликов (🎧️ 1346).md",
     "Tracks/Trip Innocent of D (🎧️ 1546).md",
@@ -162,11 +157,6 @@
     "Tracks/Main theme from HoMM V (🎧️ 1573).md",
     "Tracks/Grass Theme From HoMM II (🎧️ 1574).md",
     "Tracks/Find the Flame (🎧️ 1575).md",
-    "Tracks/Red Fraction (🎧️ 1580).md",
-    "Tracks/Red Fraction (🎧️ 1585).md",
-    "Tracks/Du Hast (🎧️ 1590).md",
-    "Tracks/Du Hast (🎧️ 1591).md",
-    "Tracks/Warriors Of The World (🎧️ 1592).md",
-    "Tracks/Warriors of the World (🎧️ 1593).md"
+    "Tracks/Red Fraction (🎧️ 1580).md"
   ]
 }

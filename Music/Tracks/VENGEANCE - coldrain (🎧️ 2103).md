@@ -5,12 +5,12 @@ aliases:
   - "Ниндзя Камуи OP 1"
   - "Ninja Kamui OP 1"
 Cover: "[[coldrain - VENGEANCE.jpg]]"
-Year: 0
+Year: 2024
 Album: ""
 CoverOf: ""
 Creators:
   - "[[coldrain (🎙️ 820)]]"
-ListenInSec: 753
+ListenInSec: 860
 NumberInAlbum: 0
 related: []
 SourceFile: "[[coldrain - VENGEANCE.mp3]]"

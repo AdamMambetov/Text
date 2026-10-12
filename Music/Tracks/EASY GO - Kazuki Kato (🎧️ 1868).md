@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Kazuki Kato (🎙️ 737)]]"
-ListenInSec: 1082
+ListenInSec: 1083
 NumberInAlbum: 0
 related:
   - "[[EASY GO (TV Size) - Kazuki Kato (🎧️ 1869)]]"

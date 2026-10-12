@@ -8,7 +8,7 @@ Album: "[[We Are The '80s [2006] {The Bangles}]]"
 CoverOf: ""
 Creators:
   - "[[The Bangles (🎙️ 532)]]"
-ListenInSec: 712
+ListenInSec: 912
 NumberInAlbum: 3
 related: []
 SourceFile: "[[The Bangles - Walk Like an Egyptian.mp3]]"

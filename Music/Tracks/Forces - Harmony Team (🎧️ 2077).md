@@ -8,7 +8,7 @@ Album: ""
 CoverOf: "[[Forces - Susumu Hirasawa (🎧️ 2074)]]"
 Creators:
   - "[[Harmony Team (🎙️ 702)]]"
-ListenInSec: 1115
+ListenInSec: 1123
 NumberInAlbum: 0
 related: []
 source: ""

@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[nobodyknows+ (🎙️ 1049)]]"
-ListenInSec: 350
+ListenInSec: 354
 NumberInAlbum: 0
 related: []
 SourceFile: "[[nobodyknows+ - Hero's Come Back!!.mp3]]"

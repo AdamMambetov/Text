@@ -9,7 +9,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Mittsies (🎙️ 688)]]"
-ListenInSec: 896
+ListenInSec: 930
 NumberInAlbum: 0
 related: []
 source: ""

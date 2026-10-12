@@ -10,7 +10,7 @@ CoverOf: "[[Rose - Tsuchiya Anna]]"
 Creators:
   - "[[Radiant Records (🎙️ 39)]]"
   - "[[Miaka (🎙️ 55)]]"
-ListenInSec: 2371
+ListenInSec: 2372
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Radiant Records - Роза.mp3]]"

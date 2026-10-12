@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Dean Fujioka (🎙️ 975)]]"
-ListenInSec: 178
+ListenInSec: 196
 NumberInAlbum: 0
 related:
   - "[[History Maker - Dean Fujioka]]"

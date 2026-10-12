@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Red Hot Chili Peppers (🎙️ 424)]]"
-ListenInSec: 643
+ListenInSec: 978
 NumberInAlbum: 0
 related: []
 source: ""

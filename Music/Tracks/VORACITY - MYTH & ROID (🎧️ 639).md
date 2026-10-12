@@ -11,7 +11,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[MYTH & ROID (🎙️ 382)]]"
-ListenInSec: 464
+ListenInSec: 469
 NumberInAlbum: 0
 related:
   - "[[VORACITY (TV Size) - MYTH & ROID]]"

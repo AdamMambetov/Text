@@ -6,12 +6,12 @@ aliases:
   - "Air OP 1"
   - "Высь OP 1"
 Cover: "[[Air OST.jpg]]"
-Year: 0
+Year: 2000
 Album: ""
 CoverOf: ""
 Creators:
   - "[[Lia (🎙️ 656)]]"
-ListenInSec: 10882
+ListenInSec: 12134
 NumberInAlbum: 0
 related:
   - "[[Tori no Uta (TV Size) - Lia (🎧️ 1730)]]"

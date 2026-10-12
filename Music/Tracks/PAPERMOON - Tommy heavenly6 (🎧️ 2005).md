@@ -5,12 +5,12 @@ aliases:
   - "Soul Eater OP 2"
   - "Пожиратель душ OP 2"
 Cover: "[[Tommy heavenly6 - PAPERMOON.jpg]]"
-Year: 0
+Year: 2008
 Album: ""
 CoverOf: ""
 Creators:
   - "[[Tommy heavenly6 (🎙️ 469)]]"
-ListenInSec: 1983
+ListenInSec: 2397
 NumberInAlbum: 0
 related:
   - "[[PAPERMOON (TV Size) - Tommy heavenly6 (🎧️ 2000)]]"

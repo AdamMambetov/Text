@@ -9,7 +9,7 @@ Album: "[[Jackbox Party Pack 2 OST (📀 72)]]"
 CoverOf: ""
 Creators:
   - "[[Andy Poland (🎙️ 183)]]"
-ListenInSec: 1631
+ListenInSec: 1722
 NumberInAlbum: 44
 related: []
 source: ""

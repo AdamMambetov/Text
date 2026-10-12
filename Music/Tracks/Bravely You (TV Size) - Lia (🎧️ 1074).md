@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Lia (🎙️ 656)]]"
-ListenInSec: 1252
+ListenInSec: 1275
 NumberInAlbum: 0
 related:
   - "[[Bravely You - Lia (🎧️ 1743)]]"

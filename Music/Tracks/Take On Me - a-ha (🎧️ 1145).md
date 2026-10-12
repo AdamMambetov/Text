@@ -8,7 +8,7 @@ Album: "[[Hunting High and Low]]"
 CoverOf: ""
 Creators:
   - "[[a-ha (🎙️ 142)]]"
-ListenInSec: 923
+ListenInSec: 925
 NumberInAlbum: 1
 related: []
 source: ""

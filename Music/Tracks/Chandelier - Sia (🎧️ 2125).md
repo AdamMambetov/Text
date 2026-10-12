@@ -4,14 +4,16 @@ aliases:
   - "Chandelier"
   - "I'm gonna swing from the chandelier From the chandelier"
 Cover: "[[_No Album Art.jpg]]"
-Year: 0
+Year: 2014
 Album: ""
 CoverOf: ""
 Creators:
   - "[[Sia (🎙️ 822)]]"
-ListenInSec: 2206
+ListenInSec: 2474
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Sia - Chandelier.opus]]"
 ---
+
+-
 

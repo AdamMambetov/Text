@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Griff Clawson (🎙️ 813)]]"
-ListenInSec: 2226
+ListenInSec: 2240
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Griff Clawson - New Type of Hero (Long ver.).mp3]]"

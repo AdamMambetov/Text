@@ -1,15 +1,15 @@
 ---
 created: 2025-10-28T22:34:36+03:00
 aliases:
-  - "Rhythm Tengoku OST - Remix 3"
+  - "Remix 3"
   - "Honey Sweet Angel of Love"
-Cover: "[[Rhythm Tengoku - Remix 3.jpg]]"
-Year: 0
-Album: ""
+Cover: "[[Rhythm Tengoku OST.jpg]]"
+Year: 2006
+Album: "[[Rhythm Tengoku OST (📀 51)]]"
 CoverOf: ""
 Creators:
-  - "[[Tsunku (🎙️ 981)]]"
   - "[[Ami Tokito (🎙️ 998)]]"
+  - "[[Tsunku (🎙️ 981)]]"
 ListenInSec: 887
 NumberInAlbum: 0
 related: []

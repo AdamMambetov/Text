@@ -1,14 +1,14 @@
 ---
 created: 2025-10-28T22:42:14+03:00
 aliases:
-  - "Rhythm Tengoku OST - Remix 1"
-Cover: "[[Rhythm Tengoku - Remix 1.jpg]]"
-Year: 0
-Album: ""
+  - "Remix 1"
+Cover: "[[Rhythm Tengoku OST.jpg]]"
+Year: 2006
+Album: "[[Rhythm Tengoku OST (📀 51)]]"
 CoverOf: ""
 Creators:
   - "[[Masami Yone (🎙️ 982)]]"
-ListenInSec: 2254
+ListenInSec: 2405
 NumberInAlbum: 0
 related:
   - "[[Rhythm Tengoku OST - Marcher - Masami Yone (🎧️ 1781)]]"

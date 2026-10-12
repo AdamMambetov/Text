@@ -5,12 +5,12 @@ aliases:
   - "Gungrave ED 1"
   - "Гангрейв ED 1"
 Cover: "[[Frefo - Gungrave - Ending HD [1080p] Akane iro-Ga Moeru Toki.jpg]]"
-Year: 0
+Year: 2003
 Album: ""
 CoverOf: ""
 Creators:
   - "[[Scoobie Do (🎙️ 947)]]"
-ListenInSec: 220
+ListenInSec: 417
 NumberInAlbum: 0
 related:
   - "[[Akaneiro ga Moeru Toki - Scoobie Do (🎧️ 1608)]]"

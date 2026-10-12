@@ -9,7 +9,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[waterweed (🎙️ 752)]]"
-ListenInSec: 352
+ListenInSec: 368
 NumberInAlbum: 1
 related:
   - "[[Cure - waterweed (🎧️ 1539)]]"

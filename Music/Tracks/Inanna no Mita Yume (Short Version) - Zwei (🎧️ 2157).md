@@ -5,13 +5,13 @@ aliases:
   - "Umineko no Naku Koro ni OP 2 EP"
   - "Когда плачут чайки OP 2 EP"
   - "tiruop"
-Cover: "[[_No Album Art.jpg]]"
-Year: 0
+Cover: "[[Umineko no Naku Koro Ni OST 1.jpg]]"
+Year: 2012
 Album: ""
 CoverOf: ""
 Creators:
   - "[[Zwei (🎙️ 836)]]"
-ListenInSec: 1380
+ListenInSec: 1518
 NumberInAlbum: 0
 related:
   - "[[Inanna no Mita Yume - Zwei (🎧️ 1908)]]"

@@ -12,7 +12,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[MYTH & ROID (🎙️ 382)]]"
-ListenInSec: 2246
+ListenInSec: 2426
 NumberInAlbum: 0
 related: []
 source: ""

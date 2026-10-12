@@ -6,21 +6,12 @@ aliases:
 Cover: "[[ReZero 2 OST 1.jpg]]"
 Year: 2020
 Album: "[[ReZero 2 OST 1 (📀 47)]]"
-CoverOf: ""
 Creators:
   - "[[Kenichiro Suehiro (🎙️ 748)]]"
-ListenInSec: 275
 NumberInAlbum: 6
 related: []
-source: ""
 SourceFile: "[[ReZero 2 OST 1 - 06 Petra Leyte.mp3]]"
+ListenInSec: 409
+CoverOf: ""
 ---
-
-`$=dv.header(1, dv.current().aliases[0])`
-
-![[ReZero 2 OST 1 - 06 Petra Leyte.mp3]]
-
-## Related Tracks
-
-![[related tracks.base]]
 

@@ -1,10 +1,10 @@
 ---
 created: 2025-10-28T21:59:20+03:00
 aliases:
-  - "Rhythm Tengoku OST - Remix 6"
-Cover: "[[Rhythm Tengoku - Remix 6.jpg]]"
-Year: 0
-Album: ""
+  - "Remix 6"
+Cover: "[[Rhythm Tengoku OST.jpg]]"
+Year: 2006
+Album: "[[Rhythm Tengoku OST (📀 51)]]"
 CoverOf: ""
 Creators:
   - "[[Masami Yone (🎙️ 982)]]"

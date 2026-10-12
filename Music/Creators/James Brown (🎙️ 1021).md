@@ -2,7 +2,7 @@
 created: 2026-09-09T17:51:21+03:00
 aliases:
   - "James Brown"
-ListenInSec: 0
+ListenInSec: 230
 ---
 
 # James Brown

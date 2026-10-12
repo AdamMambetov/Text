@@ -4,14 +4,14 @@ aliases:
   - "Higurashi no Naku Koro ni"
   - "Когда плачут цикады OP 1"
 Cover: "[[_No Album Art.jpg]]"
-Year: 0
+Year: 2006
 Album: ""
-CoverOf: ""
 Creators:
   - "[[Shimamiya Eiko (🎙️ 50)]]"
-ListenInSec: 5227
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Shimamiya Eiko - Higurashi no Naku Koro ni.mp3]]"
+ListenInSec: 6031
+CoverOf: ""
 ---
 

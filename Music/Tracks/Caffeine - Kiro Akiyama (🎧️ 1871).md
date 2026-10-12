@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Kiro Akiyama (🎙️ 639)]]"
-ListenInSec: 340
+ListenInSec: 589
 NumberInAlbum: 0
 related: []
 source: https://youtu.be/G4oE8N-Rgpc?si=Sv7tt4RS_f1S23Xo

@@ -8,7 +8,7 @@ Album: "[[distance]]"
 CoverOf: ""
 Creators:
   - "[[Long Shot Party (🎙️ 364)]]"
-ListenInSec: 379
+ListenInSec: 380
 NumberInAlbum: 1
 related: []
 source: ""

@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[HellYeahPlay (🎙️ 870)]]"
-ListenInSec: 320
+ListenInSec: 502
 NumberInAlbum: 0
 related: []
 source: ""

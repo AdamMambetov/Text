@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Touhou Project (🎙️ 37)]]"
-ListenInSec: 2840
+ListenInSec: 2842
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Touhou Project - Bad Apple.mp3]]"

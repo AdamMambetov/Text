@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[FLOW (🎙️ 309)]]"
-ListenInSec: 180
+ListenInSec: 2052
 NumberInAlbum: 1
 related:
   - "[[Sign - FLOW]]"

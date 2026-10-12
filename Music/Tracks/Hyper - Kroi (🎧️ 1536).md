@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Kroi (🎙️ 710)]]"
-ListenInSec: 1235
+ListenInSec: 1512
 NumberInAlbum: 0
 related:
   - "[[Hyper (TV Size) - Kroi]]"

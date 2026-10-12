@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[FUNKIST (🎙️ 794)]]"
-ListenInSec: 217
+ListenInSec: 686
 NumberInAlbum: 0
 related: []
 source: ""

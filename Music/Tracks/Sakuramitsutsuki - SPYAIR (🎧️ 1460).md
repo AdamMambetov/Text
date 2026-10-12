@@ -5,7 +5,7 @@ aliases:
   - "Gintama 13 OP"
   - "Гинтама OP 13"
 Cover: "[[SPYAIR - Sakuramitsuki.jpg]]"
-Year: 0
+Year: 2013
 Album: ""
 CoverOf: ""
 Creators:

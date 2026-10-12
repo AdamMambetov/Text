@@ -11,7 +11,7 @@ CoverOf: ""
 Creators:
   - "[[SOLIDEMO (🎙️ 1045)]]"
   - "[[Sakuramen (🎙️ 1046)]]"
-ListenInSec: 1198
+ListenInSec: 1474
 NumberInAlbum: 0
 related: []
 SourceFile: "[[SOLIDEMO with Sakuramen - My Song My Days.mp3]]"

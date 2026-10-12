@@ -8,7 +8,7 @@ Album: ""
 CoverOf: "[[A Reason to Fight - Disturbed (🎧️ 1578)]]"
 Creators:
   - "[[RADIO TAPOK (🎙️ 419)]]"
-ListenInSec: 566
+ListenInSec: 568
 NumberInAlbum: 0
 related: []
 source: ""

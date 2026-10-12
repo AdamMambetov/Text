@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Linkin Park (🎙️ 361)]]"
-ListenInSec: 189
+ListenInSec: 357
 NumberInAlbum: 0
 related: []
 source: ""

@@ -11,7 +11,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[UNISON SQUARE GARDEN (🎙️ 763)]]"
-ListenInSec: 250
+ListenInSec: 512
 NumberInAlbum: 1
 related:
   - "[[Sugar Song to Bitter Step (TV Size) - UNISON SQUARE GARDEN]]"

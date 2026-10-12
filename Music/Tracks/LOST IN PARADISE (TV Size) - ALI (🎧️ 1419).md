@@ -11,7 +11,7 @@ CoverOf: "[[LOST IN PARADISE - ALI]]"
 Creators:
   - "[[ALI (🎙️ 718)]]"
   - "[[AKLO (🎙️ 719)]]"
-ListenInSec: 177
+ListenInSec: 280
 NumberInAlbum: 0
 related: []
 source: ""

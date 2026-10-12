@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Ringo Biyori (🎙️ 735)]]"
-ListenInSec: 286
+ListenInSec: 402
 NumberInAlbum: 0
 related:
   - "[[The Wolf Whistling Song - Ringo Biyori (🎧️ 1509)]]"

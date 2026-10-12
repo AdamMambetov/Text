@@ -4,12 +4,12 @@ aliases:
   - "RISE (TV Size)"
   - "Герой щита OP 1"
 Cover: "[[Crunchyroll - The Rising of the Shield Hero Opening 1 ｜ ＂RISE＂ by MADKID.jpg]]"
-Year: 0
+Year: 2019
 Album: ""
 CoverOf: ""
 Creators:
   - "[[MADKID (🎙️ 793)]]"
-ListenInSec: 1116
+ListenInSec: 1128
 NumberInAlbum: 0
 related:
   - "[[RISE - MADKID (🎧️ 2092)]]"

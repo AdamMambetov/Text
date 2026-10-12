@@ -1,10 +1,10 @@
 ---
 created: 2025-10-28T21:51:43+03:00
 aliases:
-  - "Rhythm Tengoku OST - Spaceball Game"
-Cover: "[[Rhythm Tengoku - Spaceball.jpg]]"
-Year: 0
-Album: ""
+  - "Spaceball"
+Cover: "[[Rhythm Tengoku OST.jpg]]"
+Year: 2006
+Album: "[[Rhythm Tengoku OST (📀 51)]]"
 CoverOf: ""
 Creators:
   - "[[Tsunku (🎙️ 981)]]"

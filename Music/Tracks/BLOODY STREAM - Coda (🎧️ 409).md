@@ -8,7 +8,7 @@ Album: "[[BLOODY STREAM]]"
 CoverOf: ""
 Creators:
   - "[[Coda (🎙️ 263)]]"
-ListenInSec: 538
+ListenInSec: 539
 NumberInAlbum: 1
 related:
   - "[[BLOODY STREAM (TV Size) - Coda (🎧️ 1072)]]"

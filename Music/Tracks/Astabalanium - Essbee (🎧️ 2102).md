@@ -3,23 +3,13 @@ created: 2026-06-11T23:48:15+03:00
 aliases:
   - "Astabalanium"
 Cover: "[[Essbee - Astabalanium.jpg]]"
-Year: 0
+Year: 2023
 Album: ""
-CoverOf: ""
 Creators:
   - "[[Essbee (🎙️ 1058)]]"
-ListenInSec: 263
 NumberInAlbum: 0
 related: []
-source: ""
 SourceFile: "[[Essbee - Astabalanium.mp3]]"
+ListenInSec: 327
+CoverOf: ""
 ---
-
-`$=dv.header(1, dv.current().aliases[0])`
-
-![[Essbee - Astabalanium.mp3]]
-
-## Related Tracks
-
-![[related tracks.base]]
-

@@ -2,13 +2,13 @@
 created: 2024-04-12T14:59:19+03:00
 aliases:
   - "Первый и последний"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Umineko no Naku Koro Ni OST 1.jpg]]"
 Year: 2007
-Album: "[[Umineko no Naku Koro ni OST (📀 30)]]"
+Album: "[[Umineko no Naku Koro ni OST — 07th Expansion]]"
 CoverOf: ""
 Creators:
   - "[[pre-holder (🎙️ 5)]]"
-ListenInSec: 206
+ListenInSec: 214
 NumberInAlbum: 152
 related: []
 source: ""

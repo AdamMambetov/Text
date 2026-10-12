@@ -10,7 +10,7 @@ Album: "[[空に歌えば (TV edit.)]]"
 CoverOf: ""
 Creators:
   - "[[amazarashi (🎙️ 176)]]"
-ListenInSec: 284
+ListenInSec: 305
 NumberInAlbum: 1
 related: []
 source: ""

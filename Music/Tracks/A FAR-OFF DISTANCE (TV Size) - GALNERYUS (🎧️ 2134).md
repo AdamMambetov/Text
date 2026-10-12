@@ -6,12 +6,12 @@ aliases:
   - "Радуга ED 1"
   - "Rainbow ED 1"
 Cover: "[[_No Album Art.jpg]]"
-Year: 0
+Year: 2010
 Album: ""
 CoverOf: ""
 Creators:
   - "[[GALNERYUS (🎙️ 313)]]"
-ListenInSec: 907
+ListenInSec: 987
 NumberInAlbum: 0
 related: []
 SourceFile: "[[GALNERYUS - A FAR-OFF DISTANCE (TV Size).mp3]]"

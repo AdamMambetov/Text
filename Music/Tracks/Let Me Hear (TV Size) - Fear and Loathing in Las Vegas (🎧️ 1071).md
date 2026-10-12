@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Fear and Loathing in Las Vegas (🎙️ 305)]]"
-ListenInSec: 176
+ListenInSec: 2045
 NumberInAlbum: 0
 related:
   - "[[Let Me Hear - Fear and Loathing in Las Vegas]]"

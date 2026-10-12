@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Kaen (🎙️ 687)]]"
-ListenInSec: 764
+ListenInSec: 1797
 NumberInAlbum: 0
 related: []
 source: ""

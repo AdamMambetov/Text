@@ -3,12 +3,12 @@ created: 2026-06-11T23:46:21+03:00
 aliases:
   - "Black Betty"
 Cover: "[[RADIO TAPOK - Black Betty.jpg]]"
-Year: 0
+Year: 2019
 Album: ""
 CoverOf: "[[Black Betty - Spiderbait (🎧️ 1185)]]"
 Creators:
   - "[[RADIO TAPOK (🎙️ 419)]]"
-ListenInSec: 320
+ListenInSec: 550
 NumberInAlbum: 0
 related: []
 source: ""

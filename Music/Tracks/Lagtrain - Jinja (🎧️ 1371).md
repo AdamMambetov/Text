@@ -8,7 +8,7 @@ Album: ""
 CoverOf: "[[Lagtrain - inabakumori (🎧️ 4)]]"
 Creators:
   - "[[Jinja (🎙️ 340)]]"
-ListenInSec: 254
+ListenInSec: 505
 NumberInAlbum: 1
 related: []
 source: https://youtu.be/Lz1qJnwfF04?si=_-AWLrxQDZ1prSgY

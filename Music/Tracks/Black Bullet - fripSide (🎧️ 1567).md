@@ -9,7 +9,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[fripSide (🎙️ 562)]]"
-ListenInSec: 8538
+ListenInSec: 8800
 NumberInAlbum: 0
 related: []
 SourceFile: "[[fripSide - Black Bullet.mp3]]"

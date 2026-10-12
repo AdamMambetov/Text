@@ -1,15 +1,15 @@
 ---
 created: 2025-08-01T16:32:20+03:00
 aliases:
-  - "Rhythm Tengoku OST - Remix 5"
+  - "Remix 5"
   - "WISH Kimi o Matenakute"
-Cover: "[[Rhythm Tengoku - Remix 5.jpg]]"
-Year: 0
-Album: ""
+Cover: "[[Rhythm Tengoku OST.jpg]]"
+Year: 2006
+Album: "[[Rhythm Tengoku OST (📀 51)]]"
 CoverOf: ""
 Creators:
-  - "[[Tsunku (🎙️ 981)]]"
   - "[[Soshi Tanaka (🎙️ 984)]]"
+  - "[[Tsunku (🎙️ 981)]]"
 ListenInSec: 895
 NumberInAlbum: 0
 related:

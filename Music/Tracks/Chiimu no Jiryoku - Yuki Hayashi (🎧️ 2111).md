@@ -2,13 +2,14 @@
 created: 2026-06-12T00:18:49+03:00
 aliases:
   - "Chiimu no Jiryoku"
+  - "Волейбол"
 Cover: "[[Haikyuu OST 2.jpg]]"
-Year: 0
+Year: 2014
 Album: ""
 CoverOf: ""
 Creators:
   - "[[Yuki Hayashi (🎙️ 807)]]"
-ListenInSec: 1127
+ListenInSec: 1488
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Haikyuu OST 2 - Chiimu no Jiryoku.mp3]]"

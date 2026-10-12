@@ -5,12 +5,12 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
-CoverOf: ""
 Creators:
   - "[[Yasunori Mitsuda (🎙️ 943)]]"
-ListenInSec: 3706
 NumberInAlbum: 1
 related: []
 SourceFile: "[[Chrono Trigger OST - Secret of the Forest.mp3]]"
+ListenInSec: 3977
+CoverOf: ""
 ---
 

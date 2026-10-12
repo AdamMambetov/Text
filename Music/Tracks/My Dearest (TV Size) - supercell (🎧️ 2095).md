@@ -5,12 +5,12 @@ aliases:
   - "Guilty Crown OP 1"
   - "Корона грешника OP 1"
 Cover: "[[supercell - My Dearest (TV Size).jpg]]"
-Year: 0
+Year: 2011
 Album: ""
 CoverOf: ""
 Creators:
   - "[[supercell (🎙️ 59)]]"
-ListenInSec: 1350
+ListenInSec: 1380
 NumberInAlbum: 0
 related: []
 source: ""

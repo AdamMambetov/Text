@@ -5,12 +5,12 @@ aliases:
   - "Kabaneri of the Iron Fortress OP 1"
   - "Кабанери железной крепости OP 1"
 Cover: "[[higanbanban - KABANERI OF THE IRON FORTRESS.jpg]]"
-Year:
+Year: 0
 Album: ""
 CoverOf: "[[KABANERI OF THE IRON FORTRESS - Egoist (🎧️ 1604)]]"
 Creators:
   - "[[j.am (🎙️ 1047)]]"
-ListenInSec: 640
+ListenInSec: 686
 NumberInAlbum: 0
 related: []
 source: ""

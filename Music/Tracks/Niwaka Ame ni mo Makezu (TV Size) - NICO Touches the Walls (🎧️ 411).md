@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[NICO Touches the Walls (🎙️ 389)]]"
-ListenInSec: 380
+ListenInSec: 405
 NumberInAlbum: 1
 related: []
 source: ""

@@ -7,15 +7,15 @@ aliases:
 Cover: "[[Toradora OST.jpg]]"
 Year: 0
 Album: ""
-CoverOf: ""
 Creators:
   - "[[Kugimiya Rie (🎙️ 329)]]"
   - "[[Horie Yui (🎙️ 330)]]"
   - "[[Kitamura Eri (🎙️ 331)]]"
-ListenInSec: 5728
 NumberInAlbum: 0
 related:
   - "[[Pre-Parade (TV Size) - Kugimiya Rie]]"
 SourceFile: "[[Kugimiya Rie, Horie Yui, Kitamura Eri - Pre-Parade.mp3]]"
+ListenInSec: 6362
+CoverOf: ""
 ---
 

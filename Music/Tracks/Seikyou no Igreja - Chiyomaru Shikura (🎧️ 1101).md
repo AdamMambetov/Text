@@ -4,14 +4,14 @@ aliases:
   - "Seikyou no Igreja"
   - "Umineko no Naku Koro Ni OP 1"
   - "Когда плачут чайки OP 1"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Umineko no Naku Koro Ni OST 1.jpg]]"
 Year: 2010
-Album: "[[Umineko no Naku Koro ni OST (📀 30)]]"
+Album: "[[Umineko no Naku Koro ni OST — 07th Expansion]]"
 CoverOf: ""
 Creators:
   - "[[Chiyomaru Shikura (🎙️ 865)]]"
   - "[[KOKOMI (🎙️ 866)]]"
-ListenInSec: 430
+ListenInSec: 447
 NumberInAlbum: 1
 related: []
 source: ""

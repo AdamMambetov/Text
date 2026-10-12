@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Mayu Maeshima (🎙️ 679)]]"
-ListenInSec: 687
+ListenInSec: 691
 NumberInAlbum: 0
 related: []
 source: ""

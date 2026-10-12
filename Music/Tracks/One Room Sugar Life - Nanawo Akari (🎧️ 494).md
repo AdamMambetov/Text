@@ -9,7 +9,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Nanawo Akari (🎙️ 620)]]"
-ListenInSec: 338
+ListenInSec: 340
 NumberInAlbum: 1
 related: []
 source: ""

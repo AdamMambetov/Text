@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[ViViD (🎙️ 860)]]"
-ListenInSec: 470
+ListenInSec: 488
 NumberInAlbum: 1
 related: []
 source: ""

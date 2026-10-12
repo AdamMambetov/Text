@@ -5,21 +5,12 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
-CoverOf: ""
 Creators:
   - "[[HellYeahPlay (🎙️ 870)]]"
-ListenInSec: 239
 NumberInAlbum: 0
 related: []
-source: ""
 SourceFile: "[[hellyeahplay - Incredibox Alpha.mp3]]"
+ListenInSec: 397
+CoverOf: ""
 ---
-
-`$=dv.header(1, dv.current().aliases[0])`
-
-![[hellyeahplay - Incredibox Alpha.mp3]]
-
-## Related Tracks
-
-![[related tracks.base]]
 

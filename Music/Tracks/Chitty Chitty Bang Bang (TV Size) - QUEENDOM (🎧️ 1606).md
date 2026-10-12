@@ -4,12 +4,12 @@ aliases:
   - "Chitty Chitty Bang Bang (TV Size)"
   - "Тусовщик Кунмин OP 1"
 Cover: "[[_No Album Art.jpg]]"
-Year: 0
+Year: 2022
 Album: ""
 CoverOf: ""
 Creators:
   - "[[QUEENDOM (🎙️ 658)]]"
-ListenInSec: 709
+ListenInSec: 733
 NumberInAlbum: 0
 related:
   - "[[Chitty Chitty Bang Bang - QUEENDOM (🎧️ 1605)]]"

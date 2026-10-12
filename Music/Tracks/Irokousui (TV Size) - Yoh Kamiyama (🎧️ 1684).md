@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Yoh Kamiyama (🎙️ 659)]]"
-ListenInSec: 1183
+ListenInSec: 1291
 NumberInAlbum: 0
 related:
   - "[[Irokousui - Yoh Kamiyama (🎧️ 1683)]]"

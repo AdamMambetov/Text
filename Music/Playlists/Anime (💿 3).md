@@ -115,7 +115,6 @@ tracklist:
   - "[[LOST IN PARADISE (TV Size) - ALI (🎧️ 1419)]]"
   - "[[Call of the Witch - Kenichiro Suehiro (🎧️ 1383)]]"
   - "[[one-Me, two-Hearts (TV Size) - hitorie (🎧️ 1382)]]"
-  - "[[Ano Hi no mama no Bokura - Sora Amamiya (🎧️ 1372)]]"
   - "[[Gats - Susumu Hirasawa (🎧️ 1351)]]"
   - "[[HUNTING FOR YOUR DREAM - GALNERYUS (🎧️ 1348)]]"
   - "[[Colors - FLOW (🎧️ 1342)]]"
@@ -512,6 +511,14 @@ tracklist:
   - "[[88 - LM.C (🎧️ 2085)]]"
   - "[[Asayake to Nettaigyo (TV Size) - Boku no Lyric no Bouyomi (🎧️ 1679)]]"
   - "[[Ender Ember - MYTH & ROID (🎧️ 2131)]]"
+  - "[[KISS OF DEATH - Mika Nakashima (🎧️ 2271)]]"
+  - "[[KISS OF DEATH (TV Size) - Mika Nakashima (🎧️ 2089)]]"
+  - "[[Yume no Ito (TV Size) - Kitou Akari (🎧️ 2150)]]"
+  - "[[Wanna b (TV Size) - TeddyLoid (🎧️ 2149)]]"
+  - "[[Tonari Au - THE ORAL CIGARETTES (🎧️ 2121)]]"
+  - "[[Tonari Au (TV Size) - THE ORAL CIGARETTES (🎧️ 2120)]]"
+  - "[[Gintama OST - Madao - Audio Highs (🎧️ 2084)]]"
+  - "[[INTERTIA (TV Size) - Hiroyuki Sawano (🎧️ 2071)]]"
 ---
 
 # Anime

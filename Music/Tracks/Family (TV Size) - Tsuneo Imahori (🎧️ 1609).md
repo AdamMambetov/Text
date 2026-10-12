@@ -5,7 +5,7 @@ aliases:
   - "Gungrave OP 1"
   - "Гангрейв OP 1"
 Cover: "[[_No Album Art.jpg]]"
-Year: 0
+Year: 2003
 Album: ""
 CoverOf: ""
 Creators:

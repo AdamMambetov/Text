@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[MYTH & ROID (🎙️ 382)]]"
-ListenInSec: 180
+ListenInSec: 188
 NumberInAlbum: 0
 related:
   - "[[Paradisus-Paradoxum - MYTH & ROID (🎧️ 1621)]]"

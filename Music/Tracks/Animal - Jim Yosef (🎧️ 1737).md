@@ -9,7 +9,7 @@ CoverOf: ""
 Creators:
   - "[[Jim Yosef (🎙️ 683)]]"
   - "[[RIELL (🎙️ 684)]]"
-ListenInSec: 699
+ListenInSec: 700
 NumberInAlbum: 0
 related: []
 source: ""

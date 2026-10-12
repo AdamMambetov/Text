@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Selphius (🎙️ 955)]]"
-ListenInSec: 1298
+ListenInSec: 1388
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Selphius - Los! Los! Los!.mp3]]"

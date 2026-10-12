@@ -9,7 +9,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[WEAVER (🎙️ 776)]]"
-ListenInSec: 187
+ListenInSec: 1111
 NumberInAlbum: 1
 related:
   - "[[Kuchizuke Diamond - WEAVER (🎧️ 1464)]]"

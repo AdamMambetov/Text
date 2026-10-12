@@ -1,7 +1,7 @@
 ---
 created: 2026-06-11T23:22:54+03:00
 aliases:
-  - "INTERTIA"
+  - "INERTIA"
   - "To Be Hero X OP 1"
   - "Быть героем Х OP 1"
 Cover: "[[To Be Hero X OST - INTERTIA.jpg]]"
@@ -11,7 +11,7 @@ CoverOf: ""
 Creators:
   - "[[Hiroyuki Sawano (🎙️ 327)]]"
   - "[[Rei (🎙️ 808)]]"
-ListenInSec: 398
+ListenInSec: 415
 NumberInAlbum: 0
 related: []
 source: ""

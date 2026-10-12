@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[nonoc (🎙️ 792)]]"
-ListenInSec: 177
+ListenInSec: 1178
 NumberInAlbum: 0
 related:
   - "[[Memento - nonoc (🎧️ 1859)]]"

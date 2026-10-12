@@ -5,7 +5,7 @@ aliases:
   - "Этот герой неуязвим но очень осторожен OP 1"
   - "Осторожный герой OP 1"
 Cover: "[[MYTH & ROID - TIT FOR TAT.jpg]]"
-Year: 0
+Year: 2019
 Album: ""
 CoverOf: ""
 Creators:

@@ -10,7 +10,7 @@ CoverOf: "[[Если в сердце живёт любовь - Юлия Сави
 Creators:
   - "[[Rikani (🎙️ 799)]]"
   - "[[Sati Akura (🎙️ 355)]]"
-ListenInSec: 369
+ListenInSec: 370
 NumberInAlbum: 0
 related: []
 source: ""

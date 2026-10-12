@@ -7,7 +7,7 @@ aliases:
   - "Мастера меча онлайн OP 2"
   - "САО OP 2"
 Cover: "[[_No Album Art.jpg]]"
-Year: 0
+Year: 2012
 Album: ""
 CoverOf: ""
 Creators:

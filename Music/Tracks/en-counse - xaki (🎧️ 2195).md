@@ -4,13 +4,15 @@ aliases:
   - "en-counse"
 Cover: "[[Umineko no Naku Koro Ni OST 1.jpg]]"
 Year: 2007
-Album: "[[Umineko no Naku Koro ni OST (📀 30)]]"
+Album: "[[Umineko no Naku Koro ni OST — 07th Expansion]]"
 CoverOf: ""
 Creators:
   - "[[xaki (🎙️ 12)]]"
-ListenInSec: 330
+ListenInSec: 808
 NumberInAlbum: 190
-related: []
+related:
+  - "[[en-counse (piano remaster) - xaki (🎧️ 1946)]]"
+  - "[[en-counse 〜guitar vocal ver.〜 (without vocal) - xaki (🎧️ 1960)]]"
 source: ""
 SourceFile: "[[Umineko no Naku Koro ni OST - 190 en-counse.ogg]]"
 ---

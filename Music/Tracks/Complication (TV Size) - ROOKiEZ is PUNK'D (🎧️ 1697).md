@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[ROOKiEZ is PUNK'D (🎙️ 429)]]"
-ListenInSec: 194
+ListenInSec: 218
 NumberInAlbum: 0
 related:
   - "[[Complication - ROOKiEZ is PUNK'D (🎧️ 1700)]]"

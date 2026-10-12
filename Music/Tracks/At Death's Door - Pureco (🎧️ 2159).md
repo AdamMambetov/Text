@@ -10,7 +10,7 @@ Album: "[[Umineko no Naku Koro ni OST (📀 30)]]"
 CoverOf: ""
 Creators:
   - "[[Pureco (🎙️ 1067)]]"
-ListenInSec: 192
+ListenInSec: 230
 NumberInAlbum: 14
 related: []
 source: ""

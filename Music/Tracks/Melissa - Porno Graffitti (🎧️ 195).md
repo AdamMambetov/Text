@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Porno Graffitti (🎙️ 414)]]"
-ListenInSec: 815
+ListenInSec: 1089
 NumberInAlbum: 0
 related:
   - "[[Melissa (TV Size) - Porno Graffitti]]"

@@ -5,12 +5,12 @@ aliases:
   - "Gintama OP 13"
   - "Гинтама OP 13"
 Cover: "[[SPYAIR - Sakuramitsuki.jpg]]"
-Year: 0
+Year: 2013
 Album: ""
 CoverOf: ""
 Creators:
   - "[[SPYAIR (🎙️ 442)]]"
-ListenInSec: 300
+ListenInSec: 400
 NumberInAlbum: 0
 related:
   - "[[Sakuramitsutsuki - SPYAIR (🎧️ 1460)]]"

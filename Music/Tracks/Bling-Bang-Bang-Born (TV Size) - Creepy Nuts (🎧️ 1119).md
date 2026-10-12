@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Creepy Nuts (🎙️ 267)]]"
-ListenInSec: 267
+ListenInSec: 282
 NumberInAlbum: 1
 related:
   - "[[Bling-Bang-Bang-Born - Creepy Nuts (🎧️ 1233)]]"

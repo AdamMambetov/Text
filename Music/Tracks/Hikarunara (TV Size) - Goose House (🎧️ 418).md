@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Goose House (🎙️ 316)]]"
-ListenInSec: 170
+ListenInSec: 187
 NumberInAlbum: 1
 related: []
 source:

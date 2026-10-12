@@ -4,7 +4,7 @@ aliases:
   - "Kabuto"
   - "Kabuto Onsa Media"
 Cover: https://onsa.media/uploads/avatar/kabuto.png
-ListenInSec: 0
+ListenInSec: 221
 source: https://onsa.media/user/kabuto
 ---
 

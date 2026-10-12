@@ -2,13 +2,13 @@
 created: 2024-04-12T15:02:01+03:00
 aliases:
   - "#600 миллионов, струнное трио, фа-диез минор"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Umineko no Naku Koro Ni OST 1.jpg]]"
 Year: 2007
-Album: "[[Umineko no Naku Koro ni OST (📀 30)]]"
+Album: "[[Umineko no Naku Koro ni OST — 07th Expansion]]"
 CoverOf: ""
 Creators:
   - "[[Luck Ganriki (🎙️ 4)]]"
-ListenInSec: 427
+ListenInSec: 436
 NumberInAlbum: 117
 related:
   - "[[200 миллионов (короткая). До минор, орган - Luck Ganriki (🎧️ 1021)]]"

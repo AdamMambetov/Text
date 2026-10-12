@@ -2,13 +2,13 @@
 created: 2024-04-12T15:04:47+03:00
 aliases:
   - "Спираль"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Umineko no Naku Koro Ni OST 1.jpg]]"
 Year: 2007
-Album: "[[Umineko no Naku Koro ni OST (📀 30)]]"
+Album: "[[Umineko no Naku Koro ni OST — 07th Expansion]]"
 CoverOf: ""
 Creators:
   - "[[pre-holder (🎙️ 5)]]"
-ListenInSec: 561
+ListenInSec: 570
 NumberInAlbum: 116
 related: []
 source: ""

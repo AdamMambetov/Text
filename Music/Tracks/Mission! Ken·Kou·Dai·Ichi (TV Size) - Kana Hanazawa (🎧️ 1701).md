@@ -5,7 +5,7 @@ aliases:
   - "Hataraku Saibou OP 1"
   - "Клетки за работой OP 1"
 Cover: "[[Kana Hanazawa, Tomoaki Maeno, Daisuke Ono, Kikuko Inoue - Mission! Ken·Kou·Dai·Ichi.jpg]]"
-Year: 0
+Year: 2018
 Album: ""
 CoverOf: ""
 Creators:
@@ -13,7 +13,7 @@ Creators:
   - "[[Tomoaki Maeno (🎙️ 970)]]"
   - "[[Daisuke Ono (🎙️ 971)]]"
   - "[[Kikuko Inoue (🎙️ 972)]]"
-ListenInSec: 1369
+ListenInSec: 1653
 NumberInAlbum: 0
 related: []
 source: ""

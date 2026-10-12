@@ -3,16 +3,17 @@ created: 2026-06-11T23:37:45+03:00
 aliases:
   - "Happy! Lucky! Dochy!"
 Cover: "[[Chi_exe - Happy! Lucky! Dochy! (Full Version).jpg]]"
-Year: 0
+Year: 2011
 Album: ""
 CoverOf: ""
 Creators:
   - "[[Tamura Yukari (🎙️ 829)]]"
   - "[[Kanai Mika (🎙️ 830)]]"
   - "[[Horie Yui (🎙️ 330)]]"
-ListenInSec: 2151
+ListenInSec: 2396
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Happy! Lucky! Dochy!.mp3]]"
 ---
 
+Трек «Happy! Lucky! Dochy!» в исполнении Юкари Тамуры (в роли Рики Фуруде), Мики Канаи (в роли Сатоко Ходзё) и Юи Хориэ (в роли Ханю) был выпущен 22 сентября 2011 года .

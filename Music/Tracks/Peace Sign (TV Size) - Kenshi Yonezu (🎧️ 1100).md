@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Kenshi Yonezu (🎙️ 349)]]"
-ListenInSec: 192
+ListenInSec: 204
 NumberInAlbum: 1
 related: []
 source: ""

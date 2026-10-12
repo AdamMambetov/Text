@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Fear and Loathing in Las Vegas (🎙️ 305)]]"
-ListenInSec: 211
+ListenInSec: 311
 NumberInAlbum: 1
 related: []
 source: ""

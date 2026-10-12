@@ -1,11 +1,11 @@
 ---
 created: 2025-10-28T22:05:48+03:00
 aliases:
-  - "Rhythm Tengoku OST - Marcher"
+  - "Marcher"
   - "Marching Orders"
-Cover: "[[Rhythm Tengoku - Marcher.jpg]]"
-Year: 0
-Album: ""
+Cover: "[[Rhythm Tengoku OST.jpg]]"
+Year: 2006
+Album: "[[Rhythm Tengoku OST (📀 51)]]"
 CoverOf: ""
 Creators:
   - "[[Masami Yone (🎙️ 982)]]"

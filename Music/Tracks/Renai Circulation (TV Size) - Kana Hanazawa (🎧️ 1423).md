@@ -9,7 +9,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Kana Hanazawa (🎙️ 186)]]"
-ListenInSec: 182
+ListenInSec: 207
 NumberInAlbum: 1
 related:
   - "[[Renai Circulation - Kana Hanazawa (🎧️ 298)]]"

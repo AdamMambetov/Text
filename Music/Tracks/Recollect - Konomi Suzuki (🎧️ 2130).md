@@ -5,16 +5,16 @@ aliases:
   - "ReZero OP 6"
   - "РеЗеро OP 6"
 Cover: "[[_No Album Art.jpg]]"
-Year: 0
+Year: 2026
 Album: ""
-CoverOf: ""
 Creators:
   - "[[Konomi Suzuki (🎙️ 351)]]"
   - "[[Ashnikko (🎙️ 815)]]"
-ListenInSec: 3816
 NumberInAlbum: 0
 related:
   - "[[Recollect (TV Size) - Konomi Suzuki (🎧️ 2128)]]"
 SourceFile: "[[Konomi Suzuki feat. Ashnikko - Recollect.opus]]"
+ListenInSec: 4437
+CoverOf: ""
 ---
 

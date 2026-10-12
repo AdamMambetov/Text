@@ -1,11 +1,11 @@
 ---
 created: 2025-10-28T22:09:50+03:00
 aliases:
-  - "Rhythm Tengoku OST - Turbo Tap Trial"
+  - "Turbo Tap Trial"
   - "Tap Trial 2"
-Cover: "[[Rhythm Tengoku - Tap Trial 2.jpg]]"
-Year: 0
-Album: ""
+Cover: "[[Rhythm Tengoku OST.jpg]]"
+Year: 2006
+Album: "[[Rhythm Tengoku OST (📀 51)]]"
 CoverOf: ""
 Creators:
   - "[[Tsunku (🎙️ 981)]]"

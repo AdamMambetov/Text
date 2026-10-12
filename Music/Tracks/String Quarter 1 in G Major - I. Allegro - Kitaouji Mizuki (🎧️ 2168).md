@@ -10,7 +10,7 @@ Album: "[[Umineko no Naku Koro ni OST (📀 30)]]"
 CoverOf: ""
 Creators:
   - "[[Kitaouji Mizuki (🎙️ 13)]]"
-ListenInSec: 126
+ListenInSec: 132
 NumberInAlbum: 42
 related: []
 source: ""

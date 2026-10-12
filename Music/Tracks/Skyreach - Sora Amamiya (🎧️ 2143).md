@@ -5,12 +5,12 @@ aliases:
   - "Akame ga Kill OP 1"
   - "Убийца Акамэ OP 1"
 Cover: "[[_No Album Art.jpg]]"
-Year: 0
+Year: 2014
 Album: ""
 CoverOf: ""
 Creators:
   - "[[Sora Amamiya (🎙️ 816)]]"
-ListenInSec: 5861
+ListenInSec: 6706
 NumberInAlbum: 0
 related:
   - "[[Skyreach (TV Size) - Sora Amamiya (🎧️ 2142)]]"

@@ -5,16 +5,12 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
-CoverOf: ""
 Creators:
   - "[[Yuji Ohno (🎙️ 727)]]"
-ListenInSec: 528
 NumberInAlbum: 0
 related: []
-source: ""
 SourceFile: "[[Yuji Ohno - Love In Sao Paolo.mp3]]"
+ListenInSec: 782
+CoverOf: ""
 ---
 
-# Yuji Ohno - Love In Sao Paolo
-
-![[Yuji Ohno - Love In Sao Paolo.mp3]]

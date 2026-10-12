@@ -11,7 +11,7 @@ Creators:
   - "[[sunny (🎙️ 18)]]"
   - "[[xaki (🎙️ 12)]]"
   - "[[Motoki Zakuro (🎙️ 16)]]"
-ListenInSec: 133
+ListenInSec: 271
 NumberInAlbum: 83
 related: []
 source: ""

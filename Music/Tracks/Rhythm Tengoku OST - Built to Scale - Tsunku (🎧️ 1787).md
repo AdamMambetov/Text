@@ -1,10 +1,10 @@
 ---
 created: 2025-10-28T22:38:20+03:00
 aliases:
-  - "Rhythm Tengoku OST - Built to Scale"
-Cover: "[[Rhythm Tengoku - Built to Scale.jpg]]"
-Year: 0
-Album: ""
+  - "Built to Scale"
+Cover: "[[Rhythm Tengoku OST.jpg]]"
+Year: 2006
+Album: "[[Rhythm Tengoku OST (📀 51)]]"
 CoverOf: ""
 Creators:
   - "[[Tsunku (🎙️ 981)]]"

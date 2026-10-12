@@ -9,7 +9,7 @@ CoverOf: ""
 Creators:
   - "[[Christopher Tin (🎙️ 1030)]]"
   - "[[Soweto Gospel Choir (🎙️ 1031)]]"
-ListenInSec: 3471
+ListenInSec: 3472
 NumberInAlbum: 0
 related: []
 source: ""

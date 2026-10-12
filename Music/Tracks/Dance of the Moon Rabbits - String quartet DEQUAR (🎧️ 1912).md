@@ -4,8 +4,8 @@ aliases:
   - "Dance of the Moon Rabbits"
 Cover: "[[String quartet DEQUAR - Music collection from 'Umineko' for Clarinet Quintet and piano.jpg]]"
 Year: 2017
-Album: "[[Music collection from 'Umineko' for Clarinet Quintet and piano (📀 53)]]"
-CoverOf: ""
+Album: "[[Music collection from 'Umineko' for Clarinet Quintet and piano — String quartet DEQUAR]]"
+CoverOf: "[[Танец лунных кроликов - dai (🎧️ 1025)]]"
 Creators:
   - "[[String quartet DEQUAR (🎙️ 1000)]]"
   - "[[Mai Tanizaki (🎙️ 1003)]]"

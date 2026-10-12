@@ -284,6 +284,11 @@ tracklist:
   - "[[Toki wo Kizamu Uta (TV Size) - Lia (🎧️ 1747)]]"
   - "[[Irokousui (TV Size) - Yoh Kamiyama (🎧️ 1684)]]"
   - "[[88 - LM.C (🎧️ 2085)]]"
+  - "[[KISS OF DEATH - Mika Nakashima (🎧️ 2271)]]"
+  - "[[KISS OF DEATH (TV Size) - Mika Nakashima (🎧️ 2089)]]"
+  - "[[Yume no Ito (TV Size) - Kitou Akari (🎧️ 2150)]]"
+  - "[[Wanna b (TV Size) - TeddyLoid (🎧️ 2149)]]"
+  - "[[INTERTIA (TV Size) - Hiroyuki Sawano (🎧️ 2071)]]"
 ---
 
 # Anime Openings

@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Endoh Masaaki (🎙️ 565)]]"
-ListenInSec: 393
+ListenInSec: 1396
 NumberInAlbum: 1
 related: []
 source:

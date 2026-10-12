@@ -5,12 +5,12 @@ aliases:
   - "Fullmetal Alchemist OP 2"
   - "Стальной алхимик OP 2"
 Cover: "[[_No Album Art.jpg]]"
-Year: 0
+Year: 2004
 Album: ""
 CoverOf: ""
 Creators:
   - "[[L'Arc-en-Ciel (🎙️ 707)]]"
-ListenInSec: 1547
+ListenInSec: 1779
 NumberInAlbum: 0
 related:
   - "[[Ready Steady Go (TV Size) - L'Arc-en-Ciel]]"

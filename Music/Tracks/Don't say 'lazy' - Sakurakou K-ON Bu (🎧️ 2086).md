@@ -6,12 +6,12 @@ aliases:
   - "К-ОН ED 1"
   - "кей-он ED 1"
 Cover: "[[Release - Don't say ＂lazy＂.jpg]]"
-Year: 0
+Year: 2009
 Album: ""
 CoverOf: ""
 Creators:
   - "[[Sakurakou K-ON Bu (🎙️ 1055)]]"
-ListenInSec: 1103
+ListenInSec: 1527
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Release - Don't say ＂lazy＂.mp3]]"

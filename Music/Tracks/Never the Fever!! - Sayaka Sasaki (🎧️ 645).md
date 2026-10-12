@@ -10,7 +10,7 @@ Album: "[[Never the Fever!! - Single]]"
 CoverOf: ""
 Creators:
   - "[[Sayaka Sasaki (🎙️ 431)]]"
-ListenInSec: 490
+ListenInSec: 502
 NumberInAlbum: 1
 related: []
 source: ""

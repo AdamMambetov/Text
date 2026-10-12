@@ -1,11 +1,11 @@
 ---
 created: 2025-10-28T22:15:00+03:00
 aliases:
-  - "Rhythm Tengoku OST - Cosmo Dance"
+  - "Cosmo Dance"
   - "Cosmic Dance"
-Cover: "[[Rhythm Tengoku - Cosmo Dance.jpg]]"
-Year: 0
-Album: ""
+Cover: "[[Rhythm Tengoku OST.jpg]]"
+Year: 2006
+Album: "[[Rhythm Tengoku OST (📀 51)]]"
 CoverOf: ""
 Creators:
   - "[[Tsunku (🎙️ 981)]]"

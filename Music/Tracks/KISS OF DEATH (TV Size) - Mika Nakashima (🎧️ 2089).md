@@ -5,7 +5,7 @@ aliases:
   - "DARLING in the FRANXX OP 1"
   - "Милый во Франксе OP 1"
 Cover: "[[Crunchyroll - DARLING in the FRANXX Opening 1 ｜ KISS OF DEATH.jpg]]"
-Year: 0
+Year: 2018
 Album: ""
 CoverOf: ""
 Creators:

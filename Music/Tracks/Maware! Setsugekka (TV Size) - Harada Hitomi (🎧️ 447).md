@@ -11,7 +11,7 @@ Creators:
   - "[[Harada Hitomi (🎙️ 578)]]"
   - "[[Kayano Ai (🎙️ 579)]]"
   - "[[Ogura Yui (🎙️ 580)]]"
-ListenInSec: 415
+ListenInSec: 518
 NumberInAlbum: 0
 related: []
 source: ""

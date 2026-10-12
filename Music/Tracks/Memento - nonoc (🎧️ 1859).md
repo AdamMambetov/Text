@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[nonoc (🎙️ 792)]]"
-ListenInSec: 313
+ListenInSec: 618
 NumberInAlbum: 0
 related:
   - "[[Memento (TV Size) - nonoc (🎧️ 1860)]]"

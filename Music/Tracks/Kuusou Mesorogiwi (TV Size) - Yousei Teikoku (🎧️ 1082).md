@@ -11,7 +11,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Yousei Teikoku (🎙️ 275)]]"
-ListenInSec: 1435
+ListenInSec: 1449
 NumberInAlbum: 0
 related:
   - "[[Kuusou Mesorogiwi - Yousei Teikoku (🎧️ 638)]]"

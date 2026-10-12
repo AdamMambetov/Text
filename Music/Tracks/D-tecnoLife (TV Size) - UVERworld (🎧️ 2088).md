@@ -5,12 +5,12 @@ aliases:
   - "Bleach OP 2"
   - "Блич OP 1"
 Cover: "[[UVERworld - D-tecnoLife.jpg]]"
-Year: 0
+Year: 2005
 Album: ""
 CoverOf: ""
 Creators:
   - "[[UVERworld (🎙️ 473)]]"
-ListenInSec: 404
+ListenInSec: 486
 NumberInAlbum: 0
 related: []
 source: ""

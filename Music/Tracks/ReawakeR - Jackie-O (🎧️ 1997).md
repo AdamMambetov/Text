@@ -12,7 +12,7 @@ CoverOf: ""
 Creators:
   - "[[Jackie-O (🎙️ 337)]]"
   - "[[Meira (🎙️ 837)]]"
-ListenInSec: 972
+ListenInSec: 1052
 NumberInAlbum: 0
 related: []
 source: ""

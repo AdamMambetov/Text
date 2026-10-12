@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[OLDCODEX (🎙️ 1056)]]"
-ListenInSec: 178
+ListenInSec: 195
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Free! Opening 1.mp3]]"

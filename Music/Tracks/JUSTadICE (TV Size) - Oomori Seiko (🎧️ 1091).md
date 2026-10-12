@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Oomori Seiko (🎙️ 819)]]"
-ListenInSec: 524
+ListenInSec: 1563
 NumberInAlbum: 1
 related: []
 source: ""

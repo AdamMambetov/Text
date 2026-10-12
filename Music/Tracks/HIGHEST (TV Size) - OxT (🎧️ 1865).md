@@ -9,7 +9,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[OxT (🎙️ 649)]]"
-ListenInSec: 360
+ListenInSec: 1367
 NumberInAlbum: 0
 related:
   - "[[HIGHEST - OxT (🎧️ 588)]]"

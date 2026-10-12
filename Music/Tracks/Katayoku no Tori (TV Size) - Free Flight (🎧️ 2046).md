@@ -11,7 +11,7 @@ CoverOf: ""
 Creators:
   - "[[Free Flight (🎙️ 834)]]"
   - "[[Delvirta (🎙️ 835)]]"
-ListenInSec: 1345
+ListenInSec: 1354
 NumberInAlbum: 0
 related:
   - "[[Katayoku no Tori - Free Flight (🎧️ 2047)]]"

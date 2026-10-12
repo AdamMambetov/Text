@@ -11,7 +11,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[BUMP OF CHICKEN (🎙️ 1029)]]"
-ListenInSec: 554
+ListenInSec: 577
 NumberInAlbum: 0
 related: []
 source: ""

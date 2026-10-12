@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[BLUE ENCOUNT (🎙️ 864)]]"
-ListenInSec: 289
+ListenInSec: 301
 NumberInAlbum: 1
 related: []
 source: ""

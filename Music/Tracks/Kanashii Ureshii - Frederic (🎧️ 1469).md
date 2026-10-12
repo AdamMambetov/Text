@@ -5,12 +5,12 @@ aliases:
   - "Koi to Uso OP 1"
   - "Любовь и ложь OP 1"
 Cover: "[[_No Album Art.jpg]]"
-Year: 0
+Year: 2017
 Album: ""
 CoverOf: ""
 Creators:
   - "[[Frederic (🎙️ 738)]]"
-ListenInSec: 2700
+ListenInSec: 3270
 NumberInAlbum: 0
 related:
   - "[[Kanashii Ureshii (TV Size) - Frederic]]"

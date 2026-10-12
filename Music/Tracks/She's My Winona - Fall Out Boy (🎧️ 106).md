@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Fall Out Boy (🎙️ 304)]]"
-ListenInSec: 930
+ListenInSec: 1161
 NumberInAlbum: 0
 related: []
 source: ""

@@ -6,12 +6,12 @@ aliases:
   - "Радуга OP 1"
   - "Rainbow OP 1"
 Cover: "[[_No Album Art.jpg]]"
-Year: 0
+Year: 2010
 Album: ""
 CoverOf: ""
 Creators:
   - "[[coldrain (🎙️ 820)]]"
-ListenInSec: 827
+ListenInSec: 846
 NumberInAlbum: 0
 related: []
 source: ""

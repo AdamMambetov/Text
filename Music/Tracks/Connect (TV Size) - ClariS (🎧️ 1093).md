@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[ClariS (🎙️ 262)]]"
-ListenInSec: 281
+ListenInSec: 1225
 NumberInAlbum: 0
 related:
   - "[[Connect - ClariS (🎧️ 1225)]]"

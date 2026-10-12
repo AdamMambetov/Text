@@ -8,7 +8,7 @@ Album: ""
 CoverOf: "[[Awake and Alive - Skillet (🎧️ 1172)]]"
 Creators:
   - "[[PanHeads Band (🎙️ 407)]]"
-ListenInSec: 623
+ListenInSec: 632
 NumberInAlbum: 6
 related: []
 source: ""

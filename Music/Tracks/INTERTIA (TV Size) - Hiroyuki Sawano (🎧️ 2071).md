@@ -1,7 +1,7 @@
 ---
 created: 2026-06-11T23:25:24+03:00
 aliases:
-  - "INTERTIA (TV Size)"
+  - "INERTIA (TV Size)"
   - "To Be Hero X OP 1"
   - "Быть героем Х OP 1"
 Cover: "[[To Be Hero X OST - INTERTIA (TV Size).jpg]]"
@@ -11,9 +11,10 @@ CoverOf: ""
 Creators:
   - "[[Hiroyuki Sawano (🎙️ 327)]]"
   - "[[Rei (🎙️ 808)]]"
-ListenInSec: 178
+ListenInSec: 1155
 NumberInAlbum: 0
-related: []
+related:
+  - "[[INTERTIA - Hiroyuki Sawano (🎧️ 2068)]]"
 source: ""
 SourceFile: "[[Hiroyuki Sawano - INTERTIA (TV Size).mp3]]"
 ---

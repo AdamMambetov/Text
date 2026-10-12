@@ -5,12 +5,12 @@ aliases:
   - "Claymore OP 1"
   - "Клеймор OP 1"
 Cover: "[[_No Album Art.jpg]]"
-Year: 0
+Year: 2008
 Album: ""
 CoverOf: ""
 Creators:
   - "[[NIGHTMARE (🎙️ 665)]]"
-ListenInSec: 800
+ListenInSec: 1026
 NumberInAlbum: 0
 related:
   - "[[Raison d'etre (TV Size) - NIGHTMARE]]"

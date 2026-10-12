@@ -4,13 +4,15 @@ aliases:
   - "en-counse [piano remaster]"
 Cover: "[[xaki - Akoustika.jpg]]"
 Year: 2012
-Album: "[[Akoustika (📀 57)]]"
+Album: "[[Akoustika — xaki]]"
 CoverOf: ""
 Creators:
   - "[[xaki (🎙️ 12)]]"
-ListenInSec: 340
+ListenInSec: 759
 NumberInAlbum: 9
-related: []
+related:
+  - "[[en-counse - xaki (🎧️ 2195)]]"
+  - "[[en-counse 〜guitar vocal ver.〜 (without vocal) - xaki (🎧️ 1960)]]"
 source: https://youtu.be/tRsAOvCX75U?si=F3x-h1d0yR5z7kGp
 SourceFile: "[[xaki - en-counse (piano remaster).mp3]]"
 ---

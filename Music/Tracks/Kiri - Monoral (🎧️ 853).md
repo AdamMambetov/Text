@@ -10,7 +10,7 @@ Album: "[[Ergo Proxy OST opus 01]]"
 CoverOf: ""
 Creators:
   - "[[Monoral (🎙️ 164)]]"
-ListenInSec: 1578
+ListenInSec: 1848
 NumberInAlbum: 2
 related: []
 source: ""

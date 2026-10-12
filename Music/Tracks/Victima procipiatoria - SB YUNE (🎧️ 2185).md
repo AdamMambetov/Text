@@ -9,7 +9,7 @@ Album: "[[Umineko no Naku Koro ni OST (📀 30)]]"
 CoverOf: ""
 Creators:
   - "[[SB YUNE (🎙️ 27)]]"
-ListenInSec: 334
+ListenInSec: 669
 NumberInAlbum: 101
 related: []
 source: ""

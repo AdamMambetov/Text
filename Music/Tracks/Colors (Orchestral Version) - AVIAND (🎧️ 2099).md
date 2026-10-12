@@ -5,12 +5,12 @@ aliases:
   - "Code Geass OP 1"
   - "Код Гиас OP 1"
 Cover: "[[AVIAND - Colors.jpg]]"
-Year: 0
+Year: 2022
 Album: ""
 CoverOf: ""
 Creators:
   - "[[AVIAND (🎙️ 1057)]]"
-ListenInSec: 278
+ListenInSec: 430
 NumberInAlbum: 0
 related:
   - "[[Colors - FLOW (🎧️ 1342)]]"

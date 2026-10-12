@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Motohiro Hata (🎙️ 858)]]"
-ListenInSec: 479
+ListenInSec: 480
 NumberInAlbum: 1
 related: []
 source: ""

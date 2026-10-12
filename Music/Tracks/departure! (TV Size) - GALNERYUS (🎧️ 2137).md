@@ -5,12 +5,12 @@ aliases:
   - "Hunter X Hunter OP 1"
   - "Хантер х Хантер OP 1"
 Cover: "[[_No Album Art.jpg]]"
-Year: 0
+Year: 2012
 Album: ""
 CoverOf: ""
 Creators:
   - "[[GALNERYUS (🎙️ 313)]]"
-ListenInSec: 577
+ListenInSec: 590
 NumberInAlbum: 0
 related: []
 source: ""

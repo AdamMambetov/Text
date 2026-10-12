@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Stereopony (🎙️ 56)]]"
-ListenInSec: 930
+ListenInSec: 975
 NumberInAlbum: 0
 related: []
 source: ""

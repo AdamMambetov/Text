@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[4 Non Blondes (🎙️ 806)]]"
-ListenInSec: 331
+ListenInSec: 332
 NumberInAlbum: 0
 related: []
 source: ""

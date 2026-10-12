@@ -3,12 +3,12 @@ created: 2026-09-10T17:08:34+03:00
 aliases:
   - "Umineko no Naku Koro ni OST - umilse_006"
 Cover: "[[_No Album Art.jpg]]"
-Year: 0
+Year: 2007
 Album: ""
 CoverOf: ""
 Creators:
   - "[[07th Expansion (🎙️ 1075)]]"
-ListenInSec: 43
+ListenInSec: 48
 NumberInAlbum: 0
 related: []
 source: ""

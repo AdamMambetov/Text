@@ -14,7 +14,7 @@ Creators:
   - "[[Maaya Uchida (🎙️ 781)]]"
   - "[[Yurika Kubo (🎙️ 782)]]"
   - "[[Inori Minase (🎙️ 783)]]"
-ListenInSec: 323
+ListenInSec: 562
 NumberInAlbum: 0
 related:
   - "[[Fukashigi no Carte (TV Size) - Nao Touyama (🎧️ 1098)]]"

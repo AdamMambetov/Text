@@ -11,7 +11,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Ikimonogakari (🎙️ 57)]]"
-ListenInSec: 433
+ListenInSec: 668
 NumberInAlbum: 0
 related:
   - "[[Netsujou no Spectrum (TV Size) - Ikimonogakari (🎧️ 1702)]]"

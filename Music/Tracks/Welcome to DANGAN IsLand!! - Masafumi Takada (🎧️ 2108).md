@@ -4,12 +4,12 @@ aliases:
   - "Welcome to DANGAN IsLand!!"
   - "Danganronpa 2 OP 1"
 Cover: "[[Masafumi Takada - Welcome to DANGAN IsLand!!.jpg]]"
-Year: 0
+Year: 2016
 Album: ""
 CoverOf: ""
 Creators:
   - "[[Masafumi Takada (🎙️ 790)]]"
-ListenInSec: 192
+ListenInSec: 342
 NumberInAlbum: 0
 related: []
 source: ""

@@ -7,17 +7,13 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
-CoverOf: ""
 Creators:
   - "[[YOASOBI (🎙️ 657)]]"
-ListenInSec: 2693
 NumberInAlbum: 1
 related:
   - "[[Yuusha (TV Size) - YOASOBI]]"
-source: ""
 SourceFile: "[[YOASOBI - Yuusha.mp3]]"
+ListenInSec: 3273
+CoverOf: ""
 ---
 
-# YOASOBI - Yuusha
-
-![[YOASOBI - Yuusha.mp3]]

@@ -9,7 +9,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Nao Touyama (🎙️ 778)]]"
-ListenInSec: 152
+ListenInSec: 218
 NumberInAlbum: 1
 related:
   - "[[Fukashigi no Carte - Asami Seto (🎧️ 1769)]]"

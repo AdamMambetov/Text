@@ -2,7 +2,7 @@
 created: 2026-09-10T14:06:39+03:00
 aliases:
   - "Sakurakou K-ON Bu"
-ListenInSec: 0
+ListenInSec: 1527
 ---
 
 # Sakurakou K-ON Bu

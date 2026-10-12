@@ -3,12 +3,12 @@ created: 2026-09-22T15:22:16+03:00
 aliases:
   - "Beat It"
 Cover: "[[_No Album Art.jpg]]"
-Year: 0
+Year: 1982
 Album: ""
 CoverOf: ""
 Creators:
   - "[[Michael Jackson (🎙️ 1082)]]"
-ListenInSec: 0
+ListenInSec: 267
 NumberInAlbum: 0
 related: []
 source: ""

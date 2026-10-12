@@ -8,7 +8,7 @@ Album: "[[Naruto OST 3 (📀 17)]]"
 CoverOf: ""
 Creators:
   - "[[Toshio Masuda (🎙️ 557)]]"
-ListenInSec: 151
+ListenInSec: 162
 NumberInAlbum: 20
 related: []
 source:

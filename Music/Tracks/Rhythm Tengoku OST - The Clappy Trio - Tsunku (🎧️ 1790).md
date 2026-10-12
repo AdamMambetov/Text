@@ -1,10 +1,10 @@
 ---
 created: 2025-10-28T22:50:10+03:00
 aliases:
-  - "Rhythm Tengoku OST - The Clappy Trio"
-Cover: "[[Rhythm Tengoku - The Clappy Trio.jpg]]"
-Year: 0
-Album: ""
+  - "The Clappy Trio"
+Cover: "[[Rhythm Tengoku OST.jpg]]"
+Year: 2006
+Album: "[[Rhythm Tengoku OST (📀 51)]]"
 CoverOf: ""
 Creators:
   - "[[Tsunku (🎙️ 981)]]"

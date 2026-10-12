@@ -2,7 +2,7 @@
 created: 2026-03-15T15:50:07+03:00
 aliases:
   - "Yoh Kamiyama"
-ListenInSec: 1448
+ListenInSec: 1569
 ---
 
 # Yoh Kamiyama

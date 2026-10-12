@@ -4,12 +4,12 @@ aliases:
   - "Dernière Danse"
   - "Derniere Danse"
 Cover: "[[_No Album Art.jpg]]"
-Year: 0
+Year: 2013
 Album: ""
 CoverOf: ""
 Creators:
   - "[[Indila (🎙️ 1084)]]"
-ListenInSec: 0
+ListenInSec: 1498
 NumberInAlbum: 0
 related: []
 source: ""

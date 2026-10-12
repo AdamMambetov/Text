@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Kino Nei (🎙️ 17)]]"
-ListenInSec: 931
+ListenInSec: 1473
 NumberInAlbum: 1
 related:
   - "[[Сверху вниз, наискосок - Luck Ganriki (🎧️ 956)]]"

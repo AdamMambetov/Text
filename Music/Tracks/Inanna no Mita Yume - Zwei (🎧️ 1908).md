@@ -5,7 +5,7 @@ aliases:
   - "Umineko no Naku Koro ni OP 2 EP"
   - "Когда плачут чайки OP 2 EP"
 Cover: "[[Zwei - Inanna no Mita Yume.jpg]]"
-Year: 0
+Year: 2012
 Album: ""
 CoverOf: ""
 Creators:

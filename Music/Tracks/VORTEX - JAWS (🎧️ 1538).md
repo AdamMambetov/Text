@@ -5,14 +5,14 @@ aliases:
   - "Link Click OP 2"
   - "Агент Времени OP 2"
 Cover: "[[_No Album Art.jpg]]"
-Year: 0
+Year: 2023
 Album: ""
-CoverOf: ""
 Creators:
   - "[[JAWS (🎙️ 678)]]"
-ListenInSec: 4391
 NumberInAlbum: 0
 related: []
 SourceFile: "[[JAWS - VORTEX.mp3]]"
+ListenInSec: 5384
+CoverOf: ""
 ---
 

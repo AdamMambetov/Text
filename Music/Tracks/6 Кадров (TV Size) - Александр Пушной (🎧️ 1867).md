@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Александр Пушной (🎙️ 80)]]"
-ListenInSec: 453
+ListenInSec: 454
 NumberInAlbum: 0
 related:
   - "[[6 кадров - Александр Пушной (🎧️ 2054)]]"

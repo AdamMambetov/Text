@@ -1,10 +1,10 @@
 ---
 created: 2025-10-28T22:45:42+03:00
 aliases:
-  - "Rhythm Tengoku - Remix 2"
-Cover: "[[Rhythm Tengoku - Remix 2.jpg]]"
-Year: 0
-Album: ""
+  - "Remix 2"
+Cover: "[[Rhythm Tengoku OST.jpg]]"
+Year: 2006
+Album: "[[Rhythm Tengoku OST (📀 51)]]"
 CoverOf: ""
 Creators:
   - "[[Tsunku (🎙️ 981)]]"

@@ -1,14 +1,14 @@
 ---
 created: 2023-09-29T16:23:24+03:00
 aliases:
-  - "Chainsaw Man"
+  - "Chainsaw Man Trailer"
 Cover: "[[Chainsaw Man.png]]"
 Year: 2020
 Album: "[[Chainsaw Man]]"
 CoverOf: ""
 Creators:
   - "[[Chainsaw Man (🎙️ 251)]]"
-ListenInSec: 228
+ListenInSec: 230
 NumberInAlbum: 1
 related: []
 source: ""

@@ -8,7 +8,7 @@ Album: "[[Shiki OST (📀 1)]]"
 CoverOf: ""
 Creators:
   - "[[Yasuharu Takanashi (🎙️ 749)]]"
-ListenInSec: 1468
+ListenInSec: 1469
 NumberInAlbum: 12
 related: []
 SourceFile: "[[Shiki OST - 12 Fir Trees.mp3]]"

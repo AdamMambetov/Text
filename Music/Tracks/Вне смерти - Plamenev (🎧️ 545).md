@@ -9,7 +9,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Plamenev (🎙️ 412)]]"
-ListenInSec: 732
+ListenInSec: 979
 NumberInAlbum: 0
 related:
   - "[[Out of Death - Plamenev (🎧️ 902)]]"

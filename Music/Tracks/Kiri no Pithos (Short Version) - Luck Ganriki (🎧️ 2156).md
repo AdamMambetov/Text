@@ -4,8 +4,8 @@ aliases:
   - "Kiri no Pithos (Short Version)"
   - "Umineko no Naku Koro ni OP 7 EP"
   - "Когда плачут чайки OP 7 EP"
-Cover: "[[_No Album Art.jpg]]"
-Year: 0
+Cover: "[[Umineko no Naku Koro Ni OST 1.jpg]]"
+Year: 2010
 Album: ""
 CoverOf: ""
 Creators:
@@ -14,7 +14,7 @@ Creators:
   - "[[E. Kida (🎙️ 9)]]"
   - "[[Sakura Kanae (🎙️ 21)]]"
   - "[[Kino Nei (🎙️ 17)]]"
-ListenInSec: 110
+ListenInSec: 219
 NumberInAlbum: 0
 related: []
 source: ""

@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Kenichiro Suehiro (🎙️ 748)]]"
-ListenInSec: 332
+ListenInSec: 334
 NumberInAlbum: 6
 related: []
 source: ""

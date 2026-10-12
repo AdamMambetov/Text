@@ -8,7 +8,7 @@ Album: ""
 CoverOf: "[[Papers, Please Theme Song - Lucas Pope (🎧️ 2034)]]"
 Creators:
   - "[[Sheet Music Boss (🎙️ 646)]]"
-ListenInSec: 171
+ListenInSec: 172
 NumberInAlbum: 0
 related: []
 source: ""

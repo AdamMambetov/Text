@@ -6,14 +6,15 @@ aliases:
   - "Sakurada Reset ED 1"
   - "Sagrada Reset ED 1"
 Cover: "[[THE ORAL CIGARETTES - Tonari Au.jpg]]"
-Year: 0
+Year: 2017
 Album: ""
 CoverOf: ""
 Creators:
   - "[[THE ORAL CIGARETTES (🎙️ 823)]]"
-ListenInSec: 1785
+ListenInSec: 2664
 NumberInAlbum: 0
-related: []
+related:
+  - "[[Tonari Au (TV Size) - THE ORAL CIGARETTES (🎧️ 2120)]]"
 source: ""
 SourceFile: "[[THE ORAL CIGARETTES - Tonari Au.mp3]]"
 ---

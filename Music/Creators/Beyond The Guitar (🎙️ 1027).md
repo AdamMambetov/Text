@@ -2,7 +2,7 @@
 created: 2026-09-09T18:11:55+03:00
 aliases:
   - "Beyond The Guitar"
-ListenInSec: 0
+ListenInSec: 216
 ---
 
 # Beyond The Guitar

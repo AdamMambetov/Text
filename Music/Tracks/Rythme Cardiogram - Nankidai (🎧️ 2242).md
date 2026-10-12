@@ -6,21 +6,12 @@ aliases:
 Cover: "[[Your Turn To Die OST.jpg]]"
 Year: 2017
 Album: "[[Your Turn To Die OST (📀 70)]]"
-CoverOf: ""
 Creators:
   - "[[Nankidai (🎙️ 909)]]"
-ListenInSec: 98
 NumberInAlbum: 50
 related: []
-source: ""
 SourceFile: "[[Your Turn To Die OST - 50 Rythme Cardiogram.ogg]]"
+ListenInSec: 448
+CoverOf: ""
 ---
-
-`$=dv.header(1, dv.current().aliases[0])`
-
-![[Your Turn To Die OST - 50 Rythme Cardiogram.ogg]]
-
-## Related Tracks
-
-![[related tracks.base]]
 

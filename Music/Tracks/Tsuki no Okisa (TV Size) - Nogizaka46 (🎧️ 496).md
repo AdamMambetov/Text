@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Nogizaka46 (🎙️ 392)]]"
-ListenInSec: 194
+ListenInSec: 206
 NumberInAlbum: 0
 related: []
 source: ""

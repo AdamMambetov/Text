@@ -3,7 +3,7 @@ created: 2026-06-11T22:23:47+03:00
 aliases:
   - "DEDTALES"
 Cover: "[[LINS - DEDTALES.jpg]]"
-Year: 0
+Year: 2021
 Album: ""
 CoverOf: ""
 Creators:

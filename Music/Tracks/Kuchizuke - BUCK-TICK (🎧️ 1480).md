@@ -10,7 +10,7 @@ Album: "[[Shiki OST (📀 1)]]"
 CoverOf: ""
 Creators:
   - "[[BUCK-TICK (🎙️ 750)]]"
-ListenInSec: 1022
+ListenInSec: 1032
 NumberInAlbum: 24
 related:
   - "[[Kuchizuke (TV Size) - BUCK-TICK (🎧️ 1481)]]"

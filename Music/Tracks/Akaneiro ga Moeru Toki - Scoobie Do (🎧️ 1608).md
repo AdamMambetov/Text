@@ -5,12 +5,12 @@ aliases:
   - "Gungrave ED 1"
   - "Гангрейв ED 1"
 Cover: "[[_No Album Art.jpg]]"
-Year: 0
+Year: 2003
 Album: ""
 CoverOf: ""
 Creators:
   - "[[Scoobie Do (🎙️ 947)]]"
-ListenInSec: 1076
+ListenInSec: 1082
 NumberInAlbum: 0
 related:
   - "[[Akaneiro ga Moeru Toki (TV Size) - Scoobie Do (🎧️ 2097)]]"

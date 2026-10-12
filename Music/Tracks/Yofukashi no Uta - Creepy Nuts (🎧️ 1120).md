@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Creepy Nuts (🎙️ 267)]]"
-ListenInSec: 263
+ListenInSec: 509
 NumberInAlbum: 1
 related:
   - "[[Yofukashi no Uta (TV Size) - Creepy Nuts]]"

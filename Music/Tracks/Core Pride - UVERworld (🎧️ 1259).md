@@ -11,7 +11,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[UVERworld (🎙️ 473)]]"
-ListenInSec: 2686
+ListenInSec: 2943
 NumberInAlbum: 0
 related: []
 source: ""

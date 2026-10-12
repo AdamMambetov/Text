@@ -2,7 +2,7 @@
 created: 2026-08-19T00:22:10+03:00
 aliases:
   - "BLUE ENCOUNT"
-ListenInSec: 289
+ListenInSec: 301
 ---
 
 # BLUE ENCOUNT

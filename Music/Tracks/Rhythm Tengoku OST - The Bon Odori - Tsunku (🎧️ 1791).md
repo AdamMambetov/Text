@@ -1,15 +1,15 @@
 ---
 created: 2025-10-28T22:54:32+03:00
 aliases:
-  - "Rhythm Tengoku OST - The Bon Odori"
-Cover: "[[Rhythm Tengoku - Remix 6.jpg]]"
-Year: 0
-Album: ""
+  - "The Bon Odori"
+Cover: "[[Rhythm Tengoku OST.jpg]]"
+Year: 2006
+Album: "[[Rhythm Tengoku OST (📀 51)]]"
 CoverOf: ""
 Creators:
-  - "[[Tsunku (🎙️ 981)]]"
   - "[[Ami Tokito (🎙️ 998)]]"
-ListenInSec: 1327
+  - "[[Tsunku (🎙️ 981)]]"
+ListenInSec: 1440
 NumberInAlbum: 0
 related: []
 source: ""

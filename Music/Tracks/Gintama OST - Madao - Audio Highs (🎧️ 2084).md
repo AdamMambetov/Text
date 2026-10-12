@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Audio Highs (🎙️ 1054)]]"
-ListenInSec: 194
+ListenInSec: 339
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Utsukushī - Gintama OST - Madao.mp3]]"

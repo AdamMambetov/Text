@@ -10,7 +10,7 @@ Album: "[[STYX HELIX (📀 50)]]"
 CoverOf: ""
 Creators:
   - "[[MYTH & ROID (🎙️ 382)]]"
-ListenInSec: 378
+ListenInSec: 664
 NumberInAlbum: 1
 related:
   - "[[Styx Helix (TV Size) - MYTH & ROID]]"

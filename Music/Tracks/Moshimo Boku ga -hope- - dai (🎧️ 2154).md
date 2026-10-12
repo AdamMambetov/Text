@@ -4,13 +4,13 @@ aliases:
   - "Moshimo Boku ga -hope-"
   - "01_titr"
 Cover: "[[_No Album Art.jpg]]"
-Year: 0
+Year: 2016
 Album: ""
 CoverOf: ""
 Creators:
   - "[[dai (🎙️ 3)]]"
   - "[[nayuta (🎙️ 1069)]]"
-ListenInSec: 227
+ListenInSec: 1115
 NumberInAlbum: 0
 related: []
 source: ""

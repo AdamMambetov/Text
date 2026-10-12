@@ -8,7 +8,7 @@ Album: "[[Sonny Boy OST (📀 41)]]"
 CoverOf: ""
 Creators:
   - "[[Kaneyori Masaru (🎙️ 697)]]"
-ListenInSec: 476
+ListenInSec: 479
 NumberInAlbum: 13
 related: []
 source: ""

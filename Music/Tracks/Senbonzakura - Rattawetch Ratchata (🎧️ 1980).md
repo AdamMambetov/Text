@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Rattawetch Ratchata (🎙️ 1008)]]"
-ListenInSec: 258
+ListenInSec: 507
 NumberInAlbum: 0
 related: []
 source: ""

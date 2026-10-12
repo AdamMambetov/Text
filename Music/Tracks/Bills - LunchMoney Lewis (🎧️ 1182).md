@@ -8,7 +8,7 @@ Album: "[[Bills]]"
 CoverOf: ""
 Creators:
   - "[[LunchMoney Lewis (🎙️ 875)]]"
-ListenInSec: 616
+ListenInSec: 623
 NumberInAlbum: 1
 related: []
 source: ""

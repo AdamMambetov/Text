@@ -4,14 +4,15 @@ aliases:
   - "TIT FOR TAT (TV Size)"
   - "Осторожный герой OP 1"
 Cover: "[[MYTH & ROID - TIT FOR TAT.jpg]]"
-Year: 0
+Year: 2019
 Album: ""
 CoverOf: ""
 Creators:
   - "[[MYTH & ROID (🎙️ 382)]]"
-ListenInSec: 178
+ListenInSec: 1195
 NumberInAlbum: 0
-related: []
+related:
+  - "[[TIT FOR TAT - MYTH & ROID (🎧️ 1477)]]"
 source: ""
 SourceFile: "[[MYTH & ROID - TIT FOR TAT (TV Size).mp3]]"
 ---

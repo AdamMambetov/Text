@@ -10,7 +10,7 @@ Album: "[[Touch off]]"
 CoverOf: ""
 Creators:
   - "[[UVERworld (🎙️ 473)]]"
-ListenInSec: 187
+ListenInSec: 1216
 NumberInAlbum: 1
 related: []
 source: ""

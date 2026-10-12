@@ -8,7 +8,7 @@ Album: "[[Sacrifice]]"
 CoverOf: ""
 Creators:
   - "[[9mm Parabellum Bullet (🎙️ 76)]]"
-ListenInSec: 267
+ListenInSec: 268
 NumberInAlbum: 1
 related: []
 source: ""

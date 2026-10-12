@@ -2,7 +2,7 @@
 created: 2026-03-25T22:53:55+03:00
 aliases:
   - "Kazuki Kato"
-ListenInSec: 1912
+ListenInSec: 2912
 ---
 
 # Kazuki Kato

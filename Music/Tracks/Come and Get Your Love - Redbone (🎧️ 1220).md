@@ -8,7 +8,7 @@ Album: "[[The Essential Redbone]]"
 CoverOf: ""
 Creators:
   - "[[Redbone (🎙️ 884)]]"
-ListenInSec: 2680
+ListenInSec: 2884
 NumberInAlbum: 2
 related: []
 SourceFile: "[[Redbone - Come And Get Your Love.mp3]]"

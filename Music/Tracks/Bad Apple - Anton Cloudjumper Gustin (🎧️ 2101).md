@@ -3,13 +3,13 @@ created: 2026-06-11T23:47:42+03:00
 aliases:
   - "Bad Apple"
 Cover: "[[Cloudjumper - Bad Apple.jpg]]"
-Year: 0
+Year: 2018
 Album: ""
 CoverOf: "[[Bad Apple - Touhou Project (🎧️ 1708)]]"
 Creators:
   - "[[Anton Cloudjumper Gustin (🎙️ 968)]]"
   - "[[Un3h (🎙️ 969)]]"
-ListenInSec: 388
+ListenInSec: 435
 NumberInAlbum: 0
 related: []
 source: ""

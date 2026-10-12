@@ -6,12 +6,12 @@ aliases:
   - "Перезапуск Сакурады OP 1"
   - "Sagrada Reset OP 1"
 Cover: "[[Yui Makino - Reset.jpg]]"
-Year: 0
+Year: 2017
 Album: ""
 CoverOf: ""
 Creators:
   - "[[Yui Makino (🎙️ 824)]]"
-ListenInSec: 3999
+ListenInSec: 5305
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Yui Makino - Reset.mp3]]"

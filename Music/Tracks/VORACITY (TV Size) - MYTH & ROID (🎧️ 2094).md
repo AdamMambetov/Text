@@ -6,12 +6,12 @@ aliases:
   - "Повелитель OP 3"
   - "Оверлорд OP 3"
 Cover: "[[KADOKAWAanime - TVアニメ「オーバーロードⅢ」ノンクレジットOP映像【MYTH&ROID「VORACITY」】.jpg]]"
-Year: 0
+Year: 2018
 Album: ""
 CoverOf: ""
 Creators:
   - "[[MYTH & ROID (🎙️ 382)]]"
-ListenInSec: 447
+ListenInSec: 548
 NumberInAlbum: 0
 related:
   - "[[VORACITY - MYTH & ROID (🎧️ 639)]]"

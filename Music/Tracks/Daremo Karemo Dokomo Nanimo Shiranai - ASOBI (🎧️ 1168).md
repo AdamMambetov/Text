@@ -8,7 +8,7 @@ Album: "[[Tengoku-Daimakyo the Animation ending Theme - Daremo Karemo Dokomo Nan
 CoverOf: ""
 Creators:
   - "[[ASOBI (🎙️ 194)]]"
-ListenInSec: 1681
+ListenInSec: 1908
 NumberInAlbum: 1
 related: []
 SourceFile: "[[ASOBI - Daremo Karemo Dokomo Nanimo Shiranai.mp3]]"

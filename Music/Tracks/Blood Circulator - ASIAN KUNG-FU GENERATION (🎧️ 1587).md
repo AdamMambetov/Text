@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[ASIAN KUNG-FU GENERATION (🎙️ 193)]]"
-ListenInSec: 442
+ListenInSec: 458
 NumberInAlbum: 1
 related: []
 source: ""

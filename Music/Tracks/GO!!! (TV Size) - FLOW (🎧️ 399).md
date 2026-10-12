@@ -7,16 +7,12 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
-CoverOf: ""
 Creators:
   - "[[FLOW (🎙️ 309)]]"
-ListenInSec: 481
 NumberInAlbum: 1
 related: []
-source: ""
 SourceFile: "[[FLOW - GO!!! (TV Size).mp3]]"
+ListenInSec: 3640
+CoverOf: ""
 ---
 
-# FLOW - GO!!! (TV Size)
-
-![[FLOW - GO!!! (TV Size).mp3]]

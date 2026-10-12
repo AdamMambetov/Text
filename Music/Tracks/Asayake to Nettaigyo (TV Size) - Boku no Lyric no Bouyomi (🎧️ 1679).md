@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Boku no Lyric no Bouyomi (🎙️ 638)]]"
-ListenInSec: 269
+ListenInSec: 453
 NumberInAlbum: 0
 related: []
 source: ""

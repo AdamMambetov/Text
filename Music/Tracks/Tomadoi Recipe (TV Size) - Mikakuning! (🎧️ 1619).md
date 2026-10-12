@@ -2,6 +2,8 @@
 created: 2025-01-08T23:41:31+03:00
 aliases:
   - "Tomadoi Recipe (TV Size)"
+  - "Помолвлена с незнакомцом OP 1"
+  - "Mikakunin de Shinkoukei OP 1"
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
@@ -9,7 +11,7 @@ CoverOf: ""
 Creators:
   - "[[Mikakuning! (🎙️ 951)]]"
   - "[[Junky (🎙️ 950)]]"
-ListenInSec: 1690
+ListenInSec: 1890
 NumberInAlbum: 1
 related:
   - "[[Tomadoi Recipe - Mikakuning! (🎧️ 1618)]]"

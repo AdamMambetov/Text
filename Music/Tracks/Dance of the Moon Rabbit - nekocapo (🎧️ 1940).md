@@ -2,13 +2,14 @@
 created: 2026-06-01T14:23:26+03:00
 aliases:
   - "Dance of the Moon Rabbit"
+  - "Танец лунных кроликов"
 Cover: "[[nekocapo - Naku Naku Solo Guitar 2.5.jpg]]"
 Year: 2010
-Album: "[[Naku Naku Solo Guitar 2.5 (📀 56)]]"
-CoverOf: ""
+Album: "[[Naku Naku Solo Guitar 2.5 — nekocapo]]"
+CoverOf: "[[Танец лунных кроликов - dai (🎧️ 1025)]]"
 Creators:
   - "[[nekocapo (🎙️ 1007)]]"
-ListenInSec: 1105
+ListenInSec: 1204
 NumberInAlbum: 1
 related: []
 source: https://youtu.be/JMWPeKdIBCo?si=eNNY02TWEbm0znb_
