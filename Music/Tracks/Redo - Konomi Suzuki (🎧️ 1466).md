@@ -7,13 +7,13 @@ aliases:
 Cover: "[[Konomi Suzuki - Redo.jpg]]"
 Year: 2016
 Album: "[[Redo (📀 49)]]"
+CoverOf: ""
 Creators:
   - "[[Konomi Suzuki (🎙️ 351)]]"
+ListenInSec: 6336
 NumberInAlbum: 1
 related:
   - "[[Redo (TV Size) - Konomi Suzuki (🎧️ 1070)]]"
 SourceFile: "[[Konomi Suzuki - Redo.mp3]]"
-ListenInSec: 6336
-CoverOf: ""
 ---
 

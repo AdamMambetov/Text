@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[TK from Ling tosite sigure (🎙️ 655)]]"
-ListenInSec: 539
+ListenInSec: 847
 NumberInAlbum: 0
 related: []
 source: ""

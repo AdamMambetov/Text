@@ -9,7 +9,7 @@ Album: "[[Rick and Morty]]"
 CoverOf: ""
 Creators:
   - "[[Ryan Elder (🎙️ 852)]]"
-ListenInSec: 126
+ListenInSec: 196
 NumberInAlbum: 1
 related: []
 source: ""

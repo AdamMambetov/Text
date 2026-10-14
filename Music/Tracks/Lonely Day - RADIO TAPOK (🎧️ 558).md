@@ -8,7 +8,7 @@ Album: ""
 CoverOf: "[[Lonely Day - System Of A Down (🎧️ 559)]]"
 Creators:
   - "[[RADIO TAPOK (🎙️ 419)]]"
-ListenInSec: 157
+ListenInSec: 322
 NumberInAlbum: 0
 related: []
 source: ""

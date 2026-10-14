@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Jimmy Gnecco (🎙️ 839)]]"
-ListenInSec: 697
+ListenInSec: 872
 NumberInAlbum: 1
 related: []
 source: ""

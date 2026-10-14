@@ -8,7 +8,7 @@ Album: "[[Umineko no Naku Koro ni OST — 07th Expansion]]"
 CoverOf: ""
 Creators:
   - "[[Luck Ganriki (🎙️ 4)]]"
-ListenInSec: 571
+ListenInSec: 663
 NumberInAlbum: 95
 related:
   - "[[600 миллионов (короткая). До минор, орган - Luck Ganriki (🎧️ 991)]]"

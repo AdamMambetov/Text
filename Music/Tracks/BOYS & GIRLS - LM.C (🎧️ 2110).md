@@ -7,12 +7,12 @@ aliases:
 Cover: "[[LM.C Official - BOYS & GIRLS.jpg]]"
 Year: 2007
 Album: ""
+CoverOf: ""
 Creators:
   - "[[LM.C (🎙️ 825)]]"
+ListenInSec: 6112
 NumberInAlbum: 0
 related: []
 SourceFile: "[[LM.C - BOYS & GIRLS.mp3]]"
-ListenInSec: 5997
-CoverOf: ""
 ---
 

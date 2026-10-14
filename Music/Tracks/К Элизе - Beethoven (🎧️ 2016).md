@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Beethoven (🎙️ 965)]]"
-ListenInSec: 155
+ListenInSec: 306
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Бетховен - К Элизе.mp3]]"

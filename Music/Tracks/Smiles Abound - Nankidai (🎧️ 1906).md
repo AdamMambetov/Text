@@ -9,7 +9,7 @@ Album: "[[Your Turn To Die OST (📀 70)]]"
 CoverOf: ""
 Creators:
   - "[[Nankidai (🎙️ 909)]]"
-ListenInSec: 5817
+ListenInSec: 6324
 NumberInAlbum: 25
 related: []
 SourceFile: "[[Your Turn To Die OST - 25 Smiles Abound.ogg]]"

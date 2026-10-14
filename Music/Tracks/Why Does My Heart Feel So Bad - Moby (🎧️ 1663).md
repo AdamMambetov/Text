@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Moby (🎙️ 378)]]"
-ListenInSec: 616
+ListenInSec: 642
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Moby - Why Does My Heart Feel So Bad.mp3]]"

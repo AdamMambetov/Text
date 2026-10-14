@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[ALI (🎙️ 718)]]"
-ListenInSec: 293
+ListenInSec: 382
 NumberInAlbum: 1
 related: []
 source: ""

@@ -8,14 +8,14 @@ aliases:
 Cover: "[[Radiant Records - Магия.jpg]]"
 Year: 0
 Album: "[[Магия (📀 35)]]"
+CoverOf: "[[Pre-Parade - Kugimiya Rie (🎧️ 1715)]]"
 Creators:
   - "[[Radiant Records (🎙️ 39)]]"
   - "[[Lilaria (🎙️ 54)]]"
   - "[[Nika Lenina (🎙️ 45)]]"
+ListenInSec: 3869
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Radiant Records - Приготовься!.mp3]]"
-ListenInSec: 3869
-CoverOf: "[[Pre-Parade - Kugimiya Rie (🎧️ 1715)]]"
 ---
 

@@ -12,7 +12,7 @@ Creators:
 ListenInSec: 1100
 NumberInAlbum: 0
 related:
-  - "[[Кокон чистых снов -Ricordando il passato- - Shikata Akiko (🎧️ 1103)]]"
+  - "[[Byakumu no Mayu ~Ricordando il passato~ (Short Version) - Shikata Akiko (🎧️ 1103)]]"
 source: ""
 SourceFile: "[[Shikata Akiko - Byakumu no Mayu ~Ricordando il passato~.mp3]]"
 ---

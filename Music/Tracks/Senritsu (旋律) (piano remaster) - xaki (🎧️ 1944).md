@@ -5,12 +5,12 @@ aliases:
 Cover: "[[xaki - Akoustika.jpg]]"
 Year: 2012
 Album: "[[Akoustika (📀 57)]]"
+CoverOf: ""
 Creators:
   - "[[xaki (🎙️ 12)]]"
+ListenInSec: 1028
 NumberInAlbum: 7
 related: []
 SourceFile: "[[xaki - Senritsu (旋律) (piano remaster).mp3]]"
-ListenInSec: 1028
-CoverOf: ""
 ---
 

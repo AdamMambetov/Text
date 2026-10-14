@@ -5,7 +5,7 @@ aliases:
 Cover: "[[String quartet DEQUAR - Music collection from 'Umineko' for Clarinet Quintet and piano.jpg]]"
 Year: 2017
 Album: "[[Music collection from 'Umineko' for Clarinet Quintet and piano (📀 53)]]"
-CoverOf: ""
+CoverOf: "[[600 миллионов (короткая). До минор, орган - Luck Ganriki (🎧️ 991)]]"
 Creators:
   - "[[String quartet DEQUAR (🎙️ 1000)]]"
   - "[[Mai Tanizaki (🎙️ 1003)]]"
@@ -14,7 +14,7 @@ Creators:
   - "[[Natsumi Machida (🎙️ 1006)]]"
   - "[[Masakazu Kurihara (🎙️ 1001)]]"
   - "[[Naoki Kudo (🎙️ 1002)]]"
-ListenInSec: 222
+ListenInSec: 324
 NumberInAlbum: 5
 related: []
 source: https://youtu.be/4o2ldUgeftE?si=t1g5V6ufjSFak1yu

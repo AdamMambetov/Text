@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Metallica (🎙️ 375)]]"
-ListenInSec: 156
+ListenInSec: 306
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Metallica - Die, Die My Darling.mp3]]"

@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Alberto Baldan Bembo (🎙️ 914)]]"
-ListenInSec: 598
+ListenInSec: 777
 NumberInAlbum: 1
 related: []
 source: ""

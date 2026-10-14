@@ -5,12 +5,12 @@ aliases:
 Cover: "[[redballoon - Yuki no Tsubasa (TV Size).jpg]]"
 Year: 0
 Album: ""
+CoverOf: ""
 Creators:
   - "[[redballoon (🎙️ 966)]]"
+ListenInSec: 1308
 NumberInAlbum: 0
 related: []
 SourceFile: "[[redballoon - Yuki no Tsubasa (TV Size).mp3]]"
-ListenInSec: 1308
-CoverOf: ""
 ---
 

@@ -5,11 +5,11 @@ aliases:
 Cover: "[[Jackie-O - Peace Sign.jpg]]"
 Year: 2017
 Album: ""
+CoverOf: "[[Peace Sign - Kenshi Yonezu (🎧️ 141)]]"
 Creators:
   - "[[Jackie-O (🎙️ 337)]]"
+ListenInSec: 782
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Jackie-O - Peace Sign.mp3]]"
-ListenInSec: 782
-CoverOf: "[[Peace Sign - Kenshi Yonezu (🎧️ 141)]]"
 ---

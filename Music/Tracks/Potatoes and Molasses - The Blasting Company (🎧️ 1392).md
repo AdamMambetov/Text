@@ -9,7 +9,7 @@ CoverOf: ""
 Creators:
   - "[[The Blasting Company (🎙️ 917)]]"
   - "[[Colin Dean (🎙️ 924)]]"
-ListenInSec: 157
+ListenInSec: 229
 NumberInAlbum: 1
 related: []
 source: ""

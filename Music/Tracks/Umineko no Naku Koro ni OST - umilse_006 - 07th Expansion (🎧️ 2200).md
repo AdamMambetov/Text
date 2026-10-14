@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[07th Expansion (🎙️ 1075)]]"
-ListenInSec: 48
+ListenInSec: 53
 NumberInAlbum: 0
 related: []
 source: ""

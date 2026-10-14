@@ -12,7 +12,7 @@ Creators:
 ListenInSec: 311
 NumberInAlbum: 47
 related:
-  - "[[Answer_short - dai (🎧️ 2172)]]"
+  - "[[Answer_short - dai (🎧️ 2170)]]"
 source: ""
 SourceFile: "[[Umineko no Naku Koro ni OST - 047 Answer.ogg]]"
 ---

@@ -8,7 +8,7 @@ Album: "[[All Time Best]]"
 CoverOf: ""
 Creators:
   - "[[UVERworld (🎙️ 473)]]"
-ListenInSec: 518
+ListenInSec: 520
 NumberInAlbum: 2
 related: []
 source: ""

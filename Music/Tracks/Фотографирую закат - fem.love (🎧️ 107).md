@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[fem.love (🎙️ 306)]]"
-ListenInSec: 157
+ListenInSec: 312
 NumberInAlbum: 0
 related: []
 SourceFile: "[[fem.love - Фотографирую закат.mp3]]"

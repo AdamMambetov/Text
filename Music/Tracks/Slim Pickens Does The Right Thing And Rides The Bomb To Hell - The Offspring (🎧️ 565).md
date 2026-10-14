@@ -8,7 +8,7 @@ Album: "[[Days Go By]]"
 CoverOf: ""
 Creators:
   - "[[The Offspring (🎙️ 457)]]"
-ListenInSec: 157
+ListenInSec: 313
 NumberInAlbum: 12
 related: []
 source: ""

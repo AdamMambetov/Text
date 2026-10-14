@@ -8,12 +8,12 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 2006
 Album: ""
+CoverOf: ""
 Creators:
   - "[[Kana Yazumi (🎙️ 821)]]"
+ListenInSec: 5797
 NumberInAlbum: 0
 related:
   - "[[Be Strong (TV Size) - Kana Yazumi (🎧️ 2127)]]"
 SourceFile: "[[Kana Yazumi - Be Strong.opus]]"
-ListenInSec: 5797
-CoverOf: ""
 ---

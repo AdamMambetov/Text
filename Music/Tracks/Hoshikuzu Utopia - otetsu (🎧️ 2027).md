@@ -6,13 +6,13 @@ aliases:
 Cover: "[[otetsu - Hoshikuzu Utopia.jpg]]"
 Year: 2009
 Album: ""
+CoverOf: ""
 Creators:
   - "[[otetsu (🎙️ 401)]]"
   - "[[Megurine Luka (🎙️ 1064)]]"
+ListenInSec: 5717
 NumberInAlbum: 0
 related: []
 SourceFile: "[[otetsu - Hoshikuzu Utopia.mp3]]"
-ListenInSec: 5715
-CoverOf: ""
 ---
 

@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "21242bd0528152f2",
+            "id": "e9a665767e36d00d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tracks/Happy! Lucky! Dochy! - Tamura Yukari (🎧️ 2087).md",
-                "mode": "source",
+                "file": "Tracks/Organ short 600 million in C minor - String quartet DEQUAR (🎧️ 1914).md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Happy! Lucky! Dochy! - Tamura Yukari (🎧️ 2087)"
+              "title": "Organ short 600 million in C minor - String quartet DEQUAR (🎧️ 1914)"
             }
           }
         ]
@@ -89,7 +89,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Tracks/Smiles Abound - Nankidai (🎧️ 1906).md",
+            "file": "Tracks/Organ short 600 million in C minor - String quartet DEQUAR (🎧️ 1914).md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -128,8 +128,24 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "21242bd0528152f2",
+  "active": "e9a665767e36d00d",
   "lastOpenFiles": [
+    "Tracks/Organ Short 600 Million in C Minor - nekocapo (🎧️ 1934).md",
+    "Albums/Naku Naku Solo Guitar 2 (📀 55).md",
+    "Tracks/About Face - nekocapo (🎧️ 1935).md",
+    "Albums/Naku Naku Solo Guitar (📀 54).md",
+    "Playlists/Мем (💿 15).md",
+    "Tracks/Let It Go - Scatman John (🎧️ 623).md",
+    "Creators/Jimmy Gnecco (🎙️ 839).md",
+    "Tracks/Whacked Out Conspiracy - James Dooley (🎧️ 1421).md",
+    "Creators/James Dooley (🎙️ 788).md",
+    "Creators/Eriko Shimizu (🎙️ 1004).md",
+    "Tracks/Burn It Down! - Alan Silvestri (🎧️ 653).md",
+    "Playlists/Любовь (💿 21).md",
+    "Tracks/Guardian of the Galaxy OST - The Rubberband Man - The Spinners (🎧️ 1673).md",
+    "Creators/Paul Linford (🎙️ 985).md",
+    "Tracks/Happy! Lucky! Dochy! - Tamura Yukari (🎧️ 2087).md",
+    "2026-10-09-postgresql.log",
     "Playlists/100% Шедевр (💿 6).md",
     "Albums/ПЕРЕПУТЬЕ (📀 33).md",
     "Albums/8 Mile OST (📀 2).md",
@@ -142,21 +158,6 @@
     "Tracks/Warriors - League of Legends (🎧️ 167).md",
     "Tracks/Hitorigoto (TV Size) (🎧️ 983).md",
     "Tracks/Hitorigoto - Sati Akura (🎧️ 469).md",
-    "Tracks/Hitorigoto (🎧️ 1447).md",
-    "Tracks/Hitorigoto (🎧️ 1448).md",
-    "Tracks/The WORLD - Игорь Куликов (🎧️ 1346).md",
-    "Tracks/Trip Innocent of D (🎧️ 1546).md",
-    "Tracks/Trip Innocent of D (🎧️ 779).md",
-    "Tracks/Lagtrain (Russian ver.) - Sati Akura (🎧️ 1379).md",
-    "Tracks/Tabi no Tochuu Full (Spice and Wolf OP) (Feat. ASMO) - Marie Bibika (🎧️ 1563).md",
-    "Tracks/Tabi No Tochu (🎧️ 1528).md",
-    "Tracks/Kina No Kaori ~Ai No Shiren!~ (🎧️ 1564).md",
-    "Tracks/Story (🎧️ 1565).md",
-    "Tracks/Story (🎧️ 1566).md",
-    "Tracks/IDOL (🎧️ 1570).md",
-    "Tracks/Main theme from HoMM V (🎧️ 1573).md",
-    "Tracks/Grass Theme From HoMM II (🎧️ 1574).md",
-    "Tracks/Find the Flame (🎧️ 1575).md",
-    "Tracks/Red Fraction (🎧️ 1580).md"
+    "Tracks/Hitorigoto (🎧️ 1447).md"
   ]
 }

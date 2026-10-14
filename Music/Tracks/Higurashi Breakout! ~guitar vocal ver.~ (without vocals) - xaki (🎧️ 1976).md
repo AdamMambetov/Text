@@ -5,12 +5,12 @@ aliases:
 Cover: "[[xaki - Akoustika XI.jpg]]"
 Year: 2018
 Album: "[[Akoustika XI (📀 67)]]"
+CoverOf: ""
 Creators:
   - "[[xaki (🎙️ 12)]]"
+ListenInSec: 489
 NumberInAlbum: 5
 related: []
 SourceFile: "[[xaki - Higurashi Breakout! ~guitar vocal ver.~ (without vocals).mp3]]"
-ListenInSec: 489
-CoverOf: ""
 ---
 

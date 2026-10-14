@@ -7,14 +7,14 @@ aliases:
 Cover: "[[AKINO with bless4 - Extra Magic Hour.jpg]]"
 Year: 2014
 Album: ""
+CoverOf: ""
 Creators:
   - "[[AKINO (🎙️ 160)]]"
   - "[[bless4 (🎙️ 161)]]"
+ListenInSec: 3484
 NumberInAlbum: 0
 related:
   - "[[Extra Magic Hour (TV Size) - AKINO (🎧️ 2141)]]"
 SourceFile: "[[AKINO with bless4 - Extra Magic Hour.mp3]]"
-ListenInSec: 3484
-CoverOf: ""
 ---
 

@@ -5,12 +5,12 @@ aliases:
 Cover: "[[nekocapo - Naku Naku Solo Guitar.jpg]]"
 Year: 2009
 Album: "[[Naku Naku Solo Guitar (📀 54)]]"
+CoverOf: ""
 Creators:
   - "[[nekocapo (🎙️ 1007)]]"
+ListenInSec: 2677
 NumberInAlbum: 4
 related: []
 SourceFile: "[[nekocapo - Sakutarou's Adventure.mp3]]"
-ListenInSec: 2542
-CoverOf: ""
 ---
 

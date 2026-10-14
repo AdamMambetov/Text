@@ -6,13 +6,13 @@ aliases:
 Cover: "[[xaki - Akoustika VII.jpg]]"
 Year: 2016
 Album: "[[Akoustika VII — xaki]]"
+CoverOf: ""
 Creators:
   - "[[xaki (🎙️ 12)]]"
+ListenInSec: 5847
 NumberInAlbum: 4
 related:
-  - "[[Круговорот жизни и смерти - xaki (🎧️ 931)]]"
+  - "[[l&d-circulation - xaki (🎧️ 931)]]"
 SourceFile: "[[xaki - l&d-circulation ~guitar inst ver.~.mp3]]"
-ListenInSec: 5726
-CoverOf: ""
 ---
 

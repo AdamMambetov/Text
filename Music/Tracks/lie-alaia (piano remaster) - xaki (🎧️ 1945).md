@@ -11,7 +11,7 @@ Creators:
 ListenInSec: 812
 NumberInAlbum: 8
 related:
-  - "[[Путальница-ложь - xaki (🎧️ 937)]]"
+  - "[[lie-alaia - xaki (🎧️ 937)]]"
 source: https://youtu.be/i9VloZ_UdWk?si=9BRepwALbQDekWYM
 SourceFile: "[[xaki - lie-alaia (piano remaster).mp3]]"
 ---

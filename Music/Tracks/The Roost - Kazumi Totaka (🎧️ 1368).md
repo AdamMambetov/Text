@@ -10,7 +10,7 @@ Creators:
   - "[[Kazumi Totaka (🎙️ 910)]]"
   - "[[Manaka Kataoka (🎙️ 911)]]"
   - "[[Atsuku Asahi (🎙️ 912)]]"
-ListenInSec: 362
+ListenInSec: 528
 NumberInAlbum: 1
 related: []
 source: ""

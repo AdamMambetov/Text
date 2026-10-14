@@ -7,12 +7,12 @@ aliases:
 Cover: "[[supercell - My Dearest (TV Size).jpg]]"
 Year: 2011
 Album: ""
+CoverOf: ""
 Creators:
   - "[[supercell (🎙️ 59)]]"
+ListenInSec: 3763
 NumberInAlbum: 0
 related:
   - "[[My Dearest (TV Size) - supercell (🎧️ 2095)]]"
 SourceFile: "[[supercell - My Dearest.mp3]]"
-ListenInSec: 3763
-CoverOf: ""
 ---

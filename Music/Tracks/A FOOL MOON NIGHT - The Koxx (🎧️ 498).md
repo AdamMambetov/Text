@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[The Koxx (🎙️ 456)]]"
-ListenInSec: 865
+ListenInSec: 868
 NumberInAlbum: 0
 related: []
 SourceFile: "[[The Koxx - A FOOL MOON NIGHT.mp3]]"

@@ -8,7 +8,7 @@ Album: "[[Один во вселенной]]"
 CoverOf: ""
 Creators:
   - "[[Vere Dictum (🎙️ 475)]]"
-ListenInSec: 225
+ListenInSec: 306
 NumberInAlbum: 14
 related: []
 source: ""

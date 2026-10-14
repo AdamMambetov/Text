@@ -8,7 +8,7 @@ Album: "[[The Shadow Side]]"
 CoverOf: ""
 Creators:
   - "[[Andy Black (🎙️ 182)]]"
-ListenInSec: 262
+ListenInSec: 267
 NumberInAlbum: 2
 related: []
 source: ""

@@ -9,7 +9,7 @@ CoverOf: ""
 Creators:
   - "[[Jeff Williams (🎙️ 567)]]"
   - "[[Casey Lee Williams (🎙️ 568)]]"
-ListenInSec: 160
+ListenInSec: 234
 NumberInAlbum: 1
 related: []
 source:

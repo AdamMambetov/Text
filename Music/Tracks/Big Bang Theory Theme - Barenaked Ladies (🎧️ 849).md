@@ -8,7 +8,7 @@ Album: "[[2008-12-31: New Years Eve at the Fox Theatre: Detroit, MI, USA]]"
 CoverOf: ""
 Creators:
   - "[[Barenaked Ladies (🎙️ 211)]]"
-ListenInSec: 109
+ListenInSec: 122
 NumberInAlbum: 27
 related: []
 source: ""

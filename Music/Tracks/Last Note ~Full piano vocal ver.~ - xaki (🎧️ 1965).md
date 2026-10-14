@@ -5,12 +5,12 @@ aliases:
 Cover: "[[xaki - Akoustika VII.jpg]]"
 Year: 2016
 Album: "[[Akoustika VII (📀 63)]]"
+CoverOf: ""
 Creators:
   - "[[xaki (🎙️ 12)]]"
+ListenInSec: 807
 NumberInAlbum: 7
 related: []
 SourceFile: "[[xaki - Last Note ~Full piano vocal ver.~.mp3]]"
-ListenInSec: 807
-CoverOf: ""
 ---
 

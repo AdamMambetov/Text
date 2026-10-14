@@ -9,7 +9,7 @@ CoverOf: ""
 Creators:
   - "[[Heroes Orchestra (🎙️ 770)]]"
   - "[[Paul Romero (🎙️ 771)]]"
-ListenInSec: 703
+ListenInSec: 786
 NumberInAlbum: 1
 related: []
 source: https://youtu.be/lLFgcPWu2KQ?si=ro8SzikVeSIHlznW

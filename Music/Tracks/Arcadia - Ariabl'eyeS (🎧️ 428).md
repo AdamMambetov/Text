@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Ariabl'eyeS (🎙️ 189)]]"
-ListenInSec: 148
+ListenInSec: 275
 NumberInAlbum: 0
 related: []
 source: ""

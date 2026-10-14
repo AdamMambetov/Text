@@ -13,7 +13,7 @@ Creators:
 ListenInSec: 1179
 NumberInAlbum: 0
 related:
-  - "[[Kesenai Tsumi - Nana Kitade (🎧️ 2151)]]"
+  - "[[Kesenai Tsumi - Nana Kitade (🎧️ 2150)]]"
 SourceFile: "[[Nana Kitade - Kesenai Tsumi (TV Size).opus]]"
 ---
 

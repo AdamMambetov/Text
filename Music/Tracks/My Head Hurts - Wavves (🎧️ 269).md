@@ -8,7 +8,7 @@ Album: "[[V [2015] {Wavves}]]"
 CoverOf: ""
 Creators:
   - "[[Wavves (🎙️ 478)]]"
-ListenInSec: 172
+ListenInSec: 273
 NumberInAlbum: 5
 related: []
 source: ""

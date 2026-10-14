@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Hiroyuki Sawano (🎙️ 327)]]"
-ListenInSec: 471
+ListenInSec: 689
 NumberInAlbum: 0
 related: []
 source: ""

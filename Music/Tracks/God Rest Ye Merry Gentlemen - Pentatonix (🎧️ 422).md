@@ -8,7 +8,7 @@ Album: "[[The Best Of Pentatonix Christmas]]"
 CoverOf: ""
 Creators:
   - "[[Pentatonix (🎙️ 572)]]"
-ListenInSec: 149
+ListenInSec: 298
 NumberInAlbum: 10
 related: []
 source:

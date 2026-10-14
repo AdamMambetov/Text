@@ -8,7 +8,7 @@ Album: ""
 CoverOf: "[[Insane - Black GryphOn (🎧️ 685)]]"
 Creators:
   - "[[DiWilliam (🎙️ 60)]]"
-ListenInSec: 159
+ListenInSec: 319
 NumberInAlbum: 0
 related: []
 source: ""

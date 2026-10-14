@@ -8,7 +8,7 @@ Album: "[[Hallelujah]]"
 CoverOf: "[[Hallelujah - Rufus Wainwright (🎧️ 301)]]"
 Creators:
   - "[[Theory Of A Deadman (🎙️ 464)]]"
-ListenInSec: 116
+ListenInSec: 399
 NumberInAlbum: 1
 related: []
 source: ""

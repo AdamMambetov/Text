@@ -9,7 +9,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[MoozE (🎙️ 1042)]]"
-ListenInSec: 64
+ListenInSec: 70
 NumberInAlbum: 0
 related: []
 source: ""

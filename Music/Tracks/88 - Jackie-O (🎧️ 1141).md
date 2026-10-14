@@ -10,7 +10,7 @@ Album: ""
 CoverOf: "[[88 - LM.C (🎧️ 2085)]]"
 Creators:
   - "[[Jackie-O (🎙️ 337)]]"
-ListenInSec: 241
+ListenInSec: 243
 NumberInAlbum: 0
 related: []
 source: ""

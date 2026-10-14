@@ -5,12 +5,12 @@ aliases:
 Cover: "[[xaki - Akoustika IX.jpg]]"
 Year: 2017
 Album: "[[Akoustika IX (📀 65)]]"
+CoverOf: ""
 Creators:
   - "[[xaki (🎙️ 12)]]"
+ListenInSec: 300
 NumberInAlbum: 4
 related: []
 SourceFile: "[[xaki - rainy-report ~piano guitar vocal ver.~ (without vocal).mp3]]"
-ListenInSec: 300
-CoverOf: ""
 ---
 

@@ -8,7 +8,7 @@ Album: "[[Mozart l'Opera Rock]]"
 CoverOf: ""
 Creators:
   - "[[Mozart l'Opera Rock (🎙️ 379)]]"
-ListenInSec: 505
+ListenInSec: 528
 NumberInAlbum: 3
 related: []
 source: ""

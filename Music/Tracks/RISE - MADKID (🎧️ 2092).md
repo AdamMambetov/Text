@@ -6,13 +6,13 @@ aliases:
 Cover: "[[MADKID OFFICIAL - MADKID ⧸ RISE [Music Video] ('The Rising of the Shield Hero' Opening Theme).jpg]]"
 Year: 2019
 Album: ""
+CoverOf: ""
 Creators:
   - "[[MADKID (🎙️ 793)]]"
+ListenInSec: 4567
 NumberInAlbum: 0
 related:
   - "[[RISE (TV Size) - MADKID (🎧️ 2091)]]"
 SourceFile: "[[MADKID - RISE.mp3]]"
-ListenInSec: 4567
-CoverOf: ""
 ---
 

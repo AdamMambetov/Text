@@ -8,7 +8,7 @@ Album: "[[Back In Black]]"
 CoverOf: ""
 Creators:
   - "[[AC DC (🎙️ 144)]]"
-ListenInSec: 247
+ListenInSec: 259
 NumberInAlbum: 6
 related: []
 source: ""

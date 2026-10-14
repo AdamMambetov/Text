@@ -2,7 +2,7 @@
 created: 2026-07-11T11:37:51+03:00
 aliases:
   - "Inori Minase"
-ListenInSec: 713
+ListenInSec: 764
 ---
 
 # Inori Minase

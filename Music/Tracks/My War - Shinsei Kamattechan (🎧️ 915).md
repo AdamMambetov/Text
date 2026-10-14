@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Shinsei Kamattechan (🎙️ 651)]]"
-ListenInSec: 552
+ListenInSec: 830
 NumberInAlbum: 0
 related: []
 source: ""

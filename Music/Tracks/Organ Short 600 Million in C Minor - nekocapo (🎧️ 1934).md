@@ -5,10 +5,10 @@ aliases:
 Cover: "[[nekocapo - Naku Naku Solo Guitar 2.jpg]]"
 Year: 2009
 Album: "[[Naku Naku Solo Guitar 2 (📀 55)]]"
-CoverOf: ""
+CoverOf: "[[600 миллионов (короткая). До минор, орган - Luck Ganriki (🎧️ 991)]]"
 Creators:
   - "[[nekocapo (🎙️ 1007)]]"
-ListenInSec: 393
+ListenInSec: 524
 NumberInAlbum: 4
 related: []
 source: https://youtu.be/d-8O9oNmRZc?si=oNBkrXk9hidyyP8Z

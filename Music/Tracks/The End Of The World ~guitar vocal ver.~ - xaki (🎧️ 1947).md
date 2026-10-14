@@ -11,7 +11,7 @@ Creators:
 ListenInSec: 1065
 NumberInAlbum: 1
 related:
-  - "[[The End Of The World - sunny (🎧️ 2191)]]"
+  - "[[The End Of The World - xaki (🎧️ 2191)]]"
   - "[[The End Of The World (without vocal) - xaki (🎧️ 1948)]]"
   - "[[The End Of The World ~piano inst ver.~ - xaki (🎧️ 1943)]]"
 source: https://youtu.be/mtiuqNQVTYc?si=efeG12OUBIvky2eI

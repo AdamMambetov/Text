@@ -8,7 +8,7 @@ Album: "[[The Best of Kansas]]"
 CoverOf: ""
 Creators:
   - "[[Kansas (🎙️ 345)]]"
-ListenInSec: 160
+ListenInSec: 483
 NumberInAlbum: 1
 related: []
 source: ""

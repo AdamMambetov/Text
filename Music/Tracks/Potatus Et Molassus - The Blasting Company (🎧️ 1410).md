@@ -9,7 +9,7 @@ CoverOf: ""
 Creators:
   - "[[The Blasting Company (🎙️ 917)]]"
   - "[[Audio Clayton (🎙️ 934)]]"
-ListenInSec: 152
+ListenInSec: 153
 NumberInAlbum: 1
 related: []
 source: ""

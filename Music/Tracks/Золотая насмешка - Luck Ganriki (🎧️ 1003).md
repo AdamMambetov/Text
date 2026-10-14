@@ -5,12 +5,12 @@ aliases:
 Cover: "[[Umineko no Naku Koro Ni OST 1.jpg]]"
 Year: 2007
 Album: "[[Umineko no Naku Koro ni OST — 07th Expansion]]"
+CoverOf: ""
 Creators:
   - "[[Luck Ganriki (🎙️ 4)]]"
+ListenInSec: 5482
 NumberInAlbum: 44
 related: []
 SourceFile: "[[Umineko no Naku Koro ni OST - 044 Золотая насмешка.ogg]]"
-ListenInSec: 5482
-CoverOf: ""
 ---
 

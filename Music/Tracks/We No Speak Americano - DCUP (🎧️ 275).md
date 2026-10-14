@@ -8,7 +8,7 @@ Album: "[[We No Speak Americano [2020] {Yolanda Be Cool; DCUP}]]"
 CoverOf: ""
 Creators:
   - "[[DCUP (🎙️ 278)]]"
-ListenInSec: 155
+ListenInSec: 312
 NumberInAlbum: 6
 related: []
 source: ""

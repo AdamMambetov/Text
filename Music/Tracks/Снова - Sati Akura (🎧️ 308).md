@@ -11,7 +11,7 @@ Album: ""
 CoverOf: "[[Again - YUI (🎧️ 1148)]]"
 Creators:
   - "[[Sati Akura (🎙️ 355)]]"
-ListenInSec: 487
+ListenInSec: 657
 NumberInAlbum: 0
 related: []
 source: ""

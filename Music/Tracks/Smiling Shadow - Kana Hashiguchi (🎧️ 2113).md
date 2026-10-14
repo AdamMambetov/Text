@@ -8,7 +8,7 @@ Album: "[[Classroom of the Elite 2-3 OST (📀 69)]]"
 CoverOf: ""
 Creators:
   - "[[Kana Hashiguchi (🎙️ 1061)]]"
-ListenInSec: 115
+ListenInSec: 220
 NumberInAlbum: 20
 related: []
 source: ""

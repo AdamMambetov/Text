@@ -231,7 +231,7 @@ tracklist:
   - "[[History Maker (TV Size) - Dean Fujioka (🎧️ 1732)]]"
   - "[[WORK (TV Size) - millennium parade (🎧️ 1717)]]"
   - "[[last cross - Masami Mitsuoka (🎧️ 1998)]]"
-  - "[[INTERTIA - Hiroyuki Sawano (🎧️ 2068)]]"
+  - "[[INERTIA - Hiroyuki Sawano (🎧️ 2068)]]"
   - "[[Sakuramitsutsuki (TV Size) - SPYAIR (🎧️ 2093)]]"
   - "[[Rage on (TV Size) - OLDCODEX (🎧️ 2096)]]"
   - "[[TIT FOR TAT (TV Size) - MYTH & ROID (🎧️ 2090)]]"
@@ -276,7 +276,7 @@ tracklist:
   - "[[Reset - Yui Makino (🎧️ 2123)]]"
   - "[[Reset (TV Size) - Yui Makino (🎧️ 2122)]]"
   - "[[VORACITY (TV Size) - MYTH & ROID (🎧️ 2094)]]"
-  - "[[JINGO JUNGLE (TV Size) - MYTH & ROID (🎧️ 2152)]]"
+  - "[[JINGO JUNGLE (TV Size) - MYTH & ROID (🎧️ 2148)]]"
   - "[[Steppin' Out (TV Size) - FLOW (🎧️ 1687)]]"
   - "[[Megumeru (TV Size) - Eufonius (🎧️ 1746)]]"
   - "[[My Soul, Your Beats! - Lia (🎧️ 1744)]]"
@@ -284,11 +284,11 @@ tracklist:
   - "[[Toki wo Kizamu Uta (TV Size) - Lia (🎧️ 1747)]]"
   - "[[Irokousui (TV Size) - Yoh Kamiyama (🎧️ 1684)]]"
   - "[[88 - LM.C (🎧️ 2085)]]"
-  - "[[KISS OF DEATH - Mika Nakashima (🎧️ 2271)]]"
+  - "[[KISS OF DEATH - Mika Nakashima (🎧️ 2272)]]"
   - "[[KISS OF DEATH (TV Size) - Mika Nakashima (🎧️ 2089)]]"
-  - "[[Yume no Ito (TV Size) - Kitou Akari (🎧️ 2150)]]"
-  - "[[Wanna b (TV Size) - TeddyLoid (🎧️ 2149)]]"
-  - "[[INTERTIA (TV Size) - Hiroyuki Sawano (🎧️ 2071)]]"
+  - "[[Yume no Ito (TV Size) - Kitou Akari (🎧️ 2153)]]"
+  - "[[Wanna b (TV Size) - TeddyLoid (🎧️ 2152)]]"
+  - "[[INERTIA (TV Size) - Hiroyuki Sawano (🎧️ 2071)]]"
 ---
 
 # Anime Openings

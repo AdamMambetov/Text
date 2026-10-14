@@ -8,7 +8,7 @@ Album: "[[Tommy-Gun]]"
 CoverOf: ""
 Creators:
   - "[[Royal Republic (🎙️ 640)]]"
-ListenInSec: 160
+ListenInSec: 314
 NumberInAlbum: 1
 related: []
 source: ""

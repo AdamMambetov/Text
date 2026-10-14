@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[DeadLock (🎙️ 280)]]"
-ListenInSec: 1732
+ListenInSec: 1871
 NumberInAlbum: 0
 related: []
 source: ""

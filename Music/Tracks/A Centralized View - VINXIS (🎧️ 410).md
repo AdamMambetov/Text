@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[VINXIS (🎙️ 498)]]"
-ListenInSec: 200
+ListenInSec: 275
 NumberInAlbum: 1
 related: []
 source:

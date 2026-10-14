@@ -14,7 +14,7 @@ CoverOf: "[[ReRe - ASIAN KUNG-FU GENERATION (🎧️ 734)]]"
 Creators:
   - "[[Radiant Records (🎙️ 39)]]"
   - "[[Radiant (🎙️ 40)]]"
-ListenInSec: 229
+ListenInSec: 456
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Radiant Records - Снова.mp3]]"

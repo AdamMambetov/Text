@@ -7,12 +7,12 @@ aliases:
 Cover: "[[SPLAY - Drawing days.jpg]]"
 Year: 0
 Album: ""
+CoverOf: ""
 Creators:
   - "[[SPLAY (🎙️ 801)]]"
+ListenInSec: 5709
 NumberInAlbum: 0
 related: []
 SourceFile: "[[SPLAY - Drawing Days.mp3]]"
-ListenInSec: 5699
-CoverOf: ""
 ---
 

@@ -8,7 +8,7 @@ Album: "[[The Great War]]"
 CoverOf: ""
 Creators:
   - "[[Sabaton (🎙️ 430)]]"
-ListenInSec: 580
+ListenInSec: 581
 NumberInAlbum: 3
 related: []
 source: ""

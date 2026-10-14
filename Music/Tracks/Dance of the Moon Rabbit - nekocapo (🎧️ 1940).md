@@ -6,7 +6,7 @@ aliases:
 Cover: "[[nekocapo - Naku Naku Solo Guitar 2.5.jpg]]"
 Year: 2010
 Album: "[[Naku Naku Solo Guitar 2.5 — nekocapo]]"
-CoverOf: "[[Танец лунных кроликов - dai (🎧️ 1025)]]"
+CoverOf: "[[Dance of the Moon Rabbits - dai (🎧️ 1025)]]"
 Creators:
   - "[[nekocapo (🎙️ 1007)]]"
 ListenInSec: 1204

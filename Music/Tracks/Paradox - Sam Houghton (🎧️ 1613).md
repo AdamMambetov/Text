@@ -5,13 +5,13 @@ aliases:
 Cover: "[[BPM OST.jpg]]"
 Year: 2020
 Album: "[[BPM OST (📀 40)]]"
+CoverOf: ""
 Creators:
   - "[[Sam Houghton (🎙️ 673)]]"
   - "[[Joe Collinson (🎙️ 674)]]"
+ListenInSec: 3775
 NumberInAlbum: 9
 related: []
 SourceFile: "[[BPM OST - 05 Paradox.mp3]]"
-ListenInSec: 3775
-CoverOf: ""
 ---
 

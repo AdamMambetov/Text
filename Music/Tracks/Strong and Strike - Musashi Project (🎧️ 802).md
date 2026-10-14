@@ -9,7 +9,7 @@ Album: "[[Naruto OST 1 — Toshio Masuda]]"
 CoverOf: ""
 Creators:
   - "[[Musashi Project (🎙️ 558)]]"
-ListenInSec: 150
+ListenInSec: 277
 NumberInAlbum: 18
 related: []
 source:

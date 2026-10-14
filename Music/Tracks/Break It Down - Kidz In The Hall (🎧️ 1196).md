@@ -8,7 +8,7 @@ Album: "[[Occasion]]"
 CoverOf: ""
 Creators:
   - "[[Kidz In The Hall (🎙️ 877)]]"
-ListenInSec: 555
+ListenInSec: 694
 NumberInAlbum: 3
 related: []
 source: ""

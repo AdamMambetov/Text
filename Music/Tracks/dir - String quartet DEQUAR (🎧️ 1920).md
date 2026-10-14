@@ -14,7 +14,7 @@ Creators:
   - "[[Natsumi Machida (🎙️ 1006)]]"
   - "[[Masakazu Kurihara (🎙️ 1001)]]"
   - "[[Naoki Kudo (🎙️ 1002)]]"
-ListenInSec: 143
+ListenInSec: 212
 NumberInAlbum: 11
 related: []
 source: https://youtu.be/VERD6yTRTOo?si=4hCBo6_cmkklKjcz

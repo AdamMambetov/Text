@@ -8,7 +8,7 @@ Album: "[[Rotten Apples (Original Animation Soundtrack)]]"
 CoverOf: ""
 Creators:
   - "[[Packtion (🎙️ 913)]]"
-ListenInSec: 183
+ListenInSec: 273
 NumberInAlbum: 1
 related: []
 source: ""

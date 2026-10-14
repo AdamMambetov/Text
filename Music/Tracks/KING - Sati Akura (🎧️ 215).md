@@ -8,7 +8,7 @@ Album: ""
 CoverOf: "[[KING - Kanaria]]"
 Creators:
   - "[[Sati Akura (🎙️ 355)]]"
-ListenInSec: 158
+ListenInSec: 291
 NumberInAlbum: 0
 related: []
 source: https://www.youtube.com/watch?v=mo3oFeaBi5o

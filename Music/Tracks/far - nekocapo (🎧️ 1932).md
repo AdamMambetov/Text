@@ -5,12 +5,12 @@ aliases:
 Cover: "[[nekocapo - Naku Naku Solo Guitar 2.jpg]]"
 Year: 2009
 Album: "[[Naku Naku Solo Guitar 2 (📀 55)]]"
+CoverOf: ""
 Creators:
   - "[[nekocapo (🎙️ 1007)]]"
+ListenInSec: 465
 NumberInAlbum: 2
 related: []
 SourceFile: "[[nekocapo - far.mp3]]"
-ListenInSec: 465
-CoverOf: ""
 ---
 

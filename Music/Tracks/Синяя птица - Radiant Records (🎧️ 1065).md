@@ -12,7 +12,7 @@ CoverOf: "[[Blue Bird - Ikimonogakari (🎧️ 1474)]]"
 Creators:
   - "[[Radiant Records (🎙️ 39)]]"
   - "[[Nanami (🎙️ 41)]]"
-ListenInSec: 414
+ListenInSec: 627
 NumberInAlbum: 0
 related:
   - "[[Синяя птица (TV Size) - Radiant Records (🎧️ 637)]]"

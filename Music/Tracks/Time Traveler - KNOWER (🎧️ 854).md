@@ -5,12 +5,12 @@ aliases:
 Cover: "[[KNOWER - Time Traveler.jpg]]"
 Year: 2013
 Album: ""
+CoverOf: ""
 Creators:
   - "[[KNOWER (🎙️ 350)]]"
+ListenInSec: 3894
 NumberInAlbum: 0
 related: []
 SourceFile: "[[KNOWER - Time Traveler.mp3]]"
-ListenInSec: 3894
-CoverOf: ""
 ---
 

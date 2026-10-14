@@ -8,11 +8,11 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 2010
 Album: ""
+CoverOf: ""
 Creators:
   - "[[GALNERYUS (🎙️ 313)]]"
+ListenInSec: 5294
 NumberInAlbum: 0
 related: []
 SourceFile: "[[GALNERYUS - A FAR-OFF DISTANCE.opus]]"
-ListenInSec: 5293
-CoverOf: ""
 ---
