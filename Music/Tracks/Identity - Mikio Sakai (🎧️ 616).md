@@ -9,7 +9,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Mikio Sakai (🎙️ 741)]]"
-ListenInSec: 3315
+ListenInSec: 3554
 NumberInAlbum: 0
 related:
   - "[[Identity (TV Size) - Mikio Sakai]]"

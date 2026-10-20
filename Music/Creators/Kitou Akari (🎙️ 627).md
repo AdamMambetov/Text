@@ -2,7 +2,7 @@
 created: 2026-02-23T18:14:32+03:00
 aliases:
   - "Kitou Akari"
-ListenInSec: 1952
+ListenInSec: 2042
 ---
 
 # Kitou Akari

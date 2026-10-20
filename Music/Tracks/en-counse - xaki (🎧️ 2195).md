@@ -8,7 +8,7 @@ Album: "[[Umineko no Naku Koro ni OST — 07th Expansion]]"
 CoverOf: ""
 Creators:
   - "[[xaki (🎙️ 12)]]"
-ListenInSec: 808
+ListenInSec: 894
 NumberInAlbum: 190
 related:
   - "[[en-counse (piano remaster) - xaki (🎧️ 1946)]]"

@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Nana Kitade (🎙️ 818)]]"
-ListenInSec: 1179
+ListenInSec: 1335
 NumberInAlbum: 0
 related:
   - "[[Kesenai Tsumi - Nana Kitade (🎧️ 2150)]]"

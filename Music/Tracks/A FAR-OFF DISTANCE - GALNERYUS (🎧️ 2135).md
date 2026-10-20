@@ -11,7 +11,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[GALNERYUS (🎙️ 313)]]"
-ListenInSec: 5294
+ListenInSec: 6173
 NumberInAlbum: 0
 related: []
 SourceFile: "[[GALNERYUS - A FAR-OFF DISTANCE.opus]]"

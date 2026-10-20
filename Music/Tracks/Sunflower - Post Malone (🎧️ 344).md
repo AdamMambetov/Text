@@ -9,7 +9,7 @@ CoverOf: ""
 Creators:
   - "[[Post Malone (🎙️ 415)]]"
   - "[[Swae Lee (🎙️ 978)]]"
-ListenInSec: 946
+ListenInSec: 1103
 NumberInAlbum: 2
 related: []
 SourceFile: "[[Spider-Man Into the Spider-Verse OST - Sunflower.mp3]]"

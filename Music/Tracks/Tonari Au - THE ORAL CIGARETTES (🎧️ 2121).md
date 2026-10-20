@@ -11,7 +11,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[THE ORAL CIGARETTES (🎙️ 823)]]"
-ListenInSec: 2664
+ListenInSec: 3210
 NumberInAlbum: 0
 related:
   - "[[Tonari Au (TV Size) - THE ORAL CIGARETTES (🎧️ 2120)]]"

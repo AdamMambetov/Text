@@ -9,7 +9,7 @@ Album: "[[Your Turn To Die OST (📀 70)]]"
 CoverOf: ""
 Creators:
   - "[[Nankidai (🎙️ 909)]]"
-ListenInSec: 1779
+ListenInSec: 1780
 NumberInAlbum: 7
 related:
   - "[[Day of Tragedy B - Nankidai (🎧️ 2235)]]"

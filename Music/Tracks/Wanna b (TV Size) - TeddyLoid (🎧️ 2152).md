@@ -11,7 +11,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[TeddyLoid (🎙️ 1065)]]"
-ListenInSec: 1490
+ListenInSec: 1589
 NumberInAlbum: 0
 related: []
 source: ""

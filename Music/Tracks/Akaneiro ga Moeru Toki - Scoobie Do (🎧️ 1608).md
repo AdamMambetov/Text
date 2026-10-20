@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Scoobie Do (🎙️ 947)]]"
-ListenInSec: 1082
+ListenInSec: 1411
 NumberInAlbum: 0
 related:
   - "[[Akaneiro ga Moeru Toki (TV Size) - Scoobie Do (🎧️ 2097)]]"

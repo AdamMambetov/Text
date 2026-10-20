@@ -1,8 +1,8 @@
 ---
 created: 2025-12-01T00:17:00+03:00
 aliases:
-  - "Anime"
-  - "Аниме"
+  - Anime
+  - Аниме
 tracklist:
   - "[[ADAMAS - LiSA (🎧️ 1146)]]"
   - "[[1Coma - Hiroyuki Sawano (🎧️ 1626)]]"
@@ -129,7 +129,7 @@ tracklist:
   - "[[Colors of the Heart - UVERworld (🎧️ 1258)]]"
   - "[[Immanence - Yoshihisa Hirano (🎧️ 1253)]]"
   - "[[Low of Solipsism - Yoshihisa Hirano (🎧️ 1252)]]"
-  - "[[Teloelogy of Death - Yoshihisa Hirano (🎧️ 1251)]]"
+  - "[[Teleology of Death - Yoshihisa Hirano (🎧️ 1251)]]"
   - "[[Kyrie - Yoshihisa Hirano (🎧️ 1250)]]"
   - "[[L's Theme - Hideki Taniuchi (🎧️ 1249)]]"
   - "[[Light's Theme - Hideki Taniuchi (🎧️ 1248)]]"

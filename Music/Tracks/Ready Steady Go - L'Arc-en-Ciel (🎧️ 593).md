@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[L'Arc-en-Ciel (🎙️ 707)]]"
-ListenInSec: 1779
+ListenInSec: 2007
 NumberInAlbum: 0
 related:
   - "[[Ready Steady Go (TV Size) - L'Arc-en-Ciel]]"

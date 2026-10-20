@@ -1,10 +1,10 @@
 ---
 created: 2024-10-13T23:36:52+03:00
 aliases:
-  - "Teloelogy of Death"
+  - "Teleology of Death"
 Cover: "[[_No Album Art.jpg]]"
 Year: 2006
-Album: "[[Death Note OST]]"
+Album: "[[Death Note OST (📀 76)]]"
 CoverOf: ""
 Creators:
   - "[[Yoshihisa Hirano (🎙️ 886)]]"

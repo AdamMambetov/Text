@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Laura Shigihara (🎙️ 1026)]]"
-ListenInSec: 290
+ListenInSec: 377
 NumberInAlbum: 0
 related: []
 source: ""

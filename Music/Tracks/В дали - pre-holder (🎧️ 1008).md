@@ -8,7 +8,7 @@ Album: "[[Umineko no Naku Koro ni OST — 07th Expansion]]"
 CoverOf: ""
 Creators:
   - "[[pre-holder (🎙️ 5)]]"
-ListenInSec: 2907
+ListenInSec: 3103
 NumberInAlbum: 62
 related: []
 SourceFile: "[[Umineko no Naku Koro ni OST - 062 В дали.ogg]]"

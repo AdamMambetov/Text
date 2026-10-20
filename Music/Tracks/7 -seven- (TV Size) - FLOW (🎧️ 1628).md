@@ -9,7 +9,7 @@ CoverOf: ""
 Creators:
   - "[[FLOW (🎙️ 309)]]"
   - "[[GRANRODEO (🎙️ 310)]]"
-ListenInSec: 547
+ListenInSec: 637
 NumberInAlbum: 0
 related: []
 source: ""

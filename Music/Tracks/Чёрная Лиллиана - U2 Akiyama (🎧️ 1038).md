@@ -8,7 +8,7 @@ Album: "[[Umineko no Naku Koro ni OST — 07th Expansion]]"
 CoverOf: ""
 Creators:
   - "[[U2 Akiyama (🎙️ 26)]]"
-ListenInSec: 12671
+ListenInSec: 13138
 NumberInAlbum: 55
 related:
   - "[[Вальс (соч. 34) - Kitaouji Mizuki (🎧️ 966)]]"

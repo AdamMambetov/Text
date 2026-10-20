@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[supercell (🎙️ 59)]]"
-ListenInSec: 3763
+ListenInSec: 4107
 NumberInAlbum: 0
 related:
   - "[[My Dearest (TV Size) - supercell (🎧️ 2095)]]"

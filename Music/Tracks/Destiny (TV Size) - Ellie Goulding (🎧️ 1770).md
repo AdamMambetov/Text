@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Ellie Goulding (🎙️ 680)]]"
-ListenInSec: 1160
+ListenInSec: 1250
 NumberInAlbum: 0
 related: []
 source: ""

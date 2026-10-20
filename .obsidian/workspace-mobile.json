@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "2739c46ac0fab677",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Music/Albums/Death Note OST (📀 76).md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Death Note OST (📀 76)"
+            }
+          },
+          {
             "id": "db691d31a042de63",
             "type": "leaf",
             "state": {
@@ -77,7 +91,8 @@
               "title": "Ремонт копировально-множительной техники"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,7 +221,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Note/content/@Адам Мамбетов.md",
+            "file": "Music/Albums/Death Note OST (📀 76).md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -247,8 +262,14 @@
       "obsidian-excalidraw-plugin:New drawing": true
     }
   },
-  "active": "7954ca01c5eea36e",
+  "active": "2739c46ac0fab677",
   "lastOpenFiles": [
+    "Music/Creators/Yoshihisa Hirano (🎙️ 886).md",
+    "Music/Albums/Death Note OST (📀 76).md",
+    "Music/Creators/Hideki Taniuchi (🎙️ 885).md",
+    "Music/Tracks/Teleology of Death - Yoshihisa Hirano (🎧️ 1251).md",
+    "Music/Covers/Death Note OST I.jpg",
+    "Music/Tracks/A Reason to Fight - RADIO TAPOK (🎧️ 1579).md",
     "Music/Tracks/Senbonzakura - Will Stetson (🎧️ 1523).md",
     "Music/Tracks/Ano Hi no mama no Bokura - Sora Amamiya (🎧️ 1372).md",
     "Note/content/@Адам Мамбетов.md",
@@ -273,12 +294,7 @@
     "Music/Covers/Shrek OST.jpg",
     "Music/Albums/Umineko no Naku Koro ni OST (📀 30).md",
     "Music/2026-09-29-postgresql.log",
-    "Music/Tracks/Sukashiyuri - Sumiisan (🎧️ 987).md",
-    "Personal/Ахмед.md",
-    "Music/Albums/8 Mile OST (📀 2).md",
-    "Music/Tracks/'Till I Collapse - Eminem (🎧️ 1138).md",
     "Music/2026-09-24-postgresql.log",
-    "Note/content/PostgreSQL.md",
     "Music/Covers/Мастер и Маргарита OST.jpg",
     "Music/Covers/Umineko no Naku Koro Ni OST 1.jpg",
     "Music/Covers/ReZero The Frozen Bond OST.jpg",
@@ -286,7 +302,6 @@
     "Music/Covers/Kabaneri of the Iron Fortress OST.jpg",
     "Music/Covers/Guardian of the Galaxy OST.jpg",
     "Music/Covers/Gintama OST.jpg",
-    "Music/Covers/Devil May Cry 5 OST.jpg",
     "Music/tracks.base",
     "Text/Note/excalidraw",
     "Text/Note",

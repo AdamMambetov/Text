@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[GALNERYUS (🎙️ 313)]]"
-ListenInSec: 1996
+ListenInSec: 2510
 NumberInAlbum: 0
 related: []
 SourceFile: "[[GALNERYUS - departure!.opus]]"

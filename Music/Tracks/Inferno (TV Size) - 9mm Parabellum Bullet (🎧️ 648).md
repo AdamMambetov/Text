@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[9mm Parabellum Bullet (🎙️ 76)]]"
-ListenInSec: 1339
+ListenInSec: 1428
 NumberInAlbum: 0
 related: []
 source: ""

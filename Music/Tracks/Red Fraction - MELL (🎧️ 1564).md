@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[MELL (🎙️ 739)]]"
-ListenInSec: 4931
+ListenInSec: 5149
 NumberInAlbum: 0
 related:
   - "[[Red Fraction (TV Size) - MELL]]"

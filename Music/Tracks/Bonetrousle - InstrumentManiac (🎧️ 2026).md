@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[InstrumentManiac (🎙️ 777)]]"
-ListenInSec: 7892
+ListenInSec: 8062
 NumberInAlbum: 0
 related: []
 SourceFile: "[[InstrumentManiac - UNDERTALE - Bonetrousle.mp3]]"

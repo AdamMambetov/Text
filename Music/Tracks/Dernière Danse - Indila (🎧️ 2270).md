@@ -9,7 +9,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Indila (🎙️ 1084)]]"
-ListenInSec: 1498
+ListenInSec: 1712
 NumberInAlbum: 0
 related: []
 source: ""

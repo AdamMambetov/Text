@@ -11,7 +11,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[L'Arc-en-Ciel (🎙️ 707)]]"
-ListenInSec: 1871
+ListenInSec: 2123
 NumberInAlbum: 0
 related:
   - "[[Driver's High (TV Size) - L'Arc-en-Ciel]]"

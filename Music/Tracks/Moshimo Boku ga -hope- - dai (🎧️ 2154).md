@@ -10,7 +10,7 @@ CoverOf: ""
 Creators:
   - "[[dai (🎙️ 3)]]"
   - "[[nayuta (🎙️ 1069)]]"
-ListenInSec: 1115
+ListenInSec: 1337
 NumberInAlbum: 0
 related: []
 source: ""

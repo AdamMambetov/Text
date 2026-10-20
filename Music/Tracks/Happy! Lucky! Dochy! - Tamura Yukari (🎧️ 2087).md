@@ -10,7 +10,7 @@ Creators:
   - "[[Tamura Yukari (🎙️ 829)]]"
   - "[[Kanai Mika (🎙️ 830)]]"
   - "[[Horie Yui (🎙️ 330)]]"
-ListenInSec: 2396
+ListenInSec: 2626
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Happy! Lucky! Dochy!.mp3]]"

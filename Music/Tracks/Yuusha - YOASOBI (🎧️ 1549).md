@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[YOASOBI (🎙️ 657)]]"
-ListenInSec: 3273
+ListenInSec: 3467
 NumberInAlbum: 1
 related:
   - "[[Yuusha (TV Size) - YOASOBI]]"

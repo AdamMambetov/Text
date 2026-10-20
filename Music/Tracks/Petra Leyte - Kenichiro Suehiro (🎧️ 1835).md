@@ -9,7 +9,7 @@ Album: "[[ReZero 2 OST 1 (📀 47)]]"
 CoverOf: ""
 Creators:
   - "[[Kenichiro Suehiro (🎙️ 748)]]"
-ListenInSec: 409
+ListenInSec: 543
 NumberInAlbum: 6
 related: []
 SourceFile: "[[ReZero 2 OST 1 - 06 Petra Leyte.mp3]]"

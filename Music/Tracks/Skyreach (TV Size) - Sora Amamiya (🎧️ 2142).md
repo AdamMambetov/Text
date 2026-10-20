@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Sora Amamiya (🎙️ 816)]]"
-ListenInSec: 2249
+ListenInSec: 2431
 NumberInAlbum: 0
 related:
   - "[[Skyreach - Sora Amamiya (🎧️ 2143)]]"

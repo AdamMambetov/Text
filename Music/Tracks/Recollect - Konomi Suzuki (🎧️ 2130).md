@@ -11,7 +11,7 @@ CoverOf: ""
 Creators:
   - "[[Konomi Suzuki (🎙️ 351)]]"
   - "[[Ashnikko (🎙️ 815)]]"
-ListenInSec: 4440
+ListenInSec: 4443
 NumberInAlbum: 0
 related:
   - "[[Recollect (TV Size) - Konomi Suzuki (🎧️ 2128)]]"

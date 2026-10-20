@@ -8,7 +8,7 @@ Album: "[[Naku Naku Solo Guitar 2 (📀 55)]]"
 CoverOf: "[[About Face - dai (🎧️ 1019)]]"
 Creators:
   - "[[nekocapo (🎙️ 1007)]]"
-ListenInSec: 964
+ListenInSec: 1090
 NumberInAlbum: 5
 related: []
 source: https://youtu.be/EHZSEMG7i3c?si=YxYb728cGSNuI646

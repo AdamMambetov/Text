@@ -9,7 +9,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[MADKID (🎙️ 793)]]"
-ListenInSec: 4567
+ListenInSec: 4995
 NumberInAlbum: 0
 related:
   - "[[RISE (TV Size) - MADKID (🎧️ 2091)]]"

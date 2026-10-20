@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Yuka Iguchi (🎙️ 672)]]"
-ListenInSec: 2777
+ListenInSec: 3033
 NumberInAlbum: 0
 related:
   - "[[Platinum Disco (TV Size) - Yuka Iguchi (🎧️ 1742)]]"

@@ -9,7 +9,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Skirt & PUNPEE (🎙️ 700)]]"
-ListenInSec: 5728
+ListenInSec: 5931
 NumberInAlbum: 0
 related:
   - "[[ODDTAXI (TV Size) - Skirt & PUNPEE (🎧️ 1733)]]"
