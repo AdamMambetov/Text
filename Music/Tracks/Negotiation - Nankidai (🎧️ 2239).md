@@ -1,0 +1,26 @@
+---
+created: 2026-09-10T17:52:07+03:00
+aliases:
+  - "Negotiation"
+  - "SouA"
+Cover: "[[Your Turn To Die OST.jpg]]"
+Year: 2017
+Album: "[[Your Turn To Die OST (📀 70)]]"
+CoverOf: ""
+Creators:
+  - "[[Nankidai (🎙️ 909)]]"
+ListenInSec: 1200
+NumberInAlbum: 30
+related: []
+source: ""
+SourceFile: "[[Your Turn To Die OST - 30 Negotiation.ogg]]"
+---
+
+`$=dv.header(1, dv.current().aliases[0])`
+
+![[Your Turn To Die OST - 30 Negotiation.ogg]]
+
+## Related Tracks
+
+![[related tracks.base]]
+

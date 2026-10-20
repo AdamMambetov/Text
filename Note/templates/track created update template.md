@@ -3,7 +3,7 @@ dv = app.plugins.plugins.dataview.api
 
 // Sync "created" property in note from "SourceFile"
 if (false) {
-	let arr = dv.pages('"Text/Music/Tracks"')
+	let arr = dv.pages('"Music/Tracks"')
 	let exit = false
 	arr.forEach(async (el) => {
 		const file = await tp.file.find_tfile(el.file.path)
@@ -20,13 +20,13 @@ if (false) {
 	return
 }
 
-dv.pages('"Text/Music/Tracks"').forEach(el => {
+dv.pages('"Music/Tracks"').forEach(el => {
 	if (el.SourceFile == null)
 		console.log(`${el.file.name}`)
 })
 
 // Found and fix identical "created"
-let arr = dv.pages('"Text/Music/Tracks"')
+let arr = dv.pages('"Music/Tracks"')
 	.groupBy(p => p.created)
 	.filter(el => el.rows.length > 1)
 while (arr.length > 0) {
@@ -44,7 +44,7 @@ while (arr.length > 0) {
 		})
 	}
 	// break
-	arr = dv.pages('"Text/Music/Tracks"')
+	arr = dv.pages('"Music/Tracks"')
 	.groupBy(p => p.created)
 	.filter(el => el.rows.length > 1)
 }

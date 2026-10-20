@@ -4,31 +4,48 @@
     "type": "split",
     "children": [
       {
-        "id": "c9bf1e5a976a1ca3",
+        "id": "1ee336d6d327a3fb",
         "type": "tabs",
         "children": [
           {
-            "id": "ffce61c8ce03960c",
+            "id": "2cbea83c6f063654",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "Note/projects/JiGit/JiGit.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "JiGit.excalidraw"
             }
           },
           {
-            "id": "c4c6d58c5240233c",
+            "id": "3a821be1d58a2841",
             "type": "leaf",
             "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "type": "excalidraw",
+              "state": {
+                "file": "Note/_inbox/excalidraw/Music Player Scheme.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Music Player Scheme.excalidraw"
+            }
+          },
+          {
+            "id": "18891cc345a2656e",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Music/tracks.base",
+                "viewName": "Created Group"
+              },
+              "icon": "lucide-table",
+              "title": "tracks"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "ЕвроСервис/Ремонт копировально-множительной техники.md",
+                "file": "Music/tracks.base",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,8 +165,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 336.5,
-    "collapsed": true
+    "width": 336.5
   },
   "right": {
     "id": "fa85d1514c56552d",
@@ -166,7 +182,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": false,
+                "file": "Music/tracks.base",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -197,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ЕвроСервис/Ремонт копировально-множительной техники.md",
+                "file": "Art/art.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -215,9 +232,19 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
+          },
+          {
+            "id": "a6c210ff56e0c069",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "3185b9fecf878a15",
@@ -285,44 +312,53 @@
       "quickadd:QuickAdd": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false,
       "modalforms:Edit forms": false,
       "omnisearch:Omnisearch": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false,
       "cmdr:QuickAdd: смотреть позже": false,
-      "cmdr:Track Edit": false
+      "cmdr:Track Edit": false,
+      "obsidian-local-images-plus:Local Images Plus  0.17.1\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "c4c6d58c5240233c",
+  "active": "18891cc345a2656e",
   "lastOpenFiles": [
-    "ЕвроСервис/Drawing 2026-09-27 13.12.11.excalidraw.md",
-    "ЕвроСервис/Ремонт копировально-множительной техники.md",
-    "ЕвроСервис/ЕвроСервис работа.md",
+    "Music/Tracks/Wanna b (TV Size) - TeddyLoid (🎧️ 2152).md",
+    "Music/tracks.base",
+    "Note/templates/track created update template.md",
+    "Note/templates/_track update all capture.md",
+    "Music/Tracks/Yume no Ito (TV Size) - Kitou Akari (🎧️ 2153).md",
+    "Music/Tracks/Wa -cycle- (TV Size) - Hana Itoki (🎧️ 2151).md",
+    "Music/Tracks/Kesenai Tsumi - Nana Kitade (🎧️ 2150).md",
+    "Music/Tracks/JINGO JUNGLE (TV Size) - MYTH & ROID (🎧️ 2149).md",
+    "Music/Tracks/Champ'd Up Create 3 - Andy Poland (🎧️ 2148).md",
+    "Music/Tracks/Inferno - Onsa Media (🎧️ 1).md",
+    "Music/Tracks/Champ'd Up Create 3 - Andy Poland (🎧️ 2149).md",
+    "Music/Tracks/JINGO JUNGLE (TV Size) - MYTH & ROID (🎧️ 2148).md",
+    "Music/Playlists/Anime (💿 3).md",
+    "Music/Tracks/Bizarre Divertimento - Kitaouji Mizuki (🎧️ 2193).md",
+    "Music/Tracks/Bizarre Divertimento - Kitaouji Mizuki (🎧️ 2194).md",
+    "Music/Tracks/Stuffed Animal - dai (🎧️ 2194).md",
+    "Music/Tracks/Stuffed Animal - dai (🎧️ 2193).md",
+    "Music/Tracks/Cardiogram Climax - Nankidai (🎧️ 2210).md",
+    "Music/Tracks/Cardiogram Climax - Nankidai (🎧️ 2248).md",
+    "Music/Tracks/Cardiogram Rise - Nankidai (🎧️ 2211).md",
+    "Music/Tracks/Cardiogram Rise - Nankidai (🎧️ 2218).md",
+    "Music/Tracks/Cardiogram Third Peak - Nankidai (🎧️ 2213).md",
+    "Music/Tracks/Cardiogram Third Peak - Nankidai (🎧️ 2232).md",
+    "Music/Tracks/Connecting Together A - Nankidai (🎧️ 2214).md",
+    "Music/Tracks/Connecting Together A - Nankidai (🎧️ 2212).md",
+    "Music/Tracks/Connecting Together B - Nankidai (🎧️ 2215).md",
+    "Music/Covers/Death Note OST I.jpg",
+    "Note/projects/JiGit",
+    "Note/excalidraw",
+    "Personal/Пароли.kdbx.eXxkJy",
+    "file:/home/adamm/Downloads/Telegram Desktop/РЕФЕРАТ.pdf",
+    "Art/art.base",
+    "file:/home/adamm/Downloads/Telegram Desktop/Захват_экрана_в_Firefox_на_Niri_Google_Gemini.pdf",
+    "file:/home/adamm/Downloads/Telegram Desktop/6a9d9728f47e73b5f9d6b0b3_aetherandstoneteambrief.pdf.pdf",
+    "cpp_lectures.pdf",
     "ЕвроСервис",
-    "Music/Albums/Jackbox Party Pack 6 OST (📀 75).md",
-    "Music/Tracks/Trivia Murder Party 2 Saxy - Andy Poland (🎧️ 1662).md",
-    "Music/Tracks/Trivia Murder Party 2 Lobby - Andy Poland (🎧️ 1665).md",
-    "Music/Albums/Jackbox Party Pack 7 OST (📀 73).md",
-    "Music/Tracks/Champ'd Up Create 3 - Andy Poland (🎧️ 2153).md",
-    "Music/Tracks/Champ'd Up Create 1 - Andy Poland (🎧️ 1672).md",
-    "Music/Tracks/Pizza Theme - Michael McCuistion (🎧️ 2269).md",
-    "Music/Tracks/Марш монтажников - Николай Рыбнико (🎧️ 2275).md",
-    "Music/Creators/Николай Рыбнико (🎙️ 1085).md",
-    "Music/Tracks/Dernière Danse - Indila (🎧️ 2265).md",
-    "Music/Creators/Indila (🎙️ 1084).md",
-    "Music/Creators/InstrumentManiac (🎙️ 777).md",
-    "Music/Tracks/Plants vs. Zombies - Watery Graves - InstrumentManiac (🎧️ 2274).md",
-    "Music/Creators/Moisés Niet (🎙️ 833).md",
-    "Music/Tracks/Trip -innocent of D- - Larval Stage Planning (🎧️ 622).md",
-    "Music/Tracks/Larval Stage Planning - Trip -innocent of D-.md",
-    "Music/Tracks/Beat It - Fall Out Boy (🎧️ 1180).md",
-    "Music/Creators/John Mayer (🎙️ 1083).md",
-    "Music/Tracks/Beat It - Michael Jackson (🎧️ 2273).md",
-    "Music/Tracks/They Don't Care About Us (Remastered Version) - Michael Jackson (🎧️ 2272).md",
-    "Music/Tracks/They Don't Care About Us - Saliva (🎧️ 511).md",
-    "Music/Creators/Michael Jackson (🎙️ 1082).md",
-    "Music/Tracks/KISS OF DEATH - Mika Nakashima (🎧️ 2271).md",
     "Music/Covers/Spider-Man 2 The Game OST.jpg",
     "Music/Covers/cover.jpg",
     "Music/Covers/Quiplash OST.jpg",
@@ -330,17 +366,7 @@
     "Music/Covers/Jackbox Party Pack 6 OST.jpg",
     "Music/Covers/Jackbox Party Pack 2 OST.jpg",
     "Music/Covers/Jackbox Party Pack 4 OST.jpg",
-    "Music/templates/related tracks.base",
     "Music/Covers/DANGANRONPA V3 OST WHITE.jpg",
-    "Music/Covers/DANGANRONPA V3 OST WHITE.jpg",
-    "Music/Covers/DANGANRONPA V3 OST BLACK.jpg",
-    "Personal/Пароли.kdbx.jrReoW",
-    "Text/Note/files",
-    "Text/Note",
-    "Text",
-    "Music/Tracks/Way Up - Jaden Smith.txt",
-    "Video/18+/Hentai/2101_video_voice_HentaiZ_720.mp4.mp4",
-    "Audio/Music/Your Turn To Die OST - 08 Even in Tragedy [EXTENDED].mp3",
-    "Audio/Music/Your Turn To Die OST - 09 Kind Moment [EXTENDED].mp3"
+    "Music/Covers/DANGANRONPA V3 OST WHITE.jpg"
   ]
 }

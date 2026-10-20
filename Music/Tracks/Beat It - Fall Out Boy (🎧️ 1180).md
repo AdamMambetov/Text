@@ -5,7 +5,7 @@ aliases:
 Cover: "[[Fall Out Boy - Greatest Hits. Believers Never Die.jpg]]"
 Year: 2008
 Album: "[[Believers Never Die - Greatest Hits]]"
-CoverOf: "[[Beat It - Michael Jackson (🎧️ 2268)]]"
+CoverOf: "[[Beat It - Michael Jackson (🎧️ 2273)]]"
 Creators:
   - "[[Fall Out Boy (🎙️ 304)]]"
   - "[[John Mayer (🎙️ 1083)]]"

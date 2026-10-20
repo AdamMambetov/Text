@@ -1,7 +1,7 @@
 ---
 created: 2024-10-13T23:38:32+03:00
 aliases:
-  - Immanence
+  - "Immanence"
 Cover: "[[_No Album Art.jpg]]"
 Year: 2006
 Album: "[[Death Note OST (📀 76)]]"

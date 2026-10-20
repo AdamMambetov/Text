@@ -35,8 +35,7 @@ views:
     name: View
     filters:
       and:
-        - Status == "plan"
-        - Type.startsWith("anime")
+        - Type == "book"
     order:
       - formula.id
       - formula.country

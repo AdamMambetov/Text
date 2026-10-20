@@ -10,7 +10,9 @@ views:
     order:
       - created
       - file.name
-    sort: []
+    sort:
+      - property: created
+        direction: ASC
     columnSize:
       note.created: 178
   - type: table

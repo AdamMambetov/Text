@@ -1,5 +1,5 @@
 ---
-created: 2026-09-10T15:44:37+03:00
+created: 2026-09-10T15:44:39+03:00
 aliases:
   - "Kesenai Tsumi"
   - "Fullmetal Alchemist ED 1"

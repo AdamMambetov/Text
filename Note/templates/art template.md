@@ -40,7 +40,7 @@ switch (result.get("Type")) {
 }
 
 let title = tp.file.title
-let num = dv.pages('"Text/Art/content"').length
+let num = dv.pages('"Art/content"').length
 await tp.file.rename(`${title} (${result.get("Flag")}${icon} ${num})`);
 
 let coverPath = result.asString("{{Cover}}")

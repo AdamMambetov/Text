@@ -1,8 +1,8 @@
 ---
 created: 2025-12-01T00:17:00+03:00
 aliases:
-  - Anime
-  - Аниме
+  - "Anime"
+  - "Аниме"
 tracklist:
   - "[[ADAMAS - LiSA (🎧️ 1146)]]"
   - "[[1Coma - Hiroyuki Sawano (🎧️ 1626)]]"
@@ -500,7 +500,7 @@ tracklist:
   - "[[Love In Sao Paolo - Yuji Ohno (🎧️ 1482)]]"
   - "[[VORACITY (TV Size) - MYTH & ROID (🎧️ 2094)]]"
   - "[[Kesenai Tsumi - Nana Kitade (🎧️ 2150)]]"
-  - "[[JINGO JUNGLE (TV Size) - MYTH & ROID (🎧️ 2148)]]"
+  - "[[JINGO JUNGLE (TV Size) - MYTH & ROID (🎧️ 2149)]]"
   - "[[Wa -cycle- (TV Size) - Hana Itoki (🎧️ 2151)]]"
   - "[[Steppin' Out (TV Size) - FLOW (🎧️ 1687)]]"
   - "[[Megumeru (TV Size) - Eufonius (🎧️ 1746)]]"
@@ -511,7 +511,7 @@ tracklist:
   - "[[88 - LM.C (🎧️ 2085)]]"
   - "[[Asayake to Nettaigyo (TV Size) - Boku no Lyric no Bouyomi (🎧️ 1679)]]"
   - "[[Ender Ember - MYTH & ROID (🎧️ 2131)]]"
-  - "[[KISS OF DEATH - Mika Nakashima (🎧️ 2272)]]"
+  - "[[KISS OF DEATH - Mika Nakashima (🎧️ 2275)]]"
   - "[[KISS OF DEATH (TV Size) - Mika Nakashima (🎧️ 2089)]]"
   - "[[Yume no Ito (TV Size) - Kitou Akari (🎧️ 2153)]]"
   - "[[Wanna b (TV Size) - TeddyLoid (🎧️ 2152)]]"

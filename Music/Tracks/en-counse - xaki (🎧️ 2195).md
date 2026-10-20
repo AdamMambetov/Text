@@ -1,5 +1,5 @@
 ---
-created: 2026-09-10T17:04:09+03:00
+created: 2026-09-10T17:04:11+03:00
 aliases:
   - "en-counse"
 Cover: "[[Umineko no Naku Koro Ni OST 1.jpg]]"

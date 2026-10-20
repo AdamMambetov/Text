@@ -41,7 +41,7 @@ tracklist:
   - "[[Champ'd Up Create 1 - Andy Poland (🎧️ 1672)]]"
   - "CHAMPD Create 2"
   - "CHAMPD Battle 1"
-  - "[[Champ'd Up Create 3 - Andy Poland (🎧️ 2149)]]"
+  - "[[Champ'd Up Create 3 - Andy Poland (🎧️ 2148)]]"
   - "CHAMPD Create 4"
   - "CHAMPD Battle 2"
   - "CHAMPD Credits"

@@ -12,7 +12,7 @@ ListenInSec: 2047
 NumberInAlbum: 0
 related:
   - "[[Clown's Song - Nankidai (🎧️ 1904)]]"
-  - "[[Kaisou - Nankidai (🎧️ 2216)]]"
+  - "[[Kaisou - Nankidai (🎧️ 2232)]]"
   - "[[Day of Tragedy - Nankidai (🎧️ 1603)]]"
 source: ""
 SourceFile: "[[Chimoruki - NONCANDIDATE (Clowns Song, Kaisou, Day of Tragedy OST Mashup).mp3]]"
