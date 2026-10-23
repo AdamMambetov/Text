@@ -8,13 +8,13 @@ Creators:
   - "[[nekocapo (🎙️ 1007)]]"
 source: https://youtube.com/playlist?list=PLnfa_HdbN_GPI9lb0Iv12HEVIhymGl2YI&si=VKxCgalUKlxQZG5t
 tracklist:
-  - "[[Towering cloud in summer - nekocapo (🎧️ 1924)]]"
-  - "[[In the Sun - nekocapo (🎧️ 1925)]]"
-  - "[[worldend - nekocapo (🎧️ 1926)]]"
-  - "[[Sakutarou's Adventure - nekocapo (🎧️ 1927)]]"
-  - "[[wingless - nekocapo (🎧️ 1928)]]"
-  - "[[Thank You for Being Born - nekocapo (🎧️ 1929)]]"
-  - "[[you (from Higurashi no Naku Koro ni) - nekocapo (🎧️ 1930)]]"
+  - "[[Towering cloud in summer - nekocapo (🎧️ 1923)]]"
+  - "[[In the Sun - nekocapo (🎧️ 1924)]]"
+  - "[[worldend - nekocapo (🎧️ 1925)]]"
+  - "[[Sakutarou's Adventure - nekocapo (🎧️ 1926)]]"
+  - "[[wingless - nekocapo (🎧️ 1927)]]"
+  - "[[Thank You for Being Born - nekocapo (🎧️ 1928)]]"
+  - "[[you (from Higurashi no Naku Koro ni) - nekocapo (🎧️ 1929)]]"
 ---
 
 # Naku Naku Solo Guitar

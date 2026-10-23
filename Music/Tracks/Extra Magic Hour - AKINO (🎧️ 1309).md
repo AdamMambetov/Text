@@ -14,7 +14,7 @@ Creators:
 ListenInSec: 3739
 NumberInAlbum: 0
 related:
-  - "[[Extra Magic Hour (TV Size) - AKINO (🎧️ 2141)]]"
+  - "[[Extra Magic Hour (TV Size) - AKINO (🎧️ 2140)]]"
 SourceFile: "[[AKINO with bless4 - Extra Magic Hour.mp3]]"
 ---
 

@@ -43,6 +43,8 @@ tracklist:
 
 # Death Note OST
 
+![[Death Note OST I.jpg]]
+
 ## Tracklist
 
 ![[tracklist.base]]

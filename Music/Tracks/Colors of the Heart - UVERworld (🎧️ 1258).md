@@ -13,7 +13,7 @@ Creators:
 ListenInSec: 305
 NumberInAlbum: 0
 related:
-  - "[[Colors of the Heart (TV Size) - UVERworld (🎧️ 1686)]]"
+  - "[[Colors of the Heart (TV Size) - UVERworld (🎧️ 1685)]]"
 source: ""
 SourceFile: "[[UVERworld - Colors of the Heart.mp3]]"
 ---

@@ -4,7 +4,7 @@ aliases:
   - "Creepin' Towards the Door"
 Cover: "[[Griffinilla - Creepin' Towards the Door.jpg]]"
 Year: 2015
-Album: "[[Creepin' Towards the Door (📀 9)]]"
+Album: "[[Creepin' Towards the Door (📀 17)]]"
 CoverOf: ""
 Creators:
   - "[[Griffinilla (🎙️ 321)]]"

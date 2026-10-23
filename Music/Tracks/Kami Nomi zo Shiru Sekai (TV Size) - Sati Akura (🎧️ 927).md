@@ -7,7 +7,7 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
-CoverOf: "[[Kami Nomi zo Shiru Sekai (TV Size) - Hayato Matsuo (🎧️ 1537)]]"
+CoverOf: "[[Kami Nomi zo Shiru Sekai (TV Size) - Hayato Matsuo (🎧️ 1536)]]"
 Creators:
   - "[[Sati Akura (🎙️ 355)]]"
 ListenInSec: 283

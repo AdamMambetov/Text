@@ -12,7 +12,7 @@ tracklist:
   - "Divine Protection of Soul Language"
   - "The Eternal Freezing of Elior Forest"
   - "Fortuna"
-  - "[[Otto Suwen - Kenichiro Suehiro (🎧️ 1843)]]"
+  - "[[Otto Suwen - Kenichiro Suehiro (🎧️ 1842)]]"
   - "Witch of Vainglory"
   - "The Sealed Forest"
   - "Love"
@@ -20,9 +20,9 @@ tracklist:
   - "The Beginning of the Sanctuary"
   - "Determination for the Trial"
   - "Reason to Believe"
-  - "[[Contract - Kenichiro Suehiro (🎧️ 1845)]]"
+  - "[[Contract - Kenichiro Suehiro (🎧️ 1844)]]"
   - "Knight"
-  - "[[Offbeat Steps - Kenichiro Suehiro (🎧️ 1844)]]"
+  - "[[Offbeat Steps - Kenichiro Suehiro (🎧️ 1843)]]"
   - "Their Individual Vows"
 ---
 

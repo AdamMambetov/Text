@@ -1,5 +1,5 @@
 ---
-created: 2024-07-18T15:34:45+03:00
+created: 2024-07-18T15:41:45
 aliases:
   - "Naruto OST 2"
 Year: 2004
@@ -14,7 +14,7 @@ tracklist:
   - "[[Evil - Musashi Project (🎧️ 370)]]"
   - "[[Sasuke's Theme - Toshio Masuda (🎧️ 371)]]"
   - "[[Survival Examination - Toshio Masuda (🎧️ 372)]]"
-  - "[[Afternoon of Konoha - Musashi Project (🎧️ 1630)]]"
+  - "[[Afternoon of Konoha - Musashi Project (🎧️ 1629)]]"
   - "[[Fooling Mode - Toshio Masuda (🎧️ 373)]]"
   - "[[Konohamaru's Theme - Toshio Masuda (🎧️ 374)]]"
   - "[[It's the Training! - Toshio Masuda (🎧️ 375)]]"
@@ -25,7 +25,7 @@ tracklist:
   - "[[Orochimaru Fight - Musashi Project (🎧️ 379)]]"
   - "Raikiri"
   - "[[Sasuke Destiny - Musashi Project (🎧️ 381)]]"
-  - "[[Alone - Toshio Masuda (🎧️ 1635)]]"
+  - "[[Alone - Toshio Masuda (🎧️ 1634)]]"
   - "Harmonia"
 ---
 

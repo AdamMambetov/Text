@@ -8,7 +8,7 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 2022
 Album: ""
-CoverOf: "[[Flyers (TV Size) - BRADIO (🎧️ 1681)]]"
+CoverOf: "[[Flyers (TV Size) - BRADIO (🎧️ 1680)]]"
 Creators:
   - "[[Игорь Куликов (🎙️ 71)]]"
 ListenInSec: 191

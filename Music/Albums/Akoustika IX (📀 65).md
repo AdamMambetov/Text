@@ -9,9 +9,9 @@ Creators:
 source: https://youtube.com/playlist?list=PLnfa_HdbN_GPCsXW1def2FImtIsPC1moz&si=dvcUTQHkfJVV3La4
 tracklist:
   - "achro-eye ~guitar inst ver.~"
-  - "[[rainy-report ~piano guitar vocal ver.~ - xaki (🎧️ 1969)]]"
+  - "[[rainy-report ~piano guitar vocal ver.~ - xaki (🎧️ 1968)]]"
   - "1000-tours ~piano inst ver.~"
-  - "[[rainy-report ~piano guitar vocal ver.~ (without vocal) - xaki (🎧️ 1970)]]"
+  - "[[rainy-report ~piano guitar vocal ver.~ (without vocal) - xaki (🎧️ 1969)]]"
   - "a-symmetry ~piano vocal ver.~"
   - "a-symmetry ~piano vocal ver.~ (without vocal)"
 ---

@@ -9,17 +9,17 @@ Creators:
   - "[[Joe Collinson (🎙️ 674)]]"
 source: https://store.steampowered.com/app/1314470/BPM_BULLETS_PER_MINUTE_Soundtrack/
 tracklist:
-  - "[[Judgement - Sam Houghton (🎧️ 1611)]]"
-  - "[[The Rhythm King - Sam Houghton (🎧️ 1612)]]"
-  - "[[The Crypt - Sam Houghton (🎧️ 1616)]]"
+  - "[[Judgement - Sam Houghton (🎧️ 1610)]]"
+  - "[[The Rhythm King - Sam Houghton (🎧️ 1611)]]"
+  - "[[The Crypt - Sam Houghton (🎧️ 1615)]]"
   - "Corruption"
   - "Depths of Helheim"
-  - "[[Huggin's Shop - Sam Houghton (🎧️ 1614)]]"
+  - "[[Huggin's Shop - Sam Houghton (🎧️ 1613)]]"
   - "Machinations"
-  - "[[Into Asgard - Sam Houghton (🎧️ 1610)]]"
-  - "[[Paradox - Sam Houghton (🎧️ 1613)]]"
+  - "[[Into Asgard - Sam Houghton (🎧️ 1609)]]"
+  - "[[Paradox - Sam Houghton (🎧️ 1612)]]"
   - "Fight of the Valkyrie"
-  - "[[Munnin's Armoury - Sam Houghton (🎧️ 1615)]]"
+  - "[[Munnin's Armoury - Sam Houghton (🎧️ 1614)]]"
   - "Yggdrasil's Roots (Bonus Track)"
 ---
 

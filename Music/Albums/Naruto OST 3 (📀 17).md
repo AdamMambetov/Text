@@ -1,5 +1,5 @@
 ---
-created: 2024-07-18T15:34:45+03:00
+created: 2024-07-18T15:42:45
 aliases:
   - "Naruto OST 3"
 Year: 2004
@@ -11,7 +11,7 @@ tracklist:
   - "[[Beautiful Green Wild Beast - Toshio Masuda (🎧️ 382)]]"
   - "Sakura Season"
   - "Fake"
-  - "[[A Crisis After Another - Toshio Masuda (🎧️ 1629)]]"
+  - "[[A Crisis After Another - Toshio Masuda (🎧️ 1628)]]"
   - "[[Rock Lee's Theme - Toshio Masuda (🎧️ 383)]]"
   - "Dance"
   - "Ultimate Secrets"

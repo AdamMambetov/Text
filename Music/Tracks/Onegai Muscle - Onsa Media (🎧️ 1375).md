@@ -7,7 +7,7 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 2019
 Album: ""
-CoverOf: "[[Onegai Muscle - Fairouz Ai (🎧️ 1674)]]"
+CoverOf: "[[Onegai Muscle - Fairouz Ai (🎧️ 1673)]]"
 Creators:
   - "[[Onsa Media (🎙️ 400)]]"
   - "[[Kari (🎙️ 662)]]"

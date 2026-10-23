@@ -11,12 +11,12 @@ Creators:
   - "[[Andy Poland (🎙️ 183)]]"
 source: https://store.steampowered.com/app/1176900/The_Jackbox_Party_Pack_6__Soundtrack/
 tracklist:
-  - "[[Trivia Murder Party 2 Lobby - Andy Poland (🎧️ 1665)]]"
+  - "[[Trivia Murder Party 2 Lobby - Andy Poland (🎧️ 1664)]]"
   - "Trivia Murder Party 2 - Welcome/Elevator"
   - "Trivia Murder Party 2 - Opening Credits"
   - "Trivia Murder Party 2 - Howdya Do"
   - "Trivia Murder Party 2 - Organica"
-  - "[[Trivia Murder Party 2 Saxy - Andy Poland (🎧️ 1662)]]"
+  - "[[Trivia Murder Party 2 Saxy - Andy Poland (🎧️ 1661)]]"
   - "Trivia Murder Party 2 - Shuffle It In"
   - "Trivia Murder Party 2 - Swingio"
   - "Trivia Murder Party 2 - Barry"

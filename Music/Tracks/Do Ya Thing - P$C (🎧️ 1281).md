@@ -12,7 +12,7 @@ Creators:
 ListenInSec: 352
 NumberInAlbum: 4
 related:
-  - "[[Do Ya Thing (Game Version) - P$C (🎧️ 1752)]]"
+  - "[[Do Ya Thing (Game Version) - P$C (🎧️ 1751)]]"
 source: ""
 SourceFile: "[[P$C - Do Ya Thing.mp3]]"
 ---

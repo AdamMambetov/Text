@@ -2,7 +2,7 @@
 created: 2024-10-23T15:16:18+03:00
 aliases:
   - "Familia"
-Cover: "[[spider-man_into_the_spider-verse_film_cover.jpg]]"
+Cover: "[[Spider-Man Into the Spider-Verse OST.jpg]]"
 Year: 2018
 Album: "[[Spider-Man Into the Spider-Verse OST (📀 24)]]"
 CoverOf: ""

@@ -11,7 +11,7 @@ Creators:
 ListenInSec: 483
 NumberInAlbum: 2
 related:
-  - "[[Fired Up (Game Version) - Hush (🎧️ 1757)]]"
+  - "[[Fired Up (Game Version) - Hush (🎧️ 1756)]]"
 source: ""
 SourceFile: "[[Hush - Fired Up.mp3]]"
 ---

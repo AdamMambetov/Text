@@ -7,7 +7,7 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 2010
 Album: ""
-CoverOf: "[[88 - LM.C (🎧️ 2085)]]"
+CoverOf: "[[88 - LM.C (🎧️ 2084)]]"
 Creators:
   - "[[Jackie-O (🎙️ 337)]]"
 ListenInSec: 243

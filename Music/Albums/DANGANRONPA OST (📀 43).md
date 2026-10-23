@@ -52,7 +52,7 @@ tracklist:
   - "All Star Apologies"
   - "Ultimate Despair-Including Punishment"
   - "Climactic Re-enactment"
-  - "[[New World Order - Masafumi Takada (🎧️ 1497)]]"
+  - "[[New World Order - Masafumi Takada (🎧️ 1496)]]"
   - "Goodbye Despair High School"
   - "Rebirth, Rebuild"
   - "Prologue - Credits"

@@ -8,45 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2cbea83c6f063654",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Note/projects/JiGit/JiGit.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "JiGit.excalidraw"
-            }
-          },
-          {
-            "id": "3a821be1d58a2841",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Note/_inbox/excalidraw/Music Player Scheme.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Music Player Scheme.excalidraw"
-            }
-          },
-          {
-            "id": "18891cc345a2656e",
+            "id": "1dd773f85292e328",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note/projects/unreal engine/Skyway/Skyway — координаты фундаментов для Editor Utility Widget.md",
-                "mode": "preview",
+                "file": "Music/Creators/-45 (🎙️ 6).md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Skyway — координаты фундаментов для Editor Utility Widget"
+              "title": "-45 (🎙️ 6)"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +89,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Note/projects/unreal engine/Skyway/Skyway — координаты фундаментов для Editor Utility Widget.md",
+                "file": "Music/Creators/-45 (🎙️ 6).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -175,7 +150,7 @@
       {
         "id": "9a8f43a41bcf3663",
         "type": "tabs",
-        "dimension": 31.006979062811567,
+        "dimension": 43.36989032901296,
         "children": [
           {
             "id": "6288a4b67d726840",
@@ -183,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Music/tracks.base",
+                "file": "Music/Creators/-45 (🎙️ 6).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Art/art.base",
+                "file": "Music/Creators/-45 (🎙️ 6).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -250,7 +225,7 @@
       {
         "id": "3185b9fecf878a15",
         "type": "tabs",
-        "dimension": 68.99302093718843,
+        "dimension": 56.63010967098704,
         "children": [
           {
             "id": "85cdd56987990db9",
@@ -275,7 +250,7 @@
               "state": {
                 "sortOrder": "frequency",
                 "showSearch": true,
-                "searchQuery": "related"
+                "searchQuery": ""
               },
               "icon": "lucide-archive",
               "title": "All properties"
@@ -300,7 +275,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 406.18359375
+    "width": 429.94921875
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -322,53 +297,52 @@
       "obsidian-local-images-plus:Local Images Plus  0.17.1\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "18891cc345a2656e",
+  "active": "1dd773f85292e328",
   "lastOpenFiles": [
-    "Music/Tracks/Wake Me up When September Ends - Green Day (🎧️ 116).md",
-    "Music/Tracks/American Idiot - Green Day (🎧️ 1155).md",
-    "Note/projects/unreal engine/Skyway/Skyway — координаты фундаментов для Editor Utility Widget.md",
-    "Note/projects/unreal engine/Skyway",
-    "Note/_inbox/excalidraw/Music Player Scheme.excalidraw.md",
+    "Music/albums.base",
+    "Music/Albums/Big Bang Theory OST (📀 7).md",
+    "Music/Albums/BERSERK OST (📀 6).md",
+    "Music/Albums/Assassin's Creed 2 OST (📀 5).md",
+    "Music/Albums/Armageddon OST (📀 4).md",
+    "Music/Albums/По следам бременских музыкантов OST (📀 3).md",
+    "Music/Albums/8 Mile OST (📀 2).md",
+    "Music/Albums/Shiki OST (📀 1).md",
+    "Music/Albums/Van Helsing OST (📀 26).md",
+    "Music/Albums/Suicide Squad The Album (📀 25).md",
+    "Music/Albums/Spider-Man Into the Spider-Verse OST (📀 24).md",
+    "Music/Albums/Rick and Morty OST (📀 23).md",
+    "Music/Albums/Pirates of the Caribbean On Stranger Tides OST (📀 22).md",
+    "Music/Albums/Paprika OST (📀 21).md",
+    "Music/Albums/Neko no Ongaeshi OST (📀 28).md",
+    "Music/Albums/Need For Speed Most Wanted OST (📀 52).md",
+    "Music/Albums/Naruto Shippuden OST 3 (📀 20).md",
+    "Music/Albums/Naruto Shippuden OST 2 (📀 19).md",
+    "Music/Albums/Naruto Shippuden OST 1 (📀 18).md",
+    "Music/Albums/Naruto OST 3 (📀 17).md",
+    "Music/Albums/Naruto OST 2 (📀 16).md",
+    "Music/Albums/Naruto OST 1 (📀 15).md",
+    "Music/Albums/Mulan OST (📀 14).md",
+    "Music/Albums/Moana OST (📀 13).md",
+    "Music/Albums/Kabaneri of the Iron Fortress OST (📀 12).md",
+    "Music/Albums/Date A Live OST (📀 11).md",
     "Music/tracks.base",
-    "Music/Tracks/Wanna b (TV Size) - TeddyLoid (🎧️ 2152).md",
-    "Note/templates/track created update template.md",
-    "Note/templates/_track update all capture.md",
-    "Music/Tracks/Yume no Ito (TV Size) - Kitou Akari (🎧️ 2153).md",
-    "Music/Tracks/Wa -cycle- (TV Size) - Hana Itoki (🎧️ 2151).md",
-    "Music/Tracks/Kesenai Tsumi - Nana Kitade (🎧️ 2150).md",
-    "Music/Tracks/JINGO JUNGLE (TV Size) - MYTH & ROID (🎧️ 2149).md",
-    "Music/Tracks/Champ'd Up Create 3 - Andy Poland (🎧️ 2148).md",
-    "Music/Tracks/Inferno - Onsa Media (🎧️ 1).md",
-    "Music/Tracks/Champ'd Up Create 3 - Andy Poland (🎧️ 2149).md",
-    "Music/Tracks/JINGO JUNGLE (TV Size) - MYTH & ROID (🎧️ 2148).md",
-    "Music/Playlists/Anime (💿 3).md",
-    "Music/Tracks/Bizarre Divertimento - Kitaouji Mizuki (🎧️ 2193).md",
-    "Music/Tracks/Bizarre Divertimento - Kitaouji Mizuki (🎧️ 2194).md",
-    "Music/Tracks/Stuffed Animal - dai (🎧️ 2194).md",
-    "Music/Tracks/Stuffed Animal - dai (🎧️ 2193).md",
-    "Music/Tracks/Cardiogram Climax - Nankidai (🎧️ 2210).md",
-    "Music/Tracks/Cardiogram Climax - Nankidai (🎧️ 2248).md",
-    "Music/Tracks/Cardiogram Rise - Nankidai (🎧️ 2211).md",
-    "Music/Tracks/Cardiogram Rise - Nankidai (🎧️ 2218).md",
-    "Music/Tracks/Cardiogram Third Peak - Nankidai (🎧️ 2213).md",
-    "Music/Tracks/Cardiogram Third Peak - Nankidai (🎧️ 2232).md",
+    "Music/Covers/Shrek 3 OST - 01 Royal Pain.jpg",
+    "Music/Covers/Shrek 1 OST.jpg",
+    "Music/Covers/Shrek 2 OST.jpg",
+    "Music/Covers/Shrek 2 OST - 05 Funkytown.jpg",
+    "Music/Covers/Shrek 2 OST - 01 Accidentally in Love.jpg",
+    "Music/Covers/Shrek 2 OST - 03 Changes.jpg",
+    "Music/Covers/Shrek 3 OST.jpg",
+    "Music/Covers/Shrek OST.jpg",
     "Music/Covers/Death Note OST I.jpg",
+    "Music/Covers/Death Note OST I_fixed.jpg",
+    "Music/Covers/Death Note OST I.jpg.bak",
+    "Note/projects/unreal engine/Skyway",
     "Note/projects/JiGit",
     "Note/excalidraw",
     "Personal/Пароли.kdbx.eXxkJy",
     "file:/home/adamm/Downloads/Telegram Desktop/РЕФЕРАТ.pdf",
     "Art/art.base",
-    "file:/home/adamm/Downloads/Telegram Desktop/Захват_экрана_в_Firefox_на_Niri_Google_Gemini.pdf",
-    "file:/home/adamm/Downloads/Telegram Desktop/6a9d9728f47e73b5f9d6b0b3_aetherandstoneteambrief.pdf.pdf",
-    "cpp_lectures.pdf",
-    "Music/Covers/Spider-Man 2 The Game OST.jpg",
-    "Music/Covers/cover.jpg",
-    "Music/Covers/Quiplash OST.jpg",
-    "Music/Covers/Jackbox Party Pack 7 OST.jpg",
-    "Music/Covers/Jackbox Party Pack 6 OST.jpg",
-    "Music/Covers/Jackbox Party Pack 2 OST.jpg",
-    "Music/Covers/Jackbox Party Pack 4 OST.jpg",
-    "Music/Covers/DANGANRONPA V3 OST WHITE.jpg",
-    "Music/Covers/DANGANRONPA V3 OST WHITE.jpg"
+    "file:/home/adamm/Downloads/Telegram Desktop/Захват_экрана_в_Firefox_на_Niri_Google_Gemini.pdf"
   ]
 }

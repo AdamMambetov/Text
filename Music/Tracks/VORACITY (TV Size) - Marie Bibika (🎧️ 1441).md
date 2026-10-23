@@ -8,7 +8,7 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
-CoverOf: "[[VORACITY (TV Size) - MYTH & ROID (🎧️ 2094)]]"
+CoverOf: "[[VORACITY (TV Size) - MYTH & ROID (🎧️ 2093)]]"
 Creators:
   - "[[Marie Bibika (🎙️ 372)]]"
 ListenInSec: 178

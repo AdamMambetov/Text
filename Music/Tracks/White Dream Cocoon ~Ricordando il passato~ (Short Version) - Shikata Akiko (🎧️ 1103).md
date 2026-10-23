@@ -14,7 +14,7 @@ Creators:
 ListenInSec: 518
 NumberInAlbum: 240
 related:
-  - "[[Byakumu no Mayu ~Ricordando il passato~ - Shikata Akiko (🎧️ 1993)]]"
+  - "[[Byakumu no Mayu ~Ricordando il passato~ - Shikata Akiko (🎧️ 1992)]]"
 source: ""
 SourceFile: "[[Umineko no Naku Koro ni OST - 240 Кокон чистых снов -Ricordando il passato-.ogg]]"
 ---

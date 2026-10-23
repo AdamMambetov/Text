@@ -5,13 +5,13 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 2020
 Album: ""
-CoverOf: "[[Bad Apple - Touhou Project (🎧️ 1708)]]"
+CoverOf: "[[Bad Apple - Touhou Project (🎧️ 1707)]]"
 Creators:
   - "[[Avlönskt (🎙️ 1)]]"
 ListenInSec: 9934
 NumberInAlbum: 0
 related:
-  - "[[Bad Apple - Anton Cloudjumper Gustin (🎧️ 2101)]]"
+  - "[[Bad Apple - Anton Cloudjumper Gustin (🎧️ 2100)]]"
 SourceFile: "[[Avlonskt - Bad Apple.mp3]]"
 ---
 

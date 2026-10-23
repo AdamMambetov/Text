@@ -13,7 +13,7 @@ Creators:
 ListenInSec: 552
 NumberInAlbum: 1
 related:
-  - "[[Resonance - T.M. Revolution (🎧️ 1999)]]"
+  - "[[Resonance - T.M. Revolution (🎧️ 1998)]]"
 source:
 SourceFile: "[[T.M. Revolution - Resonance (TV Size).mp3]]"
 ---

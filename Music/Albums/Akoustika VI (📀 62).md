@@ -9,12 +9,12 @@ Creators:
 source: https://youtube.com/playlist?list=PLnfa_HdbN_GO6ZHQ6iazN5FDwX0rb030Q&si=DbC3Vg2W0J5c5i_u
 tracklist:
   - "en-counse 〜guitar vocal ver.〜"
-  - "[[le4-octobre 〜piano inst ver.〜 - xaki (🎧️ 1958)]]"
+  - "[[le4-octobre 〜piano inst ver.〜 - xaki (🎧️ 1957)]]"
   - "Intellectual Rapist 〜piano vocal ver.〜"
-  - "[[axelle-ratio 〜guitar inst ver.〜 - xaki (🎧️ 1959)]]"
-  - "[[en-counse 〜guitar vocal ver.〜 (without vocal) - xaki (🎧️ 1960)]]"
+  - "[[axelle-ratio 〜guitar inst ver.〜 - xaki (🎧️ 1958)]]"
+  - "[[en-counse 〜guitar vocal ver.〜 (without vocal) - xaki (🎧️ 1959)]]"
   - "Intellectual Rapist 〜piano vocal ver.〜[without vocal]"
-  - "[[bore-ral (without vocal) - xaki (🎧️ 1961)]]"
+  - "[[bore-ral (without vocal) - xaki (🎧️ 1960)]]"
 ---
 
 # Akoustika VI

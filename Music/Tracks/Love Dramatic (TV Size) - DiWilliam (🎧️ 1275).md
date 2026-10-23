@@ -7,14 +7,14 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
-CoverOf: "[[Love Dramatic (TV Size) - Masayuki Suzuki (🎧️ 1589)]]"
+CoverOf: "[[Love Dramatic (TV Size) - Masayuki Suzuki (🎧️ 1588)]]"
 Creators:
   - "[[DiWilliam (🎙️ 60)]]"
   - "[[Felya (🎙️ 58)]]"
 ListenInSec: 237
 NumberInAlbum: 0
 related:
-  - "[[Love Dramatic - Masayuki Suzuki (🎧️ 1588)]]"
+  - "[[Love Dramatic - Masayuki Suzuki (🎧️ 1587)]]"
 source: ""
 SourceFile: "[[DiWilliam - Love Dramatic.mp3]]"
 ---

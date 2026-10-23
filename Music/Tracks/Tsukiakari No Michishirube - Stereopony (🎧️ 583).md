@@ -13,7 +13,7 @@ Creators:
 ListenInSec: 557
 NumberInAlbum: 0
 related:
-  - "[[Tsukiakari No Michishirube (TV Size) - Stereopony (🎧️ 1696)]]"
+  - "[[Tsukiakari No Michishirube (TV Size) - Stereopony (🎧️ 1695)]]"
 source: ""
 SourceFile: "[[Stereopony - Tsukiakari No Michishirube.mp3]]"
 ---

@@ -14,7 +14,6 @@ NumberInAlbum: 2
 related: []
 source:
 SourceFile: "[[Youssoupha - I Know.mp3]]"
-this.tracklist: "[[I Know - Irma (🎧️ 350)]]"
 ---
 
 # Youssoupha - I Know

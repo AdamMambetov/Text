@@ -12,9 +12,9 @@ tracklist:
   - "Chinkonka ga Kikoetekitanara ~REQUIEM~ ~piano inst ver.~"
   - "Rokkenjima Bojou ~guitar vocal ver.~"
   - "CORE BLUE ~guitar vocal ver.~ (without vocal)"
-  - "[[Rokkenjima Bojou ~guitar vocal ver.~ (without vocal) - xaki (🎧️ 1971)]]"
-  - "[[Peace Eases ~guitar vocal ver.~ - xaki (🎧️ 1972)]]"
-  - "[[Peace Eases ~guitar vocal ver~ (without vocal) - xaki (🎧️ 1973)]]"
+  - "[[Rokkenjima Bojou ~guitar vocal ver.~ (without vocal) - xaki (🎧️ 1970)]]"
+  - "[[Peace Eases ~guitar vocal ver.~ - xaki (🎧️ 1971)]]"
+  - "[[Peace Eases ~guitar vocal ver~ (without vocal) - xaki (🎧️ 1972)]]"
 ---
 
 # Akoustika X

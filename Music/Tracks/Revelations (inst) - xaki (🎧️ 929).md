@@ -12,7 +12,7 @@ Creators:
 ListenInSec: 554
 NumberInAlbum: 192
 related:
-  - "[[Revelations - xaki (🎧️ 2197)]]"
+  - "[[Revelations - xaki (🎧️ 2196)]]"
 source: ""
 SourceFile: "[[Umineko no Naku Koro ni OST - 192 Откровение (инст.).ogg]]"
 ---

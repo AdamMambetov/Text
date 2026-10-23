@@ -4,7 +4,7 @@ aliases:
   - "Nine Thou (Superstars Remix) (Game Version)"
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
-Album: "[[Need For Speed Most Wanted OST (📀 51)]]"
+Album: "[[Need For Speed Most Wanted OST (📀 52)]]"
 CoverOf: ""
 Creators:
   - "[[Styles of Beyond (🎙️ 546)]]"

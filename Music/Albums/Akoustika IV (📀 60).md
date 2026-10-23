@@ -14,9 +14,9 @@ tracklist:
   - "Revelations ~07thLIVE ver.~"
   - "rhythm-changer ~guitar inst ver.~"
   - "Hadou -Kono Koe- ~guitar vocal ver.~ [without vocal]"
-  - "[[Birth of a new witch ～07thLIVE ver.～ (without vocal) - xaki (🎧️ 1954)]]"
+  - "[[Birth of a new witch ～07thLIVE ver.～ (without vocal) - xaki (🎧️ 1953)]]"
   - "Rapa - The End Of The World ～07thLIVE ver.～ [without vocal]"
-  - "[[Revelations ～07thLIVE ver.～ (without vocal) - xaki (🎧️ 1955)]]"
+  - "[[Revelations ～07thLIVE ver.～ (without vocal) - xaki (🎧️ 1954)]]"
 ---
 
 # Akoustika IV

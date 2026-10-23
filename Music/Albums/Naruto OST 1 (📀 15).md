@@ -1,5 +1,5 @@
 ---
-created: 2024-07-18T15:34:45+03:00
+created: 2024-07-18T15:40:45
 aliases:
   - "Naruto OST 1"
 Cover: "[[Naruto OST 1.jpg]]"
@@ -30,7 +30,7 @@ tracklist:
   - "Reversal"
   - "Victory"
   - "[[Naruto Main Theme - Musashi Project (🎧️ 367)]]"
-  - "[[Wind - Akeboshi (🎧️ 1634)]]"
+  - "[[Wind - Akeboshi (🎧️ 1633)]]"
 ---
 
 ![[Naruto OST 1.jpg]]

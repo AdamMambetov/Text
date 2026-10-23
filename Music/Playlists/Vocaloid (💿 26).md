@@ -4,7 +4,7 @@ aliases:
   - "Vocaloid"
   - "Вокалоид"
 tracklist:
-  - "[[Hoshikuzu Utopia - otetsu (🎧️ 2027)]]"
+  - "[[Hoshikuzu Utopia - otetsu (🎧️ 2026)]]"
 ---
 
 # Vocaloid

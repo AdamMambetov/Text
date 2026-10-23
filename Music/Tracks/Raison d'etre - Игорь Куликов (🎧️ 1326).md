@@ -7,7 +7,7 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 2022
 Album: ""
-CoverOf: "[[Raison d'etre - NIGHTMARE (🎧️ 1585)]]"
+CoverOf: "[[Raison d'etre - NIGHTMARE (🎧️ 1584)]]"
 Creators:
   - "[[Игорь Куликов (🎙️ 71)]]"
 ListenInSec: 2848

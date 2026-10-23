@@ -5,7 +5,7 @@ aliases:
   - "Guts"
 Cover: "[[BERSERK OST.jpg]]"
 Year: 1997
-Album: "[[BERSERK OST (📀 6)]]"
+Album: "[[BERSERK OST (📀 14)]]"
 CoverOf: ""
 Creators:
   - "[[Susumu Hirasawa (🎙️ 450)]]"
