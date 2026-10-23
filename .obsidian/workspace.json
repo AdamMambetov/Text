@@ -35,13 +35,14 @@
             "id": "18891cc345a2656e",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Music/tracks.base",
-                "viewName": "Created Group"
+                "file": "Note/projects/unreal engine/Skyway/Skyway — координаты фундаментов для Editor Utility Widget.md",
+                "mode": "preview",
+                "source": true
               },
-              "icon": "lucide-table",
-              "title": "tracks"
+              "icon": "lucide-file",
+              "title": "Skyway — координаты фундаментов для Editor Utility Widget"
             }
           }
         ],
@@ -113,7 +114,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Music/tracks.base",
+                "file": "Note/projects/unreal engine/Skyway/Skyway — координаты фундаментов для Editor Utility Widget.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -323,8 +324,13 @@
   },
   "active": "18891cc345a2656e",
   "lastOpenFiles": [
-    "Music/Tracks/Wanna b (TV Size) - TeddyLoid (🎧️ 2152).md",
+    "Music/Tracks/Wake Me up When September Ends - Green Day (🎧️ 116).md",
+    "Music/Tracks/American Idiot - Green Day (🎧️ 1155).md",
+    "Note/projects/unreal engine/Skyway/Skyway — координаты фундаментов для Editor Utility Widget.md",
+    "Note/projects/unreal engine/Skyway",
+    "Note/_inbox/excalidraw/Music Player Scheme.excalidraw.md",
     "Music/tracks.base",
+    "Music/Tracks/Wanna b (TV Size) - TeddyLoid (🎧️ 2152).md",
     "Note/templates/track created update template.md",
     "Note/templates/_track update all capture.md",
     "Music/Tracks/Yume no Ito (TV Size) - Kitou Akari (🎧️ 2153).md",
@@ -346,9 +352,6 @@
     "Music/Tracks/Cardiogram Rise - Nankidai (🎧️ 2218).md",
     "Music/Tracks/Cardiogram Third Peak - Nankidai (🎧️ 2213).md",
     "Music/Tracks/Cardiogram Third Peak - Nankidai (🎧️ 2232).md",
-    "Music/Tracks/Connecting Together A - Nankidai (🎧️ 2214).md",
-    "Music/Tracks/Connecting Together A - Nankidai (🎧️ 2212).md",
-    "Music/Tracks/Connecting Together B - Nankidai (🎧️ 2215).md",
     "Music/Covers/Death Note OST I.jpg",
     "Note/projects/JiGit",
     "Note/excalidraw",
@@ -358,7 +361,6 @@
     "file:/home/adamm/Downloads/Telegram Desktop/Захват_экрана_в_Firefox_на_Niri_Google_Gemini.pdf",
     "file:/home/adamm/Downloads/Telegram Desktop/6a9d9728f47e73b5f9d6b0b3_aetherandstoneteambrief.pdf.pdf",
     "cpp_lectures.pdf",
-    "ЕвроСервис",
     "Music/Covers/Spider-Man 2 The Game OST.jpg",
     "Music/Covers/cover.jpg",
     "Music/Covers/Quiplash OST.jpg",

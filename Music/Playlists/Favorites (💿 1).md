@@ -1,7 +1,7 @@
 ---
 created: 2025-11-23T23:02:00+03:00
 aliases:
-  - "Favorites"
+  - Favorites
 tracklist:
   - "[[Птичья песнь - Radiant Records (🎧️ 1726)]]"
   - "[[Сорванный плод - Radiant Records (🎧️ 1728)]]"
@@ -424,7 +424,7 @@ tracklist:
   - "[[Angus Mcfife - Gloryhammer (🎧️ 1158)]]"
   - "[[Angel - Theory Of A Deadman (🎧️ 1157)]]"
   - "[[Ancient History - Set It Off (🎧️ 1156)]]"
-  - "[[Wake Me Up When September Ends - Green Day (🎧️ 1155)]]"
+  - "[[American Idiot - Green Day (🎧️ 1155)]]"
   - "[[Ameno - Era (🎧️ 1154)]]"
   - "[[Alien Alien (Nhato Remix) - NayutalieN (🎧️ 1151)]]"
   - "[[Hi no Tsuki - ALI PROJECT (🎧️ 1150)]]"
