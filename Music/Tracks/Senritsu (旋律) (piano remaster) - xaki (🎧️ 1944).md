@@ -8,7 +8,7 @@ Album: "[[Akoustika (📀 57)]]"
 CoverOf: ""
 Creators:
   - "[[xaki (🎙️ 12)]]"
-ListenInSec: 1028
+ListenInSec: 1521
 NumberInAlbum: 7
 related: []
 SourceFile: "[[xaki - Senritsu (旋律) (piano remaster).mp3]]"

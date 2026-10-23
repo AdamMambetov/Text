@@ -8,7 +8,7 @@ Album: "[[Naku Naku Solo Guitar 2 (📀 55)]]"
 CoverOf: ""
 Creators:
   - "[[nekocapo (🎙️ 1007)]]"
-ListenInSec: 465
+ListenInSec: 689
 NumberInAlbum: 2
 related: []
 SourceFile: "[[nekocapo - far.mp3]]"

@@ -6,12 +6,12 @@ aliases:
   - "Когда плачут чайки OP 1"
 Cover: "[[Umineko no Naku Koro Ni OST 1.jpg]]"
 Year: 2010
-Album: "[[Umineko no Naku Koro ni OST — 07th Expansion]]"
+Album: "[[Umineko no Naku Koro ni OST (📀 30)]]"
 CoverOf: ""
 Creators:
   - "[[Chiyomaru Shikura (🎙️ 865)]]"
   - "[[KOKOMI (🎙️ 866)]]"
-ListenInSec: 447
+ListenInSec: 549
 NumberInAlbum: 1
 related: []
 source: ""

@@ -5,11 +5,11 @@ aliases:
   - "Надежда"
 Cover: "[[Umineko no Naku Koro Ni OST 1.jpg]]"
 Year: 2007
-Album: "[[Umineko no Naku Koro ni OST — 07th Expansion]]"
+Album: "[[Umineko no Naku Koro ni OST (📀 30)]]"
 CoverOf: ""
 Creators:
   - "[[dai (🎙️ 3)]]"
-ListenInSec: 425
+ListenInSec: 605
 NumberInAlbum: 8
 related:
   - "[[Moshimo Boku ga -hope- - dai (🎧️ 2154)]]"

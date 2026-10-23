@@ -4,11 +4,11 @@ aliases:
   - "reflection-call"
 Cover: "[[Umineko no Naku Koro Ni OST 1.jpg]]"
 Year: 2007
-Album: "[[Umineko no Naku Koro ni OST — 07th Expansion]]"
+Album: "[[Umineko no Naku Koro ni OST (📀 30)]]"
 CoverOf: ""
 Creators:
   - "[[xaki (🎙️ 12)]]"
-ListenInSec: 1461
+ListenInSec: 1751
 NumberInAlbum: 164
 related: []
 SourceFile: "[[Umineko no Naku Koro ni OST - 164 reflection-call.ogg]]"

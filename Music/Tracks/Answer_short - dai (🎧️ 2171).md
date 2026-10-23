@@ -9,7 +9,7 @@ Album: "[[Umineko no Naku Koro ni OST (📀 30)]]"
 CoverOf: ""
 Creators:
   - "[[dai (🎙️ 3)]]"
-ListenInSec: 232
+ListenInSec: 342
 NumberInAlbum: 48
 related:
   - "[[Answer - dai (🎧️ 2170)]]"

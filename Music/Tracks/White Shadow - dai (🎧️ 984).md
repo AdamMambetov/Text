@@ -5,11 +5,11 @@ aliases:
   - "Бледная тень"
 Cover: "[[Umineko no Naku Koro Ni OST 1.jpg]]"
 Year: 2007
-Album: "[[Umineko no Naku Koro ni OST — 07th Expansion]]"
+Album: "[[Umineko no Naku Koro ni OST (📀 30)]]"
 CoverOf: ""
 Creators:
   - "[[dai (🎙️ 3)]]"
-ListenInSec: 676
+ListenInSec: 761
 NumberInAlbum: 9
 related: []
 source: ""

@@ -1,0 +1,21 @@
+---
+created: 2024-04-12T15:00:43+03:00
+aliases:
+  - "liberatedliberator"
+  - "Освободившийся освободитель"
+Cover: "[[Umineko no Naku Koro Ni OST 1.jpg]]"
+Year: 2007
+Album: "[[Umineko no Naku Koro ni OST (📀 30)]]"
+CoverOf: ""
+Creators:
+  - "[[zts (🎙️ 15)]]"
+ListenInSec: 1705
+NumberInAlbum: 157
+related: []
+source: ""
+SourceFile: "[[Umineko no Naku Koro ni OST - 157 Освободившийся освободитель.ogg]]"
+---
+
+# Umineko no Naku Koro ni OST - 157 Освободившийся освободитель
+
+![[Umineko no Naku Koro ni OST - 157 Освободившийся освободитель.ogg]]

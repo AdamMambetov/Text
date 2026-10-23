@@ -5,11 +5,11 @@ aliases:
   - "В путь"
 Cover: "[[Umineko no Naku Koro Ni OST 1.jpg]]"
 Year: 2007
-Album: "[[Umineko no Naku Koro ni OST — 07th Expansion]]"
+Album: "[[Umineko no Naku Koro ni OST (📀 30)]]"
 CoverOf: ""
 Creators:
   - "[[dai (🎙️ 3)]]"
-ListenInSec: 385
+ListenInSec: 572
 NumberInAlbum: 4
 related: []
 source: ""

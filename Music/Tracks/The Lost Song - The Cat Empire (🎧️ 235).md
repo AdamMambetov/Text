@@ -8,7 +8,7 @@ Album: "[[The Cat Empire [2012] {The Cat Empire}]]"
 CoverOf: ""
 Creators:
   - "[[The Cat Empire (🎙️ 533)]]"
-ListenInSec: 196
+ListenInSec: 391
 NumberInAlbum: 3
 related: []
 source:

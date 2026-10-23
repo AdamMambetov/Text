@@ -1,0 +1,26 @@
+---
+created: 2024-04-12T15:01:16+03:00
+aliases:
+  - "Wings"
+  - "КРЫЛЬЯ (Вер. Надежды)"
+  - "TSUBASA (Ver hope)"
+Cover: "[[Umineko no Naku Koro Ni OST 1.jpg]]"
+Year: 2007
+Album: "[[Umineko no Naku Koro ni OST (📀 30)]]"
+CoverOf: ""
+Creators:
+  - "[[dai (🎙️ 3)]]"
+  - "[[pino (🎙️ 8)]]"
+  - "[[Luck Ganriki (🎙️ 4)]]"
+  - "[[E. Kida (🎙️ 9)]]"
+  - "[[Katakiri Rekka (🎙️ 10)]]"
+ListenInSec: 274
+NumberInAlbum: 134
+related: []
+source: ""
+SourceFile: "[[Umineko no Naku Koro ni OST - 134 КРЫЛЬЯ (Вер. Надежды).ogg]]"
+---
+
+# Umineko no Naku Koro ni OST - 134 КРЫЛЬЯ (Вер. Надежды)
+
+![[Umineko no Naku Koro ni OST - 134 КРЫЛЬЯ (Вер. Надежды).ogg]]

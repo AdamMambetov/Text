@@ -9,7 +9,7 @@ Album: "[[Naku Naku Solo Guitar 2.5 — nekocapo]]"
 CoverOf: "[[Dance of the Moon Rabbits - dai (🎧️ 1025)]]"
 Creators:
   - "[[nekocapo (🎙️ 1007)]]"
-ListenInSec: 1204
+ListenInSec: 1303
 NumberInAlbum: 1
 related: []
 source: https://youtu.be/JMWPeKdIBCo?si=eNNY02TWEbm0znb_

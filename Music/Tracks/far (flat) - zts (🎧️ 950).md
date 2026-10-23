@@ -1,0 +1,22 @@
+---
+created: 2024-04-12T14:59:49+03:00
+aliases:
+  - "far (flat)"
+  - "Далеко - далеко... (бемоль)"
+Cover: "[[Umineko no Naku Koro Ni OST 1.jpg]]"
+Year: 2007
+Album: "[[Umineko no Naku Koro ni OST (📀 30)]]"
+CoverOf: ""
+Creators:
+  - "[[zts (🎙️ 15)]]"
+ListenInSec: 721
+NumberInAlbum: 173
+related:
+  - "[[far - zts (🎧️ 1039)]]"
+source: ""
+SourceFile: "[[Umineko no Naku Koro ni OST - 173 Далеко - далеко... (бемоль).ogg]]"
+---
+
+# Umineko no Naku Koro ni OST - 173 Далеко - далеко... (бемоль)
+
+![[Umineko no Naku Koro ni OST - 173 Далеко - далеко... (бемоль).ogg]]

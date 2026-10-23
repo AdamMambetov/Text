@@ -4,6 +4,6 @@ aliases:
   - "Motoki Zakuro"
   - "本木咲黒"
   - "猫招き歌劇団"
-ListenInSec: 600
+ListenInSec: 1023
 ---
 

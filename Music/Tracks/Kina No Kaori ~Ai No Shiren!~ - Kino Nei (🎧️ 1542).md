@@ -11,7 +11,7 @@ Creators:
 ListenInSec: 1473
 NumberInAlbum: 1
 related:
-  - "[[Сверху вниз, наискосок - Luck Ganriki (🎧️ 956)]]"
+  - "[[Kina no Kaori - Luck Ganriki (🎧️ 956)]]"
 source: ""
 SourceFile: "[[Kino Nei - Kina No Kaori ~Ai No Shiren!~.mp3]]"
 ---

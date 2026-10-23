@@ -8,7 +8,7 @@ Album: "[[Akoustika IX (📀 65)]]"
 CoverOf: ""
 Creators:
   - "[[xaki (🎙️ 12)]]"
-ListenInSec: 300
+ListenInSec: 307
 NumberInAlbum: 4
 related: []
 SourceFile: "[[xaki - rainy-report ~piano guitar vocal ver.~ (without vocal).mp3]]"

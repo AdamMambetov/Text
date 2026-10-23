@@ -5,11 +5,11 @@ aliases:
   - "“Идиллия”"
 Cover: "[[Umineko no Naku Koro Ni OST 1.jpg]]"
 Year: 2007
-Album: "[[Umineko no Naku Koro ni OST — 07th Expansion]]"
+Album: "[[Umineko no Naku Koro ni OST (📀 30)]]"
 CoverOf: ""
 Creators:
   - "[[Sumiisan (🎙️ 2)]]"
-ListenInSec: 1186
+ListenInSec: 1443
 NumberInAlbum: 10
 related: []
 source: ""

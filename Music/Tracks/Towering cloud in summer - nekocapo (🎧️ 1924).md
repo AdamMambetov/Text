@@ -8,7 +8,7 @@ Album: "[[Naku Naku Solo Guitar (📀 54)]]"
 CoverOf: ""
 Creators:
   - "[[nekocapo (🎙️ 1007)]]"
-ListenInSec: 1066
+ListenInSec: 1221
 NumberInAlbum: 1
 related: []
 source: https://youtu.be/0yLoCBXFdFw?si=jZcUhd8mAeqpDgKr

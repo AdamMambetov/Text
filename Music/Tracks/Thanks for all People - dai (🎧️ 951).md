@@ -1,0 +1,21 @@
+---
+created: 2024-04-12T14:59:50+03:00
+aliases:
+  - "Thanks for all People"
+  - "Спасибо всем"
+Cover: "[[Umineko no Naku Koro Ni OST 1.jpg]]"
+Year: 2007
+Album: "[[Umineko no Naku Koro ni OST (📀 30)]]"
+CoverOf: ""
+Creators:
+  - "[[dai (🎙️ 3)]]"
+ListenInSec: 184
+NumberInAlbum: 158
+related: []
+source: ""
+SourceFile: "[[Umineko no Naku Koro ni OST - 158 Спасибо всем.ogg]]"
+---
+
+# Umineko no Naku Koro ni OST - 158 Спасибо всем
+
+![[Umineko no Naku Koro ni OST - 158 Спасибо всем.ogg]]

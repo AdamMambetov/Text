@@ -10,7 +10,7 @@ Album: "[[Umineko no Naku Koro ni OST (📀 30)]]"
 CoverOf: ""
 Creators:
   - "[[pre-holder (🎙️ 5)]]"
-ListenInSec: 238
+ListenInSec: 475
 NumberInAlbum: 52
 related: []
 source: ""

@@ -9,7 +9,7 @@ Album: "[[Umineko no Naku Koro ni OST (📀 30)]]"
 CoverOf: ""
 Creators:
   - "[[xaki (🎙️ 12)]]"
-ListenInSec: 2846
+ListenInSec: 3109
 NumberInAlbum: 163
 related:
   - "[[l&d-circulation ~guitar inst ver.~ - xaki (🎧️ 1963)]]"

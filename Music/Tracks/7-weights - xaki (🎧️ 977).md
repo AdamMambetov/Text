@@ -5,11 +5,11 @@ aliases:
   - "7 весов"
 Cover: "[[Umineko no Naku Koro Ni OST 1.jpg]]"
 Year: 2007
-Album: "[[Umineko no Naku Koro ni OST — 07th Expansion]]"
+Album: "[[Umineko no Naku Koro ni OST (📀 30)]]"
 CoverOf: ""
 Creators:
   - "[[xaki (🎙️ 12)]]"
-ListenInSec: 3019
+ListenInSec: 3395
 NumberInAlbum: 166
 related:
   - "[[7-weights 〜piano inst ver.〜 - xaki (🎧️ 1962)]]"

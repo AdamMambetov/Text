@@ -9,7 +9,7 @@ Album: "[[Umineko no Naku Koro ni OST (📀 30)]]"
 CoverOf: ""
 Creators:
   - "[[Ryu-Ga (🎙️ 1068)]]"
-ListenInSec: 187
+ListenInSec: 255
 NumberInAlbum: 91
 related: []
 source: ""

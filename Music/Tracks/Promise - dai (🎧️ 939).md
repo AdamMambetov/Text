@@ -1,0 +1,23 @@
+---
+created: 2024-04-12T14:59:14+03:00
+aliases:
+  - "Promise"
+  - "Обещание"
+  - "yakusoku_vocal"
+Cover: "[[Umineko no Naku Koro Ni OST 1.jpg]]"
+Year: 2007
+Album: "[[Umineko no Naku Koro ni OST (📀 30)]]"
+CoverOf: ""
+Creators:
+  - "[[dai (🎙️ 3)]]"
+  - "[[Yuudai (🎙️ 7)]]"
+ListenInSec: 381
+NumberInAlbum: 132
+related: []
+source: ""
+SourceFile: "[[Umineko no Naku Koro ni OST - 132 Обещание.ogg]]"
+---
+
+# Umineko no Naku Koro ni OST - 132 Обещание
+
+![[Umineko no Naku Koro ni OST - 132 Обещание.ogg]]

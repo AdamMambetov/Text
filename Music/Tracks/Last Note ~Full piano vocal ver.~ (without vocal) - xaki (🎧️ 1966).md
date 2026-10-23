@@ -8,7 +8,7 @@ Album: "[[Akoustika VII (📀 63)]]"
 CoverOf: ""
 Creators:
   - "[[xaki (🎙️ 12)]]"
-ListenInSec: 472
+ListenInSec: 473
 NumberInAlbum: 8
 related: []
 SourceFile: "[[xaki - Last Note ~Full piano vocal ver.~ (without vocal).mp3]]"

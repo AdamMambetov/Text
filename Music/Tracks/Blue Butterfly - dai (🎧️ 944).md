@@ -1,0 +1,21 @@
+---
+created: 2024-04-12T14:59:32+03:00
+aliases:
+  - "Blue Butterfly"
+  - "Синяя бабочка"
+Cover: "[[Umineko no Naku Koro Ni OST 1.jpg]]"
+Year: 2007
+Album: "[[Umineko no Naku Koro ni OST (📀 30)]]"
+CoverOf: ""
+Creators:
+  - "[[dai (🎙️ 3)]]"
+ListenInSec: 946
+NumberInAlbum: 140
+related: []
+source: ""
+SourceFile: "[[Umineko no Naku Koro ni OST - 140 Синяя бабочка.ogg]]"
+---
+
+# Umineko no Naku Koro ni OST - 140 Синяя бабочка
+
+![[Umineko no Naku Koro ni OST - 140 Синяя бабочка.ogg]]

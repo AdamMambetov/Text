@@ -5,11 +5,11 @@ aliases:
   - "Тигровая лилия"
 Cover: "[[Umineko no Naku Koro Ni OST 1.jpg]]"
 Year: 2007
-Album: "[[Umineko no Naku Koro ni OST — 07th Expansion]]"
+Album: "[[Umineko no Naku Koro ni OST (📀 30)]]"
 CoverOf: ""
 Creators:
   - "[[Sumiisan (🎙️ 2)]]"
-ListenInSec: 352
+ListenInSec: 924
 NumberInAlbum: 1
 related: []
 source: ""

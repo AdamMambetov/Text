@@ -9,7 +9,7 @@ Album: "[[Akoustika VII — xaki]]"
 CoverOf: ""
 Creators:
   - "[[xaki (🎙️ 12)]]"
-ListenInSec: 737
+ListenInSec: 1192
 NumberInAlbum: 3
 related:
   - "[[7-weights - xaki (🎧️ 977)]]"

@@ -9,7 +9,7 @@ Album: "[[Umineko no Naku Koro ni OST (📀 30)]]"
 CoverOf: ""
 Creators:
   - "[[zts (🎙️ 15)]]"
-ListenInSec: 663
+ListenInSec: 1272
 NumberInAlbum: 67
 related: []
 source: ""

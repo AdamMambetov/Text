@@ -6,14 +6,14 @@ aliases:
   - "the_end_of_the_world_inst_mst"
 Cover: "[[Umineko no Naku Koro Ni OST 1.jpg]]"
 Year: 2007
-Album: "[[Umineko no Naku Koro ni OST — 07th Expansion]]"
+Album: "[[Umineko no Naku Koro ni OST (📀 30)]]"
 CoverOf: ""
 Creators:
   - "[[xaki (🎙️ 12)]]"
   - "[[sunny (🎙️ 18)]]"
   - "[[cap (🎙️ 19)]]"
   - "[[pyon (🎙️ 20)]]"
-ListenInSec: 587
+ListenInSec: 875
 NumberInAlbum: 180
 related:
   - "[[The End Of The World ~piano inst ver.~ - xaki (🎧️ 1943)]]"

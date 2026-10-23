@@ -13,7 +13,7 @@ Creators:
   - "[[cap (🎙️ 19)]]"
   - "[[pyon (🎙️ 20)]]"
   - "[[Sakura Kanae (🎙️ 21)]]"
-ListenInSec: 343
+ListenInSec: 514
 NumberInAlbum: 109
 related: []
 source: ""

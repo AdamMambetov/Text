@@ -8,7 +8,7 @@ Album: "[[Akoustika VI — xaki]]"
 CoverOf: ""
 Creators:
   - "[[xaki (🎙️ 12)]]"
-ListenInSec: 581
+ListenInSec: 842
 NumberInAlbum: 5
 related:
   - "[[en-counse - xaki (🎧️ 2195)]]"

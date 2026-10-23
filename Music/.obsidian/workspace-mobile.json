@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tracks/Organ short 600 million in C minor - String quartet DEQUAR (🎧️ 1914).md",
+                "file": "Tracks/Лунная ночь - Sumiisan (🎧️ 1032).md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Organ short 600 million in C minor - String quartet DEQUAR (🎧️ 1914)"
+              "title": "Лунная ночь - Sumiisan (🎧️ 1032)"
+            }
+          },
+          {
+            "id": "a70e66391331659f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Albums/Umineko no Naku Koro ni OST (📀 30).md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Umineko no Naku Koro ni OST (📀 30)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +104,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Tracks/Organ short 600 million in C minor - String quartet DEQUAR (🎧️ 1914).md",
+            "file": "Albums/Umineko no Naku Koro ni OST (📀 30).md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -128,36 +143,37 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e9a665767e36d00d",
+  "active": "a70e66391331659f",
   "lastOpenFiles": [
-    "Tracks/Organ Short 600 Million in C Minor - nekocapo (🎧️ 1934).md",
-    "Albums/Naku Naku Solo Guitar 2 (📀 55).md",
-    "Tracks/About Face - nekocapo (🎧️ 1935).md",
-    "Albums/Naku Naku Solo Guitar (📀 54).md",
-    "Playlists/Мем (💿 15).md",
-    "Tracks/Let It Go - Scatman John (🎧️ 623).md",
-    "Creators/Jimmy Gnecco (🎙️ 839).md",
-    "Tracks/Whacked Out Conspiracy - James Dooley (🎧️ 1421).md",
-    "Creators/James Dooley (🎙️ 788).md",
-    "Creators/Eriko Shimizu (🎙️ 1004).md",
-    "Tracks/Burn It Down! - Alan Silvestri (🎧️ 653).md",
-    "Playlists/Любовь (💿 21).md",
-    "Tracks/Guardian of the Galaxy OST - The Rubberband Man - The Spinners (🎧️ 1673).md",
-    "Creators/Paul Linford (🎙️ 985).md",
-    "Tracks/Happy! Lucky! Dochy! - Tamura Yukari (🎧️ 2087).md",
+    "Tracks/Когда плачут чайки - Shikata Akiko (🎧️ 935).md",
+    "Albums/Umineko no Naku Koro ni OST (📀 30).md",
+    "Tracks/Byakumu no Mayu ~Ricordando il passato~ (Short Version) - Shikata Akiko (🎧️ 1103).md",
+    "Tracks/Откровение (инст.) - xaki (🎧️ 929).md",
+    "Tracks/Без названия (вер. сакуры ED) - sunny (🎧️ 954).md",
+    "Tracks/Богиня из сада - xaki (🎧️ 928).md",
+    "Tracks/Без названия (инстр. вер.) - sunny (🎧️ 964).md",
+    "Tracks/Он и она - конец - dai (🎧️ 934).md",
+    "Tracks/Кукольный театр - dai (🎧️ 958).md",
+    "Tracks/Прощальный выход - zts (🎧️ 961).md",
+    "Tracks/Ящик с игрушками - dai (🎧️ 976).md",
+    "Tracks/Далеко - далеко... (бемоль) - zts (🎧️ 950).md",
+    "Tracks/Золотой ноктюрн (инст.) - Luck Ganriki (🎧️ 968).md",
+    "Tracks/Без названия (инстр. вер. 2007) - sunny (🎧️ 957).md",
+    "Tracks/Продолжение сказки - xaki (🎧️ 969).md",
+    "Tracks/Осень - zts (🎧️ 952).md",
+    "Tracks/Дождь - zts (🎧️ 979).md",
+    "Tracks/АРОМАТ ПОДОЗРЕНИЯ - Luck Ganriki (🎧️ 963).md",
+    "Tracks/Рождение новой ведьмы (короткая) - Luck Ganriki (🎧️ 972).md",
+    "Tracks/Спасибо всем - dai (🎧️ 951).md",
+    "Tracks/Освободившийся освободитель - zts (🎧️ 967).md",
+    "Tracks/Выход есть - dai (🎧️ 965).md",
+    "Tracks/Перерождение - dai (🎧️ 980).md",
+    "Tracks/Поле битвы - Sayuri (🎧️ 978).md",
+    "Tracks/Антидемоническая секвенция - Kitaouji Mizuki (🎧️ 953).md",
+    "Tracks/Первый и последний - pre-holder (🎧️ 940).md",
+    "Covers/Umineko no Naku Koro Ni OST 1.jpg",
     "2026-10-09-postgresql.log",
-    "Playlists/100% Шедевр (💿 6).md",
-    "Albums/ПЕРЕПУТЬЕ (📀 33).md",
-    "Albums/8 Mile OST (📀 2).md",
-    "Tracks/Smiles Abound - Nankidai (🎧️ 1906).md",
-    "Tracks/Majority Vote - Nankidai (🎧️ 1363).md",
     "files/Pasted image 20251119232251.png",
-    "Playlists/YouTube (💿 9).md",
-    "tracks.base",
-    "Tracks/Warriors - League of Legends (🎧️ 702).md",
-    "Tracks/Warriors - League of Legends (🎧️ 167).md",
-    "Tracks/Hitorigoto (TV Size) (🎧️ 983).md",
-    "Tracks/Hitorigoto - Sati Akura (🎧️ 469).md",
-    "Tracks/Hitorigoto (🎧️ 1447).md"
+    "tracks.base"
   ]
 }

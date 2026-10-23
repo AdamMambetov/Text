@@ -1,0 +1,21 @@
+---
+created: 2024-04-12T15:04:36+03:00
+aliases:
+  - "soul_of_soul"
+  - "Духовность души"
+Cover: "[[Umineko no Naku Koro Ni OST 1.jpg]]"
+Year: 2007
+Album: "[[Umineko no Naku Koro ni OST (📀 30)]]"
+CoverOf: ""
+Creators:
+  - "[[dai (🎙️ 3)]]"
+ListenInSec: 649
+NumberInAlbum: 76
+related: []
+source: ""
+SourceFile: "[[Umineko no Naku Koro ni OST - 076 Духовность души.ogg]]"
+---
+
+# Umineko no Naku Koro ni OST - 076 Духовность души
+
+![[Umineko no Naku Koro ni OST - 076 Духовность души.ogg]]

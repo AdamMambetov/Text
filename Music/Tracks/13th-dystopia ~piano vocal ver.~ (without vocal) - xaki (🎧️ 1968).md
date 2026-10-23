@@ -8,7 +8,7 @@ Album: "[[Akoustika VIII (📀 64)]]"
 CoverOf: ""
 Creators:
   - "[[xaki (🎙️ 12)]]"
-ListenInSec: 617
+ListenInSec: 619
 NumberInAlbum: 6
 related: []
 SourceFile: "[[xaki - 13th-dystopia ~piano vocal ver.~ (without vocal).mp3]]"
