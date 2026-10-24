@@ -5,22 +5,22 @@ aliases:
   - "Птица с одним крылом"
   - "Umineko no Naku Koro Ni OP 1"
   - "Когда плачут чайки OP 1"
-Cover: "[[natsuki1023 - 志方あきこ　「片翼の鳥」　歌詞付.jpg]]"
+Cover: "[[Shikata Akiko - Katayoku no Tori.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""
 Creators:
   - "[[Shikata Akiko (🎙️ 22)]]"
-ListenInSec: 0
+ListenInSec: 275
 NumberInAlbum: 0
 related: []
 source: ""
-SourceFile: "[[natsuki1023 - 志方あきこ　「片翼の鳥」　歌詞付.mp3]]"
+SourceFile: "[[Shikata Akiko - Katayoku no Tori.mp3]]"
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`
 
-![[natsuki1023 - 志方あきこ　「片翼の鳥」　歌詞付.mp3]]
+![[Shikata Akiko - Katayoku no Tori.mp3]]
 
 ## Related Tracks
 

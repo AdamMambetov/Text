@@ -5,7 +5,7 @@ aliases:
 Cover: "[[ymetsys - Plants vs Zombies Soundtrack. [Day Stage].jpg]]"
 Year: 0
 Album: ""
-CoverOf:
+CoverOf: ""
 Creators:
   - "[[Laura Shigihara (🎙️ 1026)]]"
 ListenInSec: 270

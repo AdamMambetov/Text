@@ -5,7 +5,7 @@ aliases:
 Cover: "[[He-Man - HEYYEYAAEYAAAEYAEYAA.png]]"
 Year: 2010
 Album: ""
-CoverOf:
+CoverOf: ""
 Creators:
   - "[[slackcircus (🎙️ 952)]]"
 ListenInSec: 1198

@@ -1,5 +1,5 @@
 ---
-created: 2025-11-30T23:14:00+03:00
+created: 2025-12-01T00:19:00
 aliases:
   - "Anime Endings"
 tracklist:

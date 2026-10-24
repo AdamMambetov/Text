@@ -4,7 +4,7 @@ aliases:
   - "Bamboleo"
 Cover: "[[Gipsy Kings - Bamboleo.jpg]]"
 Year: 1988
-Album:
+Album: ""
 CoverOf: ""
 Creators:
   - "[[Gipsy Kings (🎙️ 874)]]"

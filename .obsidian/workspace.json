@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1dd773f85292e328",
+            "id": "b97417dd924a9ca8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Music/Creators/-45 (🎙️ 6).md",
+                "file": "Music/Playlists/100% Шедевр (💿 6).md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "-45 (🎙️ 6)"
+              "title": "100% Шедевр (💿 6)"
             }
           }
         ]
@@ -89,7 +89,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Music/Creators/-45 (🎙️ 6).md",
+                "file": "Music/Playlists/100% Шедевр (💿 6).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -112,7 +112,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.46822130772748016,
+                  "scale": 1.0534979423868305,
                   "close": true
                 }
               },
@@ -141,7 +141,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 336.5
+    "width": 336.5,
+    "collapsed": true
   },
   "right": {
     "id": "fa85d1514c56552d",
@@ -297,34 +298,38 @@
       "obsidian-local-images-plus:Local Images Plus  0.17.1\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "1dd773f85292e328",
+  "active": "b97417dd924a9ca8",
   "lastOpenFiles": [
+    "Music/playlists.base",
+    "Music/Playlists/Anime Endings (💿 5).md",
+    "Music/Playlists/Anime Openings (💿 4).md",
+    "Music/Playlists/YouTube (💿 9).md",
+    "Music/Playlists/xaki's Akoustika Album Series (💿 25).md",
+    "Music/Playlists/Watch Dogs OST (💿 18).md",
+    "Music/Playlists/Vocaloid (💿 26).md",
+    "Music/Playlists/Spotify (💿 10).md",
+    "Music/Playlists/Remix (💿 16).md",
+    "Music/Playlists/real (💿 30).md",
+    "Music/Playlists/osu! (💿 2).md",
+    "Music/Playlists/Mashup (💿 17).md",
+    "Music/Playlists/Game (💿 29).md",
+    "Music/Playlists/Favorites (💿 1).md",
+    "Music/Playlists/Anime (💿 3).md",
+    "Music/Playlists/Яндекс (💿 7).md",
+    "Music/Playlists/Чилл (💿 14).md",
+    "Music/Playlists/Чайки (💿 11).md",
+    "Music/Playlists/Путешествие (💿 23).md",
+    "Music/Playlists/Нужно обрезать (💿 28).md",
+    "Music/Playlists/Нет второй версии (💿 27).md",
+    "Music/Playlists/Мем (💿 15).md",
+    "Music/Playlists/Любовь (💿 21).md",
+    "Music/Playlists/Классика (💿 19).md",
+    "Music/Playlists/Драйв (💿 20).md",
+    "Music/Playlists/Джаз (💿 22).md",
+    "Music/Covers/Death Note OST I.jpg",
+    "Music/Covers/Shikata Akiko - Katayoku no Tori.jpg",
+    "Music/Covers/Death Note OST I.jpg.bak",
     "Music/albums.base",
-    "Music/Albums/Big Bang Theory OST (📀 7).md",
-    "Music/Albums/BERSERK OST (📀 6).md",
-    "Music/Albums/Assassin's Creed 2 OST (📀 5).md",
-    "Music/Albums/Armageddon OST (📀 4).md",
-    "Music/Albums/По следам бременских музыкантов OST (📀 3).md",
-    "Music/Albums/8 Mile OST (📀 2).md",
-    "Music/Albums/Shiki OST (📀 1).md",
-    "Music/Albums/Van Helsing OST (📀 26).md",
-    "Music/Albums/Suicide Squad The Album (📀 25).md",
-    "Music/Albums/Spider-Man Into the Spider-Verse OST (📀 24).md",
-    "Music/Albums/Rick and Morty OST (📀 23).md",
-    "Music/Albums/Pirates of the Caribbean On Stranger Tides OST (📀 22).md",
-    "Music/Albums/Paprika OST (📀 21).md",
-    "Music/Albums/Neko no Ongaeshi OST (📀 28).md",
-    "Music/Albums/Need For Speed Most Wanted OST (📀 52).md",
-    "Music/Albums/Naruto Shippuden OST 3 (📀 20).md",
-    "Music/Albums/Naruto Shippuden OST 2 (📀 19).md",
-    "Music/Albums/Naruto Shippuden OST 1 (📀 18).md",
-    "Music/Albums/Naruto OST 3 (📀 17).md",
-    "Music/Albums/Naruto OST 2 (📀 16).md",
-    "Music/Albums/Naruto OST 1 (📀 15).md",
-    "Music/Albums/Mulan OST (📀 14).md",
-    "Music/Albums/Moana OST (📀 13).md",
-    "Music/Albums/Kabaneri of the Iron Fortress OST (📀 12).md",
-    "Music/Albums/Date A Live OST (📀 11).md",
     "Music/tracks.base",
     "Music/Covers/Shrek 3 OST - 01 Royal Pain.jpg",
     "Music/Covers/Shrek 1 OST.jpg",
@@ -334,15 +339,11 @@
     "Music/Covers/Shrek 2 OST - 03 Changes.jpg",
     "Music/Covers/Shrek 3 OST.jpg",
     "Music/Covers/Shrek OST.jpg",
-    "Music/Covers/Death Note OST I.jpg",
-    "Music/Covers/Death Note OST I_fixed.jpg",
-    "Music/Covers/Death Note OST I.jpg.bak",
     "Note/projects/unreal engine/Skyway",
     "Note/projects/JiGit",
     "Note/excalidraw",
     "Personal/Пароли.kdbx.eXxkJy",
     "file:/home/adamm/Downloads/Telegram Desktop/РЕФЕРАТ.pdf",
-    "Art/art.base",
-    "file:/home/adamm/Downloads/Telegram Desktop/Захват_экрана_в_Firefox_на_Niri_Google_Gemini.pdf"
+    "Art/art.base"
   ]
 }
