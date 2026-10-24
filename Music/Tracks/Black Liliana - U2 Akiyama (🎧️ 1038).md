@@ -9,7 +9,7 @@ Album: "[[Umineko no Naku Koro ni OST (📀 30)]]"
 CoverOf: ""
 Creators:
   - "[[U2 Akiyama (🎙️ 26)]]"
-ListenInSec: 13139
+ListenInSec: 13318
 NumberInAlbum: 55
 related:
   - "[[Waltz Op.34 - Kitaouji Mizuki (🎧️ 966)]]"

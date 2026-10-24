@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Modern Talking (🎙️ 945)]]"
-ListenInSec: 281
+ListenInSec: 398
 NumberInAlbum: 1
 related: []
 source: ""

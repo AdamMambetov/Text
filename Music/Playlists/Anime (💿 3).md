@@ -520,6 +520,7 @@ tracklist:
   - "[[Gintama OST - Madao - Audio Highs (🎧️ 2083)]]"
   - "[[INERTIA (TV Size) - Hiroyuki Sawano (🎧️ 2070)]]"
   - "[[FateApocrypha - Masaru Yokoyama (🎧️ 1784)]]"
+  - "[[Koko kara, Koko kara (TV Size) - Kana Hanazawa (🎧️ 463)]]"
 ---
 
 # Anime

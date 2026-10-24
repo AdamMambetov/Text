@@ -8,7 +8,7 @@ Album: "[[The End Is Where We Begin]]"
 CoverOf: ""
 Creators:
   - "[[Thousand Foot Krutch (🎙️ 466)]]"
-ListenInSec: 228
+ListenInSec: 230
 NumberInAlbum: 13
 related: []
 source: ""

@@ -10,7 +10,7 @@ Album: ""
 CoverOf: "[[KABANERI OF THE IRON FORTRESS - Egoist (🎧️ 1603)]]"
 Creators:
   - "[[j.am (🎙️ 1047)]]"
-ListenInSec: 686
+ListenInSec: 976
 NumberInAlbum: 0
 related: []
 source: ""

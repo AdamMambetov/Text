@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[(K)NoW_NAME (🎙️ 35)]]"
-ListenInSec: 916
+ListenInSec: 1150
 NumberInAlbum: 0
 related: []
 source: ""

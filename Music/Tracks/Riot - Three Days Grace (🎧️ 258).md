@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Three Days Grace (🎙️ 467)]]"
-ListenInSec: 207
+ListenInSec: 212
 NumberInAlbum: 0
 related: []
 source: ""

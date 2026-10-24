@@ -8,7 +8,7 @@ Album: "[[The Dungeonmaster's Guide]]"
 CoverOf: ""
 Creators:
   - "[[Stratus (🎙️ 855)]]"
-ListenInSec: -339
+ListenInSec: -337
 NumberInAlbum: 4
 related: []
 source: ""

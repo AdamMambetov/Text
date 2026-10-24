@@ -8,7 +8,7 @@ Album: ""
 CoverOf: "[[KABANERI OF THE IRON FORTRESS - Egoist (🎧️ 1603)]]"
 Creators:
   - "[[Harmony Team (🎙️ 702)]]"
-ListenInSec: 680
+ListenInSec: 1011
 NumberInAlbum: 0
 related: []
 source: ""

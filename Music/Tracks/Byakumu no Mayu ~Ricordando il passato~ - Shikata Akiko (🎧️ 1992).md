@@ -9,7 +9,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Shikata Akiko (🎙️ 22)]]"
-ListenInSec: 1100
+ListenInSec: 1403
 NumberInAlbum: 0
 related:
   - "[[White Dream Cocoon ~Ricordando il passato~ (Short Version) - Shikata Akiko (🎧️ 1103)]]"

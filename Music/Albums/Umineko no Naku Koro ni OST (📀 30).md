@@ -166,7 +166,7 @@ tracklist:
   - "[[Loreley - dai (🎧️ 982)]]"
   - "[[The Sin - dai (🎧️ 981)]]"
   - "[[The first and The last - pre-holder (🎧️ 940)]]"
-  - "[[Антидемоническая секвенция - Kitaouji Mizuki (🎧️ 953)]]"
+  - "[[Anti-Demon Sequentia - Kitaouji Mizuki (🎧️ 953)]]"
   - "[[battle field - Sayuri (🎧️ 978)]]"
   - "[[Rebirth - dai (🎧️ 980)]]"
   - "[[Path - dai (🎧️ 965)]]"

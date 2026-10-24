@@ -10,7 +10,7 @@ Album: ""
 CoverOf: "[[Rightfully - Mili (🎧️ 1488)]]"
 Creators:
   - "[[Onsa Media (🎙️ 400)]]"
-ListenInSec: 233
+ListenInSec: 461
 NumberInAlbum: 0
 related: []
 source: ""

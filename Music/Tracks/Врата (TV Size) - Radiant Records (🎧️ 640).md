@@ -8,7 +8,7 @@ Album: ""
 CoverOf: "[[Hacking to the Gate (TV Size) - Itou Kanako (🎧️ 1094)]]"
 Creators:
   - "[[Radiant Records (🎙️ 39)]]"
-ListenInSec: 190
+ListenInSec: 284
 NumberInAlbum: 0
 related:
   - "[[Врата - Radiant Records (🎧️ 1331)]]"

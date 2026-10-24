@@ -11,7 +11,7 @@ Album: "[[Umineko no Naku Koro ni OST (📀 30)]]"
 CoverOf: ""
 Creators:
   - "[[Shikata Akiko (🎙️ 22)]]"
-ListenInSec: 518
+ListenInSec: 688
 NumberInAlbum: 240
 related:
   - "[[Byakumu no Mayu ~Ricordando il passato~ - Shikata Akiko (🎧️ 1992)]]"

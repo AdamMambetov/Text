@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[James Brown (🎙️ 1021)]]"
-ListenInSec: 395
+ListenInSec: 560
 NumberInAlbum: 0
 related: []
 source: ""

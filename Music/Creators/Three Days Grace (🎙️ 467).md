@@ -2,6 +2,6 @@
 created: 2025-11-20T00:30:41+03:00
 aliases:
   - "Three Days Grace"
-ListenInSec: 2411
+ListenInSec: 2416
 ---
 

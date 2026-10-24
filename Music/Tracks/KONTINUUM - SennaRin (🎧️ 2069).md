@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[SennaRin (🎙️ 812)]]"
-ListenInSec: 593
+ListenInSec: 784
 NumberInAlbum: 0
 related: []
 source: ""

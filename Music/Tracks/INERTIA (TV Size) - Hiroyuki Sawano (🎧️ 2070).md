@@ -11,7 +11,7 @@ CoverOf: ""
 Creators:
   - "[[Hiroyuki Sawano (🎙️ 327)]]"
   - "[[Rei (🎙️ 808)]]"
-ListenInSec: 1155
+ListenInSec: 1244
 NumberInAlbum: 0
 related:
   - "[[INERTIA - Hiroyuki Sawano (🎧️ 2067)]]"

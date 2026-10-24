@@ -10,7 +10,7 @@ Album: "[[SAMURAI SESSIONS vol.2]]"
 CoverOf: ""
 Creators:
   - "[[Miyavi (🎙️ 377)]]"
-ListenInSec: 352
+ListenInSec: 532
 NumberInAlbum: 7
 related:
   - "[[Flashback (TV Size) - Miyavi (🎧️ 1073)]]"

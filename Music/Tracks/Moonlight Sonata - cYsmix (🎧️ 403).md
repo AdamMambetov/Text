@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[cYsmix (🎙️ 270)]]"
-ListenInSec: 445
+ListenInSec: 576
 NumberInAlbum: 1
 related: []
 source: ""

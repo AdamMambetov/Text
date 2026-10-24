@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Galileo Galilei (🎙️ 1017)]]"
-ListenInSec: 337
+ListenInSec: 486
 NumberInAlbum: 0
 related: []
 source: ""
