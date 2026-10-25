@@ -1,4 +1,5 @@
 ---
 aliases:
   - "OST"
+  - "Original Soundtrack"
 ---

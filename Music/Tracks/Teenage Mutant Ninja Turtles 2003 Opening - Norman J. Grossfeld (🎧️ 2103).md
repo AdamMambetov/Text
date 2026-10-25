@@ -12,7 +12,7 @@ Creators:
 ListenInSec: 436
 Marks:
   - "[[Мультсериал]]"
-  - "[[OST]]"
+  - "[[OP]]"
 NumberInAlbum: 0
 related: []
 source: ""

@@ -11,7 +11,7 @@ Creators:
 ListenInSec: 169
 Marks:
   - "[[Сериал]]"
-  - "[[OST]]"
+  - "[[OP]]"
 NumberInAlbum: 0
 related: []
 source: ""

@@ -9,6 +9,9 @@ CoverOf: ""
 Creators:
   - "[[Kidz In The Hall (🎙️ 877)]]"
 ListenInSec: 694
+Marks:
+  - "[[Игра]]"
+  - "[[OST]]"
 NumberInAlbum: 3
 related: []
 source: ""

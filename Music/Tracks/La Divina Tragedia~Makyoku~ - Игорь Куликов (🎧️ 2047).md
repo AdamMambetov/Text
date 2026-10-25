@@ -14,6 +14,8 @@ Genres:
   - "[[Метал]]"
 ListenInSec: 1093
 Marks:
+  - "[[Аниме]]"
+  - "[[ED]]"
   - "[[Кавер]]"
 NumberInAlbum: 0
 related: []

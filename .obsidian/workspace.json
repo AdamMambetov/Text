@@ -4,21 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "1df8acf9577aef0e",
+        "id": "4e5a4a060ea06afc",
         "type": "tabs",
         "children": [
           {
-            "id": "3f0d50e20ca04344",
+            "id": "3ce8de22f0f91ee4",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "bases",
               "state": {
-                "aFile": "Music/.obsidian/core-plugins.json",
-                "bFile": "Music/.obsidian/core-plugins.json",
-                "aRef": ""
+                "file": "Music/albums.base",
+                "viewName": "Created Group"
               },
-              "icon": "diff",
-              "title": "Diff: core-plugins.json  (Working Tree)"
+              "icon": "lucide-table",
+              "title": "albums"
             }
           }
         ]
@@ -41,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"Глава тома\"]",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,6 +88,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Music/albums.base",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -101,17 +101,17 @@
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
                   "colorGroups": [],
-                  "collapse-display": false,
+                  "collapse-display": true,
                   "showArrow": false,
-                  "textFadeMultiplier": -1.4,
+                  "textFadeMultiplier": -1,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
                   "collapse-forces": true,
                   "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
+                  "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.46822130772748016,
+                  "scale": 0.31214753848498666,
                   "close": true
                 }
               },
@@ -140,7 +140,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 336.5,
+    "width": 394.40625,
     "collapsed": true
   },
   "right": {
@@ -158,13 +158,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Music/Creators/-45 (🎙️ 6).md",
+                "file": "Music/albums.base",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
@@ -297,34 +297,35 @@
       "obsidian-local-images-plus:Local Images Plus  0.17.1\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "3f0d50e20ca04344",
+  "active": "a6c210ff56e0c069",
   "lastOpenFiles": [
-    "Music/Marks/Авторский трек.md",
-    "Music/Playlists/Vocaloid (💿 22).md",
-    "Music/Tracks/Hoshikuzu Utopia - otetsu (🎧️ 2026).md",
-    "Music/Marks/Вокалоид.md",
-    "Music/Playlists/Game (💿 23).md",
-    "Music/Tracks/'Shape of You' but it's Smash Mouth singing 'All Star' - Engval Music (🎧️ 1646).md",
-    "Music/Creators/Plamenev (🎙️ 412).md",
-    "Music/Tracks/Трон - Everblack Melodies (🎧️ 104).md",
-    "Music/Tracks/Романс - Пицца (🎧️ 95).md",
-    "Music/Creators/Пицца (🎙️ 126).md",
-    "Music/Tracks/Все будет хорошо - VERKA SERDUCHKA (🎧️ 1657).md",
-    "Music/Creators/VERKA SERDUCHKA (🎙️ 961).md",
-    "Music/Tracks/Out of Death - Plamenev (🎧️ 902).md",
-    "Music/Tracks/Вне смерти - Plamenev (🎧️ 545).md",
-    "Music/Tracks/Parade (Live Hybrid Phonon) - Susumu Hirasawa (🎧️ 2115).md",
-    "Music/Tracks/Step into the Dark! - Plamenev (🎧️ 901).md",
-    "Music/Tracks/Шаг в темноту! - Plamenev (🎧️ 904).md",
-    "Music/Tracks/Lay All Your Love On Me - Avantasia (🎧️ 673).md",
-    "Music/Tracks/Inochi no Tabekata - NotADub (🎧️ 1302).md",
-    "Music/Tracks/Inochi No Tabekata - Eve (🎧️ 1300).md",
-    "Music/Tracks/Freaks - Surf Curse (🎧️ 525).md",
-    "Music/Tracks/Complication - Jackie-O (🎧️ 1463).md",
-    "Music/Tracks/Complication - ROOKiEZ is PUNK'D (🎧️ 1699).md",
-    "Music/Tracks/Okinimesumama - Eve (🎧️ 1135).md",
-    "Music/Tracks/Я свободен - Кипелов (🎧️ 306).md",
-    "Music/Tracks/Фотографирую закат - fem.love (🎧️ 107).md",
+    "Music/Albums/Watch Dogs OST (📀 80).md",
+    "Music/Tracks/Private Eye - Alkaline Trio (🎧️ 730).md",
+    "Music/Tracks/Confidential Liar - Vanattica (🎧️ 1224).md",
+    "Music/Playlists/Watch Dogs OST (💿 15).md",
+    "Music/albums.base",
+    "Music/Marks/OST.md",
+    "Music/Albums/8 Mile OST (📀 2).md",
+    "Music/Tracks/599_million_ruins - Luck Ganriki (🎧️ 1009).md",
+    "Music/Tracks/Когда я лаю при луне - Disney (🎧️ 788).md",
+    "Music/Tracks/Gravity Falls Theme Song - Brad Breeck (🎧️ 431).md",
+    "Music/Tracks/Enemy - Imagine Dragons (🎧️ 1299).md",
+    "Music/Tracks/Go Go Power Rangers - Ron Wasserman (🎧️ 2077).md",
+    "Music/Tracks/Big Bang Theory Theme - Barenaked Ladies (🎧️ 849).md",
+    "Music/Tracks/Paranoid Android - Radiohead (🎧️ 606).md",
+    "Music/Tracks/La Divina Tragedia ~Makyoku~ - JIMANG (🎧️ 2043).md",
+    "Music/Tracks/La Divina Tragedia~Makyoku~ - Игорь Куликов (🎧️ 2047).md",
+    "Music/Tracks/Черепашки-Ниндзя 1987 - Jackie-O (🎧️ 1525).md",
+    "Music/Tracks/Kaze Ni Naru - Ayano Tsuji (🎧️ 817).md",
+    "Music/Tracks/Tomadoi→Recipe - Mikakuning! (🎧️ 1617).md",
+    "Music/Tracks/Tomadoi→Recipe (TV Size) - Mikakuning! (🎧️ 1618).md",
+    "Music/Tracks/Teenage Mutant Ninja Turtles 2003 Opening - Norman J. Grossfeld (🎧️ 2103).md",
+    "Music/Tracks/Fanfare - sumika (🎧️ 485).md",
+    "Music/Tracks/Если в сердце живёт любовь - Юлия Савичева (🎧️ 2010).md",
+    "Music/Tracks/Rick and Morty Theme - Ryan Elder (🎧️ 809).md",
+    "Music/Tracks/Черепашки-Ниндзя 2003 - Jackie-O (🎧️ 1526).md",
+    "Music/Tracks/6 Кадров (TV Size) - Александр Пушной (🎧️ 1866).md",
+    "Music/Tracks/Entertainment - Mili (🎧️ 1487).md",
     "Music/Genres",
     "Music/Marks",
     "Music/Covers/MYTH & ROID - STYX HELIX.jpg",
@@ -332,7 +333,6 @@
     "Music/Covers/Death Note OST I.jpg",
     "Music/Covers/Shikata Akiko - Katayoku no Tori.jpg",
     "Music/Covers/Death Note OST I.jpg.bak",
-    "Music/albums.base",
     "Music/tracks.base",
     "Music/Covers/Shrek 3 OST - 01 Royal Pain.jpg",
     "Music/Covers/Shrek 1 OST.jpg",

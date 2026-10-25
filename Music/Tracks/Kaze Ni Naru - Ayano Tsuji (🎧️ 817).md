@@ -12,7 +12,7 @@ Creators:
 ListenInSec: 468
 Marks:
   - "[[Фильм]]"
-  - "[[OST]]"
+  - "[[ED]]"
 NumberInAlbum: 0
 related: []
 source: ""

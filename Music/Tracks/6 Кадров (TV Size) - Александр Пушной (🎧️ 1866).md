@@ -11,7 +11,7 @@ Creators:
 ListenInSec: 454
 Marks:
   - "[[Сериал]]"
-  - "[[OST]]"
+  - "[[OP]]"
 NumberInAlbum: 0
 related:
   - "[[6 кадров - Александр Пушной (🎧️ 2053)]]"

@@ -1,7 +1,10 @@
 ---
-created: 2026-08-25T16:40:31+03:00
+created: 2026-10-25T17:19:27+03:00
 aliases:
   - "Watch Dogs OST"
+Cover: "[[_No Album Art.jpg]]"
+Year: 0
+Creators: []
 tracklist:
   - "[[Private Eye - Alkaline Trio (🎧️ 730)]]"
   - "[[Confidential Liar - Vanattica (🎧️ 1224)]]"
@@ -11,5 +14,7 @@ tracklist:
 ---
 
 # Watch Dogs OST
+
+## Tracklist
 
 ![[tracklist.base]]

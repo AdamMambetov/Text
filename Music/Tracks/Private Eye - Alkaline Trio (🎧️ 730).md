@@ -9,6 +9,9 @@ CoverOf: ""
 Creators:
   - "[[Alkaline Trio (🎙️ 167)]]"
 ListenInSec: 222
+Marks:
+  - "[[Игра]]"
+  - "[[OST]]"
 NumberInAlbum: 1
 related: []
 source: ""

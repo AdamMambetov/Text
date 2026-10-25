@@ -10,7 +10,13 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Mili (🎙️ 699)]]"
+Genres:
+  - "[[Поп]]"
+  - "[[Электроника]]"
 ListenInSec: 4742
+Marks:
+  - "[[Аниме]]"
+  - "[[OP]]"
 NumberInAlbum: 0
 related:
   - "[[Rightfully (TV Size) - Mili]]"

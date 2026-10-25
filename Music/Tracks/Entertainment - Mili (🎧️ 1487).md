@@ -10,7 +10,13 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Mili (🎙️ 699)]]"
+Genres:
+  - "[[Поп]]"
 ListenInSec: 583
+Marks:
+  - "[[Инди]]"
+  - "[[Аниме]]"
+  - "[[OP]]"
 NumberInAlbum: 0
 related:
   - "[[Entertainment (TV Size) - Mili]]"

@@ -15,7 +15,7 @@ Marks:
   - "[[Прогрессив]]"
   - "[[Инди]]"
   - "[[Аниме]]"
-  - "[[OST]]"
+  - "[[ED]]"
 NumberInAlbum: 2
 related: []
 source: ""

@@ -12,8 +12,8 @@ Creators:
   - "[[League of Legends (🎙️ 73)]]"
 ListenInSec: 673
 Marks:
-  - "[[Сериал]]"
-  - "[[OST]]"
+  - "[[Мультсериал]]"
+  - "[[OP]]"
 NumberInAlbum: 1
 related: []
 source: ""

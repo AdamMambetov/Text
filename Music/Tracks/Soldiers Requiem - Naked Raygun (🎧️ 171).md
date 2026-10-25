@@ -9,6 +9,9 @@ CoverOf: ""
 Creators:
   - "[[Naked Raygun (🎙️ 521)]]"
 ListenInSec: 364
+Marks:
+  - "[[Игра]]"
+  - "[[OST]]"
 NumberInAlbum: 0
 related: []
 source: ""

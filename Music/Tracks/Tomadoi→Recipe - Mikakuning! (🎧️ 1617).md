@@ -19,7 +19,7 @@ Genres:
 ListenInSec: 4925
 Marks:
   - "[[Аниме]]"
-  - "[[OST]]"
+  - "[[OP]]"
   - "[[Инди]]"
 NumberInAlbum: 1
 related:

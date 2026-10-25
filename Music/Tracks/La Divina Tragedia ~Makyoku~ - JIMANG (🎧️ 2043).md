@@ -15,7 +15,7 @@ Genres:
 ListenInSec: 1038
 Marks:
   - "[[Аниме]]"
-  - "[[OST]]"
+  - "[[ED]]"
 NumberInAlbum: 0
 related: []
 source: ""
