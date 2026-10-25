@@ -7,7 +7,8 @@ aliases:
 Cover: "[[Возвращение кота.jpg]]"
 Year: 2002
 Creators: []
-tracklist: []
+tracklist:
+  - "[[Kaze Ni Naru - Ayano Tsuji (🎧️ 817)]]"
 ---
 
 ![[Возвращение кота.jpg]]

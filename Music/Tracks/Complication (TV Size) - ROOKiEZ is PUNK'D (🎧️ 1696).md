@@ -10,6 +10,8 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[ROOKiEZ is PUNK'D (🎙️ 429)]]"
+Genres:
+  - "[[Поп-рок]]"
 ListenInSec: 218
 NumberInAlbum: 0
 related:

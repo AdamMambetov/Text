@@ -8,6 +8,8 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Rob Scallon (🎙️ 754)]]"
+Genres:
+  - "[[Джаз]]"
 ListenInSec: 552
 NumberInAlbum: 1
 related: []

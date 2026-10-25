@@ -9,6 +9,8 @@ CoverOf: ""
 Creators:
   - "[[Masami Yone (🎙️ 982)]]"
 ListenInSec: 2405
+Marks:
+  - "[[Ремикс]]"
 NumberInAlbum: 0
 related:
   - "[[Marcher - Masami Yone (🎧️ 1780)]]"

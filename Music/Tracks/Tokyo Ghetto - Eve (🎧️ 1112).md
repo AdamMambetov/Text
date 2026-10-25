@@ -8,6 +8,9 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Eve (🎙️ 34)]]"
+Genres:
+  - "[[Поп]]"
+  - "[[Электроника]]"
 ListenInSec: 1116
 NumberInAlbum: 0
 related: []

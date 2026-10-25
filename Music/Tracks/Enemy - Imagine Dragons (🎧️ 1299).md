@@ -11,6 +11,9 @@ Creators:
   - "[[J.I.D (🎙️ 333)]]"
   - "[[League of Legends (🎙️ 73)]]"
 ListenInSec: 673
+Marks:
+  - "[[Сериал]]"
+  - "[[OST]]"
 NumberInAlbum: 1
 related: []
 source: ""

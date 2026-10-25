@@ -8,6 +8,9 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Linkin Park (🎙️ 361)]]"
+Genres:
+  - "[[Метал]]"
+  - "[[Хип-хоп]]"
 ListenInSec: 175
 NumberInAlbum: 1
 related: []

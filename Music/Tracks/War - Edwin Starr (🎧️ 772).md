@@ -9,6 +9,8 @@ CoverOf: ""
 Creators:
   - "[[Edwin Starr (🎙️ 297)]]"
 ListenInSec: 362
+Marks:
+  - "[[Мем]]"
 NumberInAlbum: 1
 related: []
 source: ""

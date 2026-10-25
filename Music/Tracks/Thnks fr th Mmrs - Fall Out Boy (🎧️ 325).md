@@ -8,6 +8,8 @@ Album: "[[Infinity on High [2007] {Fall Out Boy}]]"
 CoverOf: ""
 Creators:
   - "[[Fall Out Boy (🎙️ 304)]]"
+Genres:
+  - "[[Поп-рок]]"
 ListenInSec: 205
 NumberInAlbum: 7
 related: []

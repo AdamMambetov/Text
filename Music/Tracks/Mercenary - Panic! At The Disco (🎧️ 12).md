@@ -9,6 +9,10 @@ CoverOf: ""
 Creators:
   - "[[Panic! At The Disco (🎙️ 408)]]"
 ListenInSec: 184
+Marks:
+  - "[[Игра]]"
+  - "[[Фильм]]"
+  - "[[OST]]"
 NumberInAlbum: 0
 related: []
 source: ""

@@ -9,6 +9,9 @@ CoverOf: ""
 Creators:
   - "[[Barenaked Ladies (🎙️ 211)]]"
 ListenInSec: 122
+Marks:
+  - "[[Сериал]]"
+  - "[[OST]]"
 NumberInAlbum: 27
 related: []
 source: ""

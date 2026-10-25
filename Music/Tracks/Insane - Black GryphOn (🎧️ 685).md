@@ -10,6 +10,9 @@ Creators:
   - "[[Black GryphOn (🎙️ 221)]]"
   - "[[Baasik (🎙️ 205)]]"
 ListenInSec: 472
+Marks:
+  - "[[Мультсериал]]"
+  - "[[OST]]"
 NumberInAlbum: 0
 related: []
 source: ""

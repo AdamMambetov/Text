@@ -10,6 +10,10 @@ CoverOf: ""
 Creators:
   - "[[sumika (🎙️ 446)]]"
 ListenInSec: 965
+Marks:
+  - "[[Аниме]]"
+  - "[[Фильм]]"
+  - "[[OST]]"
 NumberInAlbum: 0
 related: []
 source: ""

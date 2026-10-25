@@ -8,6 +8,8 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Offenbach (🎙️ 1010)]]"
+Genres:
+  - "[[Классическая]]"
 ListenInSec: 903
 NumberInAlbum: 0
 related: []

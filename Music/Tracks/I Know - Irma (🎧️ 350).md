@@ -10,6 +10,9 @@ Creators:
   - "[[Irma (🎙️ 554)]]"
   - "[[Youssoupha (🎙️ 555)]]"
 ListenInSec: 363
+Marks:
+  - "[[Сериал]]"
+  - "[[OST]]"
 NumberInAlbum: 2
 related: []
 source:

@@ -9,6 +9,9 @@ CoverOf: ""
 Creators:
   - "[[Lulu (🎙️ 367)]]"
 ListenInSec: 285
+Marks:
+  - "[[Сериал]]"
+  - "[[OST]]"
 NumberInAlbum: 0
 related: []
 source: ""

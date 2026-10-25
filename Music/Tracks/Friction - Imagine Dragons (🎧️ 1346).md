@@ -8,7 +8,14 @@ Album: "[[Smoke + Mirrors]]"
 CoverOf: ""
 Creators:
   - "[[Imagine Dragons (🎙️ 332)]]"
+Genres:
+  - "[[Рок]]"
+  - "[[Поп-рок]]"
 ListenInSec: 203
+Marks:
+  - "[[Игра]]"
+  - "[[OST]]"
+  - "[[Инди]]"
 NumberInAlbum: 7
 related: []
 source: ""

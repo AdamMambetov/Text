@@ -9,6 +9,9 @@ CoverOf: ""
 Creators:
   - "[[Disney (🎙️ 284)]]"
 ListenInSec: 363
+Marks:
+  - "[[Фильм]]"
+  - "[[OST]]"
 NumberInAlbum: 1
 related:
   - "[[I'll Make A Man Out Of You - Disney (🎧️ 850)]]"

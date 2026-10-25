@@ -9,6 +9,9 @@ CoverOf: ""
 Creators:
   - "[[Lustra (🎙️ 368)]]"
 ListenInSec: 204
+Marks:
+  - "[[Фильм]]"
+  - "[[OST]]"
 NumberInAlbum: 0
 related: []
 source: ""

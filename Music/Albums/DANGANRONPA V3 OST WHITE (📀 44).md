@@ -3,6 +3,7 @@ created: 2026-07-11T12:57:02+03:00
 aliases:
   - "DANGANRONPA V3 OST WHITE"
   - "Danganronpa V3: Killing Harmony OST WHITE"
+  - "Данганронпа V3 OST WHITE"
 Cover: "[[DANGANRONPA V3 OST WHITE.jpg]]"
 Year: 2017
 Creators:

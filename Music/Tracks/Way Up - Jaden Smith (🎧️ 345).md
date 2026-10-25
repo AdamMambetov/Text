@@ -9,6 +9,9 @@ CoverOf: ""
 Creators:
   - "[[Jaden Smith (🎙️ 548)]]"
 ListenInSec: 305
+Marks:
+  - "[[Фильм]]"
+  - "[[OST]]"
 NumberInAlbum: 3
 related: []
 source:

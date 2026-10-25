@@ -2,6 +2,7 @@
 created: 2024-07-18T15:34:50
 aliases:
   - "Big Bang Theory OST"
+  - "Теория Большого взрыва OST"
 Cover: "[[Big Bang Theory OST.jpg]]"
 Year: 2007
 Creators: []

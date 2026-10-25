@@ -8,6 +8,8 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[twenty one pilots (🎙️ 471)]]"
+Genres:
+  - "[[Поп]]"
 ListenInSec: 332
 NumberInAlbum: 0
 related: []

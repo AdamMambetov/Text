@@ -9,6 +9,9 @@ CoverOf: ""
 Creators:
   - "[[Eels (🎙️ 956)]]"
 ListenInSec: 628
+Marks:
+  - "[[Фильм]]"
+  - "[[OST]]"
 NumberInAlbum: 1
 related: []
 SourceFile: "[[Shrek 3 OST - 01 Royal Pain.mp3]]"

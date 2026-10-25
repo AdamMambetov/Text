@@ -3,6 +3,7 @@ created: 2024-07-18T15:34:44+03:00
 aliases:
   - "Shiki OST"
   - "SHI KI OST"
+  - "Усопшие OST"
 Cover: "[[Shiki OST.jpg]]"
 Creators:
   - "[[Yasuharu Takanashi (🎙️ 749)]]"

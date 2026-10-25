@@ -8,7 +8,13 @@ Album: "[[Saturday Night at the Movies]]"
 CoverOf: ""
 Creators:
   - "[[The Overtones (🎙️ 853)]]"
+Genres:
+  - "[[Джаз]]"
 ListenInSec: 228
+Marks:
+  - "[[Фильм]]"
+  - "[[OST]]"
+  - "[[Кавер]]"
 NumberInAlbum: 3
 related: []
 source: ""

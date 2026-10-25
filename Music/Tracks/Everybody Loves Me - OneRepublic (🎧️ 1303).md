@@ -8,6 +8,9 @@ Album: "[[Waking Up]]"
 CoverOf: ""
 Creators:
   - "[[OneRepublic (🎙️ 399)]]"
+Genres:
+  - "[[Поп-рок]]"
+  - "[[Поп]]"
 ListenInSec: 215
 NumberInAlbum: 4
 related: []

@@ -9,6 +9,9 @@ CoverOf: ""
 Creators:
   - "[[Brad Breeck (🎙️ 233)]]"
 ListenInSec: 169
+Marks:
+  - "[[Сериал]]"
+  - "[[OST]]"
 NumberInAlbum: 0
 related: []
 source: ""

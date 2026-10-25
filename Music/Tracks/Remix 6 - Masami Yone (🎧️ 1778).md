@@ -11,6 +11,8 @@ Creators:
   - "[[Daisuke Shiiba (🎙️ 983)]]"
   - "[[Tsunku (🎙️ 981)]]"
 ListenInSec: 1784
+Marks:
+  - "[[Ремикс]]"
 NumberInAlbum: 0
 related:
   - "[[Hopping Road - Tsunku (🎧️ 1783)]]"

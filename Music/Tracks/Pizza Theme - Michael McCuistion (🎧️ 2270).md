@@ -11,6 +11,10 @@ Creators:
   - "[[Michael McCuistion (🎙️ 1080)]]"
   - "[[Lolita Ritmanis (🎙️ 1081)]]"
 ListenInSec: 3187
+Marks:
+  - "[[Игра]]"
+  - "[[OST]]"
+  - "[[Мем]]"
 NumberInAlbum: 12
 related: []
 source: ""

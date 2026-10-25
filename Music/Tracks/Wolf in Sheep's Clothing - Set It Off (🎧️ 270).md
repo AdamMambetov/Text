@@ -8,6 +8,9 @@ Album: "[[Duality [2015] {William Beckett; Set It Off}]]"
 CoverOf: ""
 Creators:
   - "[[Set It Off (🎙️ 434)]]"
+  - "[[William Beckett (🎙️ 1090)]]"
+Genres:
+  - "[[Рок]]"
 ListenInSec: 188
 NumberInAlbum: 8
 related: []

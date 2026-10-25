@@ -11,6 +11,9 @@ Creators:
   - "[[Manaka Kataoka (🎙️ 911)]]"
   - "[[Atsuku Asahi (🎙️ 912)]]"
 ListenInSec: 528
+Marks:
+  - "[[Игра]]"
+  - "[[OST]]"
 NumberInAlbum: 1
 related: []
 source: ""

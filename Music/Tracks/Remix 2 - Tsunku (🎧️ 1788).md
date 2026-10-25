@@ -9,6 +9,8 @@ CoverOf: ""
 Creators:
   - "[[Tsunku (🎙️ 981)]]"
 ListenInSec: 1407
+Marks:
+  - "[[Ремикс]]"
 NumberInAlbum: 0
 related:
   - "[[The Bon Odori - Ami Tokito (🎧️ 1790)]]"

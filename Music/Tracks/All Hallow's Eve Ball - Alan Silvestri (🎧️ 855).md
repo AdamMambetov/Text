@@ -9,6 +9,9 @@ CoverOf: ""
 Creators:
   - "[[Alan Silvestri (🎙️ 162)]]"
 ListenInSec: 474
+Marks:
+  - "[[Фильм]]"
+  - "[[OST]]"
 NumberInAlbum: 9
 related: []
 source: ""

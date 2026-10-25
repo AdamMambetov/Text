@@ -9,7 +9,11 @@ Album: ""
 CoverOf: "[[Sonne - Rammstein (🎧️ 205)]]"
 Creators:
   - "[[RADIO TAPOK (🎙️ 419)]]"
+Genres:
+  - "[[Метал]]"
 ListenInSec: 260
+Marks:
+  - "[[Кавер]]"
 NumberInAlbum: 0
 related: []
 source: ""

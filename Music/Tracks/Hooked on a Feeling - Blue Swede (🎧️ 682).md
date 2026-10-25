@@ -9,6 +9,9 @@ CoverOf: ""
 Creators:
   - "[[Blue Swede (🎙️ 229)]]"
 ListenInSec: 175
+Marks:
+  - "[[Фильм]]"
+  - "[[OST]]"
 NumberInAlbum: 1
 related: []
 source: ""

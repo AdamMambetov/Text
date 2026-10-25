@@ -9,6 +9,10 @@ CoverOf: ""
 Creators:
   - "[[Rufus Wainwright (🎙️ 544)]]"
 ListenInSec: 261
+Marks:
+  - "[[Кавер]]"
+  - "[[Фильм]]"
+  - "[[OST]]"
 NumberInAlbum: 10
 related: []
 source:

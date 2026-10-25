@@ -8,7 +8,10 @@ Album: "[[Favourite Worst Nightmare]]"
 CoverOf: ""
 Creators:
   - "[[Arctic Monkeys (🎙️ 188)]]"
+Genres: "[[Поп-рок]]"
 ListenInSec: 625
+Marks:
+  - "[[Инди]]"
 NumberInAlbum: 12
 related: []
 source: ""

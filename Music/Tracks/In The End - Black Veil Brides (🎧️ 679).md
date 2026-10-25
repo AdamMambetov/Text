@@ -8,6 +8,8 @@ Album: "[[Wretched and Divine The Story of the Wild Ones]]"
 CoverOf: ""
 Creators:
   - "[[Black Veil Brides (🎙️ 222)]]"
+Genres:
+  - "[[Метал]]"
 ListenInSec: 228
 NumberInAlbum: 18
 related: []

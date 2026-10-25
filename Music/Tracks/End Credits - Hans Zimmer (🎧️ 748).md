@@ -4,11 +4,14 @@ aliases:
   - "End Credits"
 Cover: "[[Pirates of the Caribbean On Stranger Tides.jpg]]"
 Year: 2011
-Album: "[[Pirates of the Caribbean: On Stranger Tides]]"
+Album: "[[Pirates of the Caribbean On Stranger Tides OST (📀 22)]]"
 CoverOf: ""
 Creators:
   - "[[Hans Zimmer (🎙️ 324)]]"
 ListenInSec: 235
+Marks:
+  - "[[Фильм]]"
+  - "[[OST]]"
 NumberInAlbum: 11
 related: []
 source: ""

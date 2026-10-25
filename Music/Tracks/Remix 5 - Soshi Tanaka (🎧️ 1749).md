@@ -11,6 +11,8 @@ Creators:
   - "[[Soshi Tanaka (🎙️ 984)]]"
   - "[[Tsunku (🎙️ 981)]]"
 ListenInSec: 895
+Marks:
+  - "[[Ремикс]]"
 NumberInAlbum: 0
 related:
   - "[[Hopping Road - Tsunku (🎧️ 1783)]]"

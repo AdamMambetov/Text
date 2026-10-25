@@ -2,7 +2,7 @@
 created: 2024-10-13T23:32:30+03:00
 aliases:
   - "Light's Theme"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Death Note OST I.jpg]]"
 Year: 2006
 Album: "[[Death Note OST (📀 76)]]"
 CoverOf: ""

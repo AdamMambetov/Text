@@ -10,6 +10,8 @@ CoverOf: ""
 Creators:
   - "[[checkoff (🎙️ 255)]]"
 ListenInSec: 707
+Marks:
+  - "[[Мэшап]]"
 NumberInAlbum: 0
 related:
   - "[[Can Can - Offenbach (🎧️ 1985)]]"

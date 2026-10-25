@@ -8,6 +8,9 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Frederic (🎙️ 738)]]"
+Genres:
+  - "[[Поп-рок]]"
+  - "[[Поп]]"
 ListenInSec: 539
 NumberInAlbum: 0
 related: []

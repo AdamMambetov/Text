@@ -9,6 +9,10 @@ CoverOf: ""
 Creators:
   - "[[Autumn Kings (🎙️ 198)]]"
 ListenInSec: 236
+Marks:
+  - "[[Фильм]]"
+  - "[[OST]]"
+  - "[[Кавер]]"
 NumberInAlbum: 11
 related: []
 source: ""

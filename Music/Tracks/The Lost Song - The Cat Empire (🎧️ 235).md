@@ -9,6 +9,9 @@ CoverOf: ""
 Creators:
   - "[[The Cat Empire (🎙️ 533)]]"
 ListenInSec: 391
+Marks:
+  - "[[Сериал]]"
+  - "[[OST]]"
 NumberInAlbum: 3
 related: []
 source:

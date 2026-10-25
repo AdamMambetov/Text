@@ -9,6 +9,9 @@ CoverOf: ""
 Creators:
   - "[[Luiz Henrique (🎙️ 553)]]"
 ListenInSec: 596
+Marks:
+  - "[[Сериал]]"
+  - "[[OST]]"
 NumberInAlbum: 8
 related: []
 source: ""

@@ -2,6 +2,7 @@
 created: 2024-07-18T15:34:45+03:00
 aliases:
   - "8 Mile OST"
+  - "8 Миля OST"
 Cover: "[[_No Album Art.jpg]]"
 Year: 2002
 Creators: []

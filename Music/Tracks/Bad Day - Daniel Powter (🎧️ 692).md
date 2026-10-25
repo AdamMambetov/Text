@@ -9,6 +9,9 @@ CoverOf: ""
 Creators:
   - "[[Daniel Powter (🎙️ 274)]]"
 ListenInSec: 220
+Marks:
+  - "[[Фильм]]"
+  - "[[OST]]"
 NumberInAlbum: 1
 related: []
 source: ""

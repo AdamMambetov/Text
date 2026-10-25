@@ -9,6 +9,9 @@ CoverOf: ""
 Creators:
   - "[[Creepy Nuts (🎙️ 267)]]"
 ListenInSec: 282
+Marks:
+  - "[[Аниме]]"
+  - "[[Мем]]"
 NumberInAlbum: 1
 related:
   - "[[Bling-Bang-Bang-Born - Creepy Nuts (🎧️ 1233)]]"

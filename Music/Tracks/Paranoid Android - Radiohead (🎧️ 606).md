@@ -8,7 +8,14 @@ Album: "[[OK Computer OKNOTOK 1997 2017]]"
 CoverOf: ""
 Creators:
   - "[[Radiohead (🎙️ 420)]]"
+Genres:
+  - "[[Рок]]"
 ListenInSec: 786
+Marks:
+  - "[[Прогрессив]]"
+  - "[[Инди]]"
+  - "[[Аниме]]"
+  - "[[OST]]"
 NumberInAlbum: 2
 related: []
 source: ""

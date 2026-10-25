@@ -2,6 +2,7 @@
 created: 2026-09-10T14:46:41+03:00
 aliases:
   - "Classroom of the Elite 2-3 OST"
+  - "Добро пожаловать в класс превосходства 2-3 OST"
 Cover: "[[Classroom of the Elite 2-3 OST.jpg]]"
 Year: 2024
 Creators:

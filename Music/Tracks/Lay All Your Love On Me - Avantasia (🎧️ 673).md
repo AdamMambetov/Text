@@ -9,6 +9,8 @@ CoverOf: ""
 Creators:
   - "[[Avantasia (🎙️ 200)]]"
 ListenInSec: 345
+Marks:
+  - "[[Кавер]]"
 NumberInAlbum: 2
 related: []
 source: ""

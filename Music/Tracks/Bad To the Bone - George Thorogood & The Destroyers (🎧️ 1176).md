@@ -9,6 +9,8 @@ CoverOf: ""
 Creators:
   - "[[George Thorogood & The Destroyers (🎙️ 873)]]"
 ListenInSec: 679
+Marks:
+  - "[[Мем]]"
 NumberInAlbum: 6
 related: []
 source: ""

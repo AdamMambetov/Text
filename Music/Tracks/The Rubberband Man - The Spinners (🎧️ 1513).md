@@ -9,6 +9,9 @@ CoverOf: ""
 Creators:
   - "[[The Spinners (🎙️ 936)]]"
 ListenInSec: 450
+Marks:
+  - "[[Фильм]]"
+  - "[[OST]]"
 NumberInAlbum: 1
 related: []
 source: ""

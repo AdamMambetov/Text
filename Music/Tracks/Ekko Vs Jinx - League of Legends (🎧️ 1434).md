@@ -9,6 +9,9 @@ CoverOf: ""
 Creators:
   - "[[League of Legends (🎙️ 73)]]"
 ListenInSec: 198
+Marks:
+  - "[[Сериал]]"
+  - "[[OST]]"
 NumberInAlbum: 1
 related: []
 source: ""

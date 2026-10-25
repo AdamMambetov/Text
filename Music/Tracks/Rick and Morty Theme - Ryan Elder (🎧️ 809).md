@@ -10,6 +10,9 @@ CoverOf: ""
 Creators:
   - "[[Ryan Elder (🎙️ 852)]]"
 ListenInSec: 196
+Marks:
+  - "[[Сериал]]"
+  - "[[OST]]"
 NumberInAlbum: 1
 related: []
 source: ""

@@ -9,6 +9,8 @@ CoverOf: "[[Majority Vote - Nankidai (🎧️ 1363)]]"
 Creators:
   - "[[Everything Fantasy (🎙️ 786)]]"
 ListenInSec: 271
+Marks:
+  - "[[Ремикс]]"
 NumberInAlbum: 1
 related: []
 source: https://youtu.be/cOvwS77Bkgk?si=qcFIX0TSuTMbbSPs

@@ -8,7 +8,14 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[M83 (🎙️ 369)]]"
+Genres:
+  - "[[Электроника]]"
+  - "[[Поп]]"
 ListenInSec: 242
+Marks:
+  - "[[Фильм]]"
+  - "[[Игра]]"
+  - "[[OST]]"
 NumberInAlbum: 0
 related: []
 source: ""

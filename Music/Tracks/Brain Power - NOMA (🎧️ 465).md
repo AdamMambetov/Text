@@ -3,12 +3,17 @@ created: 2022-10-05T13:41:48+03:00
 aliases:
   - "Brain Power"
 Cover: "[[NOMA - Brain Power.png]]"
-Year: 0
+Year: 2013
 Album: ""
 CoverOf: ""
 Creators:
   - "[[NOMA (🎙️ 393)]]"
+Genres:
+  - "[[Танцевальная]]"
 ListenInSec: 223
+Marks:
+  - "[[Игра]]"
+  - "[[OST]]"
 NumberInAlbum: 0
 related: []
 source: ""

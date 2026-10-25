@@ -9,6 +9,9 @@ CoverOf: ""
 Creators:
   - "[[Vince Staples (🎙️ 552)]]"
 ListenInSec: -211
+Marks:
+  - "[[Фильм]]"
+  - "[[OST]]"
 NumberInAlbum: 13
 related: []
 source:

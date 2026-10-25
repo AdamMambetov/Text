@@ -9,6 +9,9 @@ CoverOf: ""
 Creators:
   - "[[Earth, Wind & Fire (🎙️ 296)]]"
 ListenInSec: 217
+Marks:
+  - "[[Фильм]]"
+  - "[[OST]]"
 NumberInAlbum: 7
 related: []
 source: ""

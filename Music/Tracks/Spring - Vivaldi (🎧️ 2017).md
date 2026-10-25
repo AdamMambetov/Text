@@ -9,6 +9,8 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Vivaldi (🎙️ 1024)]]"
+Genres:
+  - "[[Классическая]]"
 ListenInSec: 418
 NumberInAlbum: 0
 related: []

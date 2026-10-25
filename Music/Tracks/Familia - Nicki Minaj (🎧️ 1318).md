@@ -11,6 +11,9 @@ Creators:
   - "[[Anuel AA (🎙️ 759)]]"
   - "[[Bantu (🎙️ 760)]]"
 ListenInSec: 201
+Marks:
+  - "[[Фильм]]"
+  - "[[OST]]"
 NumberInAlbum: 4
 related: []
 source: ""

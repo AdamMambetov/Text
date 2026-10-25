@@ -8,7 +8,11 @@ Album: "[[The Platinum Collection]]"
 CoverOf: ""
 Creators:
   - "[[Queen (🎙️ 418)]]"
+Genres:
+  - "[[Поп-рок]]"
 ListenInSec: 211
+Marks:
+  - "[[Прогрессив]]"
 NumberInAlbum: 7
 related: []
 source: ""

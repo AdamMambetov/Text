@@ -9,6 +9,9 @@ CoverOf: ""
 Creators:
   - "[[Aerosmith (🎙️ 154)]]"
 ListenInSec: 2073
+Marks:
+  - "[[Фильм]]"
+  - "[[OST]]"
 NumberInAlbum: 0
 related: []
 source: ""

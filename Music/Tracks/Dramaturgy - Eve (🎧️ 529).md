@@ -8,7 +8,11 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Eve (🎙️ 34)]]"
+Genres:
+  - "[[Поп-рок]]"
 ListenInSec: 474
+Marks:
+  - "[[Инди]]"
 NumberInAlbum: 0
 related: []
 source: https://youtu.be/jJzw1h5CR-I?si=TK1e8UZNbf54U7sE

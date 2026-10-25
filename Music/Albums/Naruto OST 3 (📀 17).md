@@ -2,6 +2,7 @@
 created: 2024-07-18T15:42:45
 aliases:
   - "Naruto OST 3"
+  - "Наруто OST 3"
 Year: 2004
 Creators:
   - "[[Toshio Masuda (🎙️ 557)]]"

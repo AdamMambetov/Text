@@ -9,6 +9,9 @@ CoverOf: ""
 Creators:
   - "[[OK Go (🎙️ 397)]]"
 ListenInSec: 200
+Marks:
+  - "[[Сериал]]"
+  - "[[OST]]"
 NumberInAlbum: 0
 related: []
 source: ""

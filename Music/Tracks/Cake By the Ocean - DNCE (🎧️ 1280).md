@@ -8,6 +8,8 @@ Album: "[[DNCE]]"
 CoverOf: ""
 Creators:
   - "[[DNCE (🎙️ 289)]]"
+Genres:
+  - "[[Поп]]"
 ListenInSec: 220
 NumberInAlbum: 1
 related: []

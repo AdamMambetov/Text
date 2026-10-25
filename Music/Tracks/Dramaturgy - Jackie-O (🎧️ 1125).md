@@ -8,7 +8,12 @@ Album: ""
 CoverOf: "[[Dramaturgy - Eve (🎧️ 529)]]"
 Creators:
   - "[[Jackie-O (🎙️ 337)]]"
+Genres:
+  - "[[Поп-рок]]"
 ListenInSec: 247
+Marks:
+  - "[[Инди]]"
+  - "[[Кавер]]"
 NumberInAlbum: 0
 related: []
 source: ""

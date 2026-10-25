@@ -9,6 +9,10 @@ CoverOf: ""
 Creators:
   - "[[Smash Mouth (🎙️ 440)]]"
 ListenInSec: 345
+Marks:
+  - "[[Фильм]]"
+  - "[[OST]]"
+  - "[[Мем]]"
 NumberInAlbum: 0
 related: []
 source: ""

@@ -9,6 +9,8 @@ CoverOf: ""
 Creators:
   - "[[Chimoruki (🎙️ 258)]]"
 ListenInSec: 802
+Marks:
+  - "[[Мэшап]]"
 NumberInAlbum: 0
 related:
   - "[[Clown's Song - Nankidai (🎧️ 1903)]]"

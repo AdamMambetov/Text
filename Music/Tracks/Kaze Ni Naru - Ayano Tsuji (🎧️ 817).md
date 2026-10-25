@@ -10,6 +10,9 @@ CoverOf: ""
 Creators:
   - "[[Ayano Tsuji (🎙️ 470)]]"
 ListenInSec: 468
+Marks:
+  - "[[Фильм]]"
+  - "[[OST]]"
 NumberInAlbum: 0
 related: []
 source: ""

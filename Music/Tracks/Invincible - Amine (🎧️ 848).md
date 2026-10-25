@@ -9,6 +9,9 @@ CoverOf: ""
 Creators:
   - "[[Amine (🎙️ 177)]]"
 ListenInSec: -196
+Marks:
+  - "[[Фильм]]"
+  - "[[OST]]"
 NumberInAlbum: 5
 related: []
 source: ""

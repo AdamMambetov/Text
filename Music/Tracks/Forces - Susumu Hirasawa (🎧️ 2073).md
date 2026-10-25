@@ -9,6 +9,9 @@ CoverOf: ""
 Creators:
   - "[[Susumu Hirasawa (🎙️ 450)]]"
 ListenInSec: 1805
+Marks:
+  - "[[Аниме]]"
+  - "[[OST]]"
 NumberInAlbum: 0
 related: []
 source: ""

@@ -8,7 +8,12 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Yuji Ohno (🎙️ 727)]]"
+Genres:
+  - "[[Джаз]]"
 ListenInSec: 996
+Marks:
+  - "[[Аниме]]"
+  - "[[OST]]"
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Yuji Ohno - Love In Sao Paolo.mp3]]"

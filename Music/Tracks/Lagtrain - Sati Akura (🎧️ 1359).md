@@ -8,7 +8,12 @@ Album: ""
 CoverOf: "[[Lagtrain - inabakumori (🎧️ 4)]]"
 Creators:
   - "[[Sati Akura (🎙️ 355)]]"
+Genres:
+  - "[[Поп]]"
+  - "[[Электроника]]"
 ListenInSec: 823
+Marks:
+  - "[[Кавер]]"
 NumberInAlbum: 0
 related: []
 source: ""

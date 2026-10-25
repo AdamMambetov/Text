@@ -8,7 +8,13 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Sheet Music Boss (🎙️ 646)]]"
+Genres:
+  - "[[Оркестровая]]"
 ListenInSec: 1015
+Marks:
+  - "[[Мем]]"
+  - "[[Инструментал]]"
+  - "[[Соло-инструмент]]"
 NumberInAlbum: 1
 related: []
 source: ""

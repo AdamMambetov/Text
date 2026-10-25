@@ -8,6 +8,8 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Beethoven (🎙️ 965)]]"
+Genres:
+  - "[[Классическая]]"
 ListenInSec: 67
 NumberInAlbum: 0
 related: []

@@ -9,7 +9,13 @@ CoverOf: ""
 Creators:
   - "[[Gotye (🎙️ 318)]]"
   - "[[Kimbra (🎙️ 319)]]"
+Genres:
+  - "[[Поп]]"
 ListenInSec: 3597
+Marks:
+  - "[[Баллада]]"
+  - "[[Эмбиент]]"
+  - "[[Инди]]"
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Gotye feat. Kimbra - Somebody That I Used To Know.mp3]]"

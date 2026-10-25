@@ -1,15 +1,14 @@
 ---
 created: 2024-09-14T18:47:24+03:00
-Name: Восхождение героя щита
+aliases: Восхождение героя щита
 Status: watch
 Type: ranobe
 Rating: R-17
-Cover: "![[rising_of_the_shield_hero_ranobe_cover.png]]"
+Cover: "[[rising_of_the_shield_hero_ranobe_cover.png]]"
 Year: 2013
 Episode: 390
 Creators: Анеко Юсаги
 Time: 0:00:00
-Глава_тома: 1
 Том: 22
 ---
 

@@ -10,6 +10,9 @@ Creators:
   - "[[Disney (🎙️ 284)]]"
   - "[[Мария Иващенко (🎙️ 116)]]"
 ListenInSec: 348
+Marks:
+  - "[[Фильм]]"
+  - "[[OST]]"
 NumberInAlbum: 2
 related:
   - "[[Barking At The Moon - Disney (🎧️ 707)]]"

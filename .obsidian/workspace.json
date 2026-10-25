@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1ee336d6d327a3fb",
+        "id": "1df8acf9577aef0e",
         "type": "tabs",
         "children": [
           {
-            "id": "b97417dd924a9ca8",
+            "id": "3f0d50e20ca04344",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Music/Playlists/100% Шедевр (💿 6).md",
-                "mode": "source",
-                "source": true
+                "aFile": "Music/.obsidian/core-plugins.json",
+                "bFile": "Music/.obsidian/core-plugins.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "100% Шедевр (💿 6)"
+              "icon": "diff",
+              "title": "Diff: core-plugins.json  (Working Tree)"
             }
           }
         ]
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"Глава тома\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Music/Playlists/100% Шедевр (💿 6).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -112,7 +111,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.0534979423868305,
+                  "scale": 0.46822130772748016,
                   "close": true
                 }
               },
@@ -251,7 +250,7 @@
               "state": {
                 "sortOrder": "frequency",
                 "showSearch": true,
-                "searchQuery": ""
+                "searchQuery": "mar"
               },
               "icon": "lucide-archive",
               "title": "All properties"
@@ -298,34 +297,38 @@
       "obsidian-local-images-plus:Local Images Plus  0.17.1\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "b97417dd924a9ca8",
+  "active": "3f0d50e20ca04344",
   "lastOpenFiles": [
+    "Music/Marks/Авторский трек.md",
+    "Music/Playlists/Vocaloid (💿 22).md",
+    "Music/Tracks/Hoshikuzu Utopia - otetsu (🎧️ 2026).md",
+    "Music/Marks/Вокалоид.md",
+    "Music/Playlists/Game (💿 23).md",
+    "Music/Tracks/'Shape of You' but it's Smash Mouth singing 'All Star' - Engval Music (🎧️ 1646).md",
+    "Music/Creators/Plamenev (🎙️ 412).md",
+    "Music/Tracks/Трон - Everblack Melodies (🎧️ 104).md",
+    "Music/Tracks/Романс - Пицца (🎧️ 95).md",
+    "Music/Creators/Пицца (🎙️ 126).md",
+    "Music/Tracks/Все будет хорошо - VERKA SERDUCHKA (🎧️ 1657).md",
+    "Music/Creators/VERKA SERDUCHKA (🎙️ 961).md",
+    "Music/Tracks/Out of Death - Plamenev (🎧️ 902).md",
+    "Music/Tracks/Вне смерти - Plamenev (🎧️ 545).md",
+    "Music/Tracks/Parade (Live Hybrid Phonon) - Susumu Hirasawa (🎧️ 2115).md",
+    "Music/Tracks/Step into the Dark! - Plamenev (🎧️ 901).md",
+    "Music/Tracks/Шаг в темноту! - Plamenev (🎧️ 904).md",
+    "Music/Tracks/Lay All Your Love On Me - Avantasia (🎧️ 673).md",
+    "Music/Tracks/Inochi no Tabekata - NotADub (🎧️ 1302).md",
+    "Music/Tracks/Inochi No Tabekata - Eve (🎧️ 1300).md",
+    "Music/Tracks/Freaks - Surf Curse (🎧️ 525).md",
+    "Music/Tracks/Complication - Jackie-O (🎧️ 1463).md",
+    "Music/Tracks/Complication - ROOKiEZ is PUNK'D (🎧️ 1699).md",
+    "Music/Tracks/Okinimesumama - Eve (🎧️ 1135).md",
+    "Music/Tracks/Я свободен - Кипелов (🎧️ 306).md",
+    "Music/Tracks/Фотографирую закат - fem.love (🎧️ 107).md",
+    "Music/Genres",
+    "Music/Marks",
+    "Music/Covers/MYTH & ROID - STYX HELIX.jpg",
     "Music/playlists.base",
-    "Music/Playlists/Anime Endings (💿 5).md",
-    "Music/Playlists/Anime Openings (💿 4).md",
-    "Music/Playlists/YouTube (💿 9).md",
-    "Music/Playlists/xaki's Akoustika Album Series (💿 25).md",
-    "Music/Playlists/Watch Dogs OST (💿 18).md",
-    "Music/Playlists/Vocaloid (💿 26).md",
-    "Music/Playlists/Spotify (💿 10).md",
-    "Music/Playlists/Remix (💿 16).md",
-    "Music/Playlists/real (💿 30).md",
-    "Music/Playlists/osu! (💿 2).md",
-    "Music/Playlists/Mashup (💿 17).md",
-    "Music/Playlists/Game (💿 29).md",
-    "Music/Playlists/Favorites (💿 1).md",
-    "Music/Playlists/Anime (💿 3).md",
-    "Music/Playlists/Яндекс (💿 7).md",
-    "Music/Playlists/Чилл (💿 14).md",
-    "Music/Playlists/Чайки (💿 11).md",
-    "Music/Playlists/Путешествие (💿 23).md",
-    "Music/Playlists/Нужно обрезать (💿 28).md",
-    "Music/Playlists/Нет второй версии (💿 27).md",
-    "Music/Playlists/Мем (💿 15).md",
-    "Music/Playlists/Любовь (💿 21).md",
-    "Music/Playlists/Классика (💿 19).md",
-    "Music/Playlists/Драйв (💿 20).md",
-    "Music/Playlists/Джаз (💿 22).md",
     "Music/Covers/Death Note OST I.jpg",
     "Music/Covers/Shikata Akiko - Katayoku no Tori.jpg",
     "Music/Covers/Death Note OST I.jpg.bak",
@@ -338,12 +341,9 @@
     "Music/Covers/Shrek 2 OST - 01 Accidentally in Love.jpg",
     "Music/Covers/Shrek 2 OST - 03 Changes.jpg",
     "Music/Covers/Shrek 3 OST.jpg",
-    "Music/Covers/Shrek OST.jpg",
     "Note/projects/unreal engine/Skyway",
     "Note/projects/JiGit",
     "Note/excalidraw",
-    "Personal/Пароли.kdbx.eXxkJy",
-    "file:/home/adamm/Downloads/Telegram Desktop/РЕФЕРАТ.pdf",
-    "Art/art.base"
+    "Personal/Пароли.kdbx.eXxkJy"
   ]
 }

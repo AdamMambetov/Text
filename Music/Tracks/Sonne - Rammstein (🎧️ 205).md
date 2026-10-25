@@ -8,6 +8,8 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Rammstein (🎙️ 422)]]"
+Genres:
+  - "[[Метал]]"
 ListenInSec: 540
 NumberInAlbum: 0
 related: []

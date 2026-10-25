@@ -9,6 +9,9 @@ CoverOf: ""
 Creators:
   - "[[Amphibious Zoo Music (🎙️ 178)]]"
 ListenInSec: 1063
+Marks:
+  - "[[Сериал]]"
+  - "[[OST]]"
 NumberInAlbum: 1
 related: []
 source: ""

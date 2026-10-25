@@ -2,6 +2,8 @@
 created: 2026-09-09T11:35:01+03:00
 aliases:
   - "Naku Naku Solo Guitar 2.5"
+  - "Umineko no Naku Koro ni Solo Guitar 2.5"
+  - "Когда плачут чайки Solo Guitar 2.5"
 Cover: "[[nekocapo - Naku Naku Solo Guitar 2.5.jpg]]"
 Year: 2010
 Creators:

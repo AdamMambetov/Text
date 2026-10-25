@@ -9,6 +9,10 @@ CoverOf: ""
 Creators:
   - "[[RADWIMPS (🎙️ 543)]]"
 ListenInSec: 440
+Marks:
+  - "[[Аниме]]"
+  - "[[Фильм]]"
+  - "[[OST]]"
 NumberInAlbum: 12
 related: []
 source:

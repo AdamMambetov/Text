@@ -10,6 +10,8 @@ CoverOf: "[[Шаг в темноту - Рок-Опера Орфей (🎧️ 845
 Creators:
   - "[[Plamenev (🎙️ 412)]]"
 ListenInSec: 259
+Marks:
+  - "[[Кавер]]"
 NumberInAlbum: 0
 related:
   - "[[Step into the Dark! - Plamenev (🎧️ 901)]]"

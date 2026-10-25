@@ -9,6 +9,9 @@ CoverOf: ""
 Creators:
   - "[[Led Zeppelin (🎙️ 916)]]"
 ListenInSec: 168
+Marks:
+  - "[[Фильм]]"
+  - "[[OST]]"
 NumberInAlbum: 1
 related: []
 source: ""

@@ -9,6 +9,9 @@ CoverOf: ""
 Creators:
   - "[[Disney (🎙️ 284)]]"
 ListenInSec: 199
+Marks:
+  - "[[Фильм]]"
+  - "[[OST]]"
 NumberInAlbum: 2
 related:
   - "[[Когда я лаю при луне - Disney (🎧️ 788)]]"

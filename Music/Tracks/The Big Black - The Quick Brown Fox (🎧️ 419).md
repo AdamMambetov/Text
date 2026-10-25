@@ -8,6 +8,8 @@ Album: "[[TQBF - Speedkore 4 Kidz!]]"
 CoverOf: ""
 Creators:
   - "[[The Quick Brown Fox (🎙️ 460)]]"
+Genres:
+  - "[[Танцевальная]]"
 ListenInSec: 399
 NumberInAlbum: 1
 related: []

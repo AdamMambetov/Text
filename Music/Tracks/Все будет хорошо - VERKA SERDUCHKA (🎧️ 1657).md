@@ -8,6 +8,9 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[VERKA SERDUCHKA (🎙️ 961)]]"
+Genres:
+  - "[[Поп]]"
+  - "[[Танцевальная]]"
 ListenInSec: 1084
 NumberInAlbum: 0
 related: []

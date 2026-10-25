@@ -4,13 +4,21 @@ aliases:
   - "The Great Detective Knows"
   - "Настоящий сыщик знает"
   - "meitantei_ha_shitteiru"
+  - "Meitantei wa Shitteiru"
 Cover: "[[Umineko no Naku Koro Ni OST 1.jpg]]"
 Year: 2007
 Album: "[[Umineko no Naku Koro ni OST (📀 30)]]"
 CoverOf: ""
 Creators:
   - "[[dai (🎙️ 3)]]"
+Genres:
+  - "[[Оркестровая]]"
+  - "[[Поп]]"
 ListenInSec: 696
+Marks:
+  - "[[Инструментал]]"
+  - "[[Игра]]"
+  - "[[OST]]"
 NumberInAlbum: 113
 related: []
 source: ""

@@ -9,6 +9,10 @@ CoverOf: ""
 Creators:
   - "[[Ilmari Hakkola (🎙️ 939)]]"
 ListenInSec: 1236
+Marks:
+  - "[[Игра]]"
+  - "[[OST]]"
+  - "[[Мем]]"
 NumberInAlbum: 1
 related: []
 source: ""

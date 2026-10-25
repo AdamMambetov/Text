@@ -9,6 +9,8 @@ CoverOf: ""
 Creators:
   - "[[Eiffel 65 (🎙️ 298)]]"
 ListenInSec: 303
+Marks:
+  - "[[Мем]]"
 NumberInAlbum: 1
 related: []
 source: ""

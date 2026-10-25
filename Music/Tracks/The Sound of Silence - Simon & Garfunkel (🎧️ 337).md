@@ -9,6 +9,9 @@ CoverOf: ""
 Creators:
   - "[[Simon & Garfunkel (🎙️ 547)]]"
 ListenInSec: 479
+Marks:
+  - "[[Фильм]]"
+  - "[[OST]]"
 NumberInAlbum: 14
 related: []
 source:

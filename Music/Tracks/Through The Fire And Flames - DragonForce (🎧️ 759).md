@@ -8,6 +8,8 @@ Album: "[[Inhuman Rampage]]"
 CoverOf: ""
 Creators:
   - "[[DragonForce (🎙️ 294)]]"
+Genres:
+  - "[[Метал]]"
 ListenInSec: 357
 NumberInAlbum: 1
 related: []

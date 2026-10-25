@@ -8,7 +8,13 @@ Album: "[[Quiet World]]"
 CoverOf: ""
 Creators:
   - "[[Native Construct (🎙️ 385)]]"
+Genres:
+  - "[[Метал]]"
+  - "[[Прочее]]"
 ListenInSec: 168
+Marks:
+  - "[[Прогрессив]]"
+  - "[[Инди]]"
 NumberInAlbum: 5
 related: []
 source: ""

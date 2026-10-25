@@ -9,7 +9,11 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Bach (🎙️ 977)]]"
+Genres:
+  - "[[Классическая]]"
 ListenInSec: 850
+Marks:
+  - "[[Мем]]"
 NumberInAlbum: 0
 related: []
 source: ""

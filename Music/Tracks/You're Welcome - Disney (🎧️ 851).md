@@ -9,6 +9,9 @@ CoverOf: ""
 Creators:
   - "[[Disney (🎙️ 284)]]"
 ListenInSec: 170
+Marks:
+  - "[[Фильм]]"
+  - "[[OST]]"
 NumberInAlbum: 7
 related: []
 SourceFile: "[[Moana OST - You're Welcome.mp3]]"

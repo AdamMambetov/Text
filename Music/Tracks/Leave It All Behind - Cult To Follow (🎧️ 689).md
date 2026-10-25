@@ -8,6 +8,8 @@ Album: "[[Leave It All Behind - Elements]]"
 CoverOf: ""
 Creators:
   - "[[Cult To Follow (🎙️ 268)]]"
+Genres:
+  - "[[Рок]]"
 ListenInSec: 224
 NumberInAlbum: 1
 related: []

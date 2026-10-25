@@ -9,6 +9,9 @@ CoverOf: "[[Bad Piggies - Ilmari Hakkola (🎧️ 1545)]]"
 Creators:
   - "[[mazyaka (🎙️ 999)]]"
 ListenInSec: 868
+Marks:
+  - "[[Мем]]"
+  - "[[Кавер]]"
 NumberInAlbum: 0
 related: []
 source: ""

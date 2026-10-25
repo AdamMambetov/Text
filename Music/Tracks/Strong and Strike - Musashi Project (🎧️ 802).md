@@ -5,11 +5,15 @@ aliases:
   - "Си Со Си"
 Cover: "[[Naruto OST 1.jpg]]"
 Year: 2002
-Album: "[[Naruto OST 1 — Toshio Masuda]]"
+Album: "[[Naruto OST 1 (📀 15)]]"
 CoverOf: ""
 Creators:
   - "[[Musashi Project (🎙️ 558)]]"
 ListenInSec: 277
+Marks:
+  - "[[Аниме]]"
+  - "[[OST]]"
+  - "[[Мем]]"
 NumberInAlbum: 18
 related: []
 source:

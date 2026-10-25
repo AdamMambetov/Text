@@ -9,6 +9,8 @@ CoverOf: ""
 Creators:
   - "[[Usolie Records (🎙️ 960)]]"
 ListenInSec: 1193
+Marks:
+  - "[[Мэшап]]"
 NumberInAlbum: 0
 related:
   - "[[Hitorigoto (TV Size) - ClariS (🎧️ 1083)]]"

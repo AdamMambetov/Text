@@ -8,7 +8,12 @@ Album: "[[8 Mile OST (📀 2)]]"
 CoverOf: ""
 Creators:
   - "[[Eminem (🎙️ 290)]]"
+Genres:
+  - "[[Хип-хоп]]"
 ListenInSec: 665
+Marks:
+  - "[[Фильм]]"
+  - "[[OST]]"
 NumberInAlbum: 1
 related: []
 source: ""

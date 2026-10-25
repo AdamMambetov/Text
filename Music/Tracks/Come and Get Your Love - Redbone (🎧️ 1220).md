@@ -9,6 +9,10 @@ CoverOf: ""
 Creators:
   - "[[Redbone (🎙️ 884)]]"
 ListenInSec: 2884
+Marks:
+  - "[[Мем]]"
+  - "[[Фильм]]"
+  - "[[OST]]"
 NumberInAlbum: 2
 related: []
 SourceFile: "[[Redbone - Come And Get Your Love.mp3]]"

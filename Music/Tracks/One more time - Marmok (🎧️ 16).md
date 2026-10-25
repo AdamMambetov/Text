@@ -9,6 +9,8 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Marmok (🎙️ 373)]]"
+Genres:
+  - "[[Прочее]]"
 ListenInSec: 221
 NumberInAlbum: 0
 related: []

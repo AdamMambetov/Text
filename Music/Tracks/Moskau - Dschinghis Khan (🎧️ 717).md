@@ -9,6 +9,8 @@ CoverOf: ""
 Creators:
   - "[[Dschinghis Khan (🎙️ 846)]]"
 ListenInSec: -270
+Marks:
+  - "[[Мем]]"
 NumberInAlbum: 1
 related: []
 source: ""

@@ -9,6 +9,9 @@ CoverOf: ""
 Creators:
   - "[[Disney (🎙️ 284)]]"
 ListenInSec: 465
+Marks:
+  - "[[Фильм]]"
+  - "[[OST]]"
 NumberInAlbum: 1
 related: []
 source:

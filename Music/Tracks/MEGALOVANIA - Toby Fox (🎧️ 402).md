@@ -9,6 +9,10 @@ CoverOf: ""
 Creators:
   - "[[Toby Fox (🎙️ 563)]]"
 ListenInSec: 184
+Marks:
+  - "[[Игра]]"
+  - "[[OST]]"
+  - "[[Мем]]"
 NumberInAlbum: 100
 related: []
 source:

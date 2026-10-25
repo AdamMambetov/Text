@@ -8,7 +8,11 @@ Album: "[[Freaks]]"
 CoverOf: ""
 Creators:
   - "[[Surf Curse (🎙️ 447)]]"
+Genres:
+  - "[[Рок]]"
 ListenInSec: 341
+Marks:
+  - "[[Инди]]"
 NumberInAlbum: 1
 related: []
 source: ""

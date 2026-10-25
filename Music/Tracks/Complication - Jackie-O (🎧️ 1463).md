@@ -10,7 +10,11 @@ Album: ""
 CoverOf: "[[Complication - ROOKiEZ is PUNK'D (🎧️ 1699)]]"
 Creators:
   - "[[Jackie-O (🎙️ 337)]]"
+Genres:
+  - "[[Поп-рок]]"
 ListenInSec: 978
+Marks:
+  - "[[Кавер]]"
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Jackie-O - Complication.mp3]]"

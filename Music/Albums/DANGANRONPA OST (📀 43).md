@@ -3,6 +3,7 @@ created: 2026-07-11T12:55:43+03:00
 aliases:
   - "DANGANRONPA OST"
   - "Danganronpa: Trigger Happy Havoc OST"
+  - "Данганронпа OST"
 Cover: "[[DANGANRONPA 1 OST.jpg]]"
 Year: 2011
 Creators:

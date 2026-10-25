@@ -9,6 +9,10 @@ CoverOf: ""
 Creators:
   - "[[Pharrell Williams (🎙️ 522)]]"
 ListenInSec: 339
+Marks:
+  - "[[Фильм]]"
+  - "[[OST]]"
+  - "[[Мем]]"
 NumberInAlbum: 0
 related: []
 source: ""

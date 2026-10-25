@@ -10,9 +10,12 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[ROOKiEZ is PUNK'D (🎙️ 429)]]"
+Genres:
+  - "[[Поп-рок]]"
 ListenInSec: 527
 NumberInAlbum: 0
-related: []
+related:
+  - "[[Complication (TV Size) - ROOKiEZ is PUNK'D (🎧️ 1696)]]"
 source: ""
 SourceFile: "[[ROOKiEZ is PUNK'D - Complication.mp3]]"
 ---

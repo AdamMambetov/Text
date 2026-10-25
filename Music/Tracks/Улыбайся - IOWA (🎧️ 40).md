@@ -9,6 +9,9 @@ CoverOf: ""
 Creators:
   - "[[IOWA (🎙️ 335)]]"
 ListenInSec: 218
+Marks:
+  - "[[Сериал]]"
+  - "[[OST]]"
 NumberInAlbum: 1
 related: []
 source: ""

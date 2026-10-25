@@ -11,6 +11,9 @@ Creators:
   - "[[Ty Dolla $ign (🎙️ 550)]]"
   - "[[XXXTentacion (🎙️ 551)]]"
 ListenInSec: -233
+Marks:
+  - "[[Фильм]]"
+  - "[[OST]]"
 NumberInAlbum: 11
 related: []
 source:

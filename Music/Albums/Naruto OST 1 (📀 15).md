@@ -2,6 +2,7 @@
 created: 2024-07-18T15:40:45
 aliases:
   - "Naruto OST 1"
+  - "Наруто OST 1"
 Cover: "[[Naruto OST 1.jpg]]"
 Year: 2003
 Creators:

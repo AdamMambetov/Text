@@ -2,6 +2,7 @@
 created: 2026-03-15T19:04:29+03:00
 aliases:
   - "BPM OST"
+  - "Bullet Per Minute OST"
 Cover: "[[BPM OST.jpg]]"
 Year: 2020
 Creators:

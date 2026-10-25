@@ -9,6 +9,9 @@ CoverOf: ""
 Creators:
   - "[[Audio Bullys (🎙️ 197)]]"
 ListenInSec: 217
+Marks:
+  - "[[Сериал]]"
+  - "[[OST]]"
 NumberInAlbum: 2
 related: []
 source: ""

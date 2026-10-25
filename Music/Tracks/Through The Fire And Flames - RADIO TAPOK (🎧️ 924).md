@@ -9,7 +9,11 @@ CoverOf: "[[Through The Fire And Flames - DragonForce (🎧️ 759)]]"
 Creators:
   - "[[RADIO TAPOK (🎙️ 419)]]"
   - "[[Эпидемия (🎙️ 140)]]"
+Genres:
+  - "[[Метал]]"
 ListenInSec: 221
+Marks:
+  - "[[Кавер]]"
 NumberInAlbum: 0
 related: []
 source: ""

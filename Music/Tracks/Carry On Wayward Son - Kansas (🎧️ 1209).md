@@ -9,6 +9,9 @@ CoverOf: ""
 Creators:
   - "[[Kansas (🎙️ 345)]]"
 ListenInSec: 483
+Marks:
+  - "[[Сериал]]"
+  - "[[OST]]"
 NumberInAlbum: 1
 related: []
 source: ""

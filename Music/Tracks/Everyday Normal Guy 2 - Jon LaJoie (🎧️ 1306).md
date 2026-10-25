@@ -8,7 +8,12 @@ Album: "[[You Want Some of This?]]"
 CoverOf: ""
 Creators:
   - "[[Jon LaJoie (🎙️ 894)]]"
+Genres:
+  - "[[Рэп]]"
+  - "[[Хип-хоп]]"
 ListenInSec: 195
+Marks:
+  - "[[Мем]]"
 NumberInAlbum: 9
 related: []
 source: ""

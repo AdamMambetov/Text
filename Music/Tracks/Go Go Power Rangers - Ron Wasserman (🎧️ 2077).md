@@ -11,6 +11,9 @@ CoverOf: ""
 Creators:
   - "[[Ron Wasserman (🎙️ 1048)]]"
 ListenInSec: 3313
+Marks:
+  - "[[Сериал]]"
+  - "[[OST]]"
 NumberInAlbum: 0
 related: []
 SourceFile: "[[PowerRangers Brasil - Mighty Morphin Power Rangers Full Theme Song.mp3]]"

@@ -9,6 +9,9 @@ CoverOf: ""
 Creators:
   - "[[Enjoykin (🎙️ 1014)]]"
 ListenInSec: 412
+Marks:
+  - "[[Мэшап]]"
+  - "[[Мем]]"
 NumberInAlbum: 0
 related: []
 source: ""
