@@ -10,8 +10,8 @@ Creators:
   - "[[Enjoykin (🎙️ 1014)]]"
 ListenInSec: 412
 Marks:
-  - "[[Мэшап]]"
-  - "[[Мем]]"
+  - "[[Mashup]]"
+  - "[[Meme]]"
 NumberInAlbum: 0
 related: []
 source: ""

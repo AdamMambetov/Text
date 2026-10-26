@@ -9,11 +9,11 @@ CoverOf: ""
 Creators:
   - "[[inabakumori (🎙️ 334)]]"
 Genres:
-  - "[[Поп]]"
-  - "[[Электроника]]"
+  - "[[Pop]]"
+  - "[[Electronic]]"
 ListenInSec: 549
 Marks:
-  - "[[Игра]]"
+  - "[[Game]]"
   - "[[OST]]"
 NumberInAlbum: 0
 related: []

@@ -10,7 +10,7 @@ Creators:
   - "[[Kanskaart (🎙️ 959)]]"
 ListenInSec: 525
 Marks:
-  - "[[Мэшап]]"
+  - "[[Mashup]]"
 NumberInAlbum: 0
 related:
   - "[[Lose Yourself - Eminem (🎧️ 323)]]"

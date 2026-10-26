@@ -10,9 +10,9 @@ Creators:
   - "[[Pharrell Williams (🎙️ 522)]]"
 ListenInSec: 339
 Marks:
-  - "[[Фильм]]"
+  - "[[Film]]"
   - "[[OST]]"
-  - "[[Мем]]"
+  - "[[Meme]]"
 NumberInAlbum: 0
 related: []
 source: ""

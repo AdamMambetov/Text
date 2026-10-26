@@ -11,8 +11,8 @@ Creators:
   - "[[sumika (🎙️ 446)]]"
 ListenInSec: 965
 Marks:
-  - "[[Аниме]]"
-  - "[[Фильм]]"
+  - "[[Anime]]"
+  - "[[Film]]"
   - "[[OP]]"
 NumberInAlbum: 0
 related: []

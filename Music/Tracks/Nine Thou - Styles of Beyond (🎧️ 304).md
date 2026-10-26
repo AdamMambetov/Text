@@ -10,7 +10,7 @@ Creators:
   - "[[Styles of Beyond (🎙️ 546)]]"
 ListenInSec: 244
 Marks:
-  - "[[Ремикс]]"
+  - "[[Remix]]"
 NumberInAlbum: 1
 related: []
 source:

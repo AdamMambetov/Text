@@ -10,7 +10,7 @@ Creators:
   - "[[Neon Trees (🎙️ 756)]]"
 ListenInSec: 179
 Marks:
-  - "[[Сериал]]"
+  - "[[Series]]"
   - "[[OST]]"
 NumberInAlbum: 3
 related: []

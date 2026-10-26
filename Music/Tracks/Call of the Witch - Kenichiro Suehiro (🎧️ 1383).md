@@ -10,9 +10,9 @@ Creators:
   - "[[Kenichiro Suehiro (🎙️ 748)]]"
 ListenInSec: 1585
 Marks:
-  - "[[Аниме]]"
+  - "[[Anime]]"
   - "[[OST]]"
-  - "[[Мем]]"
+  - "[[Meme]]"
 NumberInAlbum: 3
 related: []
 source: ""

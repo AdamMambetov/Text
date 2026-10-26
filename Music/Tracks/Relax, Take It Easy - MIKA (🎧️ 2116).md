@@ -9,7 +9,7 @@ CoverOf: ""
 Creators:
   - "[[MIKA (🎙️ 517)]]"
 Genres:
-  - "[[Поп]]"
+  - "[[Pop]]"
 ListenInSec: 456
 NumberInAlbum: 0
 related: []

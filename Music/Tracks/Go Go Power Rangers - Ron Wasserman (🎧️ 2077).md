@@ -12,7 +12,7 @@ Creators:
   - "[[Ron Wasserman (🎙️ 1048)]]"
 ListenInSec: 3313
 Marks:
-  - "[[Сериал]]"
+  - "[[Series]]"
   - "[[OP]]"
 NumberInAlbum: 0
 related: []

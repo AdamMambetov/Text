@@ -10,7 +10,7 @@ Creators:
   - "[[Two Feet (🎙️ 1035)]]"
 ListenInSec: 404
 Marks:
-  - "[[Мем]]"
+  - "[[Meme]]"
 NumberInAlbum: 0
 related: []
 source: ""

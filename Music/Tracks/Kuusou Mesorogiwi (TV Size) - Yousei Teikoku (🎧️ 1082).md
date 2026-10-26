@@ -13,8 +13,8 @@ Creators:
   - "[[Yousei Teikoku (🎙️ 275)]]"
 ListenInSec: 1449
 Marks:
-  - "[[Аниме]]"
-  - "[[Мем]]"
+  - "[[Anime]]"
+  - "[[Meme]]"
 NumberInAlbum: 0
 related:
   - "[[Kuusou Mesorogiwi - Yousei Teikoku (🎧️ 638)]]"

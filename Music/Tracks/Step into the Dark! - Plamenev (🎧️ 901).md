@@ -11,7 +11,7 @@ Creators:
   - "[[Plamenev (🎙️ 412)]]"
 ListenInSec: 309
 Marks:
-  - "[[Кавер]]"
+  - "[[Cover]]"
 NumberInAlbum: 0
 related:
   - "[[Шаг в темноту! - Plamenev (🎧️ 904)]]"

@@ -10,9 +10,9 @@ Creators:
   - "[[Yoshihisa Hirano (🎙️ 886)]]"
 ListenInSec: 283
 Marks:
-  - "[[Аниме]]"
+  - "[[Anime]]"
   - "[[OST]]"
-  - "[[Мем]]"
+  - "[[Meme]]"
 NumberInAlbum: 23
 related: []
 source: ""

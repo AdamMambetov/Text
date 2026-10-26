@@ -9,8 +9,8 @@ CoverOf: ""
 Creators:
   - "[[OneRepublic (🎙️ 399)]]"
 Genres:
-  - "[[Поп-рок]]"
-  - "[[Поп]]"
+  - "[[Pop rock]]"
+  - "[[Pop]]"
 ListenInSec: 215
 NumberInAlbum: 4
 related: []

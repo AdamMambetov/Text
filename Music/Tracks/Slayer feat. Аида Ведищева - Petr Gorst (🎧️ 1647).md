@@ -10,7 +10,7 @@ Creators:
   - "[[Petr Gorst (🎙️ 958)]]"
 ListenInSec: 340
 Marks:
-  - "[[Мэшап]]"
+  - "[[Mashup]]"
 NumberInAlbum: 0
 related:
   - "[[Angel Of Death - Slayer (🎧️ 1656)]]"

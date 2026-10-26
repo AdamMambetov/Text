@@ -9,12 +9,12 @@ CoverOf: ""
 Creators:
   - "[[Native Construct (🎙️ 385)]]"
 Genres:
-  - "[[Метал]]"
-  - "[[Прочее]]"
+  - "[[Metal]]"
+  - "[[Other]]"
 ListenInSec: 168
 Marks:
-  - "[[Прогрессив]]"
-  - "[[Инди]]"
+  - "[[Progressive]]"
+  - "[[Indie]]"
 NumberInAlbum: 5
 related: []
 source: ""

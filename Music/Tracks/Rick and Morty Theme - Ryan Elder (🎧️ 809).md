@@ -11,7 +11,7 @@ Creators:
   - "[[Ryan Elder (🎙️ 852)]]"
 ListenInSec: 196
 Marks:
-  - "[[Сериал]]"
+  - "[[Series]]"
   - "[[OP]]"
 NumberInAlbum: 1
 related: []

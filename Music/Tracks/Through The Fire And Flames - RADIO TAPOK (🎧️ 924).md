@@ -10,10 +10,10 @@ Creators:
   - "[[RADIO TAPOK (🎙️ 419)]]"
   - "[[Эпидемия (🎙️ 140)]]"
 Genres:
-  - "[[Метал]]"
+  - "[[Metal]]"
 ListenInSec: 221
 Marks:
-  - "[[Кавер]]"
+  - "[[Cover]]"
 NumberInAlbum: 0
 related: []
 source: ""

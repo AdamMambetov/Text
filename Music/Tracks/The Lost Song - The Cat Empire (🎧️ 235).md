@@ -10,7 +10,7 @@ Creators:
   - "[[The Cat Empire (🎙️ 533)]]"
 ListenInSec: 391
 Marks:
-  - "[[Сериал]]"
+  - "[[Series]]"
   - "[[OST]]"
 NumberInAlbum: 3
 related: []

@@ -10,8 +10,8 @@ Creators:
   - "[[Redbone (🎙️ 884)]]"
 ListenInSec: 2884
 Marks:
-  - "[[Мем]]"
-  - "[[Фильм]]"
+  - "[[Meme]]"
+  - "[[Film]]"
   - "[[OST]]"
 NumberInAlbum: 2
 related: []

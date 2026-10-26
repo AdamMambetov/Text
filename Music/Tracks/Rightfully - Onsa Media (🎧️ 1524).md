@@ -11,12 +11,12 @@ CoverOf: "[[Rightfully - Mili (🎧️ 1488)]]"
 Creators:
   - "[[Onsa Media (🎙️ 400)]]"
 Genres:
-  - "[[Поп]]"
-  - "[[Электроника]]"
+  - "[[Pop]]"
+  - "[[Electronic]]"
 ListenInSec: 461
 Marks:
-  - "[[Кавер]]"
-  - "[[Аниме]]"
+  - "[[Cover]]"
+  - "[[Anime]]"
   - "[[OP]]"
 NumberInAlbum: 0
 related: []

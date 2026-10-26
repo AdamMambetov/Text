@@ -9,8 +9,8 @@ CoverOf: ""
 Creators:
   - "[[Skillet (🎙️ 438)]]"
 Genres:
-  - "[[Рок]]"
-  - "[[Поп-рок]]"
+  - "[[Rock]]"
+  - "[[Pop rock]]"
 ListenInSec: 302
 NumberInAlbum: 5
 related: []

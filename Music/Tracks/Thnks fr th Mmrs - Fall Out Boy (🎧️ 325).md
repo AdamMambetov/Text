@@ -9,7 +9,7 @@ CoverOf: ""
 Creators:
   - "[[Fall Out Boy (🎙️ 304)]]"
 Genres:
-  - "[[Поп-рок]]"
+  - "[[Pop rock]]"
 ListenInSec: 205
 NumberInAlbum: 7
 related: []

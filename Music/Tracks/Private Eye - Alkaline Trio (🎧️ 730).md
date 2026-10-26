@@ -10,7 +10,7 @@ Creators:
   - "[[Alkaline Trio (🎙️ 167)]]"
 ListenInSec: 222
 Marks:
-  - "[[Игра]]"
+  - "[[Game]]"
   - "[[OST]]"
 NumberInAlbum: 1
 related: []

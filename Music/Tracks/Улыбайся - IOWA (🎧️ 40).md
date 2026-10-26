@@ -10,7 +10,7 @@ Creators:
   - "[[IOWA (🎙️ 335)]]"
 ListenInSec: 218
 Marks:
-  - "[[Сериал]]"
+  - "[[Series]]"
   - "[[OST]]"
 NumberInAlbum: 1
 related: []

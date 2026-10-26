@@ -10,7 +10,7 @@ CoverOf: ""
 Creators:
   - "[[Plamenev (🎙️ 412)]]"
 Genres:
-  - "[[Метал]]"
+  - "[[Metal]]"
 ListenInSec: 979
 NumberInAlbum: 0
 related:

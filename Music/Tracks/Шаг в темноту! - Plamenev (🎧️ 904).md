@@ -11,7 +11,7 @@ Creators:
   - "[[Plamenev (🎙️ 412)]]"
 ListenInSec: 259
 Marks:
-  - "[[Кавер]]"
+  - "[[Cover]]"
 NumberInAlbum: 0
 related:
   - "[[Step into the Dark! - Plamenev (🎧️ 901)]]"

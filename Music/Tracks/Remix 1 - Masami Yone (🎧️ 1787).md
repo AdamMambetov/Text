@@ -10,7 +10,7 @@ Creators:
   - "[[Masami Yone (🎙️ 982)]]"
 ListenInSec: 2405
 Marks:
-  - "[[Ремикс]]"
+  - "[[Remix]]"
 NumberInAlbum: 0
 related:
   - "[[Marcher - Masami Yone (🎧️ 1780)]]"

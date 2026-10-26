@@ -10,7 +10,7 @@ Creators:
   - "[[Amphibious Zoo Music (🎙️ 178)]]"
 ListenInSec: 1063
 Marks:
-  - "[[Сериал]]"
+  - "[[Series]]"
   - "[[OST]]"
 NumberInAlbum: 1
 related: []

@@ -11,9 +11,9 @@ Creators:
   - "[[HellYeahPlay (🎙️ 870)]]"
 ListenInSec: 283
 Marks:
-  - "[[Сериал]]"
+  - "[[Series]]"
   - "[[OST]]"
-  - "[[Мем]]"
+  - "[[Meme]]"
 NumberInAlbum: 0
 related: []
 source: ""

@@ -9,7 +9,7 @@ CoverOf: ""
 Creators:
   - "[[DNCE (🎙️ 289)]]"
 Genres:
-  - "[[Поп]]"
+  - "[[Pop]]"
 ListenInSec: 220
 NumberInAlbum: 1
 related: []

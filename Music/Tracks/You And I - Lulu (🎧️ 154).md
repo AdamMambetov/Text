@@ -10,7 +10,7 @@ Creators:
   - "[[Lulu (🎙️ 367)]]"
 ListenInSec: 285
 Marks:
-  - "[[Сериал]]"
+  - "[[Series]]"
   - "[[OST]]"
 NumberInAlbum: 0
 related: []

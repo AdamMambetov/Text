@@ -9,11 +9,11 @@ CoverOf: "[[Lagtrain - inabakumori (🎧️ 4)]]"
 Creators:
   - "[[Jinja (🎙️ 340)]]"
 Genres:
-  - "[[Поп]]"
-  - "[[Электроника]]"
+  - "[[Pop]]"
+  - "[[Electronic]]"
 ListenInSec: 505
 Marks:
-  - "[[Кавер]]"
+  - "[[Cover]]"
 NumberInAlbum: 1
 related: []
 source: https://youtu.be/Lz1qJnwfF04?si=_-AWLrxQDZ1prSgY

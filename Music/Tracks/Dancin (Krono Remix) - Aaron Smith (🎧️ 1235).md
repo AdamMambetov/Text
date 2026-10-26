@@ -11,7 +11,7 @@ Creators:
   - "[[Luvli (🎙️ 1089)]]"
 ListenInSec: 212
 Marks:
-  - "[[Ремикс]]"
+  - "[[Remix]]"
 NumberInAlbum: 1
 related: []
 source: ""

@@ -10,8 +10,8 @@ Creators:
   - "[[mazyaka (🎙️ 999)]]"
 ListenInSec: 868
 Marks:
-  - "[[Мем]]"
-  - "[[Кавер]]"
+  - "[[Meme]]"
+  - "[[Cover]]"
 NumberInAlbum: 0
 related: []
 source: ""

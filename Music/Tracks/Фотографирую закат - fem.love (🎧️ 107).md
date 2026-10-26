@@ -9,8 +9,8 @@ CoverOf: ""
 Creators:
   - "[[fem.love (🎙️ 306)]]"
 Genres:
-  - "[[Рок]]"
-  - "[[Поп-рок]]"
+  - "[[Rock]]"
+  - "[[Pop rock]]"
 ListenInSec: 312
 NumberInAlbum: 0
 related: []

@@ -9,10 +9,10 @@ CoverOf: ""
 Creators:
   - "[[Yuji Ohno (🎙️ 727)]]"
 Genres:
-  - "[[Джаз]]"
+  - "[[Jazz]]"
 ListenInSec: 996
 Marks:
-  - "[[Аниме]]"
+  - "[[Anime]]"
   - "[[OST]]"
 NumberInAlbum: 0
 related: []

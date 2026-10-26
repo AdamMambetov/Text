@@ -10,7 +10,7 @@ Creators:
   - "[[Blue Swede (🎙️ 229)]]"
 ListenInSec: 175
 Marks:
-  - "[[Фильм]]"
+  - "[[Film]]"
   - "[[OST]]"
 NumberInAlbum: 1
 related: []

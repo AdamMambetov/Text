@@ -10,7 +10,7 @@ Creators:
   - "[[Naked Raygun (🎙️ 521)]]"
 ListenInSec: 364
 Marks:
-  - "[[Игра]]"
+  - "[[Game]]"
   - "[[OST]]"
 NumberInAlbum: 0
 related: []

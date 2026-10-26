@@ -10,7 +10,7 @@ Creators:
   - "[[Edwin Starr (🎙️ 297)]]"
 ListenInSec: 362
 Marks:
-  - "[[Мем]]"
+  - "[[Meme]]"
 NumberInAlbum: 1
 related: []
 source: ""

@@ -11,7 +11,7 @@ Creators:
   - "[[Skullee (🎙️ 908)]]"
 ListenInSec: 280
 Marks:
-  - "[[Ремикс]]"
+  - "[[Remix]]"
 NumberInAlbum: 1
 related: []
 source: ""

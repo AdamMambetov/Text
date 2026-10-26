@@ -9,8 +9,8 @@ CoverOf: ""
 Creators:
   - "[[Elton John (🎙️ 844)]]"
 Genres:
-  - "[[Поп-рок]]"
-  - "[[Поп]]"
+  - "[[Pop rock]]"
+  - "[[Pop]]"
 ListenInSec: 193
 NumberInAlbum: 2
 related: []

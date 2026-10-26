@@ -9,12 +9,12 @@ CoverOf: ""
 Creators:
   - "[[The Overtones (🎙️ 853)]]"
 Genres:
-  - "[[Джаз]]"
+  - "[[Jazz]]"
 ListenInSec: 228
 Marks:
-  - "[[Фильм]]"
+  - "[[Film]]"
   - "[[OST]]"
-  - "[[Кавер]]"
+  - "[[Cover]]"
 NumberInAlbum: 3
 related: []
 source: ""

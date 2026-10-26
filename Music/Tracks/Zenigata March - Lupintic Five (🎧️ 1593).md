@@ -10,7 +10,7 @@ Creators:
   - "[[Lupintic Five (🎙️ 728)]]"
   - "[[Yuji Ohno (🎙️ 727)]]"
 Genres:
-  - "[[Джаз]]"
+  - "[[Jazz]]"
 ListenInSec: 512
 NumberInAlbum: 0
 related: []

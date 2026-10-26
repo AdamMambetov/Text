@@ -10,7 +10,7 @@ Creators:
   - "[[George Michael (🎙️ 744)]]"
 ListenInSec: 3880
 Marks:
-  - "[[Мем]]"
+  - "[[Meme]]"
 NumberInAlbum: 0
 related: []
 SourceFile: "[[George Michael - Careless Whisper.mp3]]"

@@ -10,7 +10,7 @@ Creators:
   - "[[Jules Gaia (🎙️ 905)]]"
 ListenInSec: 148
 Marks:
-  - "[[Мем]]"
+  - "[[Meme]]"
 NumberInAlbum: 1
 related: []
 source: ""

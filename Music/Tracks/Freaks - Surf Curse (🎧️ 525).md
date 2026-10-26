@@ -9,10 +9,10 @@ CoverOf: ""
 Creators:
   - "[[Surf Curse (🎙️ 447)]]"
 Genres:
-  - "[[Рок]]"
+  - "[[Rock]]"
 ListenInSec: 341
 Marks:
-  - "[[Инди]]"
+  - "[[Indie]]"
 NumberInAlbum: 1
 related: []
 source: ""

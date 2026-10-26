@@ -10,9 +10,9 @@ Creators:
   - "[[The Proclaimers (🎙️ 196)]]"
 ListenInSec: 2179
 Marks:
-  - "[[Фильм]]"
+  - "[[Film]]"
   - "[[OST]]"
-  - "[[Мем]]"
+  - "[[Meme]]"
 NumberInAlbum: 11
 related: []
 SourceFile: "[[Shrek 1 OST - 11 I'm On My Way.mp3]]"

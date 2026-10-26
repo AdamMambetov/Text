@@ -11,12 +11,12 @@ CoverOf: "[[La Divina Tragedia ~Makyoku~ - JIMANG (🎧️ 2043)]]"
 Creators:
   - "[[Игорь Куликов (🎙️ 71)]]"
 Genres:
-  - "[[Метал]]"
+  - "[[Metal]]"
 ListenInSec: 1093
 Marks:
-  - "[[Аниме]]"
+  - "[[Anime]]"
   - "[[ED]]"
-  - "[[Кавер]]"
+  - "[[Cover]]"
 NumberInAlbum: 0
 related: []
 source: ""

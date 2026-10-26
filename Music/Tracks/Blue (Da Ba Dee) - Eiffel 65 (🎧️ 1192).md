@@ -10,7 +10,7 @@ Creators:
   - "[[Eiffel 65 (🎙️ 298)]]"
 ListenInSec: 303
 Marks:
-  - "[[Мем]]"
+  - "[[Meme]]"
 NumberInAlbum: 1
 related: []
 source: ""

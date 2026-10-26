@@ -9,11 +9,11 @@ CoverOf: ""
 Creators:
   - "[[Jon LaJoie (🎙️ 894)]]"
 Genres:
-  - "[[Рэп]]"
-  - "[[Хип-хоп]]"
+  - "[[Rap]]"
+  - "[[Hip hop]]"
 ListenInSec: 195
 Marks:
-  - "[[Мем]]"
+  - "[[Meme]]"
 NumberInAlbum: 9
 related: []
 source: ""

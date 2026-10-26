@@ -10,7 +10,7 @@ Creators:
   - "[[Brad Breeck (🎙️ 233)]]"
 ListenInSec: 169
 Marks:
-  - "[[Сериал]]"
+  - "[[Series]]"
   - "[[OP]]"
 NumberInAlbum: 0
 related: []

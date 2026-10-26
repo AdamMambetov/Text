@@ -10,7 +10,7 @@ Creators:
   - "[[Engval Music (🎙️ 957)]]"
 ListenInSec: 1070
 Marks:
-  - "[[Мэшап]]"
+  - "[[Mashup]]"
 NumberInAlbum: 0
 related:
   - "[[All Star - Smash Mouth (🎧️ 25)]]"

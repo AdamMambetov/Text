@@ -11,10 +11,10 @@ CoverOf: ""
 Creators:
   - "[[JIMANG (🎙️ 1034)]]"
 Genres:
-  - "[[Метал]]"
+  - "[[Metal]]"
 ListenInSec: 1038
 Marks:
-  - "[[Аниме]]"
+  - "[[Anime]]"
   - "[[ED]]"
 NumberInAlbum: 0
 related: []

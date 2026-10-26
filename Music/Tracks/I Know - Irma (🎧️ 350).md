@@ -11,7 +11,7 @@ Creators:
   - "[[Youssoupha (🎙️ 555)]]"
 ListenInSec: 363
 Marks:
-  - "[[Сериал]]"
+  - "[[Series]]"
   - "[[OST]]"
 NumberInAlbum: 2
 related: []

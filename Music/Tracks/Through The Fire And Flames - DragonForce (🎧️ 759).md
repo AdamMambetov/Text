@@ -9,7 +9,7 @@ CoverOf: ""
 Creators:
   - "[[DragonForce (🎙️ 294)]]"
 Genres:
-  - "[[Метал]]"
+  - "[[Metal]]"
 ListenInSec: 357
 NumberInAlbum: 1
 related: []

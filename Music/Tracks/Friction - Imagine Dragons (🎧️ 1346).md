@@ -9,13 +9,13 @@ CoverOf: ""
 Creators:
   - "[[Imagine Dragons (🎙️ 332)]]"
 Genres:
-  - "[[Рок]]"
-  - "[[Поп-рок]]"
+  - "[[Rock]]"
+  - "[[Pop rock]]"
 ListenInSec: 203
 Marks:
-  - "[[Игра]]"
+  - "[[Game]]"
   - "[[OST]]"
-  - "[[Инди]]"
+  - "[[Indie]]"
 NumberInAlbum: 7
 related: []
 source: ""

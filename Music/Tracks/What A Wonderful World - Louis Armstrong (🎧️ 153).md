@@ -9,10 +9,10 @@ CoverOf: ""
 Creators:
   - "[[Louis Armstrong (🎙️ 365)]]"
 Genres:
-  - "[[Джаз]]"
+  - "[[Jazz]]"
 ListenInSec: 271
 Marks:
-  - "[[Фильм]]"
+  - "[[Film]]"
   - "[[OST]]"
 NumberInAlbum: 0
 related: []

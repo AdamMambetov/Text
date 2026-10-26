@@ -10,7 +10,7 @@ Creators:
   - "[[George Thorogood & The Destroyers (🎙️ 873)]]"
 ListenInSec: 679
 Marks:
-  - "[[Мем]]"
+  - "[[Meme]]"
 NumberInAlbum: 6
 related: []
 source: ""

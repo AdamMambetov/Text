@@ -10,9 +10,9 @@ Creators:
   - "[[Motoi Sakuraba (🎙️ 31)]]"
 ListenInSec: 1041
 Marks:
-  - "[[Игра]]"
+  - "[[Game]]"
   - "[[OST]]"
-  - "[[Мем]]"
+  - "[[Meme]]"
 NumberInAlbum: 7
 related: []
 source: ""

@@ -10,7 +10,7 @@ Creators:
   - "[[Barenaked Ladies (🎙️ 211)]]"
 ListenInSec: 122
 Marks:
-  - "[[Сериал]]"
+  - "[[Series]]"
   - "[[OP]]"
 NumberInAlbum: 27
 related: []

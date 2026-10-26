@@ -11,9 +11,9 @@ Creators:
   - "[[Musashi Project (🎙️ 558)]]"
 ListenInSec: 277
 Marks:
-  - "[[Аниме]]"
+  - "[[Anime]]"
   - "[[OST]]"
-  - "[[Мем]]"
+  - "[[Meme]]"
 NumberInAlbum: 18
 related: []
 source:

@@ -11,7 +11,7 @@ Creators:
   - "[[checkoff (🎙️ 255)]]"
 ListenInSec: 707
 Marks:
-  - "[[Мэшап]]"
+  - "[[Mashup]]"
 NumberInAlbum: 0
 related:
   - "[[Can Can - Offenbach (🎧️ 1985)]]"

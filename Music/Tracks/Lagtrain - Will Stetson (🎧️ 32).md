@@ -9,11 +9,11 @@ CoverOf: "[[Lagtrain - inabakumori (🎧️ 4)]]"
 Creators:
   - "[[Will Stetson (🎙️ 479)]]"
 Genres:
-  - "[[Поп]]"
-  - "[[Электроника]]"
+  - "[[Pop]]"
+  - "[[Electronic]]"
 ListenInSec: 628
 Marks:
-  - "[[Кавер]]"
+  - "[[Cover]]"
 NumberInAlbum: 1
 related: []
 source: https://youtu.be/BEnZ0VgQAXw?si=TMjxl_MWg7yteCs9

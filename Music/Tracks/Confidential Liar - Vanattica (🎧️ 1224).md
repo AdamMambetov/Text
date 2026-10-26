@@ -10,7 +10,7 @@ Creators:
   - "[[Vanattica (🎙️ 474)]]"
 ListenInSec: 222
 Marks:
-  - "[[Игра]]"
+  - "[[Game]]"
   - "[[OST]]"
 NumberInAlbum: 0
 related: []

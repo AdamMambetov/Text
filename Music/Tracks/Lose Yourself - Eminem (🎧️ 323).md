@@ -9,10 +9,10 @@ CoverOf: ""
 Creators:
   - "[[Eminem (🎙️ 290)]]"
 Genres:
-  - "[[Хип-хоп]]"
+  - "[[Hip hop]]"
 ListenInSec: 665
 Marks:
-  - "[[Фильм]]"
+  - "[[Film]]"
   - "[[OST]]"
 NumberInAlbum: 1
 related: []

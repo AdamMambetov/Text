@@ -10,7 +10,7 @@ Creators:
   - "[[Susumu Hirasawa (🎙️ 450)]]"
 ListenInSec: 1805
 Marks:
-  - "[[Аниме]]"
+  - "[[Anime]]"
   - "[[OST]]"
 NumberInAlbum: 0
 related: []

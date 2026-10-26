@@ -9,8 +9,8 @@ CoverOf: ""
 Creators:
   - "[[E-Type (🎙️ 295)]]"
 Genres:
-  - "[[Танцевальная]]"
-  - "[[Поп]]"
+  - "[[Dance]]"
+  - "[[Pop]]"
 ListenInSec: 776
 NumberInAlbum: 0
 related: []

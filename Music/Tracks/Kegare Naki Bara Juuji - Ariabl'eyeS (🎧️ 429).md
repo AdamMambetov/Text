@@ -9,8 +9,8 @@ CoverOf: ""
 Creators:
   - "[[Ariabl'eyeS (🎙️ 189)]]"
 Genres:
-  - "[[Метал]]"
-  - "[[Оркестровая]]"
+  - "[[Metal]]"
+  - "[[Orchestral]]"
 ListenInSec: 174
 NumberInAlbum: 0
 related: []

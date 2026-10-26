@@ -9,7 +9,7 @@ CoverOf: ""
 Creators:
   - "[[Offenbach (🎙️ 1010)]]"
 Genres:
-  - "[[Классическая]]"
+  - "[[Classical]]"
 ListenInSec: 903
 NumberInAlbum: 0
 related: []

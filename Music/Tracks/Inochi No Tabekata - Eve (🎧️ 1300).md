@@ -11,8 +11,8 @@ CoverOf: ""
 Creators:
   - "[[Eve (🎙️ 34)]]"
 Genres:
-  - "[[Поп-рок]]"
-  - "[[Поп]]"
+  - "[[Pop rock]]"
+  - "[[Pop]]"
 ListenInSec: 229
 NumberInAlbum: 0
 related: []

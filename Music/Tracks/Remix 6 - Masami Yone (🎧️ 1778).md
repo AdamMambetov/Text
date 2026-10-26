@@ -12,7 +12,7 @@ Creators:
   - "[[Tsunku (🎙️ 981)]]"
 ListenInSec: 1784
 Marks:
-  - "[[Ремикс]]"
+  - "[[Remix]]"
 NumberInAlbum: 0
 related:
   - "[[Hopping Road - Tsunku (🎧️ 1783)]]"

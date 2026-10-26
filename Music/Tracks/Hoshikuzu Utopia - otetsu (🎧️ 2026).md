@@ -12,7 +12,7 @@ Creators:
   - "[[Megurine Luka (🎙️ 1064)]]"
 ListenInSec: 5717
 Marks:
-  - "[[Вокалоид]]"
+  - "[[Vocaloid]]"
 NumberInAlbum: 0
 related: []
 SourceFile: "[[otetsu - Hoshikuzu Utopia.mp3]]"

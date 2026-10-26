@@ -12,8 +12,8 @@ Creators:
   - "[[Yuka Iguchi (🎙️ 672)]]"
 ListenInSec: 1023
 Marks:
-  - "[[Аниме]]"
-  - "[[Мем]]"
+  - "[[Anime]]"
+  - "[[Meme]]"
 NumberInAlbum: 0
 related: []
 source: ""

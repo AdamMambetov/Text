@@ -10,7 +10,7 @@ Creators:
   - "[[Dr. Manhattan (🎙️ 293)]]"
 ListenInSec: 222
 Marks:
-  - "[[Игра]]"
+  - "[[Game]]"
   - "[[OST]]"
 NumberInAlbum: 1
 related: []

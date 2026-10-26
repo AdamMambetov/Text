@@ -9,10 +9,10 @@ CoverOf: ""
 Creators:
   - "[[Queen (🎙️ 418)]]"
 Genres:
-  - "[[Поп-рок]]"
+  - "[[Pop rock]]"
 ListenInSec: 211
 Marks:
-  - "[[Прогрессив]]"
+  - "[[Progressive]]"
 NumberInAlbum: 7
 related: []
 source: ""

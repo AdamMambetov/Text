@@ -10,9 +10,9 @@ Creators:
   - "[[Smash Mouth (🎙️ 440)]]"
 ListenInSec: 345
 Marks:
-  - "[[Фильм]]"
+  - "[[Film]]"
   - "[[OST]]"
-  - "[[Мем]]"
+  - "[[Meme]]"
 NumberInAlbum: 0
 related: []
 source: ""

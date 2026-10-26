@@ -11,7 +11,7 @@ Creators:
   - "[[Nhato (🎙️ 869)]]"
 ListenInSec: 535
 Marks:
-  - "[[Ремикс]]"
+  - "[[Remix]]"
 NumberInAlbum: 1
 related: []
 source: ""

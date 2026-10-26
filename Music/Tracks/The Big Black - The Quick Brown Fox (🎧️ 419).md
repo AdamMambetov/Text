@@ -9,7 +9,7 @@ CoverOf: ""
 Creators:
   - "[[The Quick Brown Fox (🎙️ 460)]]"
 Genres:
-  - "[[Танцевальная]]"
+  - "[[Dance]]"
 ListenInSec: 399
 NumberInAlbum: 1
 related: []

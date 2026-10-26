@@ -11,11 +11,11 @@ CoverOf: ""
 Creators:
   - "[[Mili (🎙️ 699)]]"
 Genres:
-  - "[[Поп]]"
-  - "[[Электроника]]"
+  - "[[Pop]]"
+  - "[[Electronic]]"
 ListenInSec: 4742
 Marks:
-  - "[[Аниме]]"
+  - "[[Anime]]"
   - "[[OP]]"
 NumberInAlbum: 0
 related:

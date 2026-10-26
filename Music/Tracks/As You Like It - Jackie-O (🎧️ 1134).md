@@ -11,11 +11,11 @@ CoverOf: "[[Okinimesumama - Eve (🎧️ 1135)]]"
 Creators:
   - "[[Jackie-O (🎙️ 337)]]"
 Genres:
-  - "[[Поп-рок]]"
-  - "[[Поп]]"
+  - "[[Pop rock]]"
+  - "[[Pop]]"
 ListenInSec: 480
 Marks:
-  - "[[Кавер]]"
+  - "[[Cover]]"
 NumberInAlbum: 1
 related: []
 source: ""

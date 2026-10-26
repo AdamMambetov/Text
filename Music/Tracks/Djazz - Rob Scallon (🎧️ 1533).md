@@ -9,7 +9,7 @@ CoverOf: ""
 Creators:
   - "[[Rob Scallon (🎙️ 754)]]"
 Genres:
-  - "[[Джаз]]"
+  - "[[Jazz]]"
 ListenInSec: 552
 NumberInAlbum: 1
 related: []

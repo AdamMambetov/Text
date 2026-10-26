@@ -10,7 +10,7 @@ Creators:
   - "[[Kansas (🎙️ 345)]]"
 ListenInSec: 483
 Marks:
-  - "[[Сериал]]"
+  - "[[Series]]"
   - "[[OST]]"
 NumberInAlbum: 1
 related: []

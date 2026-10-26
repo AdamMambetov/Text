@@ -10,11 +10,11 @@ CoverOf: "[[Throne - Bring Me The Horizon]]"
 Creators:
   - "[[Everblack Melodies (🎙️ 303)]]"
 Genres:
-  - "[[Метал]]"
-  - "[[Электроника]]"
+  - "[[Metal]]"
+  - "[[Electronic]]"
 ListenInSec: 391
 Marks:
-  - "[[Кавер]]"
+  - "[[Cover]]"
 NumberInAlbum: 0
 related: []
 source: ""

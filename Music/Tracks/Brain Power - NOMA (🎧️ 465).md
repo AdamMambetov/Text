@@ -9,10 +9,10 @@ CoverOf: ""
 Creators:
   - "[[NOMA (🎙️ 393)]]"
 Genres:
-  - "[[Танцевальная]]"
+  - "[[Dance]]"
 ListenInSec: 223
 Marks:
-  - "[[Игра]]"
+  - "[[Game]]"
   - "[[OST]]"
 NumberInAlbum: 0
 related: []

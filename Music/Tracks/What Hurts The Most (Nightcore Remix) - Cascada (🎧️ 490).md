@@ -10,7 +10,7 @@ Creators:
   - "[[Cascada (🎙️ 249)]]"
 ListenInSec: -230
 Marks:
-  - "[[Ремикс]]"
+  - "[[Remix]]"
 NumberInAlbum: 0
 related: []
 source: ""

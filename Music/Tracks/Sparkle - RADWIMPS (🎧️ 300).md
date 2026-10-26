@@ -10,8 +10,8 @@ Creators:
   - "[[RADWIMPS (🎙️ 543)]]"
 ListenInSec: 440
 Marks:
-  - "[[Аниме]]"
-  - "[[Фильм]]"
+  - "[[Anime]]"
+  - "[[Film]]"
   - "[[OST]]"
 NumberInAlbum: 12
 related: []

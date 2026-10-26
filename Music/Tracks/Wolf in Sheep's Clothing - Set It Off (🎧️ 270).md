@@ -10,7 +10,7 @@ Creators:
   - "[[Set It Off (🎙️ 434)]]"
   - "[[William Beckett (🎙️ 1090)]]"
 Genres:
-  - "[[Рок]]"
+  - "[[Rock]]"
 ListenInSec: 188
 NumberInAlbum: 8
 related: []

@@ -12,9 +12,9 @@ Creators:
   - "[[Lolita Ritmanis (🎙️ 1081)]]"
 ListenInSec: 3187
 Marks:
-  - "[[Игра]]"
+  - "[[Game]]"
   - "[[OST]]"
-  - "[[Мем]]"
+  - "[[Meme]]"
 NumberInAlbum: 12
 related: []
 source: ""

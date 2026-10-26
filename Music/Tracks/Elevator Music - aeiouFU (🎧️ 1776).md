@@ -10,7 +10,7 @@ Creators:
   - "[[aeiouFU (🎙️ 996)]]"
 ListenInSec: 571
 Marks:
-  - "[[Мем]]"
+  - "[[Meme]]"
 NumberInAlbum: 0
 related: []
 source: ""

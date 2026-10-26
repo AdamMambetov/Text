@@ -10,8 +10,8 @@ Creators:
   - "[[Rufus Wainwright (🎙️ 544)]]"
 ListenInSec: 261
 Marks:
-  - "[[Кавер]]"
-  - "[[Фильм]]"
+  - "[[Cover]]"
+  - "[[Film]]"
   - "[[OST]]"
 NumberInAlbum: 10
 related: []

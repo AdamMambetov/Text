@@ -12,7 +12,7 @@ Creators:
   - "[[Atsuku Asahi (🎙️ 912)]]"
 ListenInSec: 528
 Marks:
-  - "[[Игра]]"
+  - "[[Game]]"
   - "[[OST]]"
 NumberInAlbum: 1
 related: []

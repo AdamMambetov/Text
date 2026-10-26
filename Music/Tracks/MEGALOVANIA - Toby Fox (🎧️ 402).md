@@ -10,9 +10,9 @@ Creators:
   - "[[Toby Fox (🎙️ 563)]]"
 ListenInSec: 184
 Marks:
-  - "[[Игра]]"
+  - "[[Game]]"
   - "[[OST]]"
-  - "[[Мем]]"
+  - "[[Meme]]"
 NumberInAlbum: 100
 related: []
 source:

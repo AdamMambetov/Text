@@ -10,7 +10,7 @@ Creators:
   - "[[a-ha (🎙️ 142)]]"
 ListenInSec: 925
 Marks:
-  - "[[Мем]]"
+  - "[[Meme]]"
 NumberInAlbum: 1
 related: []
 source: ""

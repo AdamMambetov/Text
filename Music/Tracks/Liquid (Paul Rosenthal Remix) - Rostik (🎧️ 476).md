@@ -10,7 +10,7 @@ Creators:
   - "[[Rostik (🎙️ 608)]]"
 ListenInSec: 357
 Marks:
-  - "[[Ремикс]]"
+  - "[[Remix]]"
 NumberInAlbum: 1
 related: []
 source: ""

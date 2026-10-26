@@ -11,8 +11,8 @@ Creators:
   - "[[Udio Ai (🎙️ 891)]]"
 ListenInSec: 287
 Marks:
-  - "[[Кавер]]"
-  - "[[ИИ]]"
+  - "[[Cover]]"
+  - "[[AI]]"
 NumberInAlbum: 1
 related: []
 source: https://youtu.be/1OzCO7qW9kw?si=gBcD1c7bPPKw2AYf

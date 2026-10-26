@@ -10,7 +10,7 @@ Creators:
   - "[[Alan Silvestri (🎙️ 162)]]"
 ListenInSec: 196
 Marks:
-  - "[[Фильм]]"
+  - "[[Film]]"
   - "[[OST]]"
 NumberInAlbum: 1
 related: []

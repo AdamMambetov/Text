@@ -11,11 +11,11 @@ CoverOf: "[[Inochi No Tabekata - Eve (🎧️ 1300)]]"
 Creators:
   - "[[NotADub (🎙️ 395)]]"
 Genres:
-  - "[[Поп-рок]]"
-  - "[[Поп]]"
+  - "[[Pop rock]]"
+  - "[[Pop]]"
 ListenInSec: 971
 Marks:
-  - "[[Кавер]]"
+  - "[[Cover]]"
 NumberInAlbum: 0
 related: []
 source: ""

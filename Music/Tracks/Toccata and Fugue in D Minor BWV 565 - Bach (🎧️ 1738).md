@@ -10,10 +10,10 @@ CoverOf: ""
 Creators:
   - "[[Bach (🎙️ 977)]]"
 Genres:
-  - "[[Классическая]]"
+  - "[[Classical]]"
 ListenInSec: 850
 Marks:
-  - "[[Мем]]"
+  - "[[Meme]]"
 NumberInAlbum: 0
 related: []
 source: ""

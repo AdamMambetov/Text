@@ -10,8 +10,8 @@ Creators:
   - "[[slackcircus (🎙️ 952)]]"
 ListenInSec: 1198
 Marks:
-  - "[[Мем]]"
-  - "[[Мэшап]]"
+  - "[[Meme]]"
+  - "[[Mashup]]"
 NumberInAlbum: 1
 related:
   - "[[What's Up - 4 Non Blondes (🎧️ 2049)]]"

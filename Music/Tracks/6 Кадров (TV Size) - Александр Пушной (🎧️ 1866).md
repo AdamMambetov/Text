@@ -10,7 +10,7 @@ Creators:
   - "[[Александр Пушной (🎙️ 80)]]"
 ListenInSec: 454
 Marks:
-  - "[[Сериал]]"
+  - "[[Series]]"
   - "[[OP]]"
 NumberInAlbum: 0
 related:

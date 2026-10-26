@@ -10,9 +10,9 @@ Creators:
   - "[[Ilmari Hakkola (🎙️ 939)]]"
 ListenInSec: 1236
 Marks:
-  - "[[Игра]]"
+  - "[[Game]]"
   - "[[OST]]"
-  - "[[Мем]]"
+  - "[[Meme]]"
 NumberInAlbum: 1
 related: []
 source: ""

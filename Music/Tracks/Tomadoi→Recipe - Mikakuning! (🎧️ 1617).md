@@ -13,14 +13,14 @@ Creators:
   - "[[Mikakuning! (🎙️ 951)]]"
   - "[[Junky (🎙️ 950)]]"
 Genres:
-  - "[[Поп]]"
-  - "[[Танцевальная]]"
-  - "[[Рок]]"
+  - "[[Pop]]"
+  - "[[Dance]]"
+  - "[[Rock]]"
 ListenInSec: 4925
 Marks:
-  - "[[Аниме]]"
+  - "[[Anime]]"
   - "[[OP]]"
-  - "[[Инди]]"
+  - "[[Indie]]"
 NumberInAlbum: 1
 related:
   - "[[Tomadoi→Recipe (TV Size) - Mikakuning! (🎧️ 1618)]]"

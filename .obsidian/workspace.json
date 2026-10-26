@@ -4,20 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4e5a4a060ea06afc",
+        "id": "723aa487eb98501d",
         "type": "tabs",
         "children": [
           {
-            "id": "3ce8de22f0f91ee4",
+            "id": "0362f83bbaf0c03f",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Music/albums.base",
-                "viewName": "Created Group"
+                "file": "Music/Albums/Jackbox Party Pack 4 OST (📀 71).md",
+                "mode": "preview",
+                "source": true
               },
-              "icon": "lucide-table",
-              "title": "albums"
+              "icon": "lucide-file",
+              "title": "Jackbox Party Pack 4 OST (📀 71)"
             }
           }
         ]
@@ -158,14 +159,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Music/albums.base",
+                "file": "Music/Albums/Jackbox Party Pack 4 OST (📀 71).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": false
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
               "title": "Backlinks"
@@ -177,6 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Music/Albums/Jackbox Party Pack 4 OST (📀 71).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
@@ -299,41 +301,43 @@
   },
   "active": "a6c210ff56e0c069",
   "lastOpenFiles": [
-    "Music/Albums/Watch Dogs OST (📀 80).md",
-    "Music/Tracks/Private Eye - Alkaline Trio (🎧️ 730).md",
-    "Music/Tracks/Confidential Liar - Vanattica (🎧️ 1224).md",
-    "Music/Playlists/Watch Dogs OST (💿 15).md",
-    "Music/albums.base",
+    "Music/Tracks/Umineko no Naku Koro ni OST - umilse_1053 - 07th Expansion (🎧️ 2200).md",
+    "Music/Albums/Jackbox Party Pack 4 OST (📀 71).md",
+    "Music/Tracks/Umineko no Naku Koro ni OST - umilse_006 - 07th Expansion (🎧️ 2199).md",
+    "Music/Tracks/Umineko no Naku Koro ni OST - umilse_005 - 07th Expansion (🎧️ 2198).md",
+    "Music/Tracks/Umineko no Naku Koro ni OST - umilse_002 - 07th Expansion (🎧️ 2197).md",
+    "Music/Creators/Michael Jackson (🎙️ 1082).md",
+    "Music/Albums/Jackbox Party Pack 7 OST (📀 73).md",
+    "Music/templates/track template.md",
+    "Music/README.md",
+    "Music/templates/mark update all capture.md",
+    "Music/templates/mark update capture.md",
+    "Note/templates/mark update all capture.md",
+    "Note/templates/genre update all capture.md",
+    "Note/templates/genre update capture.md",
+    "Note/templates/mark all track notes template.md",
+    "Note/templates/generate all track notes template.md",
+    "Note/templates/mark update capture.md",
+    "Music/templates/genre update all capture.md",
+    "Music/templates/genre update capture.md",
+    "Note/templates/album update capture.md",
+    "Note/templates/playlist update all capture.md",
+    "Music/Marks/Reverse.md",
     "Music/Marks/OST.md",
-    "Music/Albums/8 Mile OST (📀 2).md",
-    "Music/Tracks/599_million_ruins - Luck Ganriki (🎧️ 1009).md",
-    "Music/Tracks/Когда я лаю при луне - Disney (🎧️ 788).md",
-    "Music/Tracks/Gravity Falls Theme Song - Brad Breeck (🎧️ 431).md",
-    "Music/Tracks/Enemy - Imagine Dragons (🎧️ 1299).md",
-    "Music/Tracks/Go Go Power Rangers - Ron Wasserman (🎧️ 2077).md",
-    "Music/Tracks/Big Bang Theory Theme - Barenaked Ladies (🎧️ 849).md",
-    "Music/Tracks/Paranoid Android - Radiohead (🎧️ 606).md",
-    "Music/Tracks/La Divina Tragedia ~Makyoku~ - JIMANG (🎧️ 2043).md",
-    "Music/Tracks/La Divina Tragedia~Makyoku~ - Игорь Куликов (🎧️ 2047).md",
-    "Music/Tracks/Черепашки-Ниндзя 1987 - Jackie-O (🎧️ 1525).md",
-    "Music/Tracks/Kaze Ni Naru - Ayano Tsuji (🎧️ 817).md",
-    "Music/Tracks/Tomadoi→Recipe - Mikakuning! (🎧️ 1617).md",
-    "Music/Tracks/Tomadoi→Recipe (TV Size) - Mikakuning! (🎧️ 1618).md",
-    "Music/Tracks/Teenage Mutant Ninja Turtles 2003 Opening - Norman J. Grossfeld (🎧️ 2103).md",
-    "Music/Tracks/Fanfare - sumika (🎧️ 485).md",
-    "Music/Tracks/Если в сердце живёт любовь - Юлия Савичева (🎧️ 2010).md",
-    "Music/Tracks/Rick and Morty Theme - Ryan Elder (🎧️ 809).md",
-    "Music/Tracks/Черепашки-Ниндзя 2003 - Jackie-O (🎧️ 1526).md",
-    "Music/Tracks/6 Кадров (TV Size) - Александр Пушной (🎧️ 1866).md",
-    "Music/Tracks/Entertainment - Mili (🎧️ 1487).md",
+    "Music/Marks/OP.md",
+    "Music/Marks/Live.md",
+    "Music/Marks/ED.md",
+    "Music/bases",
+    "Music/bases/related tracks.base",
+    "Music/bases/albums.base",
     "Music/Genres",
     "Music/Marks",
     "Music/Covers/MYTH & ROID - STYX HELIX.jpg",
-    "Music/playlists.base",
+    "Music/bases/playlists.base",
     "Music/Covers/Death Note OST I.jpg",
     "Music/Covers/Shikata Akiko - Katayoku no Tori.jpg",
     "Music/Covers/Death Note OST I.jpg.bak",
-    "Music/tracks.base",
+    "Music/bases/tracks.base",
     "Music/Covers/Shrek 3 OST - 01 Royal Pain.jpg",
     "Music/Covers/Shrek 1 OST.jpg",
     "Music/Covers/Shrek 2 OST.jpg",
@@ -342,8 +346,6 @@
     "Music/Covers/Shrek 2 OST - 03 Changes.jpg",
     "Music/Covers/Shrek 3 OST.jpg",
     "Note/projects/unreal engine/Skyway",
-    "Note/projects/JiGit",
-    "Note/excalidraw",
-    "Personal/Пароли.kdbx.eXxkJy"
+    "Note/projects/JiGit"
   ]
 }

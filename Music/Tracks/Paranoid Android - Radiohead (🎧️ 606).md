@@ -9,12 +9,12 @@ CoverOf: ""
 Creators:
   - "[[Radiohead (🎙️ 420)]]"
 Genres:
-  - "[[Рок]]"
+  - "[[Rock]]"
 ListenInSec: 786
 Marks:
-  - "[[Прогрессив]]"
-  - "[[Инди]]"
-  - "[[Аниме]]"
+  - "[[Progressive]]"
+  - "[[Indie]]"
+  - "[[Anime]]"
   - "[[ED]]"
 NumberInAlbum: 2
 related: []

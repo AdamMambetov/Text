@@ -10,7 +10,7 @@ Creators:
   - "[[Meg & Dia (🎙️ 596)]]"
 ListenInSec: 257
 Marks:
-  - "[[Ремикс]]"
+  - "[[Remix]]"
 NumberInAlbum: 0
 related: []
 source: ""

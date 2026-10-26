@@ -10,10 +10,10 @@ Creators:
   - "[[Afroman (🎙️ 157)]]"
 ListenInSec: 3164
 Marks:
-  - "[[Фильм]]"
+  - "[[Film]]"
   - "[[OST]]"
-  - "[[Сериал]]"
-  - "[[Мем]]"
+  - "[[Series]]"
+  - "[[Meme]]"
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Afroman - Because I Got High Extended Version.mp3]]"

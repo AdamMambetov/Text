@@ -11,7 +11,7 @@ Creators:
   - "[[Baasik (🎙️ 205)]]"
 ListenInSec: 472
 Marks:
-  - "[[Мультсериал]]"
+  - "[[Cartoon]]"
   - "[[OST]]"
 NumberInAlbum: 0
 related: []

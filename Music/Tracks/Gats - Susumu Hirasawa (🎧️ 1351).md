@@ -11,13 +11,13 @@ CoverOf: ""
 Creators:
   - "[[Susumu Hirasawa (🎙️ 450)]]"
 Genres:
-  - "[[Электроника]]"
+  - "[[Electronic]]"
 ListenInSec: 432
 Marks:
-  - "[[Аниме]]"
+  - "[[Anime]]"
   - "[[OST]]"
-  - "[[Баллада]]"
-  - "[[Эмбиент]]"
+  - "[[Ballad]]"
+  - "[[Ambient]]"
 NumberInAlbum: 4
 related: []
 source: ""

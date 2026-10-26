@@ -9,7 +9,7 @@ CoverOf: ""
 Creators:
   - "[[Cult To Follow (🎙️ 268)]]"
 Genres:
-  - "[[Рок]]"
+  - "[[Rock]]"
 ListenInSec: 224
 NumberInAlbum: 1
 related: []

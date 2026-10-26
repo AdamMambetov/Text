@@ -11,7 +11,7 @@ Creators:
   - "[[nicamoq (🎙️ 583)]]"
 ListenInSec: 203
 Marks:
-  - "[[Ремикс]]"
+  - "[[Remix]]"
 NumberInAlbum: 0
 related: []
 source: ""

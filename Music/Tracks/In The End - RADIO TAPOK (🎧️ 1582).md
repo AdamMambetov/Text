@@ -9,10 +9,10 @@ CoverOf: "[[In The End - Black Veil Brides (🎧️ 679)]]"
 Creators:
   - "[[RADIO TAPOK (🎙️ 419)]]"
 Genres:
-  - "[[Метал]]"
+  - "[[Metal]]"
 ListenInSec: 337
 Marks:
-  - "[[Кавер]]"
+  - "[[Cover]]"
 NumberInAlbum: 1
 related: []
 source: ""

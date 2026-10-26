@@ -12,12 +12,12 @@ CoverOf: ""
 Creators:
   - "[[dai (🎙️ 3)]]"
 Genres:
-  - "[[Оркестровая]]"
-  - "[[Поп]]"
+  - "[[Orchestral]]"
+  - "[[Pop]]"
 ListenInSec: 696
 Marks:
-  - "[[Инструментал]]"
-  - "[[Игра]]"
+  - "[[Instrumental]]"
+  - "[[Game]]"
   - "[[OST]]"
 NumberInAlbum: 113
 related: []
