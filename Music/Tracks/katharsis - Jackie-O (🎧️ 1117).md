@@ -10,7 +10,7 @@ Album: "[[Katharsis]]"
 CoverOf: ""
 Creators:
   - "[[Jackie-O (🎙️ 337)]]"
-ListenInSec: 519
+ListenInSec: 778
 NumberInAlbum: 1
 related: []
 SourceFile: "[[Jackie-O - Katharsis.mp3]]"

@@ -12,7 +12,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Minami (🎙️ 376)]]"
-ListenInSec: 868
+ListenInSec: 1007
 NumberInAlbum: 1
 related:
   - "[[Kawaki wo Ameku (TV Size) - Minami]]"

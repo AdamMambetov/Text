@@ -11,7 +11,7 @@ CoverOf: ""
 Creators:
   - "[[Mika Nakashima (🎙️ 828)]]"
   - "[[HYDE (🎙️ 827)]]"
-ListenInSec: 535
+ListenInSec: 538
 NumberInAlbum: 0
 related:
   - "[[KISS OF DEATH (TV Size) - Mika Nakashima (🎧️ 2088)]]"

@@ -8,7 +8,7 @@ Album: "[[35xxxv [2015] {One Ok Rock}]]"
 CoverOf: ""
 Creators:
   - "[[ONE OK ROCK (🎙️ 398)]]"
-ListenInSec: 218
+ListenInSec: 221
 NumberInAlbum: 11
 related: []
 source: ""

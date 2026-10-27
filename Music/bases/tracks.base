@@ -6,13 +6,13 @@ views:
     name: Created Group
     groupBy:
       property: created
-      direction: ASC
+      direction: DESC
     order:
       - created
       - file.name
     sort:
       - property: created
-        direction: ASC
+        direction: DESC
     columnSize:
       note.created: 178
   - type: table

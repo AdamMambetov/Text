@@ -16,7 +16,7 @@ tracklist:
   - "Trivia Murder Party 2 - Opening Credits"
   - "Trivia Murder Party 2 - Howdya Do"
   - "Trivia Murder Party 2 - Organica"
-  - "[[Trivia Murder Party 2 Saxy - Andy Poland (🎧️ 1661)]]"
+  - "[[Trivia Murder Party 2. Saxy - Andy Poland (🎧️ 1661)]]"
   - "Trivia Murder Party 2 - Shuffle It In"
   - "Trivia Murder Party 2 - Swingio"
   - "Trivia Murder Party 2 - Barry"

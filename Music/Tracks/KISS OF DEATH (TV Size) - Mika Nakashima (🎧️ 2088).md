@@ -14,7 +14,7 @@ Creators:
 ListenInSec: 198
 NumberInAlbum: 0
 related:
-  - "[[KISS OF DEATH - Mika Nakashima (🎧️ 2274)]]"
+  - "[[KISS OF DEATH - Mika Nakashima (🎧️ 2270)]]"
 source: ""
 SourceFile: "[[Mika Nakashima - KISS OF DEATH (TV Size).mp3]]"
 ---

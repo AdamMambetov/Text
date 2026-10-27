@@ -16,7 +16,7 @@ tracklist:
   - "[[Sakutarou's Adventure - nekocapo (🎧️ 1926)]]"
   - "[[wingless - nekocapo (🎧️ 1927)]]"
   - "[[Thank You for Being Born - nekocapo (🎧️ 1928)]]"
-  - "[[you (from Higurashi no Naku Koro ni) - nekocapo (🎧️ 1929)]]"
+  - "[[you (from. Higurashi no Naku Koro ni) - nekocapo (🎧️ 1929)]]"
 ---
 
 # Naku Naku Solo Guitar

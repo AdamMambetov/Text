@@ -54,7 +54,7 @@ tracklist:
   - "Quiplash: Lobby"
   - "Quiplash: Logo Bumper"
   - "Quiplash: Background Loop"
-  - "[[Quiplash Round 1 Write - Andy Poland (🎧️ 1659)]]"
+  - "[[Quiplash. Round 1 Write - Andy Poland (🎧️ 1659)]]"
   - "Quiplash: Round 1 Vote"
   - "[[Quiplash Round 2 Write - Andy Poland (🎧️ 1660)]]"
   - "Quiplash: Round 2 Vote"

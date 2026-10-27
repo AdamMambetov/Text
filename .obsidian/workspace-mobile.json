@@ -8,34 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7954ca01c5eea36e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Music/Tracks/A Reason to Fight - RADIO TAPOK (🎧️ 1579).md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "A Reason to Fight - RADIO TAPOK (🎧️ 1579)"
-            }
-          },
-          {
-            "id": "2739c46ac0fab677",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Music/Albums/Death Note OST (📀 76).md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Death Note OST (📀 76)"
-            }
-          },
-          {
             "id": "db691d31a042de63",
             "type": "leaf",
             "state": {
@@ -78,21 +50,35 @@
             }
           },
           {
-            "id": "58b8ffee58ee9ceb",
+            "id": "5f66fb8450e454cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ЕвроСервис/Ремонт копировально-множительной техники.md",
+                "file": "Music/Creators/Mili (🎙️ 699).md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Ремонт копировально-множительной техники"
+              "title": "Mili (🎙️ 699)"
+            }
+          },
+          {
+            "id": "ea927b59e1c2e766",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Note/templates/_track update all capture.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "_track update all capture"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -188,7 +174,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "ЕвроСервис/Ремонт копировально-множительной техники.md",
+            "file": "Music/Creators/Mili (🎙️ 699).md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -221,7 +207,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Music/Albums/Death Note OST (📀 76).md",
+            "file": "Music/Tracks/Игорь Куликов - the WORLD.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -241,7 +227,7 @@
         }
       }
     ],
-    "currentTab": 2
+    "currentTab": 0
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -262,37 +248,40 @@
       "obsidian-excalidraw-plugin:New drawing": true
     }
   },
-  "active": "2739c46ac0fab677",
+  "active": "5f66fb8450e454cc",
   "lastOpenFiles": [
-    "Music/Creators/Yoshihisa Hirano (🎙️ 886).md",
-    "Music/Albums/Death Note OST (📀 76).md",
-    "Music/Creators/Hideki Taniuchi (🎙️ 885).md",
-    "Music/Tracks/Teleology of Death - Yoshihisa Hirano (🎧️ 1251).md",
+    "Music/Tracks/ONE OK ROCK - One by One - ONE OK ROCK (🎧️ 300).md",
+    "Music/Creators/Mili (🎙️ 699).md",
+    "Music/Tracks/Monster Seeking Monster. Chat 2 - Andy Poland (🎧️ 2255).md",
+    "Music/postgresql.log",
+    "Music/Tracks/Monster Seeking Monster. Chat 4 - Andy Poland (🎧️ 2257).md",
+    "Music/Tracks/Monster Seeking Monster. Chat 6 (Last Night) - Andy Poland (🎧️ 2258).md",
+    "Music/Tracks/Monster Seeking Monster. Lobby - Andy Poland (🎧️ 2259).md",
+    "Music/Tracks/Plants vs. Zombies - Watery Graves - InstrumentManiac (🎧️ 2260).md",
+    "Music/Tracks/They Don't Care About Us (Remastered Version) - Michael Jackson (🎧️ 2261).md",
+    "Music/Tracks/Марш монтажников - Николай Рыбнико (🎧️ 2262).md",
+    "Music/Tracks/О Боже, какой мужчина! - Натали (🎧️ 2263).md",
+    "Music/Tracks/Тает Лёд - Грибы (🎧️ 2264).md",
+    "Music/Tracks/Частушки Бабок Ёжек - Женская группа Московского камерного хора (🎧️ 2265).md",
+    "Music/Tracks/Pizza Theme - Michael McCuistion (🎧️ 2266).md",
+    "Music/Tracks/Baka Mitai - Onsa Media (🎧️ 2267).md",
+    "Music/Tracks/Beat It - Michael Jackson (🎧️ 2268).md",
+    "Music/Tracks/Dernière Danse - Indila (🎧️ 2269).md",
+    "Music/Tracks/KISS OF DEATH - Mika Nakashima (🎧️ 2270).md",
+    "Music/Tracks/Champ'd Up. Credits - Andy Poland (🎧️ 2271).md",
+    "Music/Tracks/Champ'd Up. Credits (Instrumental) - Andy Poland (🎧️ 2272).md",
+    "Music/Tracks/Shape of You - Ed Sheeran (🎧️ 2273).md",
+    "Music/Tracks/Minecraft - C418 (🎧️ 2274).md",
+    "Music/Tracks/Подлая Еврейская Музыка - Dobranotch (🎧️ 2275).md",
+    "Music/Tracks/Подлая еврейская музыка - the right person in the right (🎧️ 2276).md",
+    "Music/Tracks/LINKIN PARK x СМЕШАРИКИ — VAINT - mashup (🎧️ 2277).md",
+    "Music/Tracks/Elevator Music - Kevin McLeod (🎧️ 2278).md",
+    "Music/Tracks/Sneaky Snitch - Kevin McLeod (🎧️ 2279).md",
+    "Music/Covers/Shikata Akiko - Katayoku no Tori.jpg",
+    "Music/playlists.base",
     "Music/Covers/Death Note OST I.jpg",
-    "Music/Tracks/A Reason to Fight - RADIO TAPOK (🎧️ 1579).md",
-    "Music/Tracks/Senbonzakura - Will Stetson (🎧️ 1523).md",
-    "Music/Tracks/Ano Hi no mama no Bokura - Sora Amamiya (🎧️ 1372).md",
-    "Note/content/@Адам Мамбетов.md",
-    "ЕвроСервис/Ремонт копировально-множительной техники.md",
-    "Music/Albums/Rhythm Tengoku OST (📀 51).md",
-    "Music/Tracks/Cosmo Dance - Tsunku (🎧️ 1783).md",
-    "Music/Tracks/Spaceball - Tsunku (🎧️ 1778).md",
-    "Music/Tracks/Vegeta Pull - Masami Yone (🎧️ 1780).md",
     "Music/Covers/Rhythm Tengoku OST.jpg",
-    "Music/Tracks/Turbo Tap Trial - Tsunku (🎧️ 1782).md",
-    "Music/Tracks/The Clappy Trio - Tsunku (🎧️ 1790).md",
-    "Music/Tracks/The Bon Odori - Ami Tokito (🎧️ 1791).md",
-    "Music/Tracks/Remix 6 - Masami Yone (🎧️ 1779).md",
-    "Music/Tracks/Remix 5 - Soshi Tanaka (🎧️ 1750).md",
-    "Music/Tracks/Remix 3 - Ami Tokito (🎧️ 1786).md",
-    "Music/Tracks/Remix 1 - Masami Yone (🎧️ 1788).md",
-    "Music/Tracks/Marcher - Masami Yone (🎧️ 1781).md",
-    "Music/Tracks/Hopping Road - Tsunku (🎧️ 1784).md",
-    "Music/Tracks/Built to Scale - Tsunku (🎧️ 1787).md",
-    "Music/Tracks/Remix 2 - Tsunku (🎧️ 1789).md",
-    "Note/Rhythm Tengoku - Remix 2.jpg.md",
     "Music/Covers/Shrek OST.jpg",
-    "Music/Albums/Umineko no Naku Koro ni OST (📀 30).md",
     "Music/2026-09-29-postgresql.log",
     "Music/2026-09-24-postgresql.log",
     "Music/Covers/Мастер и Маргарита OST.jpg",
@@ -301,14 +290,11 @@
     "Music/Covers/Quiplash OST.jpg",
     "Music/Covers/Kabaneri of the Iron Fortress OST.jpg",
     "Music/Covers/Guardian of the Galaxy OST.jpg",
-    "Music/Covers/Gintama OST.jpg",
     "Music/tracks.base",
     "Text/Note/excalidraw",
     "Text/Note",
     "Text",
     "Art/art.base",
-    "Music/templates/related tracks.base",
-    "Music/templates/tracklist.base",
-    "Text/Note/home/_art base.base"
+    "Music/templates/related tracks.base"
   ]
 }

@@ -13,6 +13,7 @@ Marks:
   - "[[Mashup]]"
 NumberInAlbum: 0
 related:
+  - "[[Shape of You - Ed Sheeran (🎧️ 2273)]]"
   - "[[All Star - Smash Mouth (🎧️ 25)]]"
 source: https://youtu.be/tnCejHuqWLM?si=FArPVnijsd53NWAV
 SourceFile: "[[Engval Music - Shape of You and All Star Mashup.mp3]]"

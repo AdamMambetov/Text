@@ -1,15 +1,13 @@
 <%*
-const folderPath = "Music/Tracks";
-const folder = app.vault.getAbstractFileByPath(folderPath);
+dv = app.plugins.plugins.dataview.api
 
-if (!folder || !folder.children) {
-	new Notice("Папка не найдена");
-	return;
-}
-const files = folder.children.filter(f => f.extension === "md");
-new Notice(`Начинаю обработку ${files.length} файлов...`);
+let pages = dv.pages('"Music/Tracks"')
+	.sort(p => p.created, "desc")
 
-for (const file of files) {
+new Notice(`Начинаю обработку ${pages.length} файлов...`);
+
+for (const p of pages) {
+	let file = tp.file.find_tfile(p.file.path)
 	await app.workspace.openLinkText(file.path, "", false);
 	await new Promise(resolve => setTimeout(resolve, 300));
 	await app.commands.executeCommandById("linter:lint-file");

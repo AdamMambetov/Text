@@ -12,7 +12,7 @@ Album: ""
 CoverOf: "[[Kawaki wo Ameku - Minami (🎧️ 8)]]"
 Creators:
   - "[[Sati Akura (🎙️ 355)]]"
-ListenInSec: 241
+ListenInSec: 491
 NumberInAlbum: 0
 related: []
 source: ""
