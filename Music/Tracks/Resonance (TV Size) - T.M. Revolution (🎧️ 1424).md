@@ -10,8 +10,8 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[T.M. Revolution (🎙️ 805)]]"
-ListenInSec: 552
-NumberInAlbum: 1
+ListenInSec: 642
+NumberInAlbum: 0
 related:
   - "[[Resonance - T.M. Revolution (🎧️ 1998)]]"
 source:

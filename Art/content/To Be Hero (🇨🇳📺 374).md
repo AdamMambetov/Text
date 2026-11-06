@@ -1,8 +1,8 @@
 ---
 created: 2024-09-23T17:31:05+03:00
 aliases:
-  - Быть героем
   - To Be Hero
+  - Быть героем
   - Tu Bian Yingxiong Baba
 Status: complete
 Type: anime

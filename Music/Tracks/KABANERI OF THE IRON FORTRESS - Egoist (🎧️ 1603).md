@@ -10,7 +10,7 @@ Album: "[[Kabaneri of the Iron Fortress OST (📀 12)]]"
 CoverOf: ""
 Creators:
   - "[[Egoist (🎙️ 761)]]"
-ListenInSec: 4186
+ListenInSec: 4477
 NumberInAlbum: 1
 related: []
 SourceFile: "[[Egoist - Kabaneri of the Iron Fortress.mp3]]"

@@ -13,7 +13,7 @@ Creators:
   - "[[Sora Amamiya (🎙️ 816)]]"
   - "[[Rie Takahashi (🎙️ 681)]]"
   - "[[Kayano Ai (🎙️ 579)]]"
-ListenInSec: 443
+ListenInSec: 968
 NumberInAlbum: 1
 related:
   - "[[Ano Hi no mama no Bokura (TV Size) - Sora Amamiya]]"

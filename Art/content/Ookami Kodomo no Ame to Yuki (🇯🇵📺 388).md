@@ -1,9 +1,9 @@
 ---
 created: 2024-09-23T18:30:53+03:00
 aliases:
-  - Волчьи дети Амэ и Юки
-  - Ookami Kodomo no Ame to Yuki
-  - Wolf Children
+  - "Ookami Kodomo no Ame to Yuki"
+  - "Волчьи дети Амэ и Юки"
+  - "Wolf Children"
 Status: complete
 Type: anime film
 Rating:

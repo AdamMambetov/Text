@@ -8,8 +8,8 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[AKINO (🎙️ 160)]]"
-ListenInSec: 306
-NumberInAlbum: 1
+ListenInSec: 394
+NumberInAlbum: 0
 related:
   - "[[MIIRO - AKINO (🎧️ 450)]]"
 source: ""

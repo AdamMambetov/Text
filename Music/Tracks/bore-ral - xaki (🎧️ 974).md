@@ -8,7 +8,7 @@ Album: "[[Umineko no Naku Koro ni OST (📀 30)]]"
 CoverOf: ""
 Creators:
   - "[[xaki (🎙️ 12)]]"
-ListenInSec: 9622
+ListenInSec: 9624
 NumberInAlbum: 168
 related:
   - "[[bore-ral (without vocal) - xaki (🎧️ 1960)]]"

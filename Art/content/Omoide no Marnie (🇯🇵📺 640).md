@@ -1,8 +1,8 @@
 ---
 created: 2024-11-04T14:19:48+03:00
 aliases:
-  - Воспоминания о Марни
-  - Omoide no Marnie
+  - "Omoide no Marnie"
+  - "Воспоминания о Марни"
 Status: plan
 Type: anime film
 Rating:

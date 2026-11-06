@@ -1,8 +1,8 @@
 ---
 created: 2025-06-02T00:24:14+03:00
 aliases:
-  - DON'T SCREAM
-  - DONT SCREAM
+  - "DON'T SCREAM"
+  - "DONT SCREAM"
 Status: complete
 Type: game
 Rating:

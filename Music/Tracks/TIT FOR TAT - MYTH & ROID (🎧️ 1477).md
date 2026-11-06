@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[MYTH & ROID (🎙️ 382)]]"
-ListenInSec: 1521
+ListenInSec: 2005
 NumberInAlbum: 0
 related:
   - "[[TIT FOR TAT (TV Size) - MYTH & ROID]]"

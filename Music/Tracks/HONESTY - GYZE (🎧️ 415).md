@@ -9,7 +9,7 @@ CoverOf: ""
 Creators:
   - "[[GYZE (🎙️ 323)]]"
   - "[[Ettore Rigotti (🎙️ 740)]]"
-ListenInSec: 6860
+ListenInSec: 6861
 NumberInAlbum: 0
 related: []
 SourceFile: "[[GYZE - HONESTY.mp3]]"

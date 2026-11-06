@@ -1,8 +1,8 @@
 ---
 created: 2024-06-10T02:44:00
 aliases:
-  - Большой Стэн
-  - Big Stan
+  - "Big Stan"
+  - "Большой Стэн"
 Status: complete
 Type: film
 Rating:
@@ -11,7 +11,7 @@ Cover: "[[big_stan_film_cover.png]]"
 Year: 2007
 Views: 1
 tags:
-  - ❤
+  - "❤"
 ---
 
 # Большой Стэн

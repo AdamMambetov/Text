@@ -1,8 +1,8 @@
 ---
 created: 2024-11-04T14:19:33+03:00
 aliases:
-  - Воскрешение Будды
-  - Buddha Saitan
+  - "Buddha Saitan"
+  - "Воскрешение Будды"
 Status: drop
 Type: anime film
 Rating:

@@ -1,14 +1,14 @@
 ---
 created: 2024-07-29T00:43:00
 aliases:
-  - Всё лучшее, что не купишь за деньги
-  - The Best That Money Can't Buy
+  - "The Best That Money Can't Buy"
+  - "Всё лучшее, что не купишь за деньги"
 Status: plan
 Type: book
 Cover: "[[the_best_that_money_cant_buy_book_cover.jpeg]]"
 Year: 2013
 Creators:
-  - Жак Фреско
+  - "Жак Фреско"
 ---
 
 # Всё лучшее, что не купишь за деньги

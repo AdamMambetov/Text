@@ -1,9 +1,9 @@
 ---
 created: 2024-07-29T00:50:00
 aliases:
-  - Бездарная Нана
-  - Munou na Nana
-  - Talentless Nana
+  - "Munou na Nana"
+  - "Бездарная Нана"
+  - "Talentless Nana"
 Status: defer
 Type: manga
 Rating:
@@ -12,7 +12,7 @@ Cover: "[[munou_na_nana_manga_cover.jpeg]]"
 Year: 2016
 Episode: 48
 tags:
-  - ❤
+  - "❤"
 ---
 
 # Бездарная Нана

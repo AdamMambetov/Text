@@ -1,9 +1,9 @@
 ---
 created: 2024-09-23T16:58:28+03:00
 aliases:
-  - Аватар короля
-  - The King's Avatar
-  - Quanzhi Gaoshou
+  - "Quanzhi Gaoshou"
+  - "Аватар короля"
+  - "The King's Avatar"
 Status: complete
 Type: anime
 Rating:

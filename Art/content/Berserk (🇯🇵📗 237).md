@@ -1,8 +1,8 @@
 ---
 created: 2024-06-21T01:46:32+03:00
 aliases:
-  - Берсерк
-  - Berserk
+  - "Berserk"
+  - "Берсерк"
 Status: defer
 Type: manga
 Rating:
@@ -11,7 +11,7 @@ Cover: "[[berserk_manga_cover.jpeg]]"
 Year: 1989
 Episode: 242
 tags:
-  - ❤
+  - "❤"
 ---
 
 # Берсерк

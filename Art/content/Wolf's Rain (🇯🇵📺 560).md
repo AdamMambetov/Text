@@ -1,8 +1,8 @@
 ---
 created: 2024-11-04T14:18:17+03:00
 aliases:
-  - Волчий дождь
-  - Wolf's Rain
+  - "Wolf's Rain"
+  - "Волчий дождь"
 Status: watch
 Type: anime
 Rating:

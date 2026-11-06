@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Chimoruki (🎙️ 258)]]"
-ListenInSec: 1225
+ListenInSec: 1461
 Marks:
   - "[[Mashup]]"
 NumberInAlbum: 0

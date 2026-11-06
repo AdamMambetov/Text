@@ -1,8 +1,8 @@
 ---
 created: 2024-03-08T13:42:00
 aliases:
-  - Восхождение героя щита
   - Tate no Yuusha no Nariagari
+  - Восхождение героя щита
   - The Rising of the Shield Hero
   - Герой щита
 Status: drop

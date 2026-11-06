@@ -1,8 +1,8 @@
 ---
 created: 2024-04-24T14:21:38+03:00
 aliases:
-  - Во все тяжкие
-  - Breaking Bad
+  - "Breaking Bad"
+  - "Во все тяжкие"
 Status: complete
 Type: series
 Rating:
@@ -13,9 +13,9 @@ Season: 5
 Episode: 16
 Views: 1
 tags:
-  - ❤
+  - "❤"
 related:
-  - "[[Better Call Saul (🇺🇸🎬 137)]]"
+  - "[[Лучше звоните Солу (🇺🇸🎬 137)]]"
   - "[[1699084602142747182.jpg]]"
   - "[[dBTOT9LjyU8.jpg]]"
   - "[[f16u0QcIgNQ.jpg]]"

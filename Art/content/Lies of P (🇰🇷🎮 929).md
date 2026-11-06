@@ -1,7 +1,7 @@
 ---
 created: 2025-04-12T17:10:23+03:00
 aliases:
-  - Lies of P
+  - "Lies of P"
 Status: plan
 Type: game
 Rating:
@@ -14,7 +14,7 @@ Year: 2023
 
 ![[lies_of_p_game_cover.jpg]]
 
-Похожа на [[Dark Souls 1 (🇯🇵🎮 971)|Dark Souls]].
+Похожа на [[Dark Souls (🇯🇵🎮 971)|Dark Souls]].
 
 
 ```button

@@ -10,7 +10,7 @@ CoverOf: ""
 Creators:
   - "[[Andy Poland (🎙️ 183)]]"
   - "[[Mike Finney (🎙️ 1091)]]"
-ListenInSec: 1678
+ListenInSec: 2012
 NumberInAlbum: 34
 related:
   - "[[Champ'd Up. Credits (Instrumental) - Andy Poland (🎧️ 2272)]]"

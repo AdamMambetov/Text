@@ -1,8 +1,8 @@
 ---
 created: 2024-11-04T14:41:00
 aliases:
-  - Великий из бродячих псов
-  - Bungou Stray Dogs
+  - "Bungou Stray Dogs"
+  - "Великий из бродячих псов"
 Status: plan
 Type: anime
 Rating:

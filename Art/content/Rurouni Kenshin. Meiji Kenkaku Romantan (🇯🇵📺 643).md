@@ -1,8 +1,8 @@
 ---
 created: 2024-11-04T14:19:52+03:00
 aliases:
-  - Бродяга Кэнсин
   - "Rurouni Kenshin: Meiji Kenkaku Romantan"
+  - "Бродяга Кэнсин"
 Status: plan
 Type: anime
 Rating:

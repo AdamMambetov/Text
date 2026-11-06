@@ -1,11 +1,11 @@
 ---
 created: 2025-10-11T23:01:14+03:00
 aliases:
-  - Внеземные мальчики и девочки
-  - Chikyuugai Shounen Shoujo
-  - Дети на орбите
-  - The Orbital Children
-  - Extraterrestrial Boys and Girls
+  - "Chikyuugai Shounen Shoujo"
+  - "Внеземные мальчики и девочки"
+  - "Дети на орбите"
+  - "The Orbital Children"
+  - "Extraterrestrial Boys and Girls"
 Status: plan
 Type: anime
 Rating:

@@ -1,9 +1,9 @@
 ---
 created: 2024-11-04T14:19:00
 aliases:
+  - "Subete ga F ni Naru"
   - "Всё становится F: Идеальный инсайдер"
-  - Subete ga F ni Naru
-  - The Perfect Insider
+  - "The Perfect Insider"
 Status: drop
 Type: anime
 Rating:

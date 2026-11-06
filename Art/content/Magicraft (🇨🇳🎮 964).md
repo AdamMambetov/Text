@@ -1,7 +1,7 @@
 ---
 created: 2025-05-09T01:45:28+03:00
 aliases:
-  - Magicraft
+  - "Magicraft"
 Status: complete
 Type: game
 Rating:

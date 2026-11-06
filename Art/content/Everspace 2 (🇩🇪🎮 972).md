@@ -1,7 +1,7 @@
 ---
 created: 2025-05-29T23:41:58+03:00
 aliases:
-  - Everspace 2
+  - "Everspace 2"
 Status: plan
 Type: game
 Rating:

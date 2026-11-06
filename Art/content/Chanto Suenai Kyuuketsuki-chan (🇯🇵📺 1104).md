@@ -1,9 +1,9 @@
 ---
 created: 2025-10-12T22:17:59+03:00
 aliases:
-  - Вампир не умеет правильно сосать
-  - Chanto Suenai Kyuuketsuki-chan
-  - Li'l Miss Vampire Can't Suck Right
+  - "Chanto Suenai Kyuuketsuki-chan"
+  - "Вампир не умеет правильно сосать"
+  - "Li'l Miss Vampire Can't Suck Right"
 Status: plan
 Type: anime
 Cover: "[[chanto_suenai_kyuuketsuki_chan_anime_cover.jpg]]"

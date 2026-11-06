@@ -1,8 +1,8 @@
 ---
 created: 2024-06-10T14:56:00
 aliases:
-  - Век глупцов
-  - The Age of Stupid
+  - "The Age of Stupid"
+  - "Век глупцов"
 Status: plan
 Type: film
 Cover: "[[the_age_of_stupid_film_cover.jpg]]"

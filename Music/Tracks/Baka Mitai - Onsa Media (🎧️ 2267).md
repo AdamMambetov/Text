@@ -8,7 +8,7 @@ Album: ""
 CoverOf: "[[Baka Mitai - Takaya Kuroda (🎧️ 618)]]"
 Creators:
   - "[[Onsa Media (🎙️ 400)]]"
-ListenInSec: 318
+ListenInSec: 630
 NumberInAlbum: 0
 related: []
 source: ""

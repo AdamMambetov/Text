@@ -1,8 +1,8 @@
 ---
 created: 2025-04-19T17:47:38+03:00
 aliases:
-  - Бог как иллюзия
-  - The God Delusion
+  - "The God Delusion"
+  - "Бог как иллюзия"
 Status: complete
 Type: book
 Rating:
@@ -12,7 +12,7 @@ Year: 2006
 Episode: 10
 Views: 1
 Creators:
-  - Ричард Докинз
+  - "Ричард Докинз"
 ---
 
 # Бог как иллюзия

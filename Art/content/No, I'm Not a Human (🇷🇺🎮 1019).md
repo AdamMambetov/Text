@@ -1,7 +1,7 @@
 ---
 created: 2025-09-20T23:15:21+03:00
 aliases:
-  - No, I'm Not a Human
+  - "No, I'm Not a Human"
 Status: complete
 Type: game
 Rating:
@@ -10,7 +10,7 @@ Cover: "[[no_i'm_not_a_human_game_cover.jpg]]"
 Year: 2025
 Views: 1
 tags:
-  - ❤
+  - "❤"
 ---
 
 # No, I'm Not a Human

@@ -1,9 +1,9 @@
 ---
 created: 2025-10-11T20:04:29+03:00
 aliases:
-  - Вечность Югурэ
-  - Towa no Yuugure
-  - Dusk Beyond the End of the World
+  - "Towa no Yuugure"
+  - "Вечность Югурэ"
+  - "Dusk Beyond the End of the World"
 Status: plan
 Type: anime
 Rating:

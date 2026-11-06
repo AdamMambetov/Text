@@ -1,8 +1,8 @@
 ---
 created: 2025-09-22T00:27:34+03:00
 aliases:
-  - Быть героем Икс
   - To Be Hero X
+  - Быть героем Икс
   - Tu Bian Yingxiong X
   - Быть героем Х
 Status: complete

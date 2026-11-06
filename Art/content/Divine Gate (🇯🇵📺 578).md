@@ -1,8 +1,8 @@
 ---
 created: 2024-11-04T14:18:44+03:00
 aliases:
-  - Божественные врата
-  - Divine Gate
+  - "Divine Gate"
+  - "Божественные врата"
 Status: plan
 Type: anime
 Rating:

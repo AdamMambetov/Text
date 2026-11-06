@@ -1,7 +1,7 @@
 ---
 created: 2025-04-12T17:32:37+03:00
 aliases:
-  - Steelrising
+  - "Steelrising"
 Status: plan
 Type: game
 Rating:
@@ -14,7 +14,7 @@ Year: 2022
 
 ![[steelrising_game_cover.jpg]]
 
-Говорят, что игра похожа на [[Dark Souls 1 (🇯🇵🎮 971)|Dark Souls]].
+Говорят, что игра похожа на [[Dark Souls (🇯🇵🎮 971)|Dark Souls]].
 
 ```button
 name World Art

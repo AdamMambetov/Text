@@ -1,8 +1,8 @@
 ---
 created: 2024-11-04T14:51:00
 aliases:
-  - Ария по прозвищу Алая Пуля
-  - Hidan no Aria
+  - "Hidan no Aria"
+  - "Ария по прозвищу Алая Пуля"
 Status: plan
 Type: anime
 Rating:

@@ -2,6 +2,6 @@
 created: 2025-11-19T23:14:05+03:00
 aliases:
   - "GALNERYUS"
-ListenInSec: 11420
+ListenInSec: 11845
 ---
 

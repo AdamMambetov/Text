@@ -1,10 +1,10 @@
 ---
 created: 2024-11-04T14:20:24+03:00
 aliases:
-  - Devil May Cry
-  - Дьявол может плакать
-  - DMC
-  - Демон против демонов
+  - "Devil May Cry"
+  - "Дьявол может плакать"
+  - "DMC"
+  - "Демон против демонов"
 Status: complete
 Type: anime
 Rating:

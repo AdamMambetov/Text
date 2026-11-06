@@ -12,7 +12,7 @@ Rating:
 Cover: "[[dark_souls_2_game_cover.jpg]]"
 Year: 2014
 Views: 1
-Предыстория: "[[Dark Souls 1 (🇯🇵🎮 971)]]"
+Предыстория: "[[Dark Souls (🇯🇵🎮 971)]]"
 Продолжение: "[[Dark Souls 3 (🇯🇵🎮 311)]]"
 ---
 

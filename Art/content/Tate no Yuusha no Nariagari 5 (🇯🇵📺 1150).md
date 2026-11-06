@@ -1,8 +1,8 @@
 ---
 created: 2025-10-14T00:16:51+03:00
 aliases:
-  - Восхождение героя щита 5
   - Tate no Yuusha no Nariagari 5
+  - Восхождение героя щита 5
   - The Rising of the Shield Hero 5
 Status: plan
 Type: anime

@@ -1,8 +1,8 @@
 ---
 created: 2024-05-02T00:05:00
 aliases:
-  - Бездарная Нана
   - Munou na Nana
+  - Бездарная Нана
   - Talentless Nana
 Status: complete
 Type: anime

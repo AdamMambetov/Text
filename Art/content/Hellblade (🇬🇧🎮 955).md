@@ -1,7 +1,7 @@
 ---
 created: 2025-05-07T14:18:28+03:00
 aliases:
-  - Hellblade
+  - "Hellblade"
 Status: plan
 Type: game
 Rating:

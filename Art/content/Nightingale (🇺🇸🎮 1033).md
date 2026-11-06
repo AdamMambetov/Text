@@ -1,7 +1,7 @@
 ---
 created: 2025-10-04T10:57:15+03:00
 aliases:
-  - Nightingale
+  - "Nightingale"
 Status: plan
 Type: game
 Rating:

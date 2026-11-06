@@ -1,7 +1,7 @@
 ---
 created: 2024-07-01T18:58:25+03:00
 aliases:
-  - Heavy Rain
+  - "Heavy Rain"
 Status: complete
 Type: game
 Year: 2019

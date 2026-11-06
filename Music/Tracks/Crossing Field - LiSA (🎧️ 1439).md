@@ -12,7 +12,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[LiSA (🎙️ 65)]]"
-ListenInSec: 3045
+ListenInSec: 3542
 NumberInAlbum: 0
 related:
   - "[[Crossing Field (TV Size) - LiSA (🎧️ 1440)]]"

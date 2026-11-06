@@ -1,7 +1,7 @@
 ---
 created: 2025-07-09T00:26:30+03:00
 aliases:
-  - Superliminal
+  - "Superliminal"
 Status: complete
 Type: game
 Rating:

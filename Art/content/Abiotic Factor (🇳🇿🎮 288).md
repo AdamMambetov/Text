@@ -1,7 +1,7 @@
 ---
 created: 2024-07-23T21:11:45+03:00
 aliases:
-  - Abiotic Factor
+  - "Abiotic Factor"
 Status: defer
 Type: game
 Cover:

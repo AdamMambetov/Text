@@ -1,7 +1,7 @@
 ---
 created: 2026-04-24T01:10:48+03:00
 aliases:
-  - Incredibox
+  - "Incredibox"
 Status: plan
 Type: game
 Rating:
@@ -9,7 +9,7 @@ Rating:
 Cover: "[[incredibox_game_cover.png]]"
 Year: 2009
 related:
-  - https://map-l.github.io/play/incredibox/app.html?v=1
+  - "https://map-l.github.io/play/incredibox/app.html?v=1"
 ---
 
 # Incredibox

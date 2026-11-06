@@ -1,8 +1,8 @@
 ---
 created: 2024-06-04T14:18:23
 aliases:
-  - Великолепный парк Амаги
-  - Amagi Brilliant Park
+  - "Amagi Brilliant Park"
+  - "Великолепный парк Амаги"
 Status: complete
 Type: anime
 Rating:
@@ -13,7 +13,7 @@ Year: 2014
 Episode: 13
 Views: 1
 tags:
-  - ❤
+  - "❤"
 related:
   - "[[@Аслангерий Гутаев|Аслангерий]]"
 ---

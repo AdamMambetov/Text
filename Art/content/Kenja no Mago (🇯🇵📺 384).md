@@ -1,9 +1,9 @@
 ---
 created: 2024-09-23T18:11:28+03:00
 aliases:
-  - Внук мудреца
-  - Kenja no Mago
-  - Wise Man's Grandchild
+  - "Kenja no Mago"
+  - "Внук мудреца"
+  - "Wise Man's Grandchild"
 Status: complete
 Type: anime
 Rating:

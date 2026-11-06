@@ -1,8 +1,8 @@
 ---
 created: 2024-06-10T02:47:00
 aliases:
-  - Веном 1
   - Venom 1
+  - Веном 1
 Status: complete
 Type: film
 Rating:
@@ -13,7 +13,7 @@ Year: 2018
 Views: 1
 tags:
   - ❤
-Продолжение: "[[Venom 2 (🇺🇸🎞 1023)]]"
+Продолжение: "[[Venom 2. Let There Be Carnage (🇺🇸🎞 1023)]]"
 ---
 
 # Веном 1

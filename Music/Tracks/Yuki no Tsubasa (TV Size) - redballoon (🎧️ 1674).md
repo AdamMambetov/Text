@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[redballoon (🎙️ 966)]]"
-ListenInSec: 1308
+ListenInSec: 1407
 NumberInAlbum: 0
 related: []
 SourceFile: "[[redballoon - Yuki no Tsubasa (TV Size).mp3]]"

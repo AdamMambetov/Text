@@ -9,7 +9,7 @@ Album: "[[Akoustika VII — xaki]]"
 CoverOf: ""
 Creators:
   - "[[xaki (🎙️ 12)]]"
-ListenInSec: 6112
+ListenInSec: 6377
 NumberInAlbum: 4
 related:
   - "[[l&d-circulation - xaki (🎧️ 931)]]"

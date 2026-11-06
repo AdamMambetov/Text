@@ -1,8 +1,8 @@
 ---
 created: 2025-07-13T23:52:26+03:00
 aliases:
-  - Восхождение героя щита 4
   - Tate no Yuusha no Nariagari 4
+  - Восхождение героя щита 4
   - The Rising of the Shield Hero 4
 Status: complete
 Type: anime
@@ -14,7 +14,7 @@ Year: 2025
 Episode: 12
 Views: 1
 Адаптация: "[[Tate no Yuusha no Nariagari (🇯🇵📘 326)]]"
-Предыстория: "[[Tate no Yuusha no Nariagari 3 (🇯🇵📺 881)]]"
+Предыстория: "[[Tate no Yuusha no Nariagari Season 3 (🇯🇵📺 881)]]"
 ---
 
 # Восхождение героя щита 4

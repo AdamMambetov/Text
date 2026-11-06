@@ -1,7 +1,7 @@
 ---
 created: 2025-05-07T14:11:40+03:00
 aliases:
-  - Prey
+  - "Prey"
 Status: plan
 Type: game
 Rating:

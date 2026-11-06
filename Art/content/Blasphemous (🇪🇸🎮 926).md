@@ -1,7 +1,7 @@
 ---
 created: 2025-04-12T16:50:44+03:00
 aliases:
-  - Blasphemous
+  - "Blasphemous"
 Status: plan
 Type: game
 Rating:
@@ -37,7 +37,7 @@ hidden true
 
 `button-worldArt` `button-steam`
 
-Говорят что эта игра похожа на [[Dark Souls 1 (🇯🇵🎮 971)|Dark Souls]].
+Говорят что эта игра похожа на [[Dark Souls (🇯🇵🎮 971)|Dark Souls]].
 
 
 ## Описание

@@ -1,9 +1,9 @@
 ---
 created: 2024-11-04T14:55:00
 aliases:
-  - Бесконечный Дендрограм
-  - Infinite Dendrogram
-  - Древо Безграничного Развития
+  - "Infinite Dendrogram"
+  - "Бесконечный Дендрограм"
+  - "Древо Безграничного Развития"
 Status: drop
 Type: anime
 Rating:

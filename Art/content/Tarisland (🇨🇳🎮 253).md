@@ -1,7 +1,7 @@
 ---
 created: 2024-06-28T01:25:50+03:00
 aliases:
-  - Tarisland
+  - "Tarisland"
 Status: drop
 Type: game
 Year: 2024

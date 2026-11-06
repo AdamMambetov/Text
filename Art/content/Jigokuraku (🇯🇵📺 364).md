@@ -1,8 +1,8 @@
 ---
 created: 2024-09-23T17:01:49+03:00
 aliases:
-  - Адский рай
   - Jigokuraku
+  - Адский рай
   - Hell's Paradise
 Status: complete
 Type: anime

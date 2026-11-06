@@ -1,7 +1,7 @@
 ---
 created: 2025-05-08T22:31:33+03:00
 aliases:
-  - Amazing Cultivation Simulator
+  - "Amazing Cultivation Simulator"
 Status: plan
 Type: game
 Rating:

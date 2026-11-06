@@ -9,7 +9,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Dobranotch (🎙️ 1094)]]"
-ListenInSec: 43
+ListenInSec: 44
 NumberInAlbum: 0
 related: []
 source: ""

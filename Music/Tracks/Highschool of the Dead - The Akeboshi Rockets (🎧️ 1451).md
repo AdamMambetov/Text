@@ -10,7 +10,7 @@ CoverOf: ""
 Creators:
   - "[[The Akeboshi Rockets (🎙️ 48)]]"
   - "[[Kishida Kyoudan (🎙️ 49)]]"
-ListenInSec: 398
+ListenInSec: 600
 NumberInAlbum: 0
 related: []
 source: ""

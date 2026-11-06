@@ -11,7 +11,7 @@ CoverOf: ""
 Creators:
   - "[[MYTH & ROID (🎙️ 382)]]"
   - "[[TK from Ling tosite sigure (🎙️ 655)]]"
-ListenInSec: 1816
+ListenInSec: 2086
 NumberInAlbum: 0
 related:
   - "[[Ender Ember - MYTH & ROID (🎧️ 2130)]]"

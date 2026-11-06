@@ -1,11 +1,11 @@
 ---
 created: 2025-10-11T00:47:51+03:00
 aliases:
-  - Бог обмана
-  - Shi Huang Zhi Shen
-  - Лживый Бог
-  - God of Deception
-  - Liar God
+  - "Shi Huang Zhi Shen"
+  - "Бог обмана"
+  - "Лживый Бог"
+  - "God of Deception"
+  - "Liar God"
 Status: drop
 Type: anime
 Rating:

@@ -1,7 +1,7 @@
 ---
 created: 2024-09-12T20:46:14+03:00
 aliases:
-  - Bloodborne
+  - "Bloodborne"
 Status: plan
 Type: game
 Cover: "[[bloodborne_game_cover.jpeg]]"

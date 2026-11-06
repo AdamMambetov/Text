@@ -1,9 +1,9 @@
 ---
 created: 2024-08-01T22:27:55+03:00
 aliases:
-  - Буря потерь
-  - Zetsuen no Tempest
-  - Blast of Tempest
+  - "Zetsuen no Tempest"
+  - "Буря потерь"
+  - "Blast of Tempest"
 Status: complete
 Type: anime
 Rating:

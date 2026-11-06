@@ -1,9 +1,9 @@
 ---
 created: 2025-10-11T02:08:42+03:00
 aliases:
-  - Антидот
-  - Jie Yao
-  - Antidote
+  - "Jie Yao"
+  - "Антидот"
+  - "Antidote"
 Status: plan
 Type: anime
 Rating:

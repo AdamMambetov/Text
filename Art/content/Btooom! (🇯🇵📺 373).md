@@ -1,9 +1,9 @@
 ---
 created: 2024-09-23T17:28:50+03:00
 aliases:
-  - Бтууум!
-  - Btooom!
-  - Взрыв!
+  - "Btooom!"
+  - "Бтууум!"
+  - "Взрыв!"
 Status: complete
 Type: anime
 Rating:

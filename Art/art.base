@@ -124,3 +124,8 @@ views:
     cardSize: 200
     image: note.Cover
     imageAspectRatio: 1.4
+  - type: table
+    name: created
+    sort:
+      - property: created
+        direction: ASC

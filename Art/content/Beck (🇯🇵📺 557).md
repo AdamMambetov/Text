@@ -1,8 +1,8 @@
 ---
 created: 2024-11-04T14:18:14+03:00
 aliases:
-  - Бек
-  - Beck
+  - "Beck"
+  - "Бек"
 Status: plan
 Type: anime
 Rating:

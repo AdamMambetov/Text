@@ -1,7 +1,7 @@
 ---
 created: 2025-05-26T01:21:36+03:00
 aliases:
-  - Mouthwashing
+  - "Mouthwashing"
 Status: complete
 Type: game
 Rating:
@@ -10,7 +10,7 @@ Cover: "[[mouthwashing_game_cover.jpg]]"
 Year: 2020
 Views: 1
 tags:
-  - ❤
+  - "❤"
 ---
 
 # Mouthwashing

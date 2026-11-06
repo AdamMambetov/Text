@@ -1,7 +1,7 @@
 ---
 created: 2024-07-21T00:00:00+03:00
 aliases:
-  - DarKnot
+  - "DarKnot"
 Status: plan
 Type: game
 Year: 2022

@@ -13,7 +13,7 @@ Creators:
 Genres:
   - "[[Pop]]"
   - "[[Electronic]]"
-ListenInSec: 4742
+ListenInSec: 6724
 Marks:
   - "[[Anime]]"
   - "[[OP]]"

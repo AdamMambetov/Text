@@ -1,8 +1,8 @@
 ---
 created: 2024-11-04T14:18:20+03:00
 aliases:
-  - Боевая академия города Астериск
-  - Gakusen Toshi Asterisk
+  - "Gakusen Toshi Asterisk"
+  - "Боевая академия города Астериск"
 Status: plan
 Type: anime
 Rating:

@@ -1,8 +1,8 @@
 ---
 created: 2024-11-04T14:21:34+03:00
 aliases:
-  - Ванпанчмен 3
   - One Punch Man 3
+  - Ванпанчмен 3
 Status: complete
 Type: anime
 Rating:

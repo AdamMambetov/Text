@@ -1,8 +1,8 @@
 ---
 created: 2025-05-06T19:36:11+03:00
 aliases:
-  - Cyberpunk 2077
-  - Киберпанк 2077
+  - "Cyberpunk 2077"
+  - "Киберпанк 2077"
 Status: plan
 Type: game
 Rating:

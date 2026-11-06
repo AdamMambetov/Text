@@ -1,8 +1,8 @@
 ---
 created: 2024-03-08T14:10:00
 aliases:
-  - Бездомный бог
-  - Noragami
+  - "Noragami"
+  - "Бездомный бог"
 Status: defer
 Type: manga
 Rating:

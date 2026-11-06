@@ -1,8 +1,8 @@
 ---
 created: 2024-11-04T15:02:00
 aliases:
-  - Ан-го
-  - Un-Go
+  - "Un-Go"
+  - "Ан-го"
 Status: defer
 Type: anime
 Rating:

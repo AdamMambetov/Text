@@ -1,9 +1,9 @@
 ---
 created: 2025-10-12T12:53:04+03:00
 aliases:
-  - Боевой петух
-  - Niwatori Fighter
-  - Rooster Fighter
+  - "Niwatori Fighter"
+  - "Боевой петух"
+  - "Rooster Fighter"
 Status: plan
 Type: anime
 Cover: "[[niwatori_fighter_anime_cover.jpg]]"

@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Kalafina (🎙️ 733)]]"
-ListenInSec: 1912
+ListenInSec: 2225
 NumberInAlbum: 0
 related:
   - "[[Magia (TV Size) - Kalafina]]"

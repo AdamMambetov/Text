@@ -1,7 +1,7 @@
 ---
 created: 2024-11-02T20:31:55+03:00
 aliases:
-  - Teacher Feeling
+  - "Teacher Feeling"
 Status: drop
 Type: game
 Rating:

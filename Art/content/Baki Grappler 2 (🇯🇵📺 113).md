@@ -1,8 +1,8 @@
 ---
 created: 2024-03-08T14:11:00
 aliases:
-  - Боец Баки 2
   - Baki Grappler 2
+  - Боец Баки 2
 Status: plan
 Type: anime
 Rating:

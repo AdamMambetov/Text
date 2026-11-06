@@ -1,8 +1,8 @@
 ---
 created: 2024-11-04T14:20:22+03:00
 aliases:
-  - Бернард
-  - Bernard
+  - "Bernard"
+  - "Бернард"
 Status: plan
 Type: cartoon
 Rating:
@@ -10,7 +10,7 @@ Rating:
 Cover: "[[bernard_cartoon_cover.jpg]]"
 Year: 2004
 related:
-  - https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D1%80%D0%BD%D0%B0%D1%80%D0%B4_(%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB)
+  - "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D1%80%D0%BD%D0%B0%D1%80%D0%B4_(%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB)"
 ---
 
 # Бернард

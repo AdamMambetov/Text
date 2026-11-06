@@ -1,8 +1,8 @@
 ---
 created: 2024-06-27T19:41:17
 aliases:
-  - Аватар
-  - Avatar
+  - "Avatar"
+  - "Аватар"
 Status: complete
 Type: film
 Rating:

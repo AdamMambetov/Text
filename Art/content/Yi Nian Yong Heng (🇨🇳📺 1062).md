@@ -1,9 +1,9 @@
 ---
 created: 2025-10-11T01:51:21+03:00
 aliases:
-  - Вечная воля
-  - Yi Nian Yong Heng
-  - A Will Eternal
+  - "Yi Nian Yong Heng"
+  - "Вечная воля"
+  - "A Will Eternal"
 Status: plan
 Type: anime
 Rating:

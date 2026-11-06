@@ -1,8 +1,8 @@
 ---
 created: 2024-08-26T02:11:37+03:00
 aliases:
-  - Баракамон
-  - Barakamon
+  - "Barakamon"
+  - "Баракамон"
 Status: defer
 Type: anime
 Rating:

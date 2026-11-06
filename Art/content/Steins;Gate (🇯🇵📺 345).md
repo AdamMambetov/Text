@@ -1,8 +1,8 @@
 ---
 created: 2024-09-22T22:06:22+03:00
 aliases:
-  - Врата Штейна
   - Steins;Gate
+  - Врата Штейна
 Status: complete
 Type: anime
 Rating:
@@ -15,7 +15,7 @@ Views: 2
 tags:
   - ❤
 Адаптация: "[[Steins;Gate (🇯🇵🎮 994)]]"
-Продолжение: "[[Steins;Gate. Load Region of Déjà Vu (🇯🇵📺 346)]]"
+Продолжение: "[[Steins;Gate Movie. Load Region of Déjà Vu (🇯🇵📺 346)]]"
 ---
 
 # Врата Штейна

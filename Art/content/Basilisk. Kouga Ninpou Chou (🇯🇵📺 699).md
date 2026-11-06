@@ -1,8 +1,8 @@
 ---
 created: 2024-11-04T14:21:01+03:00
 aliases:
-  - Василиск
   - "Basilisk: Kouga Ninpou Chou"
+  - "Василиск"
 Status: plan
 Type: anime
 Rating:

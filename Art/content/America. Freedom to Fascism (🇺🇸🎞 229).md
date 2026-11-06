@@ -1,8 +1,8 @@
 ---
 created: 2024-06-10T14:53:00
 aliases:
-  - "Америка: От свободы до фашизма"
   - "America: Freedom to Fascism"
+  - "Америка: От свободы до фашизма"
 Status: plan
 Type: film
 Cover: "[[america_from_freedom_to_fascism_film_cover.png]]"

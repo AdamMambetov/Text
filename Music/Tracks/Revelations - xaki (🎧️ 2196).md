@@ -11,7 +11,7 @@ Creators:
   - "[[xaki (🎙️ 12)]]"
   - "[[amiry (🎙️ 1073)]]"
   - "[[IZNA (🎙️ 1074)]]"
-ListenInSec: 655
+ListenInSec: 711
 NumberInAlbum: 195
 related:
   - "[[Revelations (inst) - xaki (🎧️ 929)]]"

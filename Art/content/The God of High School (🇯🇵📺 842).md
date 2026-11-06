@@ -1,8 +1,8 @@
 ---
 created: 2024-11-04T14:36:00
 aliases:
-  - Бог старшей школы
-  - The God of High School
+  - "The God of High School"
+  - "Бог старшей школы"
 Status: plan
 Type: anime
 Rating:

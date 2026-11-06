@@ -1,7 +1,7 @@
 ---
 created: 2025-05-30T01:14:39+03:00
 aliases:
-  - LonaRPG
+  - "LonaRPG"
 Status: defer
 Type: game
 Rating:
@@ -9,7 +9,7 @@ Rating:
 Cover: "[[lonarpg_game_cover.jpg]]"
 Year: 2021
 tags:
-  - 🔞
+  - "🔞"
 ---
 
 # LonaRPG

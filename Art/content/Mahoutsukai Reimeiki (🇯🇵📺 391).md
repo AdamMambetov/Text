@@ -1,10 +1,10 @@
 ---
 created: 2024-09-23T18:42:03+03:00
 aliases:
-  - Восхождение чародея
-  - Mahoutsukai Reimeiki
-  - The Dawn of the Witch
-  - Рассвет ведьмы
+  - "Mahoutsukai Reimeiki"
+  - "Восхождение чародея"
+  - "The Dawn of the Witch"
+  - "Рассвет ведьмы"
 Status: complete
 Type: anime
 Rating:
@@ -14,7 +14,7 @@ Cover: "[[mahoutsukai_reimeiki_anime_cover.png]]"
 Year: 2022
 Episode: 12
 Views: 1
-Предыстория: "[[Книга магии для начинающих с нуля (🇯🇵📺 620)]]"
+Предыстория: "[[Grimoire of Zero (🇯🇵📺 620)]]"
 ---
 
 # Восхождение чародея

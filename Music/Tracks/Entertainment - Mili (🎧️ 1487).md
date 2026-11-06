@@ -12,7 +12,7 @@ Creators:
   - "[[Mili (🎙️ 699)]]"
 Genres:
   - "[[Pop]]"
-ListenInSec: 583
+ListenInSec: 2138
 Marks:
   - "[[Indie]]"
   - "[[Anime]]"

@@ -1,7 +1,7 @@
 ---
 created: 2025-05-07T14:21:43+03:00
 aliases:
-  - Murdered Soul Suspect
+  - "Murdered Soul Suspect"
 Status: plan
 Type: game
 Rating:

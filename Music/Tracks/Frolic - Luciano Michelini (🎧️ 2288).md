@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Luciano Michelini (🎙️ 1099)]]"
-ListenInSec: 84
+ListenInSec: 86
 NumberInAlbum: 0
 related: []
 source: ""

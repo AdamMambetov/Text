@@ -6,14 +6,13 @@ aliases:
   - "Хантер х Хантер ED 1"
 Cover: "[[GALNERYUS - HUNTING FOR YOUR DREAM.jpg]]"
 Year: 2012
-Album: "[[ANGEL OF SALVATION]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[GALNERYUS (🎙️ 313)]]"
-ListenInSec: 788
-NumberInAlbum: 1
-related:
-  - "[[HUNTING FOR YOUR DREAM (TV Size) - GALNERYUS]]"
+ListenInSec: 952
+NumberInAlbum: 0
+related: []
 source: ""
 SourceFile: "[[GALNERYUS - HUNTING FOR YOUR DREAM.mp3]]"
 ---

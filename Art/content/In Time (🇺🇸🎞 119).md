@@ -1,8 +1,8 @@
 ---
 created: 2024-03-24T15:50:03+03:00
 aliases:
-  - Время
-  - In Time
+  - "In Time"
+  - "Время"
 Status: plan
 Type: film
 Rating:

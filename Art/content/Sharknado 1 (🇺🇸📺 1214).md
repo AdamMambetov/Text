@@ -1,8 +1,8 @@
 ---
 created: 2026-03-14T22:22:37+03:00
 aliases:
-  - Акулий торнадо 1
-  - Sharknado 1
+  - "Sharknado 1"
+  - "Акулий торнадо 1"
 Status: complete
 Type: anime
 Rating:

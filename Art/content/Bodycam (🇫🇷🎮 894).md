@@ -1,7 +1,7 @@
 ---
 created: 2024-12-21T11:48:18+03:00
 aliases:
-  - Bodycam
+  - "Bodycam"
 Status: plan
 Type: game
 Rating:

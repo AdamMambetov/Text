@@ -12,13 +12,13 @@ Creators:
   - "[[Susumu Hirasawa (🎙️ 450)]]"
 Genres:
   - "[[Electronic]]"
-ListenInSec: 432
+ListenInSec: 647
 Marks:
   - "[[Anime]]"
   - "[[OST]]"
   - "[[Ballad]]"
   - "[[Ambient]]"
-NumberInAlbum: 4
+NumberInAlbum: 1
 related: []
 source: ""
 SourceFile: "[[BERSERK OST - Gats.mp3]]"

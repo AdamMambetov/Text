@@ -1,8 +1,8 @@
 ---
 created: 2024-11-04T14:21:09+03:00
 aliases:
-  - Великий притворщик
-  - Great Pretender
+  - "Great Pretender"
+  - "Великий притворщик"
 Status: plan
 Type: anime
 Rating:

@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Tsuneo Imahori (🎙️ 948)]]"
-ListenInSec: 2682
+ListenInSec: 2780
 NumberInAlbum: 1
 related: []
 source:

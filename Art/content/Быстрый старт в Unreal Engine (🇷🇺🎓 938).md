@@ -1,7 +1,7 @@
 ---
 created: 2025-04-23T01:48:43+03:00
 aliases:
-  - Быстрый старт в Unreal Engine
+  - "Быстрый старт в Unreal Engine"
 Status: plan
 Type: course
 Rating:

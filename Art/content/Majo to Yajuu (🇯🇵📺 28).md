@@ -1,10 +1,10 @@
 ---
 created: 2024-01-11T18:06:56
 aliases:
-  - Ведьма и чудовище
-  - баба и чудовище
-  - Majo to Yajuu
-  - The Witch and the Beast
+  - "Majo to Yajuu"
+  - "Ведьма и чудовище"
+  - "баба и чудовище"
+  - "The Witch and the Beast"
 Status: defer
 Type: anime
 Rating:

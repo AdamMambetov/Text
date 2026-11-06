@@ -1,7 +1,7 @@
 ---
 created: 2025-04-12T17:25:17+03:00
 aliases:
-  - The Surge 2
+  - "The Surge 2"
 Status: plan
 Type: game
 Rating:
@@ -37,4 +37,4 @@ hidden true
 
 ---
 
-Говорят, что игра похожа на [[Dark Souls 1 (🇯🇵🎮 971)|Dark Souls]].
+Говорят, что игра похожа на [[Dark Souls (🇯🇵🎮 971)|Dark Souls]].

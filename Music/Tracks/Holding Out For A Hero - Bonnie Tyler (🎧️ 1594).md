@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Bonnie Tyler (🎙️ 745)]]"
-ListenInSec: 1311
+ListenInSec: 1365
 NumberInAlbum: 0
 related: []
 source: ""

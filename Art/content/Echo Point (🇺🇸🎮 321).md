@@ -1,7 +1,7 @@
 ---
 created: 2024-08-29T23:15:00
 aliases:
-  - Echo Point
+  - "Echo Point"
 Status: plan
 Type: game
 Cover:

@@ -1,8 +1,8 @@
 ---
 created: 2025-10-12T11:46:56+03:00
 aliases:
-  - Аниматрица
-  - The Animatrix
+  - "The Animatrix"
+  - "Аниматрица"
 Status: plan
 Type: anime
 Rating:

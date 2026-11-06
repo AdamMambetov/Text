@@ -1,9 +1,9 @@
 ---
 created: 2025-10-13T21:52:18+03:00
 aliases:
-  - Альдноа.Зеро
-  - Aldnoah.Zero
-  - Алдноа Зеро
+  - "Aldnoah.Zero"
+  - "Альдноа.Зеро"
+  - "Алдноа Зеро"
 Status: plan
 Type: anime
 Rating:

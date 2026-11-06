@@ -1,12 +1,12 @@
 ---
 created: 2024-09-23T16:37:53+03:00
 aliases:
-  - Re:Zero 2
-  - Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season
-  - Re:ZERO -Starting Life in Another World- Season 2
-  - Жизнь в альтернативном мире с нуля 2
-  - ReZERO 2
-  - резеро 2
+  - "Re:Zero 2"
+  - "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season"
+  - "Re:ZERO -Starting Life in Another World- Season 2"
+  - "Жизнь в альтернативном мире с нуля 2"
+  - "ReZERO 2"
+  - "резеро 2"
 Status: complete
 Type: anime
 Rating:
@@ -16,8 +16,8 @@ Year: 2020
 Episode: 13
 Views: 2
 Адаптация: "[[Re.Zero (🇯🇵📘 282)]]"
-Предыстория: "[[Re.Zero 1 (🇯🇵📺 283)]]"
-Продолжение: "[[Re.Zero 2 ч2 (🇯🇵📺 360)]]"
+Предыстория: "[[Re.Zero (🇯🇵📺 283)]]"
+Продолжение: "[[Re.Zero 2. Часть 2 (🇯🇵📺 360)]]"
 ---
 
 # Re:Zero. Жизнь с нуля в альтернативном мире 2

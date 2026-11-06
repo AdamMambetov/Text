@@ -1,8 +1,8 @@
 ---
 created: 2024-09-22T23:26:32+03:00
 aliases:
-  - Блич
-  - Bleach
+  - "Bleach"
+  - "Блич"
 Status: defer
 Type: anime
 Rating:
@@ -12,7 +12,7 @@ Cover: "[[bleach_anime_cover.png]]"
 Year: 2004
 Episode: 126
 tags:
-  - ❤
+  - "❤"
 ---
 
 # Блич

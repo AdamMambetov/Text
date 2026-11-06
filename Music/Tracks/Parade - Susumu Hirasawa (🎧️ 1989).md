@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Susumu Hirasawa (🎙️ 450)]]"
-ListenInSec: 11526
+ListenInSec: 11868
 Marks:
   - "[[Anime]]"
   - "[[Film]]"

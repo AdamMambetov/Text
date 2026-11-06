@@ -1,7 +1,7 @@
 ---
 created: 2025-05-06T19:32:15+03:00
 aliases:
-  - Do Not Feed the Monkeys
+  - "Do Not Feed the Monkeys"
 Status: complete
 Type: game
 Rating:

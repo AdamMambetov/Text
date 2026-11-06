@@ -1,8 +1,8 @@
 ---
 created: 2024-04-12T17:41:05+03:00
 aliases:
-  - Бивень
-  - Tusk
+  - "Tusk"
+  - "Бивень"
 Status: complete
 Type: film
 Rating:

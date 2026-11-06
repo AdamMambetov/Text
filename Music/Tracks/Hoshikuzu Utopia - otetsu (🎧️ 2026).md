@@ -10,7 +10,7 @@ CoverOf: ""
 Creators:
   - "[[otetsu (🎙️ 401)]]"
   - "[[Megurine Luka (🎙️ 1064)]]"
-ListenInSec: 5717
+ListenInSec: 5720
 Marks:
   - "[[Vocaloid]]"
 NumberInAlbum: 0

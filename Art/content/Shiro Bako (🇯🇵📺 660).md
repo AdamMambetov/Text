@@ -1,8 +1,8 @@
 ---
 created: 2024-11-04T14:20:12+03:00
 aliases:
-  - Белый ящик
-  - Shiro Bako
+  - "Shiro Bako"
+  - "Белый ящик"
 Status: plan
 Type: anime
 Rating:

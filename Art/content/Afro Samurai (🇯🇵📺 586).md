@@ -1,8 +1,8 @@
 ---
 created: 2024-11-04T14:18:52+03:00
 aliases:
-  - Афросамурай
-  - Afro Samurai
+  - "Afro Samurai"
+  - "Афросамурай"
 Status: plan
 Type: anime
 Rating:

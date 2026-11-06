@@ -1,8 +1,8 @@
 ---
 created: 2025-06-07T18:28:21+03:00
 aliases:
-  - Адская кухня
-  - Hell's Kitchen
+  - "Hell's Kitchen"
+  - "Адская кухня"
 Status: watch
 Type: series
 Rating:

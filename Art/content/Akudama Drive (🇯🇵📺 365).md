@@ -1,8 +1,8 @@
 ---
 created: 2024-09-23T17:04:23+03:00
 aliases:
-  - Акудама Драйв
-  - Akudama Drive
+  - "Akudama Drive"
+  - "Акудама Драйв"
 Status: complete
 Type: anime
 Rating:

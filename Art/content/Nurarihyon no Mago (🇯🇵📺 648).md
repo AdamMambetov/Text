@@ -1,8 +1,8 @@
 ---
 created: 2024-11-04T14:19:58+03:00
 aliases:
-  - Внук Нурарихёна
-  - Nurarihyon no Mago
+  - "Nurarihyon no Mago"
+  - "Внук Нурарихёна"
   - "Nura: Rise of the Yokai Clan"
 Status: plan
 Type: anime

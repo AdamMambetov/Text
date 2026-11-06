@@ -9,7 +9,7 @@ Album: "[[Your Turn To Die OST (📀 70)]]"
 CoverOf: ""
 Creators:
   - "[[Nankidai (🎙️ 909)]]"
-ListenInSec: 8036
+ListenInSec: 8133
 NumberInAlbum: 12
 related:
   - "[[Cardiogram Prelude - Nankidai (🎧️ 1891)]]"

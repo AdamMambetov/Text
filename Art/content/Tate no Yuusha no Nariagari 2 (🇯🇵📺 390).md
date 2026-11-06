@@ -1,8 +1,8 @@
 ---
 created: 2024-09-23T18:37:33+03:00
 aliases:
-  - Восхождение героя щита 2
   - Tate no Yuusha no Nariagari 2
+  - Восхождение героя щита 2
   - The Rising of the Shield Hero 2
   - Герой щита 2
 Status: complete
@@ -15,8 +15,8 @@ Year: 2022
 Episode: 13
 Views: 2
 Адаптация: "[[Tate no Yuusha no Nariagari (🇯🇵📘 326)]]"
-Предыстория: "[[Tate no Yuusha no Nariagari 1 (🇯🇵📺 9)]]"
-Продолжение: "[[Tate no Yuusha no Nariagari 3 (🇯🇵📺 881)]]"
+Предыстория: "[[Tate no Yuusha no Nariagari (🇯🇵📺 9)]]"
+Продолжение: "[[Tate no Yuusha no Nariagari Season 3 (🇯🇵📺 881)]]"
 ---
 
 # Восхождение героя щита 2

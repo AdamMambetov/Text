@@ -11,7 +11,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Lia (🎙️ 656)]]"
-ListenInSec: 1371
+ListenInSec: 1560
 NumberInAlbum: 0
 related:
   - "[[My Soul, Your Beats! (TV Size) - Lia (🎧️ 1748)]]"

@@ -55,26 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Music/Creators/Mili (🎙️ 699).md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Mili (🎙️ 699)"
-            }
-          },
-          {
-            "id": "ea927b59e1c2e766",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Note/templates/_track update all capture.md",
+                "file": "Note/templates/art update all number capture.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "_track update all capture"
+              "title": "art update all number capture"
             }
           }
         ],
@@ -174,7 +160,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Music/Creators/Mili (🎙️ 699).md",
+            "file": "Note/templates/art update all number capture.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -250,33 +236,36 @@
   },
   "active": "5f66fb8450e454cc",
   "lastOpenFiles": [
-    "Music/Tracks/ONE OK ROCK - One by One - ONE OK ROCK (🎧️ 300).md",
-    "Music/Creators/Mili (🎙️ 699).md",
-    "Music/Tracks/Monster Seeking Monster. Chat 2 - Andy Poland (🎧️ 2255).md",
+    "Art/content/hackSIGN (🇯🇵📺 779).md",
+    "Note/templates/art update all number capture.md",
+    "Art/content/Corpse Party. Tortured Souls - Bougyakusareta Tamashii no Jukyou (🇯🇵📺 380).md",
+    "хакЗНАК (🇯🇵📺 768).md",
+    "Art/content/Link Click 3 (🇨🇳📺 1127).md",
+    "Art/content/Avatar. The Last Airbender (🇺🇸🎬 1156).md",
+    "Art/art.base",
+    "Art/content/Busamen Gachi Fighter (🇯🇵📺 999).md",
+    "Art/content/Subete ga F ni Naru (🇯🇵📺 594).md",
+    "Art/content/Bokura wa Minna Kawai-sou (🇯🇵📺 662).md",
+    "Art/content/The Best That Money Can't Buy (🇺🇸📘 294).md",
+    "Art/content/Shikong Zhi Xi (🇨🇳📺 1054).md",
+    "Art/content/In Time (🇺🇸🎞 119).md",
+    "Art/content/Steins;Gate Movie. Load Region of Déjà Vu (🇯🇵📺 346).md",
+    "Art/content/Steins;Gate 0 (🇯🇵📺 347).md",
+    "Art/content/Steins;Gate (🇯🇵📺 345).md",
+    "Art/content/Hachi-nan tte, Sore wa Nai deshou! (🇯🇵📺 392).md",
+    "Art/content/Mahoutsukai Reimeiki (🇯🇵📺 391).md",
+    "Art/content/Tate no Yuusha no Nariagari 5 (🇯🇵📺 1150).md",
+    "Art/content/Tate no Yuusha no Nariagari 4 (🇯🇵📺 997).md",
+    "Art/content/Tate no Yuusha no Nariagari Season 3 (🇯🇵📺 881).md",
+    "Art/content/Tate no Yuusha no Nariagari 2 (🇯🇵📺 390).md",
+    "Art/content/Tate no Yuusha no Nariagari (🇯🇵📺 9).md",
+    "Art/content/Tate no Yuusha no Nariagari (🇯🇵📘 326).md",
+    "Art/content/Tate no Yuusha no Nariagari (🇯🇵📗 84).md",
+    "Art/content/Kage no Jitsuryokusha ni Naritakute! (🇯🇵📺 30).md",
+    "Art/content/Rise of the Planet of the Apes (🇺🇸🎞 200).md",
+    "Music/Covers/Mili - Between Two Worlds.jpg",
+    "Music/Covers/Mili - Hero.jpg",
     "Music/postgresql.log",
-    "Music/Tracks/Monster Seeking Monster. Chat 4 - Andy Poland (🎧️ 2257).md",
-    "Music/Tracks/Monster Seeking Monster. Chat 6 (Last Night) - Andy Poland (🎧️ 2258).md",
-    "Music/Tracks/Monster Seeking Monster. Lobby - Andy Poland (🎧️ 2259).md",
-    "Music/Tracks/Plants vs. Zombies - Watery Graves - InstrumentManiac (🎧️ 2260).md",
-    "Music/Tracks/They Don't Care About Us (Remastered Version) - Michael Jackson (🎧️ 2261).md",
-    "Music/Tracks/Марш монтажников - Николай Рыбнико (🎧️ 2262).md",
-    "Music/Tracks/О Боже, какой мужчина! - Натали (🎧️ 2263).md",
-    "Music/Tracks/Тает Лёд - Грибы (🎧️ 2264).md",
-    "Music/Tracks/Частушки Бабок Ёжек - Женская группа Московского камерного хора (🎧️ 2265).md",
-    "Music/Tracks/Pizza Theme - Michael McCuistion (🎧️ 2266).md",
-    "Music/Tracks/Baka Mitai - Onsa Media (🎧️ 2267).md",
-    "Music/Tracks/Beat It - Michael Jackson (🎧️ 2268).md",
-    "Music/Tracks/Dernière Danse - Indila (🎧️ 2269).md",
-    "Music/Tracks/KISS OF DEATH - Mika Nakashima (🎧️ 2270).md",
-    "Music/Tracks/Champ'd Up. Credits - Andy Poland (🎧️ 2271).md",
-    "Music/Tracks/Champ'd Up. Credits (Instrumental) - Andy Poland (🎧️ 2272).md",
-    "Music/Tracks/Shape of You - Ed Sheeran (🎧️ 2273).md",
-    "Music/Tracks/Minecraft - C418 (🎧️ 2274).md",
-    "Music/Tracks/Подлая Еврейская Музыка - Dobranotch (🎧️ 2275).md",
-    "Music/Tracks/Подлая еврейская музыка - the right person in the right (🎧️ 2276).md",
-    "Music/Tracks/LINKIN PARK x СМЕШАРИКИ — VAINT - mashup (🎧️ 2277).md",
-    "Music/Tracks/Elevator Music - Kevin McLeod (🎧️ 2278).md",
-    "Music/Tracks/Sneaky Snitch - Kevin McLeod (🎧️ 2279).md",
     "Music/Covers/Shikata Akiko - Katayoku no Tori.jpg",
     "Music/playlists.base",
     "Music/Covers/Death Note OST I.jpg",
@@ -288,13 +277,10 @@
     "Music/Covers/Umineko no Naku Koro Ni OST 1.jpg",
     "Music/Covers/ReZero The Frozen Bond OST.jpg",
     "Music/Covers/Quiplash OST.jpg",
-    "Music/Covers/Kabaneri of the Iron Fortress OST.jpg",
-    "Music/Covers/Guardian of the Galaxy OST.jpg",
     "Music/tracks.base",
     "Text/Note/excalidraw",
     "Text/Note",
     "Text",
-    "Art/art.base",
     "Music/templates/related tracks.base"
   ]
 }

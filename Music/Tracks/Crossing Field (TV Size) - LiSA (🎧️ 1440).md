@@ -8,8 +8,8 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[LiSA (🎙️ 65)]]"
-ListenInSec: 218
-NumberInAlbum: 1
+ListenInSec: 315
+NumberInAlbum: 0
 related:
   - "[[Crossing Field - LiSA (🎧️ 1439)]]"
 source: ""

@@ -1,8 +1,8 @@
 ---
 created: 2024-06-10T02:42:00
 aliases:
-  - Бесславные ублюдки
-  - Inglourious Basterds
+  - "Inglourious Basterds"
+  - "Бесславные ублюдки"
 Status: complete
 Type: film
 Rating:
@@ -11,7 +11,7 @@ Cover: "[[inglorious_bastards_film_cover.png]]"
 Year: 2009
 Views: 1
 tags:
-  - ❤
+  - "❤"
 ---
 
 # Бесславные ублюдки

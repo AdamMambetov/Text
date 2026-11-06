@@ -1,7 +1,7 @@
 ---
 created: 2024-08-20T00:17:15+03:00
 aliases:
-  - Still Wakes the Deep
+  - "Still Wakes the Deep"
 Status: complete
 Type: game
 Cover:

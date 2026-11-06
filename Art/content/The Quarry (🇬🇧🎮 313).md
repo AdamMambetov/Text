@@ -1,7 +1,7 @@
 ---
 created: 2024-08-17T03:09:06+03:00
 aliases:
-  - The Quarry
+  - "The Quarry"
 Status: defer
 Type: game
 Cover: "[[the_quarry_game_cover.png]]"

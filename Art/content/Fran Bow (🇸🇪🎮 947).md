@@ -1,7 +1,7 @@
 ---
 created: 2025-05-06T19:38:59+03:00
 aliases:
-  - Fran Bow
+  - "Fran Bow"
 Status: complete
 Type: game
 Rating:

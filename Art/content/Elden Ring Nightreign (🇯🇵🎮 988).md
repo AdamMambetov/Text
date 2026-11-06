@@ -1,9 +1,9 @@
 ---
 created: 2025-06-24T04:50:30+03:00
 aliases:
-  - Elden Ring Nightreign
-  - Найтрейн
-  - Nightreign
+  - "Elden Ring Nightreign"
+  - "Найтрейн"
+  - "Nightreign"
 Status: complete
 Type: game
 Rating:

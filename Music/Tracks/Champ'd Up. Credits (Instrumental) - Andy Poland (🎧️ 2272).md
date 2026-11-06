@@ -9,7 +9,7 @@ Album: "[[Jackbox Party Pack 7 OST (📀 73)]]"
 CoverOf: ""
 Creators:
   - "[[Andy Poland (🎙️ 183)]]"
-ListenInSec: 1687
+ListenInSec: 2019
 NumberInAlbum: 35
 related:
   - "[[Champ'd Up. Credits - Andy Poland (🎧️ 2271)]]"

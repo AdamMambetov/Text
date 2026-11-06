@@ -1,8 +1,8 @@
 ---
 created: 2025-05-07T01:15:03+03:00
 aliases:
-  - Вампир бабамбабамбам
-  - Babanbabanban Vampire
+  - "Babanbabanban Vampire"
+  - "Вампир бабамбабамбам"
 Status: defer
 Type: anime
 Rating:

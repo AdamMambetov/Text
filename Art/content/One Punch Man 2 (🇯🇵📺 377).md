@@ -1,8 +1,8 @@
 ---
 created: 2024-09-23T17:37:47+03:00
 aliases:
-  - Ванпанчмен 2
   - One Punch Man 2
+  - Ванпанчмен 2
 Status: complete
 Type: anime
 Rating:

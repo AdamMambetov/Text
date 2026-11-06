@@ -1,8 +1,8 @@
 ---
 created: 2024-11-04T14:20:06+03:00
 aliases:
-  - Вавилон
-  - Babylon
+  - "Babylon"
+  - "Вавилон"
 Status: plan
 Type: anime
 Rating:

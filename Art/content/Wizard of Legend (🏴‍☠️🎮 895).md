@@ -1,7 +1,7 @@
 ---
 created: 2024-12-22T22:56:05+03:00
 aliases:
-  - Wizard of Legend
+  - "Wizard of Legend"
 Status: defer
 Type: game
 Rating:

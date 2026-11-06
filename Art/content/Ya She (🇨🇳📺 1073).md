@@ -1,8 +1,8 @@
 ---
 created: 2025-10-11T21:17:46+03:00
 aliases:
-  - Безмолвный дом
-  - Ya She
+  - "Ya She"
+  - "Безмолвный дом"
 Status: plan
 Type: anime
 Rating:

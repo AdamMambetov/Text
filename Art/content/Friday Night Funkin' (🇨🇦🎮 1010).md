@@ -1,7 +1,7 @@
 ---
 created: 2025-08-11T14:25:00+03:00
 aliases:
-  - Friday Night Funkin'
+  - "Friday Night Funkin'"
 Status: plan
 Type: game
 Rating:

@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[ClariS (🎙️ 262)]]"
-ListenInSec: 1039
+ListenInSec: 1271
 NumberInAlbum: 0
 related:
   - "[[Hitorigoto (TV Size) - ClariS (🎧️ 1083)]]"

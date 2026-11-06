@@ -1,9 +1,9 @@
 ---
 created: 2024-11-04T14:20:16+03:00
 aliases:
-  - Безоблачное завтра
-  - Nagi no Asu kara
-  - A Lull in the Sea
+  - "Nagi no Asu kara"
+  - "Безоблачное завтра"
+  - "A Lull in the Sea"
 Status: plan
 Type: anime
 Rating:

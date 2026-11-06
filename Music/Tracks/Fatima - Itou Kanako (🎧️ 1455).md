@@ -10,8 +10,8 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Itou Kanako (🎙️ 52)]]"
-ListenInSec: 488
-NumberInAlbum: 1
+ListenInSec: 734
+NumberInAlbum: 0
 related:
   - "[[Fatima (TV Size) - Itou Kanako (🎧️ 1076)]]"
 source: ""

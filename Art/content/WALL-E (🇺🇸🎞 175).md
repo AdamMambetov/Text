@@ -1,8 +1,8 @@
 ---
 created: 2024-05-23T19:39:00
 aliases:
-  - ВАЛЛ-И
-  - WALL-E
+  - "WALL-E"
+  - "ВАЛЛ-И"
 Status: complete
 Type: film
 Rating:

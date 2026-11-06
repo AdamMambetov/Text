@@ -1,7 +1,7 @@
 ---
 created: 2025-06-11T22:57:30+03:00
 aliases:
-  - TimeShift
+  - "TimeShift"
 Status: complete
 Type: game
 Rating:

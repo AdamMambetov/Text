@@ -1,8 +1,8 @@
 ---
 created: 2024-07-29T00:51:00
 aliases:
-  - Бродяга
-  - Vagabond
+  - "Vagabond"
+  - "Бродяга"
 Status: defer
 Type: manga
 Rating:
@@ -11,8 +11,8 @@ Cover: "[[vagabond_manga_cover.jpeg]]"
 Year: 1998
 Episode: 54
 tags:
-  - ❤
-  - 🔞
+  - "❤"
+  - "🔞"
 ---
 
 # Бродяга

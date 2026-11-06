@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[C418 (🎙️ 1093)]]"
-ListenInSec: 2558
+ListenInSec: 3066
 Marks:
   - "[[Game]]"
   - "[[OST]]"

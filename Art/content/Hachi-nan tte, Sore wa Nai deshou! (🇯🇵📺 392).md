@@ -1,10 +1,10 @@
 ---
 created: 2024-09-23T18:44:33+03:00
 aliases:
-  - Восьмой сын, я так не думаю!
-  - Hachi-nan tte, Sore wa Nai deshou!
-  - Восьмой сын? Да вы шутите!
-  - The 8th Son? Are You Kidding Me?
+  - "Hachi-nan tte, Sore wa Nai deshou!"
+  - "Восьмой сын, я так не думаю!"
+  - "Восьмой сын? Да вы шутите!"
+  - "The 8th Son? Are You Kidding Me?"
 Status: complete
 Type: anime
 Rating:

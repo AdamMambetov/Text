@@ -2,13 +2,13 @@
 created: 2026-10-26T14:02:18+03:00
 aliases:
   - "Between Two Worlds"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Mili - Between Two Worlds.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""
 Creators:
   - "[[Mili (🎙️ 699)]]"
-ListenInSec: 2960
+ListenInSec: 6033
 NumberInAlbum: 0
 related: []
 source: ""

@@ -1,7 +1,7 @@
 ---
 created: 2024-07-29T00:44:00
 aliases:
-  - Курс по Ruby
+  - "Курс по Ruby"
 Status: defer
 Type: course
 Year: 2014

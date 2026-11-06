@@ -1,9 +1,9 @@
 ---
 created: 2024-06-28T01:19:00
 aliases:
-  - Elden Ring
-  - Элден Ринг
-  - Кольцо Элден
+  - "Elden Ring"
+  - "Элден Ринг"
+  - "Кольцо Элден"
 Status: complete
 Type: game
 Rating:
@@ -12,7 +12,7 @@ Cover: "[[elden_ring_game_cover.jpeg]]"
 Year: 2022
 Views: 2
 tags:
-  - ❤
+  - "❤"
 ---
 
 # Elden Ring

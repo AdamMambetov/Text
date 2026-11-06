@@ -10,7 +10,7 @@ Album: ""
 CoverOf: "[[Stay Alive - Rie Takahashi (🎧️ 1510)]]"
 Creators:
   - "[[Sati Akura (🎙️ 355)]]"
-ListenInSec: 548
+ListenInSec: 578
 NumberInAlbum: 0
 related: []
 source: ""

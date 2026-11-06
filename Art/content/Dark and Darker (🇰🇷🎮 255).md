@@ -1,7 +1,7 @@
 ---
 created: 2024-06-28T01:38:12+03:00
 aliases:
-  - Dark and Darker
+  - "Dark and Darker"
 Status: defer
 Type: game
 Rating:
@@ -9,7 +9,7 @@ Rating:
 Cover: "[[dark_and_darker_game_cover.jpg]]"
 Year: 2024
 tags:
-  - ❤
+  - "❤"
 meta:
   - "[[Unreal Engine]]"
 ---

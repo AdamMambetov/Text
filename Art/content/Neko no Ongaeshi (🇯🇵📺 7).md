@@ -1,9 +1,9 @@
 ---
 created: 2022-03-16T06:32:43
 aliases:
-  - Возвращение кота
-  - Neko no Ongaeshi
-  - The Cat Returns
+  - "Neko no Ongaeshi"
+  - "Возвращение кота"
+  - "The Cat Returns"
 Status: complete
 Type: anime film
 Rating:
@@ -13,7 +13,7 @@ Cover: "[[cat_returns_anime_film_cover.png]]"
 Year: 2002
 Views: 5
 tags:
-  - ❤
+  - "❤"
 ---
 
 # Возвращение кота

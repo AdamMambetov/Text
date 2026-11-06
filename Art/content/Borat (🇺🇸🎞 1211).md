@@ -1,8 +1,8 @@
 ---
 created: 2026-03-14T21:51:04+03:00
 aliases:
-  - Борат
-  - Borat
+  - "Borat"
+  - "Борат"
 Status: complete
 Type: film
 Rating:

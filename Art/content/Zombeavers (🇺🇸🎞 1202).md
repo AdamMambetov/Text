@@ -1,8 +1,8 @@
 ---
 created: 2026-03-14T20:17:29+03:00
 aliases:
-  - Бобры-зомби
-  - Zombeavers
+  - "Zombeavers"
+  - "Бобры-зомби"
 Status: complete
 Type: film
 Rating:

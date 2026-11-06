@@ -2,13 +2,13 @@
 created: 2026-10-26T14:03:01+03:00
 aliases:
   - "Between Two Worlds (Let's Lament)"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Mili - Between Two Worlds (Let's Lament).jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""
 Creators:
   - "[[Mili (🎙️ 699)]]"
-ListenInSec: 3620
+ListenInSec: 7231
 NumberInAlbum: 0
 related: []
 source: ""

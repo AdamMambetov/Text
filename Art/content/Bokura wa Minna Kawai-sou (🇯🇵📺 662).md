@@ -1,8 +1,8 @@
 ---
 created: 2024-11-04T14:20:14+03:00
 aliases:
-  - Все мы живём в общежитии Кавай
-  - Bokura wa Minna Kawai-sou
+  - "Bokura wa Minna Kawai-sou"
+  - "Все мы живём в общежитии Кавай"
 Status: plan
 Type: anime
 Rating:

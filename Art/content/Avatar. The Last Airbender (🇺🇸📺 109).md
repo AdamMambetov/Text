@@ -1,8 +1,8 @@
 ---
 created: 2024-03-08T14:07:00
 aliases:
-  - "Аватар: Легенда об Аанге"
   - "Avatar: The Last Airbender"
+  - "Аватар: Легенда об Аанге"
   - "Аватар: Последний маг воздуха"
 Status: complete
 Type: cartoon

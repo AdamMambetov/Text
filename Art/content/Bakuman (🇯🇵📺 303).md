@@ -1,8 +1,8 @@
 ---
 created: 2024-08-01T21:59:24+03:00
 aliases:
-  - Бакуман
-  - Bakuman
+  - "Bakuman"
+  - "Бакуман"
 Status: defer
 Type: anime
 Rating:

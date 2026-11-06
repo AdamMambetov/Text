@@ -8,8 +8,8 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[ALI (🎙️ 718)]]"
-ListenInSec: 382
-NumberInAlbum: 1
+ListenInSec: 471
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[ALI - Wild Side (TV Size).mp3]]"

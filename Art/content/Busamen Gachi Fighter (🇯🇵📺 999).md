@@ -1,10 +1,10 @@
 ---
 created: 2025-07-14T22:06:54+03:00
 aliases:
-  - Всё тот же невзрачный боец
-  - Busamen Gachi Fighter
-  - Uglymug, Epicfighter
-  - Яростный боец Уродомен
+  - "Busamen Gachi Fighter"
+  - "Всё тот же невзрачный боец"
+  - "Uglymug, Epicfighter"
+  - "Яростный боец Уродомен"
 Status: complete
 Type: anime
 Rating:

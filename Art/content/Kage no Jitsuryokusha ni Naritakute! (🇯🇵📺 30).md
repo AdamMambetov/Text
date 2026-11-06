@@ -1,10 +1,10 @@
 ---
 created: 2024-01-15T12:40:25+03:00
 aliases:
-  - Восхождение в тени!
-  - Kage no Jitsuryokusha ni Naritakute!
-  - The Eminence in Shadow
-  - тень
+  - "Kage no Jitsuryokusha ni Naritakute!"
+  - "Восхождение в тени!"
+  - "The Eminence in Shadow"
+  - "тень"
 Status: complete
 Type: anime
 Rating:
@@ -15,7 +15,7 @@ Year: 2022
 Episode: 20
 Views: 1
 tags:
-  - ❤
+  - "❤"
 related:
   - "[[@Дмитрий Кесида]]"
 Stream: 3

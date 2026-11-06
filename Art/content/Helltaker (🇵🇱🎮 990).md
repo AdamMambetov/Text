@@ -1,7 +1,7 @@
 ---
 created: 2025-07-01T04:06:14+03:00
 aliases:
-  - Helltaker
+  - "Helltaker"
 Status: complete
 Type: game
 Rating:

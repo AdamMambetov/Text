@@ -1,9 +1,9 @@
 ---
 created: 2024-09-23T18:48:45+03:00
 aliases:
-  - В поисках потерянного будущего
-  - Ushinawareta Mirai wo Motomete
-  - In Search of the Lost Future
+  - "Ushinawareta Mirai wo Motomete"
+  - "В поисках потерянного будущего"
+  - "In Search of the Lost Future"
 Status: complete
 Type: anime
 Rating:

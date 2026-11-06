@@ -1,7 +1,7 @@
 ---
 created: 2025-06-12T04:02:57+03:00
 aliases:
-  - Singularity
+  - "Singularity"
 Status: plan
 Type: game
 Rating:

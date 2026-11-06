@@ -1,8 +1,8 @@
 ---
 created: 2025-12-10T12:55:29+03:00
 aliases:
-  - Башня подземелья
-  - Tower Dungeon
+  - "Tower Dungeon"
+  - "Башня подземелья"
 Status: watch
 Type: manga
 Rating:

@@ -1,7 +1,7 @@
 ---
 created: 2025-05-06T13:13:02+03:00
 aliases:
-  - As Dusk Falls
+  - "As Dusk Falls"
 Status: complete
 Type: game
 Rating:

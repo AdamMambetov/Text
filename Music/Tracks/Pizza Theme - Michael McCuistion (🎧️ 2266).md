@@ -10,7 +10,7 @@ CoverOf: ""
 Creators:
   - "[[Michael McCuistion (🎙️ 1080)]]"
   - "[[Lolita Ritmanis (🎙️ 1081)]]"
-ListenInSec: 3187
+ListenInSec: 3232
 Marks:
   - "[[Game]]"
   - "[[OST]]"

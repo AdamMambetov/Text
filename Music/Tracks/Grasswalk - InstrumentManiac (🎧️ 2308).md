@@ -10,7 +10,7 @@ CoverOf: ""
 Creators:
   - "[[InstrumentManiac (🎙️ 777)]]"
   - "[[Moisés Niet (🎙️ 833)]]"
-ListenInSec: 2622
+ListenInSec: 3122
 NumberInAlbum: 0
 related: []
 source: ""

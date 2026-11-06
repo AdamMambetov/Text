@@ -1,11 +1,11 @@
 ---
 created: 2024-09-14T18:47:24+03:00
 aliases:
-  - Восхождение героя щита
-  - Tate no Yuusha no Nariagari
-  - The Rising of the Shield Hero
-  - Становление героя щита
-  - Герой щита
+  - "Tate no Yuusha no Nariagari"
+  - "Восхождение героя щита"
+  - "The Rising of the Shield Hero"
+  - "Становление героя щита"
+  - "Герой щита"
 Status: defer
 Type: ranobe
 Rating:
@@ -14,7 +14,7 @@ Cover: "[[rising_of_the_shield_hero_ranobe_cover.png]]"
 Year: 2013
 Episode: 445
 tags:
-  - ❤
+  - "❤"
 Creators: Анеко Юсаги
 Глава тома: 18
 Том: 22

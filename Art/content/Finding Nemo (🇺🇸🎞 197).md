@@ -1,8 +1,8 @@
 ---
 created: 2024-06-10T02:45:00
 aliases:
-  - В поисках Немо
-  - Finding Nemo
+  - "Finding Nemo"
+  - "В поисках Немо"
 Status: complete
 Type: film
 Rating:

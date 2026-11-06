@@ -1,8 +1,8 @@
 ---
 created: 2025-10-04T22:35:01+03:00
 aliases:
-  - Chernobyl Liquidators
-  - Ликвидаторы Чернобыля
+  - "Chernobyl Liquidators"
+  - "Ликвидаторы Чернобыля"
 Status: plan
 Type: game
 Rating:

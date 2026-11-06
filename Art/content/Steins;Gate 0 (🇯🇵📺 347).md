@@ -1,8 +1,8 @@
 ---
 created: 2024-09-22T22:21:16+03:00
 aliases:
-  - Врата Штейна 0
   - Steins;Gate 0
+  - Врата Штейна 0
 Status: complete
 Type: anime
 Rating:
@@ -12,7 +12,7 @@ Cover: "[[steins_gate_0_anime_cover.png]]"
 Year: 2018
 Episode: 23
 Views: 2
-Предыстория: "[[Steins;Gate. Load Region of Déjà Vu (🇯🇵📺 346)]]"
+Предыстория: "[[Steins;Gate Movie. Load Region of Déjà Vu (🇯🇵📺 346)]]"
 ---
 
 # Врата Штейна 0

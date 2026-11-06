@@ -1,8 +1,8 @@
 ---
 created: 2025-10-01T00:24:07+03:00
 aliases:
-  - "Ван Хельсинг: Назначение в Лондон"
   - "Van Helsing: The London Assignment"
+  - "Ван Хельсинг: Назначение в Лондон"
   - "Ван Хельсинг: Лондонское задание"
 Status: complete
 Type: cartoon

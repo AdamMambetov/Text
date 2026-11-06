@@ -1,10 +1,10 @@
 ---
 created: 2024-09-23T17:06:25+03:00
 aliases:
-  - Амнезия сумеречной девы
-  - Tasogare Otome x Amnesia
-  - Сумеречная дева и амнезия
-  - Dusk Maiden of Amnesia
+  - "Tasogare Otome x Amnesia"
+  - "Амнезия сумеречной девы"
+  - "Сумеречная дева и амнезия"
+  - "Dusk Maiden of Amnesia"
 Status: complete
 Type: anime
 Rating:

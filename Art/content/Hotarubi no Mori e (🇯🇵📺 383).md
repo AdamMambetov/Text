@@ -1,9 +1,9 @@
 ---
 created: 2024-09-23T17:59:43+03:00
 aliases:
-  - В лес, где мерцают светлячки
-  - Hotarubi no Mori e
-  - Into the Forest of Fireflies' Light
+  - "Hotarubi no Mori e"
+  - "В лес, где мерцают светлячки"
+  - "Into the Forest of Fireflies' Light"
 Status: complete
 Type: anime film
 Rating:

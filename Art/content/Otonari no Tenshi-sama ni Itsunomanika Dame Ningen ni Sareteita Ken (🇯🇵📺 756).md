@@ -1,8 +1,8 @@
 ---
 created: 2024-11-04T14:22:08+03:00
 aliases:
-  - Ангел по соседству
-  - Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken
+  - "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken"
+  - "Ангел по соседству"
 Status: drop
 Type: anime
 Rating:

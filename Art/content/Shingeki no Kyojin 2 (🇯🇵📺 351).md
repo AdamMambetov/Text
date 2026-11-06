@@ -1,8 +1,8 @@
 ---
 created: 2024-09-22T22:56:20+03:00
 aliases:
-  - Атака титанов 2
   - Shingeki no Kyojin 2
+  - Атака титанов 2
   - Attack on Titan 2
   - Вторжение гигантов 2
   - Вторжение титанов 2
@@ -16,7 +16,7 @@ Cover: "[[attack_on_titan_2_anime_cover.png]]"
 Year: 2017
 Episode: 12
 Views: 2
-Предыстория: "[[Shingeki no Kyojin 1 (🇯🇵📺 350)]]"
+Предыстория: "[[Shingeki no Kyojin (🇯🇵📺 350)]]"
 Продолжение: "[[Shingeki no Kyojin 3 (🇯🇵📺 352)]]"
 ---
 

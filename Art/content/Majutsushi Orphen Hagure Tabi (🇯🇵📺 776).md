@@ -1,8 +1,8 @@
 ---
 created: 2024-11-04T14:22:31+03:00
 aliases:
+  - "Majutsushi Orphen Hagure Tabi"
   - "Волшебник-воин Орфен: Путь странника"
-  - Majutsushi Orphen Hagure Tabi
 Status: defer
 Type: anime
 Rating:

@@ -1,7 +1,8 @@
 <%*
 dv = app.plugins.plugins.dataview.api
 
-let pages = dv.pages('"Music/Tracks"')
+//let pages = dv.pages('"Music/Tracks"')
+let pages = dv.pages('"Art/content"')
 	.sort(p => p.created, "desc")
 
 new Notice(`Начинаю обработку ${pages.length} файлов...`);

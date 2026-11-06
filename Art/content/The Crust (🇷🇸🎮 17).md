@@ -1,7 +1,7 @@
 ---
 created: 2023-12-03T17:33:00
 aliases:
-  - The Crust
+  - "The Crust"
 Status: plan
 Type: game
 Year: 2024

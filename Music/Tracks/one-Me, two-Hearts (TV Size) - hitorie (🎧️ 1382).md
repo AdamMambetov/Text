@@ -10,8 +10,8 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[hitorie (🎙️ 636)]]"
-ListenInSec: 194
-NumberInAlbum: 1
+ListenInSec: 289
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[hitorie - one-Me, two-Hearts (TV Size).mp3]]"

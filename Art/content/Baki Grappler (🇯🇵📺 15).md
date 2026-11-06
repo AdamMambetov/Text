@@ -1,8 +1,8 @@
 ---
 created: 2023-12-02T04:09:31
 aliases:
-  - Боец Баки
   - Baki Grappler
+  - Боец Баки
 Status: complete
 Type: anime
 Rating:

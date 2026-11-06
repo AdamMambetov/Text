@@ -53,6 +53,7 @@
     "Creators": "multitext",
     "excalidraw-export-internal-links": "checkbox",
     "Genres": "multitext",
-    "Marks": "multitext"
+    "Marks": "multitext",
+    "sources": "multitext"
   }
 }

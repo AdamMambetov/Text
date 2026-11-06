@@ -1,9 +1,9 @@
 ---
 created: 2024-11-04T14:20:34+03:00
 aliases:
-  - В воскресенье даже Бог отдыхает
-  - Kamisama no Inai Nichiyoubi
-  - Sunday Without God
+  - "Kamisama no Inai Nichiyoubi"
+  - "В воскресенье даже Бог отдыхает"
+  - "Sunday Without God"
 Status: plan
 Type: anime
 Rating:

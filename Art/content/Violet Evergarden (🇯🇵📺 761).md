@@ -1,9 +1,9 @@
 ---
 created: 2024-11-04T14:22:13+03:00
 aliases:
-  - Вайолет Эвергарден
-  - Violet Evergarden
-  - Виолетта Эвергарден
+  - "Violet Evergarden"
+  - "Вайолет Эвергарден"
+  - "Виолетта Эвергарден"
 Status: complete
 Type: anime
 Rating:
@@ -14,7 +14,7 @@ Year: 2018
 Episode: 13
 Views: 1
 tags:
-  - ❤
+  - "❤"
 ---
 
 # Вайолет Эвергарден

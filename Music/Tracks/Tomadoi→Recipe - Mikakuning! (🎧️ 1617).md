@@ -16,7 +16,7 @@ Genres:
   - "[[Pop]]"
   - "[[Dance]]"
   - "[[Rock]]"
-ListenInSec: 4925
+ListenInSec: 5469
 Marks:
   - "[[Anime]]"
   - "[[OP]]"

@@ -1,9 +1,9 @@
 ---
 created: 2025-10-11T00:54:11+03:00
 aliases:
-  - Время и пространство
-  - Shikong Zhi Xi
-  - Rift
+  - "Shikong Zhi Xi"
+  - "Время и пространство"
+  - "Rift"
 Status: drop
 Type: anime
 Rating:

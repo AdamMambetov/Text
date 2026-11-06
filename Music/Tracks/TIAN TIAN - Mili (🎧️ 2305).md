@@ -2,13 +2,12 @@
 created: 2026-10-26T14:26:42+03:00
 aliases:
   - "TIAN TIAN"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Mili - TIAN TIAN.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""
-Creators:
-  - "[[Mili (🎙️ 699)]]"
-ListenInSec: 2728
+Creators: []
+ListenInSec: 6258
 NumberInAlbum: 0
 related: []
 source: ""

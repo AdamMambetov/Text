@@ -1,10 +1,10 @@
 ---
 created: 2024-09-23T17:26:22+03:00
 aliases:
-  - Брошенный кролик
-  - Usagi Drop
-  - Bunny Drop
-  - Брошенная зайка
+  - "Usagi Drop"
+  - "Брошенный кролик"
+  - "Bunny Drop"
+  - "Брошенная зайка"
 Status: complete
 Type: anime
 Rating:

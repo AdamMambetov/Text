@@ -1,8 +1,8 @@
 ---
 created: 2024-08-07T14:17:09+03:00
 aliases:
-  - Возвращение солдата
-  - Warrior's Return
+  - "Warrior's Return"
+  - "Возвращение солдата"
 Status: complete
 Type: book
 Year: 1955

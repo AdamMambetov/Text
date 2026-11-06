@@ -1,8 +1,8 @@
 ---
 created: 2024-06-10T02:43:00
 aliases:
+  - "Bee Movie"
   - "Би Муви: Медовый заговор"
-  - Bee Movie
   - "Би муви: пчелиный заговор"
 Status: complete
 Type: film

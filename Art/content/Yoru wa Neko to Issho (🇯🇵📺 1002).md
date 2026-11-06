@@ -1,11 +1,11 @@
 ---
 created: 2025-07-17T03:27:40+03:00
 aliases:
-  - Вечера с котиком
-  - Yoru wa Neko to Issho
-  - Nights with a Cat
-  - Вечера с кошкой
-  - Вечера с котом
+  - "Yoru wa Neko to Issho"
+  - "Вечера с котиком"
+  - "Nights with a Cat"
+  - "Вечера с кошкой"
+  - "Вечера с котом"
 Status: complete
 Type: anime
 Rating:

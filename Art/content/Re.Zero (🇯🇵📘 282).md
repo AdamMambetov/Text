@@ -1,12 +1,12 @@
 ---
 created: 2024-07-21T03:50:36+03:00
 aliases:
-  - Re:Zero
-  - Re:Zero kara Hajimeru Isekai Seikatsu
-  - Re:ZERO -Starting Life in Another World-
-  - Жизнь в альтернативном мире с нуля
-  - ReZERO
-  - резеро
+  - "Re:Zero"
+  - "Re:Zero kara Hajimeru Isekai Seikatsu"
+  - "Re:ZERO -Starting Life in Another World-"
+  - "Жизнь в альтернативном мире с нуля"
+  - "ReZERO"
+  - "резеро"
 Status: defer
 Type: ranobe
 Rating:
@@ -14,7 +14,7 @@ Rating:
 Cover: "[[re_zero_ranobe_cover.jpeg]]"
 Year: 2012
 tags:
-  - ❤
+  - "❤"
 Глава: 11
 Том: 5
 ---

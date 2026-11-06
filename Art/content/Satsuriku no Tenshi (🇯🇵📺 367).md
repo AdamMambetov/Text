@@ -1,9 +1,9 @@
 ---
 created: 2024-09-23T17:09:22+03:00
 aliases:
-  - Ангел кровопролития
-  - Satsuriku no Tenshi
-  - Angels of Death
+  - "Satsuriku no Tenshi"
+  - "Ангел кровопролития"
+  - "Angels of Death"
 Status: complete
 Type: anime
 Rating:

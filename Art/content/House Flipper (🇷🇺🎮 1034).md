@@ -1,8 +1,8 @@
 ---
 created: 2025-10-04T22:27:42+03:00
 aliases:
-  - House Flipper
-  - Хаус Флиппер
+  - "House Flipper"
+  - "Хаус Флиппер"
 Status: watch
 Type: game
 Rating:

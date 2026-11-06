@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[supercell (🎙️ 59)]]"
-ListenInSec: 2375
+ListenInSec: 2465
 NumberInAlbum: 0
 related:
   - "[[Kimi no Shiranai Monogatari - supercell (🎧️ 1637)]]"

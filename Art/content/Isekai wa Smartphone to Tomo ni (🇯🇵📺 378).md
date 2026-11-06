@@ -1,9 +1,9 @@
 ---
 created: 2024-09-23T17:40:45+03:00
 aliases:
-  - В другом мире со смартфоном
-  - Isekai wa Smartphone to Tomo ni
-  - In Another World With My Smartphone
+  - "Isekai wa Smartphone to Tomo ni"
+  - "В другом мире со смартфоном"
+  - "In Another World With My Smartphone"
 Status: complete
 Type: anime
 Rating:

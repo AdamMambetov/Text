@@ -11,7 +11,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Yousei Teikoku (🎙️ 275)]]"
-ListenInSec: 1449
+ListenInSec: 1538
 Marks:
   - "[[Anime]]"
   - "[[Meme]]"

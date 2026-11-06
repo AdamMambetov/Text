@@ -9,7 +9,7 @@ Album: "[[Jackbox Party Pack 4 OST (📀 71)]]"
 CoverOf: ""
 Creators:
   - "[[Andy Poland (🎙️ 183)]]"
-ListenInSec: 539
+ListenInSec: 719
 NumberInAlbum: 50
 related: []
 source: ""

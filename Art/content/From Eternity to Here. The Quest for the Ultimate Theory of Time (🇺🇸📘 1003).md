@@ -1,8 +1,8 @@
 ---
 created: 2025-07-19T13:27:54+03:00
 aliases:
-  - Вечность. В поисках окончательной теории времени
-  - From Eternity to Here. The Quest for the Ultimate Theory of Time
+  - "From Eternity to Here. The Quest for the Ultimate Theory of Time"
+  - "Вечность. В поисках окончательной теории времени"
 Status: plan
 Type: book
 Rating:
@@ -12,7 +12,7 @@ Year: 2016
 category:
   - "[[Наука]]"
 Creators:
-  - Шон Керролл
+  - "Шон Керролл"
 meta:
   - "[[Астрономия]]"
 ---

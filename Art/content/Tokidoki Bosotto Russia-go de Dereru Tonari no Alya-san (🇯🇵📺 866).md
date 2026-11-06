@@ -1,9 +1,9 @@
 ---
 created: 2024-11-04T15:00:00
 aliases:
-  - Аля иногда кокетничает со мной по-русски
-  - Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san
-  - Alya-san
+  - "Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san"
+  - "Аля иногда кокетничает со мной по-русски"
+  - "Alya-san"
 Status: drop
 Type: anime
 Rating:

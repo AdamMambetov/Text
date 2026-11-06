@@ -1,7 +1,7 @@
 ---
 created: 2025-05-10T17:19:11+03:00
 aliases:
-  - Thrive
+  - "Thrive"
 Status: plan
 Type: game
 Rating:

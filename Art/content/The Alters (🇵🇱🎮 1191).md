@@ -1,7 +1,7 @@
 ---
 created: 2025-12-02T08:12:11+03:00
 aliases:
-  - The Alters
+  - "The Alters"
 Status: watch
 Type: game
 Cover: "[[the_alters_game_cover.jpg]]"

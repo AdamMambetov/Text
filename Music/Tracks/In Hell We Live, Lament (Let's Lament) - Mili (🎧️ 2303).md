@@ -2,13 +2,13 @@
 created: 2026-10-26T14:05:01+03:00
 aliases:
   - "In Hell We Live, Lament (Let's Lament)"
-Cover: "[[_No Album Art.jpg]]"
+Cover: "[[Mili - Between Two Worlds (Let's Lament).jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""
 Creators:
   - "[[Mili (🎙️ 699)]]"
-ListenInSec: 3377
+ListenInSec: 6824
 NumberInAlbum: 0
 related: []
 source: ""

@@ -1,8 +1,8 @@
 ---
 created: 2024-09-22T23:04:07+03:00
 aliases:
-  - Атака титанов 3. Часть 2
   - Shingeki no Kyojin 3 Part 2
+  - Атака титанов 3. Часть 2
   - Attack on Titan 3 Part 2
   - Вторжение гигантов 3. Часть 2
   - Вторжение титанов 3. Часть 2
@@ -17,7 +17,7 @@ Year: 2019
 Episode: 10
 Views: 1
 Предыстория: "[[Shingeki no Kyojin 3 (🇯🇵📺 352)]]"
-Продолжение: "[[Shingeki no Kyojin 4 (🇯🇵📺 354)]]"
+Продолжение: "[[Shingeki no Kyojin. The Final Season (🇯🇵📺 354)]]"
 ---
 
 # Атака титанов 3. Часть 2

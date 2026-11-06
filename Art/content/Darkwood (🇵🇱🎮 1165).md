@@ -1,7 +1,7 @@
 ---
 created: 2025-10-22T23:08:45+03:00
 aliases:
-  - Darkwood
+  - "Darkwood"
 Status: complete
 Type: game
 Rating:

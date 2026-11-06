@@ -9,7 +9,7 @@ Album: "[[Umineko no Naku Koro ni OST (📀 30)]]"
 CoverOf: ""
 Creators:
   - "[[zts (🎙️ 15)]]"
-ListenInSec: 6250
+ListenInSec: 6832
 NumberInAlbum: 108
 related: []
 SourceFile: "[[Umineko no Naku Koro ni OST - 108 Рассеивающий грезы.ogg]]"

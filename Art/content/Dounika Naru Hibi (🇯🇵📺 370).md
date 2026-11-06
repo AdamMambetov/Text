@@ -1,9 +1,9 @@
 ---
 created: 2024-09-23T17:20:41+03:00
 aliases:
-  - Беззаботные дни
-  - Dounika Naru Hibi
-  - Happy-Go-Lucky Days
+  - "Dounika Naru Hibi"
+  - "Беззаботные дни"
+  - "Happy-Go-Lucky Days"
 Status: complete
 Type: anime film
 Rating:
@@ -13,7 +13,7 @@ Cover: "[[happy_go_lucky_days_anime_film_cover.png]]"
 Year: 2020
 Views: 1
 tags:
-  - 🔞
+  - "🔞"
 ---
 
 # Беззаботные дни

@@ -1,7 +1,7 @@
 ---
 created: 2025-10-14T00:23:05+03:00
 aliases:
-  - Death Stranding
+  - "Death Stranding"
 Status: plan
 Type: game
 Cover: "[[death_stranding_game_cover.jpg]]"

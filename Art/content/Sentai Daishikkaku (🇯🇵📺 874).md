@@ -1,9 +1,9 @@
 ---
 created: 2024-11-04T15:08:00
 aliases:
-  - Боевой отряд «Полный провал»
-  - Sentai Daishikkaku
-  - Go! Go! Loser Ranger!
+  - "Sentai Daishikkaku"
+  - "Боевой отряд «Полный провал»"
+  - "Go! Go! Loser Ranger!"
 Status: plan
 Type: anime
 Rating:

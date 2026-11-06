@@ -1,8 +1,8 @@
 ---
 created: 2024-11-04T14:19:41+03:00
 aliases:
-  - Воздушный мастер
-  - Air Master
+  - "Air Master"
+  - "Воздушный мастер"
 Status: plan
 Type: anime
 Rating:

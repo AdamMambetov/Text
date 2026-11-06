@@ -1,9 +1,9 @@
 ---
 created: 2024-11-04T14:21:44+03:00
 aliases:
-  - Больше чем пара, меньше чем любовники
-  - Fuufu Ijou, Koibito Miman
-  - More than a Married Couple, but Not Lovers
+  - "Fuufu Ijou, Koibito Miman"
+  - "Больше чем пара, меньше чем любовники"
+  - "More than a Married Couple, but Not Lovers"
 Status: drop
 Type: anime
 Rating:

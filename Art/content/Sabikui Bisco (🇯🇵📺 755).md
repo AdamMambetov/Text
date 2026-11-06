@@ -1,8 +1,8 @@
 ---
 created: 2024-11-04T14:22:07+03:00
 aliases:
-  - Биско-ржавоед
-  - Sabikui Bisco
+  - "Sabikui Bisco"
+  - "Биско-ржавоед"
 Status: plan
 Type: anime
 Rating:

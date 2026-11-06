@@ -1,8 +1,8 @@
 ---
 created: 2024-08-04T21:39:46+03:00
 aliases:
-  - Барби
-  - Barbie
+  - "Barbie"
+  - "Барби"
 Status: complete
 Type: film
 Rating:

@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[SPYAIR (🎙️ 442)]]"
-ListenInSec: 3266
+ListenInSec: 3483
 NumberInAlbum: 0
 related:
   - "[[Sakuramitsutsuki (TV Size) - SPYAIR (🎧️ 2092)]]"

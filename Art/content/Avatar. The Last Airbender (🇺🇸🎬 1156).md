@@ -1,8 +1,8 @@
 ---
 created: 2025-10-18T16:48:16+03:00
 aliases:
-  - "Аватар: Последний маг воздуха"
   - "Avatar: The Last Airbender"
+  - "Аватар: Последний маг воздуха"
   - "Аватар: Легенда об Аанге"
 Status: drop
 Type: series

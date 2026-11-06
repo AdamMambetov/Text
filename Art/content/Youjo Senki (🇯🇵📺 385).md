@@ -1,9 +1,9 @@
 ---
 created: 2024-09-23T18:14:49+03:00
 aliases:
-  - Военная хроника маленькой девочки
-  - Youjo Senki
-  - Saga of Tanya the Evil
+  - "Youjo Senki"
+  - "Военная хроника маленькой девочки"
+  - "Saga of Tanya the Evil"
   - "Сага о маленькой девочке: Таня - воплощение зла"
 Status: plan
 Type: anime

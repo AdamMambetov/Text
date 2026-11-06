@@ -1,8 +1,8 @@
 ---
 created: 2024-11-04T14:18:27+03:00
 aliases:
-  - Ангельские ритмы!
-  - Angel Beats!
+  - "Angel Beats!"
+  - "Ангельские ритмы!"
 Status: complete
 Type: anime
 Rating:

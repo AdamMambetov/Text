@@ -1,8 +1,8 @@
 ---
 created: 2024-06-10T02:48:00
 aliases:
-  - Восстание планеты обезьян
-  - Rise of the Planet of the Apes
+  - "Rise of the Planet of the Apes"
+  - "Восстание планеты обезьян"
 Status: complete
 Type: film
 Rating:
@@ -11,7 +11,7 @@ Cover: "[[rise_of_the_planet_of_the_apes_film_cover.jpg]]"
 Year: 2011
 Views: 1
 tags:
-  - ❤
+  - "❤"
 ---
 
 # Восстание планеты обезьян

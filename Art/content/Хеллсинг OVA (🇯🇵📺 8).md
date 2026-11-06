@@ -1,9 +1,9 @@
 ---
 created: 2022-03-16T09:27:29
 aliases:
-  - Хеллсинг OVA
-  - Hellsing Ultimate
-  - Hellsing OVA
+  - "Хеллсинг OVA"
+  - "Hellsing Ultimate"
+  - "Hellsing OVA"
 Status: complete
 Type: anime
 Cover: "[[hellsing_ultimate_anime_cover.png]]"
@@ -11,8 +11,8 @@ Year: 2006
 Episode: 10
 Views: 1
 tags:
-  - ❤
-  - 🔞
+  - "❤"
+  - "🔞"
 related:
   - "[[Хеллсинг. Война с нечистью (🇯🇵📺 340)]]"
 ---

@@ -1,10 +1,10 @@
 ---
 created: 2024-09-23T17:46:07+03:00
 aliases:
-  - Ведьмина служба доставки
-  - Majo no Takkyuubin
-  - Kiki's Delivery Service
-  - Witch's Express Delivery
+  - "Majo no Takkyuubin"
+  - "Ведьмина служба доставки"
+  - "Kiki's Delivery Service"
+  - "Witch's Express Delivery"
 Status: complete
 Type: anime film
 Rating:

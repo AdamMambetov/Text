@@ -7,11 +7,11 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
-CoverOf: "[[LOST IN PARADISE - ALI]]"
+CoverOf: ""
 Creators:
   - "[[ALI (🎙️ 718)]]"
   - "[[AKLO (🎙️ 719)]]"
-ListenInSec: 280
+ListenInSec: 370
 NumberInAlbum: 0
 related: []
 source: ""

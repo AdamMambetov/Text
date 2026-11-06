@@ -1,8 +1,8 @@
 ---
 created: 2025-06-12T23:55:53+03:00
 aliases:
-  - Fear & Hunger
-  - Fear and Hunger
+  - "Fear & Hunger"
+  - "Fear and Hunger"
 Status: drop
 Type: game
 Rating:
@@ -10,7 +10,7 @@ Rating:
 Cover: "[[fear_and_hunger_game_cover.jpg]]"
 Year: 2019
 tags:
-  - 🔞
+  - "🔞"
 ---
 
 # Fear & Hunger

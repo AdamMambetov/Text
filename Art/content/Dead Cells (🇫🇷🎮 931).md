@@ -1,7 +1,7 @@
 ---
 created: 2025-04-12T17:20:57+03:00
 aliases:
-  - Dead Cells
+  - "Dead Cells"
 Status: defer
 Type: game
 Rating:
