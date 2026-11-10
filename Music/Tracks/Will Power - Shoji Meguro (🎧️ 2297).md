@@ -9,7 +9,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Shoji Meguro (🎙️ 1016)]]"
-ListenInSec: 1980
+ListenInSec: 2187
 NumberInAlbum: 0
 related: []
 source: ""

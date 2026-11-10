@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[World of Warcraft (🎙️ 1103)]]"
-ListenInSec: 1344
+ListenInSec: 1549
 NumberInAlbum: 0
 related: []
 source: ""

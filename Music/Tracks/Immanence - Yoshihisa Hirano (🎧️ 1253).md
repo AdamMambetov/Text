@@ -8,8 +8,8 @@ Album: "[[Death Note OST (📀 76)]]"
 CoverOf: ""
 Creators:
   - "[[Yoshihisa Hirano (🎙️ 886)]]"
-ListenInSec: 235
-NumberInAlbum: 25
+ListenInSec: 242
+NumberInAlbum: 24
 related: []
 source: ""
 SourceFile: "[[Death Note OST - 25 Immanence.mp3]]"

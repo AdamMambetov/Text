@@ -4,12 +4,12 @@ aliases:
   - "I Swear (Orchestra Version)"
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
-Album: "[[Date A Live 3 OST]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[Go Sakabe (🎙️ 315)]]"
-ListenInSec: 243
-NumberInAlbum: 1
+ListenInSec: 365
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Date A Live 3 OST - I Swear (Orchestra Version).mp3]]"

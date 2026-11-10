@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[mashup (🎙️ 74)]]"
-ListenInSec: 885
+ListenInSec: 1171
 Marks:
   - "[[Mashup]]"
 NumberInAlbum: 0

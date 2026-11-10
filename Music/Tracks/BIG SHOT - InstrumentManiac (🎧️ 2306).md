@@ -9,7 +9,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[InstrumentManiac (🎙️ 777)]]"
-ListenInSec: 861
+ListenInSec: 1148
 NumberInAlbum: 0
 related: []
 source: ""

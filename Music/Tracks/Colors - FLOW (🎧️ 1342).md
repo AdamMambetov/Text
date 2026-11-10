@@ -6,12 +6,12 @@ aliases:
   - "Код Гиас OP 1"
 Cover: "[[FLOW - Colors.jpg]]"
 Year: 2011
-Album: "[[FLOW ANIME BEST]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[FLOW (🎙️ 309)]]"
-ListenInSec: 236
-NumberInAlbum: 1
+ListenInSec: 457
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[FLOW - Colors.mp3]]"

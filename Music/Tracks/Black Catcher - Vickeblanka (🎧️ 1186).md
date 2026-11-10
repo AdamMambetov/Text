@@ -8,8 +8,8 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Vickeblanka (🎙️ 476)]]"
-ListenInSec: 380
-NumberInAlbum: 5
+ListenInSec: 574
+NumberInAlbum: 0
 related:
   - "[[Black Catcher (TV Size) - Vickeblanka (🎧️ 1092)]]"
 source: ""

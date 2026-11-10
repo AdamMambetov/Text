@@ -10,7 +10,7 @@ CoverOf: ""
 Creators:
   - "[[Lyn Inaizumi (🎙️ 1015)]]"
   - "[[Shoji Meguro (🎙️ 1016)]]"
-ListenInSec: 3251
+ListenInSec: 3792
 NumberInAlbum: 0
 related: []
 source: ""

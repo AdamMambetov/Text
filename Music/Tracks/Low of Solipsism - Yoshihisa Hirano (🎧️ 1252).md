@@ -13,7 +13,7 @@ Marks:
   - "[[Anime]]"
   - "[[OST]]"
   - "[[Meme]]"
-NumberInAlbum: 23
+NumberInAlbum: 22
 related: []
 source: ""
 SourceFile: "[[Death Note OST - 23 Low of Solipsism.mp3]]"

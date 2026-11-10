@@ -6,12 +6,12 @@ aliases:
   - "Луна, Лайка и Носферату OP 1"
 Cover: "[[ALI PROJECT - Hi no Tsuki.jpg]]"
 Year: 2021
-Album: "[[Hi no Tsuki]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[ALI PROJECT (🎙️ 165)]]"
-ListenInSec: 473
-NumberInAlbum: 1
+ListenInSec: 708
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[ALI PROJECT - Hi no Tsuki.mp3]]"

@@ -4,12 +4,12 @@ aliases:
   - "Ground Zero"
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
-Album: "[[Date A Live 1 OST]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[Go Sakabe (🎙️ 315)]]"
-ListenInSec: 213
-NumberInAlbum: 1
+ListenInSec: 377
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Date A Live 1 OST - Ground Zero.mp3]]"

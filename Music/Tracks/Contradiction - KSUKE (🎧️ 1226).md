@@ -5,13 +5,13 @@ aliases:
   - "Бог старшей школы OP 1"
 Cover: "[[Ksuke - Contradiction.jpg]]"
 Year: 2020
-Album: "[[Contradiction (feat. Tyler Carter)]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[KSUKE (🎙️ 352)]]"
   - "[[Tyler Carter (🎙️ 796)]]"
-ListenInSec: 221
-NumberInAlbum: 1
+ListenInSec: 422
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Ksuke - Contradiction.mp3]]"

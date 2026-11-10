@@ -4,12 +4,12 @@ aliases:
   - "Trust in You (Orchestra Version)"
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
-Album: "[[Date A Live 2 OST]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[Go Sakabe (🎙️ 315)]]"
-ListenInSec: 609
-NumberInAlbum: 1
+ListenInSec: 731
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Date A Live 2 OST - Trust in You (Orchestra Version).mp3]]"

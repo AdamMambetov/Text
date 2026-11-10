@@ -12,14 +12,13 @@ Creators:
   - "[[Mili (🎙️ 699)]]"
 Genres:
   - "[[Pop]]"
-ListenInSec: 2138
+ListenInSec: 2947
 Marks:
   - "[[Indie]]"
   - "[[Anime]]"
   - "[[OP]]"
 NumberInAlbum: 0
-related:
-  - "[[Entertainment (TV Size) - Mili]]"
+related: []
 source: ""
 SourceFile: "[[Mili - Entertainment.mp3]]"
 ---

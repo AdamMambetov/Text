@@ -4,12 +4,12 @@ aliases:
   - "Rhapsody Rage (Kurumi Battle Theme)"
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
-Album: "[[Date A Live 1 OST]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[Go Sakabe (🎙️ 315)]]"
-ListenInSec: 286
-NumberInAlbum: 1
+ListenInSec: 421
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Date A Live 1 OST - Rhapsody Rage (Kurumi Battle Theme).mp3]]"

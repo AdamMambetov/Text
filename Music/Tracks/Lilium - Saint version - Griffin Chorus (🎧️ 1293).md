@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Griffin Chorus (🎙️ 892)]]"
-ListenInSec: 169
+ListenInSec: 852
 NumberInAlbum: 0
 related: []
 source: ""

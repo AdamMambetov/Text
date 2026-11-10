@@ -9,10 +9,9 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[BiSH (🎙️ 220)]]"
-ListenInSec: 430
+ListenInSec: 641
 NumberInAlbum: 0
-related:
-  - "[[innocent arrogance (TV Size) - BiSH]]"
+related: []
 source: ""
 SourceFile: "[[BiSH - innocent arrogance.mp3]]"
 ---

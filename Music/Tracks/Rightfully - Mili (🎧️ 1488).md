@@ -13,13 +13,12 @@ Creators:
 Genres:
   - "[[Pop]]"
   - "[[Electronic]]"
-ListenInSec: 6724
+ListenInSec: 7824
 Marks:
   - "[[Anime]]"
   - "[[OP]]"
 NumberInAlbum: 0
-related:
-  - "[[Rightfully (TV Size) - Mili]]"
+related: []
 SourceFile: "[[Mili - Rightfully.mp3]]"
 ---
 

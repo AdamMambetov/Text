@@ -4,12 +4,12 @@ aliases:
   - "7th Trigger"
 Cover: "[[UVERworld - All Time Best.jpg]]"
 Year: 2007
-Album: "[[All Time Best]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[UVERworld (🎙️ 473)]]"
-ListenInSec: 520
-NumberInAlbum: 2
+ListenInSec: 545
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[UVERworld - 7th Trigger.mp3]]"

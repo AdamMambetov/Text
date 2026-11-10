@@ -10,10 +10,9 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Eve (🎙️ 34)]]"
-ListenInSec: 2053
+ListenInSec: 2274
 NumberInAlbum: 0
-related:
-  - "[[Kaikai Kitan (TV Size) - Eve]]"
+related: []
 source: https://youtu.be/1tk1pqwrOys?si=9hOP9rt-f0EZnAO1
 SourceFile: "[[Eve - Kaikai Kitan.mp3]]"
 ---

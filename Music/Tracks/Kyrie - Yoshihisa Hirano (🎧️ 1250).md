@@ -9,7 +9,7 @@ CoverOf: ""
 Creators:
   - "[[Yoshihisa Hirano (🎙️ 886)]]"
 ListenInSec: 197
-NumberInAlbum: 20
+NumberInAlbum: 19
 related: []
 source: ""
 SourceFile: "[[Death Note OST - 20 Kyrie.mp3]]"

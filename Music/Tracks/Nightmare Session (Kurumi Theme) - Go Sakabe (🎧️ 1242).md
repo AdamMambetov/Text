@@ -4,12 +4,12 @@ aliases:
   - "Nightmare Session (Kurumi Theme)"
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
-Album: "[[Date A Live 3 OST]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[Go Sakabe (🎙️ 315)]]"
-ListenInSec: 645
-NumberInAlbum: 1
+ListenInSec: 753
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Date A Live 3 OST - Nightmare Session (Kurumi Theme).mp3]]"

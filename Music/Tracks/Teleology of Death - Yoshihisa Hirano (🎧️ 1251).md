@@ -9,7 +9,7 @@ CoverOf: ""
 Creators:
   - "[[Yoshihisa Hirano (🎙️ 886)]]"
 ListenInSec: 217
-NumberInAlbum: 22
+NumberInAlbum: 21
 related: []
 source: ""
 SourceFile: "[[Death Note OST - 22 Teloelogy of Death.mp3]]"

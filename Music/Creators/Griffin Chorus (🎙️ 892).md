@@ -2,7 +2,7 @@
 created: 2026-08-19T14:32:43+03:00
 aliases:
   - "Griffin Chorus"
-ListenInSec: 0
+ListenInSec: 852
 ---
 
 # Griffin Chorus

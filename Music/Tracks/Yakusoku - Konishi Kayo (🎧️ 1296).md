@@ -4,12 +4,12 @@ aliases:
   - "Yakusoku"
 Cover: "[[Elfen Lied OST.jpg]]"
 Year: 0
-Album: "[[Elfen Lied OST]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[Konishi Kayo (🎙️ 893)]]"
-ListenInSec: 259
-NumberInAlbum: 1
+ListenInSec: 260
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Elfen Lied OST - Yokusoku.mp3]]"
