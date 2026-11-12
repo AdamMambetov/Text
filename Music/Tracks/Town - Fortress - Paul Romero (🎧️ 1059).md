@@ -4,7 +4,7 @@ aliases:
   - "Town - Fortress"
 Cover: "[[Heroes of Might and Magic V OST.jpg]]"
 Year: 2006
-Album:
+Album: ""
 CoverOf: ""
 Creators:
   - "[[Paul Romero (🎙️ 771)]]"

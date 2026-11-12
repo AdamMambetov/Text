@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5e64ee41c18dedfe",
+        "id": "3f923d0741b0a3ca",
         "type": "tabs",
         "children": [
           {
-            "id": "538967c20b651e30",
+            "id": "b3be79ecc7448521",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Music/Playlists/100% Шедевр (💿 6).md",
-                "bFile": "Music/Playlists/100% Шедевр (💿 6).md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: 100% Шедевр (💿 6)  (Working Tree)"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -296,8 +292,19 @@
       "obsidian-local-images-plus:Local Images Plus  0.17.1\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "538967c20b651e30",
+  "active": "b3be79ecc7448521",
   "lastOpenFiles": [
+    "Music/bases/tracks.base",
+    "Music/Tracks/2 типа людей - Макс Корж (🎧️ 1159).md",
+    "Music/Tracks/(can you) understand me - Komiya Mao (🎧️ 492).md",
+    "Music/Tracks/'Shape of You' but it's Smash Mouth singing 'All Star' - Engval Music (🎧️ 1645).md",
+    "Music/Tracks/Асимметрия - Radiant Records (🎧️ 1720).md",
+    "Music/Albums/ПЕРЕПУТЬЕ (📀 33).md",
+    "Music/Tracks/Kuchizuke (TV Size) - BUCK-TICK (🎧️ 1480).md",
+    "Music/Tracks/Zyoban - Nankidai (🎧️ 2203).md",
+    "Music/Tracks/Town - Fortress - Paul Romero (🎧️ 1059).md",
+    "Music/Tracks/Toy Box - dai (🎧️ 976).md",
+    "Music/Tracks/Tour - Conisch (🎧️ 1877).md",
     "Music/Covers/Wii Music Collection.png",
     "Music/Covers/TES V Skyrim OST.jpg",
     "Music/Covers/Bad Piggies OST.jpg",
@@ -316,16 +323,6 @@
     "Music/Tracks/Campaign - Necropolis - Paul Romero (🎧️ 2350).md",
     "Music/Tracks/Campaign - Haven - Paul Romero (🎧️ 2349).md",
     "Music/Tracks/Main Menu Theme - Paul Romero (🎧️ 2348).md",
-    "Music/Tracks/Town - Sylvan - Paul Romero (🎧️ 1057).md",
-    "Music/Tracks/Town - Necropolis - Paul Romero (🎧️ 1056).md",
-    "Music/Tracks/Town - Haven - Paul Romero (🎧️ 1528).md",
-    "Music/Tracks/Town - Academy - Paul Romero (🎧️ 1058).md",
-    "Music/Tracks/Battle - Inferno - Paul Romero (🎧️ 1530).md",
-    "Music/Tracks/Battle - Haven 2 - Paul Romero (🎧️ 1531).md",
-    "Music/Tracks/Battle - Haven - Paul Romero (🎧️ 1529).md",
-    "Music/Tracks/Town - Dungeon - Paul Romero (🎧️ 1059).md",
-    "Music/Playlists/Game (💿 22).md",
-    "Music/Playlists/Детство (💿 8).md",
     "Music/Covers/Rhythm Tengoku OST.jpg",
     "Music/Covers/Angry Birds OST.png",
     "Music/Covers/Spider-Man 2000 OST.jpg",
@@ -341,7 +338,6 @@
     "Music/bases",
     "Music/bases/related tracks.base",
     "Music/bases/albums.base",
-    "Music/Genres",
-    "Music/Marks"
+    "Music/Genres"
   ]
 }

@@ -4,14 +4,14 @@ aliases:
   - "Асимметрия"
   - "Asymmetry"
 Cover: "[[Radiant Records - ПЕРЕПУТЬЕ.jpg]]"
-Year: 0
-Album: ""
+Year: 2017
+Album: "[[ПЕРЕПУТЬЕ (📀 33)]]"
 CoverOf: "[[Asymmetry - Yui Horie]]"
 Creators:
   - "[[Radiant Records (🎙️ 39)]]"
   - "[[Lilaria (🎙️ 54)]]"
 ListenInSec: 1345
-NumberInAlbum: 0
+NumberInAlbum: 29
 related: []
 source: ""
 SourceFile: "[[Radiant Records - Асимметрия.mp3]]"
