@@ -12,7 +12,7 @@ Creators:
 ListenInSec: 4789
 NumberInAlbum: 162
 related:
-  - "[[le4-octobre 〜piano inst ver.〜 - xaki (🎧️ 1957)]]"
+  - "[[le4-octobre 〜piano inst ver.〜 - xaki (🎧️ 1956)]]"
 SourceFile: "[[Umineko no Naku Koro ni OST - 162 4 октября.ogg]]"
 ---
 

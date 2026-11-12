@@ -11,7 +11,7 @@ Creators:
 ListenInSec: 255
 NumberInAlbum: 0
 related:
-  - "[[MIIRO (TV Size) - AKINO (🎧️ 1427)]]"
+  - "[[MIIRO (TV Size) - AKINO (🎧️ 1426)]]"
 source: ""
 SourceFile: "[[AKINO from bless4 - MIIRO.mp3]]"
 ---

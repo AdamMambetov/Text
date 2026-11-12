@@ -12,9 +12,9 @@ ListenInSec: 514
 NumberInAlbum: 61
 related: []
 source: ""
-SourceFile: "[[HoMM V OST - 61 Town - Necropolis.mp3]]"
+SourceFile: "[[HoMM V OST - 61 Town - Necropolis.ogg]]"
 ---
 
 # HoMM V OST - Town - Necropolis
 
-![[HoMM V OST - 61 Town - Necropolis.mp3]]
+![[HoMM V OST - 61 Town - Necropolis.ogg]]

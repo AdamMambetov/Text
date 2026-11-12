@@ -9,7 +9,7 @@ Creators:
   - "[[Activision (🎙️ 1105)]]"
 source: https://downloads.khinsider.com/game-soundtracks/album/spider-man-psx
 tracklist:
-  - "[[Main Menu - Activision (🎧️ 2327)]]"
+  - "[[Main Menu - Activision (🎧️ 2326)]]"
 ---
 
 # Spider-Man 2000 OST

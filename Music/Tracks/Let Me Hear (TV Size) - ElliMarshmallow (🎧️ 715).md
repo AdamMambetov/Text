@@ -7,7 +7,7 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 2016
 Album: ""
-CoverOf: "[[Let Me Hear (TV Size) - Fear and Loathing in Las Vegas (🎧️ 1071)]]"
+CoverOf: "[[Let Me Hear (TV Size) - Fear and Loathing in Las Vegas (🎧️ 1070)]]"
 Creators:
   - "[[ElliMarshmallow (🎙️ 705)]]"
 ListenInSec: 179

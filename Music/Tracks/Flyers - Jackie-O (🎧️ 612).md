@@ -8,13 +8,13 @@ aliases:
 Cover: "[[Jackie-O - Flyers (TV Size).jpg]]"
 Year: 0
 Album: ""
-CoverOf: "[[Flyers - BRADIO (🎧️ 1195)]]"
+CoverOf: "[[Flyers - BRADIO (🎧️ 1194)]]"
 Creators:
   - "[[Jackie-O (🎙️ 337)]]"
 ListenInSec: 213
 NumberInAlbum: 0
 related:
-  - "[[Flyers (TV Size) - Jackie-O (🎧️ 1869)]]"
+  - "[[Flyers (TV Size) - Jackie-O (🎧️ 1868)]]"
 source: ""
 SourceFile: "[[Jackie-O - Flyers.mp3]]"
 ---

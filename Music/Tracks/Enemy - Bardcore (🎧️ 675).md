@@ -5,7 +5,7 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 2022
 Album: "[[Enemy]]"
-CoverOf: "[[Enemy - Imagine Dragons (🎧️ 1299)]]"
+CoverOf: "[[Enemy - Imagine Dragons (🎧️ 1298)]]"
 Creators:
   - "[[Bardcore (🎙️ 210)]]"
 ListenInSec: 194

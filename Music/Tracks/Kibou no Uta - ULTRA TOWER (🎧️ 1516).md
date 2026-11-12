@@ -1,0 +1,18 @@
+---
+created: 2025-01-08T18:09:51+03:00
+aliases:
+  - "Kibou no Uta"
+  - "Повар-боец Сома OP 1"
+Cover: "[[_No Album Art.jpg]]"
+Year: 0
+Album: ""
+CoverOf: ""
+Creators:
+  - "[[ULTRA TOWER (🎙️ 762)]]"
+ListenInSec: 5442
+NumberInAlbum: 1
+related:
+  - "[[Kibou no Uta (TV Size) - ULTRA TOWER (🎧️ 1517)]]"
+SourceFile: "[[ULTRA TOWER - Kibou no Uta.mp3]]"
+---
+

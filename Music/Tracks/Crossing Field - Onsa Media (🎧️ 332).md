@@ -9,7 +9,7 @@ aliases:
 Cover: "[[Onsa Media - Crossing Field.png]]"
 Year: 2021
 Album: ""
-CoverOf: "[[Crossing Field - LiSA (🎧️ 1439)]]"
+CoverOf: "[[Crossing Field - LiSA (🎧️ 1438)]]"
 Creators:
   - "[[Onsa Media (🎙️ 400)]]"
 ListenInSec: 505

@@ -7,7 +7,7 @@ Year: 1997
 Creators:
   - "[[Susumu Hirasawa (🎙️ 450)]]"
 tracklist:
-  - "[[Gats - Susumu Hirasawa (🎧️ 1351)]]"
-  - "[[Forces - Susumu Hirasawa (🎧️ 2073)]]"
+  - "[[Gats - Susumu Hirasawa (🎧️ 1350)]]"
+  - "[[Forces - Susumu Hirasawa (🎧️ 2072)]]"
 ---
 

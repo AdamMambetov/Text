@@ -6,14 +6,14 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
-CoverOf: "[[Bad Apple - Touhou Project (🎧️ 1707)]]"
+CoverOf: "[[Bad Apple - Touhou Project (🎧️ 1706)]]"
 Creators:
   - "[[Radiant Records (🎙️ 39)]]"
   - "[[Jully (🎙️ 42)]]"
 ListenInSec: 459
 NumberInAlbum: 0
 related:
-  - "[[Гнилое яблоко - Radiant Records (🎧️ 1330)]]"
+  - "[[Гнилое яблоко - Radiant Records (🎧️ 1329)]]"
 source: https://youtu.be/sxKVflJe0ac?si=bvyIkva1QT6F2YF5
 SourceFile: "[[Radiant Records - Гнилое яблоко (TV Size).mp3]]"
 ---

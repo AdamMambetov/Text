@@ -6,8 +6,9 @@ Cover: "[[Angry Birds OST.png]]"
 Year: 2009
 Creators:
   - "[[Rovio (🎙️ 1104)]]"
+source: https://downloads.khinsider.com/game-soundtracks/album/angry-birds
 tracklist:
-  - "[[Main Theme - Rovio (🎧️ 2326)]]"
+  - "[[Main Theme - Rovio (🎧️ 2325)]]"
 ---
 
 # Angry Birds OST

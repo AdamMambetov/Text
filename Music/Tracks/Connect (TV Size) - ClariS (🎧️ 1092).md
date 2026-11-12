@@ -1,0 +1,23 @@
+---
+created: 2024-07-21T15:51:02+03:00
+aliases:
+  - "Connect (TV Size)"
+  - "Madoka OP 1"
+  - "Мадока OP 1"
+Cover: "[[ClariS - Connect.jpg]]"
+Year: 2011
+Album: ""
+CoverOf: ""
+Creators:
+  - "[[ClariS (🎙️ 262)]]"
+ListenInSec: 1225
+NumberInAlbum: 0
+related:
+  - "[[Connect - ClariS (🎧️ 1224)]]"
+source: ""
+SourceFile: "[[ClariS - Connect (TV Size).mp3]]"
+---
+
+# ClariS - Connect (TV Size)
+
+![[ClariS - Connect (TV Size).mp3]]

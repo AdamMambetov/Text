@@ -14,7 +14,7 @@ Creators:
 ListenInSec: 3077
 NumberInAlbum: 0
 related:
-  - "[[Kuusou Mesorogiwi (TV Size) - Yousei Teikoku (🎧️ 1082)]]"
+  - "[[Kuusou Mesorogiwi (TV Size) - Yousei Teikoku (🎧️ 1081)]]"
 SourceFile: "[[Yousei Teikoku - Kuusou Mesorogiwi.mp3]]"
 ---
 

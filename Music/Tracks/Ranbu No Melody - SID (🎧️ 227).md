@@ -13,7 +13,7 @@ Creators:
 ListenInSec: 457
 NumberInAlbum: 0
 related:
-  - "[[Ranbu no Melody (TV Size) - SID (🎧️ 1097)]]"
+  - "[[Ranbu no Melody (TV Size) - SID (🎧️ 1096)]]"
 source: ""
 SourceFile: "[[SID - Ranbu No Melody.mp3]]"
 ---

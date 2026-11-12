@@ -7,7 +7,7 @@ aliases:
 Cover: "[[Jackie-O - Colors of the Heart.jpg]]"
 Year: 2020
 Album: ""
-CoverOf: "[[Colors of the Heart - UVERworld (🎧️ 1258)]]"
+CoverOf: "[[Colors of the Heart - UVERworld (🎧️ 1257)]]"
 Creators:
   - "[[Jackie-O (🎙️ 337)]]"
 ListenInSec: 455

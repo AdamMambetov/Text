@@ -5,7 +5,7 @@ aliases:
 Cover: "[[Amaranthe - Army Of The Night.jpg]]"
 Year: 0
 Album: ""
-CoverOf: "[[Army of the Night - Powerwolf (🎧️ 1167)]]"
+CoverOf: "[[Army of the Night - Powerwolf (🎧️ 1166)]]"
 Creators:
   - "[[Amaranthe (🎙️ 174)]]"
 ListenInSec: 179

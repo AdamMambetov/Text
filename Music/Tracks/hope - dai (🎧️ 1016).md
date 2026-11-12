@@ -12,7 +12,7 @@ Creators:
 ListenInSec: 605
 NumberInAlbum: 8
 related:
-  - "[[Moshimo Boku ga -hope- - dai (🎧️ 2153)]]"
+  - "[[Moshimo Boku ga -hope- - dai (🎧️ 2152)]]"
 source: ""
 SourceFile: "[[Umineko no Naku Koro ni OST - 008 Надежда.ogg]]"
 ---

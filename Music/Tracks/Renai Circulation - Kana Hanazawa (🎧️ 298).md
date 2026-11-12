@@ -11,7 +11,7 @@ Creators:
 ListenInSec: 515
 NumberInAlbum: 0
 related:
-  - "[[Renai Circulation (TV Size) - Kana Hanazawa (🎧️ 1423)]]"
+  - "[[Renai Circulation (TV Size) - Kana Hanazawa (🎧️ 1422)]]"
 source: ""
 SourceFile: "[[Kana Hanazawa - Renai Circulation.mp3]]"
 ---

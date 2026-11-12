@@ -12,7 +12,7 @@ Creators:
 ListenInSec: 3109
 NumberInAlbum: 163
 related:
-  - "[[l&d-circulation ~guitar inst ver.~ - xaki (🎧️ 1962)]]"
+  - "[[l&d-circulation ~guitar inst ver.~ - xaki (🎧️ 1961)]]"
 source: ""
 SourceFile: "[[Umineko no Naku Koro ni OST - 163 Круговорот жизни и смерти.ogg]]"
 ---

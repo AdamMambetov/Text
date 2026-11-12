@@ -11,7 +11,7 @@ Creators:
 ListenInSec: 9624
 NumberInAlbum: 168
 related:
-  - "[[bore-ral (without vocal) - xaki (🎧️ 1960)]]"
+  - "[[bore-ral (without vocal) - xaki (🎧️ 1959)]]"
 SourceFile: "[[Umineko no Naku Koro ni OST - 168 bore-ral.ogg]]"
 ---
 

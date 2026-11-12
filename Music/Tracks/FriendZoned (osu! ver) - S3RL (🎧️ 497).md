@@ -13,7 +13,7 @@ Creators:
 ListenInSec: 512
 NumberInAlbum: 1
 related:
-  - "[[Friendzoned - S3RL (🎧️ 1361)]]"
+  - "[[Friendzoned - S3RL (🎧️ 1360)]]"
 source: ""
 SourceFile: "[[S3RL ft. Mixie Moon - FriendZoned (osu ver).mp3]]"
 ---

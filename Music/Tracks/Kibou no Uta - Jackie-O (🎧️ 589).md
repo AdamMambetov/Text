@@ -6,7 +6,7 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
-CoverOf: "[[Kibou no Uta - ULTRA TOWER (🎧️ 1517)]]"
+CoverOf: "[[Kibou no Uta - ULTRA TOWER (🎧️ 1516)]]"
 Creators:
   - "[[Jackie-O (🎙️ 337)]]"
 ListenInSec: 984

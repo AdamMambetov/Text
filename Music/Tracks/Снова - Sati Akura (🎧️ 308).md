@@ -8,7 +8,7 @@ aliases:
 Cover: "[[Sati Akura - Again.jpg]]"
 Year: 2021
 Album: ""
-CoverOf: "[[Again - YUI (🎧️ 1148)]]"
+CoverOf: "[[Again - YUI (🎧️ 1147)]]"
 Creators:
   - "[[Sati Akura (🎙️ 355)]]"
 ListenInSec: 657

@@ -13,7 +13,7 @@ Creators:
 ListenInSec: 710
 NumberInAlbum: 1
 related:
-  - "[[Seven Doors (TV Size) - ZAQ (🎧️ 1075)]]"
+  - "[[Seven Doors (TV Size) - ZAQ (🎧️ 1074)]]"
 source: ""
 SourceFile: "[[ZAQ - Seven Doors.mp3]]"
 ---

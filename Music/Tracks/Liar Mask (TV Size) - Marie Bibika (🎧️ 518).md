@@ -7,7 +7,7 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 2019
 Album: ""
-CoverOf: "[[Liar Mask (TV Size) - Rika Mayama (🎧️ 1689)]]"
+CoverOf: "[[Liar Mask (TV Size) - Rika Mayama (🎧️ 1688)]]"
 Creators:
   - "[[Marie Bibika (🎙️ 372)]]"
 ListenInSec: 197

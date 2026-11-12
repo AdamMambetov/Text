@@ -7,13 +7,13 @@ aliases:
 Cover: "[[Sati Akura - Hitorigoto.jpg]]"
 Year: 0
 Album: ""
-CoverOf: "[[Hitorigoto (TV Size) - ClariS (🎧️ 1083)]]"
+CoverOf: "[[Hitorigoto (TV Size) - ClariS (🎧️ 1082)]]"
 Creators:
   - "[[Sati Akura (🎙️ 355)]]"
 ListenInSec: 248
 NumberInAlbum: 0
 related:
-  - "[[Hitorigoto - Sati Akura (🎧️ 1428)]]"
+  - "[[Hitorigoto - Sati Akura (🎧️ 1427)]]"
 source: ""
 SourceFile: "[[Sati Akura - Hitorigoto (TV Size).mp3]]"
 ---

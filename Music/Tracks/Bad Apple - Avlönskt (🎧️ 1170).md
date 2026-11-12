@@ -1,0 +1,17 @@
+---
+created: 2024-10-10T22:46:46+03:00
+aliases:
+  - "Bad Apple"
+Cover: "[[_No Album Art.jpg]]"
+Year: 2020
+Album: ""
+CoverOf: "[[Bad Apple - Touhou Project (🎧️ 1706)]]"
+Creators:
+  - "[[Avlönskt (🎙️ 1)]]"
+ListenInSec: 10011
+NumberInAlbum: 0
+related:
+  - "[[Bad Apple - Anton Cloudjumper Gustin (🎧️ 2099)]]"
+SourceFile: "[[Avlonskt - Bad Apple.mp3]]"
+---
+

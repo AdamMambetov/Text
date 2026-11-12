@@ -12,9 +12,9 @@ ListenInSec: 1165
 NumberInAlbum: 57
 related: []
 source: ""
-SourceFile: "[[HoMM V OST - 57 Town - Academy.mp3]]"
+SourceFile: "[[HoMM V OST - 57 Town - Academy.ogg]]"
 ---
 
 # HoMM V OST - Town - Academy
 
-![[HoMM V OST - 57 Town - Academy.mp3]]
+![[HoMM V OST - 57 Town - Academy.ogg]]

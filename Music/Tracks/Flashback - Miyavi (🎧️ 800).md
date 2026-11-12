@@ -13,7 +13,7 @@ Creators:
 ListenInSec: 532
 NumberInAlbum: 7
 related:
-  - "[[Flashback (TV Size) - Miyavi (🎧️ 1073)]]"
+  - "[[Flashback (TV Size) - Miyavi (🎧️ 1072)]]"
 source: ""
 SourceFile: "[[Miyavi - Flashback.mp3]]"
 ---

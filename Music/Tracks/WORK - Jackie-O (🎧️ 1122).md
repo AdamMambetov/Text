@@ -1,0 +1,21 @@
+---
+created: 2024-10-05T15:25:04+03:00
+aliases:
+  - "WORK"
+  - "Адский рай OP 1"
+Cover: "[[Jackie-O - Work.jpg]]"
+Year: 2023
+Album: ""
+CoverOf: "[[WORK - millennium parade (🎧️ 1705)]]"
+Creators:
+  - "[[Jackie-O (🎙️ 337)]]"
+ListenInSec: 997
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[Jackie-O - Work.mp3]]"
+---
+
+# Jackie-O - Work
+
+![[Jackie-O - Work.mp3]]

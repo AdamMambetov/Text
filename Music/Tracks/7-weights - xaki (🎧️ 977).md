@@ -12,7 +12,7 @@ Creators:
 ListenInSec: 3395
 NumberInAlbum: 166
 related:
-  - "[[7-weights 〜piano inst ver.〜 - xaki (🎧️ 1961)]]"
+  - "[[7-weights 〜piano inst ver.〜 - xaki (🎧️ 1960)]]"
 SourceFile: "[[Umineko no Naku Koro ni OST - 166 7 весов.ogg]]"
 ---
 

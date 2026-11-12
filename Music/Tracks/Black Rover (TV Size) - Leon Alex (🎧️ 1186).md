@@ -1,0 +1,22 @@
+---
+created: 2024-10-10T23:03:14+03:00
+aliases:
+  - "Black Rover (TV Size)"
+  - "Black Clover OP 3"
+  - "Чёрный клевер OP 3"
+Cover: "[[Leon Alex - Black Clover Guitar Collection.jpg]]"
+Year: 2021
+Album: ""
+CoverOf: "[[Black Rover (TV Size) - Vickeblanka (🎧️ 1068)]]"
+Creators:
+  - "[[Leon Alex (🎙️ 359)]]"
+ListenInSec: 195
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[Leon Alex - Black Rover.mp3]]"
+---
+
+# Leon Alex - Black Rover (TV Size)
+
+![[Leon Alex - Black Rover.mp3]]

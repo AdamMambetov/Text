@@ -7,7 +7,7 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 2018
 Album: ""
-CoverOf: "[[99 - Mob Choir (🎧️ 1447)]]"
+CoverOf: "[[99 - Mob Choir (🎧️ 1446)]]"
 Creators:
   - "[[HaruWei (🎙️ 325)]]"
 ListenInSec: 403

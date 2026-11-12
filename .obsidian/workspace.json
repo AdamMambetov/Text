@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b815d556adb58ae5",
+        "id": "5e64ee41c18dedfe",
         "type": "tabs",
         "children": [
           {
-            "id": "03c5510f92c7f503",
+            "id": "538967c20b651e30",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Music/Albums/Minecraft OST Alpha (📀 83).md",
-                "mode": "preview",
-                "source": true
+                "aFile": "Music/Playlists/100% Шедевр (💿 6).md",
+                "bFile": "Music/Playlists/100% Шедевр (💿 6).md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Minecraft OST Alpha (📀 83)"
+              "icon": "diff",
+              "title": "Diff: 100% Шедевр (💿 6)  (Working Tree)"
             }
           }
         ]
@@ -89,7 +89,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Music/Albums/Minecraft OST Alpha (📀 83).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -159,7 +158,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Music/Albums/Minecraft OST Alpha (📀 83).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +176,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Music/Tracks/599_million_ruins - Luck Ganriki (🎧️ 1009).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
@@ -299,44 +296,43 @@
       "obsidian-local-images-plus:Local Images Plus  0.17.1\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "a6c210ff56e0c069",
+  "active": "538967c20b651e30",
   "lastOpenFiles": [
-    "Music/Tracks/Danny - C418 (🎧️ 2348).md",
-    "Music/Tracks/Sweden - C418 (🎧️ 2347).md",
-    "Music/Tracks/Chris - C418 (🎧️ 2346).md",
-    "Music/Tracks/Clark - C418 (🎧️ 2345).md",
-    "Music/Tracks/Wet Hands - C418 (🎧️ 2344).md",
-    "Music/Tracks/Dry Hands - C418 (🎧️ 2343).md",
-    "Music/Tracks/Mice on Venus - C418 (🎧️ 2342).md",
-    "Music/Tracks/Équinoxe - C418 (🎧️ 2341).md",
-    "Music/Tracks/Haggstrom - C418 (🎧️ 2340).md",
-    "Music/Tracks/Moog City - C418 (🎧️ 2339).md",
-    "Music/Tracks/Living Mice - C418 (🎧️ 2338).md",
-    "Music/Tracks/Subwoofer Lullaby - C418 (🎧️ 2337).md",
-    "Music/Tracks/Door - C418 (🎧️ 2336).md",
-    "Music/Tracks/Key - C418 (🎧️ 2335).md",
-    "Music/Albums/Geometry Dash OST (📀 86).md",
-    "Music/Creators/RobTop (🎙️ 1106).md",
-    "Music/Tracks/Time Machine - RobTop (🎧️ 2334).md",
-    "Music/Tracks/Can't Let Go - RobTop (🎧️ 2333).md",
-    "Music/Tracks/Base After Base - RobTop (🎧️ 2332).md",
-    "Music/Tracks/Dry Out - RobTop (🎧️ 2331).md",
-    "Music/Tracks/Back On Track - RobTop (🎧️ 2330).md",
-    "Music/Tracks/Stereo Madness - RobTop (🎧️ 2329).md",
-    "Music/Tracks/Main Menu - RobTop (🎧️ 2328).md",
-    "Music/Albums/Spider-Man 2000 OST (📀 85).md",
-    "Music/Tracks/Main Menu - Activision (🎧️ 2327).md",
-    "Music/Creators/Activision (🎙️ 1105).md",
-    "Music/Covers/Spider-Man 2000 OST.jpg",
+    "Music/Covers/Wii Music Collection.png",
+    "Music/Covers/TES V Skyrim OST.jpg",
+    "Music/Covers/Bad Piggies OST.jpg",
+    "Music/Albums/Heroes of Might and Magic V OST (📀 82).md",
+    "Music/Tracks/Terrain - Underground - Paul Romero (🎧️ 2361).md",
+    "Music/Tracks/Terrain - Sand - Paul Romero (🎧️ 2360).md",
+    "Music/Tracks/Terrain - Lava - Paul Romero (🎧️ 2359).md",
+    "Music/Tracks/Terrain - Grass - Paul Romero (🎧️ 2358).md",
+    "Music/Tracks/Terrain - Dirt - Paul Romero (🎧️ 2357).md",
+    "Music/Tracks/Battle - Sylvan - Paul Romero (🎧️ 2356).md",
+    "Music/Tracks/AI Theme - Necropolis - Paul Romero (🎧️ 2355).md",
+    "Music/Tracks/AI Theme - Haven - Paul Romero (🎧️ 2354).md",
+    "Music/Tracks/AI Theme - Academy - Paul Romero (🎧️ 2353).md",
+    "Music/Tracks/Heroes - Isabel - Paul Romero (🎧️ 2351).md",
+    "Music/Tracks/Heroes - Agrael - Paul Romero (🎧️ 2352).md",
+    "Music/Tracks/Campaign - Necropolis - Paul Romero (🎧️ 2350).md",
+    "Music/Tracks/Campaign - Haven - Paul Romero (🎧️ 2349).md",
+    "Music/Tracks/Main Menu Theme - Paul Romero (🎧️ 2348).md",
+    "Music/Tracks/Town - Sylvan - Paul Romero (🎧️ 1057).md",
+    "Music/Tracks/Town - Necropolis - Paul Romero (🎧️ 1056).md",
+    "Music/Tracks/Town - Haven - Paul Romero (🎧️ 1528).md",
+    "Music/Tracks/Town - Academy - Paul Romero (🎧️ 1058).md",
+    "Music/Tracks/Battle - Inferno - Paul Romero (🎧️ 1530).md",
+    "Music/Tracks/Battle - Haven 2 - Paul Romero (🎧️ 1531).md",
+    "Music/Tracks/Battle - Haven - Paul Romero (🎧️ 1529).md",
+    "Music/Tracks/Town - Dungeon - Paul Romero (🎧️ 1059).md",
+    "Music/Playlists/Game (💿 22).md",
+    "Music/Playlists/Детство (💿 8).md",
+    "Music/Covers/Rhythm Tengoku OST.jpg",
     "Music/Covers/Angry Birds OST.png",
+    "Music/Covers/Spider-Man 2000 OST.jpg",
     "Music/Covers/Geometry Dash OST.png",
     "Music/Covers/Minecraft OST Alpha.jpg",
     "Music/Covers/Heroes of Might and Magic V OST.jpg",
     "Music/Covers/Your Turn To Die OST.jpg",
-    "Music/Covers/Persona 3 Reload - It's Going Down Now.jpg",
-    "Music/Covers/Persona 3 Reload OST.jpg",
-    "Music/Covers/Animal Crossing. New Leaf OST.jpg",
-    "Music/Covers/Animal Crossing. New Leaf OST.png",
     "Art/art.base",
     "file:/home/adamm/Downloads/Your.Turn.To.Die.Death.Game.By.Majority.v22.08.2023/yttd/Artbook/Artbook_en.pdf.pdf",
     "Books/«6+ способов доп.заработка .pdf",

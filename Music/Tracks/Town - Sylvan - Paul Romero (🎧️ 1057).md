@@ -12,9 +12,9 @@ ListenInSec: 286
 NumberInAlbum: 62
 related: []
 source: ""
-SourceFile: "[[HoMM V OST - 62 Town - Sylvan.mp3]]"
+SourceFile: "[[HoMM V OST - 62 Town - Sylvan.ogg]]"
 ---
 
 # HoMM V OST - Town - Sylvan
 
-![[HoMM V OST - 62 Town - Sylvan.mp3]]
+![[HoMM V OST - 62 Town - Sylvan.ogg]]

@@ -28,11 +28,11 @@ tracklist:
   - "[[Ancient Wyvern - Yuka Kitamura (🎧️ 702)]]"
   - "Nameless King"
   - "[[Abyss Watchers - Yuka Kitamura (🎧️ 696)]]"
-  - "[[Yhorm The Giant - Yuka Kitamura (🎧️ 1237)]]"
+  - "[[Yhorm The Giant - Yuka Kitamura (🎧️ 1236)]]"
   - "[[Aldritch, Devourer of Gods - Motoi Sakuraba (🎧️ 700)]]"
   - "Lorian, Elder Prince & Lothric, Younger Prince"
   - "[[Soul of Cinder - Yuka Kitamura (🎧️ 744)]]"
-  - "[[Secret Betrayal - Yuka Kitamura (🎧️ 1236)]]"
+  - "[[Secret Betrayal - Yuka Kitamura (🎧️ 1235)]]"
   - "[[Epilogue - Yuka Kitamura (🎧️ 704)]]"
   - "E3 2015 Debut Trailer"
 ---
