@@ -6,7 +6,7 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
-CoverOf: ""
+CoverOf: "[[Grasswalk - Laura Shigihara (🎧️ 2023)]]"
 Creators:
   - "[[InstrumentManiac (🎙️ 777)]]"
   - "[[Moisés Niet (🎙️ 833)]]"

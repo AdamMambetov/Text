@@ -1,9 +1,9 @@
 ---
 created: 2025-01-08T19:26:05+03:00
 aliases:
-  - Yuusha
-  - Frieren OP 1
-  - Фрирен OP 1
+  - "Yuusha"
+  - "Frieren OP 1"
+  - "Фрирен OP 1"
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""

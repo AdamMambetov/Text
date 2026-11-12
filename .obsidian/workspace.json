@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "723aa487eb98501d",
+        "id": "b815d556adb58ae5",
         "type": "tabs",
         "children": [
           {
-            "id": "0362f83bbaf0c03f",
+            "id": "03c5510f92c7f503",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Music/Albums/Jackbox Party Pack 4 OST (📀 71).md",
+                "file": "Music/Albums/Minecraft OST Alpha (📀 83).md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Jackbox Party Pack 4 OST (📀 71)"
+              "title": "Minecraft OST Alpha (📀 83)"
             }
           }
         ]
@@ -89,7 +89,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Music/albums.base",
+                "file": "Music/Albums/Minecraft OST Alpha (📀 83).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Music/Albums/Jackbox Party Pack 4 OST (📀 71).md",
+                "file": "Music/Albums/Minecraft OST Alpha (📀 83).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,8 +178,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Music/Albums/Jackbox Party Pack 4 OST (📀 71).md",
-                "linksCollapsed": true,
+                "file": "Music/Tracks/599_million_ruins - Luck Ganriki (🎧️ 1009).md",
+                "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
@@ -301,51 +301,51 @@
   },
   "active": "a6c210ff56e0c069",
   "lastOpenFiles": [
-    "Music/Tracks/Umineko no Naku Koro ni OST - umilse_1053 - 07th Expansion (🎧️ 2200).md",
-    "Music/Albums/Jackbox Party Pack 4 OST (📀 71).md",
-    "Music/Tracks/Umineko no Naku Koro ni OST - umilse_006 - 07th Expansion (🎧️ 2199).md",
-    "Music/Tracks/Umineko no Naku Koro ni OST - umilse_005 - 07th Expansion (🎧️ 2198).md",
-    "Music/Tracks/Umineko no Naku Koro ni OST - umilse_002 - 07th Expansion (🎧️ 2197).md",
-    "Music/Creators/Michael Jackson (🎙️ 1082).md",
-    "Music/Albums/Jackbox Party Pack 7 OST (📀 73).md",
-    "Music/templates/track template.md",
-    "Music/README.md",
-    "Music/templates/mark update all capture.md",
-    "Music/templates/mark update capture.md",
-    "Note/templates/mark update all capture.md",
-    "Note/templates/genre update all capture.md",
-    "Note/templates/genre update capture.md",
-    "Note/templates/mark all track notes template.md",
-    "Note/templates/generate all track notes template.md",
-    "Note/templates/mark update capture.md",
-    "Music/templates/genre update all capture.md",
-    "Music/templates/genre update capture.md",
-    "Note/templates/album update capture.md",
-    "Note/templates/playlist update all capture.md",
-    "Music/Marks/Reverse.md",
-    "Music/Marks/OST.md",
-    "Music/Marks/OP.md",
-    "Music/Marks/Live.md",
-    "Music/Marks/ED.md",
+    "Music/Tracks/Danny - C418 (🎧️ 2348).md",
+    "Music/Tracks/Sweden - C418 (🎧️ 2347).md",
+    "Music/Tracks/Chris - C418 (🎧️ 2346).md",
+    "Music/Tracks/Clark - C418 (🎧️ 2345).md",
+    "Music/Tracks/Wet Hands - C418 (🎧️ 2344).md",
+    "Music/Tracks/Dry Hands - C418 (🎧️ 2343).md",
+    "Music/Tracks/Mice on Venus - C418 (🎧️ 2342).md",
+    "Music/Tracks/Équinoxe - C418 (🎧️ 2341).md",
+    "Music/Tracks/Haggstrom - C418 (🎧️ 2340).md",
+    "Music/Tracks/Moog City - C418 (🎧️ 2339).md",
+    "Music/Tracks/Living Mice - C418 (🎧️ 2338).md",
+    "Music/Tracks/Subwoofer Lullaby - C418 (🎧️ 2337).md",
+    "Music/Tracks/Door - C418 (🎧️ 2336).md",
+    "Music/Tracks/Key - C418 (🎧️ 2335).md",
+    "Music/Albums/Geometry Dash OST (📀 86).md",
+    "Music/Creators/RobTop (🎙️ 1106).md",
+    "Music/Tracks/Time Machine - RobTop (🎧️ 2334).md",
+    "Music/Tracks/Can't Let Go - RobTop (🎧️ 2333).md",
+    "Music/Tracks/Base After Base - RobTop (🎧️ 2332).md",
+    "Music/Tracks/Dry Out - RobTop (🎧️ 2331).md",
+    "Music/Tracks/Back On Track - RobTop (🎧️ 2330).md",
+    "Music/Tracks/Stereo Madness - RobTop (🎧️ 2329).md",
+    "Music/Tracks/Main Menu - RobTop (🎧️ 2328).md",
+    "Music/Albums/Spider-Man 2000 OST (📀 85).md",
+    "Music/Tracks/Main Menu - Activision (🎧️ 2327).md",
+    "Music/Creators/Activision (🎙️ 1105).md",
+    "Music/Covers/Spider-Man 2000 OST.jpg",
+    "Music/Covers/Angry Birds OST.png",
+    "Music/Covers/Geometry Dash OST.png",
+    "Music/Covers/Minecraft OST Alpha.jpg",
+    "Music/Covers/Heroes of Might and Magic V OST.jpg",
+    "Music/Covers/Your Turn To Die OST.jpg",
+    "Music/Covers/Persona 3 Reload - It's Going Down Now.jpg",
+    "Music/Covers/Persona 3 Reload OST.jpg",
+    "Music/Covers/Animal Crossing. New Leaf OST.jpg",
+    "Music/Covers/Animal Crossing. New Leaf OST.png",
+    "Art/art.base",
+    "file:/home/adamm/Downloads/Your.Turn.To.Die.Death.Game.By.Majority.v22.08.2023/yttd/Artbook/Artbook_en.pdf.pdf",
+    "Books/«6+ способов доп.заработка .pdf",
+    "Books/2026-10_sbornik-30-reshenij_magnit.pdf",
+    "2026-10_sbornik-30-reshenij_magnit.pdf",
     "Music/bases",
     "Music/bases/related tracks.base",
     "Music/bases/albums.base",
     "Music/Genres",
-    "Music/Marks",
-    "Music/Covers/MYTH & ROID - STYX HELIX.jpg",
-    "Music/bases/playlists.base",
-    "Music/Covers/Death Note OST I.jpg",
-    "Music/Covers/Shikata Akiko - Katayoku no Tori.jpg",
-    "Music/Covers/Death Note OST I.jpg.bak",
-    "Music/bases/tracks.base",
-    "Music/Covers/Shrek 3 OST - 01 Royal Pain.jpg",
-    "Music/Covers/Shrek 1 OST.jpg",
-    "Music/Covers/Shrek 2 OST.jpg",
-    "Music/Covers/Shrek 2 OST - 05 Funkytown.jpg",
-    "Music/Covers/Shrek 2 OST - 01 Accidentally in Love.jpg",
-    "Music/Covers/Shrek 2 OST - 03 Changes.jpg",
-    "Music/Covers/Shrek 3 OST.jpg",
-    "Note/projects/unreal engine/Skyway",
-    "Note/projects/JiGit"
+    "Music/Marks"
   ]
 }

@@ -5,7 +5,7 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 2026
 Album: ""
-CoverOf: ""
+CoverOf: "[[Watery Graves (slow) - Laura Shigihara (🎧️ 2313)]]"
 Creators:
   - "[[InstrumentManiac (🎙️ 777)]]"
   - "[[Moisés Niet (🎙️ 833)]]"

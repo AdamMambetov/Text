@@ -5,7 +5,7 @@ aliases:
 Cover: "[[InstrumentManiac и Moisés Ni - Plants vs. Zombies - Loonboon.jpg]]"
 Year: 0
 Album: ""
-CoverOf: ""
+CoverOf: "[[Loonboon - Laura Shigihara (🎧️ 2021)]]"
 Creators:
   - "[[InstrumentManiac (🎙️ 777)]]"
   - "[[Moisés Niet (🎙️ 833)]]"

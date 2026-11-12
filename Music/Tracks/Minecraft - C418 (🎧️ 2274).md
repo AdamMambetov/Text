@@ -2,9 +2,9 @@
 created: 2026-10-26T13:29:00+03:00
 aliases:
   - "Minecraft"
-Cover: "[[_No Album Art.jpg]]"
-Year: 0
-Album: ""
+Cover: "[[Minecraft OST Alpha.jpg]]"
+Year: 2011
+Album: "[[Minecraft OST Alpha (📀 83)]]"
 CoverOf: ""
 Creators:
   - "[[C418 (🎙️ 1093)]]"
@@ -12,15 +12,15 @@ ListenInSec: 3066
 Marks:
   - "[[Game]]"
   - "[[OST]]"
-NumberInAlbum: 0
+NumberInAlbum: 8
 related: []
 source: ""
-SourceFile: "[[C418 - Minecraft.opus]]"
+SourceFile: "[[Minecraft OST Alpha - 08 Minecraft.mp3]]"
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`
 
-![[C418 - Minecraft.opus]]
+![[Minecraft OST Alpha - 08 Minecraft.mp3]]
 
 ## Related Tracks
 
