@@ -14,7 +14,8 @@ Marks:
   - "[[Film]]"
   - "[[OST]]"
 NumberInAlbum: 2
-related: []
+related:
+  - "[[Parade (Live Hybrid Phonon) - Susumu Hirasawa (🎧️ 2113)]]"
 SourceFile: "[[Crizz “Chisp” Boi - Susumu Hirasawa - Parade.mp3]]"
 ---
 

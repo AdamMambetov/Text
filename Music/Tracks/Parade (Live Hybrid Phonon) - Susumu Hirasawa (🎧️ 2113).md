@@ -13,7 +13,7 @@ Marks:
   - "[[Live]]"
 NumberInAlbum: 0
 related:
-  - "[[Parade - Susumu Hirasawa (🎧 2059)]]"
+  - "[[Parade - Susumu Hirasawa (🎧️ 1987)]]"
 SourceFile: "[[Susumu Hirasawa - Parade (Live Hybrid Phonon).mp3]]"
 ---
 

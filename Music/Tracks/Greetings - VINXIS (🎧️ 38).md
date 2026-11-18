@@ -4,7 +4,7 @@ aliases:
   - "Greetings"
 Cover: "[[VINXIS - Greetings.jpg]]"
 Year: 0
-Album: "[[Greetings]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[VINXIS (🎙️ 498)]]"

@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5a5444322aa82d47",
+        "id": "5e128c96d0266cbf",
         "type": "tabs",
         "children": [
           {
-            "id": "0479801c8857c3ba",
+            "id": "68ff8de9d1bf964c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Music/Albums/Naruto OST 1 (📀 15).md",
-                "mode": "preview",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Naruto OST 1 (📀 15)"
+              "title": "New tab"
             }
           }
         ]
@@ -140,8 +136,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 394.40625,
-    "collapsed": true
+    "width": 394.40625
   },
   "right": {
     "id": "fa85d1514c56552d",
@@ -158,6 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Music/Tracks/Greetings - VINXIS (🎧️ 38).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,6 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Music/Tracks/Greetings - VINXIS (🎧️ 38).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
@@ -296,34 +293,34 @@
       "obsidian-local-images-plus:Local Images Plus  0.17.1\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "0479801c8857c3ba",
+  "active": "85cdd56987990db9",
   "lastOpenFiles": [
+    "Music/Tracks/VORACITY - MYTH & ROID (🎧️ 638).md",
+    "Music/Tracks/VORACITY (TV Size) - MYTH & ROID (🎧️ 2091).md",
+    "Music/Tracks/Tea Break - Nankidai (🎧️ 2247).md",
+    "Music/Tracks/Sunflower - Post Malone (🎧️ 343).md",
+    "Music/Tracks/Steppin' Out - FLOW (🎧️ 109).md",
+    "Music/Tracks/Realize - Konomi Suzuki (🎧️ 1619).md",
+    "Music/Tracks/Realize - Sati Akura (🎧️ 216).md",
+    "Music/Tracks/Parade - Susumu Hirasawa (🎧️ 1987).md",
+    "Music/Tracks/Parade (Live Hybrid Phonon) - Susumu Hirasawa (🎧️ 2113).md",
+    "Music/Tracks/Ender Ember (TV Size) - MYTH & ROID (🎧️ 2126).md",
+    "Music/Tracks/Ender Ember - MYTH & ROID (🎧️ 2128).md",
+    "Music/Tracks/Beat It - Fall Out Boy (🎧️ 1178).md",
+    "Music/Tracks/Greetings - VINXIS (🎧️ 38).md",
+    "Note/Asper X.md",
+    "Note/zzaliasprobe.md",
+    "ZZ Alias Link Test.md",
+    "ZZ Alias Probe.md",
+    "Note/QwertyNoSuchFile123.md",
+    "Note/Я спокоен.md",
+    "Note/content/Топ лучших аниме.md",
+    "Music/Tracks/7 -seven- (TV Size) - FLOW (🎧️ 1625).md",
+    "Note/⛩️Мастер муши (аниме).md",
+    "Music/Marks/Anime.md",
+    "Music/Albums/Naruto OST 1 (📀 15).md",
     "Music/Albums/Naku Naku Solo Guitar 2.5 (📀 56).md",
     "Music/Albums/Naku Naku Solo Guitar 2 (📀 55).md",
-    "Note/Naku Naku Solo Guitar 2 — nekocapo.md",
-    "Music/Albums/Naku Naku Solo Guitar (📀 54).md",
-    "Music/Albums/Music collection from 'Umineko' for Clarinet Quintet and piano (📀 53).md",
-    "Music/Tracks/You're Welcome - Disney (🎧️ 850).md",
-    "Music/Albums/Moana OST (📀 13).md",
-    "Music/Albums/Minecraft OST Alpha (📀 83).md",
-    "Music/Albums/Kabaneri of the Iron Fortress OST (📀 12).md",
-    "Music/Albums/Jackbox Party Pack 7 OST (📀 73).md",
-    "Music/Albums/Jackbox Party Pack 6 OST (📀 75).md",
-    "Music/Albums/Jackbox Party Pack 4 OST (📀 71).md",
-    "Music/Albums/Jackbox Party Pack 2 OST (📀 72).md",
-    "Music/Albums/Heroes of Might and Magic V OST (📀 82).md",
-    "Music/Albums/Geometry Dash OST (📀 86).md",
-    "Music/Albums/Death Note OST (📀 76).md",
-    "Music/Albums/Date A Live OST (📀 11).md",
-    "Music/Albums/Dark Souls 3 OST (📀 10).md",
-    "Music/Albums/DANGANRONPA V3 OST WHITE (📀 44).md",
-    "Music/Albums/DANGANRONPA V3 OST BLACK (📀 45).md",
-    "Music/Albums/DANGANRONPA OST (📀 43).md",
-    "Music/Albums/Creepin' Towards the Door (📀 9).md",
-    "Music/Albums/Classroom of the Elite 2-3 OST (📀 69).md",
-    "Music/Albums/BPM OST (📀 40).md",
-    "Music/Albums/Bolt OST (📀 8).md",
-    "Music/Albums/Big Bang Theory OST (📀 7).md",
     "Music/bases/tracks.base",
     "Music/Covers/Wii Music Collection.png",
     "Music/Covers/TES V Skyrim OST.jpg",

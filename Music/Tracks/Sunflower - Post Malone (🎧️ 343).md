@@ -4,7 +4,7 @@ aliases:
   - "Sunflower"
 Cover: "[[Spider-Man Into the Spider-Verse OST.jpg]]"
 Year: 2018
-Album: "[[Spider-Man Into the Spider-Verse OST]]"
+Album: "[[Spider-Man Into the Spider-Verse OST (📀 24)]]"
 CoverOf: ""
 Creators:
   - "[[Post Malone (🎙️ 415)]]"

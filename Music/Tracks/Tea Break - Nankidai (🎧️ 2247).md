@@ -5,7 +5,7 @@ aliases:
   - "otayakai"
 Cover: "[[Your Turn To Die OST.jpg]]"
 Year: 2017
-Album: "[[Your Turn To Die OST — Nankidai]]"
+Album: "[[Your Turn To Die OST (📀 70)]]"
 CoverOf: ""
 Creators:
   - "[[Nankidai (🎙️ 909)]]"

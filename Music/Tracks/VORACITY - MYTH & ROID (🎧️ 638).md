@@ -16,7 +16,7 @@ Marks:
   - "[[Anime]]"
 NumberInAlbum: 0
 related:
-  - "[[VORACITY (TV Size) - MYTH & ROID]]"
+  - "[[VORACITY (TV Size) - MYTH & ROID (🎧️ 2091)]]"
 source: ""
 SourceFile: "[[MYTH & ROID - VORACITY.mp3]]"
 ---

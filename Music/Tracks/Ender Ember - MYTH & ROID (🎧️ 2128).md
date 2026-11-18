@@ -16,7 +16,7 @@ Marks:
   - "[[Anime]]"
 NumberInAlbum: 0
 related:
-  - "[[Ender Ember (TV Size) - MYTH & ROID (🎧️ 2205)]]"
+  - "[[Ender Ember (TV Size) - MYTH & ROID (🎧️ 2126)]]"
 SourceFile: "[[MYTH & ROID feat. TK - Ender Ember.opus]]"
 ---
 
