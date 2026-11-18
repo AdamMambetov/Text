@@ -8,14 +8,14 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[MYTH & ROID (🎙️ 382)]]"
+Genres: []
 ListenInSec: 620
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[MYTH & ROID - HYDRA.mp3]]"
-Genres: []
-Marks:
-  - "[[Anime]]"
 sources:
   - "[[Повелитель (🇯🇵📺 441)|Повелитель|ending:2]]"
 ---

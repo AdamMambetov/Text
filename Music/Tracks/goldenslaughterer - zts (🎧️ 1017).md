@@ -10,6 +10,8 @@ CoverOf: ""
 Creators:
   - "[[zts (🎙️ 15)]]"
 ListenInSec: 3817
+Marks:
+  - "[[OST]]"
 NumberInAlbum: 24
 related: []
 SourceFile: "[[Umineko no Naku Koro ni OST - 024 Золотой душегуб.ogg]]"

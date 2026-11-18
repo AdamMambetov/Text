@@ -9,6 +9,8 @@ CoverOf: ""
 Creators:
   - "[[xaki (🎙️ 12)]]"
 ListenInSec: 894
+Marks:
+  - "[[OST]]"
 NumberInAlbum: 190
 related:
   - "[[en-counse (piano remaster) - xaki (🎧️ 1943)]]"

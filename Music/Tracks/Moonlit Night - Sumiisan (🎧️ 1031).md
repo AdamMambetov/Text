@@ -10,6 +10,8 @@ CoverOf: ""
 Creators:
   - "[[Sumiisan (🎙️ 2)]]"
 ListenInSec: 705
+Marks:
+  - "[[OST]]"
 NumberInAlbum: 12
 related: []
 source: ""

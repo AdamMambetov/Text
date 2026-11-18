@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[dai (🎙️ 3)]]"
 ListenInSec: 511
+Marks:
+  - "[[OST]]"
 NumberInAlbum: 174
 related:
   - "[[Puppet Show - dai (🎧️ 957)]]"

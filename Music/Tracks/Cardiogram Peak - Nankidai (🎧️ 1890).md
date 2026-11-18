@@ -10,6 +10,8 @@ CoverOf: ""
 Creators:
   - "[[Nankidai (🎙️ 909)]]"
 ListenInSec: 8167
+Marks:
+  - "[[OST]]"
 NumberInAlbum: 12
 related:
   - "[[Cardiogram Prelude - Nankidai (🎧️ 1889)]]"

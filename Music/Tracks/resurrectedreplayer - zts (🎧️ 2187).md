@@ -10,6 +10,8 @@ CoverOf: ""
 Creators:
   - "[[zts (🎙️ 15)]]"
 ListenInSec: 725
+Marks:
+  - "[[OST]]"
 NumberInAlbum: 128
 related: []
 source: ""

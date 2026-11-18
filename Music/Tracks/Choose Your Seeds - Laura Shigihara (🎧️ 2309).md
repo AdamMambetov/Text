@@ -9,6 +9,8 @@ CoverOf: ""
 Creators:
   - "[[Laura Shigihara (🎙️ 1026)]]"
 ListenInSec: 18
+Marks:
+  - "[[OST]]"
 NumberInAlbum: 2
 related:
   - "[[Choose Your Seeds (Game Version) - Laura Shigihara (🎧️ 2316)]]"

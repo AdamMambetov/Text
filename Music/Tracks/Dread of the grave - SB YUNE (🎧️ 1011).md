@@ -10,6 +10,8 @@ CoverOf: ""
 Creators:
   - "[[SB YUNE (🎙️ 27)]]"
 ListenInSec: 692
+Marks:
+  - "[[OST]]"
 NumberInAlbum: 53
 related:
   - "[[Dread of the grave -rhythm ver- - SB YUNE (🎧️ 1034)]]"

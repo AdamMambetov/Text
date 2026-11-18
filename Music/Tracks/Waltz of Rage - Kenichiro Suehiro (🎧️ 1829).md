@@ -11,6 +11,7 @@ Creators:
 ListenInSec: 458
 Marks:
   - "[[Anime]]"
+  - "[[OST]]"
 NumberInAlbum: 41
 related: []
 SourceFile: "[[ReZero 1 OST - 41 Waltz of Rage.mp3]]"

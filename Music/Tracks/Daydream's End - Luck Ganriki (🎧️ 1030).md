@@ -12,6 +12,8 @@ Creators:
   - "[[Luck Ganriki (🎙️ 4)]]"
   - "[[Kino Nei (🎙️ 17)]]"
 ListenInSec: 667
+Marks:
+  - "[[OST]]"
 NumberInAlbum: 57
 related: []
 source: ""

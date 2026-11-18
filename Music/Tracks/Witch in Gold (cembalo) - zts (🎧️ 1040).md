@@ -10,6 +10,8 @@ CoverOf: ""
 Creators:
   - "[[zts (🎙️ 15)]]"
 ListenInSec: 1435
+Marks:
+  - "[[OST]]"
 NumberInAlbum: 17
 related:
   - "[[Worldend - dai (🎧️ 988)]]"

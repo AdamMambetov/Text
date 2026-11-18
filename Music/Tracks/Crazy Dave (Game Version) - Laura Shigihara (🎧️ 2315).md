@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[Laura Shigihara (🎙️ 1026)]]"
 ListenInSec: 105
+Marks:
+  - "[[OST]]"
 NumberInAlbum: 11
 related:
   - "[[Crazy Dave - Laura Shigihara (🎧️ 2022)]]"

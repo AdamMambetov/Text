@@ -13,6 +13,8 @@ Creators:
   - "[[pre-holder (🎙️ 5)]]"
   - "[[Motoki Zakuro (🎙️ 16)]]"
 ListenInSec: 491
+Marks:
+  - "[[OST]]"
 NumberInAlbum: 160
 related:
   - "[[birth_of_new_witch (inst) - Luck Ganriki (🎧️ 940)]]"

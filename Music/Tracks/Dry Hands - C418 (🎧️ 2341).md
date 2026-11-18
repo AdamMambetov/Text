@@ -9,6 +9,8 @@ CoverOf: ""
 Creators:
   - "[[C418 (🎙️ 1093)]]"
 ListenInSec: 68
+Marks:
+  - "[[OST]]"
 NumberInAlbum: 10
 related: []
 source: ""

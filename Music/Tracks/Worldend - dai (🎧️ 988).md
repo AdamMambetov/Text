@@ -10,6 +10,8 @@ CoverOf: ""
 Creators:
   - "[[dai (🎙️ 3)]]"
 ListenInSec: 1010
+Marks:
+  - "[[OST]]"
 NumberInAlbum: 35
 related:
   - "[[worldend (bp) - zts (🎧️ 1025)]]"

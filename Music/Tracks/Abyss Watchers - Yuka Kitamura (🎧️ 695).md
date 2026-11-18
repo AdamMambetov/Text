@@ -9,6 +9,8 @@ CoverOf: ""
 Creators:
   - "[[Yuka Kitamura (🎙️ 29)]]"
 ListenInSec: 113
+Marks:
+  - "[[OST]]"
 NumberInAlbum: 10
 related: []
 source: ""

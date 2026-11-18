@@ -10,6 +10,8 @@ CoverOf: ""
 Creators:
   - "[[Luck Ganriki (🎙️ 4)]]"
 ListenInSec: 847
+Marks:
+  - "[[OST]]"
 NumberInAlbum: 78
 related:
   - "[[String Trio 600 Million in F Minor - Luck Ganriki (🎧️ 982)]]"

@@ -10,6 +10,8 @@ CoverOf: ""
 Creators:
   - "[[xaki (🎙️ 12)]]"
 ListenInSec: 554
+Marks:
+  - "[[OST]]"
 NumberInAlbum: 192
 related:
   - "[[Revelations - xaki (🎧️ 2194)]]"

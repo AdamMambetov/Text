@@ -11,6 +11,7 @@ Creators:
 ListenInSec: 802
 Marks:
   - "[[Anime]]"
+  - "[[OST]]"
 NumberInAlbum: 3
 related: []
 SourceFile: "[[Shiki OST - 04 13th Floor.mp3]]"

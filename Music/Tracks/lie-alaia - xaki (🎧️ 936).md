@@ -10,6 +10,8 @@ CoverOf: ""
 Creators:
   - "[[xaki (🎙️ 12)]]"
 ListenInSec: 1832
+Marks:
+  - "[[OST]]"
 NumberInAlbum: 171
 related:
   - "[[lie-alaia (piano remaster) - xaki (🎧️ 1942)]]"

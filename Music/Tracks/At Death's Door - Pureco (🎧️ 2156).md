@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[Pureco (🎙️ 1067)]]"
 ListenInSec: 266
+Marks:
+  - "[[OST]]"
 NumberInAlbum: 14
 related: []
 source: ""

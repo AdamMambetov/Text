@@ -10,6 +10,8 @@ CoverOf: ""
 Creators:
   - "[[Kitaouji Mizuki (🎙️ 13)]]"
 ListenInSec: 4262
+Marks:
+  - "[[OST]]"
 NumberInAlbum: 114
 related:
   - "[[Black Liliana - U2 Akiyama (🎧️ 1037)]]"

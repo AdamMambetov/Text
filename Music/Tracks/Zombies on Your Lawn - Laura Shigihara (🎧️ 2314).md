@@ -10,6 +10,8 @@ CoverOf: ""
 Creators:
   - "[[Laura Shigihara (🎙️ 1026)]]"
 ListenInSec: 159
+Marks:
+  - "[[OST]]"
 NumberInAlbum: 10
 related:
   - "[[Zombies on Your Lawn (YT Version) - Laura Shigihara (🎧️ 2018)]]"

@@ -10,6 +10,8 @@ CoverOf: ""
 Creators:
   - "[[Nankidai (🎙️ 909)]]"
 ListenInSec: 1780
+Marks:
+  - "[[OST]]"
 NumberInAlbum: 7
 related:
   - "[[Day of Tragedy B - Nankidai (🎧️ 2209)]]"

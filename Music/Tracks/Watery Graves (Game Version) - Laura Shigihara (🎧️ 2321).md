@@ -9,6 +9,8 @@ CoverOf: ""
 Creators:
   - "[[Laura Shigihara (🎙️ 1026)]]"
 ListenInSec: 220
+Marks:
+  - "[[OST]]"
 NumberInAlbum: 17
 related:
   - "[[Watery Graves (slow) - Laura Shigihara (🎧️ 2311)]]"

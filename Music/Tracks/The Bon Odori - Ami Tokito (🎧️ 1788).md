@@ -10,6 +10,8 @@ Creators:
   - "[[Ami Tokito (🎙️ 998)]]"
   - "[[Tsunku (🎙️ 981)]]"
 ListenInSec: 1440
+Marks:
+  - "[[OST]]"
 NumberInAlbum: 0
 related: []
 source: ""

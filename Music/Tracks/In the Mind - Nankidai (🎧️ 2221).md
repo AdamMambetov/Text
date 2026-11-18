@@ -10,6 +10,8 @@ CoverOf: ""
 Creators:
   - "[[Nankidai (🎙️ 909)]]"
 ListenInSec: -44
+Marks:
+  - "[[OST]]"
 NumberInAlbum: 75
 related: []
 source: ""

@@ -10,6 +10,8 @@ CoverOf: ""
 Creators:
   - "[[xaki (🎙️ 12)]]"
 ListenInSec: 1508
+Marks:
+  - "[[OST]]"
 NumberInAlbum: 177
 related: []
 source: ""

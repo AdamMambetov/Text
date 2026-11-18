@@ -13,6 +13,8 @@ Creators:
   - "[[cap (🎙️ 19)]]"
   - "[[pyon (🎙️ 20)]]"
 ListenInSec: 1039
+Marks:
+  - "[[OST]]"
 NumberInAlbum: 179
 related:
   - "[[Song Without a Name (ver. sakura ED size) - sunny (🎧️ 953)]]"

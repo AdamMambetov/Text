@@ -10,6 +10,8 @@ CoverOf: ""
 Creators:
   - "[[Luck Ganriki (🎙️ 4)]]"
 ListenInSec: 551
+Marks:
+  - "[[OST]]"
 NumberInAlbum: 117
 related:
   - "[[Organ Short 200 Million in C Minor - Luck Ganriki (🎧️ 1020)]]"

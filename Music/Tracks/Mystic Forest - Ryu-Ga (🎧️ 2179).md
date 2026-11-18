@@ -10,6 +10,8 @@ CoverOf: ""
 Creators:
   - "[[Ryu-Ga (🎙️ 1068)]]"
 ListenInSec: 255
+Marks:
+  - "[[OST]]"
 NumberInAlbum: 91
 related: []
 source: ""

@@ -10,6 +10,8 @@ CoverOf: ""
 Creators:
   - "[[xaki (🎙️ 12)]]"
 ListenInSec: 2366
+Marks:
+  - "[[OST]]"
 NumberInAlbum: 169
 related: []
 SourceFile: "[[Umineko no Naku Koro ni OST - 169 Продолжение сказки.ogg]]"

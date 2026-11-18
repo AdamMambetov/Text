@@ -10,6 +10,8 @@ CoverOf: ""
 Creators:
   - "[[Nankidai (🎙️ 909)]]"
 ListenInSec: 472
+Marks:
+  - "[[OST]]"
 NumberInAlbum: 50
 related: []
 SourceFile: "[[Your Turn To Die OST - 50 Rythme Cardiogram.ogg]]"

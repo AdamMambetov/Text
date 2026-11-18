@@ -13,6 +13,7 @@ Creators:
 ListenInSec: 1655
 Marks:
   - "[[Anime]]"
+  - "[[OST]]"
 NumberInAlbum: 18
 related:
   - "[[Kuchizuke - BUCK-TICK (🎧️ 1478)]]"

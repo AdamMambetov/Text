@@ -10,6 +10,8 @@ CoverOf: ""
 Creators:
   - "[[dai (🎙️ 3)]]"
 ListenInSec: 605
+Marks:
+  - "[[OST]]"
 NumberInAlbum: 8
 related:
   - "[[Moshimo Boku ga -hope- - dai (🎧️ 2151)]]"

@@ -14,6 +14,8 @@ Creators:
   - "[[cap (🎙️ 19)]]"
   - "[[pyon (🎙️ 20)]]"
 ListenInSec: 875
+Marks:
+  - "[[OST]]"
 NumberInAlbum: 180
 related:
   - "[[The End Of The World ~piano inst ver.~ - xaki (🎧️ 1940)]]"

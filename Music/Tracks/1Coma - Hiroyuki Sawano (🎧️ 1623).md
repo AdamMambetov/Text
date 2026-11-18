@@ -11,6 +11,7 @@ Creators:
 ListenInSec: 4331
 Marks:
   - "[[Anime]]"
+  - "[[OST]]"
 NumberInAlbum: 1
 related: []
 SourceFile: "[[Kabaneri of the Iron Fortress OST - 1Coma.mp3]]"

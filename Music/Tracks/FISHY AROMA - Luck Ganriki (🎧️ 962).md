@@ -12,6 +12,8 @@ Creators:
   - "[[E. Kida (🎙️ 9)]]"
   - "[[Kino Nei (🎙️ 17)]]"
 ListenInSec: 1011
+Marks:
+  - "[[OST]]"
 NumberInAlbum: 161
 related:
   - "[[Fishy Aroma - Luck Ganriki (🎧️ 1001)]]"

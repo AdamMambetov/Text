@@ -9,6 +9,8 @@ CoverOf: ""
 Creators:
   - "[[Masafumi Takada (🎙️ 790)]]"
 ListenInSec: 304
+Marks:
+  - "[[OST]]"
 NumberInAlbum: 12
 related: []
 SourceFile: "[[Danganrnopa V3 OST White - 12 Beautiful Lie.mp3]]"

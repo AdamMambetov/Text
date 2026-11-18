@@ -14,6 +14,8 @@ Creators:
   - "[[pyon (🎙️ 20)]]"
   - "[[Sakura Kanae (🎙️ 21)]]"
 ListenInSec: 346
+Marks:
+  - "[[OST]]"
 NumberInAlbum: 186
 related:
   - "[[Song Without a Name (inst. ver) - sunny (🎧️ 963)]]"

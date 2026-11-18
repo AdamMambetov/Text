@@ -10,6 +10,8 @@ CoverOf: ""
 Creators:
   - "[[dai (🎙️ 3)]]"
 ListenInSec: 460
+Marks:
+  - "[[OST]]"
 NumberInAlbum: 47
 related:
   - "[[Answer_short - dai (🎧️ 2168)]]"

@@ -10,6 +10,8 @@ CoverOf: ""
 Creators:
   - "[[Luck Ganriki (🎙️ 4)]]"
 ListenInSec: 3045
+Marks:
+  - "[[OST]]"
 NumberInAlbum: 70
 related:
   - "[[599_million_ruins - Luck Ganriki (🎧️ 1008)]]"

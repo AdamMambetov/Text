@@ -10,6 +10,8 @@ CoverOf: ""
 Creators:
   - "[[xaki (🎙️ 12)]]"
 ListenInSec: 3590
+Marks:
+  - "[[OST]]"
 NumberInAlbum: 134
 related:
   - "[[7-weights 〜piano inst ver.〜 - xaki (🎧️ 1959)]]"

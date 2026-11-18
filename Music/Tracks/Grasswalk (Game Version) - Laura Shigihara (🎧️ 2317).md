@@ -10,6 +10,8 @@ CoverOf: ""
 Creators:
   - "[[Laura Shigihara (🎙️ 1026)]]"
 ListenInSec: 300
+Marks:
+  - "[[OST]]"
 NumberInAlbum: 13
 related:
   - "[[Grasswalk - Laura Shigihara (🎧️ 2021)]]"

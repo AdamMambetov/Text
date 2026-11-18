@@ -10,6 +10,8 @@ CoverOf: ""
 Creators:
   - "[[zts (🎙️ 15)]]"
 ListenInSec: 7108
+Marks:
+  - "[[OST]]"
 NumberInAlbum: 39
 related: []
 SourceFile: "[[Umineko no Naku Koro ni OST - 039 Мертвый угол.ogg]]"

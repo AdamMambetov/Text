@@ -10,6 +10,8 @@ CoverOf: ""
 Creators:
   - "[[Kitaouji Mizuki (🎙️ 13)]]"
 ListenInSec: 572
+Marks:
+  - "[[OST]]"
 NumberInAlbum: 153
 related: []
 source: ""

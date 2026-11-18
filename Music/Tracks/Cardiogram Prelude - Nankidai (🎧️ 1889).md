@@ -10,6 +10,8 @@ CoverOf: ""
 Creators:
   - "[[Nankidai (🎙️ 909)]]"
 ListenInSec: 1905
+Marks:
+  - "[[OST]]"
 NumberInAlbum: 11
 related:
   - "[[Cardiogram Peak - Nankidai (🎧️ 1890)]]"

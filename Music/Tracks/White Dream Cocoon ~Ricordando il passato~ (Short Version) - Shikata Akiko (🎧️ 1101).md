@@ -12,6 +12,8 @@ CoverOf: ""
 Creators:
   - "[[Shikata Akiko (🎙️ 22)]]"
 ListenInSec: 688
+Marks:
+  - "[[OST]]"
 NumberInAlbum: 240
 related:
   - "[[Byakumu no Mayu ~Ricordando il passato~ - Shikata Akiko (🎧️ 1990)]]"

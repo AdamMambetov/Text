@@ -9,6 +9,8 @@ CoverOf: ""
 Creators:
   - "[[Tsunku (🎙️ 981)]]"
 ListenInSec: 1202
+Marks:
+  - "[[OST]]"
 NumberInAlbum: 0
 related: []
 source: ""

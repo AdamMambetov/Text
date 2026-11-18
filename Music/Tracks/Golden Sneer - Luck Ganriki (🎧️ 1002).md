@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[Luck Ganriki (🎙️ 4)]]"
 ListenInSec: 6184
+Marks:
+  - "[[OST]]"
 NumberInAlbum: 44
 related: []
 SourceFile: "[[Umineko no Naku Koro ni OST - 044 Золотая насмешка.ogg]]"

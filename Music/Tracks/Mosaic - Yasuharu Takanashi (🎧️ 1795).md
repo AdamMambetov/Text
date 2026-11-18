@@ -11,6 +11,7 @@ Creators:
 ListenInSec: 429
 Marks:
   - "[[Anime]]"
+  - "[[OST]]"
 NumberInAlbum: 7
 related: []
 SourceFile: "[[Shiki OST - 07 Mosaic.mp3]]"

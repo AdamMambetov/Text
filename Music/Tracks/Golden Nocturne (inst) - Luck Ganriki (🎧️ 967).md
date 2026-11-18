@@ -10,6 +10,8 @@ CoverOf: ""
 Creators:
   - "[[Luck Ganriki (🎙️ 4)]]"
 ListenInSec: 741
+Marks:
+  - "[[OST]]"
 NumberInAlbum: 172
 related: []
 source: ""

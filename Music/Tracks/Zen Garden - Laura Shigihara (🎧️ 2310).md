@@ -9,6 +9,8 @@ CoverOf: ""
 Creators:
   - "[[Laura Shigihara (🎙️ 1026)]]"
 ListenInSec: 60
+Marks:
+  - "[[OST]]"
 NumberInAlbum: 6
 related:
   - "[[Zen Garden (Game Version) - Laura Shigihara (🎧️ 2320)]]"

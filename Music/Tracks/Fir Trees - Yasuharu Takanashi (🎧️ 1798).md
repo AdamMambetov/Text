@@ -11,6 +11,7 @@ Creators:
 ListenInSec: 1469
 Marks:
   - "[[Anime]]"
+  - "[[OST]]"
 NumberInAlbum: 12
 related: []
 SourceFile: "[[Shiki OST - 12 Fir Trees.mp3]]"

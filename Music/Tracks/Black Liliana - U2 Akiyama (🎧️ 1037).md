@@ -10,6 +10,8 @@ CoverOf: ""
 Creators:
   - "[[U2 Akiyama (🎙️ 26)]]"
 ListenInSec: 14123
+Marks:
+  - "[[OST]]"
 NumberInAlbum: 47
 related:
   - "[[Waltz Op.34 - Kitaouji Mizuki (🎧️ 965)]]"

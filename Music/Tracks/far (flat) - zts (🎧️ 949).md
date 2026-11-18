@@ -10,6 +10,8 @@ CoverOf: ""
 Creators:
   - "[[zts (🎙️ 15)]]"
 ListenInSec: 721
+Marks:
+  - "[[OST]]"
 NumberInAlbum: 173
 related:
   - "[[far - zts (🎧️ 1038)]]"

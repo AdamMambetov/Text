@@ -10,6 +10,8 @@ CoverOf: ""
 Creators:
   - "[[Nankidai (🎙️ 909)]]"
 ListenInSec: 414
+Marks:
+  - "[[OST]]"
 NumberInAlbum: 80
 related: []
 SourceFile: "[[Your Turn To Die OST - 80 Cardiogram Rise.ogg]]"

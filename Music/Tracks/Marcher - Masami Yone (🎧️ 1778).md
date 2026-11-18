@@ -11,6 +11,8 @@ Creators:
   - "[[Masami Yone (🎙️ 982)]]"
   - "[[Daisuke Shiiba (🎙️ 983)]]"
 ListenInSec: 560
+Marks:
+  - "[[OST]]"
 NumberInAlbum: 0
 related: []
 source: ""

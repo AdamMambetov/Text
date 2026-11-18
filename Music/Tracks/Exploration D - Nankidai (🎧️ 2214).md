@@ -10,6 +10,8 @@ CoverOf: ""
 Creators:
   - "[[Nankidai (🎙️ 909)]]"
 ListenInSec: 7299
+Marks:
+  - "[[OST]]"
 NumberInAlbum: 45
 related: []
 SourceFile: "[[Your Turn To Die OST - 45 Exploration D.ogg]]"

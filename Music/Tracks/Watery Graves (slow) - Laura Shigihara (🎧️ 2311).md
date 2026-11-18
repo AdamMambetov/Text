@@ -9,6 +9,8 @@ CoverOf: ""
 Creators:
   - "[[Laura Shigihara (🎙️ 1026)]]"
 ListenInSec: 121
+Marks:
+  - "[[OST]]"
 NumberInAlbum: 7
 related:
   - "[[Watery Graves (Game Version) - Laura Shigihara (🎧️ 2321)]]"

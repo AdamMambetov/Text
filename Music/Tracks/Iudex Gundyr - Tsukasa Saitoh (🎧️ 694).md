@@ -9,6 +9,8 @@ CoverOf: ""
 Creators:
   - "[[Tsukasa Saitoh (🎙️ 30)]]"
 ListenInSec: 555
+Marks:
+  - "[[OST]]"
 NumberInAlbum: 6
 related: []
 source: ""

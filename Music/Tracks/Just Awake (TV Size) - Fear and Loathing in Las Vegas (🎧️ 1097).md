@@ -8,14 +8,14 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Fear and Loathing in Las Vegas (🎙️ 305)]]"
+Genres: []
 ListenInSec: 528
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Fear, and Loathing in Las Vegas - Just Awake (TV Size).mp3]]"
-Genres: []
-Marks:
-  - "[[Anime]]"
 sources:
   - "[[Охотник х Охотник (2011) (🇯🇵📺 819)|Охотник х Охотник (2011)|ending:1]]"
 ---

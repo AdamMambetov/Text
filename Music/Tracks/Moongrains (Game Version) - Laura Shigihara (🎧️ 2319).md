@@ -10,6 +10,8 @@ CoverOf: ""
 Creators:
   - "[[Laura Shigihara (🎙️ 1026)]]"
 ListenInSec: 193
+Marks:
+  - "[[OST]]"
 NumberInAlbum: 15
 related:
   - "[[Moongrains - Laura Shigihara (🎧️ 2020)]]"

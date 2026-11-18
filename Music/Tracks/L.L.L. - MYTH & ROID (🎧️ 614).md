@@ -9,14 +9,14 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[MYTH & ROID (🎙️ 382)]]"
+Genres: []
 ListenInSec: 1510
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[MYTH & ROID - L.L.L.mp3]]"
-Genres: []
-Marks:
-  - "[[Anime]]"
 sources:
   - "[[Повелитель (🇯🇵📺 441)|Повелитель|ending:1]]"
 ---

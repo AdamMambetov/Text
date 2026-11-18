@@ -10,6 +10,8 @@ CoverOf: ""
 Creators:
   - "[[U2 Akiyama (🎙️ 26)]]"
 ListenInSec: 519
+Marks:
+  - "[[OST]]"
 NumberInAlbum: 31
 related: []
 source: ""

@@ -13,6 +13,8 @@ Creators:
   - "[[cap (🎙️ 19)]]"
   - "[[pyon (🎙️ 20)]]"
 ListenInSec: 644
+Marks:
+  - "[[OST]]"
 NumberInAlbum: 170
 related:
   - "[[Song Without a Name (inst. ver) - sunny (🎧️ 963)]]"

@@ -10,6 +10,8 @@ CoverOf: ""
 Creators:
   - "[[dai (🎙️ 3)]]"
 ListenInSec: 2419
+Marks:
+  - "[[OST]]"
 NumberInAlbum: 74
 related: []
 SourceFile: "[[Umineko no Naku Koro ni OST - 074 Танец лунных кроликов.ogg]]"

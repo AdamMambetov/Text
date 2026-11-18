@@ -10,6 +10,8 @@ CoverOf: ""
 Creators:
   - "[[Arai Eriya (🎙️ 25)]]"
 ListenInSec: 4500
+Marks:
+  - "[[OST]]"
 NumberInAlbum: 16
 related: []
 SourceFile: "[[Umineko no Naku Koro ni OST - 016 Стойкость.ogg]]"

@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[dai (🎙️ 3)]]"
 ListenInSec: 509
+Marks:
+  - "[[OST]]"
 NumberInAlbum: 176
 related:
   - "[[Toy Box - dai (🎧️ 975)]]"

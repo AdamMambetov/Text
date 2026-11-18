@@ -11,6 +11,8 @@ Creators:
   - "[[Luck Ganriki (🎙️ 4)]]"
   - "[[Kino Nei (🎙️ 17)]]"
 ListenInSec: 732
+Marks:
+  - "[[OST]]"
 NumberInAlbum: 104
 related:
   - "[[Happy Maria! (Instrumental) - Luck Ganriki (🎧️ 1023)]]"

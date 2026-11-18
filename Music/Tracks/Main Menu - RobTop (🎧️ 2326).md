@@ -9,6 +9,8 @@ CoverOf: ""
 Creators:
   - "[[RobTop (🎙️ 1106)]]"
 ListenInSec: 29
+Marks:
+  - "[[OST]]"
 NumberInAlbum: 1
 related: []
 source: ""

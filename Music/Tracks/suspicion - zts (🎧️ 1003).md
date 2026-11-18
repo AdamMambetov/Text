@@ -10,6 +10,8 @@ CoverOf: ""
 Creators:
   - "[[zts (🎙️ 15)]]"
 ListenInSec: 4953
+Marks:
+  - "[[OST]]"
 NumberInAlbum: 27
 related: []
 SourceFile: "[[Umineko no Naku Koro ni OST - 027 Подозрение.ogg]]"

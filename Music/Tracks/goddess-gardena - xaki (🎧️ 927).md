@@ -10,6 +10,8 @@ CoverOf: ""
 Creators:
   - "[[xaki (🎙️ 12)]]"
 ListenInSec: 1599
+Marks:
+  - "[[OST]]"
 NumberInAlbum: 181
 related: []
 SourceFile: "[[Umineko no Naku Koro ni OST - 181 Богиня из сада.ogg]]"

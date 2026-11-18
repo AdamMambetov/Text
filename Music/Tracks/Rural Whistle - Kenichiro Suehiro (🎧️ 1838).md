@@ -12,6 +12,7 @@ Creators:
 ListenInSec: 888
 Marks:
   - "[[Anime]]"
+  - "[[OST]]"
 NumberInAlbum: 26
 related: []
 SourceFile: "[[ReZero 2 OST 1 - 26 Rural Whistle.mp3]]"

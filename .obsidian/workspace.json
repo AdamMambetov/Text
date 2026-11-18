@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3f923d0741b0a3ca",
+        "id": "5a5444322aa82d47",
         "type": "tabs",
         "children": [
           {
-            "id": "b3be79ecc7448521",
+            "id": "0479801c8857c3ba",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -292,8 +292,16 @@
       "obsidian-local-images-plus:Local Images Plus  0.17.1\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "b3be79ecc7448521",
+  "active": "85cdd56987990db9",
   "lastOpenFiles": [
+    "Music/Albums/Spider-Man 2 The Game OST (📀 74).md",
+    "Music/Albums/ReZero 3 OST (📀 48).md",
+    "Music/Albums/ReZero 2 OST 1 (📀 47).md",
+    "Music/Albums/Jackbox Party Pack 6 OST (📀 75).md",
+    "Music/Albums/Jackbox Party Pack 4 OST (📀 71).md",
+    "Music/Albums/Jackbox Party Pack 2 OST (📀 72).md",
+    "Note/templates/playlist update all capture.md",
+    "Music/Albums/8 Mile OST (📀 2).md",
     "Music/bases/tracks.base",
     "Music/Tracks/2 типа людей - Макс Корж (🎧️ 1159).md",
     "Music/Tracks/(can you) understand me - Komiya Mao (🎧️ 492).md",
@@ -316,13 +324,6 @@
     "Music/Tracks/Terrain - Dirt - Paul Romero (🎧️ 2357).md",
     "Music/Tracks/Battle - Sylvan - Paul Romero (🎧️ 2356).md",
     "Music/Tracks/AI Theme - Necropolis - Paul Romero (🎧️ 2355).md",
-    "Music/Tracks/AI Theme - Haven - Paul Romero (🎧️ 2354).md",
-    "Music/Tracks/AI Theme - Academy - Paul Romero (🎧️ 2353).md",
-    "Music/Tracks/Heroes - Isabel - Paul Romero (🎧️ 2351).md",
-    "Music/Tracks/Heroes - Agrael - Paul Romero (🎧️ 2352).md",
-    "Music/Tracks/Campaign - Necropolis - Paul Romero (🎧️ 2350).md",
-    "Music/Tracks/Campaign - Haven - Paul Romero (🎧️ 2349).md",
-    "Music/Tracks/Main Menu Theme - Paul Romero (🎧️ 2348).md",
     "Music/Covers/Rhythm Tengoku OST.jpg",
     "Music/Covers/Angry Birds OST.png",
     "Music/Covers/Spider-Man 2000 OST.jpg",

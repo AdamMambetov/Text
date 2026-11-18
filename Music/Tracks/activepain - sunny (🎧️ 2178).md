@@ -12,6 +12,8 @@ Creators:
   - "[[xaki (🎙️ 12)]]"
   - "[[Motoki Zakuro (🎙️ 16)]]"
 ListenInSec: 532
+Marks:
+  - "[[OST]]"
 NumberInAlbum: 83
 related: []
 source: ""

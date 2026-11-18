@@ -10,6 +10,8 @@ CoverOf: ""
 Creators:
   - "[[Laura Shigihara (🎙️ 1026)]]"
 ListenInSec: 1281
+Marks:
+  - "[[OST]]"
 NumberInAlbum: 0
 related:
   - "[[Loonboon (Game Version) - Laura Shigihara (🎧️ 2318)]]"

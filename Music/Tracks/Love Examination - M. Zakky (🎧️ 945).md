@@ -10,6 +10,8 @@ CoverOf: ""
 Creators:
   - "[[M. Zakky (🎙️ 11)]]"
 ListenInSec: 1047
+Marks:
+  - "[[OST]]"
 NumberInAlbum: 137
 related: []
 SourceFile: "[[Umineko no Naku Koro ni OST - 137 Испытание любви.ogg]]"

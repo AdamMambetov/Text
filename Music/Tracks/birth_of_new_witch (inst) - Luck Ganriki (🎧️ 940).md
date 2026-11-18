@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[Luck Ganriki (🎙️ 4)]]"
 ListenInSec: 621
+Marks:
+  - "[[OST]]"
 NumberInAlbum: 146
 related:
   - "[[birth of new witch (Short Ver) - Luck Ganriki (🎧️ 971)]]"

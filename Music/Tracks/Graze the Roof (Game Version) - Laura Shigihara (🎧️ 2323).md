@@ -9,6 +9,8 @@ CoverOf: ""
 Creators:
   - "[[Laura Shigihara (🎙️ 1026)]]"
 ListenInSec: 228
+Marks:
+  - "[[OST]]"
 NumberInAlbum: 19
 related:
   - "[[Graze the Roof - Laura Shigihara (🎧️ 2313)]]"

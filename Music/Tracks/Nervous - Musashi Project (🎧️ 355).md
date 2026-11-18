@@ -11,6 +11,7 @@ Creators:
 ListenInSec: -106
 Marks:
   - "[[Anime]]"
+  - "[[OST]]"
 NumberInAlbum: 6
 related: []
 source:

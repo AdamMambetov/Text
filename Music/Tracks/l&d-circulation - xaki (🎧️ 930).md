@@ -10,6 +10,8 @@ CoverOf: ""
 Creators:
   - "[[xaki (🎙️ 12)]]"
 ListenInSec: 3109
+Marks:
+  - "[[OST]]"
 NumberInAlbum: 163
 related:
   - "[[l&d-circulation ~guitar inst ver.~ - xaki (🎧️ 1960)]]"

@@ -14,6 +14,8 @@ Creators:
   - "[[xaki (🎙️ 12)]]"
   - "[[Kimura Kazumi (🎙️ 28)]]"
 ListenInSec: 3147
+Marks:
+  - "[[OST]]"
 NumberInAlbum: 58
 related:
   - "[[Melody (inst. ver) - sunny (🎧️ 984)]]"

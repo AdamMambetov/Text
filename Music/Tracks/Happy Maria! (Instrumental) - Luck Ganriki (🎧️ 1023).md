@@ -10,6 +10,8 @@ CoverOf: ""
 Creators:
   - "[[Luck Ganriki (🎙️ 4)]]"
 ListenInSec: 522
+Marks:
+  - "[[OST]]"
 NumberInAlbum: 96
 related:
   - "[[Happy Maria! - Luck Ganriki (🎧️ 1010)]]"

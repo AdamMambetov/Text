@@ -11,6 +11,7 @@ Creators:
 ListenInSec: 11592
 Marks:
   - "[[Anime]]"
+  - "[[OST]]"
 NumberInAlbum: 16
 related: []
 SourceFile: "[[Shiki OST - 22 SHI-KI.mp3]]"

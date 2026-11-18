@@ -9,6 +9,8 @@ CoverOf: ""
 Creators:
   - "[[Paul Romero (🎙️ 771)]]"
 ListenInSec: 65
+Marks:
+  - "[[OST]]"
 NumberInAlbum: 7
 related: []
 source: ""

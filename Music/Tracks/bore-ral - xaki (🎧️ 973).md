@@ -9,6 +9,8 @@ CoverOf: ""
 Creators:
   - "[[xaki (🎙️ 12)]]"
 ListenInSec: 10190
+Marks:
+  - "[[OST]]"
 NumberInAlbum: 136
 related:
   - "[[bore-ral (without vocal) - xaki (🎧️ 1958)]]"

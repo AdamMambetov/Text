@@ -13,6 +13,8 @@ Creators:
   - "[[cap (🎙️ 19)]]"
   - "[[xaki (🎙️ 12)]]"
 ListenInSec: 2943
+Marks:
+  - "[[OST]]"
 NumberInAlbum: 49
 related:
   - "[[Melody - sunny (🎧️ 1036)]]"

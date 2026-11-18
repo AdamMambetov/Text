@@ -12,6 +12,8 @@ Creators:
   - "[[Chiyomaru Shikura (🎙️ 865)]]"
   - "[[KOKOMI (🎙️ 866)]]"
 ListenInSec: 549
+Marks:
+  - "[[OST]]"
 NumberInAlbum: 1
 related: []
 source: ""

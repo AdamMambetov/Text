@@ -11,6 +11,7 @@ Creators:
 ListenInSec: 210
 Marks:
   - "[[Anime]]"
+  - "[[OST]]"
 NumberInAlbum: 15
 related: []
 SourceFile: "[[Naruto OST - Glued State.mp3]]"

@@ -11,6 +11,7 @@ Creators:
 ListenInSec: 784
 Marks:
   - "[[Anime]]"
+  - "[[OST]]"
 NumberInAlbum: 6
 related: []
 SourceFile: "[[Shiki OST - 06 Epitaph.mp3]]"

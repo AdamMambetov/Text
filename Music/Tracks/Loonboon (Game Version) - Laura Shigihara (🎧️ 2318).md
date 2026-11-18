@@ -10,6 +10,8 @@ CoverOf: ""
 Creators:
   - "[[Laura Shigihara (🎙️ 1026)]]"
 ListenInSec: 128
+Marks:
+  - "[[OST]]"
 NumberInAlbum: 14
 related:
   - "[[Loonboon - Laura Shigihara (🎧️ 2019)]]"

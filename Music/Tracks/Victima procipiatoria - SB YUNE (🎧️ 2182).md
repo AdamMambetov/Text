@@ -10,6 +10,8 @@ CoverOf: ""
 Creators:
   - "[[SB YUNE (🎙️ 27)]]"
 ListenInSec: 1003
+Marks:
+  - "[[OST]]"
 NumberInAlbum: 101
 related: []
 source: ""

@@ -10,6 +10,8 @@ CoverOf: ""
 Creators:
   - "[[Luck Ganriki (🎙️ 4)]]"
 ListenInSec: 1052
+Marks:
+  - "[[OST]]"
 NumberInAlbum: 142
 related:
   - "[[Kina No Kaori ~Ai No Shiren!~ - Kino Nei (🎧️ 1539)]]"

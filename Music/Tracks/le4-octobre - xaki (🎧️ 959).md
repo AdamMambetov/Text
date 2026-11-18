@@ -10,6 +10,8 @@ CoverOf: ""
 Creators:
   - "[[xaki (🎙️ 12)]]"
 ListenInSec: 4789
+Marks:
+  - "[[OST]]"
 NumberInAlbum: 162
 related:
   - "[[le4-octobre 〜piano inst ver.〜 - xaki (🎧️ 1955)]]"

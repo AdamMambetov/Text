@@ -9,6 +9,8 @@ CoverOf: ""
 Creators:
   - "[[Laura Shigihara (🎙️ 1026)]]"
 ListenInSec: 129
+Marks:
+  - "[[OST]]"
 NumberInAlbum: 18
 related:
   - "[[Ultimate Battle - Laura Shigihara (🎧️ 2312)]]"

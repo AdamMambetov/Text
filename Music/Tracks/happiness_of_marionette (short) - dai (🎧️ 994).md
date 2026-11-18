@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[dai (🎙️ 3)]]"
 ListenInSec: 601
+Marks:
+  - "[[OST]]"
 NumberInAlbum: 72
 related:
   - "[[happiness_of_marionette - dai (🎧️ 1005)]]"

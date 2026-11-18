@@ -10,6 +10,8 @@ CoverOf: ""
 Creators:
   - "[[Luck Ganriki (🎙️ 4)]]"
 ListenInSec: 2160
+Marks:
+  - "[[OST]]"
 NumberInAlbum: 19
 related:
   - "[[FISHY AROMA - Luck Ganriki (🎧️ 962)]]"

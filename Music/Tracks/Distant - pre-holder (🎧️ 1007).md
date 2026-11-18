@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[pre-holder (🎙️ 5)]]"
 ListenInSec: 3299
+Marks:
+  - "[[OST]]"
 NumberInAlbum: 62
 related: []
 SourceFile: "[[Umineko no Naku Koro ni OST - 062 В дали.ogg]]"

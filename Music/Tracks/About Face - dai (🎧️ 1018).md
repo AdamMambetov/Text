@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[dai (🎙️ 3)]]"
 ListenInSec: 5192
+Marks:
+  - "[[OST]]"
 NumberInAlbum: 87
 related:
   - "[[Waltz Op.34 - Kitaouji Mizuki (🎧️ 965)]]"

@@ -9,6 +9,8 @@ CoverOf: ""
 Creators:
   - "[[Motoi Sakuraba (🎙️ 31)]]"
 ListenInSec: 985
+Marks:
+  - "[[OST]]"
 NumberInAlbum: 16
 related: []
 source: ""

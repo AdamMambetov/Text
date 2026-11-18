@@ -8,13 +8,13 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Creepy Nuts (🎙️ 267)]]"
+Genres: []
 ListenInSec: 585
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Creepy Nuts - Yofukashi no Uta.mp3]]"
-Genres: []
-Marks:
-  - "[[Anime]]"
 sources:
   - "[[Песнь ночных сов (🇯🇵📺 58)|Песнь ночных сов|ending:1]]"
 ---

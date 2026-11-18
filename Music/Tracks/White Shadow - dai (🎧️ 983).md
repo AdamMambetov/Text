@@ -10,6 +10,8 @@ CoverOf: ""
 Creators:
   - "[[dai (🎙️ 3)]]"
 ListenInSec: 761
+Marks:
+  - "[[OST]]"
 NumberInAlbum: 9
 related: []
 source: ""

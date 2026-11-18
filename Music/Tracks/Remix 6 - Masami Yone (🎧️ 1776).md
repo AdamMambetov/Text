@@ -13,6 +13,7 @@ Creators:
 ListenInSec: 1784
 Marks:
   - "[[Remix]]"
+  - "[[OST]]"
 NumberInAlbum: 0
 related:
   - "[[Hopping Road - Tsunku (🎧️ 1781)]]"

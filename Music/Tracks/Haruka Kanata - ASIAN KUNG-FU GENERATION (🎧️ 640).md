@@ -13,6 +13,7 @@ Creators:
 ListenInSec: 289
 Marks:
   - "[[Anime]]"
+  - "[[OST]]"
 NumberInAlbum: 0
 related:
   - "[[Haruka Kanata (TV Size) - ASIAN KUNG-FU GENERATION (🎧️ 406)]]"

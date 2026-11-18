@@ -9,6 +9,8 @@ CoverOf: ""
 Creators:
   - "[[Masafumi Takada (🎙️ 790)]]"
 ListenInSec: 704
+Marks:
+  - "[[OST]]"
 NumberInAlbum: 29
 related: []
 source: ""

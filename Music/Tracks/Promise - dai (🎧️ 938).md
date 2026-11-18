@@ -12,6 +12,8 @@ Creators:
   - "[[dai (🎙️ 3)]]"
   - "[[Yuudai (🎙️ 7)]]"
 ListenInSec: 381
+Marks:
+  - "[[OST]]"
 NumberInAlbum: 132
 related: []
 source: ""

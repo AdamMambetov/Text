@@ -13,6 +13,7 @@ ListenInSec: 468
 Marks:
   - "[[Anime]]"
   - "[[Film]]"
+  - "[[OST]]"
 NumberInAlbum: 0
 related: []
 source: ""

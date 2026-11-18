@@ -11,6 +11,7 @@ Creators:
 ListenInSec: 2405
 Marks:
   - "[[Remix]]"
+  - "[[OST]]"
 NumberInAlbum: 0
 related:
   - "[[Marcher - Masami Yone (🎧️ 1778)]]"
