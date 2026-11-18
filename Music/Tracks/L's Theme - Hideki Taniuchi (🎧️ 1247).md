@@ -9,6 +9,8 @@ CoverOf: ""
 Creators:
   - "[[Hideki Taniuchi (🎙️ 885)]]"
 ListenInSec: 359
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 4
 related: []
 source: ""

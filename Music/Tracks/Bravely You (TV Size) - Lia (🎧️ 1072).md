@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[Lia (🎙️ 656)]]"
 ListenInSec: 1275
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related:
   - "[[Bravely You - Lia (🎧️ 1740)]]"

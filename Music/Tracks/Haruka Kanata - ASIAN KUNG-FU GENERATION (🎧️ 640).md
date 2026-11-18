@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[ASIAN KUNG-FU GENERATION (🎙️ 193)]]"
 ListenInSec: 289
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related:
   - "[[Haruka Kanata (TV Size) - ASIAN KUNG-FU GENERATION (🎧️ 406)]]"

@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[ALI PROJECT (🎙️ 165)]]"
 ListenInSec: 708
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 source: ""

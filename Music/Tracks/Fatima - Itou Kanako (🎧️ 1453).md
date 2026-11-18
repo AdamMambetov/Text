@@ -11,7 +11,7 @@ Creators:
 Genres: []
 ListenInSec: 982
 Marks:
-  - "Anime"
+  - "[[Anime]]"
 NumberInAlbum: 0
 related:
   - "[[Fatima (TV Size) - Itou Kanako (🎧️ 1074)]]"

@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[Monoral (🎙️ 164)]]"
 ListenInSec: 2222
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 2
 related: []
 source: ""

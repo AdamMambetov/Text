@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[JAM Project (🎙️ 775)]]"
 ListenInSec: 204
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 1
 related: []
 source: ""

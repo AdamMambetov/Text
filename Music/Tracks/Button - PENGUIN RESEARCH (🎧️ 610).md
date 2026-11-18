@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[PENGUIN RESEARCH (🎙️ 661)]]"
 ListenInSec: 252
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 source: ""

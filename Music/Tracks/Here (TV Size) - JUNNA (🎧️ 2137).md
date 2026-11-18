@@ -12,6 +12,8 @@ CoverOf: ""
 Creators:
   - "[[JUNNA (🎙️ 817)]]"
 ListenInSec: 3443
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 SourceFile: "[[JUNNA - Here (TV Size).opus]]"

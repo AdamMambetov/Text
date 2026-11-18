@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[FZMZ (🎙️ 721)]]"
 ListenInSec: 696
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 source: ""

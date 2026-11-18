@@ -9,6 +9,8 @@ CoverOf: ""
 Creators:
   - "[[Yasuharu Takanashi (🎙️ 749)]]"
 ListenInSec: 1234
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 8
 related: []
 SourceFile: "[[Shiki OST - 08 Muddy Water.mp3]]"

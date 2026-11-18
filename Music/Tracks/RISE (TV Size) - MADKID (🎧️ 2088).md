@@ -10,6 +10,8 @@ CoverOf: ""
 Creators:
   - "[[MADKID (🎙️ 793)]]"
 ListenInSec: 1128
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related:
   - "[[RISE - MADKID (🎧️ 2089)]]"

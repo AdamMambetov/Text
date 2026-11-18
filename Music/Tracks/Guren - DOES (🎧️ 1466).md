@@ -9,6 +9,8 @@ CoverOf: ""
 Creators:
   - "[[DOES (🎙️ 36)]]"
 ListenInSec: 1920
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 SourceFile: "[[DOES - Guren.mp3]]"

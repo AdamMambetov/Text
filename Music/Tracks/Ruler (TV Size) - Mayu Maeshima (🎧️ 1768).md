@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[Mayu Maeshima (🎙️ 679)]]"
 ListenInSec: 1117
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 source: ""

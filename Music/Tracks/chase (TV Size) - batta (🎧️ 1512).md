@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[batta (🎙️ 742)]]"
 ListenInSec: 950
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related:
   - "[[chase - batta (🎧️ 1513)]]"

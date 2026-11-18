@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[T.M. Revolution (🎙️ 805)]]"
 ListenInSec: 732
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related:
   - "[[Resonance - T.M. Revolution (🎧️ 1996)]]"

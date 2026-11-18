@@ -11,7 +11,7 @@ Creators:
 Genres: []
 ListenInSec: 6127
 Marks:
-  - "Anime"
+  - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Shimamiya Eiko - Higurashi no Naku Koro ni.mp3]]"

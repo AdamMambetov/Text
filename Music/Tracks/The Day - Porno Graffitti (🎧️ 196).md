@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[Porno Graffitti (🎙️ 414)]]"
 ListenInSec: 258
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related:
   - "[[The Day (TV Size) - Porno Graffitti (🎧️ 1075)]]"

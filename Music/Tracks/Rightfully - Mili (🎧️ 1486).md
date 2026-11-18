@@ -11,12 +11,11 @@ CoverOf: ""
 Creators:
   - "[[Mili (🎙️ 699)]]"
 Genres:
-  - "Electronic"
-  - "Pop"
+  - "[[Electronic]]"
+  - "[[Pop]]"
 ListenInSec: 8264
 Marks:
-  - "Anime"
-  - "OP"
+  - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Mili - Rightfully.mp3]]"

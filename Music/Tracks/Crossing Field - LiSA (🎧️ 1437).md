@@ -13,6 +13,8 @@ CoverOf: ""
 Creators:
   - "[[LiSA (🎙️ 65)]]"
 ListenInSec: 3790
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related:
   - "[[Crossing Field (TV Size) - LiSA (🎧️ 1438)]]"

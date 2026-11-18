@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[OLDCODEX (🎙️ 1056)]]"
 ListenInSec: 195
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Free! Opening 1.mp3]]"

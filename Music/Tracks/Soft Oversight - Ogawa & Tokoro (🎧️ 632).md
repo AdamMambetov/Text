@@ -9,6 +9,8 @@ CoverOf: ""
 Creators:
   - "[[Ogawa & Tokoro (🎙️ 693)]]"
 ListenInSec: 506
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 11
 related: []
 source: ""

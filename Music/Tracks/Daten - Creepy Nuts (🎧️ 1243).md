@@ -9,6 +9,8 @@ CoverOf: ""
 Creators:
   - "[[Creepy Nuts (🎙️ 267)]]"
 ListenInSec: 1026
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Creepy Nuts - DATEN.mp3]]"

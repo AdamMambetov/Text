@@ -11,7 +11,7 @@ Creators:
 Genres: []
 ListenInSec: 1503
 Marks:
-  - "Anime"
+  - "[[Anime]]"
 NumberInAlbum: 0
 related:
   - "[[Akaneiro ga Moeru Toki (TV Size) - Scoobie Do (🎧️ 2094)]]"

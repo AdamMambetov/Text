@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[Tommy heavenly6 (🎙️ 469)]]"
 ListenInSec: 890
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related:
   - "[[PAPERMOON - Tommy heavenly6 (🎧️ 2002)]]"

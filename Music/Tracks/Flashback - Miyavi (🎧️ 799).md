@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[Miyavi (🎙️ 377)]]"
 ListenInSec: 532
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 7
 related:
   - "[[Flashback (TV Size) - Miyavi (🎧️ 1071)]]"

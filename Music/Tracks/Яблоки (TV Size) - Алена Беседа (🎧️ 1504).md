@@ -12,7 +12,7 @@ Creators:
 Genres: []
 ListenInSec: 628
 Marks:
-  - "Anime"
+  - "[[Anime]]"
 NumberInAlbum: 0
 related:
   - "[[The Wolf Whistling Song - Ringo Biyori (🎧️ 1506)]]"

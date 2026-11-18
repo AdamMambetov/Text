@@ -11,7 +11,7 @@ Creators:
 Genres: []
 ListenInSec: 4049
 Marks:
-  - "Anime"
+  - "[[Anime]]"
 NumberInAlbum: 0
 related:
   - "[[Kimi no Shiranai Monogatari - supercell (🎧️ 1635)]]"

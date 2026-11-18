@@ -10,8 +10,7 @@ Creators:
   - "[[Александр Пушной (🎙️ 80)]]"
 ListenInSec: 502
 Marks:
-  - "OP"
-  - "Series"
+  - "[[Series]]"
 NumberInAlbum: 0
 related:
   - "[[6 кадров - Александр Пушной (🎧️ 2051)]]"

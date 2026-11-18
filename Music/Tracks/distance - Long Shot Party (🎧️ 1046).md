@@ -9,6 +9,8 @@ CoverOf: ""
 Creators:
   - "[[Long Shot Party (🎙️ 364)]]"
 ListenInSec: 380
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 1
 related: []
 source: ""

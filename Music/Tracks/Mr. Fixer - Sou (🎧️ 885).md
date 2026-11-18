@@ -12,6 +12,8 @@ CoverOf: ""
 Creators:
   - "[[Sou (🎙️ 706)]]"
 ListenInSec: 228
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related:
   - "[[Mr. Fixer (TV Size) - Sou]]"

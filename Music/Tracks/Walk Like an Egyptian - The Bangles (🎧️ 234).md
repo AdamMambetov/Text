@@ -9,6 +9,8 @@ CoverOf: ""
 Creators:
   - "[[The Bangles (🎙️ 532)]]"
 ListenInSec: 1111
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 3
 related: []
 SourceFile: "[[The Bangles - Walk Like an Egyptian.mp3]]"

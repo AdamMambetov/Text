@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[Karen Aoki (🎙️ 647)]]"
 ListenInSec: 724
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 1
 related: []
 source: ""

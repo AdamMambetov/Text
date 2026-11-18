@@ -9,6 +9,8 @@ CoverOf: ""
 Creators:
   - "[[SiM (🎙️ 635)]]"
 ListenInSec: 851
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 source: ""

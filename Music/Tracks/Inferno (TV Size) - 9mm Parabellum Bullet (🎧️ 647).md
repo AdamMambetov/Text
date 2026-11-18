@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[9mm Parabellum Bullet (🎙️ 76)]]"
 ListenInSec: 1517
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 source: ""

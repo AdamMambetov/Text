@@ -15,7 +15,7 @@ source: ""
 SourceFile: "[[MYTH & ROID - HYDRA.mp3]]"
 Genres: []
 Marks:
-  - "Anime"
+  - "[[Anime]]"
 sources:
   - "[[Повелитель (🇯🇵📺 441)|Повелитель|ending:2]]"
 ---

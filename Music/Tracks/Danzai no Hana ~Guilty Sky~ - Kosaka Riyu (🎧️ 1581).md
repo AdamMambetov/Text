@@ -11,7 +11,7 @@ Creators:
 Genres: []
 ListenInSec: 7997
 Marks:
-  - "Anime"
+  - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Kosaka Riyu - Danzai no Hana ~Guilty Sky~.mp3]]"

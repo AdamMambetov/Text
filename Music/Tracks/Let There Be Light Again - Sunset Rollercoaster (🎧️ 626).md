@@ -9,6 +9,8 @@ CoverOf: ""
 Creators:
   - "[[Sunset Rollercoaster (🎙️ 692)]]"
 ListenInSec: 232
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 7
 related: []
 source: ""

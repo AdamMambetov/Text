@@ -12,6 +12,8 @@ Creators:
   - "[[Hiroyuki Sawano (🎙️ 327)]]"
   - "[[Rei (🎙️ 808)]]"
 ListenInSec: 614
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 source: ""

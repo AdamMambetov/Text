@@ -9,6 +9,8 @@ CoverOf: "[[God Knows... - Hirano Aya (🎧️ 1598)]]"
 Creators:
   - "[[Ирина Попова (🎙️ 946)]]"
 ListenInSec: 829
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 1
 related: []
 source: ""

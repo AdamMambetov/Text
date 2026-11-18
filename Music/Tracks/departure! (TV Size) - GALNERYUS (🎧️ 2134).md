@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[GALNERYUS (🎙️ 313)]]"
 ListenInSec: 679
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 source: ""

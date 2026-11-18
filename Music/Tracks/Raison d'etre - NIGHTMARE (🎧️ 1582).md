@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[NIGHTMARE (🎙️ 665)]]"
 ListenInSec: 1252
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 source: ""

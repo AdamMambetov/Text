@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[Scoobie Do (🎙️ 947)]]"
 ListenInSec: 417
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related:
   - "[[Akaneiro ga Moeru Toki - Scoobie Do (🎧️ 1605)]]"

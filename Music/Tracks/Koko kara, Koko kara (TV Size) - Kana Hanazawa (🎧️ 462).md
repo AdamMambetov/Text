@@ -12,6 +12,8 @@ Creators:
   - "[[Yuka Iguchi (🎙️ 672)]]"
   - "[[Hayami Saori (🎙️ 798)]]"
 ListenInSec: 202
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 source: ""

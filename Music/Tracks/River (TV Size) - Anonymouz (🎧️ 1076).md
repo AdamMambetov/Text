@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[Anonymouz (🎙️ 709)]]"
 ListenInSec: 1195
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related:
   - "[[River - Anonymouz]]"

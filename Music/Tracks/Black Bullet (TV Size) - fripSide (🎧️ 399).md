@@ -10,6 +10,8 @@ CoverOf: ""
 Creators:
   - "[[fripSide (🎙️ 562)]]"
 ListenInSec: 1289
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 source: ""

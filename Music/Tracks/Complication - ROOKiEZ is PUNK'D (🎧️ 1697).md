@@ -13,6 +13,8 @@ Creators:
 Genres:
   - "[[Pop rock]]"
 ListenInSec: 527
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related:
   - "[[Complication (TV Size) - ROOKiEZ is PUNK'D (🎧️ 1694)]]"

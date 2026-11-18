@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[UVERworld (🎙️ 473)]]"
 ListenInSec: 212
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related:
   - "[[Colors of the Heart - UVERworld (🎧️ 1256)]]"

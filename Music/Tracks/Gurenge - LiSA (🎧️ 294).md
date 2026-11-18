@@ -13,6 +13,8 @@ CoverOf: ""
 Creators:
   - "[[LiSA (🎙️ 65)]]"
 ListenInSec: 673
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related:
   - "[[Gurenge (TV Size) - LiSA]]"

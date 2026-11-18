@@ -10,6 +10,8 @@ CoverOf: ""
 Creators:
   - "[[OxT (🎙️ 649)]]"
 ListenInSec: 302
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related:
   - "[[HIGHEST (TV Size) - OxT (🎧️ 1862)]]"

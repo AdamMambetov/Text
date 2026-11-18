@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[ASIAN KUNG-FU GENERATION (🎙️ 193)]]"
 ListenInSec: 217
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related:
   - "[[Haruka Kanata - ASIAN KUNG-FU GENERATION (🎧️ 640)]]"

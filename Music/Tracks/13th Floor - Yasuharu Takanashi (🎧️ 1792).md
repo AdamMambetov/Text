@@ -9,6 +9,8 @@ CoverOf: ""
 Creators:
   - "[[Yasuharu Takanashi (🎙️ 749)]]"
 ListenInSec: 802
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 3
 related: []
 SourceFile: "[[Shiki OST - 04 13th Floor.mp3]]"

@@ -9,6 +9,8 @@ CoverOf: ""
 Creators:
   - "[[Kenichiro Suehiro (🎙️ 748)]]"
 ListenInSec: 756
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 4
 related: []
 SourceFile: "[[ReZero 1 OST - 04 Timbre of the Beginning.mp3]]"

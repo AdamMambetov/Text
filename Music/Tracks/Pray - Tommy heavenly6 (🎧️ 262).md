@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[Tommy heavenly6 (🎙️ 469)]]"
 ListenInSec: 400
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 1
 related:
   - "[[Pray (TV Size) - Tommy heavenly6]]"

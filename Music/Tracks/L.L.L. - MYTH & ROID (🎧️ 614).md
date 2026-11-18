@@ -16,7 +16,7 @@ source: ""
 SourceFile: "[[MYTH & ROID - L.L.L.mp3]]"
 Genres: []
 Marks:
-  - "Anime"
+  - "[[Anime]]"
 sources:
   - "[[Повелитель (🇯🇵📺 441)|Повелитель|ending:1]]"
 ---

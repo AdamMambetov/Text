@@ -11,7 +11,7 @@ Creators:
   - "[[Russell Velázquez (🎙️ 1060)]]"
 ListenInSec: 487
 Marks:
-  - "Cartoon"
+  - "[[Cartoon]]"
 NumberInAlbum: 0
 related: []
 source: ""

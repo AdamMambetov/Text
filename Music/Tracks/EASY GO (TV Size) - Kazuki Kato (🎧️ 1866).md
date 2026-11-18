@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[Kazuki Kato (🎙️ 737)]]"
 ListenInSec: 1918
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related:
   - "[[EASY GO - Kazuki Kato (🎧️ 1865)]]"

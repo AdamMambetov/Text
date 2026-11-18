@@ -9,6 +9,8 @@ CoverOf: ""
 Creators:
   - "[[Kana Hashiguchi (🎙️ 1061)]]"
 ListenInSec: 220
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 20
 related: []
 source: ""

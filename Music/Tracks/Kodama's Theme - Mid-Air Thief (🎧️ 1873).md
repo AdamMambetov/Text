@@ -9,6 +9,8 @@ CoverOf: ""
 Creators:
   - "[[Mid-Air Thief (🎙️ 696)]]"
 ListenInSec: 479
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 10
 related: []
 source: ""

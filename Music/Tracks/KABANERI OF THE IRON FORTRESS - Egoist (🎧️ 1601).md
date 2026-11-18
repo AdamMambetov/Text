@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[Egoist (🎙️ 761)]]"
 ListenInSec: 4768
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Egoist - Kabaneri of the Iron Fortress.mp3]]"

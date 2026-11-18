@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[ClariS (🎙️ 262)]]"
 ListenInSec: 293
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related:
   - "[[Hitorigoto - ClariS (🎧️ 1427)]]"

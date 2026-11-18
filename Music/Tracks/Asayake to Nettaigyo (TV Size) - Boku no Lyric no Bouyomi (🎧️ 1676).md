@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[Boku no Lyric no Bouyomi (🎙️ 638)]]"
 ListenInSec: 453
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 source: ""

@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[Natsumi Kiyoura (🎙️ 774)]]"
 ListenInSec: 4523
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Natsumi Kiyoura - Tabi No Tochu.mp3]]"

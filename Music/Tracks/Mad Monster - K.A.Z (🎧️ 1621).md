@@ -10,6 +10,8 @@ Creators:
   - "[[K.A.Z (🎙️ 953)]]"
   - "[[Yuji Ueda (🎙️ 954)]]"
 ListenInSec: 107
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 1
 related: []
 source: ""

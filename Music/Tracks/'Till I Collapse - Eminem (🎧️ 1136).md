@@ -11,8 +11,8 @@ Creators:
   - "[[Nate Dogg (🎙️ 291)]]"
 ListenInSec: 1546
 Marks:
-  - "Film"
-  - "OST"
+  - "[[Film]]"
+  - "[[OST]]"
 NumberInAlbum: 0
 related: []
 source: ""

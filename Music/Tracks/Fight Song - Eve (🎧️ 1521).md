@@ -11,7 +11,7 @@ Creators:
 Genres: []
 ListenInSec: 879
 Marks:
-  - "Anime"
+  - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 source: ""

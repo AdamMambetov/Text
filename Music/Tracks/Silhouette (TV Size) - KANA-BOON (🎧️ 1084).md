@@ -9,6 +9,8 @@ CoverOf: ""
 Creators:
   - "[[KANA-BOON (🎙️ 343)]]"
 ListenInSec: 198
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related:
   - "[[Silhouette - KANA-BOON (🎧️ 140)]]"

@@ -14,7 +14,7 @@ related: []
 SourceFile: "[[Keina Suda - veil.mp3]]"
 Genres: []
 Marks:
-  - "Anime"
+  - "[[Anime]]"
 sources:
   - "[[Пламенная бригада пожарных (🇯🇵📺 1109)|Пламенная бригада пожарных|ending:1]]"
 ---

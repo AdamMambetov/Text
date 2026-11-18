@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[Porno Graffitti (🎙️ 414)]]"
 ListenInSec: 1089
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related:
   - "[[Melissa (TV Size) - Porno Graffitti]]"

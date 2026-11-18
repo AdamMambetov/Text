@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[Vickeblanka (🎙️ 476)]]"
 ListenInSec: 980
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related:
   - "[[Black Rover - Vickeblanka]]"

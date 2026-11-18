@@ -11,7 +11,7 @@ Creators:
   - "[[InstrumentManiac (🎙️ 777)]]"
 ListenInSec: 3072
 Marks:
-  - "Cover"
+  - "[[Cover]]"
 NumberInAlbum: 1
 related: []
 source: https://youtu.be/R3OhI6p-6E4?si=OLWxRqn2EzemW3vz

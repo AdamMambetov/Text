@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[Oomori Seiko (🎙️ 819)]]"
 ListenInSec: 1563
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 1
 related: []
 source: ""

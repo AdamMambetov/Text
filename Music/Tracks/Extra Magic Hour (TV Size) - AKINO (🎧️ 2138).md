@@ -12,6 +12,8 @@ Creators:
   - "[[AKINO (🎙️ 160)]]"
   - "[[bless4 (🎙️ 161)]]"
 ListenInSec: 1481
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related:
   - "[[Extra Magic Hour - AKINO (🎧️ 1307)]]"

@@ -9,6 +9,8 @@ CoverOf: ""
 Creators:
   - "[[Toshio Masuda (🎙️ 557)]]"
 ListenInSec: 238
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 15
 related: []
 SourceFile: "[[Naruto OST - Thunder Break.mp3]]"

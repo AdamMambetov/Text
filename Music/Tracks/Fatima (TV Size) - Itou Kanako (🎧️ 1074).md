@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[Itou Kanako (🎙️ 52)]]"
 ListenInSec: 1257
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 1
 related:
   - "[[Fatima - Itou Kanako (🎧️ 1453)]]"

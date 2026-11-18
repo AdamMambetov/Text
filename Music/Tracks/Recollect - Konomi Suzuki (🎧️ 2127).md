@@ -12,6 +12,8 @@ Creators:
   - "[[Konomi Suzuki (🎙️ 351)]]"
   - "[[Ashnikko (🎙️ 815)]]"
 ListenInSec: 4443
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related:
   - "[[Recollect (TV Size) - Konomi Suzuki (🎧️ 2125)]]"

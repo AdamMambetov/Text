@@ -14,6 +14,8 @@ Creators:
   - "[[Daisuke Ono (🎙️ 971)]]"
   - "[[Kikuko Inoue (🎙️ 972)]]"
 ListenInSec: 1653
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 source: ""

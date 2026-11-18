@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[SID (🎙️ 435)]]"
 ListenInSec: 2327
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 SourceFile: "[[SID - V.I.P.mp3]]"

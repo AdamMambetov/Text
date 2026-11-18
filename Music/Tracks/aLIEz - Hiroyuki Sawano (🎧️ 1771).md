@@ -12,6 +12,8 @@ Creators:
   - "[[Hiroyuki Sawano (🎙️ 327)]]"
   - "[[mizuki (🎙️ 660)]]"
 ListenInSec: 3566
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related:
   - "[[aLIEz (TV Size) - Hiroyuki Sawano]]"

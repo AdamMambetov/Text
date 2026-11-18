@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[NIGHTMARE (🎙️ 665)]]"
 ListenInSec: 5684
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related:
   - "[[the WORLD (TV Size) - NIGHTMARE]]"

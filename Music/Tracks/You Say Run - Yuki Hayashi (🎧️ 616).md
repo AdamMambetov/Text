@@ -9,6 +9,8 @@ CoverOf: ""
 Creators:
   - "[[Yuki Hayashi (🎙️ 807)]]"
 ListenInSec: 326
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 1
 related: []
 source: ""

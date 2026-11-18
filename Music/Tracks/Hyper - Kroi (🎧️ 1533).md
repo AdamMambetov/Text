@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[Kroi (🎙️ 710)]]"
 ListenInSec: 2026
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 source: ""

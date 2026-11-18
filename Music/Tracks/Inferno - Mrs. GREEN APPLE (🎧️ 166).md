@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[Mrs. GREEN APPLE (🎙️ 380)]]"
 ListenInSec: 207
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related:
   - "[[Inferno (TV Size) - Mrs. GREEN APPLE]]"

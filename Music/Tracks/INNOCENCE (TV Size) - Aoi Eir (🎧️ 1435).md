@@ -13,6 +13,8 @@ CoverOf: ""
 Creators:
   - "[[Aoi Eir (🎙️ 653)]]"
 ListenInSec: 1522
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related:
   - "[[INNOCENCE - Aoi Eir (🎧️ 1436)]]"

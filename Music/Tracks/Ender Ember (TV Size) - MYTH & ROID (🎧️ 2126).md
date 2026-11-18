@@ -12,6 +12,8 @@ Creators:
   - "[[MYTH & ROID (🎙️ 382)]]"
   - "[[TK from Ling tosite sigure (🎙️ 655)]]"
 ListenInSec: 2086
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related:
   - "[[Ender Ember - MYTH & ROID (🎧️ 2128)]]"

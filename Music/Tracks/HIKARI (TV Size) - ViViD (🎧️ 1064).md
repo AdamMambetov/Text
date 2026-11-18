@@ -9,6 +9,8 @@ CoverOf: ""
 Creators:
   - "[[ViViD (🎙️ 860)]]"
 ListenInSec: 488
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 1
 related: []
 source: ""

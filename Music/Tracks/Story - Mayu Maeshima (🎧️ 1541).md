@@ -10,6 +10,8 @@ CoverOf: ""
 Creators:
   - "[[Mayu Maeshima (🎙️ 679)]]"
 ListenInSec: 1615
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Mayu Maeshima - Story.mp3]]"

@@ -9,6 +9,8 @@ CoverOf: ""
 Creators:
   - "[[Toshio Masuda (🎙️ 557)]]"
 ListenInSec: 165
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 21
 related: []
 source: ""

@@ -9,6 +9,8 @@ CoverOf: ""
 Creators:
   - "[[Musashi Project (🎙️ 558)]]"
 ListenInSec: 210
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 15
 related: []
 SourceFile: "[[Naruto OST - Glued State.mp3]]"

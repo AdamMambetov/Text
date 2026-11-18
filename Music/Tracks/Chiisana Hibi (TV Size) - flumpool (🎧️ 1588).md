@@ -9,6 +9,8 @@ CoverOf: ""
 Creators:
   - "[[flumpool (🎙️ 944)]]"
 ListenInSec: 552
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related:
   - "[[Chiisana Hibi - flumpool (🎧️ 1587)]]"

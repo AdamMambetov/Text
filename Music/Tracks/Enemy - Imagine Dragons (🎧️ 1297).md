@@ -12,7 +12,7 @@ Creators:
   - "[[League of Legends (🎙️ 73)]]"
 ListenInSec: 835
 Marks:
-  - "Cartoon"
+  - "[[Cartoon]]"
 NumberInAlbum: 1
 related: []
 source: ""

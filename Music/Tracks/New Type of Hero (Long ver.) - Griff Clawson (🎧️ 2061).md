@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[Griff Clawson (🎙️ 813)]]"
 ListenInSec: 2240
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Griff Clawson - New Type of Hero (Long ver.).mp3]]"

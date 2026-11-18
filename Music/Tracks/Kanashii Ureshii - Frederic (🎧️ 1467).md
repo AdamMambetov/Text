@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[Frederic (🎙️ 738)]]"
 ListenInSec: 3555
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Frederic - Kanashii Ureshii.mp3]]"

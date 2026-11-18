@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[Kawada Mami (🎙️ 743)]]"
 ListenInSec: 12181
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Kawada Mami - Hishoku no Sora.mp3]]"

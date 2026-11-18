@@ -9,6 +9,8 @@ CoverOf: ""
 Creators:
   - "[[flumpool (🎙️ 944)]]"
 ListenInSec: 925
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related:
   - "[[Chiisana Hibi (TV Size) - flumpool (🎧️ 1588)]]"

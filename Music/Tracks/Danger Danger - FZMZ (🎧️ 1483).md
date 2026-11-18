@@ -12,6 +12,8 @@ Creators:
   - "[[FZMZ (🎙️ 721)]]"
   - "[[icy (🎙️ 732)]]"
 ListenInSec: 442
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 source: ""

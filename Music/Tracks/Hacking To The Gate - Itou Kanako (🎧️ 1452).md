@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[Itou Kanako (🎙️ 52)]]"
 ListenInSec: 997
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related:
   - "[[Hacking to the Gate (TV Size) - Itou Kanako (🎧️ 1092)]]"

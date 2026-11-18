@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[Porno Graffitti (🎙️ 414)]]"
 ListenInSec: 1105
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related:
   - "[[The Day - Porno Graffitti (🎧️ 196)]]"

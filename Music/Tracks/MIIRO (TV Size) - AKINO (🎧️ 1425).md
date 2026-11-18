@@ -9,6 +9,8 @@ CoverOf: ""
 Creators:
   - "[[AKINO (🎙️ 160)]]"
 ListenInSec: 482
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related:
   - "[[MIIRO - AKINO (🎧️ 449)]]"

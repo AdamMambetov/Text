@@ -10,6 +10,8 @@ CoverOf: ""
 Creators:
   - "[[Nanawo Akari (🎙️ 620)]]"
 ListenInSec: 340
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 1
 related: []
 source: ""

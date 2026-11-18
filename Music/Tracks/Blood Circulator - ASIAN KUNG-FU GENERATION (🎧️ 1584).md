@@ -9,6 +9,8 @@ CoverOf: ""
 Creators:
   - "[[ASIAN KUNG-FU GENERATION (🎙️ 193)]]"
 ListenInSec: 680
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 source: ""

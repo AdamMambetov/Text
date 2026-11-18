@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[amazarashi (🎙️ 176)]]"
 ListenInSec: 305
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 1
 related: []
 source: ""

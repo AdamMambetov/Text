@@ -9,6 +9,8 @@ CoverOf: ""
 Creators:
   - "[[Yasuharu Takanashi (🎙️ 749)]]"
 ListenInSec: 442
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 13
 related: []
 source: ""

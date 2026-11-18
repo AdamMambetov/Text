@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[Stereopony (🎙️ 56)]]"
 ListenInSec: 649
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related:
   - "[[Tsukiakari No Michishirube - Stereopony (🎧️ 582)]]"

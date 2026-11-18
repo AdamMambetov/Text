@@ -10,6 +10,8 @@ CoverOf: ""
 Creators:
   - "[[ULTRA TOWER (🎙️ 762)]]"
 ListenInSec: 309
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related:
   - "[[Kibou no Uta - ULTRA TOWER (🎧️ 1515)]]"

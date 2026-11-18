@@ -9,6 +9,8 @@ CoverOf: ""
 Creators:
   - "[[ALI (🎙️ 718)]]"
 ListenInSec: 560
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 source: ""

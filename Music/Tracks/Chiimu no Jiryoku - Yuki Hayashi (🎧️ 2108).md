@@ -10,6 +10,8 @@ CoverOf: ""
 Creators:
   - "[[Yuki Hayashi (🎙️ 807)]]"
 ListenInSec: 1488
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Haikyuu OST 2 - Chiimu no Jiryoku.mp3]]"

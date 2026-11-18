@@ -10,9 +10,9 @@ Creators:
   - "[[Susumu Hirasawa (🎙️ 450)]]"
 ListenInSec: 12568
 Marks:
-  - "Anime"
-  - "Film"
-  - "OST"
+  - "[[Anime]]"
+  - "[[Film]]"
+  - "[[OST]]"
 NumberInAlbum: 2
 related: []
 SourceFile: "[[Crizz “Chisp” Boi - Susumu Hirasawa - Parade.mp3]]"

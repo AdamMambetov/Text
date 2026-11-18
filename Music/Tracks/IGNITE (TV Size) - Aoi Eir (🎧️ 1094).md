@@ -13,6 +13,8 @@ CoverOf: ""
 Creators:
   - "[[Aoi Eir (🎙️ 653)]]"
 ListenInSec: 1350
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 1
 related:
   - "[[IGNITE - Aoi Eir]]"

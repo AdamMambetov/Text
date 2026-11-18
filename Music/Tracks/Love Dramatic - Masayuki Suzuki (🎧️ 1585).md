@@ -12,6 +12,8 @@ Creators:
   - "[[Masayuki Suzuki (🎙️ 666)]]"
   - "[[Ihara Rikka (🎙️ 667)]]"
 ListenInSec: 1349
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related:
   - "[[Love Dramatic (TV Size) - Masayuki Suzuki (🎧️ 1586)]]"

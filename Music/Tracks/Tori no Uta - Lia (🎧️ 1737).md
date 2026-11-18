@@ -11,7 +11,7 @@ Creators:
 Genres: []
 ListenInSec: 16338
 Marks:
-  - "Anime"
+  - "[[Anime]]"
 NumberInAlbum: 0
 related:
   - "[[Tori no Uta (TV Size) - Lia (🎧️ 1727)]]"

@@ -11,7 +11,7 @@ Creators:
 Genres: []
 ListenInSec: 986
 Marks:
-  - "Anime"
+  - "[[Anime]]"
 NumberInAlbum: 0
 related:
   - "[[The Wolf Whistling Song (TV Size) - Ringo Biyori (🎧️ 1505)]]"

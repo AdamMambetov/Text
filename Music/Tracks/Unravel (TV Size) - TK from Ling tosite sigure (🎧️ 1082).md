@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[TK from Ling tosite sigure (🎙️ 655)]]"
 ListenInSec: 879
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related:
   - "[[Unravel - TK from Ling tosite sigure (🎧️ 1430)]]"

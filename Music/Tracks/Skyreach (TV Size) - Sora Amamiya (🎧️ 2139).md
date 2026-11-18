@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[Sora Amamiya (🎙️ 816)]]"
 ListenInSec: 2431
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related:
   - "[[Skyreach - Sora Amamiya (🎧️ 2140)]]"

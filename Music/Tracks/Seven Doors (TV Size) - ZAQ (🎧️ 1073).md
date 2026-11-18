@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[ZAQ (🎙️ 764)]]"
 ListenInSec: 1270
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 1
 related:
   - "[[Seven Doors - ZAQ (🎧️ 870)]]"

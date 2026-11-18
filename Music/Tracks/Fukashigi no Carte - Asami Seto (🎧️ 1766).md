@@ -15,6 +15,8 @@ Creators:
   - "[[Yurika Kubo (🎙️ 782)]]"
   - "[[Inori Minase (🎙️ 783)]]"
 ListenInSec: 562
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related:
   - "[[Fukashigi no Carte (TV Size) - Nao Touyama (🎧️ 1096)]]"

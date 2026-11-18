@@ -13,6 +13,8 @@ CoverOf: ""
 Creators:
   - "[[Aoi Eir (🎙️ 653)]]"
 ListenInSec: 1679
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related:
   - "[[INNOCENCE (TV Size) - Aoi Eir (🎧️ 1435)]]"

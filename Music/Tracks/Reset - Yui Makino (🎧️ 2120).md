@@ -12,6 +12,8 @@ CoverOf: ""
 Creators:
   - "[[Yui Makino (🎙️ 824)]]"
 ListenInSec: 5799
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Yui Makino - Reset.mp3]]"

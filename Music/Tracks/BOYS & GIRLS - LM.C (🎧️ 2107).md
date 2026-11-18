@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[LM.C (🎙️ 825)]]"
 ListenInSec: 6405
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 SourceFile: "[[LM.C - BOYS & GIRLS.mp3]]"

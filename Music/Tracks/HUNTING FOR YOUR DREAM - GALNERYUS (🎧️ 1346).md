@@ -15,7 +15,7 @@ source: ""
 SourceFile: "[[GALNERYUS - HUNTING FOR YOUR DREAM.mp3]]"
 Genres: []
 Marks:
-  - "Anime"
+  - "[[Anime]]"
 sources:
   - "[[Охотник х Охотник (2011) (🇯🇵📺 819)|Охотник х Охотник (2011)|ending:2]]"
 ---

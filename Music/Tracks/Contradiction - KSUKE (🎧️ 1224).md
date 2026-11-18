@@ -11,6 +11,8 @@ Creators:
   - "[[KSUKE (🎙️ 352)]]"
   - "[[Tyler Carter (🎙️ 796)]]"
 ListenInSec: 502
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 source: ""

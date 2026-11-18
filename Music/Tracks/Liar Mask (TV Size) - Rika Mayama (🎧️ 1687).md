@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[Rika Mayama (🎙️ 426)]]"
 ListenInSec: 1615
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related:
   - "[[Liar Mask - Rika Mayama (🎧️ 539)]]"

@@ -10,6 +10,8 @@ CoverOf: ""
 Creators:
   - "[[the peggies (🎙️ 458)]]"
 ListenInSec: 538
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related:
   - "[[Kiminosei (TV Size) - the peggies]]"

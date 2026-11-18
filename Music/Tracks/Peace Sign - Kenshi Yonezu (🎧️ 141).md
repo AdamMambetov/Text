@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[Kenshi Yonezu (🎙️ 349)]]"
 ListenInSec: 241
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 source: ""

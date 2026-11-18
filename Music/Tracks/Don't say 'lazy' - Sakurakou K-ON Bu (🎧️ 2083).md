@@ -12,6 +12,8 @@ CoverOf: ""
 Creators:
   - "[[Sakurakou K-ON Bu (🎙️ 1055)]]"
 ListenInSec: 2316
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Release - Don't say ＂lazy＂.mp3]]"

@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[UVERworld (🎙️ 473)]]"
 ListenInSec: 486
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 source: ""

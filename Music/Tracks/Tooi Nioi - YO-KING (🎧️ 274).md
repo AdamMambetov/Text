@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[YO-KING (🎙️ 483)]]"
 ListenInSec: 466
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 1
 related: []
 source: ""

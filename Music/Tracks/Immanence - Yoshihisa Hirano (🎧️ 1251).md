@@ -9,6 +9,8 @@ CoverOf: ""
 Creators:
   - "[[Yoshihisa Hirano (🎙️ 886)]]"
 ListenInSec: 242
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 24
 related: []
 source: ""

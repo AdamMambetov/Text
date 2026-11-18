@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[MAN WITH A MISSION (🎙️ 645)]]"
 ListenInSec: 255
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 1
 related:
   - "[[Seven Deadly Sins (TV Size) - MAN WITH A MISSION]]"

@@ -12,6 +12,8 @@ Creators:
   - "[[Fairouz Ai (🎙️ 605)]]"
   - "[[Ishikawa Kaito (🎙️ 606)]]"
 ListenInSec: 2774
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related:
   - "[[Onegai Muscle (TV Size) - Fairouz Ai (🎧️ 1701)]]"

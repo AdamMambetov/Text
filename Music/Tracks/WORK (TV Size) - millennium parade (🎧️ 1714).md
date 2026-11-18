@@ -12,6 +12,8 @@ CoverOf: ""
 Creators:
   - "[[millennium parade (🎙️ 663)]]"
 ListenInSec: 1113
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 source: ""

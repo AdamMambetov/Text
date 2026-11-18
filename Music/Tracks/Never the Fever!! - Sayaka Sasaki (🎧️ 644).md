@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[Sayaka Sasaki (🎙️ 431)]]"
 ListenInSec: 502
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 1
 related: []
 source: ""

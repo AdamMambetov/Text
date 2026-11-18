@@ -12,6 +12,8 @@ Creators:
   - "[[AKINO (🎙️ 160)]]"
   - "[[bless4 (🎙️ 161)]]"
 ListenInSec: 4504
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related:
   - "[[Extra Magic Hour (TV Size) - AKINO (🎧️ 2138)]]"

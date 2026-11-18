@@ -10,6 +10,8 @@ CoverOf: ""
 Creators:
   - "[[sweet ARMS (🎙️ 573)]]"
 ListenInSec: 217
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 source: ""

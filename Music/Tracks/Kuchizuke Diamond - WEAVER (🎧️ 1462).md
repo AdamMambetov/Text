@@ -10,6 +10,8 @@ CoverOf: ""
 Creators:
   - "[[WEAVER (🎙️ 776)]]"
 ListenInSec: 1198
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related:
   - "[[Kuchizuke Diamond (TV Size) - WEAVER (🎧️ 1463)]]"

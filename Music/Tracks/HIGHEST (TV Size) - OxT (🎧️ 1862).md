@@ -10,6 +10,8 @@ CoverOf: ""
 Creators:
   - "[[OxT (🎙️ 649)]]"
 ListenInSec: 1367
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related:
   - "[[HIGHEST - OxT (🎧️ 587)]]"

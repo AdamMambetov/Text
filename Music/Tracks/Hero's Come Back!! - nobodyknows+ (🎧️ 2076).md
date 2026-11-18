@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[nobodyknows+ (🎙️ 1049)]]"
 ListenInSec: 354
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 SourceFile: "[[nobodyknows+ - Hero's Come Back!!.mp3]]"

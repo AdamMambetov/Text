@@ -9,6 +9,8 @@ CoverOf: ""
 Creators:
   - "[[The Natsuyasumi Band (🎙️ 690)]]"
 ListenInSec: 556
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 5
 related: []
 source: ""

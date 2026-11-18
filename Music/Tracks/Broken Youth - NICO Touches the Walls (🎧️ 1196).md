@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[NICO Touches the Walls (🎙️ 389)]]"
 ListenInSec: 1656
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 source: ""

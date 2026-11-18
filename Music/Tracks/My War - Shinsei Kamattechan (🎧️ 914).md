@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[Shinsei Kamattechan (🎙️ 651)]]"
 ListenInSec: 830
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 source: ""

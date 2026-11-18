@@ -12,6 +12,8 @@ CoverOf: ""
 Creators:
   - "[[Kitou Akari (🎙️ 627)]]"
 ListenInSec: 1731
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 source: ""

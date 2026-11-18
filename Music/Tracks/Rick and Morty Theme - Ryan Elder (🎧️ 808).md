@@ -11,7 +11,7 @@ Creators:
   - "[[Ryan Elder (🎙️ 852)]]"
 ListenInSec: 232
 Marks:
-  - "Cartoon"
+  - "[[Cartoon]]"
 NumberInAlbum: 1
 related: []
 source: ""

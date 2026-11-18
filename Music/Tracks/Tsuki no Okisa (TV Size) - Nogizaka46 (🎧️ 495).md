@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[Nogizaka46 (🎙️ 392)]]"
 ListenInSec: 206
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 source: ""

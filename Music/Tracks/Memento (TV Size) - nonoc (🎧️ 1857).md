@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[nonoc (🎙️ 792)]]"
 ListenInSec: 1178
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related:
   - "[[Memento - nonoc (🎧️ 1856)]]"

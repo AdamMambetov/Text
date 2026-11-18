@@ -15,7 +15,7 @@ related:
 SourceFile: "[[Sonny Boy OST - Shounen Shoujo.mp3]]"
 Genres: []
 Marks:
-  - "Anime"
+  - "[[Anime]]"
 sources:
   - "[[Сонни Бой (🇯🇵📺 100)|Сонни Бой|ending:1]]"
 ---

@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[SID (🎙️ 435)]]"
 ListenInSec: 457
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related:
   - "[[Ranbu no Melody (TV Size) - SID (🎧️ 1095)]]"

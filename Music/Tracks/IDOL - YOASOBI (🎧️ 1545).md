@@ -9,6 +9,8 @@ CoverOf: ""
 Creators:
   - "[[YOASOBI (🎙️ 657)]]"
 ListenInSec: 691
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 source: ""

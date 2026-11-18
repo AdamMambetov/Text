@@ -13,14 +13,13 @@ Creators:
   - "[[Mikakuning! (🎙️ 951)]]"
   - "[[Junky (🎙️ 950)]]"
 Genres:
-  - "Dance"
-  - "Pop"
-  - "Rock"
+  - "[[Dance]]"
+  - "[[Pop]]"
+  - "[[Rock]]"
 ListenInSec: 1980
 Marks:
-  - "Anime"
-  - "Indie"
-  - "OP"
+  - "[[Anime]]"
+  - "[[Indie]]"
 NumberInAlbum: 0
 related:
   - "[[Tomadoi→Recipe - Mikakuning! (🎧️ 1615)]]"

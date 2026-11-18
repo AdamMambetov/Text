@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[FLOW (🎙️ 309)]]"
 ListenInSec: 484
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related:
   - "[[Steppin' Out (TV Size) - FLOW (🎧️ 1685)]]"

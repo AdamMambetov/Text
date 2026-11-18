@@ -12,6 +12,8 @@ CoverOf: ""
 Creators:
   - "[[Creepy Nuts (🎙️ 267)]]"
 ListenInSec: 926
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related:
   - "[[Bling-Bang-Bang-Born (TV Size) - Creepy Nuts (🎧️ 1117)]]"

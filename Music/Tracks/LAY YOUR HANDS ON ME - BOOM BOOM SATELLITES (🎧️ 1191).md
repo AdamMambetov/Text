@@ -11,7 +11,7 @@ Creators:
 Genres: []
 ListenInSec: 6166
 Marks:
-  - "Anime"
+  - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 SourceFile: "[[BOOM BOOM SATELLITES – LAY YOUR HANDS ON ME.mp3]]"

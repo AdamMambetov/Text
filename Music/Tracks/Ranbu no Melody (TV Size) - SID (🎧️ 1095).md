@@ -9,6 +9,8 @@ CoverOf: ""
 Creators:
   - "[[SID (🎙️ 435)]]"
 ListenInSec: 281
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 1
 related:
   - "[[Ranbu No Melody - SID (🎧️ 227)]]"

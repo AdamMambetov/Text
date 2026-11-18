@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[Dean Fujioka (🎙️ 975)]]"
 ListenInSec: 196
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related:
   - "[[History Maker - Dean Fujioka]]"

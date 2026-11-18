@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[MYTH & ROID (🎙️ 382)]]"
 ListenInSec: 1592
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 1
 related:
   - "[[Styx Helix (TV Size) - MYTH & ROID]]"

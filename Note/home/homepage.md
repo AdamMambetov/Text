@@ -18,3 +18,32 @@ cssclasses:
 # Статистика базы знаний
 - [Недавно созданные](created): `$=dv.pages('').where(f => f.created > (now() - dv.duration("1 month"))).length`
   `$=dv.list(dv.pages('').where(f => f.created > (now() - dv.duration("1 month"))).sort(f => f.created.ts, "desc").limit(20).file.link)`
+
+# Diagrams
+
+```mermaid  
+flowchart TD
+	A[Christmas] -->|Get money| B(Go shopping)
+	B --> C{Let me think}
+	C -->|One| D[Laptop]
+	C -->|Two| E[iPhone]
+	C -->|Three| F[fa:fa-car Car]
+```
+
+```dataviewjs
+const labels = ['One', 'Two', 'Three'];
+const data = [1, 2, 3];
+
+const chartData = {  
+    type: 'bar',
+    data: {
+        labels: labels,
+        datasets: [{
+            label: 'Numbers',
+            data: data
+        }]
+    }
+}
+
+window.renderChart(chartData, this.container);
+```

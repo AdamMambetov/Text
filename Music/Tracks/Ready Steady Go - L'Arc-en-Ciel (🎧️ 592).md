@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[L'Arc-en-Ciel (🎙️ 707)]]"
 ListenInSec: 2007
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related:
   - "[[Ready Steady Go (TV Size) - L'Arc-en-Ciel]]"

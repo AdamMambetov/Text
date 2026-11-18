@@ -9,6 +9,8 @@ CoverOf: ""
 Creators:
   - "[[Yasuharu Takanashi (🎙️ 749)]]"
 ListenInSec: 784
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 6
 related: []
 SourceFile: "[[Shiki OST - 06 Epitaph.mp3]]"

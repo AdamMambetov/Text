@@ -13,6 +13,8 @@ CoverOf: ""
 Creators:
   - "[[ASCA (🎙️ 191)]]"
 ListenInSec: 459
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related:
   - "[[RESISTER (TV Size) - ASCA]]"

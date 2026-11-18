@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[Group Tamashii (🎙️ 1032)]]"
 ListenInSec: 1263
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 source: ""

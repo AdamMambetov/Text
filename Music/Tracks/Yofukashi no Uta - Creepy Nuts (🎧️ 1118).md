@@ -14,7 +14,7 @@ related: []
 SourceFile: "[[Creepy Nuts - Yofukashi no Uta.mp3]]"
 Genres: []
 Marks:
-  - "Anime"
+  - "[[Anime]]"
 sources:
   - "[[Песнь ночных сов (🇯🇵📺 58)|Песнь ночных сов|ending:1]]"
 ---

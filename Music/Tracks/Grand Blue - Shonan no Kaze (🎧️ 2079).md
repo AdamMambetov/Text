@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[Shonan no Kaze (🎙️ 809)]]"
 ListenInSec: 689
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 source: ""

@@ -11,7 +11,7 @@ Creators:
 Genres: []
 ListenInSec: 10404
 Marks:
-  - "Anime"
+  - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 SourceFile: "[[fripSide - Black Bullet.mp3]]"

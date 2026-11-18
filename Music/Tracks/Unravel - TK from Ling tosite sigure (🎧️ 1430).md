@@ -11,7 +11,7 @@ Creators:
 Genres: []
 ListenInSec: 4559
 Marks:
-  - "Anime"
+  - "[[Anime]]"
 NumberInAlbum: 0
 related:
   - "[[Unravel (TV Size) - TK from Ling tosite sigure (🎧️ 1082)]]"

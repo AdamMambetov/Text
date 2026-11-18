@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[Cö Shu Nie (🎙️ 686)]]"
 ListenInSec: 815
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 source: ""

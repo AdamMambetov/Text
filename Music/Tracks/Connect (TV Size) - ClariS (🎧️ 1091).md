@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[ClariS (🎙️ 262)]]"
 ListenInSec: 1225
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related:
   - "[[Connect - ClariS (🎧️ 1223)]]"

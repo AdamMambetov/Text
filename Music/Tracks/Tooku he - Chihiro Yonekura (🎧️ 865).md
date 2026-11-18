@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[Chihiro Yonekura (🎙️ 259)]]"
 ListenInSec: 4610
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 source: ""

@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[Kaen (🎙️ 687)]]"
 ListenInSec: 1887
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 source: ""

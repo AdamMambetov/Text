@@ -10,6 +10,8 @@ CoverOf: ""
 Creators:
   - "[[waterweed (🎙️ 752)]]"
 ListenInSec: 456
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related:
   - "[[Cure - waterweed (🎧️ 1536)]]"

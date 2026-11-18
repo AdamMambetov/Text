@@ -11,7 +11,7 @@ Creators:
 Genres: []
 ListenInSec: 1506
 Marks:
-  - "Anime"
+  - "[[Anime]]"
 NumberInAlbum: 0
 related:
   - "[[Hitorigoto (TV Size) - ClariS (🎧️ 1081)]]"

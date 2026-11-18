@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[Lia (🎙️ 656)]]"
 ListenInSec: 1562
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related:
   - "[[My Soul, Your Beats! - Lia (🎧️ 1741)]]"

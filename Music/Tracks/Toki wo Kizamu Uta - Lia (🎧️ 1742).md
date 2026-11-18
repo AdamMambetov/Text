@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[Lia (🎙️ 656)]]"
 ListenInSec: 4687
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related:
   - "[[Toki wo Kizamu Uta (TV Size) - Lia (🎧️ 1744)]]"

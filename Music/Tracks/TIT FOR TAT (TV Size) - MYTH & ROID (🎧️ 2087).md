@@ -10,6 +10,8 @@ CoverOf: ""
 Creators:
   - "[[MYTH & ROID (🎙️ 382)]]"
 ListenInSec: 1374
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related:
   - "[[TIT FOR TAT - MYTH & ROID (🎧️ 1475)]]"

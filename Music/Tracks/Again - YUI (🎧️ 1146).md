@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[YUI (🎙️ 485)]]"
 ListenInSec: 501
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 source: ""

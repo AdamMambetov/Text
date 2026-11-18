@@ -12,7 +12,7 @@ Creators:
 Genres: []
 ListenInSec: 827
 Marks:
-  - "Anime"
+  - "[[Anime]]"
 NumberInAlbum: 0
 related:
   - "[[Chitty Chitty Bang Bang - QUEENDOM (🎧️ 1602)]]"

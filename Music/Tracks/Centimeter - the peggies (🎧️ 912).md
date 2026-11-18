@@ -9,6 +9,8 @@ CoverOf: ""
 Creators:
   - "[[the peggies (🎙️ 458)]]"
 ListenInSec: 432
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related:
   - "[[Centimeter (TV Size) - the peggies]]"

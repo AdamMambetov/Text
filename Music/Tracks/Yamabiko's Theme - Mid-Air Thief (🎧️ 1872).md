@@ -9,6 +9,8 @@ CoverOf: ""
 Creators:
   - "[[Mid-Air Thief (🎙️ 696)]]"
 ListenInSec: 1847
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 9
 related: []
 SourceFile: "[[Sonny Boy OST - Yamabiko's Theme.mp3]]"

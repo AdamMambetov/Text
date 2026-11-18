@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[SPYAIR (🎙️ 442)]]"
 ListenInSec: 798
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 source: ""

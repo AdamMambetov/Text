@@ -9,6 +9,8 @@ CoverOf: ""
 Creators:
   - "[[Go Sakabe (🎙️ 315)]]"
 ListenInSec: 421
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 source: ""

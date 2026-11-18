@@ -9,6 +9,8 @@ CoverOf: ""
 Creators:
   - "[[coldrain (🎙️ 820)]]"
 ListenInSec: 5469
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related:
   - "[[We're not alone (TV Size) - coldrain (🎧️ 2130)]]"

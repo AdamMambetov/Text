@@ -9,6 +9,8 @@ CoverOf: ""
 Creators:
   - "[[Conisch (🎙️ 695)]]"
 ListenInSec: 414
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 18
 related: []
 source: ""

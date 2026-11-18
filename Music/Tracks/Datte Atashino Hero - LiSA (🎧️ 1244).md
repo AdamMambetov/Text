@@ -9,6 +9,8 @@ CoverOf: ""
 Creators:
   - "[[LiSA (🎙️ 65)]]"
 ListenInSec: 704
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 source: ""

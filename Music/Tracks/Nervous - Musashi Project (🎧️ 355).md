@@ -9,6 +9,8 @@ CoverOf: ""
 Creators:
   - "[[Musashi Project (🎙️ 558)]]"
 ListenInSec: -106
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 6
 related: []
 source:

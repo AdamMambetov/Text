@@ -11,6 +11,8 @@ Creators:
   - "[[The Akeboshi Rockets (🎙️ 48)]]"
   - "[[Kishida Kyoudan (🎙️ 49)]]"
 ListenInSec: 802
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 source: ""

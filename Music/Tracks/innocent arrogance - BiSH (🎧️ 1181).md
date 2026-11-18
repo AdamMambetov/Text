@@ -10,6 +10,8 @@ CoverOf: ""
 Creators:
   - "[[BiSH (🎙️ 220)]]"
 ListenInSec: 641
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 source: ""

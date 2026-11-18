@@ -11,6 +11,8 @@ Creators:
   - "[[Kanai Mika (🎙️ 830)]]"
   - "[[Horie Yui (🎙️ 330)]]"
 ListenInSec: 2856
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Happy! Lucky! Dochy!.mp3]]"

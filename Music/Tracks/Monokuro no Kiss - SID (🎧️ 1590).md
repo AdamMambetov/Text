@@ -10,6 +10,8 @@ CoverOf: ""
 Creators:
   - "[[SID (🎙️ 435)]]"
 ListenInSec: 1479
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 source: ""

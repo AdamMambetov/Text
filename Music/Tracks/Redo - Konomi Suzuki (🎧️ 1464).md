@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[Konomi Suzuki (🎙️ 351)]]"
 ListenInSec: 7356
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 1
 related:
   - "[[Redo (TV Size) - Konomi Suzuki (🎧️ 1068)]]"

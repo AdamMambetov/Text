@@ -9,6 +9,8 @@ CoverOf: ""
 Creators:
   - "[[Konishi Kayo (🎙️ 893)]]"
 ListenInSec: 260
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 source: ""

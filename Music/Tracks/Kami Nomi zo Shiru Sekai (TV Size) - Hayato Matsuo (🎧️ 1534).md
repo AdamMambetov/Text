@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[Hayato Matsuo (🎙️ 938)]]"
 ListenInSec: 821
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 source: ""

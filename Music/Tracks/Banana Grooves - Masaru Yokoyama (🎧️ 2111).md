@@ -9,6 +9,8 @@ CoverOf: ""
 Creators:
   - "[[Masaru Yokoyama (🎙️ 997)]]"
 ListenInSec: 179
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 13
 related: []
 source: ""

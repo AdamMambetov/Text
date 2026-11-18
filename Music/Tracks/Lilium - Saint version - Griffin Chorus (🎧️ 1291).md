@@ -9,6 +9,8 @@ CoverOf: ""
 Creators:
   - "[[Griffin Chorus (🎙️ 892)]]"
 ListenInSec: 852
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 source: ""

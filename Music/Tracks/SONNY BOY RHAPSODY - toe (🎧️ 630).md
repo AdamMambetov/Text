@@ -9,6 +9,8 @@ CoverOf: ""
 Creators:
   - "[[toe (🎙️ 694)]]"
 ListenInSec: 223
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 16
 related: []
 source: ""

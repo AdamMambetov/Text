@@ -17,7 +17,7 @@ source: ""
 SourceFile: "[[Koga Tomoe - Fukashigi no Carte (TV Size).mp3]]"
 Genres: []
 Marks:
-  - "Anime"
+  - "[[Anime]]"
 sources:
   - "[[Этот глупый свин не понимает мечту девочки-зайки (🇯🇵📺 525)|Этот глупый свин не понимает мечту девочки-зайки|ending:2]]"
 ---

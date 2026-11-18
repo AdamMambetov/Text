@@ -12,6 +12,8 @@ CoverOf: ""
 Creators:
   - "[[OxT (🎙️ 649)]]"
 ListenInSec: 723
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 source: ""

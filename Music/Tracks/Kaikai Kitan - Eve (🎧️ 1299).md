@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[Eve (🎙️ 34)]]"
 ListenInSec: 2495
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 source: https://youtu.be/1tk1pqwrOys?si=9hOP9rt-f0EZnAO1

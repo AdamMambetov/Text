@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[STANCE PUNKS (🎙️ 443)]]"
 ListenInSec: 1256
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related:
   - "[[No Boy, No Cry (TV Size) - STANCE PUNKS]]"

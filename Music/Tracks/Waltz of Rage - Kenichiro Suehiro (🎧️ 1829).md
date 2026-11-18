@@ -9,6 +9,8 @@ CoverOf: ""
 Creators:
   - "[[Kenichiro Suehiro (🎙️ 748)]]"
 ListenInSec: 458
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 41
 related: []
 SourceFile: "[[ReZero 1 OST - 41 Waltz of Rage.mp3]]"

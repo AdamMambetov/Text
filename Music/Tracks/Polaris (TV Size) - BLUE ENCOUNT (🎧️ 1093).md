@@ -9,6 +9,8 @@ CoverOf: ""
 Creators:
   - "[[BLUE ENCOUNT (🎙️ 864)]]"
 ListenInSec: 301
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 1
 related: []
 source: ""

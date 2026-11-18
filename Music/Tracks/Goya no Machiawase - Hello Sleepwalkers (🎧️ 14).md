@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[Hello Sleepwalkers (🎙️ 326)]]"
 ListenInSec: 380
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related:
   - "[[Goya no Machiawase (TV Size) - Hello Sleepwalkers]]"

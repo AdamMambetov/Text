@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[T.M. Revolution (🎙️ 805)]]"
 ListenInSec: 4638
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related:
   - "[[Resonance (TV Size) - T.M. Revolution (🎧️ 1422)]]"

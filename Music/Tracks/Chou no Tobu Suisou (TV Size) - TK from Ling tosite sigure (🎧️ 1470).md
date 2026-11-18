@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[TK from Ling tosite sigure (🎙️ 655)]]"
 ListenInSec: 372
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 source: ""

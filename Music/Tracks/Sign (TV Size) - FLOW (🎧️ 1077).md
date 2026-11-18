@@ -9,6 +9,8 @@ CoverOf: ""
 Creators:
   - "[[FLOW (🎙️ 309)]]"
 ListenInSec: 2140
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 1
 related:
   - "[[Sign - FLOW]]"

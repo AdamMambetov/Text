@@ -11,7 +11,7 @@ Creators:
 Genres: []
 ListenInSec: 2026
 Marks:
-  - "Anime"
+  - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 SourceFile: "[[ASOBI - Daremo Karemo Dokomo Nanimo Shiranai.mp3]]"

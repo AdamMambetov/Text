@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[SPYAIR (🎙️ 442)]]"
 ListenInSec: 400
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related:
   - "[[Sakuramitsutsuki - SPYAIR (🎧️ 1458)]]"

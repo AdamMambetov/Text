@@ -11,7 +11,7 @@ Creators:
 Genres: []
 ListenInSec: 1313
 Marks:
-  - "Anime"
+  - "[[Anime]]"
 NumberInAlbum: 0
 related:
   - "[[Hotaru no Hikari - Ikimonogakari (🎧️ 1715)]]"

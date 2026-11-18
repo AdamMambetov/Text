@@ -9,6 +9,8 @@ CoverOf: ""
 Creators:
   - "[[mitsume (🎙️ 691)]]"
 ListenInSec: 373
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 6
 related: []
 source: ""

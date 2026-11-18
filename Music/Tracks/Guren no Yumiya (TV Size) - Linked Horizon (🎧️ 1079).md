@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[Linked Horizon (🎙️ 730)]]"
 ListenInSec: 1186
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related:
   - "[[Guren no Yumiya - Linked Horizon]]"

@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[ClariS (🎙️ 262)]]"
 ListenInSec: 11676
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related:
   - "[[Connect (TV Size) - ClariS (🎧️ 1091)]]"

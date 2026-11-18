@@ -9,6 +9,8 @@ CoverOf: ""
 Creators:
   - "[[Kaneyori Masaru (🎙️ 697)]]"
 ListenInSec: 479
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 13
 related: []
 source: ""

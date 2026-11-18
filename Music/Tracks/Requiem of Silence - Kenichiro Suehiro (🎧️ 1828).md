@@ -9,6 +9,8 @@ CoverOf: ""
 Creators:
   - "[[Kenichiro Suehiro (🎙️ 748)]]"
 ListenInSec: 698
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 40
 related: []
 source: ""

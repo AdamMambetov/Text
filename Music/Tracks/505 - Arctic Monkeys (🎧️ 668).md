@@ -11,7 +11,7 @@ Creators:
 Genres: "[[Pop rock]]"
 ListenInSec: 878
 Marks:
-  - "Indie"
+  - "[[Indie]]"
 NumberInAlbum: 0
 related: []
 source: ""

@@ -12,6 +12,8 @@ CoverOf: ""
 Creators:
   - "[[coldrain (🎙️ 820)]]"
 ListenInSec: 915
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 source: ""

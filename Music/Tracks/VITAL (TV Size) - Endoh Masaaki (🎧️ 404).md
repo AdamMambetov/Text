@@ -9,6 +9,8 @@ CoverOf: ""
 Creators:
   - "[[Endoh Masaaki (🎙️ 565)]]"
 ListenInSec: 1396
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 1
 related: []
 source:

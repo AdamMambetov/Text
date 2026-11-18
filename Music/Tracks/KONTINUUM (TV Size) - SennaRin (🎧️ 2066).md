@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[SennaRin (🎙️ 812)]]"
 ListenInSec: 1689
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 source: ""

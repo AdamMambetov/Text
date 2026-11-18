@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[Larval Stage Planning (🎙️ 832)]]"
 ListenInSec: 681
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 1
 related:
   - "[[Trip Innocent of D (TV Size)]]"

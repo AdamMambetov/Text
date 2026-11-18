@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[Motohiro Hata (🎙️ 858)]]"
 ListenInSec: 480
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 1
 related: []
 source: ""

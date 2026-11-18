@@ -9,6 +9,8 @@ CoverOf: ""
 Creators:
   - "[[Tominaga Tommy Hiroaki (🎙️ 564)]]"
 ListenInSec: 1442
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 1
 related: []
 source: ""

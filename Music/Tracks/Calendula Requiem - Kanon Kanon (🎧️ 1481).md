@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[Kanon Kanon (🎙️ 725)]]"
 ListenInSec: 2224
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Kanon Kanon - Calendula Requiem.mp3]]"

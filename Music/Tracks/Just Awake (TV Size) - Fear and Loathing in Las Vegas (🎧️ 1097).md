@@ -15,7 +15,7 @@ source: ""
 SourceFile: "[[Fear, and Loathing in Las Vegas - Just Awake (TV Size).mp3]]"
 Genres: []
 Marks:
-  - "Anime"
+  - "[[Anime]]"
 sources:
   - "[[Охотник х Охотник (2011) (🇯🇵📺 819)|Охотник х Охотник (2011)|ending:1]]"
 ---

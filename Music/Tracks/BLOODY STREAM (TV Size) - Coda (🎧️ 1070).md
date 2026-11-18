@@ -9,6 +9,8 @@ CoverOf: ""
 Creators:
   - "[[Coda (🎙️ 263)]]"
 ListenInSec: 279
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 1
 related:
   - "[[BLOODY STREAM - Coda (🎧️ 408)]]"

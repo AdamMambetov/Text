@@ -12,6 +12,8 @@ CoverOf: ""
 Creators:
   - "[[Yousei Teikoku (🎙️ 275)]]"
 ListenInSec: 3077
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related:
   - "[[Kuusou Mesorogiwi (TV Size) - Yousei Teikoku (🎧️ 1080)]]"

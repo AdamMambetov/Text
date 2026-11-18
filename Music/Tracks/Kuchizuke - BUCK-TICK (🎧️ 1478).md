@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[BUCK-TICK (🎙️ 750)]]"
 ListenInSec: 1294
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related:
   - "[[Kuchizuke (TV Size) - BUCK-TICK (🎧️ 1479)]]"

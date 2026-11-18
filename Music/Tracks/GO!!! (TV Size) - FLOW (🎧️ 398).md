@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[FLOW (🎙️ 309)]]"
 ListenInSec: 3919
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 1
 related: []
 SourceFile: "[[FLOW - GO!!! (TV Size).mp3]]"

@@ -12,6 +12,8 @@ CoverOf: ""
 Creators:
   - "[[THE ORAL CIGARETTES (🎙️ 823)]]"
 ListenInSec: 1953
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 source: ""

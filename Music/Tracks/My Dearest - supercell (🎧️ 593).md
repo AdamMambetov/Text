@@ -11,6 +11,8 @@ CoverOf: ""
 Creators:
   - "[[supercell (🎙️ 59)]]"
 ListenInSec: 4451
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related:
   - "[[My Dearest (TV Size) - supercell (🎧️ 2092)]]"
