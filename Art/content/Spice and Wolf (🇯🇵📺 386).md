@@ -1,9 +1,9 @@
 ---
 created: 2024-09-23T18:17:48+03:00
 aliases:
-  - Spice and Wolf
-  - Волчица и пряности
-  - Ookami to Koushinryou
+  - "Spice and Wolf"
+  - "Волчица и пряности"
+  - "Ookami to Koushinryou"
 Status: complete
 Type: anime
 Rating:
@@ -14,7 +14,7 @@ Year: 2008
 Episode: 13
 Views: 1
 tags:
-  - ❤
+  - "❤"
 related:
   - "[[Spice and Wolf. Merchant Meets the Wise Wolf (🇯🇵📺 189)]]"
   - "[[у меня фетиш на торговлю.jpg]]"

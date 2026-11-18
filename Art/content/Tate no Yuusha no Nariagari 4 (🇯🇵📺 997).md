@@ -1,9 +1,9 @@
 ---
 created: 2025-07-13T23:52:26+03:00
 aliases:
-  - Tate no Yuusha no Nariagari 4
-  - Восхождение героя щита 4
-  - The Rising of the Shield Hero 4
+  - "Tate no Yuusha no Nariagari 4"
+  - "Восхождение героя щита 4"
+  - "The Rising of the Shield Hero 4"
 Status: complete
 Type: anime
 Rating:

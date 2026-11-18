@@ -1,8 +1,8 @@
 ---
 created: 2024-06-10T02:47:00
 aliases:
-  - Venom 1
-  - Веном 1
+  - "Venom 1"
+  - "Веном 1"
 Status: complete
 Type: film
 Rating:
@@ -12,7 +12,7 @@ Cover: "[[venom_film_cover.jpg]]"
 Year: 2018
 Views: 1
 tags:
-  - ❤
+  - "❤"
 Продолжение: "[[Venom 2. Let There Be Carnage (🇺🇸🎞 1023)]]"
 ---
 

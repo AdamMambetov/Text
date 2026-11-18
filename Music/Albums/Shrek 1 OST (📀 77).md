@@ -9,7 +9,7 @@ Creators: []
 source: https://en.wikipedia.org/wiki/Shrek_(soundtrack)
 tracklist:
   - "Stay Home - Self"
-  - "[[I'm A Believer - Smash Mouth (🎧️ 310)]]"
+  - "[[I'm A Believer - Smash Mouth (🎧️ 309)]]"
   - "Like Wow! - Leslie Carter"
   - "It Is You (I Have Loved) - Dana Glover"
   - "Best Years of Our Lives - Baha Men"
@@ -17,8 +17,8 @@ tracklist:
   - "My Beloved Monster - Eels"
   - "You Belong to Me - Jason Wade"
   - "[[All Star - Smash Mouth (🎧️ 25)]]"
-  - "[[Hallelujah - Rufus Wainwright (🎧️ 301)]]"
-  - "[[I'm On My Way - The Proclaimers (🎧️ 1639)]]"
+  - "[[Hallelujah - Rufus Wainwright (🎧️ 300)]]"
+  - "[[I'm On My Way - The Proclaimers (🎧️ 1638)]]"
   - "I'm a Believer (Reprise) - Eddie Murphy"
   - "True Love's First Kiss (Film score)"
 ---

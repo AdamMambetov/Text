@@ -1,12 +1,12 @@
 ---
 created: 2024-09-22T22:47:52+03:00
 aliases:
-  - Shingeki no Kyojin
-  - Атака титанов
-  - Attack on Titan
-  - Вторжение гигантов
-  - Вторжение титанов
-  - Атакующий титан
+  - "Shingeki no Kyojin"
+  - "Атака титанов"
+  - "Attack on Titan"
+  - "Вторжение гигантов"
+  - "Вторжение титанов"
+  - "Атакующий титан"
 Status: complete
 Type: anime
 Rating:
@@ -17,7 +17,7 @@ Year: 2013
 Episode: 25
 Views: 2
 tags:
-  - ❤
+  - "❤"
 Продолжение: "[[Shingeki no Kyojin 2 (🇯🇵📺 351)]]"
 ---
 

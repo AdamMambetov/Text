@@ -1,0 +1,26 @@
+---
+created: 2026-09-10T17:52:22+03:00
+aliases:
+  - "Tea Break"
+  - "otayakai"
+Cover: "[[Your Turn To Die OST.jpg]]"
+Year: 2017
+Album: "[[Your Turn To Die OST — Nankidai]]"
+CoverOf: ""
+Creators:
+  - "[[Nankidai (🎙️ 909)]]"
+ListenInSec: 232
+NumberInAlbum: 70
+related: []
+source: ""
+SourceFile: "[[Your Turn To Die OST - 70 Tea Break.ogg]]"
+---
+
+`$=dv.header(1, dv.current().aliases[0])`
+
+![[Your Turn To Die OST - 70 Tea Break.ogg]]
+
+## Related Tracks
+
+![[related tracks.base]]
+

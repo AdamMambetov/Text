@@ -1,9 +1,9 @@
 ---
 created: 2024-04-14T00:04:00
 aliases:
-  - Link Click 2
-  - Агент времени 2
-  - Shiguang Dailiren 2
+  - "Link Click 2"
+  - "Агент времени 2"
+  - "Shiguang Dailiren 2"
 Status: complete
 Type: anime
 Rating:
@@ -17,7 +17,7 @@ related:
   - "[[@Дмитрий Кесида]]"
 Stream: 1
 Предыстория: "[[Link Click (🇨🇳📺 3)]]"
-Продолжение: "[[Link Click. Bridon Arc (🇨🇳📺 1213)]]"
+Продолжение: "[[Link Click. Bridon Arc (🇨🇳📺 1212)]]"
 ---
 
 # Агент времени 2

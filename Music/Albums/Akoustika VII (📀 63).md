@@ -10,12 +10,12 @@ source: https://youtube.com/playlist?list=PLnfa_HdbN_GMBal17B7G9yH1GNG_ne8rm&si=
 tracklist:
   - "Musunde Hiraite 〜guitar vocal ver.〜"
   - "side-byside 〜guitar vocal ver.〜"
-  - "[[7-weights 〜piano inst ver.〜 - xaki (🎧️ 1960)]]"
-  - "[[l&d-circulation ~guitar inst ver.~ - xaki (🎧️ 1961)]]"
+  - "[[7-weights 〜piano inst ver.〜 - xaki (🎧️ 1959)]]"
+  - "[[l&d-circulation ~guitar inst ver.~ - xaki (🎧️ 1960)]]"
   - "Musunde Hiraite 〜guitar vocal ver.〜 [without vocal]"
-  - "[[side-byside 〜guitar vocal ver〜 (without vocal) - xaki (🎧️ 1962)]]"
-  - "[[Last Note ~Full piano vocal ver.~ - xaki (🎧️ 1963)]]"
-  - "[[Last Note ~Full piano vocal ver.~ (without vocal) - xaki (🎧️ 1964)]]"
+  - "[[side-byside 〜guitar vocal ver〜 (without vocal) - xaki (🎧️ 1961)]]"
+  - "[[Last Note ~Full piano vocal ver.~ - xaki (🎧️ 1962)]]"
+  - "[[Last Note ~Full piano vocal ver.~ (without vocal) - xaki (🎧️ 1963)]]"
 ---
 
 # Akoustika VII

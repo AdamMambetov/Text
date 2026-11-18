@@ -129,3 +129,10 @@ views:
     sort:
       - property: created
         direction: ASC
+  - type: table
+    name: просмотрено
+    filters:
+      and:
+        - Type == "anime"
+        - Status == "complete"
+        - Year == 2023

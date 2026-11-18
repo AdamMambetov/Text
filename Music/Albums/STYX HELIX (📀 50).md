@@ -7,8 +7,8 @@ Year: 2016
 Creators:
   - "[[MYTH & ROID (🎙️ 382)]]"
 tracklist:
-  - "[[STYX HELIX - MYTH & ROID (🎧️ 1856)]]"
-  - "[[STRAIGHT BET - MYTH & ROID (🎧️ 1855)]]"
+  - "[[STYX HELIX - MYTH & ROID (🎧️ 1855)]]"
+  - "[[STRAIGHT BET - MYTH & ROID (🎧️ 1854)]]"
 ---
 
 # STYX HELIX

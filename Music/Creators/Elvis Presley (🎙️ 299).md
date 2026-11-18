@@ -2,7 +2,7 @@
 created: 2025-11-19T23:08:51+03:00
 aliases:
   - "Elvis Presley"
-ListenInSec: 475
+ListenInSec: 615
 ---
 
 # Elvis Presley

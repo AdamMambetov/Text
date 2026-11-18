@@ -6,7 +6,7 @@ aliases:
 Cover: "[[RADIO TAPOK - RADIO TAPOK.jpg]]"
 Year: 2020
 Album: ""
-CoverOf: "[[Monster - Skillet (🎧️ 320)]]"
+CoverOf: "[[Monster - Skillet (🎧️ 319)]]"
 Creators:
   - "[[RADIO TAPOK (🎙️ 419)]]"
 ListenInSec: 184

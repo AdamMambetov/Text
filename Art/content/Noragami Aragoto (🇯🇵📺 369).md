@@ -1,10 +1,10 @@
 ---
 created: 2024-09-23T17:16:29+03:00
 aliases:
-  - Noragami Aragoto
+  - "Noragami Aragoto"
   - "Бездомный бог: Арагото"
-  - Бездомный бог 2
-  - Noragami 2
+  - "Бездомный бог 2"
+  - "Noragami 2"
 Status: complete
 Type: anime
 Rating:

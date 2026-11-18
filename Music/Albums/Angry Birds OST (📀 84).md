@@ -8,7 +8,7 @@ Creators:
   - "[[Rovio (🎙️ 1104)]]"
 source: https://downloads.khinsider.com/game-soundtracks/album/angry-birds
 tracklist:
-  - "[[Main Theme - Rovio (🎧️ 2325)]]"
+  - "[[Main Theme - Rovio (🎧️ 2324)]]"
 ---
 
 # Angry Birds OST

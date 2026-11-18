@@ -1,9 +1,9 @@
 ---
 created: 2024-09-23T17:01:49+03:00
 aliases:
-  - Jigokuraku
-  - Адский рай
-  - Hell's Paradise
+  - "Jigokuraku"
+  - "Адский рай"
+  - "Hell's Paradise"
 Status: complete
 Type: anime
 Rating:
@@ -13,7 +13,7 @@ Cover: "[[jigokuraku_anime_cover.png]]"
 Year: 2023
 Episode: 13
 Views: 1
-Продолжение: "[[Jigokuraku 2 (🇯🇵📺 1197)]]"
+Продолжение: "[[Jigokuraku 2 (🇯🇵📺 1196)]]"
 ---
 
 # Адский рай

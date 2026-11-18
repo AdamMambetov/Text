@@ -2,8 +2,8 @@
 created: 2024-09-23T17:53:41+03:00
 aliases:
   - "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen"
-  - Власть книжного червя
-  - Ascendance of a Bookworm
+  - "Власть книжного червя"
+  - "Ascendance of a Bookworm"
 Status: complete
 Type: anime
 Rating:

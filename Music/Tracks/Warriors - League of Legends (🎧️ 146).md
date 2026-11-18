@@ -5,7 +5,7 @@ aliases:
 Cover: "[[League of Legends - Warriors.png]]"
 Year: 2020
 Album: ""
-CoverOf: "[[Warriors - Imagine Dragons (🎧️ 290)]]"
+CoverOf: "[[Warriors - Imagine Dragons (🎧️ 289)]]"
 Creators:
   - "[[League of Legends (🎙️ 73)]]"
   - "[[2WEI (🎙️ 68)]]"

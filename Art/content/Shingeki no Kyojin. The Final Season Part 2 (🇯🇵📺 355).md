@@ -4,9 +4,9 @@ aliases:
   - "Shingeki no Kyojin: The Final Season Part 2"
   - "Атака титанов: Финал. Часть 2"
   - "Attack on Titan: Final Season Part 2"
-  - Вторжение гигантов 4. Часть 2
-  - Вторжение титанов 4. Часть 2
-  - Атакующий титан 4. Часть 2
+  - "Вторжение гигантов 4. Часть 2"
+  - "Вторжение титанов 4. Часть 2"
+  - "Атакующий титан 4. Часть 2"
 Status: complete
 Type: anime
 Rating:

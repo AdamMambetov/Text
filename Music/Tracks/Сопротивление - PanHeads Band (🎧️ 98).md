@@ -6,7 +6,7 @@ aliases:
 Cover: "[[PANHEADS BAND - Сопротивление.jpg]]"
 Year: 2021
 Album: ""
-CoverOf: "[[The Resistance - Skillet (🎧️ 318)]]"
+CoverOf: "[[The Resistance - Skillet (🎧️ 317)]]"
 Creators:
   - "[[PanHeads Band (🎙️ 407)]]"
 ListenInSec: 181

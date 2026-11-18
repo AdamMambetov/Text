@@ -57,3 +57,13 @@ views:
     filters:
       and:
         - "!file(Album).isTruthy()"
+  - type: table
+    name: View
+    order:
+      - ListenInSec
+      - file.name
+    sort:
+      - property: ListenInSec
+        direction: ASC
+    columnSize:
+      note.ListenInSec: 69

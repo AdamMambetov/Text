@@ -1,8 +1,8 @@
 ---
 created: 2022-03-16T00:02:00
 aliases:
-  - Noragami
-  - Бездомный бог
+  - "Noragami"
+  - "Бездомный бог"
 Status: complete
 Type: anime
 Rating:
@@ -13,7 +13,7 @@ Year: 2014
 Episode: 12
 Views: 2
 tags:
-  - ❤
+  - "❤"
 Адаптация: "[[Noragami (🇯🇵📗 112)]]"
 Продолжение: "[[Noragami Aragoto (🇯🇵📺 369)]]"
 ---

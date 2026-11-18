@@ -1,0 +1,21 @@
+---
+created: 2025-01-07T21:55:40+03:00
+aliases:
+  - "MIIRO (TV Size)"
+Cover: "[[AKINO from bless4 - MIIRO.jpg]]"
+Year: 0
+Album: ""
+CoverOf: ""
+Creators:
+  - "[[AKINO (🎙️ 160)]]"
+ListenInSec: 482
+NumberInAlbum: 0
+related:
+  - "[[MIIRO - AKINO (🎧️ 449)]]"
+source: ""
+SourceFile: "[[AKINO from bless4 - MIIRO (TV Size).mp3]]"
+---
+
+# AKINO from bless4 - MIIRO (TV Size)
+
+![[AKINO from bless4 - MIIRO (TV Size).mp3]]

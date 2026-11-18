@@ -2,7 +2,7 @@
 created: 2025-11-19T23:20:02+03:00
 aliases:
   - "J.I.D"
-ListenInSec: 671
+ListenInSec: 835
 ---
 
 # J.I.D

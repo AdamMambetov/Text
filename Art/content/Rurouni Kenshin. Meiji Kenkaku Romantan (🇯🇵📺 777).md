@@ -2,7 +2,7 @@
 created: 2024-11-04T14:22:32+03:00
 aliases:
   - "Rurouni Kenshin: Meiji Kenkaku Romantan"
-  - Бродяга Кэнсин (2023)
+  - "Бродяга Кэнсин (2023)"
 Status: plan
 Type: anime
 Rating:

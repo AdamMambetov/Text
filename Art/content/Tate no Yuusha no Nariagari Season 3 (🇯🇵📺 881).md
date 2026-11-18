@@ -1,10 +1,10 @@
 ---
 created: 2024-11-10T19:34:06+03:00
 aliases:
-  - Tate no Yuusha no Nariagari Season 3
-  - Восхождение героя щита 3
-  - The Rising of the Shield Hero Season 3
-  - Герой щита 3
+  - "Tate no Yuusha no Nariagari Season 3"
+  - "Восхождение героя щита 3"
+  - "The Rising of the Shield Hero Season 3"
+  - "Герой щита 3"
 Status: complete
 Type: anime
 Rating:

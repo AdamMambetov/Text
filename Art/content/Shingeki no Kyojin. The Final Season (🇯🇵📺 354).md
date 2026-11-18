@@ -4,9 +4,9 @@ aliases:
   - "Shingeki no Kyojin: The Final Season"
   - "Атака титанов: Финал"
   - "Attack on Titan: Final Season"
-  - Вторжение гигантов 4
-  - Вторжение титанов 4
-  - Атакующий титан 4
+  - "Вторжение гигантов 4"
+  - "Вторжение титанов 4"
+  - "Атакующий титан 4"
 Status: complete
 Type: anime
 Rating:

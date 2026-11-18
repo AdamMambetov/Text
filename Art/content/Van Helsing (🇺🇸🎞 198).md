@@ -1,8 +1,8 @@
 ---
 created: 2024-06-10T02:46:00
 aliases:
-  - Van Helsing
-  - Ван Хельсинг
+  - "Van Helsing"
+  - "Ван Хельсинг"
 Status: complete
 Type: film
 Rating:
@@ -11,7 +11,7 @@ Cover: "[[van_helsing_film_cover.jpg]]"
 Year: 2004
 Views: 10
 tags:
-  - ❤
+  - "❤"
 Предыстория: "[[Van Helsing. The London Assignment (🇺🇸📺️ 1029)]]"
 ---
 

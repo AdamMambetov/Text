@@ -1,10 +1,10 @@
 ---
 created: 2025-09-22T00:27:34+03:00
 aliases:
-  - To Be Hero X
-  - Быть героем Икс
-  - Tu Bian Yingxiong X
-  - Быть героем Х
+  - "To Be Hero X"
+  - "Быть героем Икс"
+  - "Tu Bian Yingxiong X"
+  - "Быть героем Х"
 Status: complete
 Type: anime
 Rating:
@@ -15,7 +15,7 @@ Year: 2025
 Episode: 24
 Views: 1
 tags:
-  - ❤
+  - "❤"
 Предыстория: "[[To Be Heroine (🇨🇳📺 1022)]]"
 ---
 

@@ -10,15 +10,15 @@ Creators:
   - "[[nekocapo (🎙️ 1007)]]"
 source: https://youtube.com/playlist?list=PLnfa_HdbN_GN0sCAvpJq-UyNscEEw-uVU&si=e9Ofr038qZV5T-nx
 tracklist:
-  - "[[Doorway of Summer - nekocapo (🎧️ 1929)]]"
-  - "[[far - nekocapo (🎧️ 1930)]]"
-  - "[[Witch of the Painting - nekocapo (🎧️ 1931)]]"
-  - "[[Organ Short 600 Million in C Minor - nekocapo (🎧️ 1932)]]"
-  - "[[About Face - nekocapo (🎧️ 1933)]]"
-  - "[[The Great Detective Knows - nekocapo (🎧️ 1934)]]"
-  - "[[Happy Maria! - nekocapo (🎧️ 1935)]]"
-  - "[[Answer - nekocapo (🎧️ 1936)]]"
-  - "[[hope - nekocapo (🎧️ 1937)]]"
+  - "[[Doorway of Summer - nekocapo (🎧️ 1928)]]"
+  - "[[far - nekocapo (🎧️ 1929)]]"
+  - "[[Witch of the Painting - nekocapo (🎧️ 1930)]]"
+  - "[[Organ Short 600 Million in C Minor - nekocapo (🎧️ 1931)]]"
+  - "[[About Face - nekocapo (🎧️ 1932)]]"
+  - "[[The Great Detective Knows - nekocapo (🎧️ 1933)]]"
+  - "[[Happy Maria! - nekocapo (🎧️ 1934)]]"
+  - "[[Answer - nekocapo (🎧️ 1935)]]"
+  - "[[hope - nekocapo (🎧️ 1936)]]"
 ---
 
 # Naku Naku Solo Guitar 2

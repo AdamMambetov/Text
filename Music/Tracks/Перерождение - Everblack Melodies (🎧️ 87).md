@@ -6,7 +6,7 @@ aliases:
 Cover: "[[Everblack Melodies - Перерождение.png]]"
 Year: 2022
 Album: ""
-CoverOf: "[[Rebirthing - Skillet (🎧️ 319)]]"
+CoverOf: "[[Rebirthing - Skillet (🎧️ 318)]]"
 Creators:
   - "[[Everblack Melodies (🎙️ 303)]]"
 ListenInSec: 318

@@ -1,9 +1,9 @@
 ---
 created: 2024-09-23T17:31:05+03:00
 aliases:
-  - To Be Hero
-  - Быть героем
-  - Tu Bian Yingxiong Baba
+  - "To Be Hero"
+  - "Быть героем"
+  - "Tu Bian Yingxiong Baba"
 Status: complete
 Type: anime
 Rating:
@@ -14,7 +14,7 @@ Year: 2016
 Episode: 12
 Views: 1
 tags:
-  - ❤
+  - "❤"
 Продолжение: "[[To Be Heroine (🇨🇳📺 1022)]]"
 ---
 

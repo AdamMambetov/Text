@@ -1,0 +1,22 @@
+---
+created: 2022-10-05T13:07:48+03:00
+aliases:
+  - "Kimi no Shiranai Monogatari (TV Size)"
+  - "Bakemonogatari ED 1"
+  - "Истории монстров ED 1"
+Cover: "[[ClariS - Kimi no Shiranai Monogatari.jpg]]"
+Year: 0
+Album: ""
+CoverOf: "[[Kimi no Shiranai Monogatari (TV Size) - supercell (🎧️ 1633)]]"
+Creators:
+  - "[[ClariS (🎙️ 262)]]"
+ListenInSec: 261
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[ClariS - Kimi no Shiranai Monogatari (TV Size).mp3]]"
+---
+
+# ClariS - Kimi no Shiranai Monogatari
+
+![[ClariS - Kimi no Shiranai Monogatari (TV Size).mp3]]

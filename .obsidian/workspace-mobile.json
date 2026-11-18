@@ -50,17 +50,17 @@
             }
           },
           {
-            "id": "5f66fb8450e454cc",
+            "id": "6a4723d6aefb6514",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note/templates/art update all number capture.md",
+                "file": "Music/Tracks/Ямайка - Робертино Лоретти (🎧️ 1989).md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "art update all number capture"
+              "title": "Ямайка - Робертино Лоретти (🎧️ 1989)"
             }
           }
         ],
@@ -160,7 +160,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Note/templates/art update all number capture.md",
+            "file": "Music/Tracks/Ямайка - Робертино Лоретти (🎧️ 1989).md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -234,35 +234,36 @@
       "obsidian-excalidraw-plugin:New drawing": true
     }
   },
-  "active": "5f66fb8450e454cc",
+  "active": "6a4723d6aefb6514",
   "lastOpenFiles": [
-    "Art/content/hackSIGN (🇯🇵📺 779).md",
-    "Note/templates/art update all number capture.md",
-    "Art/content/Corpse Party. Tortured Souls - Bougyakusareta Tamashii no Jukyou (🇯🇵📺 380).md",
-    "хакЗНАК (🇯🇵📺 768).md",
-    "Art/content/Link Click 3 (🇨🇳📺 1127).md",
-    "Art/content/Avatar. The Last Airbender (🇺🇸🎬 1156).md",
+    "Music/Playlists/osu! (💿 2).md",
+    "Music/Tracks/One Room Sugar Life - Nanawo Akari (🎧️ 493).md",
+    "Music/Marks/Series.md",
+    "Music/Tracks/Ekko Vs Jinx - League of Legends (🎧️ 1432).md",
+    "Music/Marks/Anime.md",
+    "Music/Marks/OP.md",
+    "Music/Tracks/Teenage Mutant Ninja Turtles 2003 Opening - Norman J. Grossfeld (🎧️ 2101).md",
+    "Music/Tracks/Rightfully - Onsa Media (🎧️ 1522).md",
+    "Music/Tracks/Rick and Morty Theme - Ryan Elder (🎧️ 808).md",
+    "Music/Tracks/Gravity Falls Theme Song - Brad Breeck (🎧️ 430).md",
+    "Music/Tracks/Go Go Power Rangers - Ron Wasserman (🎧️ 2075).md",
+    "Music/Tracks/Fanfare - sumika (🎧️ 484).md",
+    "Music/Tracks/Enemy - Imagine Dragons (🎧️ 1297).md",
+    "Music/Tracks/Big Bang Theory Theme - Barenaked Ladies (🎧️ 848).md",
+    "Music/Tracks/Черепашки-Ниндзя 2003 - Jackie-O (🎧️ 1524).md",
+    "Music/Tracks/Черепашки-Ниндзя 1987 - Jackie-O (🎧️ 1523).md",
+    "Music/Tracks/Если в сердце живёт любовь - Юлия Савичева (🎧️ 2008).md",
+    "Music/Marks/ED.md",
+    "Music/Tracks/Paranoid Android - Radiohead (🎧️ 605).md",
+    "Music/Tracks/La Divina Tragedia~Makyoku~ - Игорь Куликов (🎧️ 2045).md",
+    "Music/Tracks/La Divina Tragedia ~Makyoku~ - JIMANG (🎧️ 2041).md",
+    "Music/Tracks/Kaze Ni Naru - Ayano Tsuji (🎧️ 816).md",
+    "Art/content/Повелитель (🇯🇵📺 441).md",
+    "Music/2026-11-17-postgresql.log",
+    "Art/content/Девочка-волшебница Мадока★Волшебство (🇯🇵📺 410).md",
+    "Art/content/Охотник х Охотник (2011) (🇯🇵📺 1099).md",
+    "Art/content/Охотник х Охотник (2011) (🇯🇵📺 819).md",
     "Art/art.base",
-    "Art/content/Busamen Gachi Fighter (🇯🇵📺 999).md",
-    "Art/content/Subete ga F ni Naru (🇯🇵📺 594).md",
-    "Art/content/Bokura wa Minna Kawai-sou (🇯🇵📺 662).md",
-    "Art/content/The Best That Money Can't Buy (🇺🇸📘 294).md",
-    "Art/content/Shikong Zhi Xi (🇨🇳📺 1054).md",
-    "Art/content/In Time (🇺🇸🎞 119).md",
-    "Art/content/Steins;Gate Movie. Load Region of Déjà Vu (🇯🇵📺 346).md",
-    "Art/content/Steins;Gate 0 (🇯🇵📺 347).md",
-    "Art/content/Steins;Gate (🇯🇵📺 345).md",
-    "Art/content/Hachi-nan tte, Sore wa Nai deshou! (🇯🇵📺 392).md",
-    "Art/content/Mahoutsukai Reimeiki (🇯🇵📺 391).md",
-    "Art/content/Tate no Yuusha no Nariagari 5 (🇯🇵📺 1150).md",
-    "Art/content/Tate no Yuusha no Nariagari 4 (🇯🇵📺 997).md",
-    "Art/content/Tate no Yuusha no Nariagari Season 3 (🇯🇵📺 881).md",
-    "Art/content/Tate no Yuusha no Nariagari 2 (🇯🇵📺 390).md",
-    "Art/content/Tate no Yuusha no Nariagari (🇯🇵📺 9).md",
-    "Art/content/Tate no Yuusha no Nariagari (🇯🇵📘 326).md",
-    "Art/content/Tate no Yuusha no Nariagari (🇯🇵📗 84).md",
-    "Art/content/Kage no Jitsuryokusha ni Naritakute! (🇯🇵📺 30).md",
-    "Art/content/Rise of the Planet of the Apes (🇺🇸🎞 200).md",
     "Music/Covers/Mili - Between Two Worlds.jpg",
     "Music/Covers/Mili - Hero.jpg",
     "Music/postgresql.log",
@@ -280,7 +281,6 @@
     "Music/tracks.base",
     "Text/Note/excalidraw",
     "Text/Note",
-    "Text",
-    "Music/templates/related tracks.base"
+    "Text"
   ]
 }

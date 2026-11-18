@@ -1,12 +1,12 @@
 ---
 created: 2024-10-08T22:05:04+03:00
 aliases:
-  - Re:Zero 3
-  - Re:Zero kara Hajimeru Isekai Seikatsu 3
-  - Re:ZERO -Starting Life in Another World- 3
-  - Жизнь в альтернативном мире с нуля 3
-  - ReZERO 3
-  - резеро 3
+  - "Re:Zero 3"
+  - "Re:Zero kara Hajimeru Isekai Seikatsu 3"
+  - "Re:ZERO -Starting Life in Another World- 3"
+  - "Жизнь в альтернативном мире с нуля 3"
+  - "ReZERO 3"
+  - "резеро 3"
 Status: complete
 Type: anime
 Rating:
@@ -17,7 +17,7 @@ Episode: 16
 Views: 1
 Адаптация: "[[Re.Zero (🇯🇵📘 282)]]"
 Предыстория: "[[Re.Zero 2. Часть 2 (🇯🇵📺 360)]]"
-Продолжение: "[[Re.Zero 4 (🇯🇵📺 1115)]]"
+Продолжение: "[[Re.Zero 4 (🇯🇵📺 1114)]]"
 ---
 
 # Re:Zero. Жизнь с нуля в альтернативном мире 3

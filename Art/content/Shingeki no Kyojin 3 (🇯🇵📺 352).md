@@ -1,12 +1,12 @@
 ---
 created: 2024-09-22T23:00:32+03:00
 aliases:
-  - Shingeki no Kyojin 3
-  - Атака титанов 3
-  - Attack on Titan 3
-  - Вторжение гигантов 3
-  - Вторжение титанов 3
-  - Атакующий титан 3
+  - "Shingeki no Kyojin 3"
+  - "Атака титанов 3"
+  - "Attack on Titan 3"
+  - "Вторжение гигантов 3"
+  - "Вторжение титанов 3"
+  - "Атакующий титан 3"
 Status: complete
 Type: anime
 Rating:

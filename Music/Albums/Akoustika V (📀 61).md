@@ -9,10 +9,10 @@ Creators:
 source: https://youtube.com/playlist?list=PLnfa_HdbN_GMRN5mN2MHTC0eFpUATTBh3&si=O0KG7MoCpEUR3N7N
 tracklist:
   - "psy-chorus ～piano vocal ver.～"
-  - "[[Ougon no Kiseki wo Kanaeru Made ～guitar vocal ver.～ - xaki (🎧️ 1954)]]"
+  - "[[Ougon no Kiseki wo Kanaeru Made ～guitar vocal ver.～ - xaki (🎧️ 1953)]]"
   - "Shoujo≠M ～piano inst ver.～"
   - "psy-chorus ～piano vocal ver.～ [without vocal]"
-  - "[[Ougon no Kiseki wo Kanaeru Made ～guitar vocal ver.～ (without vocal) - xaki (🎧️ 1955)]]"
+  - "[[Ougon no Kiseki wo Kanaeru Made ～guitar vocal ver.～ (without vocal) - xaki (🎧️ 1954)]]"
   - "fatal-sessions"
   - "scenario-rider"
 ---

@@ -1,0 +1,18 @@
+---
+created: 2025-01-08T01:16:18+03:00
+aliases:
+  - "Kanashii Ureshii"
+  - "Koi to Uso OP 1"
+  - "Любовь и ложь OP 1"
+Cover: "[[_No Album Art.jpg]]"
+Year: 2017
+Album: ""
+CoverOf: ""
+Creators:
+  - "[[Frederic (🎙️ 738)]]"
+ListenInSec: 3555
+NumberInAlbum: 0
+related: []
+SourceFile: "[[Frederic - Kanashii Ureshii.mp3]]"
+---
+

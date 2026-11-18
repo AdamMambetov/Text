@@ -8,7 +8,7 @@ Cover: "[[Возвращение кота.jpg]]"
 Year: 2002
 Creators: []
 tracklist:
-  - "[[Kaze Ni Naru - Ayano Tsuji (🎧️ 817)]]"
+  - "[[Kaze Ni Naru - Ayano Tsuji (🎧️ 816)]]"
 ---
 
 ![[Возвращение кота.jpg]]

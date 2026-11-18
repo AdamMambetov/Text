@@ -1,9 +1,9 @@
 ---
 created: 2024-05-02T00:05:00
 aliases:
-  - Munou na Nana
-  - Бездарная Нана
-  - Talentless Nana
+  - "Munou na Nana"
+  - "Бездарная Нана"
+  - "Talentless Nana"
 Status: complete
 Type: anime
 Rating:
@@ -13,7 +13,7 @@ Year: 2020
 Episode: 13
 Views: 2
 tags:
-  - ❤
+  - "❤"
 related:
   - "[[@Дмитрий Кесида]]"
 Stream: 2

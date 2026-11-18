@@ -1,9 +1,9 @@
 ---
 created: 2024-09-23T18:23:18+03:00
 aliases:
-  - Spice and Wolf 2
-  - Волчица и пряности 2
-  - Ookami to Koushinryou 2
+  - "Spice and Wolf 2"
+  - "Волчица и пряности 2"
+  - "Ookami to Koushinryou 2"
 Status: complete
 Type: anime
 Rating:

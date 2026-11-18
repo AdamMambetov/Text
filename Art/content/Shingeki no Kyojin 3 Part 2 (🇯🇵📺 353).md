@@ -1,12 +1,12 @@
 ---
 created: 2024-09-22T23:04:07+03:00
 aliases:
-  - Shingeki no Kyojin 3 Part 2
-  - Атака титанов 3. Часть 2
-  - Attack on Titan 3 Part 2
-  - Вторжение гигантов 3. Часть 2
-  - Вторжение титанов 3. Часть 2
-  - Атакующий титан 3. Часть 2
+  - "Shingeki no Kyojin 3 Part 2"
+  - "Атака титанов 3. Часть 2"
+  - "Attack on Titan 3 Part 2"
+  - "Вторжение гигантов 3. Часть 2"
+  - "Вторжение титанов 3. Часть 2"
+  - "Атакующий титан 3. Часть 2"
 Status: complete
 Type: anime
 Rating:

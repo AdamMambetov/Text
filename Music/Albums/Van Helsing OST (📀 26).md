@@ -8,17 +8,17 @@ Year: 2004
 Creators:
   - "[[Alan Silvestri (🎙️ 162)]]"
 tracklist:
-  - "[[All Hallow's Eve Ball - Alan Silvestri (🎧️ 855)]]"
+  - "[[All Hallow's Eve Ball - Alan Silvestri (🎧️ 854)]]"
   - "Attacking Brides"
   - "Burn It Down!"
   - "Dracula's Nursery"
-  - "[[Final Battle - Alan Silvestri (🎧️ 654)]]"
-  - "[[Journey to Transylvania - Alan Silvestri (🎧️ 655)]]"
+  - "[[Final Battle - Alan Silvestri (🎧️ 653)]]"
+  - "[[Journey to Transylvania - Alan Silvestri (🎧️ 654)]]"
   - "Reunited"
-  - "[[Transylvania 1887 - Alan Silvestri (🎧️ 761)]]"
-  - "[[Transylvanian Horses - Alan Silvestri (🎧️ 762)]]"
+  - "[[Transylvania 1887 - Alan Silvestri (🎧️ 760)]]"
+  - "[[Transylvanian Horses - Alan Silvestri (🎧️ 761)]]"
   - "Useless Crucifix"
-  - "[[Werewolf Trap - Alan Silvestri (🎧️ 779)]]"
+  - "[[Werewolf Trap - Alan Silvestri (🎧️ 778)]]"
   - "Who Are They to Judge"
 ---
 

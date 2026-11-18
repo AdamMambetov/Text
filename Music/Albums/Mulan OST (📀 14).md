@@ -8,8 +8,8 @@ Year: 1998
 Creators:
   - "[[Disney (🎙️ 284)]]"
 tracklist:
-  - "[[I'll Make A Man Out Of You - Disney (🎧️ 850)]]"
-  - "[[I'll Make A Man Out Of You (Russian version) - Disney (🎧️ 1432)]]"
+  - "[[I'll Make A Man Out Of You - Disney (🎧️ 849)]]"
+  - "[[I'll Make A Man Out Of You (Russian version) - Disney (🎧️ 1431)]]"
 ---
 
 ![[Mulan.jpg]]

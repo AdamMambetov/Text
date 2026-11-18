@@ -7,7 +7,7 @@ Cover: "[[_No Album Art.jpg]]"
 Year: 2002
 Creators: []
 tracklist:
-  - "[[Lose Yourself - Eminem (🎧️ 323)]]"
+  - "[[Lose Yourself - Eminem (🎧️ 322)]]"
 ---
 
 # 8 Mile OST

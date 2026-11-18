@@ -4,24 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "5b8026cb6550df72",
+        "id": "6eac65c8aa850eff",
         "type": "tabs",
         "children": [
           {
-            "id": "e9a665767e36d00d",
+            "id": "89bb1510befd93fd",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "bases/tracks.base",
+                "viewName": "Without album"
+              },
+              "icon": "lucide-table",
+              "title": "tracks"
+            }
+          },
+          {
+            "id": "003f022e9686bb11",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/creator template.md",
-                "mode": "source",
+                "file": "Tracks/Марш монтажников - Николай Рыбников (🎧️ 2260).md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "creator template"
+              "title": "Марш монтажников - Николай Рыбников (🎧️ 2260)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +103,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "templates/creator template.md",
+            "file": "Tracks/Марш монтажников - Николай Рыбников (🎧️ 2260).md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -128,39 +142,47 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e9a665767e36d00d",
+  "active": "003f022e9686bb11",
   "lastOpenFiles": [
-    "Tracks/Kevin McLeod - Elevator Music.md",
-    "Tracks/LINKIN PARK x СМЕШАРИКИ — VAINT - mashup (🎧️ 2278).md",
-    "templates/_track update capture.md",
-    "templates/_track update all capture.md",
+    "Creators/Николай Рыбников (🎙️ 1085).md",
+    "Tracks/Dernière Danse - Indila (🎧️ 2267).md",
+    "Covers/Michael Jackson - Beat It.jpg",
+    "postgresql.log",
+    "Covers/Indila - Dernière Danse.png",
+    "Tracks/KISS OF DEATH - Mika Nakashima (🎧️ 2268).md",
+    "Covers/Mika Nakashima - Joker.jpg",
+    "Tracks/Shape of You - Ed Sheeran (🎧️ 2271).md",
+    "Tracks/Подлая Еврейская Музыка - Dobranotch (🎧️ 2273).md",
+    "Covers/Ed Sheeran - Shape of You.jpg",
+    "Covers/Dobranotch - Подлая Еврейская Музыка.jpg",
+    "Tracks/Подлая еврейская музыка - the right person in the right (🎧️ 2274).md",
+    "Tracks/LINKIN PARK x СМЕШАРИКИ — VAINT - mashup (🎧️ 2275).md",
+    "Covers/the right person in the right - подлая еврейская музыка.jpg",
+    "Tracks/SOVIET MARCH - RADIO TAPOK (🎧️ 2292).md",
+    "Covers/mashup - VAINT.jpg",
+    "Tracks/LINKIN PARK x ИГОРЬ СКЛЯР — IN THE KOMAROVO - mashup (🎧️ 2293).md",
+    "Covers/RADIO TAPOK - SOVIET MARCH.jpg",
+    "Tracks/NONCANDIDATE - Chimoruki (🎧️ 1629).md",
+    "Covers/mashup - IN THE KOMAROVO.jpg",
+    "Covers/Chimoruki - YTTD Mashups.jpg",
+    "Creators/Chimoruki (🎙️ 258).md",
+    "Tracks/Clowns Song - Day of Tragedy (MASHUP) - Chimoruki (🎧️ 2095).md",
+    "Tracks/Otayakai ⧸ Madman - Chimoruki (🎧️ 2294).md",
     "bases/tracks.base",
-    "Albums/Shrek the Third OST (📀 79).md",
-    "Albums/Shrek 2 OST (📀 78).md",
-    "Albums/Shrek 1 OST (📀 77).md",
-    "Albums/Молодежка OST (📀 29).md",
-    "Albums/По следам бременских музыкантов OST (📀 3).md",
-    "Covers/Spider-Man Into the Spider-Verse OST.jpg",
-    "Albums/Spider-Man Into the Spider-Verse OST (📀 24).md",
-    "Albums/Pirates of the Caribbean On Stranger Tides OST (📀 22).md",
-    "Albums/Paprika OST (📀 21).md",
-    "Albums/Mulan OST (📀 14).md",
-    "Albums/Moana OST (📀 13).md",
-    "Albums/Death Note OST (📀 76).md",
-    "Albums/Umineko no Naku Koro ni OST (📀 30).md",
-    "Tracks/Когда плачут чайки - Shikata Akiko (🎧️ 935).md",
-    "Tracks/Byakumu no Mayu ~Ricordando il passato~ (Short Version) - Shikata Akiko (🎧️ 1103).md",
-    "Tracks/Откровение (инст.) - xaki (🎧️ 929).md",
-    "Tracks/Без названия (вер. сакуры ED) - sunny (🎧️ 954).md",
-    "Tracks/Богиня из сада - xaki (🎧️ 928).md",
-    "Tracks/Без названия (инстр. вер.) - sunny (🎧️ 964).md",
-    "Tracks/Он и она - конец - dai (🎧️ 934).md",
-    "Tracks/Кукольный театр - dai (🎧️ 958).md",
-    "Tracks/Прощальный выход - zts (🎧️ 961).md",
-    "Tracks/Ящик с игрушками - dai (🎧️ 976).md",
-    "Covers/Umineko no Naku Koro Ni OST 1.jpg",
+    "Tracks/Will Power - Shoji Meguro (🎧️ 2295).md",
+    "Tracks/I believe - Lyn Inaizumi (🎧️ 2297).md",
+    "Tracks/Spider Dance - InstrumentManiac (🎧️ 2308).md",
+    "Tracks/Arthas My Son - World of Warcraft (🎧️ 2296).md",
+    "Tracks/Трейлер World of Warcraft. Wrath of the Lich King - World of Warcraft (🎧️ 2307).md",
+    "Creators/World of Warcraft (🎙️ 1103).md",
+    "Tracks/Grasswalk - InstrumentManiac (🎧️ 2306).md",
+    "Creators/InstrumentManiac (🎙️ 777).md",
+    "Tracks/BIG SHOT - InstrumentManiac (🎧️ 2304).md",
+    "Tracks/The 111 Instruments Groove - InstrumentManiac (🎧️ 2305).md",
+    "Playlists/Favorites (💿 1).md",
+    "Tracks/Danny - C418 (🎧️ 2346).md",
+    "Tracks/Don't Be Daunted B - Nankidai (🎧️ 1896).md",
     "2026-10-09-postgresql.log",
-    "files/Pasted image 20251119232251.png",
     "tracks.base"
   ]
 }

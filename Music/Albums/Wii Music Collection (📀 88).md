@@ -11,7 +11,7 @@ tracklist:
   - "Main Menu"
   - "Mii Channel Intro"
   - "Mii Channel"
-  - "[[Mii Plaza - Nintendo (🎧️ 2279)]]"
+  - "[[Mii Plaza - Nintendo (🎧️ 2278)]]"
   - "Mii Parade"
   - "Shop Channel Title"
   - "Shop Channel"

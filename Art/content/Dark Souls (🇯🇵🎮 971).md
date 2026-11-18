@@ -1,9 +1,9 @@
 ---
 created: 2025-05-29T02:53:14+03:00
 aliases:
-  - Dark Souls
-  - ds1
-  - дс1
+  - "Dark Souls"
+  - "ds1"
+  - "дс1"
 Status: plan
 Type: game
 Rating:
@@ -11,7 +11,7 @@ Rating:
 Cover: "[[dark_souls_game_cover.jpg]]"
 Year: 2011
 tags:
-  - ❤
+  - "❤"
 Продолжение: "[[Dark Souls 2 (🇯🇵🎮 919)]]"
 ---
 

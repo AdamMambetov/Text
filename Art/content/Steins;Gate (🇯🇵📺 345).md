@@ -1,8 +1,8 @@
 ---
 created: 2024-09-22T22:06:22+03:00
 aliases:
-  - Steins;Gate
-  - Врата Штейна
+  - "Steins;Gate"
+  - "Врата Штейна"
 Status: complete
 Type: anime
 Rating:
@@ -13,7 +13,7 @@ Year: 2011
 Episode: 24
 Views: 2
 tags:
-  - ❤
+  - "❤"
 Адаптация: "[[Steins;Gate (🇯🇵🎮 994)]]"
 Продолжение: "[[Steins;Gate Movie. Load Region of Déjà Vu (🇯🇵📺 346)]]"
 ---

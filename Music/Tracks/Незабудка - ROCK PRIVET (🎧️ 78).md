@@ -5,7 +5,7 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 2019
 Album: ""
-CoverOf: "[[Незабудка - Тима Белорусских (🎧️ 841)]]"
+CoverOf: "[[Незабудка - Тима Белорусских (🎧️ 840)]]"
 Creators:
   - "[[ROCK PRIVET (🎙️ 428)]]"
 ListenInSec: 258

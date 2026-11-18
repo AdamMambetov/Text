@@ -2,8 +2,8 @@
 created: 2025-09-22T09:05:31+03:00
 aliases:
   - "Venom 2: Let There Be Carnage"
-  - Веном 2
-  - Venom 2
+  - "Веном 2"
+  - "Venom 2"
 Status: complete
 Type: film
 Rating:

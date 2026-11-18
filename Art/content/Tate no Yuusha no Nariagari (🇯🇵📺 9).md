@@ -1,10 +1,10 @@
 ---
 created: 2022-03-16T10:10:10
 aliases:
-  - Tate no Yuusha no Nariagari
-  - Восхождение героя щита
-  - The Rising of the Shield Hero
-  - Герой щита
+  - "Tate no Yuusha no Nariagari"
+  - "Восхождение героя щита"
+  - "The Rising of the Shield Hero"
+  - "Герой щита"
 Status: complete
 Type: anime
 Rating:
@@ -15,7 +15,7 @@ Year: 2019
 Episode: 25
 Views: 4
 tags:
-  - ❤
+  - "❤"
 Адаптация: "[[Tate no Yuusha no Nariagari (🇯🇵📘 326)]]"
 Продолжение: "[[Tate no Yuusha no Nariagari 2 (🇯🇵📺 390)]]"
 ---

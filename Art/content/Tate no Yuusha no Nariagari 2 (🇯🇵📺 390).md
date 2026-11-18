@@ -1,10 +1,10 @@
 ---
 created: 2024-09-23T18:37:33+03:00
 aliases:
-  - Tate no Yuusha no Nariagari 2
-  - Восхождение героя щита 2
-  - The Rising of the Shield Hero 2
-  - Герой щита 2
+  - "Tate no Yuusha no Nariagari 2"
+  - "Восхождение героя щита 2"
+  - "The Rising of the Shield Hero 2"
+  - "Герой щита 2"
 Status: complete
 Type: anime
 Rating:

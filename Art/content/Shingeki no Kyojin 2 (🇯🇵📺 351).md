@@ -1,12 +1,12 @@
 ---
 created: 2024-09-22T22:56:20+03:00
 aliases:
-  - Shingeki no Kyojin 2
-  - Атака титанов 2
-  - Attack on Titan 2
-  - Вторжение гигантов 2
-  - Вторжение титанов 2
-  - Атакующий титан 2
+  - "Shingeki no Kyojin 2"
+  - "Атака титанов 2"
+  - "Attack on Titan 2"
+  - "Вторжение гигантов 2"
+  - "Вторжение титанов 2"
+  - "Атакующий титан 2"
 Status: complete
 Type: anime
 Rating:

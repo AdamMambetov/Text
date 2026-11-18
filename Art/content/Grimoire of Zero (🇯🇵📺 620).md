@@ -1,8 +1,8 @@
 ---
 created: 2024-11-04T14:19:28+03:00
 aliases:
-  - Grimoire of Zero
-  - Книга магии для начинающих с нуля
+  - "Grimoire of Zero"
+  - "Книга магии для начинающих с нуля"
 Status: plan
 Type: anime
 Rating:

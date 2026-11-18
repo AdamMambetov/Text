@@ -1,10 +1,10 @@
 ---
 created: 2025-03-28T16:31:03+03:00
 aliases:
-  - Dark Souls 2
-  - Dark Souls II
-  - дс2
-  - ds2
+  - "Dark Souls 2"
+  - "Dark Souls II"
+  - "дс2"
+  - "ds2"
 Status: complete
 Type: game
 Rating:

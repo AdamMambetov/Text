@@ -1,9 +1,9 @@
 ---
 created: 2025-09-22T00:38:21+03:00
 aliases:
-  - To Be Heroine
-  - Быть героиней
-  - Tu Bian Yingxiong Leaf
+  - "To Be Heroine"
+  - "Быть героиней"
+  - "Tu Bian Yingxiong Leaf"
 Status: drop
 Type: anime
 Rating:

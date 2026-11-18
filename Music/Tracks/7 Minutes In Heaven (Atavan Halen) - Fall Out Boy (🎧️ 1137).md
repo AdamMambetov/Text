@@ -1,0 +1,20 @@
+---
+created: 2024-10-08T15:30:58+03:00
+aliases:
+  - "7 Minutes In Heaven (Atavan Halen)"
+Cover: "[[Fall Out Boy - From Under the Cork Tree.jpg]]"
+Year: 2005
+Album: ""
+CoverOf: ""
+Creators:
+  - "[[Fall Out Boy (🎙️ 304)]]"
+ListenInSec: 543
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[Fall Out Boy - 7 Minutes In Heaven (Atavan Halen).mp3]]"
+---
+
+# Fall Out Boy - 7 Minutes In Heaven (Atavan Halen)
+
+![[Fall Out Boy - 7 Minutes In Heaven (Atavan Halen).mp3]]

@@ -14,7 +14,7 @@ tracklist:
   - "Inside Of Me"
   - "I Don't Wanna Know"
   - "Pieces Of Me"
-  - "[[Love Is A Lie - 3 Doors Down (🎧️ 649)]]"
+  - "[[Love Is A Lie - 3 Doors Down (🎧️ 648)]]"
   - "Us And The Night"
   - "Fell From The Moon"
   - "Found Me There"

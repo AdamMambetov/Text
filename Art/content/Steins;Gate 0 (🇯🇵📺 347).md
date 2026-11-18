@@ -1,8 +1,8 @@
 ---
 created: 2024-09-22T22:21:16+03:00
 aliases:
-  - Steins;Gate 0
-  - Врата Штейна 0
+  - "Steins;Gate 0"
+  - "Врата Штейна 0"
 Status: complete
 Type: anime
 Rating:

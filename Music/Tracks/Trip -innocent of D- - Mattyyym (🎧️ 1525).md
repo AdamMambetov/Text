@@ -1,0 +1,20 @@
+---
+created: 2025-01-08T18:32:48+03:00
+aliases:
+  - "Trip -innocent of D-"
+Cover: "[[_No Album Art.jpg]]"
+Year: 0
+Album: ""
+CoverOf: "[[Trip -innocent of D- - Larval Stage Planning (🎧️ 621)]]"
+Creators:
+  - "[[Mattyyym (🎙️ 698)]]"
+ListenInSec: 550
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[Mattyyym - Trip Innocent of D.mp3]]"
+---
+
+# Mattyyym - Trip Innocent of D
+
+![[Mattyyym - Trip Innocent of D.mp3]]

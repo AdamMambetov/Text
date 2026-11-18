@@ -1,10 +1,10 @@
 ---
 created: 2024-08-13T17:31:47+03:00
 aliases:
-  - Dark Souls 3
-  - Dark Souls III
-  - ds3
-  - дс3
+  - "Dark Souls 3"
+  - "Dark Souls III"
+  - "ds3"
+  - "дс3"
 Status: complete
 Type: game
 Cover: "[[dark_souls_3_game_cover.jpg]]"

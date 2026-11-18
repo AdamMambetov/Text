@@ -3,8 +3,8 @@ created: 2025-07-03T04:14:07+03:00
 aliases:
   - "Prince of Persia: Warrior Within"
   - "Принц Персии: Схватка с судьбой"
-  - Prince of Persia 2
-  - Принц Персии 2
+  - "Prince of Persia 2"
+  - "Принц Персии 2"
 Status: complete
 Type: game
 Rating:

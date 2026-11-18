@@ -2,8 +2,8 @@
 created: 2024-09-23T17:56:28+03:00
 aliases:
   - "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 2nd Season"
-  - Власть книжного червя 2
-  - Ascendance of a Bookworm Season 2
+  - "Власть книжного червя 2"
+  - "Ascendance of a Bookworm Season 2"
 Status: complete
 Type: anime
 Rating:

@@ -1,0 +1,21 @@
+---
+created: 2023-09-29T16:21:59+03:00
+aliases:
+  - "Врата (TV Size)"
+Cover: "[[Radiant Records - Септима.jpg]]"
+Year: 0
+Album: ""
+CoverOf: "[[Hacking to the Gate (TV Size) - Itou Kanako (🎧️ 1092)]]"
+Creators:
+  - "[[Radiant Records (🎙️ 39)]]"
+ListenInSec: 284
+NumberInAlbum: 0
+related:
+  - "[[Врата - Radiant Records (🎧️ 1329)]]"
+source: ""
+SourceFile: "[[Radiant Records - Врата (TV Size).mp3]]"
+---
+
+# Radiant Records - Врата (TV Size)
+
+![[Radiant Records - Врата (TV Size).mp3]]
