@@ -4,8 +4,8 @@ aliases:
   - "Happy Maria!"
 Cover: "[[nekocapo - Naku Naku Solo Guitar 2.jpg]]"
 Year: 2009
-Album: "[[Naku Naku Solo Guitar 2 — nekocapo]]"
-CoverOf: "[[Happy Maria! (Instrumental) — Luck Ganriki]]"
+Album: "[[Naku Naku Solo Guitar 2 (📀 55)]]"
+CoverOf: "[[Happy Maria! (Instrumental) - Luck Ganriki (🎧️ 1023)]]"
 Creators:
   - "[[nekocapo (🎙️ 1007)]]"
 ListenInSec: 826

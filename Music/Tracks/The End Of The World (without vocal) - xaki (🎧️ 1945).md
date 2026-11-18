@@ -4,7 +4,7 @@ aliases:
   - "The End Of The World [without vocal]"
 Cover: "[[xaki - Akoustika II.jpg]]"
 Year: 2013
-Album: "[[Akoustika II — xaki]]"
+Album: "[[Akoustika II (📀 58)]]"
 CoverOf: ""
 Creators:
   - "[[xaki (🎙️ 12)]]"

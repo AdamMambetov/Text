@@ -4,8 +4,8 @@ aliases:
   - "Гнилое яблоко"
   - "Bad Apple"
 Cover: "[[Radiant Records - ПЕРЕПУТЬЕ.jpg]]"
-Year: 0
-Album: ""
+Year: 2017
+Album: "[[ПЕРЕПУТЬЕ (📀 33)]]"
 CoverOf: "[[Bad Apple - Touhou Project (🎧️ 1705)]]"
 Creators:
   - "[[Radiant Records (🎙️ 39)]]"

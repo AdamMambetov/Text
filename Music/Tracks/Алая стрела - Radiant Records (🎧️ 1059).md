@@ -6,8 +6,8 @@ aliases:
   - "Attack on Titan OP 1"
   - "Атака титанов OP 1"
 Cover: "[[Radiant Records - Солнце.jpg]]"
-Year: 0
-Album: ""
+Year: 2014
+Album: "[[Солнце (📀 34)]]"
 CoverOf: "[[Guren no Yumiya - Linked Horizon]]"
 Creators:
   - "[[Radiant Records (🎙️ 39)]]"

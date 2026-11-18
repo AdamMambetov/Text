@@ -6,8 +6,8 @@ aliases:
   - "Naruto Shippuuden OP 3"
   - "Наруто Ураганные хроники OP 3"
 Cover: "[[Radiant Records - ПЕРЕПУТЬЕ.jpg]]"
-Year: 0
-Album: ""
+Year: 2017
+Album: "[[ПЕРЕПУТЬЕ (📀 33)]]"
 CoverOf: "[[Blue Bird - Ikimonogakari (🎧️ 1472)]]"
 Creators:
   - "[[Radiant Records (🎙️ 39)]]"

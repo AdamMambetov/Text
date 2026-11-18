@@ -4,7 +4,7 @@ aliases:
   - "Ezio’s Family"
 Cover: "[[Assassin's Creed 2 OST.jpg]]"
 Year: 2009
-Album: "[[Assassin’s Creed II]]"
+Album: "[[Assassin's Creed 2 OST (📀 5)]]"
 CoverOf: ""
 Creators:
   - "[[Jesper Kyd (🎙️ 339)]]"

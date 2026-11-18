@@ -4,8 +4,8 @@ aliases:
   - "Ветер"
   - "Wind"
 Cover: "[[Radiant Records - Солнце.jpg]]"
-Year: 0
-Album: ""
+Year: 2014
+Album: "[[Солнце (📀 34)]]"
 CoverOf: "[[Wind - Akeboshi (🎧️ 1631)]]"
 Creators:
   - "[[Radiant Records (🎙️ 39)]]"

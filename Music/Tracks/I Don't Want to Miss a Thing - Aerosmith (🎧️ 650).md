@@ -4,7 +4,7 @@ aliases:
   - "I Don't Want to Miss a Thing"
 Cover: "[[_No Album Art.jpg]]"
 Year: 1998
-Album: "[[Armageddon OST (📀 12)]]"
+Album: "[[Armageddon OST (📀 4)]]"
 CoverOf: ""
 Creators:
   - "[[Aerosmith (🎙️ 154)]]"

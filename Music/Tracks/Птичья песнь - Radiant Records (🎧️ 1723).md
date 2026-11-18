@@ -6,7 +6,7 @@ aliases:
   - "Air OP 1"
   - "Высь OP 1"
 Cover: "[[Radiant Records - ПЕРЕПУТЬЕ.jpg]]"
-Year: 0
+Year: 2017
 Album: "[[ПЕРЕПУТЬЕ (📀 33)]]"
 CoverOf: "[[Tori no Uta - Lia (🎧️ 1737)]]"
 Creators:

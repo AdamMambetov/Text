@@ -6,8 +6,8 @@ aliases:
   - "Angel Beats OP 1"
   - "Ангельские ритмы OP 1"
 Cover: "[[Radiant Records - Летний сон.jpg]]"
-Year: 0
-Album: ""
+Year: 2010
+Album: "[[Летний сон (📀 37)]]"
 CoverOf: "[[My Soul, Your Beats! - Lia (🎧️ 1741)]]"
 Creators:
   - "[[Radiant Records (🎙️ 39)]]"

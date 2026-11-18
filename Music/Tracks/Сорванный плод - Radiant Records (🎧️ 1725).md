@@ -4,8 +4,8 @@ aliases:
   - "Сорванный плод"
   - "Wareta Ringo"
 Cover: "[[Radiant Records - ПЕРЕПУТЬЕ.jpg]]"
-Year: 0
-Album: ""
+Year: 2017
+Album: "[[ПЕРЕПУТЬЕ (📀 33)]]"
 CoverOf: "[[Wareta Ringo - Taneda Risa]]"
 Creators:
   - "[[Radiant Records (🎙️ 39)]]"

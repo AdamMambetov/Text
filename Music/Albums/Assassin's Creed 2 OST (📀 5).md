@@ -10,4 +10,3 @@ tracklist:
   - "[[Ezio’s Family - Jesper Kyd (🎧️ 1330)]]"
 ---
 
-1. [[Assassin's Creed 2 OST - Ezio's Family.mp3| Ezio's Family]]

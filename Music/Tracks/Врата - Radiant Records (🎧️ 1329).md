@@ -4,8 +4,8 @@ aliases:
   - "Врата"
   - "Hacking to the Gate"
 Cover: "[[Radiant Records - Септима.jpg]]"
-Year: 0
-Album: ""
+Year: 2011
+Album: "[[Септима (📀 36)]]"
 CoverOf: "[[Hacking To The Gate - Itou Kanako (🎧️ 1452)]]"
 Creators:
   - "[[Radiant Records (🎙️ 39)]]"

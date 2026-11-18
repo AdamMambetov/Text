@@ -4,8 +4,8 @@ aliases:
   - "Пишем историю"
   - "History Maker"
 Cover: "[[Radiant Records - ПЕРЕПУТЬЕ.jpg]]"
-Year: 0
-Album: ""
+Year: 2017
+Album: "[[ПЕРЕПУТЬЕ (📀 33)]]"
 CoverOf: "[[History Maker - Dean Fujioka]]"
 Creators:
   - "[[Radiant Records (🎙️ 39)]]"

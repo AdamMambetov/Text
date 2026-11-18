@@ -6,7 +6,7 @@ aliases:
   - "Charlotte OP 1"
   - "Шарлотта OP 1"
 Cover: "[[Radiant Records - ПЕРЕПУТЬЕ.jpg]]"
-Year: 0
+Year: 2017
 Album: "[[ПЕРЕПУТЬЕ (📀 33)]]"
 CoverOf: "[[Bravely You - Lia (🎧️ 1740)]]"
 Creators:

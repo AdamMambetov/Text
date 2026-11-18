@@ -4,8 +4,8 @@ aliases:
   - "Гнев"
   - "Rage on"
 Cover: "[[Radiant Records - ПЕРЕПУТЬЕ.jpg]]"
-Year: 0
-Album: ""
+Year: 2017
+Album: "[[ПЕРЕПУТЬЕ (📀 33)]]"
 CoverOf: "[[Rage on - OLDCODEX]]"
 Creators:
   - "[[Radiant Records (🎙️ 39)]]"

@@ -4,7 +4,7 @@ aliases:
   - "Когда я лаю при луне"
 Cover: "[[Bolt.jpg]]"
 Year: 2008
-Album: "[[Bolt OST (📀 16)]]"
+Album: "[[Bolt OST (📀 8)]]"
 CoverOf: ""
 Creators:
   - "[[Disney (🎙️ 284)]]"

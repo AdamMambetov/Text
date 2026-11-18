@@ -8,8 +8,8 @@ aliases:
   - "Erased OP 1"
   - "Город в котором меня нет OP 1"
 Cover: "[[Radiant Records - ПЕРЕПУТЬЕ.jpg]]"
-Year: 0
-Album: ""
+Year: 2017
+Album: "[[ПЕРЕПУТЬЕ (📀 33)]]"
 CoverOf: "[[Re.Re. - ASIAN KUNG-FU GENERATION (🎧️ 733)]]"
 Creators:
   - "[[Radiant Records (🎙️ 39)]]"

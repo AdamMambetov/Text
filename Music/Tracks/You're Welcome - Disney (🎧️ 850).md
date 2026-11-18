@@ -4,12 +4,13 @@ aliases:
   - "You're Welcome"
 Cover: "[[_No Album Art.jpg]]"
 Year: 2016
-Album: "[[Moana]]"
+Album: "[[Moana OST (📀 13)]]"
 CoverOf: ""
 Creators:
   - "[[Disney (🎙️ 284)]]"
 ListenInSec: 170
 Marks:
+  - "[[Cartoon]]"
   - "[[Film]]"
   - "[[OST]]"
 NumberInAlbum: 7

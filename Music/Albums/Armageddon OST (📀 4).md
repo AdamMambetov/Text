@@ -9,4 +9,3 @@ tracklist:
   - "[[I Don't Want to Miss a Thing - Aerosmith (🎧️ 650)]]"
 ---
 
-1. [[Aerosmith - I Don't Want to Miss a Thing.mp3| I Don't Want to Miss a Thing]]

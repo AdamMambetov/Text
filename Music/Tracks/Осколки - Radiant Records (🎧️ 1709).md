@@ -4,7 +4,7 @@ aliases:
   - "Осколки"
   - "Omoide Kakera"
 Cover: "[[Radiant Records - Септима.jpg]]"
-Year: 0
+Year: 2011
 Album: "[[Септима (📀 36)]]"
 CoverOf: "[[Omoide Kakera - DevilishP]]"
 Creators:

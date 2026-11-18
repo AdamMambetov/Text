@@ -4,8 +4,8 @@ aliases:
   - "Школа мертвецов"
   - "Highschool of the Dead"
 Cover: "[[Radiant Records - Магия.jpg]]"
-Year: 0
-Album: ""
+Year: 2013
+Album: "[[Магия (📀 35)]]"
 CoverOf: "[[Highschool of the Dead - The Akeboshi Rockets (🎧️ 1449)]]"
 Creators:
   - "[[Radiant Records (🎙️ 39)]]"

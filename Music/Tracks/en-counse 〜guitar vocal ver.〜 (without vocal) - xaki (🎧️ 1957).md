@@ -4,7 +4,7 @@ aliases:
   - "en-counse 〜guitar vocal ver.〜 [without vocal]"
 Cover: "[[xaki - Akoustika VI.jpg]]"
 Year: 2015
-Album: "[[Akoustika VI — xaki]]"
+Album: "[[Akoustika VI (📀 62)]]"
 CoverOf: ""
 Creators:
   - "[[xaki (🎙️ 12)]]"

@@ -4,8 +4,8 @@ aliases:
   - "Роза"
   - "Rose"
 Cover: "[[Radiant Records - Септима.jpg]]"
-Year: 0
-Album: ""
+Year: 2011
+Album: "[[Септима (📀 36)]]"
 CoverOf: "[[Rose - Tsuchiya Anna]]"
 Creators:
   - "[[Radiant Records (🎙️ 39)]]"

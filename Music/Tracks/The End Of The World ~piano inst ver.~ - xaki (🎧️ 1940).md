@@ -4,7 +4,7 @@ aliases:
   - "The End Of The World ~piano inst ver.~"
 Cover: "[[xaki - Akoustika.jpg]]"
 Year: 2012
-Album: "[[Akoustika — xaki]]"
+Album: "[[Akoustika (📀 57)]]"
 CoverOf: ""
 Creators:
   - "[[xaki (🎙️ 12)]]"

@@ -4,8 +4,8 @@ aliases:
   - "Плач цикад"
   - "Higurashi no Naku Koro ni"
 Cover: "[[Radiant Records - Септима.jpg]]"
-Year: 0
-Album: ""
+Year: 2011
+Album: "[[Септима (📀 36)]]"
 CoverOf: "[[Higurashi no Naku Koro ni - Shimamiya Eiko (🎧️ 1620)]]"
 Creators:
   - "[[Radiant Records (🎙️ 39)]]"

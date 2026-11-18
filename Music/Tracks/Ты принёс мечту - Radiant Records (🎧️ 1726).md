@@ -6,8 +6,8 @@ aliases:
   - "Sakurasou no Pet na Kanojo OP 1"
   - "Кошечка из Сакурасо OP 1"
 Cover: "[[Radiant Records - ПЕРЕПУТЬЕ.jpg]]"
-Year: 0
-Album: ""
+Year: 2017
+Album: "[[ПЕРЕПУТЬЕ (📀 33)]]"
 CoverOf: "[[Kimi Ga Yume Wo Tsuretekita - Kayano Ai]]"
 Creators:
   - "[[Radiant Records (🎙️ 39)]]"

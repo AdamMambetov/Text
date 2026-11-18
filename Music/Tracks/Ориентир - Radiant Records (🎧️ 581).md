@@ -6,8 +6,8 @@ aliases:
   - "Darker than Black OP 3"
   - "Темнее чёрного OP 3"
 Cover: "[[Radiant Records - Солнце.jpg]]"
-Year: 0
-Album: ""
+Year: 2014
+Album: "[[Солнце (📀 34)]]"
 CoverOf: "[[Tsukiakari No Michishirube - Stereopony (🎧️ 582)]]"
 Creators:
   - "[[Radiant Records (🎙️ 39)]]"

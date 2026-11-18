@@ -5,7 +5,7 @@ aliases:
   - "Рандеву с жизнью OST"
 Year: 2013
 Creators: []
-tracklist: []
+tracklist:
+  - "[[Ground Zero - Go Sakabe (🎧️ 1241)]]"
 ---
 
-1. [[Date A Live 1 OST - Ground Zero.mp3| Ground Zero]]

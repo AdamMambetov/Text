@@ -4,8 +4,8 @@ aliases:
   - "Период"
   - "Period"
 Cover: "[[Radiant Records - Септима.jpg]]"
-Year: 0
-Album: ""
+Year: 2011
+Album: "[[Септима (📀 36)]]"
 CoverOf: "[[Period - Chemistry]]"
 Creators:
   - "[[Radiant Records (🎙️ 39)]]"

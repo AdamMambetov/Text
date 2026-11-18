@@ -6,8 +6,8 @@ aliases:
   - "Black Lagoon OP 1"
   - "Пираты Чёрной лагуны OP 1"
 Cover: "[[Radiant Records - Магия.jpg]]"
-Year: 0
-Album: ""
+Year: 2013
+Album: "[[Магия (📀 35)]]"
 CoverOf: "[[Red Fraction - MELL (🎧️ 1561)]]"
 Creators:
   - "[[Radiant Records (🎙️ 39)]]"

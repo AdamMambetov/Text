@@ -6,7 +6,7 @@ aliases:
   - "Bakemonogatari ED 1"
   - "Истории монстров ED 1"
 Cover: "[[Radiant Records - ПЕРЕПУТЬЕ.jpg]]"
-Year: 0
+Year: 2017
 Album: "[[ПЕРЕПУТЬЕ (📀 33)]]"
 CoverOf: "[[Kimi no Shiranai Monogatari - supercell (🎧️ 1635)]]"
 Creators:

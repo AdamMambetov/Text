@@ -5,7 +5,7 @@ aliases:
   - "aLIEz"
   - "солгатники"
 Cover: "[[Radiant Records - ПЕРЕПУТЬЕ.jpg]]"
-Year: 0
+Year: 2017
 Album: ""
 CoverOf: "[[aLIEz - Hiroyuki Sawano (🎧️ 1771)]]"
 Creators:

@@ -3,8 +3,8 @@ created: 2026-06-11T23:26:55+03:00
 aliases:
   - "Forces"
 Cover: "[[Susumu Hirasawa - BERSERK -Forces-.jpg]]"
-Year: 0
-Album: ""
+Year: 1997
+Album: "[[BERSERK OST (📀 6)]]"
 CoverOf: ""
 Creators:
   - "[[Susumu Hirasawa (🎙️ 450)]]"

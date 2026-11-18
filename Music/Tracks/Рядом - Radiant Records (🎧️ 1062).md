@@ -4,8 +4,8 @@ aliases:
   - "Рядом"
   - "Closer"
 Cover: "[[Radiant Records - Септима.jpg]]"
-Year: 0
-Album: ""
+Year: 2011
+Album: "[[Септима (📀 36)]]"
 CoverOf: "[[Closer - Inoue Joe]]"
 Creators:
   - "[[Radiant Records (🎙️ 39)]]"

@@ -5,7 +5,7 @@ aliases:
   - "7 весов"
 Cover: "[[xaki - Akoustika VII.jpg]]"
 Year: 2016
-Album: "[[Akoustika VII — xaki]]"
+Album: "[[Akoustika VII (📀 63)]]"
 CoverOf: ""
 Creators:
   - "[[xaki (🎙️ 12)]]"

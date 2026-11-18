@@ -7,7 +7,7 @@ aliases:
   - "Мадока ED 1"
 Cover: "[[Radiant Records - Магия.jpg]]"
 Year: 0
-Album: ""
+Album: "[[Магия (📀 35)]]"
 CoverOf: "[[Magia - Kalafina (🎧️ 1553)]]"
 Creators:
   - "[[Radiant Records (🎙️ 39)]]"
