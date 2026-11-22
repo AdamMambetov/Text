@@ -2,15 +2,13 @@
 created: 2024-10-23T13:23:32+03:00
 aliases:
   - "Core Pride"
-  - "Ao no Exorcist OP 1"
-  - "Blue Exorcist OP 1"
-  - "Синий экзорцист OP 1"
 Cover: "[[UVERworld - All Time Best.jpg]]"
 Year: 2011
 Album: ""
 CoverOf: ""
 Creators:
   - "[[UVERworld (🎙️ 473)]]"
+Genres: []
 ListenInSec: 3714
 Marks:
   - "[[Anime]]"
@@ -18,6 +16,8 @@ NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[UVERworld - Core Pride.mp3]]"
+sources:
+  - "[[Синий экзорцист (🇯🇵📺 855)|Синий экзорцист|opening:1]]"
 ---
 
 # UVERworld - Core Pride

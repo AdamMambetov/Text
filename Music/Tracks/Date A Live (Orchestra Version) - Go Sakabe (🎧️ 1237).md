@@ -4,17 +4,20 @@ aliases:
   - "Date A Live (Orchestra Version)"
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
-Album: "[[Date A Live 1 OST]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[Go Sakabe (🎙️ 315)]]"
-ListenInSec: 344
+Genres: []
+ListenInSec: 366
 Marks:
   - "[[Anime]]"
-NumberInAlbum: 1
+  - "[[OST]]"
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Date A Live 1 OST - Date A Live (Orchestra Version).mp3]]"
+sources: []
 ---
 
 # Date A Live 1 OST - Date A Live (Orchestra Version)

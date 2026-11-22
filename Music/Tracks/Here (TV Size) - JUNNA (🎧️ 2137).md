@@ -2,19 +2,19 @@
 created: 2026-07-18T01:10:02+03:00
 aliases:
   - "Here (TV Size)"
-  - "Невеста чародея OP 1"
-  - "Mahoutsukai no Yome OP 1"
-  - "The Ancient Magus' Bride OP 1"
 Cover: "[[_No Album Art.jpg]]"
 Year: 2017
 Album: ""
 CoverOf: ""
 Creators:
   - "[[JUNNA (🎙️ 817)]]"
-ListenInSec: 3443
+Genres: []
+ListenInSec: 3925
 Marks:
   - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 SourceFile: "[[JUNNA - Here (TV Size).opus]]"
+sources:
+  - "[[Невеста чародея (🇯🇵📺 559)|Невеста чародея|opening:1]]"
 ---

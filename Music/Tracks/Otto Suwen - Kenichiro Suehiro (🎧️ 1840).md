@@ -12,7 +12,7 @@ ListenInSec: 197
 Marks:
   - "[[Anime]]"
   - "[[OST]]"
-NumberInAlbum: 5
+NumberInAlbum: 1
 related: []
 source: ""
 SourceFile: "[[ReZero 2 OST 2 - 05 Otto Suwen.mp3]]"

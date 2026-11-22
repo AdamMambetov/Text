@@ -11,13 +11,16 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Hana Itoki (🎙️ 1066)]]"
-ListenInSec: 1874
+Genres: []
+ListenInSec: 2052
 Marks:
   - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Hana Itoki - Wa -cycle- (TV Size).mp3]]"
+sources:
+  - "[[Невеста чародея (🇯🇵📺 559)|Невеста чародея|ending:1]]"
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

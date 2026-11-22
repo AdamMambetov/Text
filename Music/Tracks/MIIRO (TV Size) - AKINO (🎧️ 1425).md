@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[AKINO (🎙️ 160)]]"
-ListenInSec: 482
+ListenInSec: 486
 Marks:
   - "[[Anime]]"
 NumberInAlbum: 0

@@ -12,7 +12,7 @@ ListenInSec: 365
 Marks:
   - "[[Anime]]"
   - "[[OST]]"
-NumberInAlbum: 15
+NumberInAlbum: 12
 related: []
 source: ""
 SourceFile: "[[Shiki OST - 15 Youth.mp3]]"

@@ -7,11 +7,11 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
-CoverOf: ""
+CoverOf: "[[RISE - MADKID (🎧️ 2089)]]"
 Creators:
   - "[[Onsa Media (🎙️ 400)]]"
 ListenInSec: 432
-NumberInAlbum: 1
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Onsa Media - RISE.mp3]]"

@@ -2,21 +2,22 @@
 created: 2025-07-31T18:14:26+03:00
 aliases:
   - "Fire (TV Size)"
-  - "Dororo OP 1"
-  - "Дороро OP 1"
 Cover: "[[_No Album Art.jpg]]"
-Year: 0
+Year: 2019
 Album: ""
 CoverOf: ""
 Creators:
   - "[[Kaen (🎙️ 687)]]"
-ListenInSec: 1887
+Genres: []
+ListenInSec: 1927
 Marks:
   - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Kaen - Fire (TV Size).mp3]]"
+sources:
+  - "[[Дороро (🇯🇵📺 425)|Дороро|opening:1]]"
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

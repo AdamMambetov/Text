@@ -2,21 +2,22 @@
 created: 2026-06-11T23:18:36+03:00
 aliases:
   - "This Is Bakugan (Instrumental)"
-  - "Bakugan ED 1"
-  - "Бакуган ED 1"
 Cover: "[[Decepticon097 - Bakugan Ending season 1.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""
 Creators:
   - "[[Neil Parfitt (🎙️ 1040)]]"
-ListenInSec: 409
+Genres: []
+ListenInSec: 453
 Marks:
   - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Bakugan Ending.mp3]]"
+sources:
+  - "[[Отчаянные бойцы Бакуган (🇯🇵📺 502)|Отчаянные бойцы Бакуган|ending:1]]"
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

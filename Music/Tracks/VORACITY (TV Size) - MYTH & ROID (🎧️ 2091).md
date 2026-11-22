@@ -2,16 +2,14 @@
 created: 2026-06-11T23:42:06+03:00
 aliases:
   - "VORACITY (TV Size)"
-  - "Overlord OP 3"
-  - "Повелитель OP 3"
-  - "Оверлорд OP 3"
 Cover: "[[KADOKAWAanime - TVアニメ「オーバーロードⅢ」ノンクレジットOP映像【MYTH&ROID「VORACITY」】.jpg]]"
 Year: 2018
 Album: ""
 CoverOf: ""
 Creators:
   - "[[MYTH & ROID (🎙️ 382)]]"
-ListenInSec: 728
+Genres: []
+ListenInSec: 818
 Marks:
   - "[[Anime]]"
 NumberInAlbum: 0
@@ -19,6 +17,8 @@ related:
   - "[[VORACITY - MYTH & ROID (🎧️ 638)]]"
 source: ""
 SourceFile: "[[MYTH & ROID - VORACITY (TV Size).mp3]]"
+sources:
+  - "[[Повелитель (🇯🇵📺 441)|Повелитель|opening:3]]"
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

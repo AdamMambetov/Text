@@ -8,13 +8,16 @@ Album: "[[Minecraft OST Alpha (📀 83)]]"
 CoverOf: ""
 Creators:
   - "[[C418 (🎙️ 1093)]]"
-ListenInSec: 159
+Genres: []
+ListenInSec: 325
 Marks:
   - "[[OST]]"
+  - "[[Game]]"
 NumberInAlbum: 5
 related: []
 source: ""
 SourceFile: "[[Minecraft OST Alpha - 06 Moog City.mp3]]"
+sources: []
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

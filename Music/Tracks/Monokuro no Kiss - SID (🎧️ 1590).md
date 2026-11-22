@@ -2,20 +2,22 @@
 created: 2025-01-08T22:47:30+03:00
 aliases:
   - "Monokuro no Kiss"
-  - "Тёмный дворецкий OP 1"
 Cover: "[[_No Album Art.jpg]]"
-Year: 0
+Year: 2008
 Album: ""
 CoverOf: ""
 Creators:
   - "[[SID (🎙️ 435)]]"
-ListenInSec: 1479
+Genres: []
+ListenInSec: 1605
 Marks:
   - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[SID -Monokuro no Kiss.mp3]]"
+sources:
+  - "[[Тёмный дворецкий (🇯🇵📺 617)|Тёмный дворецкий|opening:1]]"
 ---
 
 # SID - Monokuro no Kiss

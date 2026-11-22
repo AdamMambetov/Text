@@ -8,7 +8,7 @@ Album: "[[Kabaneri of the Iron Fortress OST (📀 12)]]"
 CoverOf: ""
 Creators:
   - "[[Hiroyuki Sawano (🎙️ 327)]]"
-ListenInSec: 4331
+ListenInSec: 4334
 Marks:
   - "[[Anime]]"
   - "[[OST]]"

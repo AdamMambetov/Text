@@ -2,8 +2,6 @@
 created: 2025-10-28T20:46:28+03:00
 aliases:
   - "aLIEz"
-  - "Aldnoah.Zero ED 2"
-  - "Альдноа.Зеро ED 2"
 Cover: "[[ALDNOAH.ZERO OST.jpg]]"
 Year: 0
 Album: ""
@@ -11,14 +9,16 @@ CoverOf: ""
 Creators:
   - "[[Hiroyuki Sawano (🎙️ 327)]]"
   - "[[mizuki (🎙️ 660)]]"
-ListenInSec: 3566
+Genres: []
+ListenInSec: 3782
 Marks:
   - "[[Anime]]"
 NumberInAlbum: 0
-related:
-  - "[[aLIEz (TV Size) - Hiroyuki Sawano]]"
+related: []
 source: ""
 SourceFile: "[[SawanoHiroyuki_nZk_mizuki - aLIEz.mp3]]"
+sources:
+  - "[[Aldnoah.Zero (🇯🇵📺 1110)|Aldnoah.Zero|ending:2]]"
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

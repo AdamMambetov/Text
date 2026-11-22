@@ -2,22 +2,22 @@
 created: 2025-11-19T03:16:38+03:00
 aliases:
   - "STYX HELIX"
-  - "ReZero ED 1"
-  - "РеЗеро ED 1"
 Cover: "[[MYTH & ROID - STYX HELIX.jpg]]"
 Year: 2016
-Album: "[[STYX HELIX (📀 50)]]"
+Album: "[[STYX HELIX — MYTH & ROID]]"
 CoverOf: ""
 Creators:
   - "[[MYTH & ROID (🎙️ 382)]]"
-ListenInSec: 1592
+Genres: []
+ListenInSec: 1688
 Marks:
   - "[[Anime]]"
 NumberInAlbum: 1
-related:
-  - "[[Styx Helix (TV Size) - MYTH & ROID]]"
+related: []
 source: ""
 SourceFile: "[[MYTH & ROID - STYX HELIX.mp3]]"
+sources:
+  - "[[Re.Zero (🇯🇵📺 283)|Re:Zero|ending:1]]"
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

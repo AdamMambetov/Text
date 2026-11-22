@@ -6,14 +6,14 @@ aliases:
   - "Эрго прокси OP 1"
 Cover: "[[_No Album Art.jpg]]"
 Year: 2007
-Album: "[[Ergo Proxy OST opus 01]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[Monoral (🎙️ 164)]]"
-ListenInSec: 2222
+ListenInSec: 2483
 Marks:
   - "[[Anime]]"
-NumberInAlbum: 2
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Monoral - Kiri.mp3]]"

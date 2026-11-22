@@ -8,13 +8,17 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Griffin Chorus (🎙️ 892)]]"
+Genres: []
 ListenInSec: 852
 Marks:
   - "[[Anime]]"
+  - "[[OST]]"
 NumberInAlbum: 0
-related: []
+related:
+  - "[[Lilium - Kumiko Noma (🎧️ 775)]]"
 source: ""
 SourceFile: "[[Elfen Lied OST - Lilium (Saint version).mp3]]"
+sources: []
 ---
 
 # Elfen Lied OST - Lilium (Saint_version)

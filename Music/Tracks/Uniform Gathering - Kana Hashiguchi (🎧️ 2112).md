@@ -8,11 +8,11 @@ Album: "[[Classroom of the Elite 2-3 OST (📀 69)]]"
 CoverOf: ""
 Creators:
   - "[[Kana Hashiguchi (🎙️ 1061)]]"
-ListenInSec: 353
+ListenInSec: 367
 Marks:
   - "[[Anime]]"
   - "[[OST]]"
-NumberInAlbum: 6
+NumberInAlbum: 1
 related: []
 source: ""
 SourceFile: "[[Classroom of the Elite 2-3 OST - 06 Uniform Gathering.mp3]]"

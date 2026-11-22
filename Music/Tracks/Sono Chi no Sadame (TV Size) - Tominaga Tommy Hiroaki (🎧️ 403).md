@@ -8,10 +8,10 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Tominaga Tommy Hiroaki (🎙️ 564)]]"
-ListenInSec: 1442
+ListenInSec: 1461
 Marks:
   - "[[Anime]]"
-NumberInAlbum: 1
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Tominaga Tommy Hiroaki - Sono Chi no Sadame (TV Size).mp3]]"

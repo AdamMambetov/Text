@@ -8,7 +8,7 @@ Album: "[[Minecraft OST Alpha (📀 83)]]"
 CoverOf: ""
 Creators:
   - "[[C418 (🎙️ 1093)]]"
-ListenInSec: 3066
+ListenInSec: 3345
 Marks:
   - "[[Game]]"
   - "[[OST]]"

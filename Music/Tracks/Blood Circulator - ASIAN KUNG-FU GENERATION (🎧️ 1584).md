@@ -8,13 +8,16 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[ASIAN KUNG-FU GENERATION (🎙️ 193)]]"
-ListenInSec: 680
+Genres: []
+ListenInSec: 781
 Marks:
   - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[ASIAN KUNG-FU GENERATION - Blood Circulator.mp3]]"
+sources:
+  - "[[Наруто. Ураганные хроники (🇯🇵📺 12)|Наруто: Ураганные хроники|opening:19]]"
 ---
 
 # ASIAN KUNG-FU GENERATION - Blood Circulator

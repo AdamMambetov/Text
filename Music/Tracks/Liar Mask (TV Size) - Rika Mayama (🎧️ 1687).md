@@ -2,15 +2,14 @@
 created: 2025-06-03T00:38:15+03:00
 aliases:
   - "Liar Mask (TV Size)"
-  - "Akame ga Kill OP 2"
-  - "Убийца Акамэ OP 2"
 Cover: "[[Rika Mayama - Liar Mask (TV Size).jpg]]"
-Year: 0
+Year: 2014
 Album: ""
 CoverOf: ""
 Creators:
   - "[[Rika Mayama (🎙️ 426)]]"
-ListenInSec: 1615
+Genres: []
+ListenInSec: 1690
 Marks:
   - "[[Anime]]"
 NumberInAlbum: 0
@@ -18,6 +17,8 @@ related:
   - "[[Liar Mask - Rika Mayama (🎧️ 539)]]"
 source: ""
 SourceFile: "[[Rika Mayama - Liar Mask (TV Size).mp3]]"
+sources:
+  - "[[Убийца Акамэ! (🇯🇵📺 836)|Убийца Акамэ!|opening:2]]"
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

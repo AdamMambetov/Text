@@ -9,10 +9,10 @@ Album: "[[Jackbox Party Pack 2 OST (📀 72)]]"
 CoverOf: ""
 Creators:
   - "[[Andy Poland (🎙️ 183)]]"
-ListenInSec: 1318
+ListenInSec: 1414
 Marks:
   - "[[OST]]"
-NumberInAlbum: 46
+NumberInAlbum: 2
 related: []
 SourceFile: "[[Jackbox Party Pack 2 OST - 46 Quiplash. Round 2 Write.mp3]]"
 ---

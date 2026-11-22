@@ -2,15 +2,14 @@
 created: 2025-12-26T13:41:47+03:00
 aliases:
   - "EASY GO"
-  - "Katekyou Hitman Reborn OP 6"
-  - "Репетитор-киллер Реборн OP 6"
 Cover: "[[Kazuki Kato - EASY GO.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""
 Creators:
   - "[[Kazuki Kato (🎙️ 737)]]"
-ListenInSec: 1083
+Genres: []
+ListenInSec: 1103
 Marks:
   - "[[Anime]]"
 NumberInAlbum: 0
@@ -18,6 +17,8 @@ related:
   - "[[EASY GO (TV Size) - Kazuki Kato (🎧️ 1866)]]"
 source: ""
 SourceFile: "[[Kazuki Kato - EASY GO.mp3]]"
+sources:
+  - "[[Репетитор-киллер Реборн! (🇯🇵📺 531)|Репетитор-киллер Реборн!|opening:6]]"
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[LiSA (🎙️ 65)]]"
-ListenInSec: 704
+ListenInSec: 710
 Marks:
   - "[[Anime]]"
 NumberInAlbum: 0

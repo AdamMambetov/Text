@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Griff Clawson (🎙️ 813)]]"
-ListenInSec: 2240
+ListenInSec: 2243
 Marks:
   - "[[Anime]]"
 NumberInAlbum: 0

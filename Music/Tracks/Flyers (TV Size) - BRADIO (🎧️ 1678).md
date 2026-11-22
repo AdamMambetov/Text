@@ -2,16 +2,14 @@
 created: 2025-06-03T00:00:47+03:00
 aliases:
   - "Flyers (TV Size)"
-  - "Death Parade OP 1"
-  - "Смертельный парад OP 1"
-  - "Парад смерти OP 1"
 Cover: "[[BRADIO - Flyers.jpg]]"
-Year: 0
+Year: 2015
 Album: ""
 CoverOf: ""
 Creators:
   - "[[BRADIO (🎙️ 234)]]"
-ListenInSec: 1802
+Genres: []
+ListenInSec: 1880
 Marks:
   - "[[Anime]]"
 NumberInAlbum: 0
@@ -19,6 +17,8 @@ related:
   - "[[Flyers - BRADIO (🎧️ 1193)]]"
 source: ""
 SourceFile: "[[BRADIO - Flyers (TV Size).mp3]]"
+sources:
+  - "[[Смертельный парад (🇯🇵📺 521)|Смертельный парад|opening:1]]"
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

@@ -14,10 +14,10 @@ Genres:
   - "[[Electronic]]"
 ListenInSec: 647
 Marks:
-  - "[[Anime]]"
-  - "[[OST]]"
-  - "[[Ballad]]"
   - "[[Ambient]]"
+  - "[[Anime]]"
+  - "[[Ballad]]"
+  - "[[OST]]"
 NumberInAlbum: 1
 related: []
 source: ""

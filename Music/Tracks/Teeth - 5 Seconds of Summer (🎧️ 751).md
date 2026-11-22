@@ -4,15 +4,20 @@ aliases:
   - "Teeth"
 Cover: "[[5 Seconds of Summer - 13 Reasons Why (Season 3).jpg]]"
 Year: 2019
-Album: "[[13 Reasons Why (Season 3)]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[5 Seconds of Summer (🎙️ 69)]]"
-ListenInSec: 224
-NumberInAlbum: 1
+Genres: []
+ListenInSec: 226
+Marks:
+  - "[[Series]]"
+  - "[[OST]]"
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[5 Seconds of Summer - Teeth.mp3]]"
+sources: []
 ---
 
 # 5 Seconds of Summer - Teeth

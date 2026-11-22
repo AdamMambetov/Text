@@ -2,21 +2,22 @@
 created: 2025-01-08T18:47:55+03:00
 aliases:
   - "Hyper"
-  - "Under Ninja OP 1"
-  - "Низкоквалифицированный ниндзя OP 1"
 Cover: "[[_No Album Art.jpg]]"
-Year: 0
+Year: 2023
 Album: ""
 CoverOf: ""
 Creators:
   - "[[Kroi (🎙️ 710)]]"
-ListenInSec: 2026
+Genres: []
+ListenInSec: 2525
 Marks:
   - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Kroi - Hyper.mp3]]"
+sources:
+  - "[[Низкоквалифицированный ниндзя (🇯🇵📺 134)|Низкоквалифицированный ниндзя|opening:1]]"
 ---
 
 # Kroi - Hyper

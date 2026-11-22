@@ -4,12 +4,12 @@ aliases:
   - "Wings of Freedom"
 Cover: "[[Epica - Epica vs. Attack on Titan Songs.png]]"
 Year: 2017
-Album: "[[Epica vs. Attack on Titan Songs [2017] {Epica}]]"
-CoverOf: ""
+Album: ""
+CoverOf: "[[Jiyuu no Tsubasa - Linked Horizon (🎧️ 1690)]]"
 Creators:
   - "[[Epica (🎙️ 292)]]"
 ListenInSec: 332
-NumberInAlbum: 2
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Epica - Wings of Freedom.mp3]]"

@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[SPYAIR (🎙️ 442)]]"
-ListenInSec: 798
+ListenInSec: 799
 Marks:
   - "[[Anime]]"
 NumberInAlbum: 0

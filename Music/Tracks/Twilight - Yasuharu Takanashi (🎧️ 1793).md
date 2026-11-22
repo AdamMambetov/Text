@@ -12,7 +12,7 @@ ListenInSec: 1485
 Marks:
   - "[[Anime]]"
   - "[[OST]]"
-NumberInAlbum: 5
+NumberInAlbum: 4
 related: []
 source: ""
 SourceFile: "[[Shiki OST - 05 Twilight.mp3]]"

@@ -12,7 +12,7 @@ ListenInSec: 1465
 Marks:
   - "[[Anime]]"
   - "[[OST]]"
-NumberInAlbum: 31
+NumberInAlbum: 18
 related: []
 source: ""
 SourceFile: "[[ReZero 1 OST - 31 Promenade of Whistles and Creation.mp3]]"

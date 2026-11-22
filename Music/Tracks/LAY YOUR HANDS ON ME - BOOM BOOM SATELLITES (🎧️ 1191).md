@@ -9,7 +9,7 @@ CoverOf: ""
 Creators:
   - "[[BOOM BOOM SATELLITES (🎙️ 232)]]"
 Genres: []
-ListenInSec: 6166
+ListenInSec: 6312
 Marks:
   - "[[Anime]]"
 NumberInAlbum: 0

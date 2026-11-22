@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[the right person in the right (🎙️ 1095)]]"
-ListenInSec: 89
+ListenInSec: 97
 Marks:
   - "[[Meme]]"
 NumberInAlbum: 0

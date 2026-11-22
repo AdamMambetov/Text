@@ -8,7 +8,7 @@ Album: "[[Naku Naku Solo Guitar (📀 54)]]"
 CoverOf: ""
 Creators:
   - "[[nekocapo (🎙️ 1007)]]"
-ListenInSec: 2947
+ListenInSec: 3083
 NumberInAlbum: 4
 related: []
 SourceFile: "[[nekocapo - Sakutarou's Adventure.mp3]]"

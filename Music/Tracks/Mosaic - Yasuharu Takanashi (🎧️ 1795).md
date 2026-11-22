@@ -12,7 +12,7 @@ ListenInSec: 429
 Marks:
   - "[[Anime]]"
   - "[[OST]]"
-NumberInAlbum: 7
+NumberInAlbum: 6
 related: []
 SourceFile: "[[Shiki OST - 07 Mosaic.mp3]]"
 ---

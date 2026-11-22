@@ -12,7 +12,7 @@ ListenInSec: 442
 Marks:
   - "[[Anime]]"
   - "[[OST]]"
-NumberInAlbum: 13
+NumberInAlbum: 10
 related: []
 source: ""
 SourceFile: "[[Shiki OST - 13 Thirteen Moons.mp3]]"

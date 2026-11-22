@@ -5,7 +5,7 @@ aliases:
 Cover: "[[InstrumentManiac - Persona 5 - Beneath the Mask.jpg]]"
 Year: 0
 Album: ""
-CoverOf: "[[Persona 5 OST - Beneath the Mask - Lyn Inaizumi (🎧️ 2000)]]"
+CoverOf: "[[Beneath the Mask - Lyn Inaizumi (🎧️ 2000)]]"
 Creators:
   - "[[InstrumentManiac (🎙️ 777)]]"
 ListenInSec: 586

@@ -8,11 +8,14 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Creepy Nuts (🎙️ 267)]]"
-ListenInSec: 1026
+Genres: []
+ListenInSec: 1031
 Marks:
   - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Creepy Nuts - DATEN.mp3]]"
+sources:
+  - "[[Песнь ночных сов (🇯🇵📺 58)|Песнь ночных сов|opening:1]]"
 ---
 

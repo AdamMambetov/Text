@@ -2,20 +2,21 @@
 created: 2025-01-08T23:19:01+03:00
 aliases:
   - "KABANERI OF THE IRON FORTRESS"
-  - "Кабанери железной крепости OP 1"
-  - "Kabaneri of the Iron Fortress OP 1"
 Cover: "[[Kabaneri of the Iron Fortress OST.jpg]]"
 Year: 2016
 Album: ""
 CoverOf: ""
 Creators:
   - "[[Egoist (🎙️ 761)]]"
-ListenInSec: 4768
+Genres: []
+ListenInSec: 4902
 Marks:
   - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Egoist - Kabaneri of the Iron Fortress.mp3]]"
+sources:
+  - "[[Кабанэри железной крепости (🇯🇵📺 663)|Кабанэри железной крепости|opening:1]]"
 ---
 
 # KABANERI OF THE IRON FORTRESS

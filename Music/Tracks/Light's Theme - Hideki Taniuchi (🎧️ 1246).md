@@ -8,7 +8,7 @@ Album: "[[Death Note OST (📀 76)]]"
 CoverOf: ""
 Creators:
   - "[[Hideki Taniuchi (🎙️ 885)]]"
-ListenInSec: 162
+ListenInSec: 166
 Marks:
   - "[[Anime]]"
   - "[[OST]]"

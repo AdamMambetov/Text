@@ -8,11 +8,11 @@ Album: "[[Naruto OST 3 (📀 17)]]"
 CoverOf: ""
 Creators:
   - "[[Toshio Masuda (🎙️ 557)]]"
-ListenInSec: 542
+ListenInSec: 581
 Marks:
   - "[[Anime]]"
   - "[[OST]]"
-NumberInAlbum: 19
+NumberInAlbum: 11
 related: []
 source:
 SourceFile: "[[Naruto OST - Tea Country.mp3]]"

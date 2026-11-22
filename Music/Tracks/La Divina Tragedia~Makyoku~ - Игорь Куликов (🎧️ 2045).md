@@ -12,7 +12,7 @@ Creators:
   - "[[Игорь Куликов (🎙️ 71)]]"
 Genres:
   - "[[Metal]]"
-ListenInSec: 1093
+ListenInSec: 1119
 Marks:
   - "[[Anime]]"
   - "[[Cover]]"

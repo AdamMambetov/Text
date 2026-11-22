@@ -8,13 +8,16 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Hiroyuki Sawano (🎙️ 327)]]"
-ListenInSec: 480
+Genres: []
+ListenInSec: 488
 Marks:
   - "[[Anime]]"
+  - "[[OST]]"
 NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Hiroyuki_Sawano - Mkaliez.mp3]]"
+sources: []
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

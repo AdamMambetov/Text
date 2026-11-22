@@ -8,11 +8,11 @@ Album: "[[BERSERK OST (📀 6)]]"
 CoverOf: ""
 Creators:
   - "[[Susumu Hirasawa (🎙️ 450)]]"
-ListenInSec: 1805
+ListenInSec: 1814
 Marks:
   - "[[Anime]]"
   - "[[OST]]"
-NumberInAlbum: 0
+NumberInAlbum: 2
 related: []
 source: ""
 SourceFile: "[[BERSERK OST - Forces.mp3]]"

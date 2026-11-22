@@ -12,7 +12,7 @@ ListenInSec: 362
 Marks:
   - "[[Anime]]"
   - "[[OST]]"
-NumberInAlbum: 24
+NumberInAlbum: 12
 related: []
 source: ""
 SourceFile: "[[ReZero 1 OST - 24 Takt of Heroes.mp3]]"

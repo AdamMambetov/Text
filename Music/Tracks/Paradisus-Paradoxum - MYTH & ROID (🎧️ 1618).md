@@ -2,20 +2,21 @@
 created: 2025-01-16T02:17:58+03:00
 aliases:
   - "Paradisus-Paradoxum"
-  - "ReZero OP 2"
-  - "РеЗеро OP 2"
 Cover: "[[_No Album Art.jpg]]"
-Year: 0
+Year: 2016
 Album: ""
 CoverOf: ""
 Creators:
   - "[[MYTH & ROID (🎙️ 382)]]"
-ListenInSec: 1724
+Genres: []
+ListenInSec: 1814
 Marks:
   - "[[Anime]]"
 NumberInAlbum: 0
 related:
   - "[[Paradisus-Paradoxum (TV Size) - MYTH & ROID (🎧️ 1083)]]"
 SourceFile: "[[MYTH & ROID - Paradisus-Paradoxum.mp3]]"
+sources:
+  - "[[Re.Zero (🇯🇵📺 283)|Re:Zero|opening:2]]"
 ---
 

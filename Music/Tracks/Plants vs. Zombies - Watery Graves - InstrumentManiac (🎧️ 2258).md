@@ -9,11 +9,15 @@ CoverOf: "[[Watery Graves (slow) - Laura Shigihara (🎧️ 2311)]]"
 Creators:
   - "[[InstrumentManiac (🎙️ 777)]]"
   - "[[Moisés Niet (🎙️ 833)]]"
-ListenInSec: 1460
+Genres: []
+ListenInSec: 1487
+Marks:
+  - "[[Cover]]"
 NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[InstrumentManiac, Moisés Niet - Plants vs. Zombies - Watery Graves.opus]]"
+sources: []
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

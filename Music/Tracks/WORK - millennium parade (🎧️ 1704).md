@@ -2,18 +2,21 @@
 created: 2025-06-24T08:45:50+03:00
 aliases:
   - "WORK"
-  - "Адский рай OP 1"
 Cover: "[[_No Album Art.jpg]]"
-Year: 0
+Year: 2023
 Album: ""
 CoverOf: ""
 Creators:
   - "[[millennium parade (🎙️ 663)]]"
-ListenInSec: 3509
+Genres: []
+ListenInSec: 4156
 Marks:
   - "[[Anime]]"
 NumberInAlbum: 0
-related: []
+related:
+  - "[[WORK (TV Size) - millennium parade (🎧️ 1714)]]"
 SourceFile: "[[millennium parade - WORK.mp3]]"
+sources:
+  - "[[Jigokuraku (🇯🇵📺 364)|Jigokuraku|opening:1]]"
 ---
 

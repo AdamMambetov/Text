@@ -4,12 +4,12 @@ aliases:
   - "THE WORLD WITHOUT LOGOS"
 Cover: "[[_No Album Art.jpg]]"
 Year: 2023
-Album: "[[THE WORLD WITHOUT LOGOS]]"
-CoverOf: ""
+Album: ""
+CoverOf: "[[THE WORLD WITHOUT LOGOS - Yasushi Ishii (🎧️ 1985)]]"
 Creators:
   - "[[Игорь Куликов (🎙️ 71)]]"
 ListenInSec: 505
-NumberInAlbum: 1
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Игорь Куликов - THE WORLD WITHOUT LOGOS.mp3]]"

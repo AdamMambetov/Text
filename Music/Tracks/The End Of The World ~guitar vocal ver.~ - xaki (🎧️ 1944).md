@@ -8,7 +8,7 @@ Album: "[[Akoustika II (📀 58)]]"
 CoverOf: ""
 Creators:
   - "[[xaki (🎙️ 12)]]"
-ListenInSec: 1377
+ListenInSec: 1410
 NumberInAlbum: 1
 related:
   - "[[The End Of The World - xaki (🎧️ 2188)]]"

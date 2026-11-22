@@ -9,7 +9,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Dobranotch (🎙️ 1094)]]"
-ListenInSec: 44
+ListenInSec: 53
 NumberInAlbum: 0
 related:
   - "[[Подлая еврейская музыка - the right person in the right (🎧️ 2274)]]"

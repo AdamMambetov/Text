@@ -9,11 +9,17 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Shoji Meguro (🎙️ 1016)]]"
-ListenInSec: 2187
+Genres: []
+ListenInSec: 2203
+Marks:
+  - "[[Anime]]"
+  - "[[Game]]"
+  - "[[OST]]"
 NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[ATLUS Sound Team - Will Power.opus]]"
+sources: []
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

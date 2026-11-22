@@ -8,13 +8,16 @@ Album: "[[Angry Birds OST (📀 84)]]"
 CoverOf: ""
 Creators:
   - "[[Rovio (🎙️ 1104)]]"
-ListenInSec: 68
+Genres: []
+ListenInSec: 108
 Marks:
   - "[[OST]]"
+  - "[[Game]]"
 NumberInAlbum: 1
 related: []
 source: ""
 SourceFile: "[[Angry Birds OST - 25 Main Theme.ogg]]"
+sources: []
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

@@ -10,12 +10,12 @@ CoverOf: ""
 Creators:
   - "[[Michael McCuistion (🎙️ 1080)]]"
   - "[[Lolita Ritmanis (🎙️ 1081)]]"
-ListenInSec: 3232
+ListenInSec: 3250
 Marks:
   - "[[Game]]"
-  - "[[OST]]"
   - "[[Meme]]"
-NumberInAlbum: 12
+  - "[[OST]]"
+NumberInAlbum: 1
 related: []
 source: ""
 SourceFile: "[[Spider-Man 2 The Game OST - Pizza Theme.opus]]"

@@ -2,15 +2,14 @@
 created: 2026-06-11T23:41:12+03:00
 aliases:
   - "Sakuramitsutsuki (TV Size)"
-  - "Gintama OP 13"
-  - "Гинтама OP 13"
 Cover: "[[SPYAIR - Sakuramitsuki.jpg]]"
 Year: 2013
 Album: ""
 CoverOf: ""
 Creators:
   - "[[SPYAIR (🎙️ 442)]]"
-ListenInSec: 400
+Genres: []
+ListenInSec: 666
 Marks:
   - "[[Anime]]"
 NumberInAlbum: 0
@@ -18,6 +17,8 @@ related:
   - "[[Sakuramitsutsuki - SPYAIR (🎧️ 1458)]]"
 source: ""
 SourceFile: "[[SPYAIR - Sakuramitsutsuki (TV Size).mp3]]"
+sources:
+  - "[[Гинтама (🇯🇵📺 480)|Гинтама|opening:13]]"
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

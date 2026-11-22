@@ -8,13 +8,17 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Daisuke Hasegawa (🎙️ 967)]]"
-ListenInSec: 540
+Genres: []
+ListenInSec: 903
 Marks:
   - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Daisuke Hasegawa - Uragirimono no Requiem.mp3]]"
+sources:
+  - "[[Невероятное приключение ДжоДжо 1-2. Призрачная кровьСтремление к бою (🇯🇵📺 485)|Невероятное приключение ДжоДжо 1-2: Призрачная кровь/Стремление к бою|opening:9]]"
+  - "[[Невероятное приключение ДжоДжо 5. Золотой ветер (🇯🇵📺 489)|Невероятное приключение ДжоДжо 5: Золотой ветер|opening:2]]"
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

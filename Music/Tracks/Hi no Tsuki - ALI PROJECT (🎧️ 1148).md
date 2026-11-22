@@ -2,21 +2,22 @@
 created: 2024-10-08T15:43:34+03:00
 aliases:
   - "Hi no Tsuki"
-  - "Tsuki to Laika to Nosferatu OP 1"
-  - "Луна, Лайка и Носферату OP 1"
 Cover: "[[ALI PROJECT - Hi no Tsuki.jpg]]"
 Year: 2021
 Album: ""
 CoverOf: ""
 Creators:
   - "[[ALI PROJECT (🎙️ 165)]]"
-ListenInSec: 708
+Genres: []
+ListenInSec: 709
 Marks:
   - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[ALI PROJECT - Hi no Tsuki.mp3]]"
+sources:
+  - "[[Луна, Лайка и Носферату (🇯🇵📺 455)|Луна, Лайка и Носферату|opening:1]]"
 ---
 
 # ALI PROJECT - Hi no Tsuki

@@ -12,7 +12,7 @@ ListenInSec: 184
 Marks:
   - "[[Anime]]"
   - "[[OST]]"
-NumberInAlbum: 39
+NumberInAlbum: 23
 related: []
 source: ""
 SourceFile: "[[ReZero 1 OST - 39 Start of Fate.mp3]]"

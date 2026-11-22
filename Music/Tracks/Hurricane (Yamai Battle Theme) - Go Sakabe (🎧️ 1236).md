@@ -8,13 +8,16 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Go Sakabe (🎙️ 315)]]"
-ListenInSec: 683
+Genres: []
+ListenInSec: 690
 Marks:
   - "[[Anime]]"
+  - "[[OST]]"
 NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Date A Live 2 OST - Hurricane (Yamai Battle Theme).mp3]]"
+sources: []
 ---
 
 # Date A Live 2 OST - Hurricane (Yamai Battle Theme)

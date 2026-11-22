@@ -9,7 +9,7 @@ Album: "[[Heroes of Might and Magic V OST (📀 82)]]"
 CoverOf: ""
 Creators:
   - "[[Paul Romero (🎙️ 771)]]"
-ListenInSec: 66
+ListenInSec: 132
 Marks:
   - "[[OST]]"
 NumberInAlbum: 5

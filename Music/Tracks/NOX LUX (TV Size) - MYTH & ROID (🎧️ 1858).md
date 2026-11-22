@@ -8,13 +8,16 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[MYTH & ROID (🎙️ 382)]]"
-ListenInSec: 402
+Genres: []
+ListenInSec: 491
 Marks:
   - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[MYTH & ROID - NOX LUX (TV Size).mp3]]"
+sources:
+  - "[[Re.Zero (🇯🇵📺 283)|Re:Zero|ending:5]]"
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

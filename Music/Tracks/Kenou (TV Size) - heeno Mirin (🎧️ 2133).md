@@ -2,8 +2,6 @@
 created: 2026-07-18T01:02:11+03:00
 aliases:
   - "Kenou (TV Size)"
-  - "Dekin no Mogura ED 1"
-  - "Запрещённый крот ED 1"
 Cover: "[[_No Album Art.jpg]]"
 Year: 2025
 Album: ""
@@ -11,13 +9,16 @@ CoverOf: ""
 Creators:
   - "[[heeno Mirin (🎙️ 1062)]]"
   - "[[Aile The Shota (🎙️ 1063)]]"
-ListenInSec: 1249
+Genres: []
+ListenInSec: 1292
 Marks:
   - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[heeno Mirin feat. Aile The Shota - Kenou (TV Size).opus]]"
+sources:
+  - "[[Запрещённый крот (🇯🇵📺 1195)|Запрещённый крот|ending:1]]"
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

@@ -2,6 +2,6 @@
 created: 2026-08-19T17:18:38+03:00
 aliases:
   - "Kikuko Inoue"
-ListenInSec: 1653
+ListenInSec: 1721
 ---
 

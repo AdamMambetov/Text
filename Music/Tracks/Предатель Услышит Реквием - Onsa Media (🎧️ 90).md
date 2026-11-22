@@ -4,8 +4,8 @@ aliases:
   - "Предатель Услышит Реквием"
 Cover: "[[Onsa Media - Uragirimono no Requiem.jpg]]"
 Year: 0
-Album: "[[Uragirimono no Requiem [2022] {Kari}]]"
-CoverOf: ""
+Album: ""
+CoverOf: "[[Uragirimono no Requiem - Daisuke Hasegawa (🎧️ 1679)]]"
 Creators:
   - "[[Onsa Media (🎙️ 400)]]"
 ListenInSec: 409

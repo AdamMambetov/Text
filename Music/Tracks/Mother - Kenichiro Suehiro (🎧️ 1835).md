@@ -9,11 +9,11 @@ Album: "[[ReZero 2 OST 1 (📀 47)]]"
 CoverOf: ""
 Creators:
   - "[[Kenichiro Suehiro (🎙️ 748)]]"
-ListenInSec: 319
+ListenInSec: 320
 Marks:
   - "[[Anime]]"
   - "[[OST]]"
-NumberInAlbum: 16
+NumberInAlbum: 6
 related: []
 source: ""
 SourceFile: "[[ReZero 2 OST 1 - 16 Mother.mp3]]"

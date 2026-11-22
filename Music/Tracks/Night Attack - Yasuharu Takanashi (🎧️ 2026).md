@@ -8,13 +8,16 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Yasuharu Takanashi (🎙️ 749)]]"
-ListenInSec: 265
+Genres: []
+ListenInSec: 275
 Marks:
   - "[[Anime]]"
+  - "[[OST]]"
 NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Yasuharu Takanashi - Night Attack.mp3]]"
+sources: []
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

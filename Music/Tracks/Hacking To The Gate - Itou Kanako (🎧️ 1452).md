@@ -2,14 +2,13 @@
 created: 2025-01-08T00:51:12+03:00
 aliases:
   - "Hacking To The Gate"
-  - "Steins Gate OP 1"
-  - "Врата Штейна OP 1"
 Cover: "[[_No Album Art.jpg]]"
-Year: 0
+Year: 2011
 Album: ""
 CoverOf: ""
 Creators:
   - "[[Itou Kanako (🎙️ 52)]]"
+Genres: []
 ListenInSec: 997
 Marks:
   - "[[Anime]]"
@@ -18,6 +17,8 @@ related:
   - "[[Hacking to the Gate (TV Size) - Itou Kanako (🎧️ 1092)]]"
 source: ""
 SourceFile: "[[Itou Kanako - Hacking To The Gate.mp3]]"
+sources:
+  - "[[Steins;Gate (🇯🇵📺 345)|Steins;Gate|opening:1]]"
 ---
 
 # Hacking To The Gate

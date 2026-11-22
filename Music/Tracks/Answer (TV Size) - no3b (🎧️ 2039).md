@@ -2,15 +2,14 @@
 created: 2026-06-11T23:03:12+03:00
 aliases:
   - "Answer (TV Size)"
-  - "Beelzebub ED 1"
-  - "Вельзепуз ED 1"
 Cover: "[[no3b - Answer.jpg]]"
-Year: 0
+Year: 2011
 Album: ""
 CoverOf: ""
 Creators:
   - "[[no3b (🎙️ 1033)]]"
-ListenInSec: 1338
+Genres: []
+ListenInSec: 1427
 Marks:
   - "[[Anime]]"
 NumberInAlbum: 0
@@ -18,6 +17,8 @@ related:
   - "[[Answer - no3b (🎧️ 2038)]]"
 source: ""
 SourceFile: "[[no3b - Answer (TV Size).mp3]]"
+sources:
+  - "[[Beelzebub (🇯🇵📺 708)|Beelzebub|ending:1]]"
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

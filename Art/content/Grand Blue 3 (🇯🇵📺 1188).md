@@ -2,11 +2,13 @@
 created: 2025-11-13T00:09:45+03:00
 aliases:
   - "Grand Blue 3"
-Status: plan
+  - "Необъятный океан 3"
+Status: watch
 Type: anime
 Rating:
   - "[[®️12|PG-13]]"
 Cover: https://shikimori.one/uploads/poster/animes/62542/74d97ee5cc9c5a7abbfb57fec9ebde29.jpeg
+Episode: 3
 Предыстория: "[[Необъятный океан 2 (🇯🇵📺 493)]]"
 ---
 

@@ -10,13 +10,16 @@ CoverOf: ""
 Creators:
   - "[[KSUKE (🎙️ 352)]]"
   - "[[Tyler Carter (🎙️ 796)]]"
-ListenInSec: 502
+Genres: []
+ListenInSec: 504
 Marks:
   - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Ksuke - Contradiction.mp3]]"
+sources:
+  - "[[The God of High School (🇯🇵📺 842)|The God of High School|opening:1]]"
 ---
 
 # Ksuke - Contradiction

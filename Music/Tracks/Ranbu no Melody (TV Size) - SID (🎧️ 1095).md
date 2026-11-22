@@ -8,14 +8,17 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[SID (🎙️ 435)]]"
-ListenInSec: 281
+Genres: []
+ListenInSec: 282
 Marks:
   - "[[Anime]]"
-NumberInAlbum: 1
+NumberInAlbum: 0
 related:
   - "[[Ranbu No Melody - SID (🎧️ 227)]]"
 source: ""
 SourceFile: "[[SID - Ranbu No Melody (TV Size).mp3]]"
+sources:
+  - "[[Bleach (🇯🇵📺 356)|Bleach|opening:13]]"
 ---
 
 # SID - Ranbu No Melody (TV Size)

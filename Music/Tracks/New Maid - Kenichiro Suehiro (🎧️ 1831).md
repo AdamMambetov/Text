@@ -12,7 +12,7 @@ ListenInSec: 339
 Marks:
   - "[[Anime]]"
   - "[[OST]]"
-NumberInAlbum: 5
+NumberInAlbum: 2
 related: []
 source: ""
 SourceFile: "[[ReZero 2 OST 1 - 05 New Maid.mp3]]"

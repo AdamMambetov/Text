@@ -2,14 +2,14 @@
 created: 2025-07-14T23:07:24+03:00
 aliases:
   - "ODDTAXI (TV Size)"
-  - "Случайное такси OP 1"
 Cover: "[[Skirt & PUNPEE - ODDTAXI (TV Size).jpg]]"
-Year: 0
+Year: 2021
 Album: ""
 CoverOf: ""
 Creators:
   - "[[Skirt & PUNPEE (🎙️ 700)]]"
-ListenInSec: 1751
+Genres: []
+ListenInSec: 1804
 Marks:
   - "[[Anime]]"
 NumberInAlbum: 0
@@ -17,6 +17,8 @@ related:
   - "[[ODDTAXI - Skirt & PUNPEE (🎧️ 1731)]]"
 source: ""
 SourceFile: "[[Skirt & PUNPEE - ODDTAXI (TV Size).mp3]]"
+sources:
+  - "[[Случайное такси (🇯🇵📺 696)|Случайное такси|opening:1]]"
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

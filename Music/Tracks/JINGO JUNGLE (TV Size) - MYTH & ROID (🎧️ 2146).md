@@ -12,13 +12,16 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[MYTH & ROID (🎙️ 382)]]"
-ListenInSec: 2786
+Genres: []
+ListenInSec: 3236
 Marks:
   - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[MYTH & ROID - JINGO JUNGLE (TV Size).opus]]"
+sources:
+  - "[[Youjo Senki (🇯🇵📺 385)|Youjo Senki|opening:1]]"
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

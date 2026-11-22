@@ -11,10 +11,10 @@ Creators:
   - "[[xaki (🎙️ 12)]]"
   - "[[amiry (🎙️ 1073)]]"
   - "[[IZNA (🎙️ 1074)]]"
-ListenInSec: 711
+ListenInSec: 712
 Marks:
   - "[[OST]]"
-NumberInAlbum: 195
+NumberInAlbum: 157
 related:
   - "[[Revelations (inst) - xaki (🎧️ 928)]]"
 source: ""

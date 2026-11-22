@@ -2,16 +2,13 @@
 created: 2025-01-08T00:23:10+03:00
 aliases:
   - "Crossing Field"
-  - "Sword Art Online OP 1"
-  - "SAO OP 1"
-  - "Мастера меча онлайн OP 1"
-  - "САО OP 1"
 Cover: "[[_No Album Art.jpg]]"
-Year: 0
+Year: 2012
 Album: ""
 CoverOf: ""
 Creators:
   - "[[LiSA (🎙️ 65)]]"
+Genres: []
 ListenInSec: 3790
 Marks:
   - "[[Anime]]"
@@ -19,5 +16,7 @@ NumberInAlbum: 0
 related:
   - "[[Crossing Field (TV Size) - LiSA (🎧️ 1438)]]"
 SourceFile: "[[LiSA - Crossing Field.mp3]]"
+sources:
+  - "[[Мастера Меча Онлайн (🇯🇵📺 463)|Мастера Меча Онлайн|opening:1]]"
 ---
 

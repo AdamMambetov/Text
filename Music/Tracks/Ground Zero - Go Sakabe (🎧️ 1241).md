@@ -8,11 +8,11 @@ Album: "[[Date A Live OST (📀 11)]]"
 CoverOf: ""
 Creators:
   - "[[Go Sakabe (🎙️ 315)]]"
-ListenInSec: 377
+ListenInSec: 391
 Marks:
   - "[[Anime]]"
   - "[[OST]]"
-NumberInAlbum: 0
+NumberInAlbum: 1
 related: []
 source: ""
 SourceFile: "[[Date A Live 1 OST - Ground Zero.mp3]]"

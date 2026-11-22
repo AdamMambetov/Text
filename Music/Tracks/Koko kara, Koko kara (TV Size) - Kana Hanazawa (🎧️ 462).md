@@ -11,7 +11,7 @@ Creators:
   - "[[Inori Minase (🎙️ 783)]]"
   - "[[Yuka Iguchi (🎙️ 672)]]"
   - "[[Hayami Saori (🎙️ 798)]]"
-ListenInSec: 202
+ListenInSec: 219
 Marks:
   - "[[Anime]]"
 NumberInAlbum: 0

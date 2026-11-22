@@ -9,13 +9,16 @@ CoverOf: ""
 Creators:
   - "[[K.A.Z (🎙️ 953)]]"
   - "[[Yuji Ueda (🎙️ 954)]]"
-ListenInSec: 107
+Genres: []
+ListenInSec: 118
 Marks:
   - "[[Anime]]"
-NumberInAlbum: 1
+  - "[[OST]]"
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Detroit Metal City OST - Mad Monster.mp3]]"
+sources: []
 ---
 
 # Detroit Metal City OST - Mad Monster

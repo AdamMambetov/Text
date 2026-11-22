@@ -9,13 +9,16 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Yasuharu Takanashi (🎙️ 749)]]"
-ListenInSec: 1868
+Genres: []
+ListenInSec: 1891
 Marks:
   - "[[Anime]]"
-NumberInAlbum: 19
+  - "[[OST]]"
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Vale ou não vale？ - Naruto Shippuuden - Original Sound Track - Sasori's Theme.mp3]]"
+sources: []
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

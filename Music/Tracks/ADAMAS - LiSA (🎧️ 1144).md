@@ -4,17 +4,21 @@ aliases:
   - "ADAMAS"
 Cover: "[[LiSA - Akai wana who loves it  ADAMAS.jpg]]"
 Year: 2018
-Album: "[[ADAMAS]]"
+Album: "[[Akai Wana (Who Loves It)  ADAMAS (📀 89)]]"
 CoverOf: ""
 Creators:
   - "[[LiSA (🎙️ 65)]]"
-ListenInSec: 1166
+Genres: []
+ListenInSec: 1168
 Marks:
   - "[[Anime]]"
 NumberInAlbum: 2
 related: []
 source: ""
 SourceFile: "[[LiSA - ADAMAS.mp3]]"
+sources:
+  - "[[Мастера Меча Онлайн (🇯🇵📺 463)|Мастера Меча Онлайн|opening:5]]"
+  - "[[Мастера Меча Онлайн. Алисизация (🇯🇵📺 468)|Мастера Меча Онлайн. Алисизация|opening:1]]"
 ---
 
 # LiSA - ADAMAS

@@ -4,17 +4,20 @@ aliases:
   - "Turn Over"
 Cover: "[[Naruto OST 1.jpg]]"
 Year: 2003
-Album: "[[Naruto OST 1 (📀 15)]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[Musashi Project (🎙️ 558)]]"
-ListenInSec: 306
+Genres: []
+ListenInSec: 313
 Marks:
   - "[[Anime]]"
-NumberInAlbum: 18
+  - "[[OST]]"
+NumberInAlbum: 0
 related: []
 source:
 SourceFile: "[[Naruto OST - Turn Over.mp3]]"
+sources: []
 ---
 
 # Naruto OST - Turn Over

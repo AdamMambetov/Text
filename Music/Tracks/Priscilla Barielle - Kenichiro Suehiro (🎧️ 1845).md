@@ -12,7 +12,7 @@ ListenInSec: 258
 Marks:
   - "[[Anime]]"
   - "[[OST]]"
-NumberInAlbum: 4
+NumberInAlbum: 2
 related: []
 source: ""
 SourceFile: "[[ReZero 3 OST - 04 Priscilla Barielle.mp3]]"

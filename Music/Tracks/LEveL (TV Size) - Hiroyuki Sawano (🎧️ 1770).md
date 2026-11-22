@@ -2,22 +2,22 @@
 created: 2025-10-28T20:37:18+03:00
 aliases:
   - "LEveL (TV Size)"
-  - "Solo Leveling OP 1"
-  - "Поднятие уровня в одиночку OP 1"
-  - "Соло Левелинг OP 1"
 Cover: "[[Hiroyuki Sawano - LEveL (TV Size).jpg]]"
-Year: 0
+Year: 2024
 Album: ""
 CoverOf: ""
 Creators:
   - "[[Hiroyuki Sawano (🎙️ 327)]]"
-ListenInSec: 1794
+Genres: []
+ListenInSec: 1885
 Marks:
   - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Hiroyuki Sawano - LEvel (TV Size).mp3]]"
+sources:
+  - "[[Поднятие уровня в одиночку (🇯🇵📺 279)|Поднятие уровня в одиночку|opening:1]]"
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

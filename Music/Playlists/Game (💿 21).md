@@ -55,9 +55,7 @@ tracklist:
   - "[[Trivia Murder Party 2. Saxy - Andy Poland (🎧️ 1659)]]"
   - "[[Champ'd Up. Create 1 - Andy Poland (🎧️ 1669)]]"
   - "[[Champ'd Up. Create 3 - Andy Poland (🎧️ 2145)]]"
-  - "[[Pizza Theme - Michael McCuistion (🎧️ 2264)]]"
-  - "[[Persona 3 Reload - It's Going Down Now - Azumi Takahashi (🎧️ 2077)]]"
-  - "[[Persona 5 OST - Beneath the Mask - Lyn Inaizumi (🎧️ 2000)]]"
+  - "[[Beneath the Mask - Lyn Inaizumi (🎧️ 2000)]]"
   - "[[Find the Flame - Masayoshi Soken (🎧️ 1551)]]"
   - "[[The Roost Café - Kazumi Totaka (🎧️ 1366)]]"
   - "[[Baba Yetu - Christopher Tin (🎧️ 2036)]]"
@@ -337,6 +335,5 @@ tracklist:
   - "[[Loonboon - Laura Shigihara (🎧️ 2019)]]"
   - "[[Crazy Dave - Laura Shigihara (🎧️ 2022)]]"
   - "[[Moongrains - Laura Shigihara (🎧️ 2020)]]"
-  - "[[Plants vs. Zombies - Watery Graves - InstrumentManiac (🎧️ 2258)]]"
   - "[[Zombies on Your Lawn (YT Version) - Laura Shigihara (🎧️ 2018)]]"
 ---

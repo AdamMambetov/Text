@@ -9,9 +9,9 @@ CoverOf: ""
 Creators:
   - "[[Britney Spears (🎙️ 1037)]]"
 Genres:
-  - "[[Pop]]"
   - "[[Dance]]"
-ListenInSec: 380
+  - "[[Pop]]"
+ListenInSec: 750
 NumberInAlbum: 0
 related: []
 source: ""

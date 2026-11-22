@@ -12,12 +12,11 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[LiSA (🎙️ 65)]]"
-ListenInSec: 673
+ListenInSec: 689
 Marks:
   - "[[Anime]]"
 NumberInAlbum: 0
-related:
-  - "[[Gurenge (TV Size) - LiSA]]"
+related: []
 source: ""
 SourceFile: "[[LiSA - Gurenge.mp3]]"
 ---

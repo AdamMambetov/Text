@@ -11,7 +11,8 @@ CoverOf: ""
 Creators:
   - "[[Mika Nakashima (🎙️ 828)]]"
   - "[[HYDE (🎙️ 827)]]"
-ListenInSec: 798
+Genres: []
+ListenInSec: 867
 Marks:
   - "[[Anime]]"
 NumberInAlbum: 0
@@ -19,6 +20,8 @@ related:
   - "[[KISS OF DEATH (TV Size) - Mika Nakashima (🎧️ 2086)]]"
 source: ""
 SourceFile: "[[Mika Nakashima - Kiss of Death.opus]]"
+sources:
+  - "[[Милый во Франксе (🇯🇵📺 1107)|Милый во Франксе|opening:1]]"
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

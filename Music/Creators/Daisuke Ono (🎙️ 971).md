@@ -6,6 +6,6 @@ aliases:
   - "Джотаро Куджо (ДжоДжо)"
   - "Battler Ushiromiya (Umineko)"
   - "Баттлер Уширомия (Чайки)"
-ListenInSec: 1653
+ListenInSec: 1721
 ---
 

@@ -12,7 +12,7 @@ Creators:
 ListenInSec: 2006
 Marks:
   - "[[OST]]"
-NumberInAlbum: 54
+NumberInAlbum: 6
 related: []
 source: ""
 SourceFile: "[[Jackbox Party Pack 4 OST - 54 Monster Seeking Monster. Chat 6 (Last Night).opus]]"

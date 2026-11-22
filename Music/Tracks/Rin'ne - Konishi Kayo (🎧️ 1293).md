@@ -8,13 +8,16 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Konishi Kayo (🎙️ 893)]]"
+Genres: []
 ListenInSec: 201
 Marks:
   - "[[Anime]]"
+  - "[[OST]]"
 NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Elfen Lied OST - Rin ne.mp3]]"
+sources: []
 ---
 
 # Elfen Lied OST - Rin ne

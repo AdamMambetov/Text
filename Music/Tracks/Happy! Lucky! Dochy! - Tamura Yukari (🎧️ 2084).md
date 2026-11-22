@@ -10,7 +10,7 @@ Creators:
   - "[[Tamura Yukari (🎙️ 829)]]"
   - "[[Kanai Mika (🎙️ 830)]]"
   - "[[Horie Yui (🎙️ 330)]]"
-ListenInSec: 2856
+ListenInSec: 2883
 Marks:
   - "[[Anime]]"
 NumberInAlbum: 0

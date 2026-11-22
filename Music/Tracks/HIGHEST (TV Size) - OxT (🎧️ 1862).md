@@ -4,12 +4,13 @@ aliases:
   - "HIGHEST (TV Size)"
   - "Восхождение в тени OP 1"
 Cover: "[[OxT - HIGHEST.jpg]]"
-Year: 0
+Year: 2022
 Album: ""
 CoverOf: ""
 Creators:
   - "[[OxT (🎙️ 649)]]"
-ListenInSec: 1367
+Genres: []
+ListenInSec: 1456
 Marks:
   - "[[Anime]]"
 NumberInAlbum: 0
@@ -17,6 +18,8 @@ related:
   - "[[HIGHEST - OxT (🎧️ 587)]]"
 source: ""
 SourceFile: "[[OxT - HIGHEST (TV Size).mp3]]"
+sources:
+  - "[[Kage no Jitsuryokusha ni Naritakute! (🇯🇵📺 30)|Kage no Jitsuryokusha ni Naritakute!|opening:1]]"
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

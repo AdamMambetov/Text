@@ -2,14 +2,14 @@
 created: 2025-01-08T01:10:14+03:00
 aliases:
   - "Kuchizuke Diamond (TV Size)"
-  - "Ямада-кун и семь ведьм OP 1"
 Cover: "[[_No Album Art.jpg]]"
-Year: 0
+Year: 2015
 Album: ""
 CoverOf: ""
 Creators:
   - "[[WEAVER (🎙️ 776)]]"
-ListenInSec: 1473
+Genres: []
+ListenInSec: 1475
 Marks:
   - "[[Anime]]"
 NumberInAlbum: 0
@@ -17,6 +17,8 @@ related:
   - "[[Kuchizuke Diamond - WEAVER (🎧️ 1462)]]"
 source: ""
 SourceFile: "[[WEAVER - Kuchizuke Diamond (TV Size).mp3]]"
+sources:
+  - "[[Ямада-кун и семь ведьм (🇯🇵📺 839)|Ямада-кун и семь ведьм|opening:1]]"
 ---
 
 # WEAVER - Kuchizuke Diamond (TV Size)

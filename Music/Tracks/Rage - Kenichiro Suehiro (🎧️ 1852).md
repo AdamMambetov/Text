@@ -12,7 +12,7 @@ ListenInSec: 283
 Marks:
   - "[[Anime]]"
   - "[[OST]]"
-NumberInAlbum: 25
+NumberInAlbum: 9
 related: []
 source: ""
 SourceFile: "[[ReZero 3 OST - 25 Rage.mp3]]"

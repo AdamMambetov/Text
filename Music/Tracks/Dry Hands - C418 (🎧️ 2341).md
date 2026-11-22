@@ -8,13 +8,16 @@ Album: "[[Minecraft OST Alpha (📀 83)]]"
 CoverOf: ""
 Creators:
   - "[[C418 (🎙️ 1093)]]"
-ListenInSec: 68
+Genres: []
+ListenInSec: 149
 Marks:
   - "[[OST]]"
+  - "[[Game]]"
 NumberInAlbum: 10
 related: []
 source: ""
 SourceFile: "[[Minecraft OST Alpha - 12 Dry Hands.mp3]]"
+sources: []
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

@@ -8,11 +8,14 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Hirano Aya (🎙️ 714)]]"
-ListenInSec: 1414
+Genres: []
+ListenInSec: 1432
 Marks:
   - "[[Anime]]"
+  - "[[OST]]"
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Hirano Aya - God Knows....mp3]]"
+sources: []
 ---
 

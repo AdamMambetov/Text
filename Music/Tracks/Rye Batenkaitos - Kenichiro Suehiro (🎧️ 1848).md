@@ -12,7 +12,7 @@ ListenInSec: 357
 Marks:
   - "[[Anime]]"
   - "[[OST]]"
-NumberInAlbum: 13
+NumberInAlbum: 5
 related: []
 source: ""
 SourceFile: "[[ReZero 3 OST - 13 Rye Batenkaitos.mp3]]"

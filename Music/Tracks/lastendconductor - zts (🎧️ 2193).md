@@ -9,10 +9,10 @@ Album: "[[Umineko no Naku Koro ni OST (📀 30)]]"
 CoverOf: ""
 Creators:
   - "[[zts (🎙️ 15)]]"
-ListenInSec: 974
+ListenInSec: 1003
 Marks:
   - "[[OST]]"
-NumberInAlbum: 194
+NumberInAlbum: 156
 related: []
 source: ""
 SourceFile: "[[Umineko no Naku Koro ni OST - 194 lastendconductor.ogg]]"

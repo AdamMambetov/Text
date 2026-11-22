@@ -8,13 +8,16 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Go Sakabe (🎙️ 315)]]"
-ListenInSec: 421
+Genres: []
+ListenInSec: 438
 Marks:
   - "[[Anime]]"
+  - "[[OST]]"
 NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Date A Live 1 OST - Rhapsody Rage (Kurumi Battle Theme).mp3]]"
+sources: []
 ---
 
 # Date A Live 1 OST - Rhapsody Rage (Kurumi Battle Theme)

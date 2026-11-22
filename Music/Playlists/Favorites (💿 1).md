@@ -124,7 +124,7 @@ tracklist:
   - "[[Du Hast - Rammstein (🎧️ 1567)]]"
   - "[[Secret of the Forest - Yasunori Mitsuda (🎧️ 1565)]]"
   - "[[Black Bullet - fripSide (🎧️ 1564)]]"
-  - "[[Black Bullet - Sati Akura (🎧️ 1563)]]"
+  - "[[Black Bullet (TV Size) - Sati Akura (🎧️ 1563)]]"
   - "[[Bad Apple - Lollia (🎧️ 1562)]]"
   - "[[Red Fraction - MELL (🎧️ 1561)]]"
   - "[[CHOIR JAIL (TV Size) - Konomi Suzuki (🎧️ 1560)]]"
@@ -1548,7 +1548,7 @@ tracklist:
   - "[[Reset (TV Size) - Yui Makino (🎧️ 2119)]]"
   - "[[Головоломка - Roro Ai (🎧️ 1702)]]"
   - "[['Shape of You' but it's Smash Mouth singing 'All Star' - Engval Music (🎧️ 1644)]]"
-  - "[[Persona 5 OST - Beneath the Mask - Lyn Inaizumi (🎧️ 2000)]]"
+  - "[[Beneath the Mask - Lyn Inaizumi (🎧️ 2000)]]"
   - "[[АЛЁНА ДАСТ - LINS (🎧️ 2143)]]"
   - "[[СЕНСЕЙ - LINS (🎧️ 2141)]]"
   - "[[Tonari Au - THE ORAL CIGARETTES (🎧️ 2118)]]"
@@ -1632,6 +1632,8 @@ tracklist:
   - "[[Loonboon (Game Version) - Laura Shigihara (🎧️ 2318)]]"
   - "[[Zen Garden - Laura Shigihara (🎧️ 2310)]]"
   - "[[Трейлер World of Warcraft. Wrath of the Lich King - World of Warcraft (🎧️ 2307)]]"
+  - "[[INERTIA (TV Size) - Hiroyuki Sawano (🎧️ 2068)]]"
+  - "[[Ano Hi no mama no Bokura - Sora Amamiya (🎧️ 1370)]]"
 ---
 
 # Favorites

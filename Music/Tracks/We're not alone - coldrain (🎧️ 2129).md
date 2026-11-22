@@ -8,12 +8,15 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[coldrain (🎙️ 820)]]"
-ListenInSec: 5469
+Genres: []
+ListenInSec: 5516
 Marks:
   - "[[Anime]]"
 NumberInAlbum: 0
 related:
   - "[[We're not alone (TV Size) - coldrain (🎧️ 2130)]]"
 SourceFile: "[[coldrain - We're not alone.opus]]"
+sources:
+  - "[[Радуга. Семеро из шестой камеры второго блока (🇯🇵📺 817)|Радуга: Семеро из шестой камеры второго блока|opening:1]]"
 ---
 

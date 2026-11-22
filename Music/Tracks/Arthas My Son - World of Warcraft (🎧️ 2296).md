@@ -8,12 +8,17 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[World of Warcraft (🎙️ 1103)]]"
-ListenInSec: 1549
+Genres: []
+ListenInSec: 1565
+Marks:
+  - "[[Game]]"
+  - "[[OST]]"
 NumberInAlbum: 0
 related:
   - "[[Трейлер World of Warcraft. Wrath of the Lich King - World of Warcraft (🎧️ 2307)]]"
 source: ""
 SourceFile: "[[World of Warcraft - Arthas My Son.opus]]"
+sources: []
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

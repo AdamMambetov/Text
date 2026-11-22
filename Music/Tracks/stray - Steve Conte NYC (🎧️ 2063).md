@@ -2,21 +2,23 @@
 created: 2026-06-11T23:21:47+03:00
 aliases:
   - "stray"
-  - "Волчий дождь OP 1"
-  - "Wolf's Rain OP 1"
 Cover: "[[Steve Conte NYC - stray.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""
 Creators:
   - "[[Steve Conte NYC (🎙️ 1044)]]"
-ListenInSec: 811
+Genres: []
+ListenInSec: 966
 Marks:
   - "[[Anime]]"
 NumberInAlbum: 0
-related: []
+related:
+  - "[[stray (TV Size) - Steve Conte NYC (🎧️ 2064)]]"
 source: ""
 SourceFile: "[[Steve Conte NYC - stray.mp3]]"
+sources:
+  - "[[Wolf's Rain (🇯🇵📺 560)|Wolf's Rain|opening:1]]"
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

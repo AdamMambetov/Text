@@ -8,7 +8,7 @@ Album: "[[Geometry Dash OST (📀 86)]]"
 CoverOf: ""
 Creators:
   - "[[RobTop (🎙️ 1106)]]"
-ListenInSec: 401
+ListenInSec: 677
 Marks:
   - "[[OST]]"
 NumberInAlbum: 7

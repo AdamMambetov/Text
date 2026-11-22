@@ -4,17 +4,20 @@ aliases:
   - "The 5th's Fight"
 Cover: "[[Naruto OST 3.jpg]]"
 Year: 2005
-Album: "[[Naruto OST 3 (📀 17)]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[Toshio Masuda (🎙️ 557)]]"
-ListenInSec: 165
+Genres: []
+ListenInSec: 178
 Marks:
   - "[[Anime]]"
-NumberInAlbum: 21
+  - "[[OST]]"
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Naruto OST - The 5th's Fight.mp3]]"
+sources: []
 ---
 
 # Naruto OST - The 5th's Fight

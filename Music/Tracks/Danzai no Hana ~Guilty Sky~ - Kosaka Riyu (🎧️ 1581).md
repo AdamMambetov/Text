@@ -9,7 +9,7 @@ CoverOf: ""
 Creators:
   - "[[Kosaka Riyu (🎙️ 701)]]"
 Genres: []
-ListenInSec: 7997
+ListenInSec: 8257
 Marks:
   - "[[Anime]]"
 NumberInAlbum: 0

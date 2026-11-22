@@ -10,12 +10,11 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Survive Said the Prophet (🎙️ 448)]]"
-ListenInSec: 861
+ListenInSec: 863
 Marks:
   - "[[Anime]]"
 NumberInAlbum: 0
-related:
-  - "[[MUKANJYO (TV Size) - Survive Said the Prophet]]"
+related: []
 source: ""
 SourceFile: "[[Survive Said the Prophet - MUKANJYO.mp3]]"
 ---

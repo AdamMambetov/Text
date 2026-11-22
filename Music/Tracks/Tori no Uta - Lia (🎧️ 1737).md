@@ -9,7 +9,7 @@ CoverOf: ""
 Creators:
   - "[[Lia (🎙️ 656)]]"
 Genres: []
-ListenInSec: 16338
+ListenInSec: 16534
 Marks:
   - "[[Anime]]"
 NumberInAlbum: 0

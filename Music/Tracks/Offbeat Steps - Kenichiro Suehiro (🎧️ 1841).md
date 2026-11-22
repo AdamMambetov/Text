@@ -12,7 +12,7 @@ ListenInSec: 947
 Marks:
   - "[[Anime]]"
   - "[[OST]]"
-NumberInAlbum: 17
+NumberInAlbum: 3
 related: []
 source: ""
 SourceFile: "[[ReZero 2 OST 2 - 17 Offbeat Steps.mp3]]"

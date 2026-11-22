@@ -9,7 +9,7 @@ CoverOf: ""
 Creators:
   - "[[LINS (🎙️ 814)]]"
   - "[[HellYeahPlay (🎙️ 870)]]"
-ListenInSec: 1433
+ListenInSec: 1477
 Marks:
   - "[[Remix]]"
 NumberInAlbum: 0

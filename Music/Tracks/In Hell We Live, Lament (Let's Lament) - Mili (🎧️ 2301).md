@@ -8,11 +8,17 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Mili (🎙️ 699)]]"
-ListenInSec: 8126
+Genres: []
+ListenInSec: 8141
+Marks:
+  - "[[Anime]]"
+  - "[[Game]]"
+  - "[[OST]]"
 NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Mili - In Hell We Live, Lament (Let's Lament).opus]]"
+sources: []
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

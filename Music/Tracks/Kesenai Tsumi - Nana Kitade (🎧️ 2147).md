@@ -10,12 +10,15 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Nana Kitade (🎙️ 818)]]"
-ListenInSec: 1981
+Genres: []
+ListenInSec: 2061
 Marks:
   - "[[Anime]]"
 NumberInAlbum: 0
 related:
   - "[[Kesenai Tsumi (TV Size) - Nana Kitade (🎧️ 2136)]]"
 SourceFile: "[[Nana Kitade - Kesenai Tsumi.mp3]]"
+sources:
+  - "[[Стальной алхимик (🇯🇵📺 983)|Стальной алхимик|ending:1]]"
 ---
 

@@ -8,10 +8,10 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[BLUE ENCOUNT (🎙️ 864)]]"
-ListenInSec: 301
+ListenInSec: 302
 Marks:
   - "[[Anime]]"
-NumberInAlbum: 1
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[BLUE ENCOUNT - Polaris (TV Size).mp3]]"

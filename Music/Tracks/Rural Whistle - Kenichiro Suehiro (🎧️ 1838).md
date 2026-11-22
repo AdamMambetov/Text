@@ -9,11 +9,11 @@ Album: "[[ReZero 2 OST 1 (📀 47)]]"
 CoverOf: ""
 Creators:
   - "[[Kenichiro Suehiro (🎙️ 748)]]"
-ListenInSec: 888
+ListenInSec: 901
 Marks:
   - "[[Anime]]"
   - "[[OST]]"
-NumberInAlbum: 26
+NumberInAlbum: 9
 related: []
 SourceFile: "[[ReZero 2 OST 1 - 26 Rural Whistle.mp3]]"
 ---

@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[YUI (🎙️ 485)]]"
-ListenInSec: 501
+ListenInSec: 503
 Marks:
   - "[[Anime]]"
 NumberInAlbum: 0

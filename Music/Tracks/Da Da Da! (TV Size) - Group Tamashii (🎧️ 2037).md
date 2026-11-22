@@ -2,21 +2,22 @@
 created: 2026-06-11T23:01:48+03:00
 aliases:
   - "Da Da Da! (TV Size)"
-  - "Beelzebub OP 1"
-  - "Вельзепуз OP 1"
 Cover: "[[Gabriel Tozzi - Beelzebub Opening 1 - HD.jpg]]"
-Year: 0
+Year: 2011
 Album: ""
 CoverOf: ""
 Creators:
   - "[[Group Tamashii (🎙️ 1032)]]"
-ListenInSec: 1263
+Genres: []
+ListenInSec: 1353
 Marks:
   - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Gabriel Tozzi - Beelzebub Opening 1 - HD.mp3]]"
+sources:
+  - "[[Beelzebub (🇯🇵📺 708)|Beelzebub|opening:1]]"
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

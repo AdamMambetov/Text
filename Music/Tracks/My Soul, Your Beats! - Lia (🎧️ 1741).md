@@ -2,16 +2,14 @@
 created: 2025-08-01T15:28:50+03:00
 aliases:
   - "My Soul, Your Beats!"
-  - "Ритм души"
-  - "Angel Beats OP 1"
-  - "Ангельские ритмы OP 1"
 Cover: "[[Lia - My Soul, Your Beats!.jpg]]"
-Year: 0
+Year: 2010
 Album: ""
 CoverOf: ""
 Creators:
   - "[[Lia (🎙️ 656)]]"
-ListenInSec: 1560
+Genres: []
+ListenInSec: 1632
 Marks:
   - "[[Anime]]"
 NumberInAlbum: 0
@@ -19,6 +17,8 @@ related:
   - "[[My Soul, Your Beats! (TV Size) - Lia (🎧️ 1746)]]"
 source: ""
 SourceFile: "[[Lia - My Soul, Your Beats!.mp3]]"
+sources:
+  - "[[Angel Beats! (🇯🇵📺 569)|Angel Beats!|opening:1]]"
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

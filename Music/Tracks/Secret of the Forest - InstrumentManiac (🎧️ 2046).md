@@ -8,7 +8,7 @@ Album: ""
 CoverOf: "[[Secret of the Forest - Yasunori Mitsuda (🎧️ 1565)]]"
 Creators:
   - "[[InstrumentManiac (🎙️ 777)]]"
-ListenInSec: 3444
+ListenInSec: 3739
 NumberInAlbum: 0
 related: []
 SourceFile: "[[InstrumentManiac - Secret of the Forest (From ＂Chrono Trigger＂).mp3]]"

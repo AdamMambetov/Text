@@ -10,10 +10,10 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Kenshi Yonezu (🎙️ 349)]]"
-ListenInSec: 204
+ListenInSec: 301
 Marks:
   - "[[Anime]]"
-NumberInAlbum: 1
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Kenshi Yonezu - Peace Sign (TV Size).mp3]]"

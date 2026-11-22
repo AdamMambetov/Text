@@ -11,7 +11,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[TeddyLoid (🎙️ 1065)]]"
-ListenInSec: 1589
+ListenInSec: 602
 Marks:
   - "[[Anime]]"
 NumberInAlbum: 0

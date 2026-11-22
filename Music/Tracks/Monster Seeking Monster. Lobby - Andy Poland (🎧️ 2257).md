@@ -9,10 +9,10 @@ Album: "[[Jackbox Party Pack 4 OST (📀 71)]]"
 CoverOf: ""
 Creators:
   - "[[Andy Poland (🎙️ 183)]]"
-ListenInSec: 990
+ListenInSec: 992
 Marks:
   - "[[OST]]"
-NumberInAlbum: 48
+NumberInAlbum: 1
 related: []
 source: ""
 SourceFile: "[[Jackbox Party Pack 4 OST - 48 Monster Seeking Monster. Lobby.opus]]"

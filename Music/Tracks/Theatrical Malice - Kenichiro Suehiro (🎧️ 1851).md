@@ -12,7 +12,7 @@ ListenInSec: 477
 Marks:
   - "[[Anime]]"
   - "[[OST]]"
-NumberInAlbum: 24
+NumberInAlbum: 8
 related: []
 source: ""
 SourceFile: "[[ReZero 3 OST - 24 Theatrical Malice.mp3]]"

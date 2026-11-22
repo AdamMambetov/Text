@@ -8,11 +8,17 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Mili (🎙️ 699)]]"
-ListenInSec: 7746
+Genres: []
+ListenInSec: 7844
+Marks:
+  - "[[Anime]]"
+  - "[[Game]]"
+  - "[[OST]]"
 NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Mili - TIAN TIAN.opus]]"
+sources: []
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

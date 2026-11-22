@@ -12,7 +12,7 @@ Creators:
 ListenInSec: 954
 Marks:
   - "[[OST]]"
-NumberInAlbum: 52
+NumberInAlbum: 5
 related: []
 source: ""
 SourceFile: "[[Jackbox Party Pack 4 OST - 52 Monster Seeking Monster. Chat 4.opus]]"

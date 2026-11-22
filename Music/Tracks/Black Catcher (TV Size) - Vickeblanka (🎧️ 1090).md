@@ -8,14 +8,17 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Vickeblanka (🎙️ 476)]]"
-ListenInSec: 1135
+Genres: []
+ListenInSec: 1136
 Marks:
   - "[[Anime]]"
-NumberInAlbum: 1
+NumberInAlbum: 0
 related:
   - "[[Black Catcher - Vickeblanka (🎧️ 1184)]]"
 source: ""
 SourceFile: "[[Vickeblanka - Black Catcher (TV Size).mp3]]"
+sources:
+  - "[[Чёрный клевер (🇯🇵📺 106)|Чёрный клевер|opening:10]]"
 ---
 
 # Vickeblanka - Black Catcher (TV Size)

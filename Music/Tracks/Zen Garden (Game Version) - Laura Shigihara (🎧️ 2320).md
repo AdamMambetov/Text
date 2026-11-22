@@ -8,7 +8,7 @@ Album: "[[Plants vs. Zombies OST (📀 81)]]"
 CoverOf: ""
 Creators:
   - "[[Laura Shigihara (🎙️ 1026)]]"
-ListenInSec: 69
+ListenInSec: 173
 Marks:
   - "[[OST]]"
 NumberInAlbum: 16

@@ -2,10 +2,8 @@
 created: 2025-01-08T16:52:28+03:00
 aliases:
   - "Rightfully"
-  - "Goblin Slayer OP 1"
-  - "Убийца гоблинов OP 1"
 Cover: "[[_No Album Art.jpg]]"
-Year: 0
+Year: 2018
 Album: ""
 CoverOf: ""
 Creators:
@@ -13,11 +11,13 @@ Creators:
 Genres:
   - "[[Electronic]]"
   - "[[Pop]]"
-ListenInSec: 8264
+ListenInSec: 8335
 Marks:
   - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Mili - Rightfully.mp3]]"
+sources:
+  - "[[Убийца гоблинов (🇯🇵📺 343)|Убийца гоблинов|opening:1]]"
 ---
 

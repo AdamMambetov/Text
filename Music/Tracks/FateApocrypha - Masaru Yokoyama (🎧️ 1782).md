@@ -8,13 +8,16 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Masaru Yokoyama (🎙️ 997)]]"
-ListenInSec: 2556
+Genres: []
+ListenInSec: 2566
 Marks:
   - "[[Anime]]"
+  - "[[OST]]"
 NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Masaru Yokoyama - FateApocrypha.mp3]]"
+sources: []
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

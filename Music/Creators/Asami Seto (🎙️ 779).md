@@ -2,7 +2,7 @@
 created: 2026-07-11T11:32:18+03:00
 aliases:
   - "Asami Seto"
-ListenInSec: 562
+ListenInSec: 647
 ---
 
 # Asami Seto

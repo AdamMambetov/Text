@@ -8,13 +8,17 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[SiM (🎙️ 635)]]"
+Genres: []
 ListenInSec: 851
 Marks:
   - "[[Anime]]"
 NumberInAlbum: 0
-related: []
+related:
+  - "[[The Rumbling (TV Size) - SiM (🎧️ 1433)]]"
 source: ""
 SourceFile: "[[SiM - The Rumbling.mp3]]"
+sources:
+  - "[[Shingeki no Kyojin (🇯🇵📺 350)|Shingeki no Kyojin|opening:7]]"
 ---
 
 # SiM - The Rumbling

@@ -9,11 +9,12 @@ CoverOf: ""
 Creators:
   - "[[SiM (🎙️ 635)]]"
 Genres: []
-ListenInSec: 357
+ListenInSec: 358
 Marks:
   - "[[Anime]]"
 NumberInAlbum: 0
-related: []
+related:
+  - "[[The Rumbling - SiM (🎧️ 1434)]]"
 source: ""
 SourceFile: "[[SiM - The Rumbling (TV Size).mp3]]"
 sources:

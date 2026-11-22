@@ -8,13 +8,16 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Go Sakabe (🎙️ 315)]]"
-ListenInSec: 731
+Genres: []
+ListenInSec: 738
 Marks:
   - "[[Anime]]"
+  - "[[OST]]"
 NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Date A Live 2 OST - Trust in You (Orchestra Version).mp3]]"
+sources: []
 ---
 
 # Date A Live 2 OST - Trust in You (Orchestra Version)

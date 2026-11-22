@@ -8,11 +8,17 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Mili (🎙️ 699)]]"
-ListenInSec: 7223
+Genres: []
+ListenInSec: 7243
+Marks:
+  - "[[Anime]]"
+  - "[[Game]]"
+  - "[[OST]]"
 NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Mili - Between Two Worlds.opus]]"
+sources: []
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

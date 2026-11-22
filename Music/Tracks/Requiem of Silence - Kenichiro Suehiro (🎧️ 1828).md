@@ -12,7 +12,7 @@ ListenInSec: 698
 Marks:
   - "[[Anime]]"
   - "[[OST]]"
-NumberInAlbum: 40
+NumberInAlbum: 24
 related: []
 source: ""
 SourceFile: "[[ReZero 1 OST - 40 Requiem of Silence.mp3]]"

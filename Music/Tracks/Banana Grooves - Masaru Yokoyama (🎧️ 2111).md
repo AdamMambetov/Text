@@ -8,7 +8,7 @@ Album: "[[Classroom of the Elite 2-3 OST (📀 69)]]"
 CoverOf: ""
 Creators:
   - "[[Masaru Yokoyama (🎙️ 997)]]"
-ListenInSec: 179
+ListenInSec: 180
 Marks:
   - "[[Anime]]"
   - "[[OST]]"

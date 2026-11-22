@@ -8,11 +8,11 @@ Album: "[[ReZero 3 OST (📀 48)]]"
 CoverOf: ""
 Creators:
   - "[[Kenichiro Suehiro (🎙️ 748)]]"
-ListenInSec: 812
+ListenInSec: 813
 Marks:
   - "[[Anime]]"
   - "[[OST]]"
-NumberInAlbum: 36
+NumberInAlbum: 10
 related: []
 source: ""
 SourceFile: "[[ReZero 3 OST - 36 Suffering.mp3]]"

@@ -12,7 +12,7 @@ ListenInSec: 316
 Marks:
   - "[[Anime]]"
   - "[[OST]]"
-NumberInAlbum: 12
+NumberInAlbum: 4
 related: []
 source: ""
 SourceFile: "[[ReZero 3 OST - 12 Regulus Corneus.mp3]]"

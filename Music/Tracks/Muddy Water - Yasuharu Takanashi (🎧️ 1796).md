@@ -12,7 +12,7 @@ ListenInSec: 1234
 Marks:
   - "[[Anime]]"
   - "[[OST]]"
-NumberInAlbum: 8
+NumberInAlbum: 7
 related: []
 SourceFile: "[[Shiki OST - 08 Muddy Water.mp3]]"
 ---

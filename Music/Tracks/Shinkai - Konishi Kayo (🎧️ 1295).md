@@ -8,13 +8,16 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Konishi Kayo (🎙️ 893)]]"
+Genres: []
 ListenInSec: 189
 Marks:
   - "[[Anime]]"
+  - "[[OST]]"
 NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Elfen Lied OST - Shinkai.mp3]]"
+sources: []
 ---
 
 # Elfen Lied OST - Shinkai

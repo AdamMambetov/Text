@@ -8,7 +8,7 @@ Album: ""
 CoverOf: "[[Red Alert 3 OST - Soviet March - James Hannigan (🎧️ 1986)]]"
 Creators:
   - "[[RADIO TAPOK (🎙️ 419)]]"
-ListenInSec: 2339
+ListenInSec: 2341
 Marks:
   - "[[Cover]]"
 NumberInAlbum: 0

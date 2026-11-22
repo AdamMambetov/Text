@@ -8,11 +8,17 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Mili (🎙️ 699)]]"
-ListenInSec: 6999
+Genres: []
+ListenInSec: 7038
+Marks:
+  - "[[Anime]]"
+  - "[[Game]]"
+  - "[[OST]]"
 NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Mili - Through Patches of Violet.opus]]"
+sources: []
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

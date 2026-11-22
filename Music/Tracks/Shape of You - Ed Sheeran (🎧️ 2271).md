@@ -8,8 +8,8 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Ed Sheeran (🎙️ 1092)]]"
-ListenInSec: 1554
-NumberInAlbum: 1
+ListenInSec: 1556
+NumberInAlbum: 0
 related:
   - "[['Shape of You' but it's Smash Mouth singing 'All Star' - Engval Music (🎧️ 1644)]]"
 source: ""

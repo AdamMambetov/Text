@@ -55,7 +55,7 @@ tracklist:
   - "[[Du Hast - Rammstein (🎧️ 1567)]]"
   - "[[Du Hast - RADIO TAPOK (🎧️ 1566)]]"
   - "[[Secret of the Forest - Yasunori Mitsuda (🎧️ 1565)]]"
-  - "[[Black Bullet - Sati Akura (🎧️ 1563)]]"
+  - "[[Black Bullet (TV Size) - Sati Akura (🎧️ 1563)]]"
   - "[[Bad Apple - Lollia (🎧️ 1562)]]"
   - "[[CHOIR JAIL (TV Size) - Nika Lenina (🎧️ 1558)]]"
   - "[[CHOIR JAIL - Nika Lenina (🎧️ 1557)]]"
@@ -280,7 +280,7 @@ tracklist:
   - "[[Flyers (TV Size) - BRADIO (🎧️ 1678)]]"
   - "[[My War - Jackie-O (🎧️ 913)]]"
   - "[[Головоломка - Roro Ai (🎧️ 1702)]]"
-  - "[[Persona 5 OST - Beneath the Mask - Lyn Inaizumi (🎧️ 2000)]]"
+  - "[[Beneath the Mask - Lyn Inaizumi (🎧️ 2000)]]"
   - "[[IGNITE (TV Size) - Marie Bibika (🎧️ 500)]]"
   - "[[Demons Are A Girl's Best Friend - RADIO TAPOK (🎧️ 804)]]"
   - "[[Ame to Kusari - otetsu (🎧️ 1526)]]"
@@ -363,6 +363,10 @@ tracklist:
   - "[[LINKIN PARK x СМЕШАРИКИ — VAINT - mashup (🎧️ 2275)]]"
   - "[[Champ'd Up. Credits (Instrumental) - Andy Poland (🎧️ 2270)]]"
   - "[[Champ'd Up. Credits - Andy Poland (🎧️ 2269)]]"
+  - "[[History Maker (TV Size) - Dean Fujioka (🎧️ 1729)]]"
+  - "[[Colors of the Heart (TV Size) - UVERworld (🎧️ 1683)]]"
+  - "[[Подлая Еврейская Музыка - Dobranotch (🎧️ 2273)]]"
+  - "[[Подлая еврейская музыка - the right person in the right (🎧️ 2274)]]"
 ---
 
 # YouTube

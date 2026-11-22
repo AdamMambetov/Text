@@ -12,7 +12,7 @@ Creators:
   - "[[ROOKiEZ is PUNK'D (🎙️ 429)]]"
 Genres:
   - "[[Pop rock]]"
-ListenInSec: 218
+ListenInSec: 308
 Marks:
   - "[[Anime]]"
 NumberInAlbum: 0
@@ -20,6 +20,8 @@ related:
   - "[[Complication - ROOKiEZ is PUNK'D (🎧️ 1697)]]"
 source: ""
 SourceFile: "[[ROOKiEZ is PUNK'D - Complication (TV Size).mp3]]"
+sources:
+  - "[[Дюрарара!! (🇯🇵📺 572)|Дюрарара!!|opening:2]]"
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

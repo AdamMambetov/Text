@@ -10,11 +10,14 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[STANCE PUNKS (🎙️ 443)]]"
-ListenInSec: 1612
+Genres: []
+ListenInSec: 1667
 Marks:
   - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 SourceFile: "[[STANCE PUNKS - I Wanna be.mp3]]"
+sources:
+  - "[[Пожиратель душ (🇯🇵📺 647)|Пожиратель душ|ending:1]]"
 ---
 

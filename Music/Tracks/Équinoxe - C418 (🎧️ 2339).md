@@ -9,13 +9,16 @@ Album: "[[Minecraft OST Alpha (📀 83)]]"
 CoverOf: ""
 Creators:
   - "[[C418 (🎙️ 1093)]]"
-ListenInSec: 114
+Genres: []
+ListenInSec: 233
 Marks:
   - "[[OST]]"
+  - "[[Game]]"
 NumberInAlbum: 8
 related: []
 source: ""
 SourceFile: "[[Minecraft OST Alpha - 10 Équinoxe.mp3]]"
+sources: []
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

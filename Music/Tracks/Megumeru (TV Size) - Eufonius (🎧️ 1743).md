@@ -2,15 +2,14 @@
 created: 2025-08-01T15:44:50+03:00
 aliases:
   - "Megumeru (TV Size)"
-  - "Clannad OP 1"
-  - "Кланнад OP 1"
 Cover: "[[Eufonius - Megumeru (TV Size).jpg]]"
-Year: 0
+Year: 2007
 Album: ""
 CoverOf: ""
 Creators:
   - "[[Eufonius (🎙️ 704)]]"
-ListenInSec: 471
+Genres: []
+ListenInSec: 563
 Marks:
   - "[[Anime]]"
 NumberInAlbum: 0
@@ -18,6 +17,8 @@ related:
   - "[[Megumeru - Eufonius (🎧️ 1745)]]"
 source: ""
 SourceFile: "[[Eufonius - Megumeru (TV Size).mp3]]"
+sources:
+  - "[[Кланнад (🇯🇵📺 150)|Кланнад|opening:1]]"
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

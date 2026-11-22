@@ -8,7 +8,7 @@ Album: "[[Sonny Boy OST (📀 41)]]"
 CoverOf: ""
 Creators:
   - "[[Conisch (🎙️ 695)]]"
-ListenInSec: 220
+ListenInSec: 222
 Marks:
   - "[[Anime]]"
   - "[[OST]]"

@@ -8,13 +8,16 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Kenichiro Suehiro (🎙️ 748)]]"
-ListenInSec: 154
+Genres: []
+ListenInSec: 167
 Marks:
   - "[[Anime]]"
-NumberInAlbum: 1
+  - "[[OST]]"
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Kage no Jitsuryokusha ni Naritakute! OST - In Time of War.mp3]]"
+sources: []
 ---
 
 # Kage no Jitsuryokusha ni Naritakute! OST - In Time of War

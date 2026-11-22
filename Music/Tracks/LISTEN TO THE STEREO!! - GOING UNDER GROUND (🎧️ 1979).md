@@ -2,21 +2,22 @@
 created: 2026-06-11T19:46:58+03:00
 aliases:
   - "LISTEN TO THE STEREO!!"
-  - "Katekyo Hitman Reborn OP 8"
-  - "Репетитор-киллер Реборн OP 8"
 Cover: "[[GOING UNDER GROUND - LISTEN TO THE STEREO!!.jpg]]"
 Year: 0
 Album: ""
 CoverOf: ""
 Creators:
   - "[[GOING UNDER GROUND (🎙️ 795)]]"
-ListenInSec: 1046
+Genres: []
+ListenInSec: 1078
 Marks:
   - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[GOING UNDER GROUND - LISTEN TO THE STEREO!!.mp3]]"
+sources:
+  - "[[Репетитор-киллер Реборн! (🇯🇵📺 531)|Репетитор-киллер Реборн!|opening:8]]"
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

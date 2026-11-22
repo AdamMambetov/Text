@@ -2,15 +2,13 @@
 created: 2025-01-08T01:20:44+03:00
 aliases:
   - "Clattanoia"
-  - "Overlord OP 1"
-  - "Повелитель OP 1"
-  - "Оверлорд OP 1"
 Cover: "[[_No Album Art.jpg]]"
-Year: 0
+Year: 2015
 Album: ""
 CoverOf: ""
 Creators:
   - "[[OxT (🎙️ 649)]]"
+Genres: []
 ListenInSec: 723
 Marks:
   - "[[Anime]]"
@@ -18,6 +16,8 @@ NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[OxT - Clattanoia.mp3]]"
+sources:
+  - "[[Повелитель (🇯🇵📺 441)|Повелитель|opening:1]]"
 ---
 
 # OxT - Clattanoia

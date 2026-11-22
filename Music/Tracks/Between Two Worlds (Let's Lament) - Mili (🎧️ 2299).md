@@ -8,11 +8,17 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Mili (🎙️ 699)]]"
-ListenInSec: 8679
+Genres: []
+ListenInSec: 8700
+Marks:
+  - "[[Anime]]"
+  - "[[Game]]"
+  - "[[OST]]"
 NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Mili - Between Two Worlds (Let's Lament).opus]]"
+sources: []
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

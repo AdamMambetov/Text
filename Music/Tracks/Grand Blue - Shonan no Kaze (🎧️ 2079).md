@@ -2,21 +2,22 @@
 created: 2026-06-11T23:33:20+03:00
 aliases:
   - "Grand Blue"
-  - "Необъятный океан OP 1"
-  - "Grand Blue OP 1"
 Cover: "[[Shonan no Kaze - Grand Blue.jpg]]"
-Year: 0
+Year: 2018
 Album: ""
 CoverOf: ""
 Creators:
   - "[[Shonan no Kaze (🎙️ 809)]]"
-ListenInSec: 689
+Genres: []
+ListenInSec: 966
 Marks:
   - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Shonan no Kaze - Grand Blue.mp3]]"
+sources:
+  - "[[Необъятный океан (🇯🇵📺 47)|Необъятный океан|opening:1]]"
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

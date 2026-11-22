@@ -12,7 +12,7 @@ ListenInSec: 520
 Marks:
   - "[[Anime]]"
   - "[[OST]]"
-NumberInAlbum: 16
+NumberInAlbum: 7
 related: []
 source: ""
 SourceFile: "[[ReZero 3 OST - 16 Operation to recapture.mp3]]"

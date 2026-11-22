@@ -10,14 +10,18 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Yuka Iguchi (🎙️ 672)]]"
-ListenInSec: 1023
+Genres: []
+ListenInSec: 1113
 Marks:
   - "[[Anime]]"
   - "[[Meme]]"
 NumberInAlbum: 0
-related: []
+related:
+  - "[[Platinum Disco - Yuka Iguchi (🎧️ 1738)]]"
 source: ""
 SourceFile: "[[Yuka Iguchi - Platinum Disco (TV Size).mp3]]"
+sources:
+  - "[[Bakemonogatari (🇯🇵📺 680)|Bakemonogatari|opening:8]]"
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

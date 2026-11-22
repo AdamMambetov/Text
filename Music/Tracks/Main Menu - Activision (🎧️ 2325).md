@@ -8,7 +8,7 @@ Album: "[[Spider-Man 2000 OST (📀 85)]]"
 CoverOf: ""
 Creators:
   - "[[Activision (🎙️ 1105)]]"
-ListenInSec: 202
+ListenInSec: 409
 Marks:
   - "[[OST]]"
 NumberInAlbum: 1

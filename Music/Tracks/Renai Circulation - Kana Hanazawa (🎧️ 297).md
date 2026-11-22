@@ -8,12 +8,17 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Kana Hanazawa (🎙️ 186)]]"
-ListenInSec: 515
+Genres: []
+ListenInSec: 518
+Marks:
+  - "[[Anime]]"
 NumberInAlbum: 0
 related:
   - "[[Renai Circulation (TV Size) - Kana Hanazawa (🎧️ 1421)]]"
 source: ""
 SourceFile: "[[Kana Hanazawa - Renai Circulation.mp3]]"
+sources:
+  - "[[Bakemonogatari (🇯🇵📺 680)|Bakemonogatari|opening:4]]"
 ---
 
 # Renai Circulation

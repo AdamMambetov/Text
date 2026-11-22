@@ -8,13 +8,16 @@ Album: "[[Minecraft OST Alpha (📀 83)]]"
 CoverOf: ""
 Creators:
   - "[[C418 (🎙️ 1093)]]"
-ListenInSec: 177
+Genres: []
+ListenInSec: 360
 Marks:
   - "[[OST]]"
+  - "[[Game]]"
 NumberInAlbum: 4
 related: []
 source: ""
 SourceFile: "[[Minecraft OST Alpha - 05 Living Mice.mp3]]"
+sources: []
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

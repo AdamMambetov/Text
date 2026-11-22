@@ -8,11 +8,14 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[redballoon (🎙️ 966)]]"
-ListenInSec: 1407
+Genres: []
+ListenInSec: 1496
 Marks:
   - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 SourceFile: "[[redballoon - Yuki no Tsubasa (TV Size).mp3]]"
+sources:
+  - "[[Гинтама (🇯🇵📺 480)|Гинтама|ending:3]]"
 ---
 

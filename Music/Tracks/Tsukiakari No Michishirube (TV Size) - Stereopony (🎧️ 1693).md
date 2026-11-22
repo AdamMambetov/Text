@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Stereopony (🎙️ 56)]]"
-ListenInSec: 649
+ListenInSec: 672
 Marks:
   - "[[Anime]]"
 NumberInAlbum: 0

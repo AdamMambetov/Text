@@ -2,19 +2,20 @@
 created: 2026-07-18T01:05:54+03:00
 aliases:
   - "departure!"
-  - "Hunter X Hunter OP 1"
-  - "Хантер х Хантер OP 1"
 Cover: "[[_No Album Art.jpg]]"
 Year: 2012
 Album: ""
 CoverOf: ""
 Creators:
   - "[[GALNERYUS (🎙️ 313)]]"
-ListenInSec: 2767
+Genres: []
+ListenInSec: 2838
 Marks:
   - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 SourceFile: "[[GALNERYUS - departure!.opus]]"
+sources:
+  - "[[Охотник х Охотник (2011) (🇯🇵📺 819)|Охотник х Охотник (2011)|opening:1]]"
 ---
 

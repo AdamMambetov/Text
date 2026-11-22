@@ -2,8 +2,6 @@
 created: 2026-07-18T00:32:56+03:00
 aliases:
   - "Ender Ember"
-  - "ReZero ED 6"
-  - "РеЗеро ED 6"
 Cover: "[[_No Album Art.jpg]]"
 Year: 2026
 Album: ""
@@ -11,12 +9,15 @@ CoverOf: ""
 Creators:
   - "[[MYTH & ROID (🎙️ 382)]]"
   - "[[TK from Ling tosite sigure (🎙️ 655)]]"
-ListenInSec: 5811
+Genres: []
+ListenInSec: 5899
 Marks:
   - "[[Anime]]"
 NumberInAlbum: 0
 related:
   - "[[Ender Ember (TV Size) - MYTH & ROID (🎧️ 2126)]]"
 SourceFile: "[[MYTH & ROID feat. TK - Ender Ember.opus]]"
+sources:
+  - "[[Re.Zero (🇯🇵📺 283)|Re:Zero|ending:6]]"
 ---
 

@@ -2,21 +2,23 @@
 created: 2025-10-28T20:33:30+03:00
 aliases:
   - "Ruler"
-  - "Clevatess OP 1"
-  - "Клеватесс OP 1"
 Cover: "[[Mayu Maeshima - Ruler.jpg]]"
-Year: 0
+Year: 2025
 Album: ""
 CoverOf: ""
 Creators:
   - "[[Mayu Maeshima (🎙️ 679)]]"
-ListenInSec: 691
+Genres: []
+ListenInSec: 782
 Marks:
   - "[[Anime]]"
 NumberInAlbum: 0
-related: []
+related:
+  - "[[Ruler (TV Size) - Mayu Maeshima (🎧️ 1768)]]"
 source: ""
 SourceFile: "[[Mayu Maeshima - Ruler.mp3]]"
+sources:
+  - "[[Клеватесс. Король демонических зверей, младенец и герой-нежить (🇯🇵📺 1070)|Клеватесс: Король демонических зверей, младенец и герой-нежить|opening:1]]"
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

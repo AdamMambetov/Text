@@ -10,11 +10,17 @@ CoverOf: ""
 Creators:
   - "[[Lyn Inaizumi (🎙️ 1015)]]"
   - "[[Shoji Meguro (🎙️ 1016)]]"
-ListenInSec: 3792
+Genres: []
+ListenInSec: 3817
+Marks:
+  - "[[Anime]]"
+  - "[[Game]]"
+  - "[[OST]]"
 NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Lyn - I believe.opus]]"
+sources: []
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

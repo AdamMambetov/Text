@@ -2,7 +2,7 @@
 created: 2026-10-27T13:06:57+03:00
 aliases:
   - "Ed Sheeran"
-ListenInSec: 1554
+ListenInSec: 1556
 ---
 
 # Ed Sheeran

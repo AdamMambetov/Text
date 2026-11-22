@@ -12,7 +12,7 @@ ListenInSec: 232
 Marks:
   - "[[Anime]]"
   - "[[OST]]"
-NumberInAlbum: 11
+NumberInAlbum: 3
 related: []
 source: ""
 SourceFile: "[[ReZero 3 OST - 11 Sirius Romaneeconti.mp3]]"

@@ -8,13 +8,16 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Konishi Kayo (🎙️ 893)]]"
-ListenInSec: 260
+Genres: []
+ListenInSec: 261
 Marks:
   - "[[Anime]]"
+  - "[[OST]]"
 NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Elfen Lied OST - Yokusoku.mp3]]"
+sources: []
 ---
 
 # Elfen Lied OST - Yokusoku

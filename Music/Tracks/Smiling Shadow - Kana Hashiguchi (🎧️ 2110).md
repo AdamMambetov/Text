@@ -12,7 +12,7 @@ ListenInSec: 220
 Marks:
   - "[[Anime]]"
   - "[[OST]]"
-NumberInAlbum: 20
+NumberInAlbum: 3
 related: []
 source: ""
 SourceFile: "[[Classroom of the Elite 2-3 OST - 20 Smiling Shadow.mp3]]"

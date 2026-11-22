@@ -10,7 +10,7 @@ Creators:
   - "[[Yuji Ohno (🎙️ 727)]]"
 Genres:
   - "[[Jazz]]"
-ListenInSec: 996
+ListenInSec: 1211
 Marks:
   - "[[Anime]]"
   - "[[OST]]"

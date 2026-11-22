@@ -13,7 +13,7 @@ ListenInSec: 543
 Marks:
   - "[[Anime]]"
   - "[[OST]]"
-NumberInAlbum: 6
+NumberInAlbum: 3
 related: []
 SourceFile: "[[ReZero 2 OST 1 - 06 Petra Leyte.mp3]]"
 ---

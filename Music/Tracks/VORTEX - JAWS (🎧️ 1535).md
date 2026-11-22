@@ -10,11 +10,15 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[JAWS (🎙️ 678)]]"
-ListenInSec: 6130
+Genres: []
+ListenInSec: 6319
 Marks:
   - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 SourceFile: "[[JAWS - VORTEX.mp3]]"
+sources:
+  - "[[Link Click (🇨🇳📺 3)|Link Click|opening:2]]"
+  - "[[Link Click 2 (🇨🇳📺 132)|Link Click 2|opening:1]]"
 ---
 

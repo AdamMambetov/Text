@@ -2,16 +2,14 @@
 created: 2025-06-30T20:59:18+03:00
 aliases:
   - "Tori no Uta (YT Size)"
-  - "Птичья песнь"
-  - "Air OP 1"
-  - "Высь OP 1"
 Cover: "[[Air OST.jpg]]"
 Year: 2000
 Album: ""
 CoverOf: ""
 Creators:
   - "[[Lia (🎙️ 656)]]"
-ListenInSec: 2598
+Genres: []
+ListenInSec: 2669
 Marks:
   - "[[Anime]]"
 NumberInAlbum: 0
@@ -20,6 +18,8 @@ related:
   - "[[Tori no Uta (TV Size) - Lia (🎧️ 1727)]]"
 source: ""
 SourceFile: "[[Lia - Tori no Uta.mp3]]"
+sources:
+  - "[[Высь (🇯🇵📺 1027)|Высь|opening:1]]"
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

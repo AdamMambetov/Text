@@ -9,7 +9,7 @@ Album: "[[Jackbox Party Pack 7 OST (📀 73)]]"
 CoverOf: ""
 Creators:
   - "[[Andy Poland (🎙️ 183)]]"
-ListenInSec: 2019
+ListenInSec: 2023
 Marks:
   - "[[OST]]"
 NumberInAlbum: 35

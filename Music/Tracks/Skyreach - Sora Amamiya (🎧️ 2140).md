@@ -10,12 +10,15 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Sora Amamiya (🎙️ 816)]]"
-ListenInSec: 7243
+Genres: []
+ListenInSec: 7324
 Marks:
   - "[[Anime]]"
 NumberInAlbum: 0
 related:
   - "[[Skyreach (TV Size) - Sora Amamiya (🎧️ 2139)]]"
 SourceFile: "[[Sora Amamiya - Skyreach.opus]]"
+sources:
+  - "[[Убийца Акамэ! (🇯🇵📺 836)|Убийца Акамэ!|opening:1]]"
 ---
 

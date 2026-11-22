@@ -4,21 +4,23 @@ aliases:
   - "Paranoid Android"
 Cover: "[[Radiohead - Paranoid Android.jpg]]"
 Year: 2017
-Album: "[[OK Computer OKNOTOK 1997 2017]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[Radiohead (🎙️ 420)]]"
 Genres:
   - "[[Rock]]"
-ListenInSec: 786
+ListenInSec: 821
 Marks:
-  - "[[Progressive]]"
-  - "[[Indie]]"
   - "[[Anime]]"
-NumberInAlbum: 2
+  - "[[Indie]]"
+  - "[[Progressive]]"
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Radiohead - Paranoid Android.mp3]]"
+sources:
+  - "[[Эрго Прокси (🇯🇵📺 399)|Эрго Прокси|ending:1]]"
 ---
 
 # Radiohead - Paranoid Android

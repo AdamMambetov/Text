@@ -8,13 +8,17 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[DOES (🎙️ 36)]]"
-ListenInSec: 396
+Genres: []
+ListenInSec: 398
 Marks:
   - "[[Anime]]"
 NumberInAlbum: 0
-related: []
+related:
+  - "[[Guren - DOES (🎧️ 1466)]]"
 source: ""
 SourceFile: "[[DOES - Guren (TV Size).mp3]]"
+sources:
+  - "[[Наруто. Ураганные хроники (🇯🇵📺 12)|Наруто: Ураганные хроники|opening:15]]"
 ---
 
 # DOES - Guren (TV Size)

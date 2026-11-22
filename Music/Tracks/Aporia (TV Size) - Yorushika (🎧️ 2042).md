@@ -2,20 +2,22 @@
 created: 2026-06-11T23:05:36+03:00
 aliases:
   - "Aporia (TV Size)"
-  - "О движении Земли ED 1"
 Cover: "[[Yorushika - Aporia (TV Size).jpg]]"
-Year: 0
+Year: 2024
 Album: ""
 CoverOf: ""
 Creators:
   - "[[Yorushika (🎙️ 811)]]"
-ListenInSec: 1269
+Genres: []
+ListenInSec: 1359
 Marks:
   - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Yorushika - Aporia (TV Size).mp3]]"
+sources:
+  - "[[О движении Земли (🇯🇵📺 828)|О движении Земли|ending:1]]"
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

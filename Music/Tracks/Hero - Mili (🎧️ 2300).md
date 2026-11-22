@@ -8,11 +8,17 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Mili (🎙️ 699)]]"
-ListenInSec: 7089
+Genres: []
+ListenInSec: 7106
+Marks:
+  - "[[Anime]]"
+  - "[[Game]]"
+  - "[[OST]]"
 NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Mili - Hero.opus]]"
+sources: []
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

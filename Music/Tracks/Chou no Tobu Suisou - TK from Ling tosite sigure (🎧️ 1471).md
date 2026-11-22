@@ -2,21 +2,22 @@
 created: 2025-01-08T01:22:10+03:00
 aliases:
   - "Chou no Tobu Suisou"
-  - "Pet OP 1"
-  - "Питомец OP 1"
 Cover: "[[_No Album Art.jpg]]"
-Year: 0
+Year: 2020
 Album: ""
 CoverOf: ""
 Creators:
   - "[[TK from Ling tosite sigure (🎙️ 655)]]"
-ListenInSec: 1577
+Genres: []
+ListenInSec: 1582
 Marks:
   - "[[Anime]]"
 NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[TK from Ling tosite sigure - Chou no Tobu Suisou.mp3]]"
+sources:
+  - "[[Питомец (🇯🇵📺 665)|Питомец|opening:1]]"
 ---
 
 # TK from Ling tosite sigure - Chou no Tobu Suisou

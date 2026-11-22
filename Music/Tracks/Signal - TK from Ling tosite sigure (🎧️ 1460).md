@@ -2,14 +2,13 @@
 created: 2025-01-08T01:05:16+03:00
 aliases:
   - "Signal"
-  - "91 Days OP 1"
-  - "91 день OP 1"
 Cover: "[[_No Album Art.jpg]]"
-Year: 0
+Year: 2016
 Album: ""
 CoverOf: ""
 Creators:
   - "[[TK from Ling tosite sigure (🎙️ 655)]]"
+Genres: []
 ListenInSec: 1603
 Marks:
   - "[[Anime]]"
@@ -17,6 +16,8 @@ NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[TK from Ling tosite sigure - Signal.mp3]]"
+sources:
+  - "[[91 Days (🇯🇵📺 1037)|91 Days|opening:1]]"
 ---
 
 # TK from Ling tosite sigure - Signal

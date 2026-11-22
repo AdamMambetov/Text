@@ -4,7 +4,7 @@ aliases:
   - "Another Life"
 Cover: "[[Motionless In White - Disguise.jpg]]"
 Year: 2019
-Album: "[[Disguise]]"
+Album: "[[Disguise (📀 90)]]"
 CoverOf: ""
 Creators:
   - "[[Motionless In White (🎙️ 519)]]"

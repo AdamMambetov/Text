@@ -2,24 +2,23 @@
 created: 2024-07-21T15:54:18+03:00
 aliases:
   - "IGNITE (TV Size)"
-  - "Sword Art Online OP 3"
-  - "Мастера меча онлайн OP 3"
-  - "SAO OP 3"
-  - "САО OP 3"
 Cover: "[[_No Album Art.jpg]]"
-Year: 0
+Year: 2014
 Album: ""
 CoverOf: ""
 Creators:
   - "[[Aoi Eir (🎙️ 653)]]"
-ListenInSec: 1350
+Genres: []
+ListenInSec: 1351
 Marks:
   - "[[Anime]]"
-NumberInAlbum: 1
-related:
-  - "[[IGNITE - Aoi Eir]]"
+NumberInAlbum: 0
+related: []
 source: ""
 SourceFile: "[[Aoi Eir - IGNITE (TV Size).mp3]]"
+sources:
+  - "[[Мастера Меча Онлайн (🇯🇵📺 463)|Мастера Меча Онлайн|opening:3]]"
+  - "[[Мастера Меча Онлайн 2 (🇯🇵📺 466)|Мастера Меча Онлайн 2|opening:1]]"
 ---
 
 # Aoi Eir - IGNITE
