@@ -136,3 +136,12 @@ views:
         - Type == "anime"
         - Status == "complete"
         - Year == 2023
+  - type: cards
+    name: View 2
+    filters:
+      and:
+        - Type == "film"
+    order:
+      - file.name
+      - Type
+    image: note.Cover

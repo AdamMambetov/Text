@@ -4,7 +4,7 @@ aliases:
   - "Space Jam"
   - "Космический джем"
 Status: complete
-Type: film
+Type: cartoon
 Rating:
   - "[[®️12|PG-13]]"
 Cover: "[[space_jam_film_cover.jpg]]"

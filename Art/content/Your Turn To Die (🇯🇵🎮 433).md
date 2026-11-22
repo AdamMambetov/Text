@@ -5,7 +5,7 @@ aliases:
   - "YTTD"
   - "Kimi ga Shine"
 Status: defer
-Type: game
+Type: anime game
 Cover: "[[your_turn_to_die_game_cover.jpg]]"
 Year: 2017
 meta:

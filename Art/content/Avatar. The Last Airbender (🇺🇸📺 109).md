@@ -5,7 +5,7 @@ aliases:
   - "Аватар: Легенда об Аанге"
   - "Аватар: Последний маг воздуха"
 Status: complete
-Type: cartoon
+Type: cartoon series
 Rating:
   - "[[®️6|6+]]"
 Cover: "[[avatar_the_legend_of_aang_2005_cartoon_cover.jpg]]"

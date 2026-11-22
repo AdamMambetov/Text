@@ -4,7 +4,7 @@ aliases:
   - "Steins;Gate"
   - "Врата Штейна"
 Status: plan
-Type: game
+Type: anime game
 Rating:
   - "[[®️12|PG-13]]"
 Cover: "[[steins_gate_game_cover.jpg]]"

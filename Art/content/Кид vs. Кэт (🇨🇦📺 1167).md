@@ -5,7 +5,7 @@ aliases:
   - "Kid vs. Kat"
   - "Kid vs. Cat"
 Status: complete
-Type: cartoon
+Type: cartoon series
 Cover: "[[kid_vs_kat_cartoon_cover.jpg]]"
 Year: 2008
 Views: 1

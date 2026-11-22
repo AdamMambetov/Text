@@ -4,7 +4,7 @@ aliases:
   - "WALL-E"
   - "ВАЛЛ-И"
 Status: complete
-Type: film
+Type: cartoon
 Rating:
   - "[[®️0|0+]]"
 Cover: "[[wall_e_film_cover.jpg]]"

@@ -5,7 +5,7 @@ aliases:
   - "Би Муви: Медовый заговор"
   - "Би муви: пчелиный заговор"
 Status: complete
-Type: film
+Type: cartoon
 Rating:
   - "[[®️0|0+]]"
 Cover: "[[bee_movie_film_cover.png]]"

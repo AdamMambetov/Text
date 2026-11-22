@@ -4,7 +4,7 @@ aliases:
   - "Finding Nemo"
   - "В поисках Немо"
 Status: complete
-Type: film
+Type: cartoon
 Rating:
   - "[[®️0|0+]]"
 Cover: "[[finding_nemo_film_cover.png]]"

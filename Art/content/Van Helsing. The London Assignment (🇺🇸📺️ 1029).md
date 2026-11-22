@@ -5,7 +5,7 @@ aliases:
   - "Ван Хельсинг: Назначение в Лондон"
   - "Ван Хельсинг: Лондонское задание"
 Status: complete
-Type: cartoon
+Type: cartoon series
 Cover: "[[van_helsing_cartoon_cover.jpg]]"
 Year: 2004
 Views: 1
