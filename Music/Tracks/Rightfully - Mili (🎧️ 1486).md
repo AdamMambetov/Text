@@ -11,7 +11,7 @@ Creators:
 Genres:
   - "[[Electronic]]"
   - "[[Pop]]"
-ListenInSec: 8335
+ListenInSec: 8555
 Marks:
   - "[[Anime]]"
 NumberInAlbum: 0

@@ -10,7 +10,7 @@ Creators:
   - "[[Mili (🎙️ 699)]]"
 Genres:
   - "[[Pop]]"
-ListenInSec: 3241
+ListenInSec: 3444
 Marks:
   - "[[Anime]]"
   - "[[Indie]]"
@@ -19,8 +19,8 @@ related: []
 source: ""
 SourceFile: "[[Mili - Entertainment.mp3]]"
 sources:
-  - "[[Убийца гоблинов (🇯🇵📺 343)|Убийца гоблинов|opening:2]]"
   - "[[Убийца Гоблинов 2 (🇯🇵📺 27)|Убийца Гоблинов 2|opening:1]]"
+  - "[[Убийца гоблинов (🇯🇵📺 343)|Убийца гоблинов|opening:2]]"
 ---
 
 # Mili - Entertainment

@@ -9,7 +9,7 @@ CoverOf: ""
 Creators:
   - "[[Mili (🎙️ 699)]]"
 Genres: []
-ListenInSec: 7243
+ListenInSec: 7539
 Marks:
   - "[[Anime]]"
   - "[[Game]]"
