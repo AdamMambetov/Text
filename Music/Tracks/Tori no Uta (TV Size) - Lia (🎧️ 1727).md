@@ -9,9 +9,8 @@ CoverOf: ""
 Creators:
   - "[[Lia (🎙️ 656)]]"
 Genres: []
-ListenInSec: 2056
-Marks:
-  - "[[Anime]]"
+ListenInSec: 2060
+Marks: []
 NumberInAlbum: 0
 related:
   - "[[Tori no Uta (YT Size) - Lia (🎧️ 1728)]]"

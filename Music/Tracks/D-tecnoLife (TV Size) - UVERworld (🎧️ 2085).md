@@ -9,7 +9,7 @@ CoverOf: ""
 Creators:
   - "[[UVERworld (🎙️ 473)]]"
 Genres: []
-ListenInSec: 529
+ListenInSec: 619
 Marks:
   - "[[Anime]]"
 NumberInAlbum: 0

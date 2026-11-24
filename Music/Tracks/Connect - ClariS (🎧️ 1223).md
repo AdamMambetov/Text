@@ -9,7 +9,7 @@ CoverOf: ""
 Creators:
   - "[[ClariS (🎙️ 262)]]"
 Genres: []
-ListenInSec: 11678
+ListenInSec: 11948
 Marks:
   - "[[Anime]]"
 NumberInAlbum: 0

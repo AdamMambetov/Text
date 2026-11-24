@@ -9,9 +9,8 @@ CoverOf: ""
 Creators:
   - "[[ZAQ (🎙️ 764)]]"
 Genres: []
-ListenInSec: 1072
-Marks:
-  - "[[Anime]]"
+ListenInSec: 1076
+Marks: []
 NumberInAlbum: 0
 related: []
 source: ""

@@ -2,21 +2,22 @@
 created: 2024-07-21T15:18:28+03:00
 aliases:
   - "THE HERO!! (TV Size)"
-  - "One Punch Man OP 1"
-  - "Ванпанчмен OP 1"
 Cover: "[[_No Album Art.jpg]]"
-Year: 0
+Year: 2015
 Album: ""
 CoverOf: ""
 Creators:
   - "[[JAM Project (🎙️ 775)]]"
-ListenInSec: 204
+ListenInSec: 294
 Marks:
   - "[[Anime]]"
-NumberInAlbum: 1
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[JAM Project - THE HERO!! (TV Size).mp3]]"
+Genres: []
+sources:
+  - "[[One Punch Man (🇯🇵📺 376)|One Punch Man|opening:1]]"
 ---
 
 # JAM Project - THE HERO!! (TV Size)

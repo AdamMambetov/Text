@@ -4,17 +4,20 @@ aliases:
   - "distance"
 Cover: "[[Long Shot Party - distance.jpg]]"
 Year: 2008
-Album: "[[distance]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[Long Shot Party (🎙️ 364)]]"
-ListenInSec: 380
+ListenInSec: 2401
 Marks:
   - "[[Anime]]"
-NumberInAlbum: 1
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Long Shot Party - Distance.mp3]]"
+Genres: []
+sources:
+  - "[[Наруто. Ураганные хроники (🇯🇵📺 12)|Наруто: Ураганные хроники|opening:2]]"
 ---
 
 # Long Shot Party - Distance

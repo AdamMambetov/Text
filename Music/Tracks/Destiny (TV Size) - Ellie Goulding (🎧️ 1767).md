@@ -9,9 +9,8 @@ CoverOf: ""
 Creators:
   - "[[Ellie Goulding (🎙️ 680)]]"
 Genres: []
-ListenInSec: 1340
-Marks:
-  - "[[Anime]]"
+ListenInSec: 1346
+Marks: []
 NumberInAlbum: 0
 related: []
 source: ""

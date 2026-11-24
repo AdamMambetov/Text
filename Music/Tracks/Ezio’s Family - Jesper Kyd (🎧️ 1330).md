@@ -8,13 +8,16 @@ Album: "[[Assassin's Creed 2 OST (📀 5)]]"
 CoverOf: ""
 Creators:
   - "[[Jesper Kyd (🎙️ 339)]]"
-ListenInSec: 538
+ListenInSec: 568
 Marks:
   - "[[OST]]"
+  - "[[Game]]"
 NumberInAlbum: 3
 related: []
 source: ""
 SourceFile: "[[Assassin's Creed 2 OST - Ezio's Family.mp3]]"
+Genres: []
+sources: []
 ---
 
 # Assassin's Creed 2 OST - Ezio's Family

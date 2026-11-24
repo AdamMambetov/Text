@@ -9,7 +9,7 @@ CoverOf: ""
 Creators:
   - "[[Natsumi Kiyoura (🎙️ 774)]]"
 Genres: []
-ListenInSec: 4653
+ListenInSec: 4946
 Marks:
   - "[[Anime]]"
 NumberInAlbum: 0

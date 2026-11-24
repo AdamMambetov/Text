@@ -2,22 +2,22 @@
 created: 2022-04-22T21:21:24+03:00
 aliases:
   - "Melissa"
-  - "Fullmetal Alchemist OP 1"
-  - "Стальной алхимик OP 1"
 Cover: "[[Porno Graffitti - Melissa.jpg]]"
-Year: 0
+Year: 2003
 Album: ""
 CoverOf: ""
 Creators:
   - "[[Porno Graffitti (🎙️ 414)]]"
-ListenInSec: 1089
-Marks:
-  - "[[Anime]]"
+ListenInSec: 1096
+Marks: []
 NumberInAlbum: 0
 related:
   - "[[Melissa (TV Size) - Porno Graffitti]]"
 source: ""
 SourceFile: "[[Porno Graffitti - Melissa.mp3]]"
+Genres: []
+sources:
+  - "[[Стальной алхимик (🇯🇵📺 983)|Стальной алхимик|opening:1]]"
 ---
 
 # Porno Graffitti - Melissa

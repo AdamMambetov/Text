@@ -2,7 +2,7 @@
 created: 2026-01-26T14:20:25+03:00
 aliases:
   - "Tominaga Tommy Hiroaki"
-ListenInSec: 1461
+ListenInSec: 1550
 ---
 
 # Tominaga Tommy Hiroaki

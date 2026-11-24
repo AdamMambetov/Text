@@ -9,9 +9,8 @@ CoverOf: ""
 Creators:
   - "[[Ikimonogakari (🎙️ 57)]]"
 Genres: []
-ListenInSec: 1313
-Marks:
-  - "[[Anime]]"
+ListenInSec: 1317
+Marks: []
 NumberInAlbum: 0
 related:
   - "[[Hotaru no Hikari - Ikimonogakari (🎧️ 1715)]]"

@@ -9,9 +9,8 @@ CoverOf: ""
 Creators:
   - "[[Hiroyuki Sawano (🎙️ 327)]]"
 Genres: []
-ListenInSec: 1885
-Marks:
-  - "[[Anime]]"
+ListenInSec: 1889
+Marks: []
 NumberInAlbum: 0
 related: []
 source: ""

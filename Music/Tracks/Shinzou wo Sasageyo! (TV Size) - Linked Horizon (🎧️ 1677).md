@@ -9,9 +9,8 @@ CoverOf: ""
 Creators:
   - "[[Linked Horizon (🎙️ 730)]]"
 Genres: []
-ListenInSec: 2116
-Marks:
-  - "[[Anime]]"
+ListenInSec: 2119
+Marks: []
 NumberInAlbum: 0
 related: []
 source: ""

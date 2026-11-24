@@ -9,9 +9,8 @@ CoverOf: ""
 Creators:
   - "[[Konomi Suzuki (🎙️ 351)]]"
 Genres: []
-ListenInSec: 1603
-Marks:
-  - "[[Anime]]"
+ListenInSec: 1608
+Marks: []
 NumberInAlbum: 0
 related: []
 source: ""

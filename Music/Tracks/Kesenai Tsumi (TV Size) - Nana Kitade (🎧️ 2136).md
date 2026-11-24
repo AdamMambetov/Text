@@ -9,9 +9,8 @@ CoverOf: ""
 Creators:
   - "[[Nana Kitade (🎙️ 818)]]"
 Genres: []
-ListenInSec: 1719
-Marks:
-  - "[[Anime]]"
+ListenInSec: 1723
+Marks: []
 NumberInAlbum: 0
 related:
   - "[[Kesenai Tsumi - Nana Kitade (🎧️ 2147)]]"

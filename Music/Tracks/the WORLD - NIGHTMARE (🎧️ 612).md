@@ -2,20 +2,20 @@
 created: 2023-07-09T19:19:10+03:00
 aliases:
   - "the WORLD"
-  - "Death Note OP 1"
-  - "Тетрадь смерти OP 1"
 Cover: "[[_No Album Art.jpg]]"
-Year: 0
+Year: 2006
 Album: ""
 CoverOf: ""
 Creators:
   - "[[NIGHTMARE (🎙️ 665)]]"
-ListenInSec: 5684
+ListenInSec: 5743
 Marks:
   - "[[Anime]]"
 NumberInAlbum: 0
-related:
-  - "[[the WORLD (TV Size) - NIGHTMARE]]"
+related: []
 SourceFile: "[[NIGHTMARE - the WORLD.mp3]]"
+Genres: []
+sources:
+  - "[[Тетрадь смерти (🇯🇵📺 533)|Тетрадь смерти|opening:1]]"
 ---
 

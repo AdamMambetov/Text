@@ -10,9 +10,8 @@ Creators:
   - "[[SOLIDEMO (🎙️ 1045)]]"
   - "[[Sakuramen (🎙️ 1046)]]"
 Genres: []
-ListenInSec: 1529
-Marks:
-  - "[[Anime]]"
+ListenInSec: 1536
+Marks: []
 NumberInAlbum: 0
 related: []
 SourceFile: "[[SOLIDEMO with Sakuramen - My Song My Days.mp3]]"

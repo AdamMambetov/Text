@@ -12,14 +12,13 @@ Creators:
   - "[[Игорь Куликов (🎙️ 71)]]"
 Genres:
   - "[[Metal]]"
-ListenInSec: 1119
-Marks:
-  - "[[Anime]]"
-  - "[[Cover]]"
+ListenInSec: 1223
+Marks: []
 NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Игорь Куликов - La Divina Tragedia~Makyoku~.mp3]]"
+sources: []
 ---
 
 `$=dv.header(1, dv.current().aliases[0])`

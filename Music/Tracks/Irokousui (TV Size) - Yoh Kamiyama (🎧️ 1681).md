@@ -9,9 +9,8 @@ CoverOf: ""
 Creators:
   - "[[Yoh Kamiyama (🎙️ 659)]]"
 Genres: []
-ListenInSec: 1860
-Marks:
-  - "[[Anime]]"
+ListenInSec: 1865
+Marks: []
 NumberInAlbum: 0
 related:
   - "[[Irokousui - Yoh Kamiyama (🎧️ 1680)]]"

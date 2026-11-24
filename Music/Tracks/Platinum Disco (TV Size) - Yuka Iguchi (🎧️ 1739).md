@@ -11,9 +11,8 @@ CoverOf: ""
 Creators:
   - "[[Yuka Iguchi (🎙️ 672)]]"
 Genres: []
-ListenInSec: 1113
+ListenInSec: 1119
 Marks:
-  - "[[Anime]]"
   - "[[Meme]]"
 NumberInAlbum: 0
 related:

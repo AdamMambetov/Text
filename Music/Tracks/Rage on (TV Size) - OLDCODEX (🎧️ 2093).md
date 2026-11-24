@@ -10,7 +10,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[OLDCODEX (🎙️ 1056)]]"
-ListenInSec: 284
+ListenInSec: 285
 Marks:
   - "[[Anime]]"
 NumberInAlbum: 0

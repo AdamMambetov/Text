@@ -8,11 +8,11 @@ Album: "[[Shiki OST (📀 1)]]"
 CoverOf: ""
 Creators:
   - "[[Yasuharu Takanashi (🎙️ 749)]]"
-ListenInSec: 442
+ListenInSec: 444
 Marks:
   - "[[Anime]]"
   - "[[OST]]"
-NumberInAlbum: 10
+NumberInAlbum: 13
 related: []
 source: ""
 SourceFile: "[[Shiki OST - 13 Thirteen Moons.mp3]]"

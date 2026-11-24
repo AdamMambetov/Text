@@ -9,9 +9,8 @@ CoverOf: ""
 Creators:
   - "[[nonoc (🎙️ 792)]]"
 Genres: []
-ListenInSec: 649
-Marks:
-  - "[[Anime]]"
+ListenInSec: 652
+Marks: []
 NumberInAlbum: 0
 related:
   - "[[Memento (TV Size) - nonoc (🎧️ 1857)]]"

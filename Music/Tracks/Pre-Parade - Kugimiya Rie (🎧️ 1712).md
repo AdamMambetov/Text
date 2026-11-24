@@ -11,9 +11,8 @@ Creators:
   - "[[Horie Yui (🎙️ 330)]]"
   - "[[Kitamura Eri (🎙️ 331)]]"
 Genres: []
-ListenInSec: 7278
-Marks:
-  - "[[Anime]]"
+ListenInSec: 7282
+Marks: []
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Kugimiya Rie, Horie Yui, Kitamura Eri - Pre-Parade.mp3]]"

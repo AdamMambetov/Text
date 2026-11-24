@@ -9,9 +9,8 @@ CoverOf: ""
 Creators:
   - "[[(K)NoW_NAME (🎙️ 35)]]"
 Genres: []
-ListenInSec: 1615
-Marks:
-  - "[[Anime]]"
+ListenInSec: 1621
+Marks: []
 NumberInAlbum: 0
 related: []
 source: ""

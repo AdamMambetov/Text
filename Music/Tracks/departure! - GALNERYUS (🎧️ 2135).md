@@ -9,9 +9,8 @@ CoverOf: ""
 Creators:
   - "[[GALNERYUS (🎙️ 313)]]"
 Genres: []
-ListenInSec: 2838
-Marks:
-  - "[[Anime]]"
+ListenInSec: 2841
+Marks: []
 NumberInAlbum: 0
 related: []
 SourceFile: "[[GALNERYUS - departure!.opus]]"

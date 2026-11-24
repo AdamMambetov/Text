@@ -7,7 +7,7 @@ const files = dv.pages('"Art/content"')
 for (let i = 0; i < files.length; i++) {
 	let file = files[i]
 	let title = file.file.name
-	new Notice(title, 5000)
+	// new Notice(title, 5000)
 	let name = file.aliases[0]
 		.replaceAll("?", "")
 		.replaceAll("#", "")

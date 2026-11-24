@@ -9,9 +9,8 @@ CoverOf: ""
 Creators:
   - "[[GING NANG BOYS (🎙️ 668)]]"
 Genres: []
-ListenInSec: 1915
-Marks:
-  - "[[Anime]]"
+ListenInSec: 1922
+Marks: []
 NumberInAlbum: 0
 related:
   - "[[Shounen Shoujo - GING NANG BOYS (🎧️ 635)]]"

@@ -9,9 +9,8 @@ CoverOf: ""
 Creators:
   - "[[Yasushi Ishii (🎙️ 1011)]]"
 Genres: []
-ListenInSec: 5381
-Marks:
-  - "[[Anime]]"
+ListenInSec: 5385
+Marks: []
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Yasushi Ishii - THE WORLD WITHOUT LOGOS.mp3]]"

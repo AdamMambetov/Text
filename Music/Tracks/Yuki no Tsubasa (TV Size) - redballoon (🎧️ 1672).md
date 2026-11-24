@@ -9,9 +9,8 @@ CoverOf: ""
 Creators:
   - "[[redballoon (🎙️ 966)]]"
 Genres: []
-ListenInSec: 1496
-Marks:
-  - "[[Anime]]"
+ListenInSec: 1501
+Marks: []
 NumberInAlbum: 0
 related: []
 SourceFile: "[[redballoon - Yuki no Tsubasa (TV Size).mp3]]"

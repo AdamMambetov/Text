@@ -2,21 +2,21 @@
 created: 2022-04-28T01:59:32+03:00
 aliases:
   - "MUKANJYO"
-  - "Vinland Saga OP 1"
-  - "Сага о Винланде OP 1"
 Cover: "[[Survive Said the Prophet - MUKANJYO.jpg]]"
 Year: 2019
 Album: ""
 CoverOf: ""
 Creators:
   - "[[Survive Said the Prophet (🎙️ 448)]]"
-ListenInSec: 863
-Marks:
-  - "[[Anime]]"
+ListenInSec: 1056
+Marks: []
 NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Survive Said the Prophet - MUKANJYO.mp3]]"
+Genres: []
+sources:
+  - "[[Сага о Винланде (🇯🇵📺 698)|Сага о Винланде|opening:1]]"
 ---
 
 # Survive Said the Prophet - MUKANJYO

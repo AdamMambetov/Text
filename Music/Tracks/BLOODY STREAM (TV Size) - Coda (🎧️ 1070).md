@@ -8,14 +8,17 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Coda (🎙️ 263)]]"
-ListenInSec: 279
+ListenInSec: 330
 Marks:
   - "[[Anime]]"
-NumberInAlbum: 1
+NumberInAlbum: 0
 related:
   - "[[BLOODY STREAM - Coda (🎧️ 408)]]"
 source: ""
 SourceFile: "[[Coda - BLOODY STREAM (TV Size).mp3]]"
+Genres: []
+sources:
+  - "[[Невероятное приключение ДжоДжо 1-2. Призрачная кровьСтремление к бою (🇯🇵📺 485)|Невероятное приключение ДжоДжо 1-2: Призрачная кровь/Стремление к бою|opening:2]]"
 ---
 
 # Coda - BLOODY STREAM (TV Size)

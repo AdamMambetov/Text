@@ -10,9 +10,8 @@ Creators:
   - "[[Fairouz Ai (🎙️ 605)]]"
   - "[[Ishikawa Kaito (🎙️ 606)]]"
 Genres: []
-ListenInSec: 1180
-Marks:
-  - "[[Anime]]"
+ListenInSec: 1183
+Marks: []
 NumberInAlbum: 0
 related:
   - "[[Onegai Muscle - Fairouz Ai (🎧️ 1671)]]"

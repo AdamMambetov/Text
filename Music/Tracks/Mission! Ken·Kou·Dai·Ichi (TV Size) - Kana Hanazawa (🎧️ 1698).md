@@ -12,9 +12,8 @@ Creators:
   - "[[Daisuke Ono (🎙️ 971)]]"
   - "[[Kikuko Inoue (🎙️ 972)]]"
 Genres: []
-ListenInSec: 1721
-Marks:
-  - "[[Anime]]"
+ListenInSec: 1725
+Marks: []
 NumberInAlbum: 0
 related: []
 source: ""

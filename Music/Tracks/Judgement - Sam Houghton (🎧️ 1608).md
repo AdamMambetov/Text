@@ -9,11 +9,14 @@ CoverOf: ""
 Creators:
   - "[[Sam Houghton (🎙️ 673)]]"
   - "[[Joe Collinson (🎙️ 674)]]"
-ListenInSec: 2905
+ListenInSec: 2920
 Marks:
   - "[[OST]]"
+  - "[[Game]]"
 NumberInAlbum: 1
 related: []
 SourceFile: "[[BPM OST - 02 Judgement.mp3]]"
+Genres: []
+sources: []
 ---
 

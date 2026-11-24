@@ -10,7 +10,7 @@ CoverOf: ""
 Creators:
   - "[[Kawada Mami (🎙️ 743)]]"
 Genres: []
-ListenInSec: 12343
+ListenInSec: 12823
 Marks:
   - "[[Anime]]"
 NumberInAlbum: 0

@@ -9,9 +9,8 @@ CoverOf: ""
 Creators:
   - "[[Lia (🎙️ 656)]]"
 Genres: []
-ListenInSec: 816
-Marks:
-  - "[[Anime]]"
+ListenInSec: 819
+Marks: []
 NumberInAlbum: 0
 related:
   - "[[Toki wo Kizamu Uta - Lia (🎧️ 1742)]]"

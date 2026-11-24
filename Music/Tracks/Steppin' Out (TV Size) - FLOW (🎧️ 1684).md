@@ -9,9 +9,8 @@ CoverOf: ""
 Creators:
   - "[[FLOW (🎙️ 309)]]"
 Genres: []
-ListenInSec: 305
-Marks:
-  - "[[Anime]]"
+ListenInSec: 328
+Marks: []
 NumberInAlbum: 0
 related:
   - "[[Steppin' Out - FLOW (🎧️ 109)]]"

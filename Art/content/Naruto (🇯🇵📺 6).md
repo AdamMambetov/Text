@@ -1,8 +1,8 @@
 ---
 created: 2022-03-16T02:05:42
 aliases:
-  - "Наруто"
   - "Naruto"
+  - "Наруто"
 Status: complete
 Type: anime
 Rating:

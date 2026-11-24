@@ -9,9 +9,8 @@ CoverOf: ""
 Creators:
   - "[[Daisuke Hasegawa (🎙️ 967)]]"
 Genres: []
-ListenInSec: 903
-Marks:
-  - "[[Anime]]"
+ListenInSec: 907
+Marks: []
 NumberInAlbum: 0
 related: []
 source: ""

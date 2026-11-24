@@ -10,9 +10,8 @@ Creators:
   - "[[FLOW (🎙️ 309)]]"
   - "[[GRANRODEO (🎙️ 310)]]"
 Genres: []
-ListenInSec: 816
-Marks:
-  - "[[Anime]]"
+ListenInSec: 822
+Marks: []
 NumberInAlbum: 0
 related: []
 source: ""

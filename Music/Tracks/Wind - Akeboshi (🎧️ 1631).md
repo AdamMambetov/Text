@@ -9,16 +9,15 @@ CoverOf: ""
 Creators:
   - "[[Akeboshi (🎙️ 152)]]"
 Genres: []
-ListenInSec: 1785
+ListenInSec: 1795
 Marks:
-  - "[[Anime]]"
   - "[[OST]]"
 NumberInAlbum: 16
 related: []
 source: ""
 SourceFile: "[[Akeboshi - Wind.mp3]]"
 sources:
-  - "[[Наруто (🇯🇵📺 6)|Наруто|ending:1]]"
+  - "[[Naruto (🇯🇵📺 6)|Naruto|ending:1]]"
 ---
 
 # Akeboshi - Wind

@@ -9,9 +9,8 @@ CoverOf: ""
 Creators:
   - "[[Masami Mitsuoka (🎙️ 797)]]"
 Genres: []
-ListenInSec: 1528
-Marks:
-  - "[[Anime]]"
+ListenInSec: 1531
+Marks: []
 NumberInAlbum: 0
 related: []
 source: ""

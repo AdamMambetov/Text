@@ -9,11 +9,11 @@ CoverOf: ""
 Creators:
   - "[[BUCK-TICK (🎙️ 750)]]"
 Genres: []
-ListenInSec: 1655
+ListenInSec: 1659
 Marks:
   - "[[Anime]]"
   - "[[OST]]"
-NumberInAlbum: 18
+NumberInAlbum: 24
 related:
   - "[[Kuchizuke - BUCK-TICK (🎧️ 1478)]]"
 source: ""

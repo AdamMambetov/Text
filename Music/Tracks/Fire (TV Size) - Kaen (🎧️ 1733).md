@@ -9,9 +9,8 @@ CoverOf: ""
 Creators:
   - "[[Kaen (🎙️ 687)]]"
 Genres: []
-ListenInSec: 1927
-Marks:
-  - "[[Anime]]"
+ListenInSec: 1934
+Marks: []
 NumberInAlbum: 0
 related: []
 source: ""

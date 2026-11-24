@@ -9,9 +9,8 @@ CoverOf: ""
 Creators:
   - "[[Mayu Maeshima (🎙️ 679)]]"
 Genres: []
-ListenInSec: 1155
-Marks:
-  - "[[Anime]]"
+ListenInSec: 1159
+Marks: []
 NumberInAlbum: 0
 related:
   - "[[Ruler - Mayu Maeshima (🎧️ 1769)]]"

@@ -11,7 +11,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Kitou Akari (🎙️ 627)]]"
-ListenInSec: 1821
+ListenInSec: 1822
 Marks:
   - "[[Anime]]"
 NumberInAlbum: 0

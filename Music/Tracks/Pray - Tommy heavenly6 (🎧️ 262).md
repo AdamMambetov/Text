@@ -2,22 +2,21 @@
 created: 2022-04-22T21:48:58+03:00
 aliases:
   - "Pray"
-  - "Gintama OP 1"
-  - "Гинтама OP 1"
 Cover: "[[Tommy heavenly6 - Pray.jpg]]"
 Year: 2006
-Album: "[[Pray [2006] {Tommy heavenly6}]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[Tommy heavenly6 (🎙️ 469)]]"
-ListenInSec: 400
-Marks:
-  - "[[Anime]]"
-NumberInAlbum: 1
-related:
-  - "[[Pray (TV Size) - Tommy heavenly6]]"
+ListenInSec: 684
+Marks: []
+NumberInAlbum: 0
+related: []
 source: ""
 SourceFile: "[[Tommy heavenly6 - Pray.mp3]]"
+Genres: []
+sources:
+  - "[[Гинтама (🇯🇵📺 480)|Гинтама|opening:1]]"
 ---
 
 # Tommy heavenly6 - Pray

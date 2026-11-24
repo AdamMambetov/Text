@@ -10,9 +10,8 @@ Creators:
   - "[[ROOKiEZ is PUNK'D (🎙️ 429)]]"
 Genres:
   - "[[Pop rock]]"
-ListenInSec: 588
-Marks:
-  - "[[Anime]]"
+ListenInSec: 593
+Marks: []
 NumberInAlbum: 0
 related:
   - "[[Complication (TV Size) - ROOKiEZ is PUNK'D (🎧️ 1694)]]"

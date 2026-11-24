@@ -9,9 +9,8 @@ CoverOf: ""
 Creators:
   - "[[GALNERYUS (🎙️ 313)]]"
 Genres: []
-ListenInSec: 1658
-Marks:
-  - "[[Anime]]"
+ListenInSec: 1662
+Marks: []
 NumberInAlbum: 0
 related: []
 SourceFile: "[[GALNERYUS - A FAR-OFF DISTANCE (TV Size).mp3]]"

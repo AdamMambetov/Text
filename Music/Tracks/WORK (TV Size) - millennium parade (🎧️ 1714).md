@@ -9,9 +9,8 @@ CoverOf: ""
 Creators:
   - "[[millennium parade (🎙️ 663)]]"
 Genres: []
-ListenInSec: 1476
-Marks:
-  - "[[Anime]]"
+ListenInSec: 1479
+Marks: []
 NumberInAlbum: 0
 related:
   - "[[WORK - millennium parade (🎧️ 1704)]]"

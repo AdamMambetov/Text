@@ -9,9 +9,8 @@ CoverOf: ""
 Creators:
   - "[[Stereopony (🎙️ 56)]]"
 Genres: []
-ListenInSec: 1051
-Marks:
-  - "[[Anime]]"
+ListenInSec: 1055
+Marks: []
 NumberInAlbum: 0
 related: []
 source: ""

@@ -2,21 +2,21 @@
 created: 2022-10-05T13:57:24+03:00
 aliases:
   - "Fanfare"
-  - "Я хочу съесть твою поджелудочную OP 1"
 Cover: "[[sumika - Fanfare.jpg]]"
-Year: 0
+Year: 2018
 Album: ""
 CoverOf: ""
 Creators:
   - "[[sumika (🎙️ 446)]]"
-ListenInSec: 965
-Marks:
-  - "[[Anime]]"
-  - "[[Film]]"
+ListenInSec: 1067
+Marks: []
 NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[sumika - Fanfare.mp3]]"
+Genres: []
+sources:
+  - "[[Я хочу съесть твою поджелудочную (🇯🇵📺 548)|Я хочу съесть твою поджелудочную|opening:1]]"
 ---
 
 # sumika - Fanfare

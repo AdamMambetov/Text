@@ -2,19 +2,20 @@
 created: 2023-07-09T19:28:56+03:00
 aliases:
   - "Identity"
-  - "Доблесть рыцаря-неудачника OP 1"
 Cover: "[[_No Album Art.jpg]]"
-Year: 0
+Year: 2015
 Album: ""
 CoverOf: ""
 Creators:
   - "[[Mikio Sakai (🎙️ 741)]]"
-ListenInSec: 3554
+ListenInSec: 3623
 Marks:
   - "[[Anime]]"
 NumberInAlbum: 0
-related:
-  - "[[Identity (TV Size) - Mikio Sakai]]"
+related: []
 SourceFile: "[[Mikio Sakai - Identity.mp3]]"
+Genres: []
+sources:
+  - "[[Доблесть рыцаря-неудачника (🇯🇵📺 591)|Доблесть рыцаря-неудачника|opening:1]]"
 ---
 

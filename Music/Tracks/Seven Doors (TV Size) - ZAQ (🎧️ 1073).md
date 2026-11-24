@@ -2,22 +2,23 @@
 created: 2024-07-21T15:08:44+03:00
 aliases:
   - "Seven Doors (TV Size)"
-  - "Trinity Seven OP 1"
-  - "Тринити семеро магов OP 1"
 Cover: "[[_No Album Art.jpg]]"
-Year: 0
+Year: 2013
 Album: ""
 CoverOf: ""
 Creators:
   - "[[ZAQ (🎙️ 764)]]"
-ListenInSec: 1270
+ListenInSec: 1805
 Marks:
   - "[[Anime]]"
-NumberInAlbum: 1
+NumberInAlbum: 0
 related:
   - "[[Seven Doors - ZAQ (🎧️ 870)]]"
 source: ""
 SourceFile: "[[ZAQ - Seven Doors (TV Size).mp3]]"
+Genres: []
+sources:
+  - "[[Trinity Seven (🇯🇵📺 529)|Trinity Seven|opening:1]]"
 ---
 
 # ZAQ - Seven Doors (TV Size)

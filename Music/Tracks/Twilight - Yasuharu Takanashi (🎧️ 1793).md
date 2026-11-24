@@ -8,11 +8,11 @@ Album: "[[Shiki OST (📀 1)]]"
 CoverOf: ""
 Creators:
   - "[[Yasuharu Takanashi (🎙️ 749)]]"
-ListenInSec: 1485
+ListenInSec: 1486
 Marks:
   - "[[Anime]]"
   - "[[OST]]"
-NumberInAlbum: 4
+NumberInAlbum: 5
 related: []
 source: ""
 SourceFile: "[[Shiki OST - 05 Twilight.mp3]]"

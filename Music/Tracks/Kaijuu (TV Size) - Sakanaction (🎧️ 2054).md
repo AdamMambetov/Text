@@ -9,9 +9,8 @@ CoverOf: ""
 Creators:
   - "[[Sakanaction (🎙️ 810)]]"
 Genres: []
-ListenInSec: 3030
-Marks:
-  - "[[Anime]]"
+ListenInSec: 3035
+Marks: []
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Sakanaction - Kaijuu (TV Size).mp3]]"

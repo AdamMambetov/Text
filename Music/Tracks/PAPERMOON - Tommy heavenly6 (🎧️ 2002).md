@@ -9,9 +9,8 @@ CoverOf: ""
 Creators:
   - "[[Tommy heavenly6 (🎙️ 469)]]"
 Genres: []
-ListenInSec: 3000
-Marks:
-  - "[[Anime]]"
+ListenInSec: 3005
+Marks: []
 NumberInAlbum: 0
 related:
   - "[[PAPERMOON (TV Size) - Tommy heavenly6 (🎧️ 1997)]]"

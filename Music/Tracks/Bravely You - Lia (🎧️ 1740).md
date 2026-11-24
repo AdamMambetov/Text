@@ -5,13 +5,12 @@ aliases:
 Cover: "[[Lia - Bravely You.jpg]]"
 Year: 2015
 Album: ""
-CoverOf: "[[Bravely You (TV Size) - Lia (🎧️ 1072)]]"
+CoverOf: ""
 Creators:
   - "[[Lia (🎙️ 656)]]"
 Genres: []
-ListenInSec: 5484
-Marks:
-  - "[[Anime]]"
+ListenInSec: 5815
+Marks: []
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Lia - Bravely You.mp3]]"

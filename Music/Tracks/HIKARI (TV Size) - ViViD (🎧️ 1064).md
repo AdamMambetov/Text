@@ -8,10 +8,10 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[ViViD (🎙️ 860)]]"
-ListenInSec: 488
+ListenInSec: 509
 Marks:
   - "[[Anime]]"
-NumberInAlbum: 1
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[ViViD - HIKARI (TV Size).mp3]]"

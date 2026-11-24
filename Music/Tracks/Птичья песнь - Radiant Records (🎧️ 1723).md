@@ -12,7 +12,7 @@ CoverOf: "[[Tori no Uta - Lia (🎧️ 1737)]]"
 Creators:
   - "[[Radiant Records (🎙️ 39)]]"
   - "[[Camellia (🎙️ 53)]]"
-ListenInSec: 19069
+ListenInSec: 19079
 NumberInAlbum: 14
 related: []
 SourceFile: "[[Radiant Records - Птичья песнь.mp3]]"

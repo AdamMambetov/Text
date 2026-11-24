@@ -9,9 +9,8 @@ CoverOf: ""
 Creators:
   - "[[MYTH & ROID (🎙️ 382)]]"
 Genres: []
-ListenInSec: 1688
-Marks:
-  - "[[Anime]]"
+ListenInSec: 1694
+Marks: []
 NumberInAlbum: 1
 related: []
 source: ""

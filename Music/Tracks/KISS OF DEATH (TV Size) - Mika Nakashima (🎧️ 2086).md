@@ -10,7 +10,7 @@ Creators:
   - "[[Mika Nakashima (🎙️ 828)]]"
   - "[[HYDE (🎙️ 827)]]"
 Genres: []
-ListenInSec: 287
+ListenInSec: 376
 Marks:
   - "[[Anime]]"
 NumberInAlbum: 0

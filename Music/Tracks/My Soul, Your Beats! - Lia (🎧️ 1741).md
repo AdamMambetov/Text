@@ -9,9 +9,8 @@ CoverOf: ""
 Creators:
   - "[[Lia (🎙️ 656)]]"
 Genres: []
-ListenInSec: 1632
-Marks:
-  - "[[Anime]]"
+ListenInSec: 1636
+Marks: []
 NumberInAlbum: 0
 related:
   - "[[My Soul, Your Beats! (TV Size) - Lia (🎧️ 1746)]]"

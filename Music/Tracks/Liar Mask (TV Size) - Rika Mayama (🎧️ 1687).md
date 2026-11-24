@@ -9,9 +9,8 @@ CoverOf: ""
 Creators:
   - "[[Rika Mayama (🎙️ 426)]]"
 Genres: []
-ListenInSec: 1690
-Marks:
-  - "[[Anime]]"
+ListenInSec: 1694
+Marks: []
 NumberInAlbum: 0
 related:
   - "[[Liar Mask - Rika Mayama (🎧️ 539)]]"

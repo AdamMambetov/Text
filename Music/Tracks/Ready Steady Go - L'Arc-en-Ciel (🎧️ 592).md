@@ -2,22 +2,21 @@
 created: 2023-07-09T18:30:00+03:00
 aliases:
   - "Ready Steady Go"
-  - "Fullmetal Alchemist OP 2"
-  - "Стальной алхимик OP 2"
 Cover: "[[_No Album Art.jpg]]"
 Year: 2004
 Album: ""
 CoverOf: ""
 Creators:
   - "[[L'Arc-en-Ciel (🎙️ 707)]]"
-ListenInSec: 2007
-Marks:
-  - "[[Anime]]"
+ListenInSec: 2235
+Marks: []
 NumberInAlbum: 0
-related:
-  - "[[Ready Steady Go (TV Size) - L'Arc-en-Ciel]]"
+related: []
 source: ""
 SourceFile: "[[L'Arc-en-Ciel - Ready Steady Go.mp3]]"
+Genres: []
+sources:
+  - "[[Стальной алхимик (🇯🇵📺 983)|Стальной алхимик|opening:2]]"
 ---
 
 # L'Arc-en-Ciel - Ready Steady Go

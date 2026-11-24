@@ -9,9 +9,8 @@ CoverOf: ""
 Creators:
   - "[[Haruka Tomatsu (🎙️ 685)]]"
 Genres: []
-ListenInSec: 3836
-Marks:
-  - "[[Anime]]"
+ListenInSec: 3844
+Marks: []
 NumberInAlbum: 0
 related:
   - "[[Courage (TV Size) - Haruka Tomatsu (🎧️ 1686)]]"

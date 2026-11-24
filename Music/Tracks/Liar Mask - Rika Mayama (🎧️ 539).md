@@ -2,19 +2,19 @@
 created: 2022-12-20T23:10:20+03:00
 aliases:
   - "Liar Mask"
-  - "Akame ga Kill OP 2"
-  - "Убийца Акамэ OP 2"
 Cover: "[[_No Album Art.jpg]]"
-Year: 0
+Year: 2014
 Album: ""
 CoverOf: ""
 Creators:
   - "[[Rika Mayama (🎙️ 426)]]"
-ListenInSec: 1336
-Marks:
-  - "[[Anime]]"
+ListenInSec: 1631
+Marks: []
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Rika Mayama - Liar Mask.mp3]]"
+Genres: []
+sources:
+  - "[[Убийца Акамэ! (🇯🇵📺 836)|Убийца Акамэ!|opening:2]]"
 ---
 

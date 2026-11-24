@@ -3,19 +3,21 @@ created: 2024-01-04T12:16:03+03:00
 aliases:
   - "Centimeter"
 Cover: "[[_No Album Art.jpg]]"
-Year: 0
+Year: 2020
 Album: ""
 CoverOf: ""
 Creators:
   - "[[the peggies (🎙️ 458)]]"
-ListenInSec: 432
+ListenInSec: 746
 Marks:
   - "[[Anime]]"
 NumberInAlbum: 0
-related:
-  - "[[Centimeter (TV Size) - the peggies]]"
+related: []
 source: ""
 SourceFile: "[[the peggies - Centimeter.mp3]]"
+Genres: []
+sources:
+  - "[[Девушка на час (🇯🇵📺 684)|Девушка на час|opening:1]]"
 ---
 
 # the peggies - Centimeter

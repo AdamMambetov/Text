@@ -10,9 +10,8 @@ Creators:
   - "[[heeno Mirin (🎙️ 1062)]]"
   - "[[Aile The Shota (🎙️ 1063)]]"
 Genres: []
-ListenInSec: 1292
-Marks:
-  - "[[Anime]]"
+ListenInSec: 1302
+Marks: []
 NumberInAlbum: 0
 related: []
 source: ""

@@ -9,9 +9,8 @@ CoverOf: ""
 Creators:
   - "[[Steve Conte NYC (🎙️ 1044)]]"
 Genres: []
-ListenInSec: 966
-Marks:
-  - "[[Anime]]"
+ListenInSec: 969
+Marks: []
 NumberInAlbum: 0
 related:
   - "[[stray (TV Size) - Steve Conte NYC (🎧️ 2064)]]"

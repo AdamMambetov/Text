@@ -9,9 +9,8 @@ CoverOf: ""
 Creators:
   - "[[coldrain (🎙️ 820)]]"
 Genres: []
-ListenInSec: 984
-Marks:
-  - "[[Anime]]"
+ListenInSec: 988
+Marks: []
 NumberInAlbum: 0
 related: []
 source: ""

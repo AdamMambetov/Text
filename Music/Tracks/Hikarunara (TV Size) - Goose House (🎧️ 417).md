@@ -10,10 +10,10 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Goose House (🎙️ 316)]]"
-ListenInSec: 187
+ListenInSec: 279
 Marks:
   - "[[Anime]]"
-NumberInAlbum: 1
+NumberInAlbum: 0
 related: []
 source:
 SourceFile: "[[Goose House - Hikarunara (TV Size).mp3]]"

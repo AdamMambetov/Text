@@ -10,9 +10,8 @@ Creators:
   - "[[MYTH & ROID (🎙️ 382)]]"
   - "[[TK from Ling tosite sigure (🎙️ 655)]]"
 Genres: []
-ListenInSec: 5899
-Marks:
-  - "[[Anime]]"
+ListenInSec: 6105
+Marks: []
 NumberInAlbum: 0
 related:
   - "[[Ender Ember (TV Size) - MYTH & ROID (🎧️ 2126)]]"

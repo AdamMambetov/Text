@@ -9,13 +9,16 @@ CoverOf: ""
 Creators:
   - "[[Sam Houghton (🎙️ 673)]]"
   - "[[Joe Collinson (🎙️ 674)]]"
-ListenInSec: 216
+ListenInSec: 224
 Marks:
   - "[[OST]]"
+  - "[[Game]]"
 NumberInAlbum: 11
 related: []
 source: ""
 SourceFile: "[[BPM OST - 10 Muninn's Armoury.mp3]]"
+Genres: []
+sources: []
 ---
 
 # BPM OST - 11 Muninn's Armoury

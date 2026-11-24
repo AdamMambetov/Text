@@ -9,9 +9,8 @@ CoverOf: ""
 Creators:
   - "[[Yorushika (🎙️ 811)]]"
 Genres: []
-ListenInSec: 1359
-Marks:
-  - "[[Anime]]"
+ListenInSec: 1364
+Marks: []
 NumberInAlbum: 0
 related: []
 source: ""

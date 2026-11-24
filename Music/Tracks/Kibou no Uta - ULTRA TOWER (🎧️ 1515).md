@@ -9,7 +9,7 @@ CoverOf: ""
 Creators:
   - "[[ULTRA TOWER (🎙️ 762)]]"
 Genres: []
-ListenInSec: 5945
+ListenInSec: 6190
 Marks:
   - "[[Anime]]"
 NumberInAlbum: 0

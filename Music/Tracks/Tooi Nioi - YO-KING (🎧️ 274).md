@@ -2,21 +2,21 @@
 created: 2022-04-22T21:52:48+03:00
 aliases:
   - "Tooi Nioi"
-  - "Gintama OP 2"
-  - "Гинтама OP 2"
 Cover: "[[YO-KING - Tooi Nioi.jpg]]"
 Year: 2013
-Album: "[[Tooi Nioi [2013] {YO-KING}]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[YO-KING (🎙️ 483)]]"
-ListenInSec: 466
-Marks:
-  - "[[Anime]]"
-NumberInAlbum: 1
+ListenInSec: 701
+Marks: []
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[YO-KING - Tooi Nioi.mp3]]"
+Genres: []
+sources:
+  - "[[Гинтама (🇯🇵📺 480)|Гинтама|opening:2]]"
 ---
 
 # YO-KING - Tooi Nioi

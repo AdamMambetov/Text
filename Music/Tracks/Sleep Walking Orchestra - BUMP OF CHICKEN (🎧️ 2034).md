@@ -9,9 +9,8 @@ CoverOf: ""
 Creators:
   - "[[BUMP OF CHICKEN (🎙️ 1029)]]"
 Genres: []
-ListenInSec: 1117
-Marks:
-  - "[[Anime]]"
+ListenInSec: 1120
+Marks: []
 NumberInAlbum: 0
 related: []
 source: ""

@@ -9,7 +9,7 @@ Album: "[[DANGANRONPA OST (📀 43)]]"
 CoverOf: ""
 Creators:
   - "[[Masafumi Takada (🎙️ 790)]]"
-ListenInSec: 209
+ListenInSec: 266
 Marks:
   - "[[OST]]"
 NumberInAlbum: 1

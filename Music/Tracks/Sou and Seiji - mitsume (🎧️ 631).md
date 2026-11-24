@@ -8,7 +8,7 @@ Album: "[[Sonny Boy OST (📀 41)]]"
 CoverOf: ""
 Creators:
   - "[[mitsume (🎙️ 691)]]"
-ListenInSec: 13105
+ListenInSec: 13106
 Marks:
   - "[[OST]]"
 NumberInAlbum: 12

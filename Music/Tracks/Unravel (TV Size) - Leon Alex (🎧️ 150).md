@@ -7,7 +7,7 @@ aliases:
 Cover: "[[Leon Alex - Unravel.jpg]]"
 Year: 2020
 Album: ""
-CoverOf: "[[Unravel - TK from Ling tosite sigure (🎧️ 1430)]]"
+CoverOf: "[[Unravel (TV Size) - TK from Ling tosite sigure (🎧️ 1082)]]"
 Creators:
   - "[[Leon Alex (🎙️ 359)]]"
 ListenInSec: 190

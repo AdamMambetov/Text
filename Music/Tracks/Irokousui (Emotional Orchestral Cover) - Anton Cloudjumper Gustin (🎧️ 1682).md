@@ -8,7 +8,7 @@ Album: ""
 CoverOf: "[[Irokousui - Yoh Kamiyama (🎧️ 1680)]]"
 Creators:
   - "[[Anton Cloudjumper Gustin (🎙️ 968)]]"
-ListenInSec: 276
+ListenInSec: 279
 NumberInAlbum: 0
 related: []
 source: ""

@@ -9,9 +9,8 @@ CoverOf: ""
 Creators:
   - "[[Dean Fujioka (🎙️ 975)]]"
 Genres: []
-ListenInSec: 287
-Marks:
-  - "[[Anime]]"
+ListenInSec: 291
+Marks: []
 NumberInAlbum: 0
 related: []
 source: ""

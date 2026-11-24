@@ -9,9 +9,8 @@ CoverOf: ""
 Creators:
   - "[[no3b (🎙️ 1033)]]"
 Genres: []
-ListenInSec: 1427
-Marks:
-  - "[[Anime]]"
+ListenInSec: 1432
+Marks: []
 NumberInAlbum: 0
 related:
   - "[[Answer - no3b (🎧️ 2038)]]"

@@ -9,9 +9,8 @@ CoverOf: ""
 Creators:
   - "[[coldrain (🎙️ 820)]]"
 Genres: []
-ListenInSec: 900
-Marks:
-  - "[[Anime]]"
+ListenInSec: 904
+Marks: []
 NumberInAlbum: 0
 related: []
 SourceFile: "[[coldrain - VENGEANCE.mp3]]"

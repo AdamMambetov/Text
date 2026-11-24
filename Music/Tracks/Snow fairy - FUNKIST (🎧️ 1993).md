@@ -9,9 +9,8 @@ CoverOf: ""
 Creators:
   - "[[FUNKIST (🎙️ 794)]]"
 Genres: []
-ListenInSec: 983
-Marks:
-  - "[[Anime]]"
+ListenInSec: 987
+Marks: []
 NumberInAlbum: 0
 related: []
 source: ""

@@ -9,9 +9,8 @@ CoverOf: ""
 Creators:
   - "[[Eufonius (🎙️ 704)]]"
 Genres: []
-ListenInSec: 563
-Marks:
-  - "[[Anime]]"
+ListenInSec: 566
+Marks: []
 NumberInAlbum: 0
 related:
   - "[[Megumeru - Eufonius (🎧️ 1745)]]"

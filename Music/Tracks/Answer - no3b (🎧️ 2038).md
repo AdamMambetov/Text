@@ -9,9 +9,8 @@ CoverOf: ""
 Creators:
   - "[[no3b (🎙️ 1033)]]"
 Genres: []
-ListenInSec: 1129
-Marks:
-  - "[[Anime]]"
+ListenInSec: 1132
+Marks: []
 NumberInAlbum: 0
 related:
   - "[[Answer (TV Size) - no3b (🎧️ 2039)]]"

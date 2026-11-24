@@ -8,14 +8,16 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[FLOW (🎙️ 309)]]"
-ListenInSec: 2140
+ListenInSec: 2492
 Marks:
   - "[[Anime]]"
-NumberInAlbum: 1
-related:
-  - "[[Sign - FLOW]]"
+NumberInAlbum: 0
+related: []
 source: ""
 SourceFile: "[[FLOW - Sign (TV Size).mp3]]"
+Genres: []
+sources:
+  - "[[Наруто. Ураганные хроники (🇯🇵📺 12)|Наруто: Ураганные хроники|opening:6]]"
 ---
 
 # FLOW - Sign (TV Size)

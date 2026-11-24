@@ -4,12 +4,12 @@ aliases:
   - "Redo"
 Cover: "[[Konomi Suzuki - Redo.jpg]]"
 Year: 2016
-Album: "[[Redo — Konomi Suzuki]]"
+Album: "[[Redo (📀 49)]]"
 CoverOf: ""
 Creators:
   - "[[Konomi Suzuki (🎙️ 351)]]"
 Genres: []
-ListenInSec: 7356
+ListenInSec: 7611
 Marks:
   - "[[Anime]]"
 NumberInAlbum: 1

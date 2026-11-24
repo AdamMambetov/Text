@@ -9,9 +9,8 @@ CoverOf: ""
 Creators:
   - "[[SPLAY (🎙️ 801)]]"
 Genres: []
-ListenInSec: 7016
-Marks:
-  - "[[Anime]]"
+ListenInSec: 7020
+Marks: []
 NumberInAlbum: 0
 related: []
 SourceFile: "[[SPLAY - Drawing Days.mp3]]"

@@ -10,9 +10,8 @@ Creators:
   - "[[Hiroyuki Sawano (🎙️ 327)]]"
   - "[[Rei (🎙️ 808)]]"
 Genres: []
-ListenInSec: 1682
-Marks:
-  - "[[Anime]]"
+ListenInSec: 1688
+Marks: []
 NumberInAlbum: 0
 related:
   - "[[INERTIA - Hiroyuki Sawano (🎧️ 2065)]]"

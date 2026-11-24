@@ -9,11 +9,11 @@ CoverOf: ""
 Creators:
   - "[[SennaRin (🎙️ 812)]]"
 Genres: []
-ListenInSec: 903
-Marks:
-  - "[[Anime]]"
+ListenInSec: 917
+Marks: []
 NumberInAlbum: 0
-related: []
+related:
+  - "[[KONTINUUM (TV Size) - SennaRin (🎧️ 2066)]]"
 source: ""
 SourceFile: "[[SennaRin - KONTINUUM.mp3]]"
 sources:

@@ -2,7 +2,7 @@
 created: 2026-07-14T21:57:43+03:00
 aliases:
   - "FUNKIST"
-ListenInSec: 983
+ListenInSec: 987
 ---
 
 # FUNKIST

@@ -9,13 +9,16 @@ CoverOf: ""
 Creators:
   - "[[Sam Houghton (🎙️ 673)]]"
   - "[[Joe Collinson (🎙️ 674)]]"
-ListenInSec: 185
+ListenInSec: 197
 Marks:
   - "[[OST]]"
+  - "[[Game]]"
 NumberInAlbum: 6
 related: []
 source: ""
 SourceFile: "[[BPM OST - 09 Huggin's Shop.mp3]]"
+Genres: []
+sources: []
 ---
 
 # BPM OST - 06 Huggin's Shop

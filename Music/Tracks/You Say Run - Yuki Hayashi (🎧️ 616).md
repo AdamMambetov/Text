@@ -8,13 +8,16 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Yuki Hayashi (🎙️ 807)]]"
-ListenInSec: 326
+ListenInSec: 348
 Marks:
   - "[[Anime]]"
-NumberInAlbum: 1
+  - "[[OST]]"
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[My Hero Academia OST - You Say Run.mp3]]"
+Genres: []
+sources: []
 ---
 
 # My Hero Academia OST - You Say Run

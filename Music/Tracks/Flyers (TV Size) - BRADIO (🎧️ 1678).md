@@ -9,9 +9,8 @@ CoverOf: ""
 Creators:
   - "[[BRADIO (🎙️ 234)]]"
 Genres: []
-ListenInSec: 1880
-Marks:
-  - "[[Anime]]"
+ListenInSec: 1884
+Marks: []
 NumberInAlbum: 0
 related:
   - "[[Flyers - BRADIO (🎧️ 1193)]]"

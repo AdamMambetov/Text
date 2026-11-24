@@ -9,9 +9,8 @@ CoverOf: ""
 Creators:
   - "[[supercell (🎙️ 59)]]"
 Genres: []
-ListenInSec: 1894
-Marks:
-  - "[[Anime]]"
+ListenInSec: 1898
+Marks: []
 NumberInAlbum: 0
 related: []
 source: ""

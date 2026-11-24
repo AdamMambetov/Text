@@ -8,7 +8,7 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[BLUE ENCOUNT (🎙️ 864)]]"
-ListenInSec: 302
+ListenInSec: 307
 Marks:
   - "[[Anime]]"
 NumberInAlbum: 0

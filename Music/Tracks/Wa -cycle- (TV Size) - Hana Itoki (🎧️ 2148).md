@@ -12,9 +12,8 @@ CoverOf: ""
 Creators:
   - "[[Hana Itoki (🎙️ 1066)]]"
 Genres: []
-ListenInSec: 2052
-Marks:
-  - "[[Anime]]"
+ListenInSec: 2064
+Marks: []
 NumberInAlbum: 0
 related: []
 source: ""

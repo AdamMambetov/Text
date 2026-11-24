@@ -13,14 +13,13 @@ Creators:
 Genres:
   - "[[Electronic]]"
   - "[[Pop]]"
-ListenInSec: 672
-Marks:
-  - "[[Anime]]"
-  - "[[Cover]]"
+ListenInSec: 689
+Marks: []
 NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Onsa Media - Rightfully.mp3]]"
+sources: []
 ---
 
 # Onsa Media - Rightfully

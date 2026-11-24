@@ -10,9 +10,8 @@ Creators:
   - "[[JIMANG (🎙️ 1034)]]"
 Genres:
   - "[[Metal]]"
-ListenInSec: 1134
-Marks:
-  - "[[Anime]]"
+ListenInSec: 1143
+Marks: []
 NumberInAlbum: 0
 related: []
 source: ""

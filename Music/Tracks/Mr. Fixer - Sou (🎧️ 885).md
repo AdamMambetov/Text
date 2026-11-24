@@ -2,23 +2,22 @@
 created: 2024-01-04T12:14:17+03:00
 aliases:
   - "Mr. Fixer"
-  - "Id:Invaded OP 1"
-  - "ID: Вторжение OP 1"
-  - "ИД: Вторжение OP 1"
 Cover: "[[_No Album Art.jpg]]"
-Year: 0
+Year: 2020
 Album: ""
 CoverOf: ""
 Creators:
   - "[[Sou (🎙️ 706)]]"
-ListenInSec: 228
+ListenInSec: 465
 Marks:
   - "[[Anime]]"
 NumberInAlbum: 0
-related:
-  - "[[Mr. Fixer (TV Size) - Sou]]"
+related: []
 source: ""
 SourceFile: "[[Sou - Mr. Fixer.mp3]]"
+Genres: []
+sources:
+  - "[[ID. Вторжение (🇯🇵📺 358)|ID: Вторжение|opening:1]]"
 ---
 
 # Sou - Mr. Fixer

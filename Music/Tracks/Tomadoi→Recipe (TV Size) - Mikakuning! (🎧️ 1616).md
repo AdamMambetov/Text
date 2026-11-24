@@ -14,9 +14,8 @@ Genres:
   - "[[Dance]]"
   - "[[Pop]]"
   - "[[Rock]]"
-ListenInSec: 2070
+ListenInSec: 2079
 Marks:
-  - "[[Anime]]"
   - "[[Indie]]"
 NumberInAlbum: 0
 related:

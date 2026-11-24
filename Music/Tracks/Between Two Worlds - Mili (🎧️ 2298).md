@@ -9,13 +9,14 @@ CoverOf: ""
 Creators:
   - "[[Mili (🎙️ 699)]]"
 Genres: []
-ListenInSec: 7539
+ListenInSec: 7547
 Marks:
   - "[[Anime]]"
   - "[[Game]]"
   - "[[OST]]"
 NumberInAlbum: 0
-related: []
+related:
+  - "[[Between Two Worlds (Let's Lament) - Mili (🎧️ 2299)]]"
 source: ""
 SourceFile: "[[Mili - Between Two Worlds.opus]]"
 sources: []

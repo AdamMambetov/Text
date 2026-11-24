@@ -8,13 +8,16 @@ Album: ""
 CoverOf: "[[God Knows... - Hirano Aya (🎧️ 1598)]]"
 Creators:
   - "[[Ирина Попова (🎙️ 946)]]"
-ListenInSec: 858
+ListenInSec: 898
 Marks:
   - "[[Anime]]"
+  - "[[OST]]"
 NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[The Melancholy of Haruhi Suzumiya OST - God Knows....mp3]]"
+Genres: []
+sources: []
 ---
 
 # The Melancholy of Haruhi Suzumiya OST - God Knows...

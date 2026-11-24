@@ -10,9 +10,8 @@ Creators:
   - "[[Hiroyuki Sawano (🎙️ 327)]]"
   - "[[mizuki (🎙️ 660)]]"
 Genres: []
-ListenInSec: 3782
-Marks:
-  - "[[Anime]]"
+ListenInSec: 3787
+Marks: []
 NumberInAlbum: 0
 related: []
 source: ""

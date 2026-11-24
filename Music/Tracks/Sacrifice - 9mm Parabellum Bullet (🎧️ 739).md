@@ -4,17 +4,19 @@ aliases:
   - "Sacrifice"
 Cover: "[[_No Album Art.jpg]]"
 Year: 2017
-Album: "[[Sacrifice]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[9mm Parabellum Bullet (🎙️ 76)]]"
-ListenInSec: 268
-Marks:
-  - "[[Anime]]"
-NumberInAlbum: 1
+ListenInSec: 342
+Marks: []
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[9mm Parabellum Bullet - Sacrifice.mp3]]"
+Genres: []
+sources:
+  - "[[Berserk (2016) (🇯🇵📺 371)|Berserk (2016)|opening:2]]"
 ---
 
 # 9mm Parabellum Bullet - Sacrifice

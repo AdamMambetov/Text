@@ -9,9 +9,8 @@ CoverOf: ""
 Creators:
   - "[[Ikimonogakari (🎙️ 57)]]"
 Genres: []
-ListenInSec: 1678
-Marks:
-  - "[[Anime]]"
+ListenInSec: 1681
+Marks: []
 NumberInAlbum: 0
 related: []
 source: ""

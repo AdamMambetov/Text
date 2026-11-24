@@ -1634,6 +1634,7 @@ tracklist:
   - "[[Трейлер World of Warcraft. Wrath of the Lich King - World of Warcraft (🎧️ 2307)]]"
   - "[[INERTIA (TV Size) - Hiroyuki Sawano (🎧️ 2068)]]"
   - "[[Ano Hi no mama no Bokura - Sora Amamiya (🎧️ 1370)]]"
+  - "[[Fatima (TV Size) - Itou Kanako (🎧️ 1074)]]"
 ---
 
 # Favorites

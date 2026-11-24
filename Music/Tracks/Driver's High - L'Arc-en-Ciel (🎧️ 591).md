@@ -2,20 +2,19 @@
 created: 2023-07-09T18:27:52+03:00
 aliases:
   - "Driver's High"
-  - "GTO OP 1"
-  - "Great Teacher Onizuka OP 1"
-  - "Крутой учитель Онидзука OP 1"
 Cover: "[[_No Album Art.jpg]]"
-Year: 0
+Year: 1999
 Album: ""
 CoverOf: ""
 Creators:
   - "[[L'Arc-en-Ciel (🎙️ 707)]]"
-ListenInSec: 2627
-Marks:
-  - "[[Anime]]"
+ListenInSec: 2879
+Marks: []
 NumberInAlbum: 0
 related: []
 SourceFile: "[[L'Arc-en-Ciel - Driver's High.mp3]]"
+Genres: []
+sources:
+  - "[[Крутой учитель Онидзука (🇯🇵📺 454)|Крутой учитель Онидзука|opening:1]]"
 ---
 

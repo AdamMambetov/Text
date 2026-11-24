@@ -9,9 +9,8 @@ CoverOf: ""
 Creators:
   - "[[Linked Horizon (🎙️ 730)]]"
 Genres: []
-ListenInSec: 1343
-Marks:
-  - "[[Anime]]"
+ListenInSec: 1346
+Marks: []
 NumberInAlbum: 0
 related:
   - "[[Jiyuu no Tsubasa - Linked Horizon (🎧️ 1690)]]"
