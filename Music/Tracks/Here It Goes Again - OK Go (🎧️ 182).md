@@ -10,8 +10,8 @@ Creators:
   - "[[OK Go (🎙️ 397)]]"
 ListenInSec: 200
 Marks:
-  - "[[Series]]"
   - "[[OST]]"
+  - "[[Series]]"
 NumberInAlbum: 0
 related: []
 source: ""

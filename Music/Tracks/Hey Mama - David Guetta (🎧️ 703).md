@@ -1,0 +1,22 @@
+---
+created: 2023-09-29T16:23:42+03:00
+aliases:
+  - "Hey Mama"
+Cover: "[[David Guetta - Listen.jpg]]"
+Year: 2014
+Album: ""
+CoverOf: ""
+Creators:
+  - "[[David Guetta (🎙️ 277)]]"
+  - "[[Bebe Rexha (🎙️ 216)]]"
+  - "[[Afrojack (🎙️ 156)]]"
+ListenInSec: 201
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[David Guetta - Hey Mama.mp3]]"
+---
+
+# David Guetta - Hey Mama
+
+![[David Guetta - Hey Mama.mp3]]

@@ -4,13 +4,13 @@ aliases:
   - "Hangover"
 Cover: "[[Taio Cruz - TY.O.jpg]]"
 Year: 2011
-Album: "[[TY.O [2011] {Taio Cruz; Flo Rida}]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[Taio Cruz (🎙️ 453)]]"
   - "[[Flo Rida (🎙️ 308)]]"
 ListenInSec: 272
-NumberInAlbum: 1
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Taio Cruz - Hangover.mp3]]"

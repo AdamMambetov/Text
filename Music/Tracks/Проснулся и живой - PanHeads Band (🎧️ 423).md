@@ -5,7 +5,7 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 2014
 Album: ""
-CoverOf: "[[Awake and Alive - Skillet (🎧️ 1170)]]"
+CoverOf: "[[Awake and Alive - Skillet (🎧️ 1169)]]"
 Creators:
   - "[[PanHeads Band (🎙️ 407)]]"
 ListenInSec: 632

@@ -9,9 +9,8 @@ CoverOf: ""
 Creators:
   - "[[UNISON SQUARE GARDEN (🎙️ 763)]]"
 Genres: []
-ListenInSec: 581
-Marks:
-  - "[[Anime]]"
+ListenInSec: 585
+Marks: []
 NumberInAlbum: 0
 related: []
 source: ""

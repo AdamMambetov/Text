@@ -8,14 +8,13 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Mrs. GREEN APPLE (🎙️ 380)]]"
+Genres: []
 ListenInSec: 208
 Marks: []
 NumberInAlbum: 0
-related:
-  - "[[Inferno (TV Size) - Mrs. GREEN APPLE]]"
+related: []
 source: ""
 SourceFile: "[[Mrs. GREEN APPLE - Inferno.mp3]]"
-Genres: []
 sources:
   - "[[Пламенная бригада пожарных (🇯🇵📺 1109)|Пламенная бригада пожарных|opening:1]]"
 ---

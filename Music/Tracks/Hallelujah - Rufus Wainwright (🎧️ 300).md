@@ -4,7 +4,7 @@ aliases:
   - "Hallelujah"
 Cover: "[[Rufus Wainwright - Hallelujah.jpg]]"
 Year: 2001
-Album: "[[Shrek [2001]]]"
+Album: "[[Shrek 1 OST (📀 77)]]"
 CoverOf: ""
 Creators:
   - "[[Rufus Wainwright (🎙️ 544)]]"

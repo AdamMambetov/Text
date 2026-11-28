@@ -1,0 +1,20 @@
+---
+created: 2024-10-30T19:19:24+03:00
+aliases:
+  - "Fly on the Wall"
+Cover: "[[Thousand Foot Krutch - The End Is Where We Begin.jpg]]"
+Year: 2012
+Album: ""
+CoverOf: ""
+Creators:
+  - "[[Thousand Foot Krutch (🎙️ 466)]]"
+ListenInSec: 230
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[Thousand Foot Krutch - Fly on the Wall.mp3]]"
+---
+
+# Thousand Foot Krutch - Fly on the Wall
+
+![[Thousand Foot Krutch - Fly on the Wall.mp3]]

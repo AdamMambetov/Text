@@ -4,12 +4,12 @@ aliases:
   - "Omoide wa Kirei de (The Memories Are Beautiful)"
 Cover: "[[Aimer - Black Bird.jpg]]"
 Year: 2018
-Album: "[[Black Bird]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[Aimer (🎙️ 159)]]"
 ListenInSec: 212
-NumberInAlbum: 3
+NumberInAlbum: 0
 related: []
 SourceFile: "[[Aimer - Omoide wa Kirei de.mp3]]"
 ---

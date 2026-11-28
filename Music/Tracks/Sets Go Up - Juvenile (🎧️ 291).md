@@ -4,13 +4,13 @@ aliases:
   - "Sets Go Up"
 Cover: "[[Juvenile - Reality Check.jpg]]"
 Year: 2006
-Album: "[[Reality Check [2006] {Juvenile; Wacko}]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[Juvenile (🎙️ 539)]]"
   - "[[Wacko (🎙️ 540)]]"
 ListenInSec: 253
-NumberInAlbum: 4
+NumberInAlbum: 0
 related: []
 SourceFile: "[[Juvenile - Sets Go Up.mp3]]"
 ---

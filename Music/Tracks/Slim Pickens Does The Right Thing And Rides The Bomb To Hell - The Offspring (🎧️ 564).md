@@ -4,12 +4,12 @@ aliases:
   - "Slim Pickens Does The Right Thing And Rides The Bomb To Hell"
 Cover: "[[The Offspring - Days Go By.png]]"
 Year: 2012
-Album: "[[Days Go By]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[The Offspring (🎙️ 457)]]"
 ListenInSec: 313
-NumberInAlbum: 12
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[The Offspring - Slim Pickens Does The Right Thing And Rides The Bomb To Hell.mp3]]"

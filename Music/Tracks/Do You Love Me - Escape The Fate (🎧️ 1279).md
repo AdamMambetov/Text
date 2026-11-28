@@ -1,0 +1,20 @@
+---
+created: 2024-10-23T14:27:00+03:00
+aliases:
+  - "Do You Love Me?"
+Cover: "[[Escape The Fate - I Am Human.jpg]]"
+Year: 2017
+Album: ""
+CoverOf: ""
+Creators:
+  - "[[Escape The Fate (🎙️ 301)]]"
+ListenInSec: 313
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[Escape The Fate - Do You Love Me.mp3]]"
+---
+
+# Escape The Fate - Do You Love Me
+
+![[Escape The Fate - Do You Love Me.mp3]]

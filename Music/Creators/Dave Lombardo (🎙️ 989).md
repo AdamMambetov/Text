@@ -2,7 +2,7 @@
 created: 2026-09-03T02:28:53+03:00
 aliases:
   - "Dave Lombardo"
-ListenInSec: 0
+ListenInSec: 273
 ---
 
 # Dave Lombardo

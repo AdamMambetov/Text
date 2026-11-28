@@ -15,7 +15,7 @@ Creators:
 ListenInSec: 368
 NumberInAlbum: 0
 related:
-  - "[[Синяя птица - Radiant Records (🎧️ 1063)]]"
+  - "[[Синяя птица - Radiant Records (🎧️ 1062)]]"
 source: ""
 SourceFile: "[[Radiant Records - Синяя птица (TV Size).mp3]]"
 ---

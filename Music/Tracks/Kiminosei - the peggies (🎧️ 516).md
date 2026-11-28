@@ -8,14 +8,13 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[the peggies (🎙️ 458)]]"
-ListenInSec: 805
-Marks:
-  - "[[Anime]]"
+Genres: []
+ListenInSec: 809
+Marks: []
 NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[the peggies - Kiminosei.mp3]]"
-Genres: []
 sources:
   - "[[Этот глупый свин не понимает мечту девочки-зайки (🇯🇵📺 525)|Этот глупый свин не понимает мечту девочки-зайки|opening:1]]"
 ---

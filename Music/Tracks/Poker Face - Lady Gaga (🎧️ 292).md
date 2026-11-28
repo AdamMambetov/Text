@@ -4,12 +4,12 @@ aliases:
   - "Poker Face"
 Cover: "[[Lady Gaga - The Fame.jpg]]"
 Year: 2008
-Album: "[[The Fame [2008] {Lady Gaga}]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[Lady Gaga (🎙️ 357)]]"
 ListenInSec: 242
-NumberInAlbum: 6
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Lady Gaga - Poker Face.mp3]]"

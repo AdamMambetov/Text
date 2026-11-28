@@ -4,12 +4,12 @@ aliases:
   - "Lift Me Up"
 Cover: "[[Five Finger Death Punch - Lift Me Up.jpg]]"
 Year: 2017
-Album: "[[A Decade of Destruction]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[Five Finger Death Punch (🎙️ 307)]]"
 ListenInSec: 247
-NumberInAlbum: 3
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Five Finger Death Punch - Lift Me Up.mp3]]"

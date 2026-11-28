@@ -8,14 +8,13 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[9mm Parabellum Bullet (🎙️ 76)]]"
-ListenInSec: 1606
-Marks:
-  - "[[Anime]]"
+Genres: []
+ListenInSec: 1611
+Marks: []
 NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[9mm Parabellum Bullet - Inferno.mp3]]"
-Genres: []
 sources:
   - "[[Berserk (2016) (🇯🇵📺 371)|Berserk (2016)|opening:1]]"
 ---

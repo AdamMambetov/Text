@@ -4,12 +4,12 @@ aliases:
   - "Half-Truism"
 Cover: "[[The Offspring - Rise And Fall, Rage And Grace.jpg]]"
 Year: 2008
-Album: "[[Rise And Fall, Rage And Grace [2008] {The Offspring}]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[The Offspring (🎙️ 457)]]"
 ListenInSec: 205
-NumberInAlbum: 1
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[The Offspring - Half-Truism.mp3]]"

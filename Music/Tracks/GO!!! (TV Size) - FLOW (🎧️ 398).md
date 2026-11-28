@@ -8,12 +8,12 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[FLOW (🎙️ 309)]]"
+Genres: []
 ListenInSec: 4014
 Marks: []
 NumberInAlbum: 0
 related: []
 SourceFile: "[[FLOW - GO!!! (TV Size).mp3]]"
-Genres: []
 sources:
   - "[[Naruto (🇯🇵📺 6)|Naruto|opening:4]]"
 ---

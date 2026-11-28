@@ -9,7 +9,7 @@ CoverOf: ""
 Creators:
   - "[[Karetus (🎙️ 486)]]"
 ListenInSec: 164
-NumberInAlbum: 1
+NumberInAlbum: 0
 related: []
 source: https://osu.ppy.sh/beatmapsets/974058#osu/2174699
 SourceFile: "[[Karetus - Full Flavor.mp3]]"

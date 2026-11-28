@@ -4,12 +4,12 @@ aliases:
   - "Set It On Fire"
 Cover: "[[My Darkest Days - My Darkest Days.jpg]]"
 Year: 2010
-Album: "[[My Darkest Days [2010] {My Darkest Days}]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[My Darkest Days (🎙️ 571)]]"
 ListenInSec: 411
-NumberInAlbum: 7
+NumberInAlbum: 0
 related: []
 source:
 SourceFile: "[[My Darkest Days - Set It On Fire.mp3]]"

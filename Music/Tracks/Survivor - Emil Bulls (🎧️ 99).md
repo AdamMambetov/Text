@@ -9,7 +9,7 @@ CoverOf: ""
 Creators:
   - "[[Emil Bulls (🎙️ 501)]]"
 ListenInSec: 249
-NumberInAlbum: 1
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Emil Bulls - Survivor.mp3]]"

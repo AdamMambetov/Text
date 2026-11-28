@@ -1,0 +1,20 @@
+---
+created: 2024-10-13T23:30:28+03:00
+aliases:
+  - "Day of the Dead"
+Cover: "[[Hollywood Undead - Day Of The Dead.jpg]]"
+Year: 2014
+Album: ""
+CoverOf: ""
+Creators:
+  - "[[Hollywood Undead (🎙️ 328)]]"
+ListenInSec: 342
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[Hollywood Undead - Day Of The Dead.mp3]]"
+---
+
+# Hollywood Undead - Day Of The Dead
+
+![[Hollywood Undead - Day Of The Dead.mp3]]

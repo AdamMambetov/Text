@@ -4,12 +4,12 @@ aliases:
   - "Secrets From The Underground"
 Cover: "[[The Offspring - Days Go By.png]]"
 Year: 2012
-Album: "[[Days Go By [2012] {The Offspring}]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[The Offspring (🎙️ 457)]]"
 ListenInSec: 191
-NumberInAlbum: 2
+NumberInAlbum: 0
 related: []
 SourceFile: "[[The Offspring - Secrets From The Underground.mp3]]"
 ---

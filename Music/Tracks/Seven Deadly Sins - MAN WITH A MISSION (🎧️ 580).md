@@ -8,13 +8,13 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[MAN WITH A MISSION (🎙️ 645)]]"
+Genres: []
 ListenInSec: 457
 Marks: []
 NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[MAN WITH A MISSION - Seven Deadly Sins.mp3]]"
-Genres: []
 sources:
   - "[[Семь смертных грехов (🇯🇵📺 532)|Семь смертных грехов|opening:2]]"
 ---

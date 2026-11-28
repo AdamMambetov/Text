@@ -9,7 +9,7 @@ CoverOf: ""
 Creators:
   - "[[Hanasaka Yui (🎙️ 561)]]"
 ListenInSec: 175
-NumberInAlbum: 1
+NumberInAlbum: 0
 related: []
 source:
 SourceFile: "[[Hanasaka Yui - Harumachi Clover (TV Size).mp3]]"

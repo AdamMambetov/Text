@@ -4,18 +4,18 @@ aliases:
   - "Haruka Kanata"
 Cover: "[[_No Album Art.jpg]]"
 Year: 2002
-Album: ""
+Album: "[[Naruto OST 2 (📀 16)]]"
 CoverOf: ""
 Creators:
   - "[[ASIAN KUNG-FU GENERATION (🎙️ 193)]]"
+Genres: []
 ListenInSec: 346
 Marks: []
-NumberInAlbum: 0
+NumberInAlbum: 1
 related:
   - "[[Haruka Kanata (TV Size) - ASIAN KUNG-FU GENERATION (🎧️ 406)]]"
 source: ""
 SourceFile: "[[ASIAN KUNG-FU GENERATION - Haruka Kanata.mp3]]"
-Genres: []
 sources:
   - "[[Naruto (🇯🇵📺 6)|Naruto|opening:2]]"
 ---

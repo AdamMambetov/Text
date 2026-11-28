@@ -1,0 +1,23 @@
+---
+created: 2023-09-29T16:28:52+03:00
+aliases:
+  - "Invincible"
+Cover: "[[Spider-Man Into the Spider-Verse OST.jpg]]"
+Year: 2018
+Album: ""
+CoverOf: ""
+Creators:
+  - "[[Amine (🎙️ 177)]]"
+ListenInSec: -196
+Marks:
+  - "[[Film]]"
+  - "[[OST]]"
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[Spider-Man Into the Spider-Verse OST - Invincible.mp3]]"
+---
+
+# Spider-Man Into the Spider-Verse OST - Invincible
+
+![[Spider-Man Into the Spider-Verse OST - Invincible.mp3]]

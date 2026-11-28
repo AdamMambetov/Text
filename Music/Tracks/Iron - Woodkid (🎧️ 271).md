@@ -5,12 +5,12 @@ aliases:
   - "Assassins Creed Revelations Trailer"
 Cover: "[[Woodkid - Iron.jpg]]"
 Year: 2011
-Album: "[[Iron [2011] {Woodkid}]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[Woodkid (🎙️ 480)]]"
 ListenInSec: 371
-NumberInAlbum: 1
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Woodkid - Iron.mp3]]"

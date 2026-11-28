@@ -8,7 +8,7 @@ Creators:
   - "[[Rovio (🎙️ 1104)]]"
 source: https://downloads.khinsider.com/game-soundtracks/album/bad-piggies-android-ios-mobile-windows-gamerip-2012
 tracklist:
-  - "[[Main Theme - Ilmari Hakkola (🎧️ 1543)]]"
+  - "[[Main Theme - Ilmari Hakkola (🎧️ 1542)]]"
 ---
 
 # Bad Piggies OST

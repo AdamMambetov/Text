@@ -8,14 +8,13 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Larval Stage Planning (🎙️ 832)]]"
-ListenInSec: 714
-Marks:
-  - "[[Anime]]"
+Genres: []
+ListenInSec: 718
+Marks: []
 NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Larval Stage Planning - Trip -innocent of D-.opus]]"
-Genres: []
 sources:
   - "[[Старшая школа DxD (🇯🇵📺 843)|Старшая школа DxD|opening:1]]"
 ---

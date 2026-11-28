@@ -4,7 +4,7 @@ aliases:
   - "Sacred & Wild"
 Cover: "[[Powerwolf - The Sacrament of Sin.jpg]]"
 Year: 2018
-Album: "[[The Sacrament of Sin (📀 39)]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[Epica (🎙️ 292)]]"

@@ -4,12 +4,12 @@ aliases:
   - "Spirits"
 Cover: "[[The Strumbellas - Hope.jpg]]"
 Year: 2016
-Album: "[[Hope]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[The Strumbellas (🎙️ 642)]]"
 ListenInSec: 408
-NumberInAlbum: 1
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[The Strumbellas - Spirits.mp3]]"

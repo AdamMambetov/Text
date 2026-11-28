@@ -4,12 +4,12 @@ aliases:
   - "Coward Killing Time"
 Cover: "[[_No Album Art.jpg]]"
 Year: 2008
-Album: "[[The Quick Brown Fox]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[The Quick Brown Fox (🎙️ 460)]]"
 ListenInSec: 189
-NumberInAlbum: 10
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[The Quick Brown Fox - Coward Killing Time.mp3]]"

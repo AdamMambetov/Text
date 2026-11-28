@@ -4,12 +4,12 @@ aliases:
   - "Someday"
 Cover: "[[OneRepublic - Human.jpg]]"
 Year: 2021
-Album: "[[Human]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[OneRepublic (🎙️ 399)]]"
 ListenInSec: 374
-NumberInAlbum: 3
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[OneRepublic - Someday.mp3]]"

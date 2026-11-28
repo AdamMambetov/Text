@@ -4,12 +4,12 @@ aliases:
   - "Sparta"
 Cover: "[[Monoral - Sparta.jpg]]"
 Year: 2007
-Album: "[[Turbulence (International)]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[Monoral (🎙️ 164)]]"
 ListenInSec: 257
-NumberInAlbum: 1
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Monoral - Sparta.mp3]]"

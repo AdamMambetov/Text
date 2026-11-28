@@ -1,0 +1,20 @@
+---
+created: 2024-10-23T15:05:20+03:00
+aliases:
+  - "Everything Black"
+Cover: "[[Everything Black.png]]"
+Year: 2017
+Album: ""
+CoverOf: ""
+Creators:
+  - "[[Unlike Pluto (🎙️ 895)]]"
+ListenInSec: -229
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[Unlike Pluto - Everything Black.mp3]]"
+---
+
+# Unlike Pluto - Everything Black
+
+![[Unlike Pluto - Everything Black.mp3]]

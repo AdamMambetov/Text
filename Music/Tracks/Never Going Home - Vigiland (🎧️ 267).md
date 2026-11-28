@@ -4,12 +4,12 @@ aliases:
   - "Never Going Home"
 Cover: "[[Vigiland - V.jpg]]"
 Year: 2018
-Album: "[[V [2018] {Vigiland}]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[Vigiland (🎙️ 477)]]"
 ListenInSec: 214
-NumberInAlbum: 4
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Vigiland - Never Going Home.mp3]]"

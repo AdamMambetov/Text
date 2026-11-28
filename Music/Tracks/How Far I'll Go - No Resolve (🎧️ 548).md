@@ -4,12 +4,12 @@ aliases:
   - "How Far I'll Go"
 Cover: "[[No Resolve - Surface Pressure.jpg]]"
 Year: 2022
-Album: "[[Surface Pressure]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[No Resolve (🎙️ 391)]]"
 ListenInSec: 167
-NumberInAlbum: 2
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[No Resolve - How Far I'll Go.mp3]]"

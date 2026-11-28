@@ -1,0 +1,20 @@
+---
+created: 2023-09-29T16:23:28+03:00
+aliases:
+  - "Get Lucky"
+Cover: "[[Daft Punk - Random Access Memories.jpg]]"
+Year: 2013
+Album: ""
+CoverOf: ""
+Creators:
+  - "[[Daft Punk (🎙️ 272)]]"
+ListenInSec: 250
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[Daft Punk - Get Lucky.mp3]]"
+---
+
+# Daft Punk - Get Lucky
+
+![[Daft Punk - Get Lucky.mp3]]

@@ -4,12 +4,12 @@ aliases:
   - "I Don't Care"
 Cover: "[[Fall Out Boy - Greatest Hits. Believers Never Die.jpg]]"
 Year: 2008
-Album: "[[Folie a Deux [2008] {Fall Out Boy}]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[Fall Out Boy (🎙️ 304)]]"
 ListenInSec: 311
-NumberInAlbum: 2
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Fall Out Boy - I Don't Care.mp3]]"

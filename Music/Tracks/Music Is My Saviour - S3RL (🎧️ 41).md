@@ -4,7 +4,7 @@ aliases:
   - "Music Is My Saviour"
 Cover: "[[S3RL - Music Is My Savior.jpg]]"
 Year: 0
-Album: "[[Music Is My Savior]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[S3RL (🎙️ 499)]]"

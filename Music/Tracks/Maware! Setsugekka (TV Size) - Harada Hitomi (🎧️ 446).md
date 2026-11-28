@@ -11,9 +11,8 @@ Creators:
   - "[[Kayano Ai (🎙️ 579)]]"
   - "[[Ogura Yui (🎙️ 580)]]"
 Genres: []
-ListenInSec: 583
-Marks:
-  - "[[Anime]]"
+ListenInSec: 589
+Marks: []
 NumberInAlbum: 0
 related: []
 source: ""

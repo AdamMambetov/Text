@@ -4,12 +4,12 @@ aliases:
   - "Surface Pressure"
 Cover: "[[No Resolve - Surface Pressure.jpg]]"
 Year: 2022
-Album: "[[Surface Pressure]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[No Resolve (🎙️ 391)]]"
 ListenInSec: 446
-NumberInAlbum: 1
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[No Resolve - Surface Pressure.mp3]]"

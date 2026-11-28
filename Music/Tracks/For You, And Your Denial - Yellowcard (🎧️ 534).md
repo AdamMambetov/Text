@@ -4,12 +4,12 @@ aliases:
   - "For You, And Your Denial"
 Cover: "[[Yellowcard - When You're Through Thinking, Say Yes.jpg]]"
 Year: 2011
-Album: "[[When You're Through Thinking, Say Yes]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[Yellowcard (🎙️ 482)]]"
 ListenInSec: 411
-NumberInAlbum: 2
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Yellowcard - For You, And Your Denial.mp3]]"

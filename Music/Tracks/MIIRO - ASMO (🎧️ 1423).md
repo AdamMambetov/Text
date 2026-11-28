@@ -1,0 +1,20 @@
+---
+created: 2025-01-07T21:54:52+03:00
+aliases:
+  - "MIIRO"
+Cover: "[[_No Album Art.jpg]]"
+Year: 0
+Album: ""
+CoverOf: "[[MIIRO - AKINO (🎧️ 449)]]"
+Creators:
+  - "[[ASMO (🎙️ 722)]]"
+ListenInSec: 811
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[Kun-Kun - Miiro.mp3]]"
+---
+
+# Kun-Kun - Miiro
+
+![[Kun-Kun - Miiro.mp3]]

@@ -4,7 +4,7 @@ aliases:
   - "I'm A Believer"
 Cover: "[[Smash Mouth - I'm A Believer.jpg]]"
 Year: 2001
-Album: ""
+Album: "[[Shrek 1 OST (📀 77)]]"
 CoverOf: ""
 Creators:
   - "[[Smash Mouth (🎙️ 440)]]"
@@ -12,7 +12,7 @@ ListenInSec: 361
 Marks:
   - "[[Film]]"
   - "[[OST]]"
-NumberInAlbum: 0
+NumberInAlbum: 2
 related: []
 source: ""
 SourceFile: "[[Smash Mouth - I'm A Believer.mp3]]"

@@ -10,9 +10,9 @@ Year: 2007
 Creators: []
 source: https://en.wikipedia.org/wiki/Shrek_the_Third_(soundtrack)
 tracklist:
-  - "[[Royal Pain - Eels (🎧️ 1641)]]"
+  - "[[Royal Pain - Eels (🎧️ 1640)]]"
   - "Do You Remember Rock 'n' Roll Radio? - The Ramones"
-  - "[[Immigrant Song - Led Zeppelin (🎧️ 1372)]]"
+  - "[[Immigrant Song - Led Zeppelin (🎧️ 1371)]]"
   - "Barracuda - Fergie"
   - "Live and Let Die - Paul McCartney & Wings"
   - "Best Days - Matt White"

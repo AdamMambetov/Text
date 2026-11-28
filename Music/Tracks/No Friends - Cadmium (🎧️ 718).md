@@ -1,0 +1,20 @@
+---
+created: 2023-09-29T16:23:58+03:00
+aliases:
+  - "No Friends"
+Cover: "[[Cadmium - No Friends.jpg]]"
+Year: 2020
+Album: ""
+CoverOf: ""
+Creators:
+  - "[[Cadmium (🎙️ 244)]]"
+ListenInSec: 245
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[Cadmium - No Friends.mp3]]"
+---
+
+# Cadmium - No Friends
+
+![[Cadmium - No Friends.mp3]]

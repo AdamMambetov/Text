@@ -4,12 +4,12 @@ aliases:
   - "TaKillYa"
 Cover: "[[Vinnie Maniscalco - TaKillYa.jpg]]"
 Year: 2017
-Album: "[[TaKillYa [2017] {Vinnie Maniscalco}]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[Vinnie Maniscalco (🎙️ 536)]]"
 ListenInSec: -223
-NumberInAlbum: 1
+NumberInAlbum: 0
 related: []
 source:
 SourceFile: "[[Vinnie Maniscalco - TaKillYa.mp3]]"

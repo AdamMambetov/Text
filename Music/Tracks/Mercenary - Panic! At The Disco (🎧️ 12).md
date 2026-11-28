@@ -4,14 +4,14 @@ aliases:
   - "Mercenary"
 Cover: "[[Panic! At The Disco - Mercenary.jpg]]"
 Year: 2011
-Album: "[[Batman: Arkham City 2011]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[Panic! At The Disco (🎙️ 408)]]"
 ListenInSec: 184
 Marks:
-  - "[[Game]]"
   - "[[Film]]"
+  - "[[Game]]"
   - "[[OST]]"
 NumberInAlbum: 0
 related: []

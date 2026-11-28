@@ -1,0 +1,23 @@
+---
+created: 2024-04-12T15:04:21+03:00
+aliases:
+  - "apathy"
+  - "Безразличие"
+Cover: "[[Umineko no Naku Koro Ni OST 1.jpg]]"
+Year: 2007
+Album: "[[Umineko no Naku Koro ni OST (📀 30)]]"
+CoverOf: ""
+Creators:
+  - "[[zts (🎙️ 15)]]"
+ListenInSec: 2592
+Marks:
+  - "[[OST]]"
+NumberInAlbum: 73
+related: []
+source: ""
+SourceFile: "[[Umineko no Naku Koro ni OST - 090 Безразличие.ogg]]"
+---
+
+# Umineko no Naku Koro ni OST - 090 Безразличие
+
+![[Umineko no Naku Koro ni OST - 090 Безразличие.ogg]]

@@ -5,7 +5,7 @@ aliases:
 Cover: "[[Epica - Epica vs. Attack on Titan Songs.png]]"
 Year: 2017
 Album: ""
-CoverOf: "[[Jiyuu no Tsubasa - Linked Horizon (🎧️ 1690)]]"
+CoverOf: "[[Jiyuu no Tsubasa - Linked Horizon (🎧️ 1689)]]"
 Creators:
   - "[[Epica (🎙️ 292)]]"
 ListenInSec: 332

@@ -1,0 +1,20 @@
+---
+created: 2025-01-08T18:18:55+03:00
+aliases:
+  - "Ding"
+Cover: "[[_No Album Art.jpg]]"
+Year: 0
+Album: ""
+CoverOf: ""
+Creators:
+  - "[[Feuerschwanz (🎙️ 753)]]"
+ListenInSec: 230
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[Feuerschwanz - Ding.mp3]]"
+---
+
+# Feuerschwanz - Ding
+
+![[Feuerschwanz - Ding.mp3]]

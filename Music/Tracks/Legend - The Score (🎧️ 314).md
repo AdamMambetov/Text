@@ -4,12 +4,12 @@ aliases:
   - "Legend"
 Cover: "[[The Score - ATLAS.jpg]]"
 Year: 2017
-Album: "[[Atlas [2017] {The Score}]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[The Score (🎙️ 461)]]"
 ListenInSec: 196
-NumberInAlbum: 2
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[The Score - Legend.mp3]]"

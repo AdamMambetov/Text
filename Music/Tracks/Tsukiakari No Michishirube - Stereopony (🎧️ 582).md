@@ -15,7 +15,7 @@ Marks:
   - "[[Anime]]"
 NumberInAlbum: 0
 related:
-  - "[[Tsukiakari No Michishirube (TV Size) - Stereopony (🎧️ 1693)]]"
+  - "[[Tsukiakari No Michishirube (TV Size) - Stereopony (🎧️ 1692)]]"
 source: ""
 SourceFile: "[[Stereopony - Tsukiakari No Michishirube.mp3]]"
 ---

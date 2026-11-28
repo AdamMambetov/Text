@@ -27,11 +27,11 @@ tracklist:
   - "[[Glued State - Musashi Project (🎧️ 363)]]"
   - "Need to Be Strong"
   - "[[Bad Situation - Musashi Project (🎧️ 364)]]"
-  - "[[Strong and Strike - Musashi Project (🎧️ 801)]]"
+  - "[[Strong and Strike - Musashi Project (🎧️ 800)]]"
   - "Reversal"
   - "Victory"
   - "[[Naruto Main Theme - Musashi Project (🎧️ 366)]]"
-  - "[[Wind - Akeboshi (🎧️ 1631)]]"
+  - "[[Wind - Akeboshi (🎧️ 1630)]]"
 ---
 
 ![[Naruto OST 1.jpg]]

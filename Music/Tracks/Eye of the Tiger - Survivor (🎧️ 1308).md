@@ -1,0 +1,20 @@
+---
+created: 2024-10-23T15:10:26+03:00
+aliases:
+  - "Eye of the Tiger"
+Cover: "[[Survivor - Eye of the Tiger.jpg]]"
+Year: 1982
+Album: ""
+CoverOf: ""
+Creators:
+  - "[[Survivor (🎙️ 449)]]"
+ListenInSec: 299
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[Survivor - Eye of the Tiger.mp3]]"
+---
+
+# Survivor - Eye of the Tiger
+
+![[Survivor - Eye of the Tiger.mp3]]

@@ -4,12 +4,12 @@ aliases:
   - "Believer"
 Cover: "[[3 Doors Down - Time of My Life.jpg]]"
 Year: 0
-Album: ""
+Album: "[[Time of My Life (📀 32)]]"
 CoverOf: ""
 Creators:
   - "[[3 Doors Down (🎙️ 32)]]"
 ListenInSec: 375
-NumberInAlbum: 0
+NumberInAlbum: 12
 related: []
 source:
 SourceFile: "[[3 Doors Down - Believer.mp3]]"

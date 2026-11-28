@@ -1,0 +1,21 @@
+---
+created: 2025-01-07T19:59:30+03:00
+aliases:
+  - "The Beast Is Out There"
+Cover: "[[Over the Garden Wall OST.jpg]]"
+Year: 0
+Album: ""
+CoverOf: ""
+Creators:
+  - "[[The Blasting Company (🎙️ 917)]]"
+  - "[[Audrey Wasilewski (🎙️ 927)]]"
+ListenInSec: -46
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[Over the Garden Wall OST - 11 The Beast Is Out There feat. Audrey Wasilewski.mp3]]"
+---
+
+# Over the Garden Wall OST - 11 The Beast Is Out There feat. Audrey Wasilewski
+
+![[Over the Garden Wall OST - 11 The Beast Is Out There feat. Audrey Wasilewski.mp3]]

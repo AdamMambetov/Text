@@ -1,0 +1,24 @@
+---
+created: 2024-04-12T15:04:09+03:00
+aliases:
+  - "hope"
+  - "Надежда"
+Cover: "[[Umineko no Naku Koro Ni OST 1.jpg]]"
+Year: 2007
+Album: "[[Umineko no Naku Koro ni OST (📀 30)]]"
+CoverOf: ""
+Creators:
+  - "[[dai (🎙️ 3)]]"
+ListenInSec: 605
+Marks:
+  - "[[OST]]"
+NumberInAlbum: 8
+related:
+  - "[[Moshimo Boku ga -hope- - dai (🎧️ 2150)]]"
+source: ""
+SourceFile: "[[Umineko no Naku Koro ni OST - 008 Надежда.ogg]]"
+---
+
+# Umineko no Naku Koro ni OST - 008 Надежда
+
+![[Umineko no Naku Koro ni OST - 008 Надежда.ogg]]

@@ -4,12 +4,12 @@ aliases:
   - "Rise"
 Cover: "[[Skillet - Vital Signs.jpg]]"
 Year: 2013
-Album: "[[Rise [2013] {Skillet}]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[Skillet (🎙️ 438)]]"
 ListenInSec: 377
-NumberInAlbum: 1
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Skillet - Rise.mp3]]"

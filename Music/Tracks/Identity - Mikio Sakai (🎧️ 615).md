@@ -8,13 +8,12 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Mikio Sakai (🎙️ 741)]]"
-ListenInSec: 3623
-Marks:
-  - "[[Anime]]"
+Genres: []
+ListenInSec: 3627
+Marks: []
 NumberInAlbum: 0
 related: []
 SourceFile: "[[Mikio Sakai - Identity.mp3]]"
-Genres: []
 sources:
   - "[[Доблесть рыцаря-неудачника (🇯🇵📺 591)|Доблесть рыцаря-неудачника|opening:1]]"
 ---

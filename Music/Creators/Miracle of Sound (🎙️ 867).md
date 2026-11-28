@@ -2,7 +2,7 @@
 created: 2026-08-19T00:27:57+03:00
 aliases:
   - "Miracle of Sound"
-ListenInSec: 0
+ListenInSec: 458
 ---
 
 # Miracle of Sound

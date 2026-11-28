@@ -11,9 +11,9 @@ Creators:
   - "[[Mixie Moon (🎙️ 500)]]"
   - "[[MC Offside (🎙️ 906)]]"
 ListenInSec: 512
-NumberInAlbum: 1
+NumberInAlbum: 0
 related:
-  - "[[Friendzoned - S3RL (🎧️ 1359)]]"
+  - "[[Friendzoned - S3RL (🎧️ 1358)]]"
 source: ""
 SourceFile: "[[S3RL ft. Mixie Moon - FriendZoned (osu ver).mp3]]"
 ---

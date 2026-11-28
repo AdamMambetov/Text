@@ -4,12 +4,12 @@ aliases:
   - "New Lights(Extended Mix)"
 Cover: "[[kors k - New Lights (Extended Mix).jpg]]"
 Year: 2015
-Album: "[[Let's Do It Again!!]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[kors k (🎙️ 643)]]"
 ListenInSec: 179
-NumberInAlbum: 1
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[kors k - New Lights (Extended Mix).mp3]]"

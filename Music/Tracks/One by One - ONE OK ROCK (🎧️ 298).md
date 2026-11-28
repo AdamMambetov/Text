@@ -4,12 +4,12 @@ aliases:
   - "One by One"
 Cover: "[[ONE OK ROCK - 35xxxv.jpg]]"
 Year: 2015
-Album: "[[35xxxv [2015] {One Ok Rock}]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[ONE OK ROCK (🎙️ 398)]]"
 ListenInSec: 221
-NumberInAlbum: 11
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[ONE OK ROCK - One by One.mp3]]"

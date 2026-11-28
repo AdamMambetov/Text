@@ -4,7 +4,7 @@ aliases:
   - "Sunflower"
 Cover: "[[Spider-Man Into the Spider-Verse OST.jpg]]"
 Year: 2018
-Album: "[[Spider-Man Into the Spider-Verse OST (📀 24)]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[Post Malone (🎙️ 415)]]"
@@ -13,7 +13,7 @@ ListenInSec: 1103
 Marks:
   - "[[Film]]"
   - "[[OST]]"
-NumberInAlbum: 2
+NumberInAlbum: 0
 related: []
 SourceFile: "[[Spider-Man Into the Spider-Verse OST - Sunflower.mp3]]"
 ---

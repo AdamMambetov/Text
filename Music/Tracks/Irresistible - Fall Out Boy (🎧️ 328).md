@@ -4,12 +4,12 @@ aliases:
   - "Irresistible"
 Cover: "[[Fall Out Boy - Greatest Hits. Believers Never Die - Volume Two.jpg]]"
 Year: 2015
-Album: "[[American Beauty/American Psycho [2015] {Fall Out Boy}]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[Fall Out Boy (🎙️ 304)]]"
 ListenInSec: 219
-NumberInAlbum: 1
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Fall Out Boy - Irresistible.mp3]]"

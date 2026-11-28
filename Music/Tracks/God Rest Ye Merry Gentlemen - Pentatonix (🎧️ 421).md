@@ -4,12 +4,12 @@ aliases:
   - "God Rest Ye Merry Gentlemen"
 Cover: "[[Pentatonix - God Rest Ye Merry Gentlemen.jpg]]"
 Year: 2019
-Album: "[[The Best Of Pentatonix Christmas]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[Pentatonix (🎙️ 572)]]"
 ListenInSec: 298
-NumberInAlbum: 10
+NumberInAlbum: 0
 related: []
 source:
 SourceFile: "[[Pentatonix - God Rest Ye Merry Gentlemen.mp3]]"

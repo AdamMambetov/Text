@@ -4,12 +4,12 @@ aliases:
   - "Low"
 Cover: "[[Flo Rida - Low.jpg]]"
 Year: 2008
-Album: "[[Low]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[Flo Rida (🎙️ 308)]]"
 ListenInSec: 231
-NumberInAlbum: 1
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Flo Rida - Low.mp3]]"

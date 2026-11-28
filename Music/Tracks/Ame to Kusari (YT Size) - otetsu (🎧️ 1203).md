@@ -1,0 +1,21 @@
+---
+created: 2024-10-13T22:43:24+03:00
+aliases:
+  - "Ame to Kusari (YT Size)"
+  - "Candy and Chains"
+Cover: "[[otetsu - Ame to Kusari (Short Version).jpg]]"
+Year: 2015
+Album: ""
+CoverOf: ""
+Creators:
+  - "[[otetsu (🎙️ 401)]]"
+ListenInSec: 240
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[otetsu - Ame to Kusari (Short Version).m4a]]"
+---
+
+# otetsu - Ame to Kusari (Short Version)
+
+![[otetsu - Ame to Kusari (Short Version).m4a]]

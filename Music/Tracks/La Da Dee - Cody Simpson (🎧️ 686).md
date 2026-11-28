@@ -1,0 +1,20 @@
+---
+created: 2023-09-29T16:23:25+03:00
+aliases:
+  - "La Da Dee"
+Cover: "[[Cody Simpson - Surfers Paradise.jpg]]"
+Year: 2013
+Album: ""
+CoverOf: ""
+Creators:
+  - "[[Cody Simpson (🎙️ 264)]]"
+ListenInSec: 234
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[Cody Simpson - La Da Dee.mp3]]"
+---
+
+# Cody Simpson - La Da Dee
+
+![[Cody Simpson - La Da Dee.mp3]]

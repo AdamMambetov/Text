@@ -4,12 +4,12 @@ aliases:
   - "Fire"
 Cover: "[[The Score - Carry On.jpg]]"
 Year: 2020
-Album: "[[Carry On]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[The Score (🎙️ 461)]]"
 ListenInSec: 474
-NumberInAlbum: 4
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[The Score - Fire.mp3]]"

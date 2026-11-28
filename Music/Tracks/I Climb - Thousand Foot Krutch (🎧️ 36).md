@@ -9,7 +9,7 @@ CoverOf: ""
 Creators:
   - "[[Thousand Foot Krutch (🎙️ 466)]]"
 ListenInSec: 201
-NumberInAlbum: 1
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Thousand Foot Krutch - I Climb.mp3]]"

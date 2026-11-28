@@ -10,7 +10,7 @@ Creators:
   - "[[Shawn Wasabi (🎙️ 610)]]"
   - "[[YUNG GEMMY (🎙️ 611)]]"
 ListenInSec: 169
-NumberInAlbum: 1
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Shawn Wasabi ft. YUNG GEMMY - Burnt Rice.mp3]]"

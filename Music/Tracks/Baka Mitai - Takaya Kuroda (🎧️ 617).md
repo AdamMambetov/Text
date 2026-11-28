@@ -9,7 +9,7 @@ CoverOf: ""
 Creators:
   - "[[Takaya Kuroda (🎙️ 840)]]"
 ListenInSec: 295
-NumberInAlbum: 1
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Yakuza OST - Baka Mitai.mp3]]"

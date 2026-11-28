@@ -1,0 +1,22 @@
+---
+created: 2024-10-30T19:30:00+03:00
+aliases:
+  - "Glitz At The Ritz"
+Cover: "[[Jules Gaia - Razzmatazz.jpg]]"
+Year: 2016
+Album: ""
+CoverOf: ""
+Creators:
+  - "[[Jules Gaia (🎙️ 905)]]"
+ListenInSec: 148
+Marks:
+  - "[[Meme]]"
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[Jules Gaia - Glitz At The Ritz.mp3]]"
+---
+
+# Jules Gaia - Glitz At The Ritz
+
+![[Jules Gaia - Glitz At The Ritz.mp3]]

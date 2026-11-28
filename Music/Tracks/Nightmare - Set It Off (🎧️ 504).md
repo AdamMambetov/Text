@@ -4,12 +4,12 @@ aliases:
   - "Nightmare"
 Cover: "[[Set It Off - Cinematics.jpg]]"
 Year: 2013
-Album: "[[Cinematics]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[Set It Off (🎙️ 434)]]"
 ListenInSec: 202
-NumberInAlbum: 2
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Set It Off - Nightmare.mp3]]"

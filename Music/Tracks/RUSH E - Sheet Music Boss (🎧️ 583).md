@@ -12,10 +12,10 @@ Genres:
   - "[[Orchestral]]"
 ListenInSec: 1015
 Marks:
-  - "[[Meme]]"
   - "[[Instrumental]]"
+  - "[[Meme]]"
   - "[[Solo instrument]]"
-NumberInAlbum: 1
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Sheet Music Boss - RUSH E.mp3]]"

@@ -4,12 +4,12 @@ aliases:
   - "Hear Me Now"
 Cover: "[[Hollywood Undead - American Tragedy.jpg]]"
 Year: 2011
-Album: "[[American Tragedy]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[Hollywood Undead (🎙️ 328)]]"
 ListenInSec: 215
-NumberInAlbum: 6
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Hollywood Undead - Hear Me Now.mp3]]"

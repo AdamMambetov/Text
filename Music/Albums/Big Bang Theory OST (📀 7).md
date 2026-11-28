@@ -7,6 +7,6 @@ Cover: "[[Big Bang Theory OST.jpg]]"
 Year: 2007
 Creators: []
 tracklist:
-  - "[[Big Bang Theory Theme - Barenaked Ladies (🎧️ 848)]]"
+  - "[[Big Bang Theory Theme - Barenaked Ladies (🎧️ 847)]]"
 ---
 

@@ -10,7 +10,7 @@ Creators:
   - "[[Snails (🎙️ 559)]]"
   - "[[Pegboard Nerds (🎙️ 560)]]"
 ListenInSec: 618
-NumberInAlbum: 1
+NumberInAlbum: 0
 related: []
 source:
 SourceFile: "[[Snails & Pegboard Nerds - Deep In The Night.mp3]]"

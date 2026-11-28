@@ -4,7 +4,7 @@ aliases:
   - "Don't Stop Me Now"
 Cover: "[[Queen.jpg]]"
 Year: 2000
-Album: "[[The Platinum Collection]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[Queen (🎙️ 418)]]"
@@ -13,7 +13,7 @@ Genres:
 ListenInSec: 211
 Marks:
   - "[[Progressive]]"
-NumberInAlbum: 7
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Queen - Don't Stop Me Now.mp3]]"

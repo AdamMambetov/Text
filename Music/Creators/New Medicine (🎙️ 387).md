@@ -2,7 +2,7 @@
 created: 2025-11-19T23:56:08+03:00
 aliases:
   - "New Medicine"
-ListenInSec: 361
+ListenInSec: 575
 ---
 
 # New Medicine

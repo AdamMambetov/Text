@@ -4,7 +4,7 @@ aliases:
   - "Home"
 Cover: "[[Spider-Man Into the Spider-Verse OST.jpg]]"
 Year: 2018
-Album: "[[Spider-Man Into the Spider-Verse OST (📀 24)]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[Vince Staples (🎙️ 552)]]"
@@ -12,7 +12,7 @@ ListenInSec: -211
 Marks:
   - "[[Film]]"
   - "[[OST]]"
-NumberInAlbum: 13
+NumberInAlbum: 0
 related: []
 source:
 SourceFile: "[[Spider-Man Into the Spider-Verse OST - Home.mp3]]"

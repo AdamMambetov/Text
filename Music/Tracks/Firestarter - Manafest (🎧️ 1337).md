@@ -1,0 +1,20 @@
+---
+created: 2024-10-30T19:17:10+03:00
+aliases:
+  - "Firestarter"
+Cover: "[[Manafest - Stones.jpg]]"
+Year: 2017
+Album: ""
+CoverOf: ""
+Creators:
+  - "[[Manafest (🎙️ 898)]]"
+ListenInSec: 407
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[Manafest - Firestarter.mp3]]"
+---
+
+# Manafest - Firestarter
+
+![[Manafest - Firestarter.mp3]]

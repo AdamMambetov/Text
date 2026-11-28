@@ -4,12 +4,12 @@ aliases:
   - "Hall of Fame"
 Cover: "[[The Script - 3.jpg]]"
 Year: 2012
-Album: "[[#3 [2012] {The Script; will.i.am}]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[The Script (🎙️ 462)]]"
 ListenInSec: 211
-NumberInAlbum: 3
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[The Script - Hall of Fame.mp3]]"

@@ -4,12 +4,12 @@ aliases:
   - "Die By The Blade"
 Cover: "[[Beast In Black - Die By The Blade.jpg]]"
 Year: 2019
-Album: "[[From Hell With Love]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[Beast In Black (🎙️ 215)]]"
 ListenInSec: 247
-NumberInAlbum: 5
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Beast In Black - Die By The Blade.mp3]]"

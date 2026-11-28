@@ -8,14 +8,14 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Porno Graffitti (🎙️ 414)]]"
+Genres: []
 ListenInSec: 259
 Marks: []
 NumberInAlbum: 0
 related:
-  - "[[The Day (TV Size) - Porno Graffitti (🎧️ 1075)]]"
+  - "[[The Day (TV Size) - Porno Graffitti (🎧️ 1074)]]"
 source: ""
 SourceFile: "[[Porno Graffitti - The Day.mp3]]"
-Genres: []
 sources:
   - "[[Моя геройская академия (🇯🇵📺 483)|Моя геройская академия|opening:1]]"
 ---

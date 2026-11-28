@@ -2,7 +2,7 @@
 created: 2026-08-19T14:05:39+03:00
 aliases:
   - "Mr. Magic"
-ListenInSec: 0
+ListenInSec: 206
 ---
 
 # Mr. Magic

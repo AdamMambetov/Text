@@ -4,14 +4,14 @@ aliases:
   - "The Big Black"
 Cover: "[[_No Album Art.jpg]]"
 Year: 2009
-Album: "[[TQBF - Speedkore 4 Kidz!]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[The Quick Brown Fox (🎙️ 460)]]"
 Genres:
   - "[[Dance]]"
 ListenInSec: 399
-NumberInAlbum: 1
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[The Quick Brown Fox - The Big Black.mp3]]"

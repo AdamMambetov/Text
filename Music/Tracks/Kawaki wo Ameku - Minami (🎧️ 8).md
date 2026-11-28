@@ -10,14 +10,13 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Minami (🎙️ 376)]]"
+Genres: []
 ListenInSec: 1008
 Marks: []
-NumberInAlbum: 1
-related:
-  - "[[Kawaki wo Ameku (TV Size) - Minami]]"
+NumberInAlbum: 0
+related: []
 source: https://youtu.be/0YF8vecQWYs?si=tcYQxPSXtQYL6Lye
 SourceFile: "[[Minami - Kawaki wo Ameku.mp3]]"
-Genres: []
 sources:
   - "[[Домашняя девушка (🇯🇵📺 424)|Домашняя девушка|opening:1]]"
 ---

@@ -1,0 +1,20 @@
+---
+created: 2023-09-29T16:32:50+03:00
+aliases:
+  - "Kokou no Sousei"
+Cover: "[[Yousei Teikoku - GOTHIC LOLITA PROPAGANDA.jpg]]"
+Year: 2007
+Album: ""
+CoverOf: ""
+Creators:
+  - "[[Yousei Teikoku (🎙️ 275)]]"
+ListenInSec: 567
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[Yousei Teikoku - Kokou no Sousei.mp3]]"
+---
+
+# Yousei Teikoku - Kokou no Sousei
+
+![[Yousei Teikoku - Kokou no Sousei.mp3]]

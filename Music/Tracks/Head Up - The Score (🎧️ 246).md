@@ -4,12 +4,12 @@ aliases:
   - "Head Up"
 Cover: "[[The Score - Metamorph.jpg]]"
 Year: 2022
-Album: "[[Metamorph [2022] {The Score}]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[The Score (🎙️ 461)]]"
 ListenInSec: 170
-NumberInAlbum: 2
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[The Score - Head Up.mp3]]"

@@ -4,12 +4,12 @@ aliases:
   - "Lightning Strike"
 Cover: "[[Escape The Fate - Chemical Warfare.jpg]]"
 Year: 2021
-Album: "[[Chemical Warfare]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[Escape The Fate (🎙️ 301)]]"
 ListenInSec: 269
-NumberInAlbum: 1
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Escape The Fate - Lightning Strike.mp3]]"

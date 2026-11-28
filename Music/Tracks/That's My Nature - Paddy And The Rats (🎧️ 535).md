@@ -4,12 +4,12 @@ aliases:
   - "That's My Nature"
 Cover: "[[Paddy And The Rats - Lonely Hearts' Boulevard.jpg]]"
 Year: 2015
-Album: "[[Lonely Hearts' Boulevard]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[Paddy And The Rats (🎙️ 405)]]"
 ListenInSec: 225
-NumberInAlbum: 5
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Paddy And The Rats - That's My Nature.mp3]]"

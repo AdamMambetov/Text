@@ -8,13 +8,13 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[fripSide (🎙️ 562)]]"
+Genres: []
 ListenInSec: 1381
 Marks: []
 NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[fripSide - black bullet (TV Size).mp3]]"
-Genres: []
 sources:
   - "[[Чëрная пуля (🇯🇵📺 105)|Чëрная пуля|opening:1]]"
 ---

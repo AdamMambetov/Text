@@ -1,0 +1,20 @@
+---
+created: 2024-10-23T15:24:38+03:00
+aliases:
+  - "Not Long For This World"
+Cover: "[[_No Album Art.jpg]]"
+Year: 2024
+Album: ""
+CoverOf: ""
+Creators:
+  - "[[Игорь Куликов (🎙️ 71)]]"
+ListenInSec: 1270
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[Игорь Куликов - Not Long For This World.mp3]]"
+---
+
+# Игорь Куликов - Not Long For This World
+
+![[Игорь Куликов - Not Long For This World.mp3]]

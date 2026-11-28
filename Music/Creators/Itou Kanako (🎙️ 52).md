@@ -2,7 +2,7 @@
 created: 2025-06-30T07:20:33+03:00
 aliases:
   - "Itou Kanako"
-ListenInSec: 6114
+ListenInSec: 6219
 ---
 
 # Itou Kanako

@@ -8,18 +8,17 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[MYTH & ROID (🎙️ 382)]]"
-ListenInSec: 528
-Marks:
-  - "[[Anime]]"
+Genres: []
+ListenInSec: 532
+Marks: []
 NumberInAlbum: 0
 related:
-  - "[[VORACITY (TV Size) - MYTH & ROID (🎧️ 2091)]]"
+  - "[[VORACITY (TV Size) - MYTH & ROID (🎧️ 2090)]]"
 source: ""
 SourceFile: "[[MYTH & ROID - VORACITY.mp3]]"
-Genres: []
 sources:
-  - "[[Повелитель (🇯🇵📺 441)|Повелитель|opening:3]]"
   - "[[Повелитель 3 (🇯🇵📺 514)|Повелитель 3|opening:1]]"
+  - "[[Повелитель (🇯🇵📺 441)|Повелитель|opening:3]]"
 ---
 
 # MYTH & ROID - VORACITY

@@ -9,7 +9,7 @@ CoverOf: ""
 Creators:
   - "[[SakiZ (🎙️ 609)]]"
 ListenInSec: 475
-NumberInAlbum: 1
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[SakiZ - osu!memories.mp3]]"

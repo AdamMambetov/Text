@@ -4,12 +4,12 @@ aliases:
   - "Million Miles Away"
 Cover: "[[The Offspring - Conspiracy Of One.jpg]]"
 Year: 2000
-Album: "[[Conspiracy Of One [2000] {The Offspring}]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[The Offspring (🎙️ 457)]]"
 ListenInSec: 235
-NumberInAlbum: 5
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[The Offspring - Million Miles Away.mp3]]"

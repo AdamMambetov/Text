@@ -11,7 +11,7 @@ Creators:
 Genres:
   - "[[Dance]]"
   - "[[Pop]]"
-ListenInSec: 2735
+ListenInSec: 2950
 Marks:
   - "[[Meme]]"
 NumberInAlbum: 0

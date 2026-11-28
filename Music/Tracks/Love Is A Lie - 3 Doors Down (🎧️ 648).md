@@ -4,12 +4,12 @@ aliases:
   - "Love Is A Lie"
 Cover: "[[3 Doors Down - Us and the Night.jpg]]"
 Year: 0
-Album: ""
+Album: "[[Us And The Night (📀 31)]]"
 CoverOf: ""
 Creators:
   - "[[3 Doors Down (🎙️ 32)]]"
 ListenInSec: 207
-NumberInAlbum: 0
+NumberInAlbum: 9
 related: []
 source: ""
 SourceFile: "[[3 Doors Down - Love Is A Lie.mp3]]"

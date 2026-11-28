@@ -4,16 +4,16 @@ aliases:
   - "All Star"
 Cover: "[[Smash Mouth - Astro Lounge.jpg]]"
 Year: 1999
-Album: ""
+Album: "[[Shrek 1 OST (📀 77)]]"
 CoverOf: ""
 Creators:
   - "[[Smash Mouth (🎙️ 440)]]"
 ListenInSec: 345
 Marks:
   - "[[Film]]"
-  - "[[OST]]"
   - "[[Meme]]"
-NumberInAlbum: 0
+  - "[[OST]]"
+NumberInAlbum: 9
 related: []
 source: ""
 SourceFile: "[[Smash Mouth - All Star.mp3]]"

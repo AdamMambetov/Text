@@ -4,12 +4,12 @@ aliases:
   - "Let The Bad Times Roll"
 Cover: "[[The Offspring - Let The Bad Times Roll.jpg]]"
 Year: 2021
-Album: "[[Let The Bad Times Roll [2021] {The Offspring}]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[The Offspring (🎙️ 457)]]"
 ListenInSec: 208
-NumberInAlbum: 2
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[The Offspring - Let The Bad Times Roll.mp3]]"

@@ -4,15 +4,15 @@ aliases:
   - "Mas Que Nada"
 Cover: "[[Luiz Henrique - Mas Que Nada.png]]"
 Year: 1967
-Album: "[[Barra Limpa [1967] {Luiz Henrique}]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[Luiz Henrique (🎙️ 553)]]"
 ListenInSec: 596
 Marks:
-  - "[[Series]]"
   - "[[OST]]"
-NumberInAlbum: 8
+  - "[[Series]]"
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Luiz Henrique - Mas Que Nada.mp3]]"

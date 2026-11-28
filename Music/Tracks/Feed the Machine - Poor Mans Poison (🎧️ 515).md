@@ -4,12 +4,12 @@ aliases:
   - "Feed the Machine"
 Cover: "[[Poor Mans Poison - Feed the Machine.png]]"
 Year: 2020
-Album: "[[Feed the Machine]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[Poor Mans Poison (🎙️ 413)]]"
 ListenInSec: 202
-NumberInAlbum: 1
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Poor Mans Poison - Feed the Machine.mp3]]"

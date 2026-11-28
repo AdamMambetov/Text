@@ -1,0 +1,21 @@
+---
+created: 2023-09-29T16:23:50+03:00
+aliases:
+  - "Monsters"
+Cover: "[[All Time Low - Wake Up, Sunshine.jpg]]"
+Year: 2020
+Album: ""
+CoverOf: ""
+Creators:
+  - "[[All Time Low (🎙️ 169)]]"
+  - "[[blackbear (🎙️ 223)]]"
+ListenInSec: 174
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[All Time Low - Monsters.mp3]]"
+---
+
+# All Time Low - Monsters
+
+![[All Time Low - Monsters.mp3]]

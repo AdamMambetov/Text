@@ -14,7 +14,7 @@ Genres:
 ListenInSec: 979
 NumberInAlbum: 0
 related:
-  - "[[Out of Death - Plamenev (🎧️ 901)]]"
+  - "[[Out of Death - Plamenev (🎧️ 900)]]"
 source: ""
 SourceFile: "[[Plamenev - Вне смерти.mp3]]"
 ---

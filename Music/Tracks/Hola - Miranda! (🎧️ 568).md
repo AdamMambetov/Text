@@ -4,12 +4,12 @@ aliases:
   - "Hola"
 Cover: "[[_No Album Art.jpg]]"
 Year: 2008
-Album: "[[El Disco de Tu Corazón]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[Miranda! (🎙️ 644)]]"
 ListenInSec: 196
-NumberInAlbum: 1
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Miranda! - Hola.mp3]]"

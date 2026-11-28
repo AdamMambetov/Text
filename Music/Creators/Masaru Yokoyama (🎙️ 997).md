@@ -2,7 +2,7 @@
 created: 2026-09-04T17:44:05+03:00
 aliases:
   - "Masaru Yokoyama"
-ListenInSec: 2746
+ListenInSec: 3133
 ---
 
 # Masaru Yokoyama

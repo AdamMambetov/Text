@@ -4,17 +4,17 @@ aliases:
   - "Lagtrain"
 Cover: "[[Will Stetson - Lagtrain.jpg]]"
 Year: 2021
-Album: "[[Rainy Tunes]]"
+Album: ""
 CoverOf: "[[Lagtrain - inabakumori (🎧️ 4)]]"
 Creators:
   - "[[Will Stetson (🎙️ 479)]]"
 Genres:
-  - "[[Pop]]"
   - "[[Electronic]]"
+  - "[[Pop]]"
 ListenInSec: 628
 Marks:
   - "[[Cover]]"
-NumberInAlbum: 1
+NumberInAlbum: 0
 related: []
 source: https://youtu.be/BEnZ0VgQAXw?si=TMjxl_MWg7yteCs9
 SourceFile: "[[Will Stetson - Lagtrain.mp3]]"

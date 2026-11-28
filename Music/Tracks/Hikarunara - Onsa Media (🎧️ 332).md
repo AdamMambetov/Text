@@ -6,12 +6,12 @@ aliases:
   - "Моя апрельская ложь OP 1"
 Cover: "[[Onsa Media - Hikaru Nara.png]]"
 Year: 2022
-Album: "[[Hikaru Nara]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[Onsa Media (🎙️ 400)]]"
 ListenInSec: 505
-NumberInAlbum: 1
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Onsa Media - Hikaru Nara.mp3]]"

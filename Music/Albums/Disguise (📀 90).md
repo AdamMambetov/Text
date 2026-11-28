@@ -14,7 +14,7 @@ tracklist:
   - "Legacy"
   - "Undead Ahead 2: The Tale of the Midnight Ride"
   - "Holding on to Smoke"
-  - "[[Another Life - Motionless In White (🎧️ 1162)]]"
+  - "[[Another Life - Motionless In White (🎧️ 1161)]]"
   - "Broadcasting From Beyond the Grave: Death Inc."
   - "Brand New Numb"
   - "Catharsis"

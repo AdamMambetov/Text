@@ -4,12 +4,12 @@ aliases:
   - "Summertime Sadness"
 Cover: "[[Lana Del Rey - Born to Die The Paradise Edition.jpg]]"
 Year: 2012
-Album: "[[Born to Die: The Paradise Edition [2012] {Lana Del Rey}]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[Lana Del Rey (🎙️ 541)]]"
 ListenInSec: 289
-NumberInAlbum: 11
+NumberInAlbum: 0
 related: []
 source:
 SourceFile: "[[Lana Del Rey - Summertime Sadness.mp3]]"

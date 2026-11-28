@@ -8,7 +8,7 @@ Year: 2011
 Creators:
   - "[[Hans Zimmer (🎙️ 324)]]"
 tracklist:
-  - "[[End Credits - Hans Zimmer (🎧️ 747)]]"
+  - "[[End Credits - Hans Zimmer (🎧️ 746)]]"
 ---
 
 ![[Pirates of the Caribbean On Stranger Tides.jpg]]

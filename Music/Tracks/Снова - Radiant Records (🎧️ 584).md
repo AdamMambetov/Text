@@ -10,7 +10,7 @@ aliases:
 Cover: "[[Radiant Records - ПЕРЕПУТЬЕ.jpg]]"
 Year: 2017
 Album: "[[ПЕРЕПУТЬЕ (📀 33)]]"
-CoverOf: "[[Re.Re. - ASIAN KUNG-FU GENERATION (🎧️ 733)]]"
+CoverOf: "[[Re.Re. - ASIAN KUNG-FU GENERATION (🎧️ 732)]]"
 Creators:
   - "[[Radiant Records (🎙️ 39)]]"
   - "[[Radiant (🎙️ 40)]]"

@@ -9,13 +9,13 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
-CoverOf: "[[INNOCENCE - Aoi Eir (🎧️ 1436)]]"
+CoverOf: "[[INNOCENCE - Aoi Eir (🎧️ 1435)]]"
 Creators:
   - "[[Marie Bibika (🎙️ 372)]]"
 ListenInSec: 616
 NumberInAlbum: 0
 related:
-  - "[[INNOCENCE (TV Size) - Aoi Eir (🎧️ 1435)]]"
+  - "[[INNOCENCE (TV Size) - Aoi Eir (🎧️ 1434)]]"
 source: ""
 SourceFile: "[[Marie Bibika - INNOCENCE.mp3]]"
 ---

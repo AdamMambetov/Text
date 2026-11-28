@@ -10,10 +10,10 @@ source: https://youtube.com/playlist?list=PLnfa_HdbN_GN3g_9t8MVeMyzLURdhPZ-k&si=
 tracklist:
   - "Ai wa Omertà ~guitar vocal ver.~"
   - "Lanede Bell ~piano inst ver.~"
-  - "[[Last Note ~guitar vocal ver.~ - xaki (🎧️ 1974)]]"
-  - "[[Peace Eases ~piano inst ver.~ - xaki (🎧️ 1975)]]"
+  - "[[Last Note ~guitar vocal ver.~ - xaki (🎧️ 1973)]]"
+  - "[[Peace Eases ~piano inst ver.~ - xaki (🎧️ 1974)]]"
   - "Ai wa Omertà ~guitar vocal ver.~ [without vocal]"
-  - "[[Last Note ~guitar vocal ver.~ (without vocal) - xaki (🎧️ 1976)]]"
+  - "[[Last Note ~guitar vocal ver.~ (without vocal) - xaki (🎧️ 1975)]]"
   - "Rapa - Last Note ~another take ver.~"
   - "???"
 ---

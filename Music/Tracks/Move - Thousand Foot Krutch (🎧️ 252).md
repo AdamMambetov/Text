@@ -4,12 +4,12 @@ aliases:
   - "Move"
 Cover: "[[Thousand Foot Krutch - Thousand Foot Krutch Collection.jpg]]"
 Year: 2021
-Album: "[[Thousand Foot Krutch Collection [2021] {Thousand Foot Krutch}]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[Thousand Foot Krutch (🎙️ 466)]]"
 ListenInSec: 235
-NumberInAlbum: 2
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Thousand Foot Krutch - Move.mp3]]"

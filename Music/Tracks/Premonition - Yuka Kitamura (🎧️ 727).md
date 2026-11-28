@@ -1,0 +1,22 @@
+---
+created: 2023-09-29T16:24:07+03:00
+aliases:
+  - "Premonition"
+Cover: "[[Dark Souls 3 OST.png]]"
+Year: 2019
+Album: "[[Dark Souls 3 OST (📀 10)]]"
+CoverOf: ""
+Creators:
+  - "[[Yuka Kitamura (🎙️ 29)]]"
+ListenInSec: 333
+Marks:
+  - "[[OST]]"
+NumberInAlbum: 1
+related: []
+source: ""
+SourceFile: "[[Dark Souls 3 OST - 01 Premonition.mp3]]"
+---
+
+# Dark Souls 3 OST - 01 Premonition
+
+![[Dark Souls 3 OST - 01 Premonition.mp3]]

@@ -6,7 +6,7 @@ aliases:
 Cover: "[[Radiant Records - Магия.jpg]]"
 Year: 2013
 Album: "[[Магия (📀 35)]]"
-CoverOf: "[[Highschool of the Dead - The Akeboshi Rockets (🎧️ 1449)]]"
+CoverOf: "[[Highschool of the Dead - The Akeboshi Rockets (🎧️ 1448)]]"
 Creators:
   - "[[Radiant Records (🎙️ 39)]]"
   - "[[Molli (🎙️ 47)]]"

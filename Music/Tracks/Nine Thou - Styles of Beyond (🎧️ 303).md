@@ -4,14 +4,14 @@ aliases:
   - "Nine Thou"
 Cover: "[[Styles of Beyond - Nine Thou.jpg]]"
 Year: 2008
-Album: "[[Nine Thou [2008] {Styles of Beyond}]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[Styles of Beyond (🎙️ 546)]]"
 ListenInSec: 244
 Marks:
   - "[[Remix]]"
-NumberInAlbum: 1
+NumberInAlbum: 0
 related: []
 source:
 SourceFile: "[[Styles of Beyond - Nine Thou.mp3]]"

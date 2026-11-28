@@ -8,11 +8,11 @@ Creators:
   - "[[xaki (🎙️ 12)]]"
 source: https://youtube.com/playlist?list=PLnfa_HdbN_GN5BjGyVpeuwPZ3-rFs__kb&si=szj_hnvmMu61jCvg
 tracklist:
-  - "[[ballade-continue ~piano inst ver.~ - xaki (🎧️ 1948)]]"
-  - "[[Senritsu -Sirabe- ~guitar vocal ver.~ - xaki (🎧️ 1949)]]"
+  - "[[ballade-continue ~piano inst ver.~ - xaki (🎧️ 1947)]]"
+  - "[[Senritsu -Sirabe- ~guitar vocal ver.~ - xaki (🎧️ 1948)]]"
   - "257-ban Nantoka bun no 1 ~piano&guitar inst ver.~"
   - "Parallel World ~piano vocal ver.~"
-  - "[[Senritsu -Sirabe- ~guitar vocal ver.~ (without vocal) - xaki (🎧️ 1950)]]"
+  - "[[Senritsu -Sirabe- ~guitar vocal ver.~ (without vocal) - xaki (🎧️ 1949)]]"
   - "Parallel World ~piano vocal ver.~ (without vocal)"
   - "visita-le"
   - "dazzle-dazed"

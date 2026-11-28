@@ -4,12 +4,12 @@ aliases:
   - "Skyfall"
 Cover: "[[Our Last Night - Age of Ignorance.jpg]]"
 Year: 2012
-Album: "[[Age Of Ignorance [2012] {Our Last Night}]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[Our Last Night (🎙️ 491)]]"
 ListenInSec: 242
-NumberInAlbum: 13
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Our Last Night - Skyfall.mp3]]"

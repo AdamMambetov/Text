@@ -12,7 +12,7 @@ CoverOf: "[[Sugar Song to Bitter Step - UNISON SQUARE GARDEN (🎧️ 606)]]"
 Creators:
   - "[[Jackie-O (🎙️ 337)]]"
 ListenInSec: 552
-NumberInAlbum: 1
+NumberInAlbum: 0
 related: []
 SourceFile: "[[Jackie-O - Sugar Song to Bitter Step.mp3]]"
 ---

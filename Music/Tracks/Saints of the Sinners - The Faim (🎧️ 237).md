@@ -4,12 +4,12 @@ aliases:
   - "Saints of the Sinners"
 Cover: "[[The Faim - Saints of the Sinners.jpg]]"
 Year: 2018
-Album: "[[Saints of the Sinners [2018] {The Faim}]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[The Faim (🎙️ 535)]]"
 ListenInSec: 184
-NumberInAlbum: 1
+NumberInAlbum: 0
 related: []
 source:
 SourceFile: "[[The Faim - Saints of the Sinners.mp3]]"

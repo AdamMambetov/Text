@@ -8,8 +8,8 @@ Year: 2006
 Creators:
   - "[[Susumu Hirasawa (🎙️ 450)]]"
 tracklist:
-  - "[[The Girl in Byakkoya - White Tiger Field - Susumu Hirasawa (🎧️ 810)]]"
-  - "[[Parade - Susumu Hirasawa (🎧️ 1987)]]"
+  - "[[The Girl in Byakkoya - White Tiger Field - Susumu Hirasawa (🎧️ 809)]]"
+  - "[[Parade - Susumu Hirasawa (🎧️ 1986)]]"
 ---
 
 ![[Paprika OST.jpg]]

@@ -4,12 +4,12 @@ aliases:
   - "One Last Ale"
 Cover: "[[Paddy And The Rats - One Last Ale.jpg]]"
 Year: 2018
-Album: "[[Riot City Outlaws]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[Paddy And The Rats (🎙️ 405)]]"
 ListenInSec: 382
-NumberInAlbum: 8
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Paddy And The Rats - One Last Ale.mp3]]"

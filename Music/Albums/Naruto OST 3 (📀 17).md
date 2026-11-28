@@ -12,7 +12,7 @@ tracklist:
   - "[[Beautiful Green Wild Beast - Toshio Masuda (🎧️ 381)]]"
   - "Sakura Season"
   - "Fake"
-  - "[[A Crisis After Another - Toshio Masuda (🎧️ 1626)]]"
+  - "[[A Crisis After Another - Toshio Masuda (🎧️ 1625)]]"
   - "[[Rock Lee's Theme - Toshio Masuda (🎧️ 382)]]"
   - "Dance"
   - "Ultimate Secrets"

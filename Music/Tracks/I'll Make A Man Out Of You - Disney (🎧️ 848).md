@@ -1,0 +1,23 @@
+---
+created: 2023-09-29T16:29:21+03:00
+aliases:
+  - "I'll Make A Man Out Of You"
+Cover: "[[Mulan.jpg]]"
+Year: 1998
+Album: "[[Mulan OST (📀 14)]]"
+CoverOf: ""
+Creators:
+  - "[[Disney (🎙️ 284)]]"
+ListenInSec: 204
+Marks:
+  - "[[Film]]"
+  - "[[OST]]"
+NumberInAlbum: 1
+related: []
+source: ""
+SourceFile: "[[Mulan OST - I'll Make A Man Out Of You.mp3]]"
+---
+
+# Mulan OST - I'll Make A Man Out Of You
+
+![[Mulan OST - I'll Make A Man Out Of You.mp3]]

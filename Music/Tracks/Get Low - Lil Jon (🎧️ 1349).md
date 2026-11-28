@@ -1,0 +1,21 @@
+---
+created: 2024-10-30T19:26:48+03:00
+aliases:
+  - "Get Low"
+Cover: "[[Lil Jon & The East Side Boyz - Kings of Crunk.jpg]]"
+Year: 2002
+Album: ""
+CoverOf: ""
+Creators:
+  - "[[Lil Jon (🎙️ 903)]]"
+  - "[[The East Side Boyz (🎙️ 904)]]"
+ListenInSec: 414
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[Lil Jon & The East Side Boyz - Get Low.mp3]]"
+---
+
+# Lil Jon & The East Side Boyz - Get Low
+
+![[Lil Jon & The East Side Boyz - Get Low.mp3]]

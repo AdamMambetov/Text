@@ -1,0 +1,22 @@
+---
+created: 2024-10-13T23:42:58+03:00
+aliases:
+  - "departure!"
+  - "Hunter X Hunter OP 1"
+  - "Хантер х Хантер OP 1"
+Cover: "[[_No Album Art.jpg]]"
+Year: 2020
+Album: ""
+CoverOf: ""
+Creators:
+  - "[[Игорь Куликов (🎙️ 71)]]"
+ListenInSec: 746
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[Игорь Куликов - departure!.mp3]]"
+---
+
+# Игорь Куликов - Departure!
+
+![[Игорь Куликов - departure!.mp3]]

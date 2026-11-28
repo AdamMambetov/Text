@@ -9,7 +9,7 @@ CoverOf: ""
 Creators:
   - "[[GALNERYUS (🎙️ 313)]]"
 ListenInSec: 213
-NumberInAlbum: 1
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[GALNERYUS - RAISE MY SWORD.mp3]]"

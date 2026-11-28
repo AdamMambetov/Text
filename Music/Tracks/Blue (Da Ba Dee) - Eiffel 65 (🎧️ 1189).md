@@ -1,0 +1,22 @@
+---
+created: 2024-10-13T22:26:38+03:00
+aliases:
+  - "Blue (Da Ba Dee)"
+Cover: "[[Eiffel 65 - Blue (Da Ba Dee).jpg]]"
+Year: 1998
+Album: ""
+CoverOf: ""
+Creators:
+  - "[[Eiffel 65 (🎙️ 298)]]"
+ListenInSec: 303
+Marks:
+  - "[[Meme]]"
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[Eiffel 65 - Blue (Da Ba Dee).mp3]]"
+---
+
+# Eiffel 65 - Blue (Da Ba Dee)
+
+![[Eiffel 65 - Blue (Da Ba Dee).mp3]]

@@ -1,0 +1,27 @@
+---
+created: 2026-06-23T14:08:15+03:00
+aliases:
+  - "Parade (Live Hybrid Phonon)"
+Cover: "[[Susumu Hirasawa - Parade (Live Hybrid Phonon).jpg]]"
+Year: 2017
+Album: ""
+CoverOf: ""
+Creators:
+  - "[[Susumu Hirasawa (🎙️ 450)]]"
+ListenInSec: 8058
+Marks:
+  - "[[Live]]"
+NumberInAlbum: 0
+related:
+  - "[[Parade - Susumu Hirasawa (🎧️ 1986)]]"
+SourceFile: "[[Susumu Hirasawa - Parade (Live Hybrid Phonon).mp3]]"
+---
+
+# Parade (Live Hybrid Phonon)
+
+![[Susumu Hirasawa - Parade (Live Hybrid Phonon).mp3]]
+
+## Related Tracks
+
+![[related tracks.base]]
+

@@ -4,12 +4,12 @@ aliases:
   - "Rogue"
 Cover: "[[Paddy And The Rats - Lonely Hearts' Boulevard.jpg]]"
 Year: 2015
-Album: "[[Lonely Hearts' Boulevard]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[Paddy And The Rats (🎙️ 405)]]"
 ListenInSec: 293
-NumberInAlbum: 4
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Paddy And The Rats - Rogue.mp3]]"

@@ -4,12 +4,12 @@ aliases:
   - "I Just Wanna Run"
 Cover: "[[The Downtown Fiction - Let's Be Animals.jpg]]"
 Year: 2011
-Album: "[[Let's Be Animals [2011] {The Downtown Fiction}]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[The Downtown Fiction (🎙️ 534)]]"
 ListenInSec: 584
-NumberInAlbum: 4
+NumberInAlbum: 0
 related: []
 source:
 SourceFile: "[[The Downtown Fiction - I Just Wanna Run.mp3]]"

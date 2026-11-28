@@ -9,7 +9,7 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
-CoverOf: "[[IGNITE (TV Size) - Aoi Eir (🎧️ 1094)]]"
+CoverOf: "[[IGNITE (TV Size) - Aoi Eir (🎧️ 1093)]]"
 Creators:
   - "[[Marie Bibika (🎙️ 372)]]"
 ListenInSec: -96

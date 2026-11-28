@@ -9,8 +9,8 @@ CoverOf: ""
 Creators:
   - "[[inabakumori (🎙️ 334)]]"
 Genres:
-  - "[[Pop]]"
   - "[[Electronic]]"
+  - "[[Pop]]"
 ListenInSec: 549
 Marks:
   - "[[Game]]"

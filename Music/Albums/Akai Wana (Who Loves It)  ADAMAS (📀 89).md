@@ -8,7 +8,7 @@ Creators:
   - "[[LiSA (🎙️ 65)]]"
 tracklist:
   - "Akai Wana (Who Loves It?)"
-  - "[[ADAMAS - LiSA (🎧️ 1144)]]"
+  - "[[ADAMAS - LiSA (🎧️ 1143)]]"
   - "Spicy World"
   - "Akai Wana (Who Loves It?) (Instrumental)"
 ---

@@ -4,16 +4,16 @@ aliases:
   - "MEGALOVANIA"
 Cover: "[[Toby Fox - MEGALOVANIA.jpg]]"
 Year: 2015
-Album: "[[UNDERTALE Soundtrack]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[Toby Fox (🎙️ 563)]]"
 ListenInSec: 184
 Marks:
   - "[[Game]]"
-  - "[[OST]]"
   - "[[Meme]]"
-NumberInAlbum: 100
+  - "[[OST]]"
+NumberInAlbum: 0
 related: []
 source:
 SourceFile: "[[Toby Fox - MEGALOVANIA.mp3]]"

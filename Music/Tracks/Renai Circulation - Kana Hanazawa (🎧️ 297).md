@@ -9,12 +9,11 @@ CoverOf: ""
 Creators:
   - "[[Kana Hanazawa (🎙️ 186)]]"
 Genres: []
-ListenInSec: 518
-Marks:
-  - "[[Anime]]"
+ListenInSec: 523
+Marks: []
 NumberInAlbum: 0
 related:
-  - "[[Renai Circulation (TV Size) - Kana Hanazawa (🎧️ 1421)]]"
+  - "[[Renai Circulation (TV Size) - Kana Hanazawa (🎧️ 1420)]]"
 source: ""
 SourceFile: "[[Kana Hanazawa - Renai Circulation.mp3]]"
 sources:

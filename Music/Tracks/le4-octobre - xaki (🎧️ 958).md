@@ -1,0 +1,20 @@
+---
+created: 2024-04-12T15:00:10+03:00
+aliases:
+  - "le4-octobre"
+  - "4 октября"
+Cover: "[[Umineko no Naku Koro Ni OST 1.jpg]]"
+Year: 2007
+Album: "[[Umineko no Naku Koro ni OST (📀 30)]]"
+CoverOf: ""
+Creators:
+  - "[[xaki (🎙️ 12)]]"
+ListenInSec: 4991
+Marks:
+  - "[[OST]]"
+NumberInAlbum: 129
+related:
+  - "[[le4-octobre 〜piano inst ver.〜 - xaki (🎧️ 1954)]]"
+SourceFile: "[[Umineko no Naku Koro ni OST - 162 4 октября.ogg]]"
+---
+

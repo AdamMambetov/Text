@@ -4,12 +4,12 @@ aliases:
   - "On Top of the World"
 Cover: "[[Tim McMorris - On Top of the World.jpg]]"
 Year: 2015
-Album: "[[On Top of the World [2015] {Tim McMorris}]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[Tim McMorris (🎙️ 468)]]"
 ListenInSec: 218
-NumberInAlbum: 1
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Tim McMorris - On Top of the World.mp3]]"

@@ -8,13 +8,12 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[NIGHTMARE (🎙️ 665)]]"
-ListenInSec: 5743
-Marks:
-  - "[[Anime]]"
+Genres: []
+ListenInSec: 5748
+Marks: []
 NumberInAlbum: 0
 related: []
 SourceFile: "[[NIGHTMARE - the WORLD.mp3]]"
-Genres: []
 sources:
   - "[[Тетрадь смерти (🇯🇵📺 533)|Тетрадь смерти|opening:1]]"
 ---

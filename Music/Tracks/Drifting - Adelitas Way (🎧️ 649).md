@@ -4,12 +4,12 @@ aliases:
   - "Drifting"
 Cover: "[[Adelitas Way - Live, Love, Life.jpg]]"
 Year: 2018
-Album: "[[Live, Love, Life]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[Adelitas Way (🎙️ 153)]]"
 ListenInSec: 181
-NumberInAlbum: 2
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Adelitas Way - Drifting.mp3]]"

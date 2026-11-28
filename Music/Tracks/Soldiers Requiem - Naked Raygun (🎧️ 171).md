@@ -4,7 +4,7 @@ aliases:
   - "Soldiers Requiem"
 Cover: "[[Naked Raygun - Jettison.jpg]]"
 Year: 1988
-Album: ""
+Album: "[[Watch Dogs OST (📀 80)]]"
 CoverOf: ""
 Creators:
   - "[[Naked Raygun (🎙️ 521)]]"
@@ -12,7 +12,7 @@ ListenInSec: 364
 Marks:
   - "[[Game]]"
   - "[[OST]]"
-NumberInAlbum: 0
+NumberInAlbum: 4
 related: []
 source: ""
 SourceFile: "[[Naked Raygun - Soldiers Requiem.mp3]]"

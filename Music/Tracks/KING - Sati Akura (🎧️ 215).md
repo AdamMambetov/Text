@@ -5,7 +5,7 @@ aliases:
 Cover: "[[Sati Akura - KING.jpg]]"
 Year: 2021
 Album: ""
-CoverOf: "[[KING - Kanaria]]"
+CoverOf: ""
 Creators:
   - "[[Sati Akura (🎙️ 355)]]"
 ListenInSec: 291

@@ -1,0 +1,20 @@
+---
+created: 2024-10-13T22:53:58+03:00
+aliases:
+  - "Cocaine"
+Cover: "[[Nomy - Song or Suicide.jpg]]"
+Year: 2008
+Album: ""
+CoverOf: ""
+Creators:
+  - "[[Nomy (🎙️ 394)]]"
+ListenInSec: 252
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[Nomy - Cocaine.mp3]]"
+---
+
+# Nomy - Cocaine
+
+![[Nomy - Cocaine.mp3]]

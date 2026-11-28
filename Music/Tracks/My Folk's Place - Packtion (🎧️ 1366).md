@@ -1,0 +1,20 @@
+---
+created: 2024-12-12T21:10:50+03:00
+aliases:
+  - "My Folk's Place"
+Cover: "[[_No Album Art.jpg]]"
+Year: 2021
+Album: ""
+CoverOf: ""
+Creators:
+  - "[[Packtion (🎙️ 913)]]"
+ListenInSec: 814
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[Packtion - My Folk's Place.mp3]]"
+---
+
+# Packtion - My Folk's Place
+
+![[Packtion - My Folk's Place.mp3]]

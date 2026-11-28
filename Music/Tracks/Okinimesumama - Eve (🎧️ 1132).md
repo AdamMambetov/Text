@@ -1,0 +1,25 @@
+---
+created: 2024-10-05T15:58:20+03:00
+aliases:
+  - "Okinimesumama"
+  - "As You Like It"
+  - "Как тебе будет угодно"
+Cover: "[[Eve - Bunka.jpg]]"
+Year: 2017
+Album: ""
+CoverOf: ""
+Creators:
+  - "[[Eve (🎙️ 34)]]"
+Genres:
+  - "[[Pop]]"
+  - "[[Pop rock]]"
+ListenInSec: 236
+NumberInAlbum: 0
+related: []
+source: https://youtu.be/nROvY9uiYYk?si=Np6zADYB3LgixLHI
+SourceFile: "[[Eve - Okinimesumama.mp3]]"
+---
+
+# Eve - Okinimesumama
+
+![[Eve - Okinimesumama.mp3]]

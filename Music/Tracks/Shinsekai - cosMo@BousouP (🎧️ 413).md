@@ -10,7 +10,7 @@ Creators:
   - "[[cosMo@BousouP (🎙️ 569)]]"
   - "[[Hatsune Miku (🎙️ 570)]]"
 ListenInSec: 390
-NumberInAlbum: 1
+NumberInAlbum: 0
 related: []
 source:
 SourceFile: "[[cosMo@BousouP feat. Hatsune Miku - Shinsekai.mp3]]"

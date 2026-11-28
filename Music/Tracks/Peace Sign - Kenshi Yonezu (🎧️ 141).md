@@ -8,13 +8,13 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Kenshi Yonezu (🎙️ 349)]]"
+Genres: []
 ListenInSec: 242
 Marks: []
 NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Kenshi Yonezu - Peace Sign.mp3]]"
-Genres: []
 sources:
   - "[[Моя геройская академия (🇯🇵📺 483)|Моя геройская академия|opening:2]]"
 ---

@@ -4,7 +4,7 @@ aliases:
   - "Heathens"
 Cover: "[[Suicide Squad The Album.jpg]]"
 Year: 2016
-Album: ""
+Album: "[[Suicide Squad The Album (📀 25)]]"
 CoverOf: ""
 Creators:
   - "[[twenty one pilots (🎙️ 471)]]"
@@ -12,7 +12,7 @@ ListenInSec: 204
 Marks:
   - "[[Film]]"
   - "[[OST]]"
-NumberInAlbum: 0
+NumberInAlbum: 1
 related: []
 SourceFile: "[[twenty one pilots - Heathens.mp3]]"
 ---

@@ -2,7 +2,7 @@
 created: 2025-11-19T22:48:57+03:00
 aliases:
   - "Caravan Palace"
-ListenInSec: 243
+ListenInSec: 247
 ---
 
 # Caravan Palace

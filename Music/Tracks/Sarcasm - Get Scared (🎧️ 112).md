@@ -9,8 +9,8 @@ CoverOf: ""
 Creators:
   - "[[Get Scared (🎙️ 504)]]"
 Genres:
-  - "[[Rock]]"
   - "[[Metal]]"
+  - "[[Rock]]"
 ListenInSec: 173
 NumberInAlbum: 0
 related: []

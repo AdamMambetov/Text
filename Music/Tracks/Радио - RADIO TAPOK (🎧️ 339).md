@@ -6,7 +6,7 @@ aliases:
 Cover: "[[RADIO TAPOK - Радио.jpg]]"
 Year: 2020
 Album: ""
-CoverOf: "[[Radio - Rammstein (🎧️ 863)]]"
+CoverOf: "[[Radio - Rammstein (🎧️ 862)]]"
 Creators:
   - "[[RADIO TAPOK (🎙️ 419)]]"
 ListenInSec: 320

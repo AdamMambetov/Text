@@ -16,7 +16,7 @@ Creators:
   - "[[Ryosuke Nikamoto (🎙️ 592)]]"
   - "[[Takayuki Sasaki (🎙️ 593)]]"
 ListenInSec: 599
-NumberInAlbum: 1
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[ZUTOMAYO - Kan Saete Kuyashiiwa.mp3]]"

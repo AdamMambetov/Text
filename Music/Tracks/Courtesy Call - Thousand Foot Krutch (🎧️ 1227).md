@@ -1,0 +1,20 @@
+---
+created: 2024-10-13T23:07:02+03:00
+aliases:
+  - "Courtesy Call"
+Cover: "[[Thousand Foot Krutch - The End Is Where We Begin.jpg]]"
+Year: 2012
+Album: ""
+CoverOf: ""
+Creators:
+  - "[[Thousand Foot Krutch (🎙️ 466)]]"
+ListenInSec: 284
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[Thousand Foot Krutch - Courtesy Call.mp3]]"
+---
+
+# Thousand Foot Krutch - Courtesy Call
+
+![[Thousand Foot Krutch - Courtesy Call.mp3]]

@@ -4,12 +4,12 @@ aliases:
   - "Someday"
 Cover: "[[FlipSyde - We The People.jpg]]"
 Year: 2005
-Album: "[[We The People]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[FlipSyde (🎙️ 556)]]"
 ListenInSec: -242
-NumberInAlbum: 1
+NumberInAlbum: 0
 related: []
 source:
 SourceFile: "[[FlipSyde - Someday.mp3]]"

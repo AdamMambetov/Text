@@ -4,7 +4,7 @@ aliases:
   - "Come Hell or High Water"
 Cover: "[[Native Construct - Quiet World.jpg]]"
 Year: 2015
-Album: "[[Quiet World]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[Native Construct (🎙️ 385)]]"
@@ -13,9 +13,9 @@ Genres:
   - "[[Other]]"
 ListenInSec: 168
 Marks:
-  - "[[Progressive]]"
   - "[[Indie]]"
-NumberInAlbum: 5
+  - "[[Progressive]]"
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Native Construct - Come Hell or High Water.mp3]]"

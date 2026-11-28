@@ -4,12 +4,12 @@ aliases:
   - "Still Waiting"
 Cover: "[[Sum 41 - Still Waiting.jpg]]"
 Year: 2002
-Album: "[[Does This Look Infected? [2002] {Sum 41}]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[Sum 41 (🎙️ 445)]]"
 ListenInSec: 175
-NumberInAlbum: 4
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Sum 41 - Still Waiting.mp3]]"

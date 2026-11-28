@@ -1,0 +1,20 @@
+---
+created: 2024-10-13T22:22:44+03:00
+aliases:
+  - "Now You're Gone"
+Cover: "[[Basshunter - Now You're Gone.jpg]]"
+Year: 2008
+Album: ""
+CoverOf: ""
+Creators:
+  - "[[Basshunter (🎙️ 213)]]"
+ListenInSec: 165
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[Basshunter - Now You're Gone.mp3]]"
+---
+
+# Basshunter - Now You're Gone
+
+![[Basshunter - Now You're Gone.mp3]]

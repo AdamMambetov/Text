@@ -8,13 +8,13 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Karen Aoki (🎙️ 647)]]"
+Genres: []
 ListenInSec: 968
 Marks: []
 NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Karen Aoki - Great Days.mp3]]"
-Genres: []
 sources:
   - "[[Невероятное приключение ДжоДжо 1-2. Призрачная кровьСтремление к бою (🇯🇵📺 485)|Невероятное приключение ДжоДжо 1-2: Призрачная кровь/Стремление к бою|opening:7]]"
 ---

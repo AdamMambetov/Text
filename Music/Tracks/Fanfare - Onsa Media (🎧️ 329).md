@@ -5,12 +5,12 @@ aliases:
   - "Я хочу съесть твою поджелудочную OP 1"
 Cover: "[[Onsa Media - Fanfare.png]]"
 Year: 2021
-Album: "[[Fanfare]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[Onsa Media (🎙️ 400)]]"
 ListenInSec: 358
-NumberInAlbum: 1
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Onsa Media - Fanfare.mp3]]"

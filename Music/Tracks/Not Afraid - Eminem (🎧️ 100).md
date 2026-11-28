@@ -9,7 +9,7 @@ CoverOf: ""
 Creators:
   - "[[Eminem (🎙️ 290)]]"
 ListenInSec: 458
-NumberInAlbum: -1
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Eminem - Not Afraid.mp3]]"

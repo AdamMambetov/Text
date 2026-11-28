@@ -1,0 +1,22 @@
+---
+created: 2024-10-08T15:36:44+03:00
+aliases:
+  - "Take On Me"
+Cover: "[[a-ha - Take on Me.jpg]]"
+Year: 1985
+Album: ""
+CoverOf: ""
+Creators:
+  - "[[a-ha (🎙️ 142)]]"
+ListenInSec: 925
+Marks:
+  - "[[Meme]]"
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[a-ha - Take on Me.mp3]]"
+---
+
+# a-ha - Take on Me
+
+![[a-ha - Take on Me.mp3]]

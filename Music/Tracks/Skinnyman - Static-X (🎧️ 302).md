@@ -4,12 +4,12 @@ aliases:
   - "Skinnyman"
 Cover: "[[Static-X - Start a War.jpg]]"
 Year: 2005
-Album: "[[Start a War [2005] {Static-X}]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[Static-X (🎙️ 545)]]"
 ListenInSec: 210
-NumberInAlbum: 6
+NumberInAlbum: 0
 related: []
 source:
 SourceFile: "[[Static-X - Skinnyman.mp3]]"

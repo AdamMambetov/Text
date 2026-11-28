@@ -8,14 +8,13 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Yousei Teikoku (🎙️ 275)]]"
-ListenInSec: 3128
-Marks:
-  - "[[Anime]]"
+Genres: []
+ListenInSec: 3372
+Marks: []
 NumberInAlbum: 0
 related:
-  - "[[Kuusou Mesorogiwi (TV Size) - Yousei Teikoku (🎧️ 1080)]]"
+  - "[[Kuusou Mesorogiwi (TV Size) - Yousei Teikoku (🎧️ 1079)]]"
 SourceFile: "[[Yousei Teikoku - Kuusou Mesorogiwi.mp3]]"
-Genres: []
 sources:
   - "[[Дневник будущего (🇯🇵📺 418)|Дневник будущего|opening:1]]"
 ---

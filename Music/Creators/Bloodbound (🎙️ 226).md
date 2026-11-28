@@ -2,7 +2,7 @@
 created: 2025-11-19T22:45:38+03:00
 aliases:
   - "Bloodbound"
-ListenInSec: 228
+ListenInSec: 232
 ---
 
 # Bloodbound

@@ -2,7 +2,7 @@
 created: 2026-02-23T17:32:53+03:00
 aliases:
   - "The Dark Tenor"
-ListenInSec: 0
+ListenInSec: 278
 ---
 
 # The Dark Tenor

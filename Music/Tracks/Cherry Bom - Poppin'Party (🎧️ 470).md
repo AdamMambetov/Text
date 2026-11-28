@@ -9,7 +9,7 @@ CoverOf: ""
 Creators:
   - "[[Poppin'Party (🎙️ 600)]]"
 ListenInSec: 264
-NumberInAlbum: 1
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Poppin'Party - Cherry Bomb.mp3]]"

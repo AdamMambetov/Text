@@ -9,7 +9,7 @@ aliases:
 Cover: "[[Sati Akura - IGNITE.jpg]]"
 Year: 2022
 Album: ""
-CoverOf: "[[IGNITE - Aoi Eir]]"
+CoverOf: ""
 Creators:
   - "[[Sati Akura (🎙️ 355)]]"
 ListenInSec: 260

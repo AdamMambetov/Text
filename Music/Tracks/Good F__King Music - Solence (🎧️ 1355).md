@@ -1,0 +1,20 @@
+---
+created: 2024-10-30T19:31:24+03:00
+aliases:
+  - "Good F**King Music"
+Cover: "[[Solence - Deafening.jpg]]"
+Year: 2021
+Album: ""
+CoverOf: ""
+Creators:
+  - "[[Solence (🎙️ 441)]]"
+ListenInSec: 206
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[Solence - Good F__King Music.mp3]]"
+---
+
+# Solence - Good F__King Music
+
+![[Solence - Good F__King Music.mp3]]

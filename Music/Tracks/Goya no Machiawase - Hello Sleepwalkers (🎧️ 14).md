@@ -8,14 +8,13 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Hello Sleepwalkers (🎙️ 326)]]"
+Genres: []
 ListenInSec: 381
 Marks: []
 NumberInAlbum: 0
-related:
-  - "[[Goya no Machiawase (TV Size) - Hello Sleepwalkers]]"
+related: []
 source: ""
 SourceFile: "[[Hello Sleepwalkers - Goya no Machiawase.mp3]]"
-Genres: []
 sources:
   - "[[Noragami (🇯🇵📺 4)|Noragami|opening:1]]"
 ---

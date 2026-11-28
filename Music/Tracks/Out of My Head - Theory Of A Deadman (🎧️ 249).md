@@ -4,12 +4,12 @@ aliases:
   - "Out of My Head"
 Cover: "[[Theory Of A Deadman - The Truth Is....jpg]]"
 Year: 2011
-Album: "[[The Truth Is... [2011] {Theory Of A Deadman}]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[Theory Of A Deadman (🎙️ 464)]]"
 ListenInSec: 251
-NumberInAlbum: 4
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Theory Of A Deadman - Out of My Head.mp3]]"

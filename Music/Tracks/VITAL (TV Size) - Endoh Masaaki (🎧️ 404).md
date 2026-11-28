@@ -8,13 +8,13 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[Endoh Masaaki (🎙️ 565)]]"
+Genres: []
 ListenInSec: 1494
 Marks: []
 NumberInAlbum: 0
 related: []
 source:
 SourceFile: "[[Endoh Masaaki - VITAL (TV Size).mp3]]"
-Genres: []
 sources:
   - "[[Satsuriku no Tenshi (🇯🇵📺 367)|Satsuriku no Tenshi|opening:1]]"
 ---

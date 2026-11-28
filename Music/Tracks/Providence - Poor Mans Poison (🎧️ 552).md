@@ -4,12 +4,12 @@ aliases:
   - "Providence"
 Cover: "[[Poor Mans Poison - Providence.jpg]]"
 Year: 2014
-Album: "[[Providence]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[Poor Mans Poison (🎙️ 413)]]"
 ListenInSec: 171
-NumberInAlbum: 1
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Poor Mans Poison - Providence.mp3]]"

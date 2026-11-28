@@ -1,0 +1,20 @@
+---
+created: 2024-06-14T12:53:21+03:00
+aliases:
+  - "NIGHT SKOOP"
+Cover: "[[Long Shot Party - distance.jpg]]"
+Year: 2008
+Album: ""
+CoverOf: ""
+Creators:
+  - "[[Long Shot Party (🎙️ 364)]]"
+ListenInSec: 346
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[Long Shot Party - NIGHT SKOOP.mp3]]"
+---
+
+# Long Shot Party - NIGHT SKOOP
+
+![[Long Shot Party - NIGHT SKOOP.mp3]]

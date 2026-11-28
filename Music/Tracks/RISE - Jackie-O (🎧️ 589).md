@@ -5,7 +5,7 @@ aliases:
 Cover: "[[_No Album Art.jpg]]"
 Year: 0
 Album: ""
-CoverOf: "[[RISE - MADKID (🎧️ 2089)]]"
+CoverOf: "[[RISE - MADKID (🎧️ 2088)]]"
 Creators:
   - "[[Jackie-O (🎙️ 337)]]"
 ListenInSec: 455

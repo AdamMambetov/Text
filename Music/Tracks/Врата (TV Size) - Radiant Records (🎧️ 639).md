@@ -5,13 +5,13 @@ aliases:
 Cover: "[[Radiant Records - Септима.jpg]]"
 Year: 0
 Album: ""
-CoverOf: "[[Hacking to the Gate (TV Size) - Itou Kanako (🎧️ 1092)]]"
+CoverOf: "[[Hacking to the Gate (TV Size) - Itou Kanako (🎧️ 1091)]]"
 Creators:
   - "[[Radiant Records (🎙️ 39)]]"
 ListenInSec: 284
 NumberInAlbum: 0
 related:
-  - "[[Врата - Radiant Records (🎧️ 1329)]]"
+  - "[[Врата - Radiant Records (🎧️ 1328)]]"
 source: ""
 SourceFile: "[[Radiant Records - Врата (TV Size).mp3]]"
 ---

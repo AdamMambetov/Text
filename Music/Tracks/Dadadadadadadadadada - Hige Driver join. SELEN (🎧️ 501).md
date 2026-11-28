@@ -9,7 +9,7 @@ CoverOf: ""
 Creators:
   - "[[Hige Driver join. SELEN (🎙️ 621)]]"
 ListenInSec: 198
-NumberInAlbum: 1
+NumberInAlbum: 0
 related: []
 source: https://osu.ppy.sh/beatmapsets/2473608#osu/5421590
 SourceFile: "[[Hige Driver join. SELEN - Dadadadadadadadadada.mp3]]"

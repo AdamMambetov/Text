@@ -8,13 +8,13 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[OxT (🎙️ 649)]]"
+Genres: []
 ListenInSec: 513
 Marks: []
 NumberInAlbum: 0
 related:
-  - "[[HIGHEST (TV Size) - OxT (🎧️ 1862)]]"
+  - "[[HIGHEST (TV Size) - OxT (🎧️ 1861)]]"
 SourceFile: "[[OxT - HIGHEST.mp3]]"
-Genres: []
 sources:
   - "[[Kage no Jitsuryokusha ni Naritakute! (🇯🇵📺 30)|Kage no Jitsuryokusha ni Naritakute!|opening:1]]"
 ---

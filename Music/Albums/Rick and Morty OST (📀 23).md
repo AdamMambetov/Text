@@ -7,7 +7,7 @@ Cover: "[[Rick and Morty.jpg]]"
 Year: 2018
 Creators: []
 tracklist:
-  - "[[Rick and Morty Theme - Ryan Elder (🎧️ 808)]]"
+  - "[[Rick and Morty Theme - Ryan Elder (🎧️ 807)]]"
 ---
 
 ![[Rick and Morty.jpg]]

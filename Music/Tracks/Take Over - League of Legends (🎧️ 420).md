@@ -4,12 +4,12 @@ aliases:
   - "Take Over"
 Cover: "[[League of Legends - Take Over.jpg]]"
 Year: 2020
-Album: "[[Take Over [2020] {League of Legends; Jeremy McKinnon; MAX; Henry}]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[League of Legends (🎙️ 73)]]"
 ListenInSec: 213
-NumberInAlbum: 1
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[League of Legends - Take Over.mp3]]"

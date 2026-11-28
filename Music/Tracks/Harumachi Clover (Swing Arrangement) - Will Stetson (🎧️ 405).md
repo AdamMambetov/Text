@@ -9,7 +9,7 @@ CoverOf: "[[Harumachi Clover (TV Size) - Hanasaka Yui (🎧️ 397)]]"
 Creators:
   - "[[Will Stetson (🎙️ 479)]]"
 ListenInSec: 190
-NumberInAlbum: 1
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Will Stetson - Harumachi Clover (Swing Arrangement).mp3]]"

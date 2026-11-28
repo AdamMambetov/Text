@@ -5,7 +5,7 @@ aliases:
 Cover: "[[Jackie-O - Fuyu No Hanashi.png]]"
 Year: 2020
 Album: ""
-CoverOf: "[[Fuyu No Hanashi - Given]]"
+CoverOf: ""
 Creators:
   - "[[Jackie-O (🎙️ 337)]]"
 ListenInSec: 422

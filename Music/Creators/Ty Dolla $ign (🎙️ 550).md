@@ -2,7 +2,7 @@
 created: 2026-01-24T14:27:13+03:00
 aliases:
   - "Ty Dolla $ign"
-ListenInSec: -187
+ListenInSec: -233
 ---
 
 # Ty Dolla $ign

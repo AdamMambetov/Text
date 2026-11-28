@@ -9,7 +9,7 @@ CoverOf: ""
 Creators:
   - "[[Fitz and The Tantrums (🎙️ 634)]]"
 ListenInSec: 137
-NumberInAlbum: 2
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Fitz & The Tantrums - HandClap.mp3]]"

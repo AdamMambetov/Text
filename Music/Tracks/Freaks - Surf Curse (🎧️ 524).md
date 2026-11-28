@@ -4,7 +4,7 @@ aliases:
   - "Freaks"
 Cover: "[[Surf Curse - Freaks.png]]"
 Year: 2021
-Album: "[[Freaks]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[Surf Curse (🎙️ 447)]]"
@@ -13,7 +13,7 @@ Genres:
 ListenInSec: 341
 Marks:
   - "[[Indie]]"
-NumberInAlbum: 1
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Surf Curse - Freaks.mp3]]"

@@ -1,0 +1,20 @@
+---
+created: 2024-10-23T14:37:50+03:00
+aliases:
+  - "E.T."
+Cover: "[[Katy Perry - E.T..jpg]]"
+Year: 2010
+Album: ""
+CoverOf: ""
+Creators:
+  - "[[Katy Perry (🎙️ 348)]]"
+ListenInSec: 306
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[Katy Perry - E.T..mp3]]"
+---
+
+# Katy Perry - E.T.
+
+![[Katy Perry - E.T..mp3]]

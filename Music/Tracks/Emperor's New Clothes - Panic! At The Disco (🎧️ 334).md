@@ -4,12 +4,12 @@ aliases:
   - "Emperor's New Clothes"
 Cover: "[[Panic! At The Disco - House of Memories.jpg]]"
 Year: 2016
-Album: "[[Death of a Bachelor]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[Panic! At The Disco (🎙️ 408)]]"
 ListenInSec: 178
-NumberInAlbum: 4
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Panic! At The Disco - Emperor's New Clothes.mp3]]"

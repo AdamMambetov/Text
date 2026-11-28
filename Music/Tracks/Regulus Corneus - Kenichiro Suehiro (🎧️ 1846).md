@@ -1,0 +1,28 @@
+---
+created: 2025-11-19T02:31:28+03:00
+aliases:
+  - "Regulus Corneus"
+Cover: "[[ReZero 3 OST.jpg]]"
+Year: 2025
+Album: "[[ReZero 3 OST (📀 48)]]"
+CoverOf: ""
+Creators:
+  - "[[Kenichiro Suehiro (🎙️ 748)]]"
+ListenInSec: 316
+Marks:
+  - "[[Anime]]"
+  - "[[OST]]"
+NumberInAlbum: 12
+related: []
+source: ""
+SourceFile: "[[ReZero 3 OST - 12 Regulus Corneus.mp3]]"
+---
+
+`$=dv.header(1, dv.current().aliases[0])`
+
+![[ReZero 3 OST - 12 Regulus Corneus.mp3]]
+
+## Related Tracks
+
+![[related tracks.base]]
+

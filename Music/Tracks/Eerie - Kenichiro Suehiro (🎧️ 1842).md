@@ -1,0 +1,29 @@
+---
+created: 2025-11-19T02:13:30+03:00
+aliases:
+  - "Eerie"
+Cover: "[[ReZero The Frozen Bond OST.jpg]]"
+Year: 0
+Album: ""
+CoverOf: ""
+Creators:
+  - "[[Kenichiro Suehiro (🎙️ 748)]]"
+ListenInSec: 334
+Marks:
+  - "[[Anime]]"
+  - "[[Film]]"
+  - "[[OST]]"
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[ReZero The Frozen Bond OST - 6 Eerie.mp3]]"
+---
+
+`$=dv.header(1, dv.current().aliases[0])`
+
+![[ReZero The Frozen Bond OST - 6 Eerie.mp3]]
+
+## Related Tracks
+
+![[related tracks.base]]
+

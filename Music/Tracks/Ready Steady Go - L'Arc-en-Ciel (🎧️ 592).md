@@ -8,13 +8,13 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[L'Arc-en-Ciel (🎙️ 707)]]"
+Genres: []
 ListenInSec: 2235
 Marks: []
 NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[L'Arc-en-Ciel - Ready Steady Go.mp3]]"
-Genres: []
 sources:
   - "[[Стальной алхимик (🇯🇵📺 983)|Стальной алхимик|opening:2]]"
 ---

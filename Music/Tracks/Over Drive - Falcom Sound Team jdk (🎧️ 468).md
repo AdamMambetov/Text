@@ -9,7 +9,7 @@ CoverOf: ""
 Creators:
   - "[[Falcom Sound Team jdk (🎙️ 599)]]"
 ListenInSec: 377
-NumberInAlbum: 1
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Falcom Sound Team jdk - OVER DRIVE.mp3]]"

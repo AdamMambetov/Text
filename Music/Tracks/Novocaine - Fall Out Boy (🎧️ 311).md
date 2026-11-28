@@ -4,12 +4,12 @@ aliases:
   - "Novocaine"
 Cover: "[[Fall Out Boy - American Beauty - American Psycho.jpg]]"
 Year: 2015
-Album: "[[American Beauty/American Psycho [2015] {Fall Out Boy}]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[Fall Out Boy (🎙️ 304)]]"
 ListenInSec: 281
-NumberInAlbum: 7
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Fall Out Boy - Novocaine.mp3]]"

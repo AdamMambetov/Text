@@ -9,7 +9,7 @@ CoverOf: ""
 Creators:
   - "[[USAO (🎙️ 616)]]"
 ListenInSec: 369
-NumberInAlbum: 1
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[USAO - Dynamite (Extended Mix).mp3]]"

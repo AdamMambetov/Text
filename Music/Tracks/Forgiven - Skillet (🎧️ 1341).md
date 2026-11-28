@@ -1,0 +1,20 @@
+---
+created: 2024-10-30T19:20:24+03:00
+aliases:
+  - "Forgiven"
+Cover: "[[Skillet - Awake.jpg]]"
+Year: 2009
+Album: ""
+CoverOf: ""
+Creators:
+  - "[[Skillet (🎙️ 438)]]"
+ListenInSec: 185
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[Skillet - Forgiven.mp3]]"
+---
+
+# Skillet - Forgiven
+
+![[Skillet - Forgiven.mp3]]

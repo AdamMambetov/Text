@@ -5,7 +5,7 @@ aliases:
 Cover: "[[Onsa Media - Uragirimono no Requiem.jpg]]"
 Year: 0
 Album: ""
-CoverOf: "[[Uragirimono no Requiem - Daisuke Hasegawa (🎧️ 1679)]]"
+CoverOf: "[[Uragirimono no Requiem - Daisuke Hasegawa (🎧️ 1678)]]"
 Creators:
   - "[[Onsa Media (🎙️ 400)]]"
 ListenInSec: 409

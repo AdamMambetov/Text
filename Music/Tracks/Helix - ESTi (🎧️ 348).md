@@ -4,12 +4,12 @@ aliases:
   - "Helix"
 Cover: "[[ESTi - HELIX.jpg]]"
 Year: 2013
-Album: "[[Helix [2013] {ESTi}]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[ESTi (🎙️ 302)]]"
 ListenInSec: 192
-NumberInAlbum: 1
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[ESTi - Helix.mp3]]"

@@ -8,13 +8,13 @@ Album: ""
 CoverOf: ""
 Creators:
   - "[[YO-KING (🎙️ 483)]]"
+Genres: []
 ListenInSec: 701
 Marks: []
 NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[YO-KING - Tooi Nioi.mp3]]"
-Genres: []
 sources:
   - "[[Гинтама (🇯🇵📺 480)|Гинтама|opening:2]]"
 ---

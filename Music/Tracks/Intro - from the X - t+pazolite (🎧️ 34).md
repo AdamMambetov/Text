@@ -4,7 +4,7 @@ aliases:
   - "Intro - from the X"
 Cover: "[[t+pazolite - Answer from X Girlz.jpg]]"
 Year: 2011
-Album: "[[Answer from X Girlz]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[t+pazolite (🎙️ 452)]]"

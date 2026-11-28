@@ -1,0 +1,21 @@
+---
+created: 2024-10-23T14:30:18+03:00
+aliases:
+  - "Don't Worry"
+Cover: "[[Madcon - Don't Worry.jpg]]"
+Year: 2015
+Album: ""
+CoverOf: ""
+Creators:
+  - "[[Madcon (🎙️ 755)]]"
+  - "[[Ray Dalton (🎙️ 516)]]"
+ListenInSec: 205
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[Madcon - Don't Worry.mp3]]"
+---
+
+# Madcon - Don't Worry
+
+![[Madcon - Don't Worry.mp3]]

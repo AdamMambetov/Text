@@ -4,12 +4,12 @@ aliases:
   - "Indestructible"
 Cover: "[[Solence - Deafening.jpg]]"
 Year: 2021
-Album: "[[Deafening [2021] {Solence}]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[Solence (🎙️ 441)]]"
 ListenInSec: 203
-NumberInAlbum: 1
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Solence - Indestructible.mp3]]"

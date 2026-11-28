@@ -4,12 +4,12 @@ aliases:
   - "Colours on My Shield"
 Cover: "[[Civil War - Colours on My Shield.jpg]]"
 Year: 2015
-Album: "[[Gods & Generals]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[Civil War (🎙️ 261)]]"
 ListenInSec: 337
-NumberInAlbum: 12
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Civil War - Colours on My Shield.mp3]]"

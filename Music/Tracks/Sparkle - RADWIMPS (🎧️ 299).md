@@ -4,7 +4,7 @@ aliases:
   - "Sparkle"
 Cover: "[[RADWIMPS - Sparkle.jpg]]"
 Year: 2016
-Album: "[[Human Bloom [2016] {RADWIMPS}]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[RADWIMPS (🎙️ 543)]]"
@@ -13,7 +13,7 @@ Marks:
   - "[[Anime]]"
   - "[[Film]]"
   - "[[OST]]"
-NumberInAlbum: 12
+NumberInAlbum: 0
 related: []
 source:
 SourceFile: "[[RADWIMPS - Sparkle.mp3]]"

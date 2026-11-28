@@ -9,7 +9,7 @@ CoverOf: ""
 Creators:
   - "[[Jimmy Gnecco (🎙️ 839)]]"
 ListenInSec: 872
-NumberInAlbum: 1
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Metal Gear Rising Revengeance OST - It Has To Be This Way.mp3]]"

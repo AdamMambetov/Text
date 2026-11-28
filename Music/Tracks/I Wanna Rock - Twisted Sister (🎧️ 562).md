@@ -4,12 +4,12 @@ aliases:
   - "I Wanna Rock"
 Cover: "[[Twisted Sister - Twisted Sister Essentials.jpg]]"
 Year: 2002
-Album: "[[Twisted Sister: Essentials]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[Twisted Sister (🎙️ 472)]]"
 ListenInSec: 177
-NumberInAlbum: 2
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Twisted Sister - I Wanna Rock.mp3]]"

@@ -1,0 +1,20 @@
+---
+created: 2023-09-29T16:23:23+03:00
+aliases:
+  - "Kiss Me You Animal"
+Cover: "[[Burn The Ballroom - Kiss Me You Animal.jpg]]"
+Year: 2019
+Album: ""
+CoverOf: ""
+Creators:
+  - "[[Burn the Ballroom (🎙️ 241)]]"
+ListenInSec: 251
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[Burn The Ballroom - Kiss Me You Animal.mp3]]"
+---
+
+# Burn The Ballroom - Kiss Me You Animal
+
+![[Burn The Ballroom - Kiss Me You Animal.mp3]]

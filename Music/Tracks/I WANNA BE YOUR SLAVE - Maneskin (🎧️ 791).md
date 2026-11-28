@@ -1,0 +1,20 @@
+---
+created: 2023-09-29T16:25:11+03:00
+aliases:
+  - "I WANNA BE YOUR SLAVE"
+Cover: "[[Maneskin - Teatro d’ira Vol. I.jpg]]"
+Year: 2021
+Album: ""
+CoverOf: ""
+Creators:
+  - "[[Maneskin (🎙️ 371)]]"
+ListenInSec: 174
+NumberInAlbum: 0
+related: []
+source: ""
+SourceFile: "[[Maneskin - I WANNA BE YOUR SLAVE.mp3]]"
+---
+
+# Maneskin - I WANNA BE YOUR SLAVE
+
+![[Maneskin - I WANNA BE YOUR SLAVE.mp3]]

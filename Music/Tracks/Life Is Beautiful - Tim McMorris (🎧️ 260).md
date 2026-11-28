@@ -4,12 +4,12 @@ aliases:
   - "Life Is Beautiful"
 Cover: "[[Tim McMorris - Alive.jpg]]"
 Year: 2014
-Album: "[[Alive [2014] {Tim McMorris}]]"
+Album: ""
 CoverOf: ""
 Creators:
   - "[[Tim McMorris (🎙️ 468)]]"
 ListenInSec: 268
-NumberInAlbum: 9
+NumberInAlbum: 0
 related: []
 source: ""
 SourceFile: "[[Tim McMorris - Life Is Beautiful.mp3]]"
